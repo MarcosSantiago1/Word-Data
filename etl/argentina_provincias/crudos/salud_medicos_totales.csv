@@ -1,0 +1,289 @@
+anio,provincia_residencia,medicos
+2012,Buenos Aires,55127
+2012,Catamarca,1190
+2012,Chaco,3006
+2012,Chubut,2071
+2012,Ciudad Autónoma de Buenos Aires,58283
+2012,Corrientes,3504
+2012,Córdoba,18393
+2012,Entre Ríos,4422
+2012,Formosa,1211
+2012,Jujuy,1836
+2012,La Pampa,1297
+2012,La Rioja,1350
+2012,Mendoza,7580
+2012,Misiones,2349
+2012,Neuquén,2998
+2012,Río Negro,3118
+2012,Salta,3779
+2012,San Juan,2590
+2012,San Luis,1745
+2012,Santa Cruz,1065
+2012,Santa Fe,16657
+2012,Santiago del Estero,1972
+2012,Tierra del Fuego,813
+2012,Tucumán,6039
+2013,Buenos Aires,56337
+2013,Catamarca,1191
+2013,Chaco,3095
+2013,Chubut,2124
+2013,Ciudad Autónoma de Buenos Aires,59943
+2013,Corrientes,3600
+2013,Córdoba,18872
+2013,Entre Ríos,4540
+2013,Formosa,1247
+2013,Jujuy,1890
+2013,La Pampa,1328
+2013,La Rioja,1371
+2013,Mendoza,7823
+2013,Misiones,2407
+2013,Neuquén,3096
+2013,Río Negro,3187
+2013,Salta,3847
+2013,San Juan,2652
+2013,San Luis,1786
+2013,Santa Cruz,1097
+2013,Santa Fe,17206
+2013,Santiago del Estero,2015
+2013,Tierra del Fuego,854
+2013,Tucumán,6147
+2014,Buenos Aires,57710
+2014,Catamarca,1232
+2014,Chaco,3158
+2014,Chubut,2166
+2014,Ciudad Autónoma de Buenos Aires,61966
+2014,Corrientes,3680
+2014,Córdoba,19339
+2014,Entre Ríos,4663
+2014,Formosa,1267
+2014,Jujuy,1976
+2014,La Pampa,1353
+2014,La Rioja,1440
+2014,Mendoza,8044
+2014,Misiones,2466
+2014,Neuquén,3184
+2014,Río Negro,3271
+2014,Salta,3965
+2014,San Juan,2737
+2014,San Luis,1818
+2014,Santa Cruz,1124
+2014,Santa Fe,17613
+2014,Santiago del Estero,2041
+2014,Tierra del Fuego,886
+2014,Tucumán,6312
+2015,Buenos Aires,58888
+2015,Catamarca,1260
+2015,Chaco,3200
+2015,Chubut,2222
+2015,Ciudad Autónoma de Buenos Aires,63761
+2015,Corrientes,3742
+2015,Córdoba,19695
+2015,Entre Ríos,4760
+2015,Formosa,1291
+2015,Jujuy,2029
+2015,La Pampa,1364
+2015,La Rioja,1486
+2015,Mendoza,8260
+2015,Misiones,2525
+2015,Neuquén,3259
+2015,Río Negro,3320
+2015,Salta,4049
+2015,San Juan,2796
+2015,San Luis,1833
+2015,Santa Cruz,1152
+2015,Santa Fe,18056
+2015,Santiago del Estero,2077
+2015,Tierra del Fuego,916
+2015,Tucumán,6459
+2016,Buenos Aires,59711
+2016,Catamarca,1283
+2016,Chaco,3236
+2016,Chubut,2250
+2016,Ciudad Autónoma de Buenos Aires,65174
+2016,Corrientes,3799
+2016,Córdoba,20011
+2016,Entre Ríos,4845
+2016,Formosa,1300
+2016,Jujuy,2062
+2016,La Pampa,1386
+2016,La Rioja,1531
+2016,Mendoza,8241
+2016,Misiones,2557
+2016,Neuquén,3333
+2016,Río Negro,3373
+2016,Salta,4081
+2016,San Juan,2839
+2016,San Luis,1847
+2016,Santa Cruz,1163
+2016,Santa Fe,18487
+2016,Santiago del Estero,2094
+2016,Tierra del Fuego,938
+2016,Tucumán,6530
+2017,Buenos Aires,60496
+2017,Catamarca,1313
+2017,Chaco,3267
+2017,Chubut,2269
+2017,Ciudad Autónoma de Buenos Aires,68026
+2017,Corrientes,3862
+2017,Córdoba,20416
+2017,Entre Ríos,4944
+2017,Formosa,1329
+2017,Jujuy,2091
+2017,La Pampa,1400
+2017,La Rioja,1593
+2017,Mendoza,8429
+2017,Misiones,2588
+2017,Neuquén,3386
+2017,Río Negro,3434
+2017,Salta,4148
+2017,San Juan,2885
+2017,San Luis,1856
+2017,Santa Cruz,1170
+2017,Santa Fe,18950
+2017,Santiago del Estero,2107
+2017,Tierra del Fuego,954
+2017,Tucumán,6610
+2018,Buenos Aires,61352
+2018,Catamarca,1332
+2018,Chaco,3306
+2018,Chubut,2284
+2018,Ciudad Autónoma de Buenos Aires,70686
+2018,Corrientes,3967
+2018,Córdoba,20835
+2018,Entre Ríos,5056
+2018,Formosa,1345
+2018,Jujuy,2132
+2018,La Pampa,1424
+2018,La Rioja,1645
+2018,Mendoza,8588
+2018,Misiones,2670
+2018,Neuquén,3463
+2018,Río Negro,3490
+2018,Salta,4190
+2018,San Juan,2947
+2018,San Luis,1875
+2018,Santa Cruz,1189
+2018,Santa Fe,19394
+2018,Santiago del Estero,2120
+2018,Tierra del Fuego,976
+2018,Tucumán,6656
+2019,Buenos Aires,62065
+2019,Catamarca,1364
+2019,Chaco,3351
+2019,Chubut,2319
+2019,Ciudad Autónoma de Buenos Aires,73465
+2019,Corrientes,4050
+2019,Córdoba,21262
+2019,Entre Ríos,5177
+2019,Formosa,1370
+2019,Jujuy,2174
+2019,La Pampa,1443
+2019,La Rioja,1696
+2019,Mendoza,8693
+2019,Misiones,2718
+2019,Neuquén,3551
+2019,Río Negro,3565
+2019,Salta,4264
+2019,San Juan,3001
+2019,San Luis,1889
+2019,Santa Cruz,1211
+2019,Santa Fe,20009
+2019,Santiago del Estero,2128
+2019,Tierra del Fuego,984
+2019,Tucumán,6745
+2020,Buenos Aires,62660
+2020,Catamarca,1368
+2020,Chaco,3375
+2020,Chubut,2320
+2020,Ciudad Autónoma de Buenos Aires,74850
+2020,Corrientes,4108
+2020,Córdoba,21390
+2020,Entre Ríos,5258
+2020,Formosa,1375
+2020,Jujuy,2188
+2020,La Pampa,1450
+2020,La Rioja,1732
+2020,Mendoza,8831
+2020,Misiones,2819
+2020,Neuquén,3685
+2020,Río Negro,3582
+2020,Salta,4313
+2020,San Juan,3068
+2020,San Luis,1910
+2020,Santa Cruz,1223
+2020,Santa Fe,20418
+2020,Santiago del Estero,2122
+2020,Tierra del Fuego,994
+2020,Tucumán,6785
+2021,Buenos Aires,63299
+2021,Catamarca,1375
+2021,Chaco,3406
+2021,Chubut,2338
+2021,Ciudad Autónoma de Buenos Aires,76591
+2021,Corrientes,4189
+2021,Córdoba,21857
+2021,Entre Ríos,5344
+2021,Formosa,1385
+2021,Jujuy,2212
+2021,La Pampa,1475
+2021,La Rioja,1803
+2021,Mendoza,9114
+2021,Misiones,2927
+2021,Neuquén,3766
+2021,Río Negro,3638
+2021,Salta,4330
+2021,San Juan,3134
+2021,San Luis,1943
+2021,Santa Cruz,1248
+2021,Santa Fe,21024
+2021,Santiago del Estero,2153
+2021,Tierra del Fuego,1005
+2021,Tucumán,6818
+2022,Buenos Aires,63958
+2022,Catamarca,1491
+2022,Chaco,3457
+2022,Chubut,2464
+2022,Ciudad Autónoma de Buenos Aires,74749
+2022,Corrientes,4778
+2022,Córdoba,21835
+2022,Entre Ríos,6101
+2022,Formosa,1533
+2022,Jujuy,2319
+2022,La Pampa,1547
+2022,La Rioja,2126
+2022,Mendoza,9361
+2022,Misiones,3059
+2022,Neuquén,3431
+2022,Río Negro,3506
+2022,Salta,4469
+2022,San Juan,3250
+2022,San Luis,1942
+2022,Santa Cruz,1226
+2022,Santa Fe,18668
+2022,Santiago del Estero,2306
+2022,Tierra del Fuego,937
+2022,Tucumán,7622
+2023,Buenos Aires,64510
+2023,Catamarca,1468
+2023,Chaco,3471
+2023,Chubut,2295
+2023,Ciudad Autónoma de Buenos Aires,62140
+2023,Corrientes,4895
+2023,Córdoba,19977
+2023,Entre Ríos,5928
+2023,Formosa,1528
+2023,Jujuy,2316
+2023,La Pampa,1494
+2023,La Rioja,2161
+2023,Mendoza,9441
+2023,Misiones,3060
+2023,Neuquén,3410
+2023,Río Negro,3510
+2023,Salta,4469
+2023,San Juan,3324
+2023,San Luis,1924
+2023,Santa Cruz,1197
+2023,Santa Fe,18785
+2023,Santiago del Estero,2290
+2023,Tierra del Fuego,921
+2023,Tucumán,7223

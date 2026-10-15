@@ -1,0 +1,49 @@
+organizacion_codigo,nombre,tipo
+AELC,Asociación Europea de Libre Comercio (EFTA),económica-comercial
+AES,Alianza de Estados del Sahel,militar-seguridad
+ALADI,Asociación Latinoamericana de Integración,económica-comercial
+ALBA,Alianza Bolivariana para los Pueblos de Nuestra América,política-diplomática
+ALIANZA_PACIFICO,Alianza del Pacífico,económica-comercial
+APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial
+ASEAN,Asociación de Naciones del Sudeste Asiático,económica-comercial
+AUKUS,Pacto de seguridad Australia-Reino Unido-EE. UU.,militar-seguridad
+BRICS,"BRICS (Brasil, Rusia, India, China, Sudáfrica y ampliación)",foro informal
+CAN,Comunidad Andina,económica-comercial
+CARICOM,Comunidad del Caribe,económica-comercial
+CCG,Consejo de Cooperación del Golfo,económica-comercial
+CEDEAO,Comunidad Económica de los Estados de África Occidental (ECOWAS),económica-comercial
+CEI,Comunidad de Estados Independientes,política-diplomática
+CEMAC,Comunidad Económica y Monetaria de África Central,económica-comercial
+COMESA,Mercado Común de África Oriental y Austral,económica-comercial
+COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática
+CONSEJO_EUROPA,Consejo de Europa,política-diplomática
+CPTPP,Tratado Integral y Progresista de Asociación Transpacífico,económica-comercial
+EAC,Comunidad de África Oriental,económica-comercial
+EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial
+G20,Grupo de los Veinte,foro informal
+G7,Grupo de los Siete,foro informal
+G8,Grupo de los Ocho (G7 + Rusia),foro informal
+LIGA_ARABE,Liga de los Estados Árabes,política-diplomática
+MERCOSUR,Mercado Común del Sur,económica-comercial
+MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad
+OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial
+OCI,Organización de Cooperación Islámica,política-diplomática
+OCS,Organización de Cooperación de Shanghái,militar-seguridad
+OEA,Organización de los Estados Americanos,política-diplomática
+OMC,Organización Mundial del Comercio,económica-comercial
+OPEP,Organización de Países Exportadores de Petróleo,energética
+OPEP_PLUS,OPEP+ (países fuera de la OPEP en la Declaración de Cooperación),energética
+OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad
+OTSC,Organización del Tratado de Seguridad Colectiva,militar-seguridad
+QUAD,Diálogo de Seguridad Cuadrilateral,militar-seguridad
+RCEP,Asociación Económica Integral Regional (Asia-Pacífico),económica-comercial
+SAARC,Asociación del Asia Meridional para la Cooperación Regional,económica-comercial
+SACU,Unión Aduanera de África Austral,económica-comercial
+SADC,Comunidad de Desarrollo de África Austral,económica-comercial
+SICA,Sistema de la Integración Centroamericana,económica-comercial
+TLCAN,Tratado de Libre Comercio de América del Norte (NAFTA),económica-comercial
+TMEC,"Tratado entre México, Estados Unidos y Canadá (USMCA)",económica-comercial
+UA,Unión Africana (OUA antes de 2002),política-diplomática
+UE,Unión Europea (CEE/CE antes de 1993),económica-comercial
+UEE,Unión Económica Euroasiática,económica-comercial
+UEMOA,Unión Económica y Monetaria de África Occidental,económica-comercial

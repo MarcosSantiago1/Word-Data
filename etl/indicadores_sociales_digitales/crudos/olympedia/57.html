@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Olympedia – 2010 Winter Olympics Overview</title>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="FjJ88GlqRxw8XW0STsYNvPN6NhF6WvmnQKtBXKSVdKpYl75aPSORZbGlUPe1vC_da-OSxKlU47O8VZ703nGsfA" />
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta content="EN" http-equiv="content-language">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<link href="/icon.png" rel="icon" type="image/png">
+<link rel="stylesheet" href="/assets/bootstrap.min-03423cd68c2bff228a73520e849f02d78d1236de443661f3f5dcd658dd9cbc46.css" media="all" />
+<link rel="stylesheet" href="/assets/bootstrap-sortable-515ee97c8b372ddae7796a36ec518e0785e0e3d3d266162ba2c44a3623540f7b.css" media="all" />
+<link rel="stylesheet" href="/assets/jquery-ui-1.11.4.min-35aebb4aa1818460c44d32da4f18101d34f332741a347654907911af0d145e88.css" media="all" />
+<link rel="stylesheet" href="/assets/lightbox-3afc0e08d652072ea73df78af7d454f122da80b9124d782fb609a7b4b05e0197.css" media="screen" />
+<link rel="stylesheet" href="/assets/application-2800327b03b8e46d37d05303ed72087bc80bc3e4183008a8731de6f8bdef17e9.css" media="all" data-turbolinks-track="true" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v10.0.0/ol.css" media="screen" />
+<script src="https://cdn.jsdelivr.net/npm/ol@v10.0.0/dist/ol.js"></script>
+<script src="/assets/omm-34ac1a3b4884461c87bafa8ec1c1c21bcc434c53c51d3b1f82d1dff57ad3856b.js"></script>
+<script src="/assets/jquery-1.11.2.min-224c81cc15edb399b9465fc371dffb02e6fe4c043716571b49b1a7b2bcc09ef1.js"></script>
+<script src="/assets/jquery-ui-1.11.4.min-96b45d6922993b35cca7b07ede8f0bf64353715e3729b9019eb2e46a8737dac8.js"></script>
+<script src="/assets/jquery-ujs-f09ebd8e2bbe3d80718935c572e83dbb10f72e7a2aec58b193ee1e2e2e8e373a.js"></script>
+<script src="/assets/bootstrap.min-2b9640a7175349197c70d8b752f484837518c6cbdce416dead60cdeebd875294.js"></script>
+<script src="/assets/moment-93e00e6729db142363a35d17328084c3bd3d62304ecd27f91e9c954550daa1ce.js"></script>
+<script src="/assets/bootstrap-sortable-e790a4de58d52fde6861014956b371ac860d665b62c23af929a33a9f39e84d04.js"></script>
+
+</head>
+
+<body>
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+<div class="navbar-header">
+<div class="button navbar-toggle" data-target=".navbar-ex1-collapse" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar">
+<span class="icon-bar">
+<span class="icon-bar"></span>
+</span>
+</span>
+</div>
+<a class="navbar-brand" href="/" style="padding-top: 10px">
+<img height="30px" src="/images/logo.png" width="30px">
+</a>
+<a class="navbar-brand" href="/">Olympedia</a>
+</div>
+<div class="collapse navbar-collapse navbar-ex1-collapse">
+<ul class="nav navbar-nav">
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+Athletes
+<b class="caret"></b>
+</a>
+<ul class="dropdown-menu">
+<li><a href="/athletes/advanced_search">Advanced search</a></li>
+<li><a href="/horses">Horse search</a></li>
+<li><a href="/family_relations">Related Olympians</a></li>
+<li><a href="/counts">Counts</a></li>
+<li><a href="/athletes/doubles">Doubles</a></li>
+<li><a href="/athletes/lists">Lists</a></li>
+<li><a href="/athletes/country_representation">Country representation</a></li>
+<li class="divider"></li>
+<li><a href="/athletes">Athletes</a></li>
+</ul>
+</li>
+
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+Countries
+<b class="caret"></b>
+</a>
+<ul class="dropdown-menu">
+<li><a href="/countries/head_to_head">Head-to-head</a></li>
+<li><a href="/countries/best_results">Best results</a></li>
+<li><a href="/countries/comparison">Results comparison</a></li>
+<li class="divider"></li>
+<li><a href="/countries">Countries</a></li>
+</ul>
+</li>
+
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+Games
+<b class="caret"></b>
+</a>
+<ul class="dropdown-menu">
+<li><a href="/editions">Games</a></li>
+<li><a href="/editions/medals">Medals</a></li>
+<li><a href="/editions/results">Results</a></li>
+<li><a href="/ceremonies">Opening ceremony</a></li>
+<li><a href="/venues/menu">Venues</a></li>
+</ul>
+</li>
+
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+Sports
+<b class="caret"></b>
+</a>
+<ul class="dropdown-menu">
+<li><a href="/sports">Disciplines &amp; Sports</a></li>
+<li><a href="/event_names">Events</a></li>
+</ul>
+</li>
+
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+IOC
+<b class="caret"></b>
+</a>
+<ul class="dropdown-menu">
+<li><a href="/organizations">Organizations</a></li>
+<li><a href="/definitions">Definitions</a></li>
+<li><a href="/awards">Awards</a></li>
+<li><a href="/meetings">Meetings</a></li>
+<li><a href="/ioc/host_cities">Host city selection</a></li>
+</ul>
+</li>
+
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+Statistics
+<b class="caret"></b>
+</a>
+<ul class="dropdown-menu">
+<li></li>
+<li><a href="/statistics/medal/country">Medals by country</a></li>
+<li><a href="/statistics/medal/athlete">Medals by athlete</a></li>
+<li><a href="/statistics/medal_table">Medal tables</a></li>
+<li><a href="/statistics/participation">Participations</a></li>
+<li><a href="/records">Olympic Records</a></li>
+<li><a href="/statistics/age">Age records</a></li>
+<li><a href="/statistics/age_at_death">Age at death</a></li>
+<li><a href="/lists">Lists</a></li>
+<li><a href="/today">Today</a></li>
+<li></li>
+<li class="divider"></li>
+<li><a href="/statistics">Statistics</a></li>
+</ul>
+</li>
+
+
+
+
+<li><a href="/feedbacks/new">Feedback</a></li>
+<form class="navbar-form navbar-left" role="search" action="/athletes/quick_search" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" autocomplete="off" /><input type="hidden" name="authenticity_token" value="NAewdoDtjv_9q8QrR4EytcfWdIY8eq8Sp2tOq-aFabU2_Eraq26qGdAfuJxJoxhkNYCY5D7ue-KgC8T_rhzZdw" autocomplete="off" /><div class="form-group">
+<input type="text" name="query" id="query" class="form-control" placeholder="Athlete search" />
+</div>
+<input type="submit" name="commit" value="Go" class="btn btn-default" data-disable-with="Go" />
+</form>
+</ul>
+</div>
+</div>
+<div class="container">
+<ol class="breadcrumb">
+<li>
+<a href="/">Home</a>
+</li>
+<li><a href="/editions">Games</a></li><li class="active">2010 Winter Olympics Overview</li>
+</ol>
+
+
+<h1>2010 Winter Olympics</h1>
+<h2>Facts</h2>
+<table class="biotable">
+<tr>
+<th>Competition type</th>
+<td>Olympic Games</td>
+</tr>
+<tr>
+<th>Number and Year</th>
+<td>XXI / 2010</td>
+</tr>
+<tr>
+<th>Host city</th>
+<td>
+Vancouver, Canada
+(<a href="/venues/editions/57">Venues</a>)
+</td>
+</tr>
+<tr>
+<th>Opening ceremony</th>
+<td>
+12 February
+</td>
+</tr>
+<tr>
+<th>Closing ceremony</th>
+<td>
+28 February
+</td>
+</tr>
+<tr>
+<th>Competition dates</th>
+<td>
+12 – 28 February
+</td>
+</tr>
+<tr>
+<th>OCOG</th>
+<td><a href="/organizations/315">Vancouver Organizing Committee for the 2010 Olympic and Paralympic Winter Games</a></td>
+</tr>
+<tr>
+<th>Participants</th>
+<td>
+<a href="/counts/edition/57">2536</a>
+from <a href="/editions/57/countries">82 countries</a>
+</td>
+</tr>
+<tr>
+<th>Medal events</th>
+<td>
+86
+in 15 disciplines
+</td>
+</tr>
+</table>
+
+<h2>
+Overview
+
+</h2>
+<div class="description">
+<p>The Vancouver Olympic Winter Games could not have started any worse. On the day of the Opening Ceremony, tragedy struck. While taking a training run, Georgian luger <a href="/athletes/1200044">Nodar Kumaritashvili</a> went off the track, his body crashing against a post along the track. Kumaritashvili died shortly after the accident, casting a pall over the Opening Ceremony that evening.</p>
+
+<p>January and February 2010 was the warmest winter in Vancouver history and at <a href="/venues/175">Cypress Mountain</a>, north of Vancouver, where the freestyle skiing and snowboarding were to be held, there was no snow. The courses could only be maintained by trucking in snow from distant sites. It was so warm in Vancouver that one Olympian, <a href="/athletes/109860">Shaun White</a>, would later call them “The Spring Olympics”. The jinx that seemed to be affecting the Vancouver Olympics was later manifest at the Opening Ceremony, when the lighting of the torch was supposed to be done by four Canadian sports heroes, led by “The Great One”, <a href="/athletes/100565">Wayne Gretzky</a>. The four lightings were to be done on four separate long cauldrons that were to rise from the floor of <a href="/venues/183">BC Place</a>. But <a href="/athletes/81655">Catriona Le May Doan</a> could not light her flame, as one cauldron would not rise. But the Vancouver Olympics soon would, overcoming their very shaky start.</p>
+
+<p>Canada had twice before hosted Olympic Games, at <a href="/editions/19/">Montréal in 1976</a> and <a href="/editions/43">Calgary in 1988</a>. No Canadian had won a gold medal at either Games, the only two times in Olympic history that the host nation did not win gold. Canada set up a sports training program, that was funded both privately and by the government, called “Own the Podium”, and they made plans to do just that. There had been complaints that Canadian athletes monopolized training time on the sites, and after Kumaritashvili’s death, this was mentioned. The seeming embargo over Canadian Olympic gold medals ended on the third day of the Games when <a href="/athletes/110335">Alexandre Bilodeau</a> mounted the top step of the podium with a gold medal in <a href="/results/924280">men’s moguls freestyle skiing</a>. Canada cheered – and breathed a sigh of relief.</p>
+
+<p>After that there was little that was not sublime about the Vancouver Winter Olympics. The weather stayed warm in downtown Vancouver, but freestyle and snowboarding were held without major problems, and up at Whistler, where alpine and Nordic events were contested, there was plenty of snow. Each day seemed to see another Canadian own the podium, and by the end of the 2010 Olympic Winter Games, Canada had won 14 gold medals, the most ever in Olympic history for one nation at a Winter Olympics. They also won one bronze that shone just as brightly. In <a href="/results/924268">women’s figure skating</a>, <a href="/athletes/110855">Joannie Rochette</a> was expected to challenge for a medal, though she was not expected to win gold. Her parents travelled from their small town in Québec to watch her compete. Arriving shortly before her event started, her mother developed chest pains, and would die later that day in a Vancouver hospital. Rochette did not have to compete, but she did and won a bronze medal, one that in the warm Vancouver sun shone like a gold to most who watched her.</p>
+
+<p>Besides the Canadians there were other outstanding performances in 2010. In cross-country skiing, Norway’s <a href="/athletes/101008">Marit Bjørgen</a> won five medals, three of them gold. Her teammate in biathlon, <a href="/athletes/84154">Ole Einar Bjørndalen</a>, won two medals to bring his Winter Olympic total to 11, second in Olympic history only to cross-country legend <a href="/athletes/85378">Bjørn Dæhlie</a>. On the Alpine slopes, Germany’s <a href="/athletes/118418">Maria Riesch</a> won two gold medals, surpassing her best friend, American <a href="/athletes/101437">Lindsey Vonn</a>, who the American press had built up before the Games, causing some to call them the Vonn-couver Olympics. Vonn was injured just before the Games and was not at her best, but became the first American woman to win the <a href="/results/924553">downhill</a>, and added a bronze in the <a href="/results/924554">Super G</a>.</p>
+
+<p>Canada lives and dies on one sport, ice hockey, or hockey to them, which they call simply “Our Game”. And although the Canadian women dominated and would win their third consecutive gold medal in a tight final game against the United States, it was the Canadian men’s team that was watched by most of the nation, who longed for them to win gold. Things did not start well, as after an initial win, Canada was forced to a shoot-out to defeat Switzerland in pool play, and then lost their final pool game against the United States, <a href="/results/924024">5-3</a>. They still advanced and in the elimination rounds, began to play better, moving onto a final re-match against the Americans. <a href="/results/924002">The game</a> would become the most watched television event in Canadian history, and Canada led almost throughout, until the US team pulled their goalie late and scored with only 25 seconds left, sending the game into overtime. Then, 7:40 into that overtime, Canada’s new hockey hero, <a href="/athletes/119380">Sidney Crosby</a>, came through with the winning goal, sending the nation, and the crowds in Vancouver, into a frenzy of patriotic fervor. Seemingly all of Canada spilled out onto the Vancouver streets to celebrate, but the celebration was restrained and only joyous, with no untoward incidents.</p>
+
+<p>They had begun under the worst of circumstances, with the loss of an athlete’s life. They would end, for Canada, under the best of circumstances, with victory in their national game, in overtime, on their home soil, against their arch-rivals, with the goal scored by their national hero. Could it end any better? In between Canada had indeed owned the podium, with their 14 gold medals. At the Closing Ceremony, Canada mocked themselves, when an attendant walked out to the center of BC Place, held up a power cord, looked at it puzzled, then plugged it in, and up rose the fourth cauldron. Catriona LeMay Doan was indeed able to honor the Olympic Flame, as Canada and Vancouver had done so well for the previous two weeks.</p>
+
+</div>
+
+<h2>Bid process</h2>
+<div class="description">
+<p>Bid voting at the 115th <a href="/meetings">IOC Session</a> in Praha, Czech Republic on 2 July 2003. The IOC Executive Committee, at its meeting of 28 August 2002, narrowed the field to the final four candidate cities. Eliminated were: Sarajevo (Bosnia and Herzegovina), Jaca (Spain), Andorra la Vella (Andorra) and Harbin (China).</p>
+
+<p>Bern (Switzerland) was selected as a final candidate city, but a few weeks after that selection, the citizens of its canton in Switzerland voted in a referendum and chose not to support the bid.  The Bern bid committee then withdrew on 27 September 2002.</p>
+
+<table class="table table-striped">
+  	<tr>
+  		<th></th>
+  		<th></th>
+  		<th>Round 1</th>
+  		<th>Round 2</th>
+  	</tr><tr>
+  		<td class="city">Vancouver</td>
+  		<td>Canada</td>
+  		<td>40</td>
+  		<td>56</td>
+  	</tr><tr>
+  		<td class="city">PyeongChang</td>
+  		<td>South Korea</td>
+  		<td>51</td>
+  		<td>53</td>
+  	</tr><tr>
+  		<td class="city">Salzburg</td>
+  		<td>Austria</td>
+  		<td>16</td>
+  		<td>&ndash;</td>
+  </tr></table>
+
+</div>
+
+<h2>Ceremonies</h2>
+<table class="table table-striped table-condensed">
+<tr>
+<th><a href="/ceremonies/officially_opened">Officially opened by</a></th>
+<td><a href="/athletes/1100048">Michaëlle Jean</a></td><td><a href="/countries/CAN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.svg" />CAN</a></td><td></td><td>Governor-General</td>
+</tr>
+<tr>
+<th><a href="/ceremonies/torch_bearers">Torchbearer</a></th>
+<td><a href="/athletes/1700514">Maria Nafpliotou</a></td><td><a href="/countries/GRE"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/GRE.svg" />GRE</a></td><td></td><td>High Priestess at Olympia Flame Lighting Ceremony</td>
+</tr>
+<tr>
+<th></th>
+<td><a href="/athletes/99539">Vasilios Dimitriadis</a></td><td><a href="/countries/GRE"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/GRE.svg" />GRE</a></td><td>Alpine Skiing</td><td>First torch-bearer at Olympia.</td>
+</tr>
+<tr>
+<th></th>
+<td><a href="/athletes/100565">Wayne Gretzky</a></td><td><a href="/countries/CAN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.svg" />CAN</a></td><td>Ice Hockey</td><td>Lit secondary flame</td>
+</tr>
+<tr>
+<th></th>
+<td><a href="/athletes/901166">Rick Hansen</a></td><td><a href="/countries/CAN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.svg" />CAN</a></td><td>Athletics</td><td>Lit flame</td>
+</tr>
+<tr>
+<th></th>
+<td><a href="/athletes/81655">Catriona Le May Doan</a></td><td><a href="/countries/CAN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.svg" />CAN</a></td><td>Speed Skating</td><td>Did not light flame due to cauldron malfunction</td>
+</tr>
+<tr>
+<th></th>
+<td><a href="/athletes/89776">Steve Nash</a></td><td><a href="/countries/CAN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.svg" />CAN</a></td><td>Basketball</td><td>Lit flame</td>
+</tr>
+<tr>
+<th></th>
+<td><a href="/athletes/81195">Nancy Greene</a></td><td><a href="/countries/CAN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.svg" />CAN</a></td><td>Alpine Skiing</td><td>Lit flame</td>
+</tr>
+<tr>
+<th><a href="/ceremonies/athlete_oath">Taker of the Athlete&#39;s Oath</a></th>
+<td><a href="/athletes/100370">Hayley Wickenheiser</a></td><td><a href="/countries/CAN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.svg" />CAN</a></td><td>Ice Hockey</td><td></td>
+</tr>
+<tr>
+<th><a href="/ceremonies/official_oath">Taker of the Official&#39;s Oath</a></th>
+<td><a href="/athletes/1100065">Michel Verrault</a></td><td><a href="/countries/CAN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.svg" />CAN</a></td><td>Short Track Speed Skating</td><td></td>
+</tr>
+<tr>
+<th><a href="/ceremonies/olympic_flag_bearers">Olympic Flag Bearer</a></th>
+<td><a href="/athletes/82331">Barbara Ann Scott</a></td><td><a href="/countries/CAN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.svg" />CAN</a></td><td>Figure Skating</td><td>Bearer</td>
+</tr>
+<tr>
+<th></th>
+<td><a href="/athletes/1100127">Roméo Dallaire</a></td><td><a href="/countries/CAN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.svg" />CAN</a></td><td></td><td>Bearer</td>
+</tr>
+<tr>
+<th></th>
+<td><a href="/athletes/1100128">Betty Fox</a></td><td><a href="/countries/CAN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.svg" />CAN</a></td><td></td><td>Bearer</td>
+</tr>
+<tr>
+<th></th>
+<td><a href="/athletes/1100129">Anne Murray</a></td><td><a href="/countries/CAN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.svg" />CAN</a></td><td></td><td>Bearer</td>
+</tr>
+<tr>
+<th></th>
+<td><a href="/athletes/1100131">Julie Payette</a></td><td><a href="/countries/CAN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.svg" />CAN</a></td><td></td><td>Bearer</td>
+</tr>
+<tr>
+<th></th>
+<td><a href="/athletes/1100132">Donald Sutherland</a></td><td><a href="/countries/CAN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.svg" />CAN</a></td><td></td><td>Bearer</td>
+</tr>
+<tr>
+<th></th>
+<td><a href="/athletes/1100133">Jacques Villeneuve</a></td><td><a href="/countries/CAN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.svg" />CAN</a></td><td></td><td>Bearer</td>
+</tr>
+<tr>
+<th></th>
+<td><a href="/athletes/1100130">Bobby Orr</a></td><td><a href="/countries/CAN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.svg" />CAN</a></td><td></td><td>Bearer</td>
+</tr>
+<tr>
+<th><a href="/ceremonies">Flagbearers</a></th>
+<td><a href="/flagbearers?edition_id=57">Full list</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<h2>Medal Disciplines</h2>
+<table class="table table-striped">
+<tr>
+<td>
+<a href="/editions/57/sports/ALP">Alpine Skiing</a>
+</td>
+<td>
+<a href="/editions/57/sports/FSK">Figure Skating</a>
+</td>
+<td>
+<a href="/editions/57/sports/STK">Short Track Speed Skating</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/editions/57/sports/BTH">Biathlon</a>
+</td>
+<td>
+<a href="/editions/57/sports/FRS">Freestyle Skiing</a>
+</td>
+<td>
+<a href="/editions/57/sports/SKN">Skeleton</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/editions/57/sports/BOB">Bobsleigh</a>
+</td>
+<td>
+<a href="/editions/57/sports/IHO">Ice Hockey</a>
+</td>
+<td>
+<a href="/editions/57/sports/SJP">Ski Jumping</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/editions/57/sports/CCS">Cross Country Skiing</a>
+</td>
+<td>
+<a href="/editions/57/sports/LUG">Luge</a>
+</td>
+<td>
+<a href="/editions/57/sports/SBD">Snowboarding</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/editions/57/sports/CUR">Curling</a>
+</td>
+<td>
+<a href="/editions/57/sports/NCB">Nordic Combined</a>
+</td>
+<td>
+<a href="/editions/57/sports/SSK">Speed Skating</a>
+</td>
+</tr>
+</table>
+
+<h2>Medal table</h2>
+<table class="table table-striped">
+<thead>
+<tr>
+<th colspan="2">NOC</th>
+<th>Gold</th>
+<th>Silver</th>
+<th>Bronze</th>
+<th>Total</th>
+</tr>
+</thead>
+<tr>
+<td><a href="/countries/CAN">Canada</a></td>
+<td><a href="/countries/CAN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.svg" /> CAN</a></td>
+<td>14</td>
+<td>7</td>
+<td>5</td>
+<td>26</td>
+</tr>
+<tr>
+<td><a href="/countries/GER">Germany</a></td>
+<td><a href="/countries/GER"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/GER.svg" /> GER</a></td>
+<td>10</td>
+<td>13</td>
+<td>7</td>
+<td>30</td>
+</tr>
+<tr>
+<td><a href="/countries/USA">United States</a></td>
+<td><a href="/countries/USA"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/USA.svg" /> USA</a></td>
+<td>9</td>
+<td>15</td>
+<td>13</td>
+<td>37</td>
+</tr>
+<tr>
+<td><a href="/countries/NOR">Norway</a></td>
+<td><a href="/countries/NOR"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/NOR.svg" /> NOR</a></td>
+<td>9</td>
+<td>8</td>
+<td>6</td>
+<td>23</td>
+</tr>
+<tr>
+<td><a href="/countries/KOR">Republic of Korea</a></td>
+<td><a href="/countries/KOR"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/KOR.svg" /> KOR</a></td>
+<td>6</td>
+<td>6</td>
+<td>2</td>
+<td>14</td>
+</tr>
+<tr>
+<td><a href="/countries/SUI">Switzerland</a></td>
+<td><a href="/countries/SUI"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/SUI.svg" /> SUI</a></td>
+<td>6</td>
+<td>0</td>
+<td>3</td>
+<td>9</td>
+</tr>
+<tr>
+<td><a href="/countries/SWE">Sweden</a></td>
+<td><a href="/countries/SWE"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/SWE.svg" /> SWE</a></td>
+<td>5</td>
+<td>2</td>
+<td>5</td>
+<td>12</td>
+</tr>
+<tr>
+<td><a href="/countries/CHN">People&#39;s Republic of China</a></td>
+<td><a href="/countries/CHN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CHN.svg" /> CHN</a></td>
+<td>5</td>
+<td>2</td>
+<td>4</td>
+<td>11</td>
+</tr>
+<tr>
+<td><a href="/countries/AUT">Austria</a></td>
+<td><a href="/countries/AUT"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/AUT.svg" /> AUT</a></td>
+<td>4</td>
+<td>6</td>
+<td>7</td>
+<td>17</td>
+</tr>
+<tr>
+<td><a href="/countries/NED">Netherlands</a></td>
+<td><a href="/countries/NED"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/NED.svg" /> NED</a></td>
+<td>4</td>
+<td>1</td>
+<td>3</td>
+<td>8</td>
+</tr>
+<tr>
+<td><a href="/countries/FRA">France</a></td>
+<td><a href="/countries/FRA"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/FRA.svg" /> FRA</a></td>
+<td>3</td>
+<td>2</td>
+<td>6</td>
+<td>11</td>
+</tr>
+<tr>
+<td><a href="/countries/RUS">Russian Federation</a></td>
+<td><a href="/countries/RUS"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/RUS.svg" /> RUS</a></td>
+<td>2</td>
+<td>5</td>
+<td>6</td>
+<td>13</td>
+</tr>
+<tr>
+<td><a href="/countries/AUS">Australia</a></td>
+<td><a href="/countries/AUS"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/AUS.svg" /> AUS</a></td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a href="/countries/CZE">Czechia</a></td>
+<td><a href="/countries/CZE"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CZE.svg" /> CZE</a></td>
+<td>2</td>
+<td>0</td>
+<td>4</td>
+<td>6</td>
+</tr>
+<tr>
+<td><a href="/countries/POL">Poland</a></td>
+<td><a href="/countries/POL"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/POL.svg" /> POL</a></td>
+<td>1</td>
+<td>3</td>
+<td>2</td>
+<td>6</td>
+</tr>
+<tr>
+<td><a href="/countries/SVK">Slovakia</a></td>
+<td><a href="/countries/SVK"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/SVK.svg" /> SVK</a></td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a href="/countries/ITA">Italy</a></td>
+<td><a href="/countries/ITA"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/ITA.svg" /> ITA</a></td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a href="/countries/BLR">Belarus</a></td>
+<td><a href="/countries/BLR"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/BLR.svg" /> BLR</a></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a href="/countries/GBR">Great Britain</a></td>
+<td><a href="/countries/GBR"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/GBR.svg" /> GBR</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="/countries/JPN">Japan</a></td>
+<td><a href="/countries/JPN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/JPN.svg" /> JPN</a></td>
+<td>0</td>
+<td>3</td>
+<td>2</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a href="/countries/CRO">Croatia</a></td>
+<td><a href="/countries/CRO"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CRO.svg" /> CRO</a></td>
+<td>0</td>
+<td>2</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a href="/countries/SLO">Slovenia</a></td>
+<td><a href="/countries/SLO"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/SLO.svg" /> SLO</a></td>
+<td>0</td>
+<td>2</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a href="/countries/LAT">Latvia</a></td>
+<td><a href="/countries/LAT"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/LAT.svg" /> LAT</a></td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="/countries/FIN">Finland</a></td>
+<td><a href="/countries/FIN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/FIN.svg" /> FIN</a></td>
+<td>0</td>
+<td>1</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a href="/countries/EST">Estonia</a></td>
+<td><a href="/countries/EST"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/EST.svg" /> EST</a></td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="/countries/KAZ">Kazakhstan</a></td>
+<td><a href="/countries/KAZ"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/KAZ.svg" /> KAZ</a></td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr>
+</table>
+
+<h2>Most successful competitors</h2>
+<table class="table table-striped">
+<thead>
+<tr>
+<th>Athlete</th>
+<th>Nat</th>
+<th>Gold</th>
+<th>Silver</th>
+<th>Bronze</th>
+<th>Total</th>
+</tr>
+</thead>
+<tr class="top">
+<td><a href="/athletes/101008">Marit Bjørgen</a></td>
+<td><a href="/countries/NOR"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/NOR.svg" /> NOR</a></td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+</tr>
+<tr class="top">
+<td><a href="/athletes/109921">Wang Meng</a></td>
+<td><a href="/countries/CHN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CHN.svg" /> CHN</a></td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr class="top">
+<td><a href="/athletes/118832">Petter Northug</a></td>
+<td><a href="/countries/NOR"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/NOR.svg" /> NOR</a></td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+</tr>
+<tr class="top">
+<td><a href="/athletes/111029">Emil Hegle Svendsen</a></td>
+<td><a href="/countries/NOR"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/NOR.svg" /> NOR</a></td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr class="top">
+<td><a href="/athletes/118546">Magdalena Neuner</a></td>
+<td><a href="/countries/GER"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/GER.svg" /> GER</a></td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr class="top">
+<td><a href="/athletes/119779">Lee Jeong-Su</a></td>
+<td><a href="/countries/KOR"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/KOR.svg" /> KOR</a></td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr class="top">
+<td><a href="/athletes/109768">Martina Sáblíková</a></td>
+<td><a href="/countries/CZE"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CZE.svg" /> CZE</a></td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr class="top">
+<td><a href="/athletes/99870">Simon Ammann</a></td>
+<td><a href="/countries/SUI"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/SUI.svg" /> SUI</a></td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr class="top">
+<td><a href="/athletes/109918">Charles Hamelin</a></td>
+<td><a href="/countries/CAN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.svg" /> CAN</a></td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr class="top">
+<td><a href="/athletes/118418">Maria Höfl-Riesch</a></td>
+<td><a href="/countries/GER"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/GER.svg" /> GER</a></td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr class="top">
+<td><a href="/athletes/118802">Marcus Hellner</a></td>
+<td><a href="/countries/SWE"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/SWE.svg" /> SWE</a></td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr class="top">
+<td><a href="/athletes/119816">Zhou Yang</a></td>
+<td><a href="/countries/CHN"><img style="max-width: 25px; max-height: 15px; padding-right: 2px; vertical-align: middle" src="https://olympedia-flags.s3.eu-central-1.amazonaws.com/CHN.svg" /> CHN</a></td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+</table>
+
+<p>
+<i><a href="/editions/57/medal">All medalists at these Games</a></i>
+</p>
+
+</div>
+</body>
+<footer class="footer">
+<br>
+<div class="panel panel-info">
+<div class="panel-heading">
+<h3 class="panel-title">
+<span class="glyphicon glyphicon-info-sign"></span>
+Did you know?
+</h3>
+</div>
+<div class="panel-body">
+<p>The match for 3rd place in boxing was eliminated for the 1952 Olympics. Originally, this also meant the elimination of bronze medals in the sport, but this decision was later reversed, and the losing semi-finalists finally received their medals in 1970.</p>
+
+
+</div>
+</div>
+<div class="container">
+<p>
+<a href="/users/sign_in">Login</a>
+|
+<a href="/statistics/site">Statistics</a>
+|
+<a href="/static/about">About</a>
+|
+<a href="/static/image_credits">Image Credits</a>
+|
+<a href="/static/faq">FAQ</a>
+|
+<a href="/feedbacks/new">Feedback</a>
+</p>
+<p>
+&copy; <a href="/static/about">OlyMADMen</a> 2006 — 2026
+</p>
+</div>
+</footer>
+
+<script src="/assets/lightbox.min-a06f7b5a37bdc88a78a48f95b9149ca917761a07bffb855a6d73c1a435e16552.js"></script>
+<script>
+  $('.footnote').tooltip();
+</script>
+</html>

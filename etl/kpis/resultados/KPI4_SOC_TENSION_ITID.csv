@@ -1,0 +1,131 @@
+iso3,pais,continente,fracc_etnica,fracc_religiosa,gini,itid,felicidad,forma_estado,tipo_regimen,tipo_gobierno
+AGO,Angola,África,0.735,0.664,51.3,35.9,,unitario,régimen constitucional,presidential republic
+CAF,República Centroafricana,África,0.834,0.77,43.0,34.5,,unitario,régimen constitucional,presidential republic
+CMR,Camerún,África,0.863,0.72,42.2,33.4,4.89,unitario,régimen constitucional,presidential republic
+ZMB,Zambia,África,0.898,0.391,51.5,33.2,3.91,unitario,régimen constitucional,presidential republic
+SUR,Surinam,América,0.811,0.82,39.2,32.0,,unitario,régimen constitucional,presidential republic
+BRA,Brasil,América,0.595,0.646,51.5,31.9,6.49,federal,régimen constitucional,federal presidential republic
+MWI,Malaui,África,0.807,0.765,38.5,30.2,3.26,unitario,régimen constitucional,presidential republic
+GAB,Gabón,África,0.84,0.678,38.0,28.8,5.12,unitario,régimen constitucional,presidential republic
+TCD,Chad,África,0.869,0.631,37.4,28.0,4.38,unitario,régimen constitucional,presidential republic
+UGA,Uganda,África,0.833,0.623,38.2,27.8,4.46,unitario,régimen constitucional,presidential republic
+BLZ,Belice,América,0.682,0.705,39.9,27.7,6.71,unitario,régimen constitucional,parliamentary democracy (National Assembly) under a constitutional monarchy; a Commonwealth realm
+BEN,Benín,África,0.792,0.813,34.4,27.6,4.36,unitario,régimen constitucional,presidential republic
+PAN,Panamá,América,0.545,0.576,48.9,27.4,6.41,unitario,régimen constitucional,presidential republic
+AUS,Australia,Oceanía,0.804,0.77,33.8,26.6,6.97,federal,régimen constitucional,federal parliamentary democracy under a constitutional monarchy; a Commonwealth realm
+TGO,Togo,África,0.718,0.683,37.9,26.6,4.32,unitario,régimen constitucional,presidential republic
+USA,Estados Unidos,América,0.584,0.687,41.8,26.6,6.72,federal,régimen constitucional,constitutional federal republic
+CIV,Costa de Marfil,África,0.743,0.733,35.3,26.1,5.1,unitario,régimen constitucional,presidential republic
+NIC,Nicaragua,América,0.484,0.63,46.2,25.8,6.33,unitario,régimen constitucional,presidential republic
+GHA,Ghana,África,0.729,0.449,43.5,25.6,4.34,unitario,régimen constitucional,presidential republic
+GTM,Guatemala,América,0.512,0.599,45.2,25.1,6.36,unitario,régimen constitucional,presidential republic
+PHL,Filipinas,Asia,0.851,0.366,39.3,23.9,6.11,unitario,régimen constitucional,presidential republic
+GNB,Guinea-Bisáu,África,0.775,0.656,33.4,23.9,,unitario,régimen constitucional,semi-presidential republic
+CAN,Canadá,América,0.894,0.593,31.5,23.4,6.8,federal,régimen constitucional,federal parliamentary democracy (Parliament of Canada) under a constitutional monarchy; a Commonwealth realm; federal and state authorities and responsibilities regulated in constitution
+NGA,Nigeria,África,0.795,0.578,33.9,23.3,4.88,federal,régimen constitucional,federal presidential republic
+BFA,Burkina Faso,África,0.679,0.541,37.4,22.8,4.38,unitario,régimen constitucional,presidential republic
+NAM,Namibia,África,0.719,0.049,59.1,22.7,4.91,unitario,régimen constitucional,presidential republic
+LAO,Laos,Asia,0.679,0.482,38.8,22.5,5.3,unitario,régimen cerrado,communist party-led state
+ETH,Etiopía,África,0.783,0.658,31.1,22.4,3.9,federal,régimen constitucional,federal parliamentary republic
+CRI,Costa Rica,América,0.294,0.661,46.7,22.3,7.27,unitario,régimen constitucional,presidential republic
+MYS,Malasia,Asia,0.539,0.55,40.7,22.2,5.96,federal,régimen constitucional,federal parliamentary constitutional monarchy
+KEN,Kenia,África,0.892,0.257,38.5,22.1,4.51,unitario,régimen constitucional,presidential republic
+LVA,Letonia,Europa,0.544,0.739,34.0,21.8,6.21,unitario,régimen constitucional,parliamentary republic
+URY,Uruguay,América,0.226,0.837,40.9,21.7,6.66,unitario,régimen constitucional,presidential republic
+BOL,Bolivia,América,0.494,0.532,42.1,21.6,5.87,unitario,régimen constitucional,presidential republic
+COL,Colombia,América,0.228,0.545,54.6,21.1,6.0,unitario,régimen constitucional,presidential republic
+MKD,Macedonia del Norte,Europa,0.592,0.661,33.5,21.0,5.5,unitario,régimen constitucional,parliamentary republic
+DOM,República Dominicana,América,0.461,0.623,38.4,20.8,5.85,unitario,régimen constitucional,presidential republic
+MOZ,Mozambique,África,0.02,0.814,49.6,20.7,5.19,unitario,régimen constitucional,presidential republic
+LBR,Liberia,África,0.903,0.266,35.3,20.6,4.28,unitario,régimen constitucional,presidential republic
+CHE,Suiza,Europa,0.489,0.738,33.5,20.6,6.93,federal,régimen constitucional,federal republic (formally a confederation)
+GRD,Granada,América,0.304,0.622,43.8,20.3,,unitario,régimen constitucional,parliamentary democracy under a constitutional monarchy; a Commonwealth realm
+MEX,México,América,0.557,0.378,43.5,20.3,6.98,federal,régimen constitucional,federal presidential republic
+SLE,Sierra Leona,África,0.763,0.353,35.7,19.9,3.0,unitario,régimen constitucional,presidential republic
+ECU,Ecuador,América,0.386,0.491,44.6,19.6,5.96,unitario,régimen constitucional,presidential republic
+MNE,Montenegro,Europa,0.701,0.441,34.3,19.6,5.88,unitario,régimen constitucional,parliamentary republic
+ZWE,Zimbabue,África,0.008,0.77,50.3,19.6,3.4,unitario,régimen constitucional,presidential republic
+BWA,Botsuana,África,0.358,0.351,54.9,19.5,3.44,unitario,régimen constitucional,parliamentary republic
+PER,Perú,América,0.565,0.394,40.7,19.5,5.95,unitario,régimen constitucional,presidential republic
+BIH,Bosnia y Herzegovina,Europa,0.63,0.625,30.3,19.0,6.14,unitario,régimen constitucional,parliamentary republic
+FJI,Fiyi,Oceanía,0.535,0.697,30.7,18.9,,unitario,régimen constitucional,parliamentary republic
+LUX,Luxemburgo,Europa,0.671,0.43,33.6,18.5,7.12,unitario,régimen constitucional,constitutional monarchy
+CPV,Cabo Verde,África,0.417,0.45,42.4,18.4,,unitario,régimen constitucional,parliamentary republic
+IDN,Indonesia,Asia,0.785,0.237,36.1,18.4,5.62,unitario,régimen constitucional,presidential republic
+NPL,Nepal,Asia,0.897,0.33,30.0,18.4,5.31,federal,régimen constitucional,federal parliamentary republic
+BGR,Bulgaria,Europa,0.38,0.527,39.5,17.9,5.55,unitario,régimen constitucional,parliamentary republic
+HND,Honduras,América,0.185,0.576,46.8,17.8,5.96,unitario,régimen constitucional,presidential republic
+LCA,Santa Lucía,América,0.261,0.552,43.7,17.8,,unitario,régimen constitucional,parliamentary democracy under a constitutional monarchy; a Commonwealth realm
+SLV,El Salvador,América,0.239,0.624,39.8,17.2,6.49,unitario,régimen constitucional,presidential republic
+GMB,Gambia,África,0.809,0.069,38.8,17.1,4.42,unitario,régimen constitucional,presidential republic
+CHL,Chile,América,0.201,0.584,43.2,17.0,6.36,unitario,régimen constitucional,presidential republic
+LKA,Sri Lanka,Asia,0.416,0.478,37.7,16.9,3.89,unitario,régimen constitucional,presidential republic
+MLI,Mali,África,0.829,0.117,35.7,16.9,4.34,unitario,régimen constitucional,semi-presidential republic
+EST,Estonia,Europa,0.464,0.606,30.7,16.4,6.42,unitario,régimen constitucional,parliamentary republic
+DEU,Alemania,Europa,0.263,0.692,33.7,16.1,6.75,federal,régimen constitucional,federal parliamentary republic
+ISR,Israel,Asia,0.412,0.424,38.3,16.0,7.23,unitario,régimen constitucional,parliamentary democracy
+ZAF,Sudáfrica,África,0.332,0.254,54.1,15.9,5.21,unitario,régimen constitucional,parliamentary republic
+CZE,República Checa,Europa,0.565,0.664,25.7,15.8,6.78,unitario,régimen constitucional,parliamentary republic
+HUN,Hungría,Europa,0.302,0.712,30.6,15.5,5.92,unitario,régimen constitucional,parliamentary republic
+AUT,Austria,Europa,0.335,0.632,31.2,15.1,6.81,federal,régimen constitucional,federal parliamentary republic
+GIN,Guinea,África,0.747,0.256,29.6,14.8,4.93,unitario,régimen constitucional,presidential republic
+ESP,España,Europa,0.265,0.612,33.4,14.7,6.47,unitario,régimen constitucional,parliamentary constitutional monarchy
+CHN,China,Asia,0.162,0.644,36.0,14.5,5.92,unitario,régimen cerrado,communist party-led state
+SEN,Senegal,África,0.734,0.054,36.2,14.3,4.86,unitario,régimen constitucional,presidential republic
+BTN,Bután,Asia,0.605,0.383,28.5,14.1,,unitario,régimen constitucional,constitutional monarchy
+BEL,Bélgica,Europa,0.419,0.619,26.8,13.9,6.91,federal,régimen constitucional,federal parliamentary democracy under a constitutional monarchy
+KAZ,Kazajistán,Asia,0.469,0.478,29.2,13.8,6.38,unitario,régimen constitucional,presidential republic
+LSO,Lesoto,África,0.006,0.608,44.9,13.8,3.76,unitario,régimen constitucional,parliamentary constitutional monarchy
+ALB,Albania,Europa,0.294,0.633,29.4,13.6,5.41,unitario,régimen constitucional,parliamentary republic
+JAM,Jamaica,América,0.15,0.53,39.9,13.6,5.87,unitario,régimen constitucional,parliamentary democracy (Parliament) under a constitutional monarchy; a Commonwealth realm
+NLD,Países Bajos,Europa,0.417,0.639,25.7,13.6,7.31,unitario,régimen constitucional,parliamentary constitutional monarchy; part of the Kingdom of the Netherlands
+ARE,Emiratos Árabes Unidos,Asia,0.604,0.423,26.4,13.6,6.76,federal,régimen constitucional,federation of monarchies
+MNG,Mongolia,Asia,0.293,0.565,31.4,13.5,5.83,unitario,régimen constitucional,semi-presidential republic
+SWE,Suecia,Europa,0.341,0.563,29.3,13.2,7.34,unitario,régimen constitucional,parliamentary constitutional monarchy
+DJI,Yibuti,África,0.515,0.113,41.6,13.1,,unitario,régimen constitucional,presidential republic
+GBR,Reino Unido,Europa,0.238,0.573,32.4,13.1,6.73,unitario,régimen constitucional,parliamentary constitutional monarchy; a Commonwealth realm
+IRL,Irlanda,Europa,0.4,0.494,29.0,13.0,6.89,unitario,régimen constitucional,parliamentary republic
+QAT,Catar,Asia,0.205,0.537,35.1,13.0,,unitario,régimen cerrado,absolute monarchy
+ARG,Argentina,América,0.055,0.545,42.4,12.7,6.4,federal,régimen constitucional,presidential republic
+LTU,Lituania,Europa,0.277,0.425,36.0,12.6,6.83,unitario,régimen constitucional,semi-presidential republic
+VUT,Vanuatu,Oceanía,0.02,0.735,32.3,12.2,,unitario,régimen constitucional,parliamentary republic
+NER,Níger,África,0.654,0.086,32.9,12.2,4.72,unitario,régimen constitucional,"formerly, semi-presidential republic"
+SYR,Siria,Asia,0.685,0.232,26.4,12.1,,unitario,régimen constitucional,transitional presidential republic
+PAK,Pakistán,Asia,0.739,0.07,29.6,12.0,4.77,federal,régimen constitucional,federal parliamentary republic
+GNQ,Guinea Ecuatorial,África,0.378,0.22,38.5,11.5,,unitario,régimen constitucional,presidential republic
+MMR,Myanmar,Asia,0.519,0.222,30.7,11.4,4.32,unitario,régimen cerrado,military regime
+BRB,Barbados,América,0.144,0.512,34.1,11.2,,unitario,régimen constitucional,parliamentary republic; a Commonwealth realm
+TZA,Tanzania,África,0.02,0.523,40.5,11.0,3.8,unitario,régimen constitucional,presidential republic
+NOR,Noruega,Europa,0.319,0.501,26.5,10.9,7.26,unitario,régimen constitucional,parliamentary constitutional monarchy
+BLR,Bielorrusia,Europa,0.292,0.592,24.4,10.8,5.82,unitario,régimen constitucional,"presidential republic in name, although in fact a dictatorship"
+SVK,Eslovaquia,Europa,0.288,0.622,23.8,10.8,6.22,unitario,régimen constitucional,parliamentary republic
+MRT,Mauritania,África,0.66,0.0,32.0,10.6,4.54,unitario,régimen constitucional,presidential republic
+DNK,Dinamarca,Europa,0.269,0.429,29.9,10.4,7.52,unitario,régimen constitucional,parliamentary constitutional monarchy
+SRB,Serbia,Europa,0.3,0.335,32.8,10.4,6.61,unitario,régimen constitucional,parliamentary republic
+LBN,Líbano,Asia,0.096,0.483,35.5,10.3,3.19,unitario,régimen constitucional,parliamentary democratic republic
+PRT,Portugal,Europa,0.095,0.504,33.9,10.2,6.01,unitario,régimen constitucional,semi-presidential republic
+SVN,Eslovenia,Europa,0.294,0.499,24.7,9.8,6.79,unitario,régimen constitucional,parliamentary republic
+TUR,Turquía,Asia,0.446,0.004,43.7,9.8,5.26,unitario,régimen constitucional,presidential republic
+PRY,Paraguay,América,0.095,0.344,44.2,9.7,6.17,unitario,régimen constitucional,presidential republic
+JPN,Japón,Asia,0.049,0.548,32.3,9.6,6.15,unitario,régimen constitucional,parliamentary constitutional monarchy
+GEO,Georgia,Asia,0.24,0.292,34.8,9.3,5.4,unitario,régimen constitucional,semi-presidential republic
+VNM,Vietnam,Asia,0.268,0.248,36.1,9.3,6.35,unitario,régimen cerrado,communist party-led state
+UZB,Uzbekistán,Asia,0.293,0.217,34.5,8.8,6.19,unitario,régimen constitucional,presidential republic; highly authoritarian
+KIR,Kiribati,Oceanía,0.107,0.597,24.7,8.7,,unitario,régimen constitucional,presidential republic
+IND,India,Asia,0.418,0.342,23.0,8.7,4.39,federal,régimen constitucional,federal parliamentary republic
+KGZ,Kirguistán,Asia,0.428,0.184,27.2,8.3,5.86,unitario,régimen constitucional,parliamentary republic
+TON,Tonga,Oceanía,0.068,0.535,27.1,8.2,,unitario,régimen constitucional,constitutional monarchy
+MDA,Moldavia,Europa,0.424,0.183,26.8,8.1,5.82,unitario,régimen constitucional,parliamentary republic
+GRC,Grecia,Europa,0.157,0.323,33.4,8.0,5.78,unitario,régimen constitucional,parliamentary republic
+HRV,Croacia,Europa,0.158,0.369,30.1,7.9,5.87,unitario,régimen constitucional,parliamentary republic
+MHL,Islas Marshall,Oceanía,0.085,0.358,35.5,7.9,,unitario,régimen constitucional,mixed presidential-parliamentary system in free association with the US
+POL,Polonia,Europa,0.061,0.451,28.5,7.3,6.67,unitario,régimen constitucional,parliamentary republic
+IRQ,Irak,Asia,0.381,0.093,29.8,7.1,4.98,federal,régimen constitucional,federal parliamentary republic
+ROU,Rumania,Europa,0.198,0.267,29.8,6.9,6.56,unitario,régimen constitucional,semi-presidential republic
+XKX,Kosovo,Europa,0.136,0.087,38.3,4.3,6.66,unitario,régimen constitucional,parliamentary republic
+CYP,Chipre,Asia,0.024,0.204,31.8,3.6,5.94,unitario,régimen constitucional,"Republic of Cyprus - presidential republic; self-declared ""Turkish Republic of Northern Cyprus"" (TRNC) - parliamentary republic with enhanced presidency"
+THA,Tailandia,Asia,0.049,0.141,33.5,3.2,6.22,unitario,régimen constitucional,constitutional monarchy
+BGD,Bangladés,Asia,0.02,0.165,30.9,2.9,3.85,unitario,régimen constitucional,parliamentary republic
+EGY,Egipto,África,0.006,0.18,28.5,2.7,3.82,unitario,régimen constitucional,presidential republic
+ARM,Armenia,Asia,0.037,0.092,27.2,1.8,5.49,unitario,régimen constitucional,parliamentary democracy; note - constitutional changes adopted in December 2015 transformed the government to a parliamentary system
+TUN,Túnez,África,0.039,0.02,33.7,1.0,4.55,unitario,régimen constitucional,parliamentary republic

@@ -1,0 +1,556 @@
+tabla,columna,tipo_sql,unidad,pct_nulos
+dim_region_geografica,region_geografica_id,INTEGER,,0.0
+dim_region_geografica,nombre_es,TEXT,,0.0
+dim_region_geografica,nombre_en,TEXT,,0.0
+dim_region_geografica,nivel,INTEGER,,0.0
+dim_region_geografica,region_padre_id,REAL,,17.2
+dim_region_bm,region_bm_codigo,TEXT,,0.0
+dim_region_bm,nombre_en,TEXT,,0.0
+dim_region_bm,nombre_es,TEXT,,0.0
+dim_nivel_ingreso,nivel_ingreso_codigo,TEXT,,0.0
+dim_nivel_ingreso,nombre_en,TEXT,,0.0
+dim_nivel_ingreso,nombre_es,TEXT,,0.0
+dim_nivel_ingreso,orden,INTEGER,,0.0
+dim_pais,pais_id,INTEGER,,0.0
+dim_pais,iso3,TEXT,,0.0
+dim_pais,iso2,TEXT,,0.0
+dim_pais,iso_numerico,TEXT,,0.8
+dim_pais,codigo_banco_mundial,TEXT,,13.5
+dim_pais,nombre_es,TEXT,,0.0
+dim_pais,nombre_en,TEXT,,0.0
+dim_pais,nombre_oficial_en,TEXT,,0.0
+dim_pais,nombre_es_banco_mundial,TEXT,,13.5
+dim_pais,region_geografica_id,INTEGER,,0.4
+dim_pais,region_bm_codigo,TEXT,,13.5
+dim_pais,nivel_ingreso_codigo,TEXT,,13.5
+dim_pais,capital,TEXT,,15.9
+dim_pais,latitud_capital,REAL,grados decimales,15.9
+dim_pais,longitud_capital,REAL,grados decimales,15.9
+dim_pais,tipo_entidad,TEXT,,0.0
+dim_pais,es_miembro_onu,INTEGER,0/1,0.0
+dim_pais,pais_soberano_id,INTEGER,,79.3
+dim_pais,en_panel_bm,INTEGER,0/1,0.0
+dim_region_subnacional,region_subnacional_id,INTEGER,,0.0
+dim_region_subnacional,pais_id,INTEGER,,0.0
+dim_region_subnacional,sistema,TEXT,,0.0
+dim_region_subnacional,nombre,TEXT,,0.0
+dim_subdivision,subdivision_id,INTEGER,,0.0
+dim_subdivision,pais_id,INTEGER,,0.0
+dim_subdivision,codigo,TEXT,,0.0
+dim_subdivision,nombre,TEXT,,0.0
+dim_subdivision,nombre_iso,TEXT,,0.0
+dim_subdivision,nombre_es,TEXT,,0.0
+dim_subdivision,nombre_en,TEXT,,0.0
+dim_subdivision,tipo_iso,TEXT,,0.0
+dim_subdivision,tipo_es,TEXT,,0.0
+dim_subdivision,nivel,INTEGER,,0.0
+dim_subdivision,subdivision_padre_id,INTEGER,,100.0
+dim_subdivision,region_subnacional_id,INTEGER,,99.3
+dim_subdivision,latitud,REAL,grados decimales,0.9
+dim_subdivision,longitud,REAL,grados decimales,0.9
+dim_subdivision,wikidata_id,TEXT,,0.5
+dim_subdivision,es_iso_3166_2,INTEGER,0/1,0.0
+dim_subdivision,pais_equivalente_id,INTEGER,,99.2
+pais_equivalencia,pais_id,INTEGER,,0.0
+pais_equivalencia,sistema,TEXT,,0.0
+pais_equivalencia,tipo,TEXT,,0.0
+pais_equivalencia,valor,TEXT,,0.0
+subdivision_equivalencia,subdivision_id,INTEGER,,0.0
+subdivision_equivalencia,sistema,TEXT,,0.0
+subdivision_equivalencia,tipo,TEXT,,0.0
+subdivision_equivalencia,valor,TEXT,,0.0
+rel_reclamo_territorial,pais_id,INTEGER,,0.0
+rel_reclamo_territorial,pais_reclamante_id,INTEGER,,0.0
+rel_reclamo_territorial,subdivision_reclamante_id,REAL,,54.5
+rel_reclamo_territorial,descripcion,TEXT,,0.0
+dim_organizacion,organizacion_codigo,TEXT,,0.0
+dim_organizacion,nombre,TEXT,,0.0
+dim_organizacion,tipo,TEXT,,0.0
+dim_acuerdo_comercial,acuerdo_id,INTEGER,,0.0
+dim_acuerdo_comercial,nombre,TEXT,,0.0
+dim_acuerdo_comercial,tipo,TEXT,,0.0
+dim_acuerdo_comercial,region_acuerdo,TEXT,,0.0
+dim_acuerdo_comercial,listado_omc,INTEGER,,0.0
+dim_rama_cepal,rama_nro,INTEGER,,0.0
+dim_rama_cepal,rama,TEXT,,0.0
+dim_rama_cepal,grupo_sector,TEXT,,0.0
+hecho_pais_anual,pais_id,INTEGER,,0.0
+hecho_pais_anual,anio,INTEGER,,0.0
+hecho_pais_anual,poblacion,INTEGER,,0.0
+hecho_pais_anual,pib_pc_ppp,REAL,,9.4
+hecho_pais_anual,esperanza_vida,REAL,,0.0
+hecho_pais_anual,mortalidad_infantil,REAL,,9.7
+hecho_pais_anual,camas_hospital_x1000,REAL,por 1.000 hab.,45.7
+hecho_pais_anual,medicos_x1000,REAL,por 1.000 hab.,47.3
+hecho_pais_anual,suicidio_total_x100k,REAL,por 100.000 hab.,25.0
+hecho_pais_anual,suicidio_hombres_x100k,REAL,por 100.000 hab.,25.0
+hecho_pais_anual,suicidio_mujeres_x100k,REAL,por 100.000 hab.,25.0
+hecho_pais_anual,gasto_salud_pct_pib,REAL,% del PIB,16.2
+hecho_pais_anual,gasto_salud_pct_gasto_pub,REAL,%,16.2
+hecho_pais_anual,gasto_educacion_pct_pib,REAL,% del PIB,38.0
+hecho_pais_anual,tipo_cambio_lcu_por_usd,REAL,US$,4.7
+hecho_pais_anual,ppa_lcu_por_usd_intl,REAL,US$,8.4
+hecho_pais_anual,gini,REAL,,65.7
+hecho_pais_anual,ingreso_decil1_pct,REAL,%,65.7
+hecho_pais_anual,ingreso_quintil1_pct,REAL,%,65.7
+hecho_pais_anual,ingreso_quintil2_pct,REAL,%,65.7
+hecho_pais_anual,ingreso_quintil3_pct,REAL,%,65.7
+hecho_pais_anual,ingreso_quintil4_pct,REAL,%,65.7
+hecho_pais_anual,ingreso_quintil5_pct,REAL,%,65.7
+hecho_pais_anual,ingreso_decil10_pct,REAL,%,65.7
+hecho_pais_anual,lorenz_acum_10,REAL,,65.7
+hecho_pais_anual,lorenz_acum_20,REAL,,65.7
+hecho_pais_anual,lorenz_acum_40,REAL,,65.7
+hecho_pais_anual,lorenz_acum_60,REAL,,65.7
+hecho_pais_anual,lorenz_acum_80,REAL,,65.7
+hecho_pais_anual,lorenz_acum_90,REAL,,65.7
+hecho_pais_anual,gini_aprox_desde_lorenz,REAL,,65.7
+hecho_pais_anual,ratio_quintil5_quintil1,REAL,,65.7
+hecho_pais_anual,ratio_palma,REAL,,65.7
+hecho_pais_anual,dieta_saludable_lcu_dia,REAL,moneda local por día,74.5
+hecho_pais_anual,dieta_saludable_ppa_dia,REAL,US$ PPA por día,75.5
+hecho_pais_anual,pct_no_puede_pagar_dieta_saludable,REAL,%,78.5
+hecho_pais_anual,dieta_saludable_usd_mes,REAL,US$ por mes,75.3
+hecho_pais_anual,dieta_saludable_lcu_mes,REAL,moneda local por mes,74.5
+hecho_pais_anual,salario_promedio_mensual_lcu,REAL,moneda local,57.8
+hecho_pais_anual,salario_promedio_mensual_usd,REAL,US$,59.2
+hecho_pais_anual,salario_promedio_mensual_ppa,REAL,US$ PPA,60.4
+hecho_pais_anual,felicidad,REAL,,64.2
+hecho_pais_anual,felicidad_ranking,REAL,,64.2
+rel_pais_organizacion,pais_id,INTEGER,,0.0
+rel_pais_organizacion,organizacion_codigo,TEXT,,0.0
+rel_pais_organizacion,estado,TEXT,,0.0
+rel_pais_organizacion,anio_ingreso,INTEGER,,0.0
+rel_pais_organizacion,anio_salida,INTEGER,,92.2
+rel_pais_organizacion,fuente,TEXT,,0.0
+rel_pais_organizacion,nota,TEXT,,74.9
+rel_pais_acuerdo_comercial,pais_id,INTEGER,,0.0
+rel_pais_acuerdo_comercial,acuerdo_id,INTEGER,,0.0
+rel_pais_acuerdo_comercial,via,TEXT,,0.0
+rel_pais_acuerdo_comercial,anio_firma,INTEGER,,0.0
+rel_pais_acuerdo_comercial,anio_entrada_vigor,INTEGER,,10.4
+rel_pais_acuerdo_comercial,anio_salida,INTEGER,,99.1
+rel_alianza_militar_anual,pais_a_id,INTEGER,,0.0
+rel_alianza_militar_anual,pais_b_id,INTEGER,,0.0
+rel_alianza_militar_anual,anio,INTEGER,,0.0
+rel_alianza_militar_anual,defensa,INTEGER,,0.0
+rel_alianza_militar_anual,ofensiva,INTEGER,,0.0
+rel_alianza_militar_anual,neutralidad,INTEGER,,0.0
+rel_alianza_militar_anual,no_agresion,INTEGER,,0.0
+rel_alianza_militar_anual,consulta,INTEGER,,0.0
+hecho_pais_relaciones_anual,pais_id,INTEGER,,0.0
+hecho_pais_relaciones_anual,anio,INTEGER,,0.0
+hecho_pais_relaciones_anual,n_igos_cow_total,INTEGER,,48.4
+hecho_pais_relaciones_anual,n_acuerdos_comerciales_en_vigor,INTEGER,,19.2
+hecho_pais_relaciones_anual,n_aliados_defensa,INTEGER,,26.9
+hecho_pais_relaciones_anual,n_aliados_cualquier_pacto,INTEGER,,26.9
+hecho_pais_perfil_factbook,pais_id,INTEGER,,0.0
+hecho_pais_perfil_factbook,codigo_gec,TEXT,,0.0
+hecho_pais_perfil_factbook,fecha_snapshot,TEXT,,0.0
+hecho_pais_perfil_factbook,superficie_total_km2,REAL,km²,0.8
+hecho_pais_perfil_factbook,superficie_tierra_km2,REAL,km²,0.8
+hecho_pais_perfil_factbook,superficie_agua_km2,REAL,km²,3.3
+hecho_pais_perfil_factbook,costa_km,REAL,km,0.8
+hecho_pais_perfil_factbook,fronteras_terrestres_km,REAL,km,0.4
+hecho_pais_perfil_factbook,n_paises_limitrofes,INTEGER,,0.0
+hecho_pais_perfil_factbook,punto_mas_alto,TEXT,,0.4
+hecho_pais_perfil_factbook,elevacion_maxima_m,REAL,metros,1.2
+hecho_pais_perfil_factbook,elevacion_minima_m,REAL,metros,0.0
+hecho_pais_perfil_factbook,elevacion_media_m,REAL,metros,31.1
+hecho_pais_perfil_factbook,clima,TEXT,,0.0
+hecho_pais_perfil_factbook,terreno,TEXT,,0.4
+hecho_pais_perfil_factbook,recursos_naturales,TEXT,,0.0
+hecho_pais_perfil_factbook,tipo_gobierno,TEXT,,3.3
+hecho_pais_perfil_factbook,sistema_legal,TEXT,,1.6
+hecho_pais_perfil_factbook,independencia,TEXT,,4.5
+hecho_pais_perfil_factbook,anio_independencia,INTEGER,,20.9
+hecho_pais_perfil_factbook,sufragio,TEXT,,4.1
+hecho_pais_perfil_factbook,edad_minima_voto,INTEGER,,5.3
+hecho_pais_perfil_factbook,es_voto_obligatorio,INTEGER,0/1,4.1
+hecho_pais_perfil_factbook,servicio_militar,TEXT,,27.5
+hecho_pais_perfil_factbook,exportaciones_productos,TEXT,,2.9
+hecho_pais_perfil_factbook,importaciones_productos,TEXT,,2.9
+rel_pais_frontera,pais_id,INTEGER,,0.0
+rel_pais_frontera,codigo_gec,TEXT,,0.0
+rel_pais_frontera,vecino_pais_id,INTEGER,,0.0
+rel_pais_frontera,vecino_codigo_gec,TEXT,,0.3
+rel_pais_frontera,vecino_nombre_factbook,TEXT,,0.0
+rel_pais_frontera,frontera_km,REAL,km,0.0
+rel_pais_frontera,nota,TEXT,,99.2
+rel_pais_composicion,pais_id,INTEGER,,0.0
+rel_pais_composicion,codigo_gec,TEXT,,0.0
+rel_pais_composicion,dimension,TEXT,,0.0
+rel_pais_composicion,orden,INTEGER,,0.0
+rel_pais_composicion,grupo,TEXT,,0.0
+rel_pais_composicion,poblacion_pct,REAL,%,16.8
+rel_pais_composicion,es_cota_superior,INTEGER,0/1,16.8
+rel_pais_composicion,es_oficial,INTEGER,0/1,70.7
+rel_pais_composicion,detalle,TEXT,,81.2
+rel_pais_composicion,anio_estimacion,INTEGER,,23.8
+rel_pais_socio_comercial,pais_id,INTEGER,,0.0
+rel_pais_socio_comercial,codigo_gec,TEXT,,0.0
+rel_pais_socio_comercial,flujo,TEXT,,0.0
+rel_pais_socio_comercial,rango,INTEGER,,0.0
+rel_pais_socio_comercial,socio_nombre_factbook,TEXT,,0.0
+rel_pais_socio_comercial,socio_pais_id,INTEGER,,0.0
+rel_pais_socio_comercial,participacion_pct,REAL,%,0.0
+rel_pais_socio_comercial,anio,INTEGER,,0.0
+hecho_pais_migracion_anual,pais_id,INTEGER,,0.0
+hecho_pais_migracion_anual,anio,INTEGER,,0.0
+hecho_pais_migracion_anual,saldo_migratorio_neto,INTEGER,,0.0
+hecho_pais_migracion_anual,stock_migrantes_pct_poblacion,REAL,%,77.0
+hecho_pais_migracion_anual,remesas_recibidas_usd,REAL,US$,21.3
+hecho_pais_migracion_anual,remesas_recibidas_pct_pib,REAL,% del PIB,21.6
+hecho_pais_migracion_anual,remesas_enviadas_usd,REAL,US$,21.6
+hecho_pais_emisiones,pais_id,INTEGER,,0.0
+hecho_pais_emisiones,anio,INTEGER,,0.0
+hecho_pais_emisiones,emisiones_gei_per_capita_tco2e,REAL,t de CO2 equivalente,10.4
+hecho_pais_emisiones,emisiones_gei_total_mtco2e,REAL,millones de t de CO2 equivalente,10.4
+hecho_pais_emisiones,emisiones_co2_per_capita_tco2e,REAL,t de CO2 equivalente,10.4
+hecho_pais_emisiones,energia_renovable_pct_consumo_final,REAL,%,17.0
+hecho_pais_emisiones,electricidad_renovable_pct,REAL,%,5.4
+hecho_pais_emisiones,electricidad_hidro_pct,REAL,%,7.0
+hecho_pais_emisiones,electricidad_solar_eolica_pct,REAL,%,5.4
+hecho_pais_emisiones,personas_afectadas_desastres_climaticos,INTEGER,,45.8
+hecho_pais_emisiones,muertes_desastres_climaticos,INTEGER,,45.8
+hecho_pais_capital_social,pais_id,INTEGER,,0.0
+hecho_pais_capital_social,anio,INTEGER,,0.0
+hecho_pais_capital_social,confianza_interpersonal_pct,REAL,%,92.3
+hecho_pais_capital_social,desconfianza_poder_judicial_pct,REAL,%,92.3
+hecho_pais_capital_social,desconfianza_partidos_congreso_pct,REAL,%,92.3
+hecho_pais_capital_social,confianza_policia_pct,REAL,%,92.3
+hecho_pais_capital_social,confianza_interpersonal_wvs_pct,REAL,%,93.5
+hecho_pais_capital_social,indice_sociedad_civil_0_1,REAL,índice 0-1,0.1
+hecho_pais_capital_social,sociedad_civil_participacion_vdem,REAL,,0.1
+hecho_pais_diversidad_cultural,pais_id,INTEGER,,0.0
+hecho_pais_diversidad_cultural,anio,INTEGER,,0.0
+hecho_pais_diversidad_cultural,es_proteccion_lenguas_constitucion,INTEGER,0/1,1.3
+hecho_pais_diversidad_cultural,es_derechos_indigenas_constitucion,INTEGER,0/1,0.0
+hecho_pais_diversidad_cultural,es_derechos_culturales_constitucion,INTEGER,0/1,5.7
+hecho_pais_poblacion_indigena,pais_id,INTEGER,,0.0
+hecho_pais_poblacion_indigena,decada_censal,INTEGER,,0.0
+hecho_pais_poblacion_indigena,poblacion_indigena_pct,REAL,%,0.0
+hecho_pais_institucional_gobernanza,pais_id,INTEGER,,0.0
+hecho_pais_institucional_gobernanza,anio,INTEGER,,0.0
+hecho_pais_institucional_gobernanza,indice_control_corrupcion,REAL,,5.2
+hecho_pais_institucional_gobernanza,indice_control_corrupcion_0_100,REAL,índice 0-100,5.2
+hecho_pais_institucional_gobernanza,indice_estado_derecho,REAL,,3.9
+hecho_pais_institucional_gobernanza,indice_estado_derecho_0_100,REAL,índice 0-100,3.9
+hecho_pais_institucional_gobernanza,estabilidad_politica_ausencia_violencia,REAL,,4.3
+hecho_pais_institucional_gobernanza,efectividad_gobierno,REAL,,5.8
+hecho_pais_institucional_gobernanza,calidad_regulatoria,REAL,,5.8
+hecho_pais_institucional_gobernanza,voz_rendicion_cuentas,REAL,,4.3
+hecho_pais_institucional_gobernanza,veto_players_count,INTEGER,,34.0
+hecho_pais_institucional_gobernanza,indice_democracia_electoral_0_1,REAL,índice 0-1,14.1
+hecho_pais_institucional_gobernanza,indice_democracia_liberal_0_1,REAL,índice 0-1,14.2
+hecho_pais_institucional_gobernanza,indice_estado_derecho_vdem_0_1,REAL,índice 0-1,14.1
+hecho_pais_institucional_gobernanza,indice_corrupcion_politica_vdem_0_1,REAL,índice 0-1,14.3
+hecho_pais_institucional_gobernanza,restricciones_judiciales_ejecutivo_0_1,REAL,índice 0-1,14.2
+hecho_pais_institucional_gobernanza,restricciones_legislativas_ejecutivo_0_1,REAL,índice 0-1,14.9
+hecho_pais_financiero_deuda,pais_id,INTEGER,,0.0
+hecho_pais_financiero_deuda,anio,INTEGER,,0.0
+hecho_pais_financiero_deuda,pib_usd,REAL,US$,0.9
+hecho_pais_financiero_deuda,deuda_externa_ids_usd,REAL,US$,46.0
+hecho_pais_financiero_deuda,deuda_externa_pct_ingreso_nacional,REAL,%,46.8
+hecho_pais_financiero_deuda,deuda_externa_corto_plazo_pct,REAL,%,45.8
+hecho_pais_financiero_deuda,servicio_deuda_pct_exportaciones,REAL,%,49.9
+hecho_pais_financiero_deuda,servicio_deuda_pct_ingreso_nacional,REAL,%,46.6
+hecho_pais_financiero_deuda,deuda_gobierno_central_pct_pib,REAL,% del PIB,79.2
+hecho_pais_financiero_deuda,intereses_pct_ingresos_fiscales,REAL,%,46.3
+hecho_pais_financiero_deuda,reservas_internacionales_usd,REAL,US$,18.8
+hecho_pais_financiero_deuda,reservas_internacionales_meses_importacion,REAL,,24.9
+hecho_pais_financiero_deuda,deuda_externa_usd,REAL,US$,58.3
+hecho_pais_financiero_deuda,spread_embi_pb,REAL,puntos básicos,97.1
+hecho_pais_financiero_deuda,spread_embi_meses,INTEGER,,97.1
+hecho_pais_salud_cronica,pais_id,INTEGER,,0.0
+hecho_pais_salud_cronica,anio,INTEGER,,0.0
+hecho_pais_salud_cronica,diabetes_prevalencia_pct,REAL,%,91.5
+hecho_pais_salud_cronica,mortalidad_ent_30_70_pct,REAL,%,19.3
+hecho_pais_salud_cronica,muertes_ent_pct,INTEGER,%,78.0
+hecho_pais_salud_cronica,hipertension_prevalencia_pct,REAL,%,23.1
+hecho_pais_salud_cronica,obesidad_adultos_pct,REAL,%,1.4
+hecho_pais_salud_cronica,avad_total,INTEGER,,15.5
+hecho_pais_tecnologia,pais_id,INTEGER,,0.0
+hecho_pais_tecnologia,anio,INTEGER,,0.0
+hecho_pais_tecnologia,banda_ancha_fija_x100,REAL,por 100 hab.,15.9
+hecho_pais_tecnologia,usuarios_internet_pct,REAL,%,4.3
+hecho_pais_tecnologia,gasto_en_i_d_pct_pib,REAL,% del PIB,56.8
+hecho_pais_tecnologia,hogares_con_conectividad_pct,REAL,%,85.0
+hecho_pais_educacion,pais_id,INTEGER,,0.0
+hecho_pais_educacion,anio,INTEGER,,0.0
+hecho_pais_educacion,alfabetizacion_adultos_pct,REAL,%,66.2
+hecho_pais_educacion,alfabetizacion_adultos_mujeres_pct,REAL,%,65.7
+hecho_pais_educacion,alfabetizacion_adultos_hombres_pct,REAL,%,66.1
+hecho_pais_educacion,alfabetizacion_jovenes_15_24_pct,REAL,%,60.7
+hecho_pais_educacion,nivel_alcanzado_primaria_pct,REAL,%,21.8
+hecho_pais_educacion,nivel_alcanzado_secundaria_baja_pct,REAL,%,34.3
+hecho_pais_educacion,nivel_alcanzado_secundaria_alta_pct,REAL,%,20.5
+hecho_pais_educacion,nivel_alcanzado_postsecundaria_pct,REAL,%,50.7
+hecho_pais_educacion,nivel_alcanzado_terciaria_ciclo_corto_pct,REAL,%,27.2
+hecho_pais_educacion,nivel_alcanzado_licenciatura_pct,REAL,%,50.2
+hecho_pais_educacion,nivel_alcanzado_maestria_pct,REAL,%,60.5
+hecho_pais_educacion,nivel_alcanzado_doctorado_pct,REAL,%,70.2
+hecho_pais_educacion,escolaridad_promedio_25mas_anios,REAL,años,65.2
+hecho_pais_educacion,escolaridad_esperada_anios,REAL,años,77.3
+hecho_pais_educacion,escolaridad_ajustada_aprendizaje_anios,REAL,años,78.1
+hecho_pais_digital_ocio,pais_id,INTEGER,,0.0
+hecho_pais_digital_ocio,anio,INTEGER,,0.0
+hecho_pais_digital_ocio,usa_redes_sociales_16_74_pct,REAL,%,30.4
+hecho_pais_digital_ocio,usa_redes_sociales_16_24_pct,REAL,%,33.7
+hecho_pais_digital_ocio,compro_online_videojuegos_software_16_74_pct,REAL,%,21.9
+hecho_pais_digital_ocio,compro_online_videojuegos_software_16_24_pct,REAL,%,24.3
+hecho_pais_digital_ocio,compro_online_algo_16_74_pct,REAL,%,0.5
+hecho_pais_empleo_sectorial,pais_id,INTEGER,,0.0
+hecho_pais_empleo_sectorial,anio,INTEGER,,0.0
+hecho_pais_empleo_sectorial,empleo_total_modelado_miles_personas,REAL,miles de personas,1.1
+hecho_pais_empleo_sectorial,empleo_construccion_modelado_miles_personas,REAL,miles de personas,1.1
+hecho_pais_empleo_sectorial,empleo_total_encuesta_miles_personas,REAL,miles de personas,71.5
+hecho_pais_empleo_sectorial,empleo_artes_espectaculos_miles_personas,REAL,miles de personas,73.4
+hecho_pais_empleo_sectorial,empleo_bibliotecas_museos_patrimonio_miles_personas,REAL,miles de personas,75.8
+hecho_pais_empleo_sectorial,empleo_juegos_azar_apuestas_miles_personas,REAL,miles de personas,79.3
+hecho_pais_gasto_cultura,pais_id,INTEGER,,0.0
+hecho_pais_gasto_cultura,anio,INTEGER,,0.0
+hecho_pais_gasto_cultura,gasto_recreacion_cultura_religion_pct_pib,REAL,% del PIB,7.4
+hecho_pais_gasto_cultura,gasto_recreacion_cultura_religion_pct_gasto_publico,REAL,% del gasto público,7.1
+hecho_pais_gasto_cultura,gasto_servicios_culturales_pct_pib,REAL,% del PIB,32.4
+hecho_pais_gasto_cultura,gasto_servicios_culturales_pct_gasto_publico,REAL,% del gasto público,32.2
+hecho_pais_gasto_cultura,gasto_recreacion_cultura_religion_gob_central_pct_pib,REAL,% del PIB,10.4
+hecho_pais_gasto_cultura,gasto_servicios_culturales_gob_central_pct_pib,REAL,% del PIB,36.1
+hecho_pais_gasto_cultura,gasto_recreacion_cultura_religion_usd_ppa_millones,REAL,millones de US$ PPA,61.7
+hecho_pais_gasto_cultura,fuente_gobierno_general,TEXT,,7.4
+hecho_pais_deporte_olimpico,pais_id,INTEGER,,0.0
+hecho_pais_deporte_olimpico,anio,INTEGER,,0.0
+hecho_pais_deporte_olimpico,juegos_olimpicos,TEXT,,0.0
+hecho_pais_deporte_olimpico,atletas_participantes,INTEGER,,0.0
+hecho_pais_deporte_olimpico,atletas_mujeres,INTEGER,,0.0
+hecho_pais_deporte_olimpico,medallas_oro,INTEGER,,0.0
+hecho_pais_deporte_olimpico,medallas_plata,INTEGER,,0.0
+hecho_pais_deporte_olimpico,medallas_bronce,INTEGER,,0.0
+hecho_pais_consolas_comercio,pais_id,INTEGER,,0.0
+hecho_pais_consolas_comercio,anio,INTEGER,,0.0
+hecho_pais_consolas_comercio,importaciones_consolas_usd,REAL,US$,0.1
+hecho_pais_consolas_comercio,exportaciones_consolas_usd,REAL,US$,31.1
+hecho_subdivision_poblacion,subdivision_id,INTEGER,,0.0
+hecho_subdivision_poblacion,anio,INTEGER,,0.0
+hecho_subdivision_poblacion,habitantes,INTEGER,,0.0
+hecho_subdivision_poblacion,varones,INTEGER,,0.0
+hecho_subdivision_poblacion,mujeres,INTEGER,,0.0
+hecho_subdivision_economia,subdivision_id,INTEGER,,0.0
+hecho_subdivision_economia,anio,INTEGER,,0.0
+hecho_subdivision_economia,estado_dato,TEXT,,0.0
+hecho_subdivision_economia,vab_total_mill_pesos_2004,REAL,millones de $ de 2004,0.0
+hecho_subdivision_economia,pct_vab_adm_publica,REAL,%,0.0
+hecho_subdivision_economia,pct_vab_ensenanza_publica,REAL,%,0.0
+hecho_subdivision_economia,pct_vab_salud_publica,REAL,%,0.0
+hecho_subdivision_economia,pct_vab_hoteles,REAL,%,0.0
+hecho_subdivision_economia,pct_vab_restaurantes,REAL,%,0.0
+hecho_subdivision_economia,pct_vab_sector_publico,REAL,%,0.0
+hecho_subdivision_economia,pct_vab_turismo,REAL,%,0.0
+hecho_subdivision_economia,pbg_per_capita_pesos_2004,REAL,$ de 2004,4.8
+hecho_subdivision_economia,poblacion_implicita_vab,REAL,,4.8
+hecho_subdivision_vab_rama,subdivision_id,INTEGER,,0.0
+hecho_subdivision_vab_rama,anio,INTEGER,,0.0
+hecho_subdivision_vab_rama,estado_dato,TEXT,,0.0
+hecho_subdivision_vab_rama,rama_nro,INTEGER,,0.0
+hecho_subdivision_vab_rama,vab_mill_pesos_2004,REAL,millones de $ de 2004,0.0
+hecho_subdivision_vab_rama,participacion_en_provincia,REAL,proporción (0-1),0.0
+hecho_subdivision_hidrocarburos,subdivision_id,INTEGER,,0.0
+hecho_subdivision_hidrocarburos,anio,INTEGER,,0.0
+hecho_subdivision_hidrocarburos,petroleo_m3_convencional,REAL,m³,0.0
+hecho_subdivision_hidrocarburos,petroleo_m3_no_convencional,REAL,m³,0.0
+hecho_subdivision_hidrocarburos,petroleo_m3_total,REAL,m³,0.0
+hecho_subdivision_hidrocarburos,gas_miles_m3_convencional,REAL,m³,1.4
+hecho_subdivision_hidrocarburos,gas_miles_m3_no_convencional,REAL,m³,1.4
+hecho_subdivision_hidrocarburos,gas_miles_m3_total,REAL,m³,1.4
+hecho_subdivision_hidrocarburos,meses_con_dato,INTEGER,,0.0
+hecho_subdivision_agricultura,subdivision_id,INTEGER,,0.0
+hecho_subdivision_agricultura,campania,TEXT,,0.0
+hecho_subdivision_agricultura,anio_cosecha,INTEGER,,0.0
+hecho_subdivision_agricultura,cultivo,TEXT,,0.0
+hecho_subdivision_agricultura,sup_sembrada_ha,INTEGER,hectáreas,0.0
+hecho_subdivision_agricultura,sup_cosechada_ha,INTEGER,hectáreas,0.0
+hecho_subdivision_agricultura,produccion_tn,INTEGER,toneladas,0.0
+hecho_subdivision_agricultura,rendimiento_kg_ha,REAL,hectáreas,8.8
+hecho_subdivision_ganaderia,subdivision_id,INTEGER,,0.0
+hecho_subdivision_ganaderia,anio,INTEGER,,0.0
+hecho_subdivision_ganaderia,vacas,REAL,,0.0
+hecho_subdivision_ganaderia,vaquillonas,REAL,,0.0
+hecho_subdivision_ganaderia,novillos,REAL,,0.0
+hecho_subdivision_ganaderia,novillitos,REAL,,0.0
+hecho_subdivision_ganaderia,terneros,REAL,,0.0
+hecho_subdivision_ganaderia,terneras,REAL,,0.0
+hecho_subdivision_ganaderia,toros,REAL,,0.0
+hecho_subdivision_ganaderia,toritos,INTEGER,,0.0
+hecho_subdivision_ganaderia,bueyes,TEXT,,0.0
+hecho_subdivision_ganaderia,total_cabezas,REAL,,0.0
+hecho_subdivision_censo,subdivision_id,INTEGER,,0.0
+hecho_subdivision_censo,anio_censo,INTEGER,,0.0
+hecho_subdivision_censo,hogares,INTEGER,,0.0
+hecho_subdivision_censo,habitantes,INTEGER,,0.0
+hecho_subdivision_censo,pct_hogares_inquilino,REAL,%,0.0
+hecho_subdivision_censo,pct_hogares_otra_tenencia,REAL,%,0.0
+hecho_subdivision_censo,pct_hogares_prestada_o_cedida,REAL,%,0.0
+hecho_subdivision_censo,pct_hogares_propietario,REAL,%,0.0
+hecho_subdivision_censo,pct_hogares_agua_de_red,REAL,%,0.0
+hecho_subdivision_censo,pct_hogares_cloaca,REAL,%,0.0
+hecho_subdivision_censo,pct_hogares_gas_de_red,REAL,%,0.0
+hecho_subdivision_censo,pct_hogares_con_nbi,REAL,%,0.0
+hecho_subdivision_censo,pct_personas_escuela_asiste,REAL,%,0.0
+hecho_subdivision_censo,pct_personas_escuela_asistio,REAL,%,0.0
+hecho_subdivision_censo,pct_personas_escuela_nunca_asistio,REAL,%,0.0
+hecho_subdivision_censo,pct_personas_max_nivel_primario,REAL,%,50.0
+hecho_subdivision_censo,pct_personas_max_nivel_secundario,REAL,%,50.0
+hecho_subdivision_censo,pct_personas_max_nivel_sin_primario,REAL,%,50.0
+hecho_subdivision_censo,pct_personas_max_nivel_superior,REAL,%,50.0
+hecho_subdivision_censo,pct_personas_salud_obra_social_o_prepaga,REAL,%,50.0
+hecho_subdivision_censo,pct_personas_salud_sin_cobertura,REAL,%,50.0
+hecho_subdivision_censo,pct_personas_salud_solo_plan_estatal,REAL,%,50.0
+hecho_subdivision_turismo,subdivision_id,INTEGER,,0.0
+hecho_subdivision_turismo,anio,INTEGER,,0.0
+hecho_subdivision_turismo,pernoctes_no_residentes,REAL,,0.0
+hecho_subdivision_turismo,pernoctes_residentes,REAL,,0.0
+hecho_subdivision_turismo,pernoctes_total,REAL,,0.0
+hecho_subdivision_turismo,meses_con_dato,INTEGER,,0.0
+hecho_subdivision_turismo,localidades_relevadas,INTEGER,,0.0
+hecho_subdivision_turismo,viajeros_no_residentes,REAL,,0.0
+hecho_subdivision_turismo,viajeros_residentes,REAL,,0.0
+hecho_subdivision_turismo,viajeros_total,REAL,,0.0
+hecho_subdivision_clima,subdivision_id,INTEGER,,0.0
+hecho_subdivision_clima,anio,INTEGER,,0.0
+hecho_subdivision_clima,temperatura_media_c,REAL,°C,0.0
+hecho_subdivision_salud,subdivision_id,INTEGER,,0.0
+hecho_subdivision_salud,anio,INTEGER,,0.0
+hecho_subdivision_salud,pct_vacuna_srp_1ra_dosis_12_meses,REAL,%,0.0
+hecho_subdivision_salud,pct_vacuna_srp_2da_dosis_ingreso_escolar,REAL,%,0.0
+hecho_subdivision_salud,medicos,REAL,,25.0
+hecho_subdivision_salud,medicos_cada_10000_hab,REAL,por 10.000 hab.,25.0
+hecho_subdivision_empresas,subdivision_id,INTEGER,,0.0
+hecho_subdivision_empresas,anio,INTEGER,,0.0
+hecho_subdivision_empresas,empresas_con_empleados,INTEGER,,0.0
+hecho_subdivision_empresas,empresas_cada_1000_hab,REAL,por 1.000 hab.,48.3
+hecho_subdivision_empresas,empresas_grandes_ind_com_serv,REAL,,96.6
+hecho_subdivision_empresas,empresas_medianas_ind_com_serv,REAL,,96.6
+hecho_subdivision_empresas,empresas_pequenas_ind_com_serv,REAL,,96.6
+hecho_subdivision_empresas,empresas_micro_ind_com_serv,REAL,,96.6
+hecho_subdivision_empresas,cep_empresas_con_empleados,REAL,,93.1
+hecho_subdivision_empresas,cep_locales_1_a_9_empleados,REAL,,93.1
+hecho_subdivision_empresas,cep_locales_10_a_49_empleados,REAL,,93.1
+hecho_subdivision_empresas,cep_locales_50_a_199_empleados,REAL,,93.1
+hecho_subdivision_empresas,cep_locales_200_a_499_empleados,REAL,,93.1
+hecho_subdivision_empresas,cep_locales_500_o_mas_empleados,REAL,,93.1
+hecho_subdivision_pymes,subdivision_id,INTEGER,,0.0
+hecho_subdivision_pymes,anio,INTEGER,,0.0
+hecho_subdivision_pymes,fecha_corte,TEXT,,0.0
+hecho_subdivision_pymes,pymes_total,INTEGER,,0.0
+hecho_subdivision_pymes,pymes_micro,INTEGER,,0.0
+hecho_subdivision_pymes,pymes_pequenas,INTEGER,,0.0
+hecho_subdivision_pymes,pymes_medianas_tramo1,INTEGER,,0.0
+hecho_subdivision_pymes,pymes_medianas_tramo2,INTEGER,,0.0
+hecho_subdivision_pymes,pymes_cada_1000_hab,REAL,por 1.000 hab.,0.0
+hecho_subdivision_fiscal,subdivision_id,INTEGER,,0.0
+hecho_subdivision_fiscal,anio,INTEGER,,0.0
+hecho_subdivision_fiscal,recaudacion_propia_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_fiscal,recaudacion_automotores_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_fiscal,recaudacion_ingresos_brutos_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_fiscal,recaudacion_inmobiliario_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_fiscal,recaudacion_otros_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_fiscal,recaudacion_sellos_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_fiscal,pct_ingresos_brutos_en_total,REAL,%,0.0
+hecho_subdivision_fiscal,presion_tributaria_pct_pbg_estimado,REAL,% del PBG (estimado),39.9
+hecho_subdivision_fiscal,recaudacion_por_habitante_pesos_2024,REAL,$ de 2024,54.4
+hecho_subdivision_fiscal,alicuota_iibb_comercio_pct,REAL,%,96.1
+hecho_subdivision_fiscal,alicuota_iibb_industria_pct,REAL,%,94.6
+hecho_subdivision_alicuota_iibb,subdivision_id,INTEGER,,0.0
+hecho_subdivision_alicuota_iibb,anio,INTEGER,,0.0
+hecho_subdivision_alicuota_iibb,actividad,TEXT,,0.0
+hecho_subdivision_alicuota_iibb,alicuota_pct,REAL,%,5.6
+hecho_subdivision_alicuota_iibb,alicuota_texto,TEXT,,90.6
+hecho_subdivision_salarios,subdivision_id,INTEGER,,0.0
+hecho_subdivision_salarios,anio,INTEGER,,0.0
+hecho_subdivision_salarios,salario_promedio_mensual_pesos,REAL,$ corrientes,0.0
+hecho_subdivision_salarios,salario_promedio_mensual_pesos_2024,REAL,$ de 2024,0.0
+hecho_subdivision_salarios,puestos_asalariados_privados_registrados,REAL,,3.2
+hecho_subdivision_canastas,subdivision_id,INTEGER,,0.0
+hecho_subdivision_canastas,anio,INTEGER,,0.0
+hecho_subdivision_canastas,cba_adulto_equivalente_pesos_estimado_por_region,REAL,$ corrientes,0.0
+hecho_subdivision_canastas,cbt_adulto_equivalente_pesos_estimado_por_region,REAL,$ corrientes,0.0
+hecho_subdivision_canastas,meses_con_dato,INTEGER,,0.0
+hecho_subdivision_canastas,cbt_hogar_tipo_4_personas_pesos_estimado_por_region,REAL,$ corrientes,0.0
+hecho_subdivision_pobreza,subdivision_id,INTEGER,,0.0
+hecho_subdivision_pobreza,anio,INTEGER,,0.0
+hecho_subdivision_pobreza,trimestres_con_dato,INTEGER,,0.0
+hecho_subdivision_pobreza,pct_personas_pobres_estimado,REAL,%,0.0
+hecho_subdivision_pobreza,pct_personas_indigentes_estimado,REAL,%,0.0
+hecho_subdivision_pobreza,gini_ingreso_per_capita_familiar_estimado_grandes_ciudades,REAL,,0.0
+hecho_subdivision_pobreza,casos_encuestados,INTEGER,,0.0
+hecho_subdivision_gobierno,subdivision_id,INTEGER,,0.0
+hecho_subdivision_gobierno,anio,INTEGER,,0.0
+hecho_subdivision_gobierno,familia_politica_gobierno,TEXT,,0.0
+hecho_subdivision_gobierno,ganador_ultima_eleccion,TEXT,,0.0
+hecho_subdivision_gobierno,anio_ultima_eleccion,INTEGER,,0.0
+hecho_subdivision_eleccion_gobernador,subdivision_id,INTEGER,,0.0
+hecho_subdivision_eleccion_gobernador,anio_eleccion,INTEGER,,0.0
+hecho_subdivision_eleccion_gobernador,lista_ganadora,TEXT,,0.0
+hecho_subdivision_eleccion_gobernador,pct_votos_ganador,REAL,%,13.0
+hecho_subdivision_eleccion_gobernador,segunda_vuelta,INTEGER,,0.0
+hecho_subdivision_eleccion_gobernador,fuente,TEXT,,0.0
+hecho_subdivision_eleccion_gobernador,familia_politica,TEXT,,0.0
+hecho_subdivision_eleccion_gobernador,aclaracion,TEXT,,97.3
+hecho_subdivision_legisladores,subdivision_id,INTEGER,,0.0
+hecho_subdivision_legisladores,anio,INTEGER,,0.0
+hecho_subdivision_legisladores,camara,TEXT,,0.0
+hecho_subdivision_legisladores,bancas,INTEGER,,0.0
+hecho_subdivision_legisladores,bancas_la_libertad_avanza,INTEGER,,0.0
+hecho_subdivision_legisladores,bancas_pro_juntos_por_el_cambio,INTEGER,,0.0
+hecho_subdivision_legisladores,bancas_izquierda,INTEGER,,0.0
+hecho_subdivision_legisladores,bancas_otros,INTEGER,,0.0
+hecho_subdivision_legisladores,bancas_partido_provincial,INTEGER,,0.0
+hecho_subdivision_legisladores,bancas_peronismo,INTEGER,,0.0
+hecho_subdivision_legisladores,bancas_radicalismo,INTEGER,,0.0
+hecho_subdivision_legisladores,familia_mayoritaria,TEXT,,0.0
+hecho_subdivision_legisladores,bloque_o_partido_mayoritario,TEXT,,0.0
+hecho_subdivision_financiero,subdivision_id,INTEGER,,0.0
+hecho_subdivision_financiero,anio,INTEGER,,0.0
+hecho_subdivision_financiero,deuda_stock_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_financiero,deuda_gobierno_nacional_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_financiero,deuda_fffir_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_financiero,deuda_ffdp_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_financiero,deuda_bancos_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_financiero,deuda_consolidada_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_financiero,deuda_bonos_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_financiero,deuda_organismos_internacionales_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_financiero,servicio_deuda_amortizacion_mill_pesos,REAL,millones de $ corrientes,19.7
+hecho_subdivision_financiero,servicio_deuda_intereses_mill_pesos,REAL,millones de $ corrientes,19.7
+hecho_subdivision_finanzas_publicas,subdivision_id,INTEGER,,0.0
+hecho_subdivision_finanzas_publicas,anio,INTEGER,,0.0
+hecho_subdivision_finanzas_publicas,ingresos_corrientes_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_finanzas_publicas,tributarios_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_finanzas_publicas,tributarios_origen_provincial_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_finanzas_publicas,tributarios_origen_nacional_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_finanzas_publicas,coparticipacion_neta_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_finanzas_publicas,contribuciones_seguridad_social_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_finanzas_publicas,regalias_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_finanzas_publicas,transferencias_corrientes_recibidas_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_finanzas_publicas,gasto_corriente_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_finanzas_publicas,gasto_personal_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_finanzas_publicas,intereses_deuda_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_finanzas_publicas,transferencias_capital_recibidas_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_finanzas_publicas,inversion_real_directa_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_finanzas_publicas,ingresos_totales_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_finanzas_publicas,gasto_total_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_finanzas_publicas,resultado_financiero_mill_pesos,REAL,millones de $ corrientes,0.0
+hecho_subdivision_ambiental,subdivision_id,INTEGER,,0.0
+hecho_subdivision_ambiental,anio,INTEGER,,0.0
+hecho_subdivision_ambiental,emisiones_gei_per_capita_tco2e,REAL,t de CO2 equivalente,47.7
+hecho_subdivision_ambiental,emisiones_gei_total_tco2e,REAL,t de CO2 equivalente,0.0
+hecho_subdivision_ambiental,emisiones_gei_electricidad_tco2e,REAL,t de CO2 equivalente,0.0
+hecho_subdivision_ambiental,emisiones_gei_industria_tco2e,REAL,t de CO2 equivalente,0.0
+hecho_subdivision_ambiental,emisiones_gei_transporte_tco2e,REAL,t de CO2 equivalente,0.0
+hecho_subdivision_ambiental,emisiones_gei_edificios_tco2e,REAL,t de CO2 equivalente,0.0
+hecho_subdivision_ambiental,emisiones_gei_agro_tco2e,REAL,t de CO2 equivalente,0.0
+hecho_subdivision_ambiental,emisiones_gei_residuos_tco2e,REAL,t de CO2 equivalente,0.0
+hecho_subdivision_tecnologia,subdivision_id,INTEGER,,0.0
+hecho_subdivision_tecnologia,anio,INTEGER,,0.0
+hecho_subdivision_tecnologia,internet_fijo_accesos_x100_hogares,REAL,por 100 hogares,0.0
+hecho_subdivision_tecnologia,internet_fijo_accesos_x100_hab,REAL,por 100 hab.,0.0
+hecho_subdivision_tecnologia,internet_fijo_trimestre,INTEGER,,0.0

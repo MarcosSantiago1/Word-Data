@@ -1,0 +1,23 @@
+# Archivos que NO se suben a GitHub
+
+# Más de 100 MB: GitHub lo rechaza. Se vuelve a bajar corriendo
+# etl/fuentes_nuevas/extraer_dimensiones_nuevas.py
+etl/fuentes_nuevas/crudos/ccpcnc_v5.zip
+
+# Copias de seguridad de la actualización mensual (versiones viejas)
+etl/historial/
+
+# Basura que genera Python y Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Notas internas de trabajo
+.notes/
+
+# Lo que guarda el notebook con GUARDAR = True y la copia que baja de GitHub
+notebooks/resultados_notebook/
+notebooks/proyecto_github/
+
+# Archivos adjuntados en el chat del proyecto
+uploads/

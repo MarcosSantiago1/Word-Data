@@ -1,0 +1,8 @@
+
+$ python paso1_extraer_banco_mundial.py
+1/3 Descargando la lista de países...
+    217 países (sin agregados regionales)
+2/3 Descargando 12 indicadores (2000-2024)...
+    poblacion                      6625 valores
+    pib_pc_ppp                     6116 valores
+    esperanza_vida                 6625 valores

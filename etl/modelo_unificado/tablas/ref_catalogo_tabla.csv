@@ -1,0 +1,61 @@
+tabla,tipo,grano,fuente,archivo_origen,filas,anio_min,anio_max
+dim_region_geografica,dim,region_geografica_id (código M49),ONU M49 (lukes/ISO-3166-Countries-with-Regional-Codes),,29,,
+dim_region_bm,dim,region_bm_codigo,Banco Mundial API,,7,,
+dim_nivel_ingreso,dim,nivel_ingreso_codigo,Banco Mundial API,,4,,
+dim_pais,dim,"pais_id (también único: iso3, iso2)","maestros/paises_maestro.csv (ISO 3166-1, Banco Mundial, Wikidata) + dependencias a mano",,251,,
+dim_region_subnacional,dim,region_subnacional_id,"INDEC, regiones de la EPH",,6,,
+dim_subdivision,dim,subdivision_id (también único: codigo),"maestros/subdivisiones_maestro.csv (ISO 3166-2, Wikidata) + regiones EPH",,3591,,
+pais_equivalencia,puente,"sistema, valor","maestros, Banco Mundial, WHR (paso 2), ILOSTAT (paso 2), Correlates of War, CIA World Factbook",,2306,,
+subdivision_equivalencia,puente,"sistema, valor",códigos INDEC y GAUL del script de provincias + nombres en las fuentes,,53,,
+rel_reclamo_territorial,rel,"pais_id, pais_reclamante_id",carga manual,,11,,
+dim_organizacion,dim,organizacion_codigo,alianzas/membresias_organizaciones.csv,,48,,
+dim_acuerdo_comercial,dim,acuerdo_id,DESTA 2.0,,842,,
+dim_rama_cepal,dim,rama_nro,CEPAL-MECON,,52,,
+hecho_pais_anual,hecho,"pais_id, anio","Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",datos_procesados/paises_anual.csv,5425,2000.0,2024.0
+rel_pais_organizacion,rel,"pais_id, organizacion_codigo, anio_ingreso",COW IGO v3 + carga manual verificada con Wikidata,alianzas/membresias_organizaciones.csv,986,1890.0,2026.0
+rel_pais_acuerdo_comercial,rel,"pais_id, acuerdo_id",DESTA 2.0,alianzas/tratados_comerciales_pais.csv,4913,1949.0,2020.0
+rel_alianza_militar_anual,rel,"pais_a_id, pais_b_id, anio",ATOP 5.1,alianzas/alianzas_militares_diadas.csv,128213,1945.0,2018.0
+hecho_pais_relaciones_anual,hecho,"pais_id, anio","COW IGO, DESTA, ATOP (conteos)",alianzas/alianzas_pais_anual.csv,5642,2000.0,2025.0
+hecho_pais_perfil_factbook,hecho,"pais_id, codigo_gec","CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",factbook/factbook_perfil_pais.csv,244,,
+rel_pais_frontera,rel,"pais_id, codigo_gec, vecino_nombre_factbook","CIA World Factbook, foto del 22-01-2026",factbook/factbook_fronteras.csv,646,,
+rel_pais_composicion,rel,"pais_id, codigo_gec, dimension, orden","CIA World Factbook, foto del 22-01-2026 (religiones, etnias, idiomas)",factbook/factbook_composicion.csv,3764,,
+rel_pais_socio_comercial,rel,"pais_id, codigo_gec, flujo, rango","CIA World Factbook, foto del 22-01-2026 (5 principales socios)",factbook/factbook_socios_comerciales.csv,2317,2017.0,2023.0
+hecho_pais_migracion_anual,hecho,"pais_id, anio",Banco Mundial (ONU WPP 2024; remesas de balanza de pagos FMI),fuentes_nuevas/pais_migracion_anual.csv,5642,2000.0,2025.0
+hecho_pais_emisiones,hecho,"pais_id, anio","Banco Mundial (EDGAR, SE4All), OWID (Ember/Energy Institute, EM-DAT)",fuentes_nuevas/pais_emisiones_energia_anual.csv,5665,2000.0,2025.0
+hecho_pais_capital_social,hecho,"pais_id, anio","CEPALSTAT (Latinobarómetro), OWID (World Values Survey), V-Dem v16",fuentes_nuevas/pais_capital_social_anual.csv,4570,2000.0,2025.0
+hecho_pais_diversidad_cultural,hecho,"pais_id, anio",Comparative Constitutions Project v5,fuentes_nuevas/pais_diversidad_cultural_anual.csv,4506,2000.0,2023.0
+hecho_pais_poblacion_indigena,hecho,"pais_id, decada_censal","CEPALSTAT / CELADE, censos de población",fuentes_nuevas/pais_poblacion_indigena.csv,30,2000.0,2020.0
+hecho_pais_institucional_gobernanza,hecho,"pais_id, anio","Banco Mundial WGI, V-Dem v16, BID DPI 2020",fuentes_nuevas/pais_gobernanza_anual.csv,5317,2000.0,2025.0
+hecho_pais_financiero_deuda,hecho,"pais_id, anio","Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",fuentes_nuevas/pais_financiero_deuda_anual.csv,5480,2000.0,2026.0
+hecho_pais_salud_cronica,hecho,"pais_id, anio","Banco Mundial, OMS GHO, OMS GHE 2021 vía OWID (AVAD)",fuentes_nuevas/pais_salud_cronica_anual.csv,5044,2000.0,2024.0
+hecho_pais_tecnologia,hecho,"pais_id, anio","Banco Mundial (UIT, UNESCO), OCDE ICT hogares",fuentes_nuevas/pais_tecnologia_anual.csv,5122,2000.0,2025.0
+hecho_pais_educacion,hecho,"pais_id, anio","Banco Mundial (UNESCO-UIS: alfabetización, nivel alcanzado; Índice de Capital Humano)",indicadores_sociales_digitales/pais_educacion_anual.csv,2727,2000.0,2025.0
+hecho_pais_digital_ocio,hecho,"pais_id, anio","OCDE, ICT Access and Usage by Individuals (16-74 y 16-24 años)",indicadores_sociales_digitales/pais_digital_ocio_anual.csv,741,2005.0,2025.0
+hecho_pais_empleo_sectorial,hecho,"pais_id, anio",OIT (estimaciones modeladas; encuestas de hogares a 2 dígitos CIIU rev. 4),indicadores_sociales_digitales/pais_empleo_sectorial_anual.csv,4926,2000.0,2025.0
+hecho_pais_gasto_cultura,hecho,"pais_id, anio","FMI GFS COFOG; OCDE Government at a Glance (Chile, Colombia y US$ PPA)",indicadores_sociales_digitales/pais_gasto_cultura_anual.csv,1700,2000.0,2025.0
+hecho_pais_deporte_olimpico,hecho,"pais_id, anio","Olympedia: medallero y atletas por edición (verano en años pares de JJ. OO., invierno en los otros; Tokio 2020 se jugó en 2021)",indicadores_sociales_digitales/pais_deporte_olimpico.csv,2016,2000.0,2026.0
+hecho_pais_consolas_comercio,hecho,"pais_id, anio","UN Comtrade, consolas de videojuegos HS 950450 (HS 950410 hasta 2011)",indicadores_sociales_digitales/pais_consolas_comercio_anual.csv,3927,2000.0,2025.0
+hecho_subdivision_poblacion,hecho,"subdivision_id, anio","INDEC, proyecciones de población base Censo 2010",argentina_provincias/poblacion_provincia_anual.csv,744,2010.0,2040.0
+hecho_subdivision_economia,hecho,"subdivision_id, anio",CEPAL-MECON (VAB 52 ramas) y Argendata (PBG per cápita),argentina_provincias/indicadores_provincia_anual.csv,504,2004.0,2024.0
+hecho_subdivision_vab_rama,hecho,"subdivision_id, anio, rama_nro","CEPAL-MECON, VAB por jurisdicción y 52 ramas",argentina_provincias/vab_provincia_sector_largo.csv,26208,2004.0,2024.0
+hecho_subdivision_hidrocarburos,hecho,"subdivision_id, anio",Secretaría de Energía (SESCO + Capítulo IV),argentina_provincias/petroleo_gas_provincia_anual.csv,222,2009.0,2026.0
+hecho_subdivision_agricultura,hecho,"subdivision_id, anio_cosecha, cultivo","MAGyP, estimaciones agrícolas",argentina_provincias/agricultura_provincia_anual.csv,13059,1970.0,2026.0
+hecho_subdivision_ganaderia,hecho,"subdivision_id, anio","MAGyP / SENASA, stock bovino al 31-12",argentina_provincias/ganaderia_bovinos_provincia_anual.csv,437,2007.0,2025.0
+hecho_subdivision_censo,hecho,"subdivision_id, anio_censo","INDEC, censos 2010 y 2022",argentina_provincias/censo_vivienda_servicios_educacion.csv,48,2010.0,2022.0
+hecho_subdivision_turismo,hecho,"subdivision_id, anio","INDEC-Turismo, Encuesta de Ocupación Hotelera (piso, no total provincial)",argentina_provincias/turismo_hoteles_provincia_anual.csv,192,2018.0,2025.0
+hecho_subdivision_clima,hecho,"subdivision_id, anio","Banco Mundial CCKP, ERA5",argentina_provincias/temperatura_provincia_anual.csv,1800,1950.0,2024.0
+hecho_subdivision_salud,hecho,"subdivision_id, anio","Ministerio de Salud (vacunación SRP, médicos matriculados)",argentina_provincias/salud_provincia_anual.csv,384,2009.0,2024.0
+hecho_subdivision_empresas,hecho,"subdivision_id, anio",OEDE Ministerio de Trabajo y CEP XXI,argentina_provincias/empresas_con_empleados_provincia_anual.csv,696,1996.0,2024.0
+hecho_subdivision_pymes,hecho,"subdivision_id, anio",Registro MiPyME (foto al 23-12-2024),argentina_provincias/pymes_provincia.csv,24,2024.0,2024.0
+hecho_subdivision_fiscal,hecho,"subdivision_id, anio",DNAP Ministerio de Economía (recaudación propia) + cálculo propio,argentina_provincias/carga_impositiva_provincia_anual.csv,839,1991.0,2025.0
+hecho_subdivision_alicuota_iibb,hecho,"subdivision_id, anio, actividad","DNAP, alícuotas teóricas de Ingresos Brutos",argentina_provincias/alicuotas_ingresos_brutos_provincia.csv,773,2024.0,2025.0
+hecho_subdivision_salarios,hecho,"subdivision_id, anio","OEDE Ministerio de Trabajo (SIPA, privados registrados)",argentina_provincias/salarios_provincia_anual.csv,744,1995.0,2025.0
+hecho_subdivision_canastas,hecho,"subdivision_id, anio",INDEC CBA/CBT por región EPH (estimado por región),argentina_provincias/canastas_provincia_anual.csv,264,2016.0,2026.0
+hecho_subdivision_pobreza,hecho,"subdivision_id, anio",Cálculo propio con microdatos EPH-INDEC (31 aglomerados),argentina_provincias/pobreza_gini_provincia_anual.csv,264,2016.0,2026.0
+hecho_subdivision_gobierno,hecho,"subdivision_id, anio",electorAr + carga manual,argentina_provincias/gobierno_provincial_anual.csv,1011,1984.0,2026.0
+hecho_subdivision_eleccion_gobernador,hecho,"subdivision_id, anio_eleccion",electorAr (Atlas Electoral) + carga manual,argentina_provincias/gobernadores_elecciones.csv,262,1983.0,2025.0
+hecho_subdivision_legisladores,hecho,"subdivision_id, anio, camara",HCDN (diputados) y Senado de la Nación,argentina_provincias/legisladores_nacionales_provincia_anual.csv,1432,1984.0,2026.0
+hecho_subdivision_financiero,hecho,"subdivision_id, anio","Coordinación Fiscal Provincial, stock al 31-12 y servicios devengados",fuentes_nuevas/subdivision_deuda_anual.csv,623,2000.0,2025.0
+hecho_subdivision_finanzas_publicas,hecho,"subdivision_id, anio","Coordinación Fiscal Provincial, esquema Ahorro-Inversión-Financiamiento",fuentes_nuevas/subdivision_finanzas_publicas_anual.csv,504,2005.0,2025.0
+hecho_subdivision_ambiental,hecho,"subdivision_id, anio","OCDE, emisiones regionales (TL2) de 6 países de América Latina",fuentes_nuevas/subdivision_emisiones_anual.csv,3720,2000.0,2023.0
+hecho_subdivision_tecnologia,hecho,"subdivision_id, anio","ENACOM, accesos a internet fijo (último trimestre del año)",fuentes_nuevas/subdivision_internet_anual.csv,312,2014.0,2026.0

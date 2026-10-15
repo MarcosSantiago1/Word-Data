@@ -1,0 +1,17 @@
+
+$ python modelo_unificado/construir_master.py
+1. Dimensiones geográficas
+Descargando iso3166_regiones_m49.csv ...
+Descargando bm_paises.json ...
+   251 países/territorios, 3591 subdivisiones, 2306 equivalencias de país
+2. Hechos
+3. Base SQLite
+4. Controles
+   membresías país-año recalculadas: 20462 en el CSV; faltan 0, sobran 0
+   VAB por grupo recalculado desde las 52 ramas: coincide con vab_provincia_grupos_largo.csv
+iso3  anio  poblacion_banco_mundial  suma_subdivisiones  diferencia_pct
+ ARG  2010                 41288694            40788453           -1.21
+ ARG  2022                 45407904            46234830            1.82
+ ARG  2024                 45696159            47067641            3.00
+5. Exportando
+   master_paises_provincias.sqlite: 11.5 MB, 43 tablas

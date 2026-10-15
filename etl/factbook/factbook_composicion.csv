@@ -1,0 +1,3765 @@
+iso3,codigo_gec,dimension,orden,grupo,poblacion_pct,es_cota_superior,es_oficial,detalle,anio_estimacion
+DZA,ag,religion,1,Muslim,99.0,0.0,,official; predominantly Sunni,2012.0
+DZA,ag,religion,2,other,1.0,1.0,,"includes Christian, Jewish, Ahmadi Muslim, Shia Muslim, Ibadi Muslim",2012.0
+DZA,ag,etnia,1,Arab-Amazigh,99.0,0.0,,,
+DZA,ag,etnia,2,European,1.0,1.0,,,
+DZA,ag,idioma,1,Arabic,,,1.0,official,
+DZA,ag,idioma,2,French,,,0.0,lingua franca,
+DZA,ag,idioma,3,Tamazight,,,1.0,"official; dialects include Kabyle (Taqbaylit), Shawiya (Tacawit), Mzab, Tuareg (Tamahaq)",
+AGO,ao,religion,1,Roman Catholic,41.1,0.0,,,2014.0
+AGO,ao,religion,2,Protestant,38.1,0.0,,,2014.0
+AGO,ao,religion,3,other,8.6,0.0,,,2014.0
+AGO,ao,religion,4,none,12.3,0.0,,,2014.0
+AGO,ao,etnia,1,Ovimbundu,37.0,0.0,,,
+AGO,ao,etnia,2,Kimbundu,25.0,0.0,,,
+AGO,ao,etnia,3,Bakongo,13.0,0.0,,,
+AGO,ao,etnia,4,Mestico,2.0,0.0,,mixed European and native African,
+AGO,ao,etnia,5,European,1.0,0.0,,,
+AGO,ao,etnia,6,other,22.0,0.0,,,
+AGO,ao,idioma,1,Portuguese,71.2,0.0,1.0,official,2014.0
+AGO,ao,idioma,2,Umbundu,23.0,0.0,0.0,,2014.0
+AGO,ao,idioma,3,Kikongo,8.2,0.0,0.0,,2014.0
+AGO,ao,idioma,4,Kimbundu,7.8,0.0,0.0,,2014.0
+AGO,ao,idioma,5,Chokwe,6.5,0.0,0.0,,2014.0
+AGO,ao,idioma,6,Nhaneca,3.4,0.0,0.0,,2014.0
+AGO,ao,idioma,7,Nganguela,3.1,0.0,0.0,,2014.0
+AGO,ao,idioma,8,Fiote,2.4,0.0,0.0,,2014.0
+AGO,ao,idioma,9,Kwanhama,2.3,0.0,0.0,,2014.0
+AGO,ao,idioma,10,Muhumbi,2.1,0.0,0.0,,2014.0
+AGO,ao,idioma,11,Luvale,1.0,0.0,0.0,,2014.0
+AGO,ao,idioma,12,other,3.6,0.0,0.0,,2014.0
+BWA,bc,religion,1,Christian,79.1,0.0,,,2011.0
+BWA,bc,religion,2,Badimo,4.1,0.0,,,2011.0
+BWA,bc,religion,3,other,1.4,0.0,,"includes Baha'i, Hindu, Muslim, Rastafarian",2011.0
+BWA,bc,religion,4,none,15.2,0.0,,,2011.0
+BWA,bc,religion,5,unspecified,0.3,0.0,,,2011.0
+BWA,bc,etnia,1,Tswana,79.0,0.0,,or Setswana,
+BWA,bc,etnia,2,Kalanga,11.0,0.0,,,
+BWA,bc,etnia,3,Basarwa,3.0,0.0,,,
+BWA,bc,etnia,4,other,,,,,
+BWA,bc,etnia,5,including Kgalagadi and people of European ancestry,7.0,0.0,,,
+BWA,bc,idioma,1,Setswana,77.3,0.0,0.0,,2011.0
+BWA,bc,idioma,2,Sekalanga,7.4,0.0,0.0,,2011.0
+BWA,bc,idioma,3,Shekgalagadi,3.4,0.0,0.0,,2011.0
+BWA,bc,idioma,4,English,2.8,0.0,1.0,official,2011.0
+BWA,bc,idioma,5,Zezuru/Shona,2.0,0.0,0.0,,2011.0
+BWA,bc,idioma,6,Sesarwa,1.7,0.0,0.0,,2011.0
+BWA,bc,idioma,7,Sembukushu,1.6,0.0,0.0,,2011.0
+BWA,bc,idioma,8,Ndebele,1.0,0.0,0.0,,2011.0
+BWA,bc,idioma,9,other,2.8,0.0,0.0,,2011.0
+BEN,bn,religion,1,Muslim,27.7,0.0,,,2013.0
+BEN,bn,religion,2,Roman Catholic,25.5,0.0,,,2013.0
+BEN,bn,religion,3,Protestant,13.5,0.0,,"Celestial 6.7%, Methodist 3.4%, other Protestant 3.4%",2013.0
+BEN,bn,religion,4,Vodoun,11.6,0.0,,,2013.0
+BEN,bn,religion,5,other Christian,9.5,0.0,,,2013.0
+BEN,bn,religion,6,other traditional religions,2.6,0.0,,,2013.0
+BEN,bn,religion,7,other,2.6,0.0,,,2013.0
+BEN,bn,religion,8,none,5.8,0.0,,,2013.0
+BEN,bn,etnia,1,Fon and related,38.4,0.0,,,2013.0
+BEN,bn,etnia,2,Adja and related,15.1,0.0,,,2013.0
+BEN,bn,etnia,3,Yoruba and related,12.0,0.0,,,2013.0
+BEN,bn,etnia,4,Bariba and related,9.6,0.0,,,2013.0
+BEN,bn,etnia,5,Fulani and related,8.6,0.0,,,2013.0
+BEN,bn,etnia,6,Ottamari and related,6.1,0.0,,,2013.0
+BEN,bn,etnia,7,Yoa-Lokpa and related,4.3,0.0,,,2013.0
+BEN,bn,etnia,8,Dendi and related,2.9,0.0,,,2013.0
+BEN,bn,etnia,9,other,0.9,0.0,,,2013.0
+BEN,bn,etnia,10,foreigner,1.9,0.0,,,2013.0
+BEN,bn,idioma,1,55 languages,,,0.0,,
+BDI,by,religion,1,Christian,93.9,0.0,,"Roman Catholic 58.6%, Protestant 35.3% [includes Adventist 2.7% and other Protestant religions 32.6%]",
+BDI,by,religion,2,Muslim,3.4,0.0,,,
+BDI,by,religion,3,other,1.3,0.0,,,
+BDI,by,religion,4,none,1.3,0.0,,2016-17 est.,
+BDI,by,etnia,1,Hutu,,,,,
+BDI,by,etnia,2,Tutsi,,,,,
+BDI,by,etnia,3,Twa,,,,,
+BDI,by,etnia,4,South Asian,,,,,
+BDI,by,idioma,1,Kirundi,,,1.0,official,2008.0
+BDI,by,idioma,2,French,,,1.0,official,2008.0
+BDI,by,idioma,3,English,,,1.0,"official, least spoken",2008.0
+BDI,by,idioma,4,Swahili,,,0.0,,2008.0
+TCD,cd,religion,1,Muslim,52.1,0.0,,,
+TCD,cd,religion,2,Protestant,23.9,0.0,,,
+TCD,cd,religion,3,Roman Catholic,20.0,0.0,,,
+TCD,cd,religion,4,animist,0.3,0.0,,,
+TCD,cd,religion,5,other Christian,0.2,0.0,,,
+TCD,cd,religion,6,none,2.8,0.0,,,
+TCD,cd,religion,7,unspecified,0.7,0.0,,2014-15 est.,
+TCD,cd,etnia,1,Sara,30.5,0.0,,Ngambaye/Sara/Madjingaye/Mbaye,
+TCD,cd,etnia,2,Kanembu/Bornu/Buduma,9.8,0.0,,,
+TCD,cd,etnia,3,Arab,9.7,0.0,,,
+TCD,cd,etnia,4,Wadai/Maba/Masalit/Mimi,7.0,0.0,,,
+TCD,cd,etnia,5,Gorane,5.8,0.0,,,
+TCD,cd,etnia,6,Masa/Musseye/Musgum,4.9,0.0,,,
+TCD,cd,etnia,7,Bulala/Medogo/Kuka,3.7,0.0,,,
+TCD,cd,etnia,8,Marba/Lele/Mesme,3.5,0.0,,,
+TCD,cd,etnia,9,Mundang,2.7,0.0,,,
+TCD,cd,etnia,10,Bidiyo/Migaama/Kenga/Dangleat,2.5,0.0,,,
+TCD,cd,etnia,11,Dadjo/Kibet/Muro,2.4,0.0,,,
+TCD,cd,etnia,12,Tupuri/Kera,2.0,0.0,,,
+TCD,cd,etnia,13,Gabri/Kabalaye/Nanchere/Somrai,2.0,0.0,,,
+TCD,cd,etnia,14,Fulani/Fulbe/Bodore,1.8,0.0,,,
+TCD,cd,etnia,15,Karo/Zime/Peve,1.3,0.0,,,
+TCD,cd,etnia,16,Baguirmi/Barma,1.2,0.0,,,
+TCD,cd,etnia,17,Zaghawa/Bideyat/Kobe,1.1,0.0,,,
+TCD,cd,etnia,18,Tama/Assongori/Mararit,1.1,0.0,,,
+TCD,cd,etnia,19,Mesmedje/Massalat/Kadjakse,0.8,0.0,,,
+TCD,cd,etnia,20,other,4.6,0.0,,,
+TCD,cd,etnia,21,unspecified,1.7,0.0,,2014-15 est.,
+TCD,cd,idioma,1,French,,,1.0,official,
+TCD,cd,idioma,2,Arabic,,,1.0,official,
+TCD,cd,idioma,3,Sara,,,0.0,in south,
+TCD,cd,idioma,4,more than 120 languages and dialects,,,0.0,,
+COG,cf,religion,1,Roman Catholic,33.1,0.0,,,2007.0
+COG,cf,religion,2,Awakening Churches/Christian Revival,22.3,0.0,,,2007.0
+COG,cf,religion,3,Protestant,19.9,0.0,,,2007.0
+COG,cf,religion,4,Salutiste,2.2,0.0,,,2007.0
+COG,cf,religion,5,Muslim,1.6,0.0,,,2007.0
+COG,cf,religion,6,Kimbanguist,1.5,0.0,,,2007.0
+COG,cf,religion,7,other,8.1,0.0,,,2007.0
+COG,cf,religion,8,none,11.3,0.0,,,2007.0
+COG,cf,etnia,1,Kongo,40.5,0.0,,Bakongo,
+COG,cf,etnia,2,Teke,16.9,0.0,,,
+COG,cf,etnia,3,Mbochi,13.1,0.0,,,
+COG,cf,etnia,4,foreigner,8.2,0.0,,,
+COG,cf,etnia,5,Sangha,5.6,0.0,,,
+COG,cf,etnia,6,Mbere/Mbeti/Kele,4.4,0.0,,,
+COG,cf,etnia,7,Punu,4.3,0.0,,,
+COG,cf,etnia,8,Pygmy,1.6,0.0,,,
+COG,cf,etnia,9,Oubanguiens,1.6,0.0,,,
+COG,cf,etnia,10,Duma,1.5,0.0,,,
+COG,cf,etnia,11,Makaa,1.3,0.0,,,
+COG,cf,etnia,12,other and unspecified,1.0,0.0,,2014-15 est.,
+COG,cf,idioma,1,French,,,1.0,official,
+COG,cf,idioma,2,French Lingala and Monokutuba,,,0.0,trade languages,
+COG,cf,idioma,3,many local languages and dialects,,,0.0,of which Kikongo is the most widespread,
+COD,cg,religion,1,Christian 93/,1.0,0.0,,"Roman Catholic 29.9%, Protestant 26.7%, other Christian 36.5%",2014.0
+COD,cg,religion,2,Kimbanguist,2.8,0.0,,,2014.0
+COD,cg,religion,3,Muslim,1.3,0.0,,,2014.0
+COD,cg,religion,4,other,1.2,0.0,,includes syncretic sects and indigenous beliefs,2014.0
+COD,cg,religion,5,none,1.3,0.0,,,2014.0
+COD,cg,religion,6,unspecified,0.2,0.0,,,2014.0
+COD,cg,etnia,1,more than 200 African ethnic groups of which the majority are Bantu,,,,,
+COD,cg,idioma,1,French,,,1.0,official,
+COD,cg,idioma,2,Lingala,,,0.0,a trade language,
+COD,cg,idioma,3,Kingwana,,,0.0,a dialect of Kiswahili or Swahili,
+COD,cg,idioma,4,Kikongo,,,0.0,,
+COD,cg,idioma,5,Tshiluba,,,0.0,,
+CMR,cm,religion,1,Roman Catholic,33.1,0.0,,,2022.0
+CMR,cm,religion,2,Muslim,30.6,0.0,,,2022.0
+CMR,cm,religion,3,Protestant 27.1% other Christian,6.1,0.0,,,2022.0
+CMR,cm,religion,4,animist,1.3,0.0,,,2022.0
+CMR,cm,religion,5,other,0.7,0.0,,,2022.0
+CMR,cm,religion,6,none,1.2,0.0,,,2022.0
+CMR,cm,etnia,1,Bamileke-Bamu,22.2,0.0,,,2022.0
+CMR,cm,etnia,2,Biu-Mandara,16.4,0.0,,,2022.0
+CMR,cm,etnia,3,Arab-Choa/Hausa/Kanuri,13.5,0.0,,,2022.0
+CMR,cm,etnia,4,Beti/Bassa,,,,,2022.0
+CMR,cm,etnia,5,Mbam,13.1,0.0,,,2022.0
+CMR,cm,etnia,6,Grassfields,9.9,0.0,,,2022.0
+CMR,cm,etnia,7,Adamawa-Ubangi,,,,,2022.0
+CMR,cm,etnia,8,9.8%,9.8,0.0,,,2022.0
+CMR,cm,etnia,9,Cotier/Ngoe/Oroko,4.6,0.0,,,2022.0
+CMR,cm,etnia,10,Southwestern Bantu,4.3,0.0,,,2022.0
+CMR,cm,etnia,11,Kako/Meka,2.3,0.0,,,2022.0
+CMR,cm,etnia,12,foreign/other ethnic group,3.8,0.0,,,2022.0
+CMR,cm,idioma,1,24 major African language groups,,,0.0,,
+CMR,cm,idioma,2,English,,,1.0,official,
+CMR,cm,idioma,3,French,,,1.0,official,
+COM,cn,religion,1,Muslim,98.1,0.0,,"overwhelmingly Sunni Muslim, small Shia Muslim and Ahmadiyya Muslim populations",2020.0
+COM,cn,religion,2,ethnic religionist,1.1,0.0,,,2020.0
+COM,cn,religion,3,Christian,0.6,0.0,,,2020.0
+COM,cn,religion,4,other,0.3,0.0,,,2020.0
+COM,cn,etnia,1,Antalote,,,,,
+COM,cn,etnia,2,Cafre,,,,,
+COM,cn,etnia,3,Makoa,,,,,
+COM,cn,etnia,4,Oimatsaha,,,,,
+COM,cn,etnia,5,Sakalava,,,,,
+COM,cn,idioma,1,Arabic,,,1.0,official,
+COM,cn,idioma,2,French,,,1.0,official,
+COM,cn,idioma,3,Shikomoro,,,1.0,official; similar to Swahili,
+COM,cn,idioma,4,Comorian,,,0.0,,
+CAF,ct,religion,1,Roman Catholic,34.6,0.0,,,2020.0
+CAF,ct,religion,2,Protestant,15.7,0.0,,,2020.0
+CAF,ct,religion,3,other Christian,22.9,0.0,,,2020.0
+CAF,ct,religion,4,Muslim,13.8,0.0,,,2020.0
+CAF,ct,religion,5,ethnic religionist,12.0,0.0,,,2020.0
+CAF,ct,religion,6,Baha'i,0.2,0.0,,,2020.0
+CAF,ct,religion,7,agnostic/atheist,0.7,0.0,,,2020.0
+CAF,ct,etnia,1,Baya,28.8,0.0,,,2003.0
+CAF,ct,etnia,2,Banda,22.9,0.0,,,2003.0
+CAF,ct,etnia,3,Mandjia,9.9,0.0,,,2003.0
+CAF,ct,etnia,4,Sara,7.9,0.0,,,2003.0
+CAF,ct,etnia,5,M'Baka-Bantu,7.9,0.0,,,2003.0
+CAF,ct,etnia,6,Arab-Fulani,6.0,0.0,,Peuhl,2003.0
+CAF,ct,etnia,7,Mbum,6.0,0.0,,,2003.0
+CAF,ct,etnia,8,Ngbanki,5.5,0.0,,,2003.0
+CAF,ct,etnia,9,Zande-Nzakara,3.0,0.0,,,2003.0
+CAF,ct,etnia,10,other Central African Republic ethnic groups,2.0,0.0,,,2003.0
+CAF,ct,etnia,11,non-Central African Republic ethnic groups,1.0,0.0,,,2003.0
+CAF,ct,idioma,1,French,,,1.0,official,
+CAF,ct,idioma,2,Sangho,,,0.0,lingua franca and national language,
+CAF,ct,idioma,3,tribal languages,,,0.0,,
+CPV,cv,religion,1,Roman Catholic,72.5,0.0,,,2021.0
+CPV,cv,religion,2,Protestant,4.0,0.0,,"includes Adventist 1.9%, Nazarene 1.8%, Assembly of God 0.2%, God is Love 0.1%",2021.0
+CPV,cv,religion,3,Christian Rationalism,1.7,0.0,,,2021.0
+CPV,cv,religion,4,Muslim,1.3,0.0,,,2021.0
+CPV,cv,religion,5,Jehovah's Witness,1.2,0.0,,,2021.0
+CPV,cv,religion,6,Church of Jesus Christ,1.0,0.0,,,2021.0
+CPV,cv,religion,7,other Christian,1.3,0.0,,,2021.0
+CPV,cv,religion,8,other,1.2,0.0,,,2021.0
+CPV,cv,religion,9,none,15.6,0.0,,,2021.0
+CPV,cv,religion,10,no response,0.4,0.0,,,2021.0
+CPV,cv,etnia,1,Creole,71.0,0.0,,Mulatto,
+CPV,cv,etnia,2,African,28.0,0.0,,,
+CPV,cv,etnia,3,European,1.0,0.0,,,
+CPV,cv,idioma,1,Portuguese,,,1.0,official,
+CPV,cv,idioma,2,Crioulo,,,0.0,a Portuguese-based creole language with two main dialects,
+DJI,dj,religion,1,Sunni Muslim,94.0,0.0,,nearly all Djiboutians,
+DJI,dj,religion,2,other,6.0,0.0,,"mainly foreign-born residents - Shia Muslim, Christian, Hindu, Jewish, Baha'i, and atheist",
+DJI,dj,etnia,1,Somali,60.0,0.0,,,
+DJI,dj,etnia,2,Afar,35.0,0.0,,,
+DJI,dj,etnia,3,other,5.0,0.0,,"mostly Yemeni Arab, also French, Ethiopian, and Italian",
+DJI,dj,idioma,1,French,,,1.0,official,
+DJI,dj,idioma,2,Arabic,,,1.0,official,
+DJI,dj,idioma,3,Somali,,,0.0,,
+DJI,dj,idioma,4,Afar,,,0.0,,
+EGY,eg,religion,1,Muslim,90.0,0.0,,predominantly Sunni,
+EGY,eg,religion,2,Christian,10.0,0.0,,"majority Coptic Orthodox, other Christians include Armenian Apostolic, Catholic, Maronite, Orthodox, and Anglican",
+EGY,eg,etnia,1,Egyptian,99.7,0.0,,,2006.0
+EGY,eg,etnia,2,other,0.3,0.0,,,2006.0
+EGY,eg,idioma,1,Arabic,,,1.0,official,
+GNQ,ek,religion,1,Roman Catholic,88.0,0.0,,,2015.0
+GNQ,ek,religion,2,Protestant,5.0,0.0,,,2015.0
+GNQ,ek,religion,3,Muslim,2.0,0.0,,,2015.0
+GNQ,ek,religion,4,other,5.0,0.0,,"animist, Baha'i, Jewish",2015.0
+GNQ,ek,etnia,1,Fang,78.1,0.0,,,2011.0
+GNQ,ek,etnia,2,Bubi,9.4,0.0,,,2011.0
+GNQ,ek,etnia,3,Ndowe,2.8,0.0,,,2011.0
+GNQ,ek,etnia,4,Nanguedambo,2.7,0.0,,,2011.0
+GNQ,ek,etnia,5,Bisio,0.9,0.0,,,2011.0
+GNQ,ek,etnia,6,foreigner,5.3,0.0,,,2011.0
+GNQ,ek,etnia,7,other,0.7,0.0,,,2011.0
+GNQ,ek,etnia,8,unspecified,0.2,0.0,,,2011.0
+GNQ,ek,idioma,1,Spanish,67.6,0.0,1.0,official,1994.0
+GNQ,ek,idioma,2,other,32.4,0.0,1.0,"includes Fang, Bubi, Portuguese (official), French (official), Fa d'Ambo spoken in Annobon",1994.0
+ERI,er,religion,1,Eritrean Orthodox,,,,,
+ERI,er,religion,2,Roman Catholic,,,,,
+ERI,er,religion,3,Evangelical Lutheran,,,,,
+ERI,er,religion,4,Sunni Muslim,,,,,
+ERI,er,etnia,1,Tigrinya,50.0,0.0,,,2021.0
+ERI,er,etnia,2,Tigre,30.0,0.0,,,2021.0
+ERI,er,etnia,3,Saho,4.0,0.0,,,2021.0
+ERI,er,etnia,4,Afar,4.0,0.0,,,2021.0
+ERI,er,etnia,5,Kunama,4.0,0.0,,,2021.0
+ERI,er,etnia,6,Bilen,3.0,0.0,,,2021.0
+ERI,er,etnia,7,Hedareb/Beja,2.0,0.0,,,2021.0
+ERI,er,etnia,8,Nara,2.0,0.0,,,2021.0
+ERI,er,etnia,9,Rashaida,1.0,0.0,,,2021.0
+ERI,er,idioma,1,Tigrinya,,,1.0,official,
+ERI,er,idioma,2,Arabic,,,1.0,official,
+ERI,er,idioma,3,English,,,1.0,official,
+ERI,er,idioma,4,Tigre,,,0.0,,
+ERI,er,idioma,5,Kunama,,,0.0,,
+ERI,er,idioma,6,Afar,,,0.0,,
+ERI,er,idioma,7,other Cushitic languages,,,0.0,,
+ETH,et,religion,1,Ethiopian Orthodox,43.8,0.0,,,2016.0
+ETH,et,religion,2,Muslim,31.3,0.0,,,2016.0
+ETH,et,religion,3,Protestant,22.8,0.0,,,2016.0
+ETH,et,religion,4,Catholic,0.7,0.0,,,2016.0
+ETH,et,religion,5,traditional,0.6,0.0,,,2016.0
+ETH,et,religion,6,other,0.8,0.0,,,2016.0
+ETH,et,etnia,1,Oromo,35.8,0.0,,,2022.0
+ETH,et,etnia,2,Amhara,24.1,0.0,,,2022.0
+ETH,et,etnia,3,Somali,7.2,0.0,,,2022.0
+ETH,et,etnia,4,Tigray,5.7,0.0,,,2022.0
+ETH,et,etnia,5,Sidama,4.1,0.0,,,2022.0
+ETH,et,etnia,6,Guragie,2.6,0.0,,,2022.0
+ETH,et,etnia,7,Welaita,2.3,0.0,,,2022.0
+ETH,et,etnia,8,Afar,2.2,0.0,,,2022.0
+ETH,et,etnia,9,Silte,1.3,0.0,,,2022.0
+ETH,et,etnia,10,Kefficho,1.2,0.0,,,2022.0
+ETH,et,etnia,11,other,13.5,0.0,,,2022.0
+ETH,et,idioma,1,Oromo,33.8,0.0,1.0,official regional working language,2007.0
+ETH,et,idioma,2,Amharic,29.3,0.0,1.0,official national language,2007.0
+ETH,et,idioma,3,Somali,6.2,0.0,1.0,official regional working language,2007.0
+ETH,et,idioma,4,Tigrigna,5.9,0.0,1.0,Tigrinya; official regional working language,2007.0
+ETH,et,idioma,5,Sidamo,4.0,0.0,0.0,,2007.0
+ETH,et,idioma,6,Wolaytta,2.2,0.0,0.0,,2007.0
+ETH,et,idioma,7,Gurage,2.0,0.0,0.0,,2007.0
+ETH,et,idioma,8,Afar,1.7,0.0,1.0,official regional working language,2007.0
+ETH,et,idioma,9,Hadiyya,1.7,0.0,0.0,,2007.0
+ETH,et,idioma,10,Gamo,1.5,0.0,0.0,,2007.0
+ETH,et,idioma,11,Gedeo,1.3,0.0,0.0,,2007.0
+ETH,et,idioma,12,Opuuo,1.2,0.0,0.0,,2007.0
+ETH,et,idioma,13,Kafa,1.1,0.0,0.0,,2007.0
+ETH,et,idioma,14,other,8.1,0.0,0.0,,2007.0
+ETH,et,idioma,15,English,,,0.0,,2007.0
+GMB,ga,religion,1,Muslim,96.4,0.0,,,
+GMB,ga,religion,2,Christian,3.5,0.0,,,
+GMB,ga,religion,3,other or none,0.1,0.0,,2019-20 est.,
+GMB,ga,etnia,1,Mandinka/Jahanka,33.3,0.0,,,
+GMB,ga,etnia,2,Fulani/Tukulur/Lorobo,18.2,0.0,,,
+GMB,ga,etnia,3,Wolof,12.9,0.0,,,
+GMB,ga,etnia,4,Jola/Karoninka,11.0,0.0,,,
+GMB,ga,etnia,5,Serahuleh,7.2,0.0,,,
+GMB,ga,etnia,6,Serer,3.5,0.0,,,
+GMB,ga,etnia,7,other,4.0,0.0,,,
+GMB,ga,etnia,8,non-Gambian,9.9,0.0,,2019-20 est.,
+GMB,ga,idioma,1,English,,,1.0,official,
+GMB,ga,idioma,2,Mandinka,,,0.0,,
+GMB,ga,idioma,3,Wolof,,,0.0,,
+GMB,ga,idioma,4,Fula,,,0.0,,
+GMB,ga,idioma,5,other indigenous vernaculars,,,0.0,,
+GAB,gb,religion,1,Protestant,46.4,0.0,,"Revival Church 37%, other Protestant 9.4%",
+GAB,gb,religion,2,Roman Catholic,29.8,0.0,,,
+GAB,gb,religion,3,other Christian,4.0,0.0,,,
+GAB,gb,religion,4,Muslim,10.8,0.0,,,
+GAB,gb,religion,5,traditional/animist,1.1,0.0,,,
+GAB,gb,religion,6,other,0.9,0.0,,,
+GAB,gb,religion,7,none,7.0,0.0,,2019-21 est.,
+GAB,gb,etnia,1,Fang,23.5,0.0,,,2021.0
+GAB,gb,etnia,2,Shira-Punu'Vii,20.6,0.0,,,2021.0
+GAB,gb,etnia,3,Nzabi-Duma,11.2,0.0,,,2021.0
+GAB,gb,etnia,4,Mbede-Teke,5.6,0.0,,,2021.0
+GAB,gb,etnia,5,Myene,4.4,0.0,,,2021.0
+GAB,gb,etnia,6,Kota-Kele,4.3,0.0,,,2021.0
+GAB,gb,etnia,7,Okande-Tsogho,1.6,0.0,,,2021.0
+GAB,gb,etnia,8,other,12.6,0.0,,,2021.0
+GAB,gb,etnia,9,foreigner,16.2,0.0,,,2021.0
+GAB,gb,idioma,1,French,,,1.0,official,
+GAB,gb,idioma,2,Fang,,,0.0,,
+GAB,gb,idioma,3,Myene,,,0.0,,
+GAB,gb,idioma,4,Nzebi,,,0.0,,
+GAB,gb,idioma,5,Bapounou/Eschira,,,0.0,,
+GAB,gb,idioma,6,Bandjabi,,,0.0,,
+GHA,gh,religion,1,Christian,71.3,0.0,,"Pentecostal/Charismatic 31.6%, Protestant 17.4%, Catholic 10%, other 12.3%",2021.0
+GHA,gh,religion,2,Muslim,19.9,0.0,,,2021.0
+GHA,gh,religion,3,traditionalist,3.2,0.0,,,2021.0
+GHA,gh,religion,4,other,4.5,0.0,,,2021.0
+GHA,gh,religion,5,none,1.1,0.0,,,2021.0
+GHA,gh,etnia,1,Akan,45.7,0.0,,,2021.0
+GHA,gh,etnia,2,Mole-Dagbani,18.5,0.0,,,2021.0
+GHA,gh,etnia,3,Ewe,12.8,0.0,,,2021.0
+GHA,gh,etnia,4,Ga-Dangme,7.1,0.0,,,2021.0
+GHA,gh,etnia,5,Gurma,6.4,0.0,,,2021.0
+GHA,gh,etnia,6,Guan,3.2,0.0,,,2021.0
+GHA,gh,etnia,7,Grusi,2.7,0.0,,,2021.0
+GHA,gh,etnia,8,Mande,2.0,0.0,,,2021.0
+GHA,gh,etnia,9,other,1.6,0.0,,,2021.0
+GHA,gh,idioma,1,Asante,16.0,0.0,0.0,,2010.0
+GHA,gh,idioma,2,Ewe,14.0,0.0,0.0,,2010.0
+GHA,gh,idioma,3,Fante,11.6,0.0,0.0,,2010.0
+GHA,gh,idioma,4,Boron,4.9,0.0,0.0,Brong,2010.0
+GHA,gh,idioma,5,Dagomba,4.4,0.0,0.0,,2010.0
+GHA,gh,idioma,6,Dangme,4.2,0.0,0.0,,2010.0
+GHA,gh,idioma,7,Dagarte,3.9,0.0,0.0,Dagaba,2010.0
+GHA,gh,idioma,8,Kokomba,3.5,0.0,0.0,,2010.0
+GHA,gh,idioma,9,Akyem,3.2,0.0,0.0,,2010.0
+GHA,gh,idioma,10,Ga,3.1,0.0,0.0,,2010.0
+GHA,gh,idioma,11,other,31.2,0.0,0.0,,2010.0
+GIN,gv,religion,1,Muslim,85.2,0.0,,,2018.0
+GIN,gv,religion,2,Christian,13.4,0.0,,,2018.0
+GIN,gv,religion,3,animist,0.2,0.0,,,2018.0
+GIN,gv,religion,4,none,1.2,0.0,,,2018.0
+GIN,gv,etnia,1,Fulani,33.4,0.0,,Peuhl,2018.0
+GIN,gv,etnia,2,Malinke,29.4,0.0,,,2018.0
+GIN,gv,etnia,3,Susu,21.2,0.0,,,2018.0
+GIN,gv,etnia,4,Guerze,7.8,0.0,,,2018.0
+GIN,gv,etnia,5,Kissi,6.2,0.0,,,2018.0
+GIN,gv,etnia,6,Toma,1.6,0.0,,,2018.0
+GIN,gv,etnia,7,other/foreign,0.4,0.0,,,2018.0
+GIN,gv,idioma,1,French,,,1.0,official,
+GIN,gv,idioma,2,Pular,,,0.0,,
+GIN,gv,idioma,3,Maninka,,,0.0,,
+GIN,gv,idioma,4,Susu,,,0.0,,
+GIN,gv,idioma,5,other native languages,,,0.0,,
+CIV,iv,religion,1,Muslim,42.9,0.0,,,2014.0
+CIV,iv,religion,2,Catholic,17.2,0.0,,,2014.0
+CIV,iv,religion,3,Evangelical,11.8,0.0,,,2014.0
+CIV,iv,religion,4,Methodist,1.7,0.0,,,2014.0
+CIV,iv,religion,5,other Christian,3.2,0.0,,,2014.0
+CIV,iv,religion,6,animist,3.6,0.0,,,2014.0
+CIV,iv,religion,7,other religion,0.5,0.0,,,2014.0
+CIV,iv,religion,8,none,19.1,0.0,,,2014.0
+CIV,iv,etnia,1,Akan,38.0,0.0,,,2021.0
+CIV,iv,etnia,2,Voltaique or Gur,22.0,0.0,,,2021.0
+CIV,iv,etnia,3,Northern Mande,22.0,0.0,,,2021.0
+CIV,iv,etnia,4,Kru,9.1,0.0,,,2021.0
+CIV,iv,etnia,5,Southern Mande,8.6,0.0,,,2021.0
+CIV,iv,etnia,6,other,0.3,0.0,,,2021.0
+CIV,iv,idioma,1,French,,,1.0,official,
+CIV,iv,idioma,2,60 native dialects of which Dioula is the most widely spoken,,,0.0,,
+KEN,ke,religion,1,Christian,85.5,0.0,,"Protestant 33.4%, Catholic 20.6%, Evangelical 20.4%, African Instituted Churches 7%, other Christian 4.1%",2019.0
+KEN,ke,religion,2,Muslim,10.9,0.0,,,2019.0
+KEN,ke,religion,3,other,1.8,0.0,,,2019.0
+KEN,ke,religion,4,none,1.6,0.0,,,2019.0
+KEN,ke,religion,5,don't know/no answer,0.2,0.0,,,2019.0
+KEN,ke,etnia,1,Kikuyu,17.1,0.0,,,2019.0
+KEN,ke,etnia,2,Luhya,14.3,0.0,,,2019.0
+KEN,ke,etnia,3,Kalenjin,13.4,0.0,,,2019.0
+KEN,ke,etnia,4,Luo,10.7,0.0,,,2019.0
+KEN,ke,etnia,5,Kamba,9.8,0.0,,,2019.0
+KEN,ke,etnia,6,Somali,5.8,0.0,,,2019.0
+KEN,ke,etnia,7,Kisii,5.7,0.0,,,2019.0
+KEN,ke,etnia,8,Mijikenda,5.2,0.0,,,2019.0
+KEN,ke,etnia,9,Meru,4.2,0.0,,,2019.0
+KEN,ke,etnia,10,Maasai,2.5,0.0,,,2019.0
+KEN,ke,etnia,11,Turkana,2.1,0.0,,,2019.0
+KEN,ke,etnia,12,non-Kenyan,1.0,0.0,,,2019.0
+KEN,ke,etnia,13,other,8.2,0.0,,,2019.0
+KEN,ke,idioma,1,English,,,1.0,official,
+KEN,ke,idioma,2,Kiswahili,,,1.0,official,
+KEN,ke,idioma,3,numerous indigenous languages,,,0.0,,
+LBR,li,religion,1,Christian,84.9,0.0,,,2022.0
+LBR,li,religion,2,Muslim,12.0,0.0,,,2022.0
+LBR,li,religion,3,Traditional,0.5,0.0,,,2022.0
+LBR,li,religion,4,other,0.1,0.0,,,2022.0
+LBR,li,religion,5,none,2.6,0.0,,,2022.0
+LBR,li,etnia,1,Kpelle,20.2,0.0,,,2022.0
+LBR,li,etnia,2,Bassa,13.6,0.0,,,2022.0
+LBR,li,etnia,3,Grebo,9.9,0.0,,,2022.0
+LBR,li,etnia,4,Gio,7.9,0.0,,,2022.0
+LBR,li,etnia,5,Mano,7.2,0.0,,,2022.0
+LBR,li,etnia,6,Kru,5.5,0.0,,,2022.0
+LBR,li,etnia,7,Lorma,4.8,0.0,,,2022.0
+LBR,li,etnia,8,Krahn,4.5,0.0,,,2022.0
+LBR,li,etnia,9,Kissi,,,,,2022.0
+LBR,li,etnia,10,4.3%,4.3,0.0,,,2022.0
+LBR,li,etnia,11,Mandingo,4.2,0.0,,,2022.0
+LBR,li,etnia,12,Vai,3.8,0.0,,,2022.0
+LBR,li,etnia,13,Gola,3.8,0.0,,,2022.0
+LBR,li,etnia,14,Gbandi,2.9,0.0,,,2022.0
+LBR,li,etnia,15,Mende,1.7,0.0,,,2022.0
+LBR,li,etnia,16,Sapo,1.0,0.0,,,2022.0
+LBR,li,etnia,17,Belle,0.7,0.0,,,2022.0
+LBR,li,etnia,18,Dey,0.3,0.0,,,2022.0
+LBR,li,etnia,19,other Liberian ethnic group,0.4,0.0,,,2022.0
+LBR,li,etnia,20,other African,3.0,0.0,,,2022.0
+LBR,li,etnia,21,non-African,0.2,0.0,,,2022.0
+LBR,li,idioma,1,English 20%  and 27 indigenous languages,,,1.0,official,
+LBR,li,idioma,2,including Liberian English variants,,,0.0,,
+LSO,lt,religion,1,Protestant,47.8,0.0,,"Pentecostal 23.1%, Lesotho Evangelical 17.3%, Anglican 7.4%",2014.0
+LSO,lt,religion,2,Roman Catholic,39.3,0.0,,,2014.0
+LSO,lt,religion,3,other Christian,9.1,0.0,,,2014.0
+LSO,lt,religion,4,non-Christian,1.4,0.0,,,2014.0
+LSO,lt,religion,5,none,2.3,0.0,,,2014.0
+LSO,lt,etnia,1,Sotho,99.7,0.0,,,
+LSO,lt,etnia,2,other,0.3,0.0,,"includes Kwena, Nguni (Hlubi and Phuthi), Zulu",
+LSO,lt,idioma,1,Sesotho,,,1.0,official,
+LSO,lt,idioma,2,English,,,1.0,official,
+LSO,lt,idioma,3,Phuthi,,,0.0,,
+LSO,lt,idioma,4,Xhosa,,,0.0,,
+LSO,lt,idioma,5,Zulu,,,0.0,,
+LBY,ly,religion,1,Muslim,96.6,0.0,,official; virtually all Sunni,2020.0
+LBY,ly,religion,2,Christian,2.7,0.0,,,2020.0
+LBY,ly,religion,3,Buddhist,1.0,1.0,,,2020.0
+LBY,ly,religion,4,Hindu,1.0,1.0,,,2020.0
+LBY,ly,religion,5,Jewish,1.0,1.0,,,2020.0
+LBY,ly,religion,6,folk religion,1.0,1.0,,,2020.0
+LBY,ly,religion,7,other,1.0,1.0,,,2020.0
+LBY,ly,religion,8,unaffiliated,1.0,1.0,,,2020.0
+LBY,ly,etnia,1,Amazigh and Arab,97.0,0.0,,,
+LBY,ly,etnia,2,other,3.0,0.0,,"includes Egyptian, Greek, Indian, Italian, Maltese, Pakistani, Tunisian, and Turkish",
+LBY,ly,idioma,1,Arabic,,,1.0,official,
+LBY,ly,idioma,2,Italian,,,0.0,,
+LBY,ly,idioma,3,English,,,0.0,all widely understood in the major cities,
+MDG,ma,religion,1,Church of Jesus Christ in Madagascar/Malagasy Lutheran Church/Anglican Church,34.0,0.0,,,2021.0
+MDG,ma,religion,2,Roman Catholic,32.3,0.0,,,2021.0
+MDG,ma,religion,3,other Christian,8.1,0.0,,,2021.0
+MDG,ma,religion,4,traditional/Animist,1.7,0.0,,,2021.0
+MDG,ma,religion,5,Muslim,1.4,0.0,,,2021.0
+MDG,ma,religion,6,other,0.6,0.0,,,2021.0
+MDG,ma,religion,7,none,21.9,0.0,,,2021.0
+MDG,ma,etnia,1,Malayo-Indonesian,,,,Merina and related Betsileo,
+MDG,ma,etnia,2,Cotiers,,,,"mixed African, Malayo-Indonesian, and Arab ancestry - Betsimisaraka, Tsimihety, Antaisaka, Sakalava",
+MDG,ma,etnia,3,French,,,,,
+MDG,ma,etnia,4,Indian,,,,,
+MDG,ma,etnia,5,Creole,,,,,
+MDG,ma,etnia,6,Comoran,,,,,
+MDG,ma,idioma,1,Malagasy,99.9,0.0,1.0,official,2018.0
+MDG,ma,idioma,2,French,23.6,0.0,1.0,official,2018.0
+MDG,ma,idioma,3,English,8.2,0.0,0.0,,2018.0
+MDG,ma,idioma,4,other,0.6,0.0,0.0,,2018.0
+MWI,mi,religion,1,Protestant,33.5,0.0,,"includes Church of Central Africa Presbyterian 14.2%, Seventh Day Adventist/Baptist 9.4%, Pentecostal 7.6%, Anglican 2.3%",2018.0
+MWI,mi,religion,2,Roman Catholic,17.2,0.0,,,2018.0
+MWI,mi,religion,3,other Christian,26.6,0.0,,,2018.0
+MWI,mi,religion,4,Muslim,13.8,0.0,,,2018.0
+MWI,mi,religion,5,traditionalist,1.1,0.0,,,2018.0
+MWI,mi,religion,6,other,5.6,0.0,,,2018.0
+MWI,mi,religion,7,none,2.1,0.0,,,2018.0
+MWI,mi,etnia,1,Chewa,34.3,0.0,,,2018.0
+MWI,mi,etnia,2,Lomwe,18.8,0.0,,,2018.0
+MWI,mi,etnia,3,Yao,13.2,0.0,,,2018.0
+MWI,mi,etnia,4,Ngoni,10.4,0.0,,,2018.0
+MWI,mi,etnia,5,Tumbuka,9.2,0.0,,,2018.0
+MWI,mi,etnia,6,Sena,3.8,0.0,,,2018.0
+MWI,mi,etnia,7,Mang'anja,3.2,0.0,,,2018.0
+MWI,mi,etnia,8,Tonga,1.8,0.0,,,2018.0
+MWI,mi,etnia,9,Nyanja,1.8,0.0,,,2018.0
+MWI,mi,etnia,10,Nkhonde,1.0,0.0,,,2018.0
+MWI,mi,etnia,11,other,2.2,0.0,,,2018.0
+MWI,mi,etnia,12,foreign,0.3,0.0,,,2018.0
+MWI,mi,idioma,1,English,,,1.0,official,
+MWI,mi,idioma,2,Chewa,,,0.0,dominant,
+MWI,mi,idioma,3,Lambya,,,0.0,,
+MWI,mi,idioma,4,Lomwe,,,0.0,,
+MWI,mi,idioma,5,Ngoni,,,0.0,,
+MWI,mi,idioma,6,Nkhonde,,,0.0,,
+MWI,mi,idioma,7,Nyakyusa,,,0.0,,
+MWI,mi,idioma,8,Nyanja,,,0.0,,
+MWI,mi,idioma,9,Sena,,,0.0,,
+MWI,mi,idioma,10,Tonga,,,0.0,,
+MWI,mi,idioma,11,Tumbuka,,,0.0,,
+MWI,mi,idioma,12,Yao,,,0.0,,
+MLI,ml,religion,1,Muslim,93.9,0.0,,,2018.0
+MLI,ml,religion,2,Christian,2.8,0.0,,,2018.0
+MLI,ml,religion,3,animist,0.7,0.0,,,2018.0
+MLI,ml,religion,4,none,2.5,0.0,,,2018.0
+MLI,ml,etnia,1,Bambara,33.3,0.0,,,2018.0
+MLI,ml,etnia,2,Fulani,13.3,0.0,,Peuhl,2018.0
+MLI,ml,etnia,3,Sarakole/Soninke/Marka,9.8,0.0,,,2018.0
+MLI,ml,etnia,4,Senufo/Manianka,9.6,0.0,,,2018.0
+MLI,ml,etnia,5,Malinke,8.8,0.0,,,2018.0
+MLI,ml,etnia,6,Dogon,8.7,0.0,,,2018.0
+MLI,ml,etnia,7,Sonrai,5.9,0.0,,,2018.0
+MLI,ml,etnia,8,Bobo,2.1,0.0,,,2018.0
+MLI,ml,etnia,9,Tuareg/Bella,1.7,0.0,,,2018.0
+MLI,ml,etnia,10,other Malian,6.0,0.0,,,2018.0
+MLI,ml,etnia,11,from members of Economic Community of West Africa,0.4,0.0,,,2018.0
+MLI,ml,etnia,12,other,0.3,0.0,,,2018.0
+MLI,ml,idioma,1,Bambara,,,1.0,official,2009.0
+MLI,ml,idioma,2,French,17.2,0.0,0.0,,2009.0
+MLI,ml,idioma,3,Peuhl/Foulfoulbe/Fulani,9.4,0.0,0.0,,2009.0
+MLI,ml,idioma,4,Dogon,7.2,0.0,0.0,,2009.0
+MLI,ml,idioma,5,Maraka/Soninke,6.4,0.0,0.0,,2009.0
+MLI,ml,idioma,6,Malinke,5.6,0.0,0.0,,2009.0
+MLI,ml,idioma,7,Sonrhai/Djerma,5.6,0.0,0.0,,2009.0
+MLI,ml,idioma,8,Minianka,4.3,0.0,0.0,,2009.0
+MLI,ml,idioma,9,Tamacheq,3.5,0.0,0.0,,2009.0
+MLI,ml,idioma,10,Senoufo,2.6,0.0,0.0,,2009.0
+MLI,ml,idioma,11,Bobo,2.1,0.0,0.0,,2009.0
+MLI,ml,idioma,12,other,6.3,0.0,0.0,,2009.0
+MLI,ml,idioma,13,unspecified,0.7,0.0,0.0,,2009.0
+MAR,mo,religion,1,Muslim,99.0,0.0,,"official; virtually all Sunni, <0.1% Shia",
+MAR,mo,religion,2,other,1.0,0.0,,"includes Christian, Jewish, and Baha'i",
+MAR,mo,etnia,1,Arab-Amazigh,99.0,0.0,,,
+MAR,mo,etnia,2,other,1.0,0.0,,,
+MAR,mo,idioma,1,Arabic,,,1.0,official,
+MAR,mo,idioma,2,Tamazight languages,,,1.0,"Tamazight (official), Tachelhit, Tarifit",
+MAR,mo,idioma,3,French,,,0.0,"often the language of business, government, and diplomacy",
+MUS,mp,religion,1,Hindu,48.5,0.0,,,2011.0
+MUS,mp,religion,2,Roman Catholic,26.3,0.0,,,2011.0
+MUS,mp,religion,3,Muslim,17.3,0.0,,,2011.0
+MUS,mp,religion,4,other Christian,6.4,0.0,,,2011.0
+MUS,mp,religion,5,other,0.6,0.0,,,2011.0
+MUS,mp,religion,6,none,0.7,0.0,,,2011.0
+MUS,mp,religion,7,unspecified,0.1,0.0,,,2011.0
+MUS,mp,etnia,1,Indo-Mauritian,,,,compose approximately two thirds of the total population,
+MUS,mp,etnia,2,Creole,,,,,
+MUS,mp,etnia,3,Sino-Mauritian,,,,,
+MUS,mp,etnia,4,Franco-Mauritian,,,,,
+MUS,mp,idioma,1,Creole,86.5,0.0,0.0,,2011.0
+MUS,mp,idioma,2,Bhojpuri,5.3,0.0,0.0,,2011.0
+MUS,mp,idioma,3,French,4.1,0.0,0.0,,2011.0
+MUS,mp,idioma,4,two languages,1.4,0.0,0.0,,2011.0
+MUS,mp,idioma,5,other,2.6,0.0,1.0,"includes English, one of the two official languages of the National Assembly, which is spoken by less than 1% of the population",2011.0
+MUS,mp,idioma,6,unspecified,0.1,0.0,0.0,,2011.0
+MRT,mr,religion,1,Muslim,100.0,0.0,,official,
+MRT,mr,etnia,1,Black Moors,40.0,0.0,,Haratines - Arabic-speaking descendants of African origin who are or were enslaved by White Moors,
+MRT,mr,etnia,2,White Moors,30.0,0.0,,"of Arab-Amazigh descent, known as Beydane",
+MRT,mr,etnia,3,Sub-Saharan Mauritanians,30.0,0.0,,"non-Arabic speaking, largely resident in or originating from the Senegal River Valley, including Halpulaar, Fulani, Soninke, Wolof, and Bambara ethnic groups",
+MRT,mr,idioma,1,Arabic,,,1.0,official and national,
+MRT,mr,idioma,2,Pular,,,0.0,,
+MRT,mr,idioma,3,Soninke,,,0.0,,
+MRT,mr,idioma,4,Wolof,,,0.0,all national languages,
+MRT,mr,idioma,5,French,,,0.0,,
+MOZ,mz,religion,1,Catholic,27.3,0.0,,,2017.0
+MOZ,mz,religion,2,Islam,19.1,0.0,,,2017.0
+MOZ,mz,religion,3,Pentecostal,16.7,0.0,,,2017.0
+MOZ,mz,religion,4,Saio/Zione,16.3,0.0,,,2017.0
+MOZ,mz,religion,5,no religion,13.5,0.0,,,2017.0
+MOZ,mz,religion,6,other,4.3,0.0,,,2017.0
+MOZ,mz,religion,7,Anglican,1.7,0.0,,,2017.0
+MOZ,mz,religion,8,unknown,1.2,0.0,,,2017.0
+MOZ,mz,etnia,1,African,99.0,0.0,,"Makhuwa, Tsonga, Lomwe, Sena, and others",2017.0
+MOZ,mz,etnia,2,Mestizo,0.8,0.0,,,2017.0
+MOZ,mz,etnia,3,other,0.2,0.0,,"includes European, Indian, Pakistani, Chinese",2017.0
+MOZ,mz,idioma,1,Makhuwa,26.1,0.0,0.0,,2017.0
+MOZ,mz,idioma,2,Portuguese,16.6,0.0,1.0,official,2017.0
+MOZ,mz,idioma,3,Tsonga,8.6,0.0,0.0,,2017.0
+MOZ,mz,idioma,4,Nyanja 8.1,,,0.0,,2017.0
+MOZ,mz,idioma,5,Sena,7.1,0.0,0.0,,2017.0
+MOZ,mz,idioma,6,Lomwe,7.1,0.0,0.0,,2017.0
+MOZ,mz,idioma,7,Chuwabo,4.7,0.0,0.0,,2017.0
+MOZ,mz,idioma,8,Ndau,3.8,0.0,0.0,,2017.0
+MOZ,mz,idioma,9,Tswa,3.8,0.0,0.0,,2017.0
+MOZ,mz,idioma,10,other Mozambican languages,11.8,0.0,0.0,,2017.0
+MOZ,mz,idioma,11,other,0.5,0.0,0.0,,2017.0
+MOZ,mz,idioma,12,unspecified,1.8,0.0,0.0,,2017.0
+NER,ng,religion,1,Muslim,95.5,0.0,,,2020.0
+NER,ng,religion,2,ethnic religionist,4.1,0.0,,,2020.0
+NER,ng,religion,3,Christian,0.3,0.0,,,2020.0
+NER,ng,religion,4,agnostics and other,0.1,0.0,,,2020.0
+NER,ng,etnia,1,Hausa,53.1,0.0,,,2006.0
+NER,ng,etnia,2,Zarma/Songhai,21.2,0.0,,,2006.0
+NER,ng,etnia,3,Tuareg,11.0,0.0,,,2006.0
+NER,ng,etnia,4,Fulani,6.5,0.0,,Peuhl,2006.0
+NER,ng,etnia,5,Kanuri,5.9,0.0,,,2006.0
+NER,ng,etnia,6,Gurma,0.8,0.0,,,2006.0
+NER,ng,etnia,7,Arab,0.4,0.0,,,2006.0
+NER,ng,etnia,8,Tubu,0.4,0.0,,,2006.0
+NER,ng,etnia,9,other/unavailable,0.9,0.0,,,2006.0
+NER,ng,idioma,1,Hausa,,,0.0,,
+NER,ng,idioma,2,Zarma,,,0.0,,
+NER,ng,idioma,3,French,,,1.0,official,
+NER,ng,idioma,4,Fufulde,,,0.0,,
+NER,ng,idioma,5,Tamashek,,,0.0,,
+NER,ng,idioma,6,Kanuri,,,0.0,,
+NER,ng,idioma,7,Gurmancema,,,0.0,,
+NER,ng,idioma,8,Tagdal,,,0.0,,
+NGA,ni,religion,1,Muslim,53.5,0.0,,,2018.0
+NGA,ni,religion,2,Roman Catholic,10.6,0.0,,,2018.0
+NGA,ni,religion,3,other Christian,35.3,0.0,,,2018.0
+NGA,ni,religion,4,other,0.6,0.0,,,2018.0
+NGA,ni,etnia,1,Hausa,30.0,0.0,,,2018.0
+NGA,ni,etnia,2,Yoruba,15.5,0.0,,,2018.0
+NGA,ni,etnia,3,Igbo,15.2,0.0,,Ibo,2018.0
+NGA,ni,etnia,4,Fulani,6.0,0.0,,,2018.0
+NGA,ni,etnia,5,Tiv,2.4,0.0,,,2018.0
+NGA,ni,etnia,6,Kanuri/Beriberi,2.4,0.0,,,2018.0
+NGA,ni,etnia,7,Ibibio,1.8,0.0,,,2018.0
+NGA,ni,etnia,8,Ijaw/Izon,1.8,0.0,,,2018.0
+NGA,ni,etnia,9,other,24.9,0.0,,,2018.0
+NGA,ni,idioma,1,English,,,1.0,official,
+NGA,ni,idioma,2,Hausa,,,0.0,,
+NGA,ni,idioma,3,Yoruba,,,0.0,,
+NGA,ni,idioma,4,Igbo,,,0.0,Ibo,
+NGA,ni,idioma,5,Fulani,,,0.0,,
+NGA,ni,idioma,6,over 500 additional indigenous languages,,,0.0,,
+SSD,od,religion,1,Christian,60.5,0.0,,,2020.0
+SSD,od,religion,2,folk religion,32.9,0.0,,,2020.0
+SSD,od,religion,3,Muslim,6.2,0.0,,,2020.0
+SSD,od,religion,4,other,1.0,1.0,,,2020.0
+SSD,od,religion,5,unaffiliated,1.0,1.0,,,2020.0
+SSD,od,etnia,1,Dinka  approximately 35-,40.0,0.0,,Jieng,2011.0
+SSD,od,etnia,2,Nuer  approximately,15.0,0.0,,Naath,2011.0
+SSD,od,etnia,3,Shilluk,,,,Chollo,2011.0
+SSD,od,etnia,4,Azande,,,,,2011.0
+SSD,od,etnia,5,Bari,,,,,2011.0
+SSD,od,etnia,6,Kakwa,,,,,2011.0
+SSD,od,etnia,7,Kuku,,,,,2011.0
+SSD,od,etnia,8,Murle,,,,,2011.0
+SSD,od,etnia,9,Mandari,,,,,2011.0
+SSD,od,etnia,10,Didinga,,,,,2011.0
+SSD,od,etnia,11,Ndogo,,,,,2011.0
+SSD,od,etnia,12,Bviri,,,,,2011.0
+SSD,od,etnia,13,Lndi,,,,,2011.0
+SSD,od,etnia,14,Anuak,,,,,2011.0
+SSD,od,etnia,15,Bongo,,,,,2011.0
+SSD,od,etnia,16,Lango,,,,,2011.0
+SSD,od,etnia,17,Dungotona,,,,,2011.0
+SSD,od,etnia,18,Acholi,,,,,2011.0
+SSD,od,etnia,19,Baka,,,,,2011.0
+SSD,od,etnia,20,Fertit,,,,,2011.0
+SSD,od,idioma,1,English,,,1.0,official,
+SSD,od,idioma,2,Arabic,,,0.0,includes Juba and Sudanese variants,
+SSD,od,idioma,3,ethnic languages include Dinka,,,0.0,,
+SSD,od,idioma,4,Nuer,,,0.0,,
+SSD,od,idioma,5,Bari,,,0.0,,
+SSD,od,idioma,6,Zande,,,0.0,,
+SSD,od,idioma,7,Shilluk,,,0.0,,
+GNB,pu,religion,1,Muslim,46.1,0.0,,,2020.0
+GNB,pu,religion,2,folk religions,30.6,0.0,,,2020.0
+GNB,pu,religion,3,Christian,18.9,0.0,,,2020.0
+GNB,pu,religion,4,other or unaffiliated,4.4,0.0,,,2020.0
+GNB,pu,etnia,1,Balanta,30.0,0.0,,,2015.0
+GNB,pu,etnia,2,Fulani,30.0,0.0,,,2015.0
+GNB,pu,etnia,3,Manjaco,14.0,0.0,,,2015.0
+GNB,pu,etnia,4,Mandinga,13.0,0.0,,,2015.0
+GNB,pu,etnia,5,Papel,7.0,0.0,,,2015.0
+GNB,pu,etnia,6,unspecified smaller ethnic groups,6.0,0.0,,,2015.0
+GNB,pu,idioma,1,Portuguese-based Creole,,,0.0,,
+GNB,pu,idioma,2,Portuguese,,,1.0,official; largely used as a second or third language,
+GNB,pu,idioma,3,Pular,,,0.0,a Fula language,
+GNB,pu,idioma,4,Mandingo,,,0.0,,
+RWA,rw,religion,1,Catholic,39.9,0.0,,,
+RWA,rw,religion,2,Pentecostal,21.3,0.0,,,
+RWA,rw,religion,3,Protestant,14.6,0.0,,,
+RWA,rw,religion,4,Adventist,12.2,0.0,,,
+RWA,rw,religion,5,other Christians,4.2,0.0,,,
+RWA,rw,religion,6,no religion,3.0,0.0,,,
+RWA,rw,religion,7,Muslim,2.0,0.0,,,
+RWA,rw,religion,8,other religions,2.0,0.0,,,
+RWA,rw,etnia,1,Hutu,,,,,
+RWA,rw,etnia,2,Tutsi,,,,,
+RWA,rw,etnia,3,Twa,,,,,
+RWA,rw,idioma,1,Kinyarwanda,93.2,0.0,1.0,"official, universal Bantu vernacular",2002.0
+RWA,rw,idioma,2,French,0.1,1.0,1.0,official,2002.0
+RWA,rw,idioma,3,English,0.1,1.0,1.0,official,2002.0
+RWA,rw,idioma,4,Swahili/Kiswahili,0.1,1.0,1.0,"official, used in commercial centers",2002.0
+RWA,rw,idioma,5,more than one language,,,0.0,,2002.0
+RWA,rw,idioma,6,other,6.3,0.0,0.0,,2002.0
+RWA,rw,idioma,7,unspecified,0.3,0.0,0.0,,2002.0
+SYC,se,religion,1,Roman Catholic,76.2,0.0,,,2010.0
+SYC,se,religion,2,Protestant,10.5,0.0,,"Anglican 6.1%, Pentecostal Assembly 1.5%, Seventh Day Adventist 1.2%, other Protestant 1.7%",2010.0
+SYC,se,religion,3,other Christian,2.4,0.0,,,2010.0
+SYC,se,religion,4,Hindu,2.4,0.0,,,2010.0
+SYC,se,religion,5,Muslim,1.6,0.0,,,2010.0
+SYC,se,religion,6,other non-Christian,1.1,0.0,,,2010.0
+SYC,se,religion,7,unspecified,4.8,0.0,,,2010.0
+SYC,se,religion,8,none,0.9,0.0,,,2010.0
+SYC,se,etnia,1,predominantly Creole,,,,mainly of East African and Malagasy heritage,
+SYC,se,idioma,1,Seychellois Creole,89.1,0.0,1.0,official,2010.0
+SYC,se,idioma,2,English,5.1,0.0,1.0,official,2010.0
+SYC,se,idioma,3,French,0.7,0.0,1.0,official,2010.0
+SYC,se,idioma,4,other,3.8,0.0,0.0,,2010.0
+SYC,se,idioma,5,unspecified,1.4,0.0,0.0,,2010.0
+ZAF,sf,religion,1,Christian,86.0,0.0,,,2015.0
+ZAF,sf,religion,2,ancestral,,,,,2015.0
+ZAF,sf,religion,3,tribal,,,,,2015.0
+ZAF,sf,religion,4,animist,,,,,2015.0
+ZAF,sf,religion,5,or other traditional African religions,5.4,0.0,,,2015.0
+ZAF,sf,religion,6,Muslim,1.9,0.0,,,2015.0
+ZAF,sf,religion,7,other,1.5,0.0,,,2015.0
+ZAF,sf,religion,8,nothing in particular,5.2,0.0,,,2015.0
+ZAF,sf,etnia,1,Black African,80.9,0.0,,,2021.0
+ZAF,sf,etnia,2,Colored,8.8,0.0,,,2021.0
+ZAF,sf,etnia,3,White,7.8,0.0,,,2021.0
+ZAF,sf,etnia,4,Indian/Asian,2.6,0.0,,,2021.0
+ZAF,sf,idioma,1,isiZulu or Zulu,25.3,0.0,1.0,official,2018.0
+ZAF,sf,idioma,2,isiXhosa or Xhosa,14.8,0.0,1.0,official,2018.0
+ZAF,sf,idioma,3,Afrikaans,12.2,0.0,1.0,official,2018.0
+ZAF,sf,idioma,4,Sepedi or Pedi,10.1,0.0,1.0,official,2018.0
+ZAF,sf,idioma,5,Setswana or Tswana,9.1,0.0,1.0,official,2018.0
+ZAF,sf,idioma,6,English,8.1,0.0,1.0,official,2018.0
+ZAF,sf,idioma,7,Sesotho or Sotho,7.9,0.0,1.0,official,2018.0
+ZAF,sf,idioma,8,Xitsonga or Tsonga,3.6,0.0,1.0,official,2018.0
+ZAF,sf,idioma,9,siSwati or Swati,2.8,0.0,1.0,official,2018.0
+ZAF,sf,idioma,10,Tshivenda or Venda,2.5,0.0,1.0,official,2018.0
+ZAF,sf,idioma,11,isiNdebele or Ndebele,1.6,0.0,1.0,official,2018.0
+ZAF,sf,idioma,12,other,2.0,0.0,1.0,includes South African sign language (official) and Khoi or Khoisan or Khoe languages,2018.0
+SEN,sg,religion,1,Muslim,97.2,0.0,,most adhere to one of the four main Sufi brotherhoods,2019.0
+SEN,sg,religion,2,Christian,2.7,0.0,,mostly Roman Catholic,2019.0
+SEN,sg,etnia,1,Wolof,39.7,0.0,,,2019.0
+SEN,sg,etnia,2,Pulaar,27.5,0.0,,,2019.0
+SEN,sg,etnia,3,Sereer,16.0,0.0,,,2019.0
+SEN,sg,etnia,4,Mandinka,4.9,0.0,,,2019.0
+SEN,sg,etnia,5,Jola,4.2,0.0,,,2019.0
+SEN,sg,etnia,6,Soninke,2.4,0.0,,,2019.0
+SEN,sg,etnia,7,other,5.4,0.0,,includes Europeans and persons of Lebanese descent,2019.0
+SEN,sg,idioma,1,French,,,1.0,official,
+SEN,sg,idioma,2,Wolof,,,0.0,,
+SEN,sg,idioma,3,Pulaar,,,0.0,,
+SEN,sg,idioma,4,Jola,,,0.0,,
+SEN,sg,idioma,5,Mandinka,,,0.0,,
+SEN,sg,idioma,6,Serer,,,0.0,,
+SEN,sg,idioma,7,Soninke,,,0.0,,
+SHN,sh,religion,1,Anglican,63.2,0.0,,,2021.0
+SHN,sh,religion,2,unspecified,11.4,0.0,,,2021.0
+SHN,sh,religion,3,no religion,9.0,0.0,,,2021.0
+SHN,sh,religion,4,Jehovah's Witness,3.8,0.0,,,2021.0
+SHN,sh,religion,5,Baptist,2.3,0.0,,,2021.0
+SHN,sh,religion,6,Salvation Army,2.0,0.0,,,2021.0
+SHN,sh,religion,7,Roman Catholic,2.2,0.0,,,2021.0
+SHN,sh,religion,8,Seventh Day Adventist,1.9,0.0,,,2021.0
+SHN,sh,religion,9,New Apostolic,1.6,0.0,,,2021.0
+SHN,sh,religion,10,other Christian,1.4,0.0,,,2021.0
+SHN,sh,religion,11,other,1.1,0.0,,,2021.0
+SHN,sh,etnia,1,St. Helena,82.1,0.0,,,2021.0
+SHN,sh,etnia,2,UK,7.6,0.0,,,2021.0
+SHN,sh,etnia,3,South Africa,3.6,0.0,,,2021.0
+SHN,sh,etnia,4,Ascension,2.8,0.0,,,2021.0
+SHN,sh,etnia,5,other,3.9,0.0,,,2021.0
+SHN,sh,idioma,1,English,,,0.0,,
+SLE,sl,religion,1,Muslim,77.1,0.0,,,2019.0
+SLE,sl,religion,2,Christian,22.9,0.0,,,2019.0
+SLE,sl,etnia,1,Temne,35.4,0.0,,,2019.0
+SLE,sl,etnia,2,Mende,30.8,0.0,,,2019.0
+SLE,sl,etnia,3,Limba,8.8,0.0,,,2019.0
+SLE,sl,etnia,4,Kono,4.3,0.0,,,2019.0
+SLE,sl,etnia,5,Korankoh,4.0,0.0,,,2019.0
+SLE,sl,etnia,6,Fullah,3.8,0.0,,,2019.0
+SLE,sl,etnia,7,Mandingo,2.8,0.0,,,2019.0
+SLE,sl,etnia,8,Loko,2.0,0.0,,,2019.0
+SLE,sl,etnia,9,Sherbro,1.9,0.0,,,2019.0
+SLE,sl,etnia,10,Creole,1.2,0.0,,descendants of freed Jamaican slaves who were settled in the Freetown area in the late-18th century; also known as Krio,2019.0
+SLE,sl,etnia,11,other,5.0,0.0,,,2019.0
+SLE,sl,idioma,1,English,,,1.0,"official, regular use limited to literate minority",
+SLE,sl,idioma,2,Mende,,,0.0,principal vernacular in the south,
+SLE,sl,idioma,3,Temne,,,0.0,principal vernacular in the north,
+SLE,sl,idioma,4,Krio,,,0.0,"English-based Creole, spoken by the descendants of freed Jamaican slaves; a first language for 10% of the population but understood by 95%",
+SOM,so,religion,1,Muslim,99.9,0.0,,"Sunni Muslim 98.1%, Shia Muslim 1.2%, Islamic schismatic 0.6%",2020.0
+SOM,so,religion,2,ethnic religionist,0.1,0.0,,,2020.0
+SOM,so,etnia,1,predominantly Somali with lesser numbers of Arabs,,,,,
+SOM,so,etnia,2,Bantus,,,,,
+SOM,so,etnia,3,others,,,,,
+SOM,so,idioma,1,Somali,,,1.0,official,
+SOM,so,idioma,2,Arabic,,,1.0,official,
+SOM,so,idioma,3,Italian,,,0.0,,
+SOM,so,idioma,4,English,,,0.0,,
+SDN,su,religion,1,Sunni Muslim,,,,,
+SDN,su,religion,2,small Christian minority,,,,,
+SDN,su,etnia,1,Sudanese Arab,,,,approximately 70%,
+SDN,su,etnia,2,Fur,,,,,
+SDN,su,etnia,3,Beja,,,,,
+SDN,su,etnia,4,Nuba,,,,,
+SDN,su,etnia,5,Ingessana,,,,,
+SDN,su,etnia,6,Uduk,,,,,
+SDN,su,etnia,7,Fallata,,,,,
+SDN,su,etnia,8,Masalit,,,,,
+SDN,su,etnia,9,Dajo,,,,,
+SDN,su,etnia,10,Gimir,,,,,
+SDN,su,etnia,11,Tunjur,,,,,
+SDN,su,etnia,12,Berti,,,,,
+SDN,su,idioma,1,Arabic,,,1.0,official,
+SDN,su,idioma,2,English,,,1.0,official,
+SDN,su,idioma,3,Nubian,,,0.0,,
+SDN,su,idioma,4,Ta Bedawie,,,0.0,,
+SDN,su,idioma,5,Fur,,,0.0,,
+TGO,to,religion,1,Christian,42.3,0.0,,,2020.0
+TGO,to,religion,2,folk religion,36.9,0.0,,,2020.0
+TGO,to,religion,3,Muslim,14.0,0.0,,,2020.0
+TGO,to,religion,4,Hindu,1.0,1.0,,,2020.0
+TGO,to,religion,5,Buddhist,1.0,1.0,,,2020.0
+TGO,to,religion,6,Jewish,1.0,1.0,,,2020.0
+TGO,to,religion,7,other,1.0,1.0,,,2020.0
+TGO,to,religion,8,none,6.2,0.0,,,2020.0
+TGO,to,etnia,1,Adja-Ewe/Mina,42.4,0.0,,,
+TGO,to,etnia,2,Kabye/Tem,25.9,0.0,,,
+TGO,to,etnia,3,Para-Gourma/Akan,17.1,0.0,,,
+TGO,to,etnia,4,Akposso/Akebu,4.1,0.0,,,
+TGO,to,etnia,5,Ana-Ife,3.2,0.0,,,
+TGO,to,etnia,6,other Togolese,1.7,0.0,,,
+TGO,to,etnia,7,foreigners,5.2,0.0,,,
+TGO,to,etnia,8,no response,0.4,0.0,,2013-14 est.,
+TGO,to,idioma,1,French,,,1.0,"official, language of commerce",
+TGO,to,idioma,2,Ewe and Mina,,,0.0,in the south,
+TGO,to,idioma,3,Kabye  and Dagomba,,,0.0,sometimes spelled Kabiye; in the north,
+STP,tp,religion,1,Catholic,55.7,0.0,,,2012.0
+STP,tp,religion,2,Adventist,4.1,0.0,,,2012.0
+STP,tp,religion,3,Assembly of God,3.4,0.0,,,2012.0
+STP,tp,religion,4,New Apostolic,2.9,0.0,,,2012.0
+STP,tp,religion,5,Mana,2.3,0.0,,,2012.0
+STP,tp,religion,6,Universal Kingdom of God,2.0,0.0,,,2012.0
+STP,tp,religion,7,Jehovah's Witness,1.2,0.0,,,2012.0
+STP,tp,religion,8,other,6.2,0.0,,,2012.0
+STP,tp,religion,9,none,21.2,0.0,,,2012.0
+STP,tp,religion,10,unspecified,1.0,0.0,,,2012.0
+STP,tp,etnia,1,Mestico,,,,,
+STP,tp,etnia,2,Angolares,,,,descendants of Angolan slaves,
+STP,tp,etnia,3,Forros,,,,descendants of freed slaves,
+STP,tp,etnia,4,Servicais,,,,"contract laborers from Angola, Mozambique, and Cabo Verde",
+STP,tp,etnia,5,Tongas,,,,children of servicais born on the islands,
+STP,tp,etnia,6,Europeans,,,,primarily Portuguese,
+STP,tp,etnia,7,Asians,,,,mostly Chinese,
+STP,tp,idioma,1,Portuguese,98.4,0.0,1.0,official,
+STP,tp,idioma,2,Forro,36.2,0.0,0.0,,
+STP,tp,idioma,3,Cabo Verdian,8.5,0.0,0.0,,
+STP,tp,idioma,4,French,6.8,0.0,0.0,,
+STP,tp,idioma,5,Angolar,6.6,0.0,0.0,,
+STP,tp,idioma,6,English,4.9,0.0,0.0,,
+STP,tp,idioma,7,Lunguie,1.0,0.0,0.0,,
+STP,tp,idioma,8,other,2.4,0.0,0.0,including sign language,
+TUN,ts,religion,1,Muslim,99.0,0.0,,official; Sunni,
+TUN,ts,religion,2,other,1.0,1.0,,"includes Christian, Jewish, Shia Muslim, and Baha'i",
+TUN,ts,etnia,1,Arab,98.0,0.0,,,
+TUN,ts,etnia,2,European,1.0,0.0,,,
+TUN,ts,etnia,3,Jewish and other,1.0,0.0,,,
+TUN,ts,idioma,1,Arabic,,,1.0,"official, one of the languages of commerce",
+TUN,ts,idioma,2,French,,,0.0,commerce,
+TUN,ts,idioma,3,Tamazight,,,0.0,,
+TZA,tz,religion,1,Christian,63.1,0.0,,,2020.0
+TZA,tz,religion,2,Muslim,34.1,0.0,,,2020.0
+TZA,tz,religion,3,folk religion,1.1,0.0,,,2020.0
+TZA,tz,religion,4,Buddhist,1.0,1.0,,,2020.0
+TZA,tz,religion,5,Hindu,1.0,1.0,,,2020.0
+TZA,tz,religion,6,Jewish,1.0,1.0,,,2020.0
+TZA,tz,religion,7,other,1.0,1.0,,,2020.0
+TZA,tz,religion,8,unspecified,1.6,0.0,,,2020.0
+TZA,tz,etnia,1,mainland - African,99.0,0.0,,of which 95% are Bantu consisting of more than 130 tribes,
+TZA,tz,etnia,2,other,1.0,0.0,,"consisting of Asian, European, and Arab",
+TZA,tz,idioma,1,Kiswahili or Swahili,,,1.0,official,
+TZA,tz,idioma,2,Kiunguja,,,0.0,name for Swahili in Zanzibar,
+TZA,tz,idioma,3,English,,,1.0,"official, primary language of commerce, administration, and higher education",
+TZA,tz,idioma,4,Arabic,,,0.0,,
+TZA,tz,idioma,5,many local languages,,,0.0,,
+UGA,ug,religion,1,Protestant,45.1,0.0,,"Anglican 32.0%, Pentecostal/Born Again/Evangelical 11.1%, Seventh Day Adventist 1.7%, Baptist .3%",2014.0
+UGA,ug,religion,2,Roman Catholic,39.3,0.0,,,2014.0
+UGA,ug,religion,3,Muslim,13.7,0.0,,,2014.0
+UGA,ug,religion,4,other,1.6,0.0,,,2014.0
+UGA,ug,religion,5,none,0.2,0.0,,,2014.0
+UGA,ug,etnia,1,Baganda,16.5,0.0,,,2014.0
+UGA,ug,etnia,2,Banyankole,9.6,0.0,,,2014.0
+UGA,ug,etnia,3,Basoga,8.8,0.0,,,2014.0
+UGA,ug,etnia,4,Bakiga,7.1,0.0,,,2014.0
+UGA,ug,etnia,5,Iteso,7.0,0.0,,,2014.0
+UGA,ug,etnia,6,Langi,6.3,0.0,,,2014.0
+UGA,ug,etnia,7,Bagisu,4.9,0.0,,,2014.0
+UGA,ug,etnia,8,Acholi,4.4,0.0,,,2014.0
+UGA,ug,etnia,9,Lugbara,3.3,0.0,,,2014.0
+UGA,ug,etnia,10,other,32.1,0.0,,,2014.0
+UGA,ug,idioma,1,English,,,1.0,official,
+UGA,ug,idioma,2,Ganda or Luganda,,,0.0,most widely used of the Niger-Congo languages and the language used most often in the capital,
+UGA,ug,idioma,3,other Niger-Congo languages,,,0.0,,
+UGA,ug,idioma,4,Nilo-Saharan languages,,,0.0,,
+UGA,ug,idioma,5,Swahili,,,1.0,official,
+UGA,ug,idioma,6,Arabic,,,0.0,,
+BFA,uv,religion,1,Muslim,63.8,0.0,,,2019.0
+BFA,uv,religion,2,Roman Catholic,20.1,0.0,,,2019.0
+BFA,uv,religion,3,Animiste,9.0,0.0,,,2019.0
+BFA,uv,religion,4,Protestant,6.2,0.0,,,2019.0
+BFA,uv,religion,5,other,0.2,0.0,,,2019.0
+BFA,uv,religion,6,none,0.7,0.0,,,2019.0
+BFA,uv,etnia,1,Mossi,53.7,0.0,,,2021.0
+BFA,uv,etnia,2,Fulani,6.8,0.0,,Peuhl,2021.0
+BFA,uv,etnia,3,Gurunsi,5.9,0.0,,,2021.0
+BFA,uv,etnia,4,Bissa,5.4,0.0,,,2021.0
+BFA,uv,etnia,5,Gurma,5.2,0.0,,,2021.0
+BFA,uv,etnia,6,Bobo,3.4,0.0,,,2021.0
+BFA,uv,etnia,7,Senufo,2.2,0.0,,,2021.0
+BFA,uv,etnia,8,Bissa,1.5,0.0,,,2021.0
+BFA,uv,etnia,9,Lobi,1.5,0.0,,,2021.0
+BFA,uv,etnia,10,Tuareg/Bella,0.1,0.0,,,2021.0
+BFA,uv,etnia,11,other,12.8,0.0,,,2021.0
+BFA,uv,etnia,12,foreign,0.7,0.0,,,2021.0
+BFA,uv,idioma,1,Mossi,52.9,0.0,0.0,,2019.0
+BFA,uv,idioma,2,Fula,7.8,0.0,0.0,,2019.0
+BFA,uv,idioma,3,Gourmantche,6.8,0.0,0.0,,2019.0
+BFA,uv,idioma,4,Dyula,5.7,0.0,0.0,,2019.0
+BFA,uv,idioma,5,Bissa,3.3,0.0,0.0,,2019.0
+BFA,uv,idioma,6,Gurunsi,3.2,0.0,0.0,,2019.0
+BFA,uv,idioma,7,French,2.2,0.0,1.0,official,2019.0
+BFA,uv,idioma,8,Bwamu,2.0,0.0,0.0,,2019.0
+BFA,uv,idioma,9,Dagara,2.0,0.0,0.0,,2019.0
+BFA,uv,idioma,10,San,1.7,0.0,0.0,,2019.0
+BFA,uv,idioma,11,Marka,1.6,0.0,0.0,,2019.0
+BFA,uv,idioma,12,Bobo,1.5,0.0,0.0,,2019.0
+BFA,uv,idioma,13,Senufo,1.5,0.0,0.0,,2019.0
+BFA,uv,idioma,14,Lobi,1.2,0.0,0.0,,2019.0
+BFA,uv,idioma,15,other,6.6,0.0,0.0,,2019.0
+NAM,wa,religion,1,Christian,97.5,0.0,,,2020.0
+NAM,wa,religion,2,other,0.6,0.0,,"includes Muslim, Baha'i, Jewish, Buddhist",2020.0
+NAM,wa,religion,3,unaffiliated,1.9,0.0,,,2020.0
+NAM,wa,etnia,1,Ovambo,50.0,0.0,,,
+NAM,wa,etnia,2,Kavangos,9.0,0.0,,,
+NAM,wa,etnia,3,Herero,7.0,0.0,,,
+NAM,wa,etnia,4,Damara,7.0,0.0,,,
+NAM,wa,etnia,5,mixed European and African ancestry,6.5,0.0,,,
+NAM,wa,etnia,6,European,6.0,0.0,,,
+NAM,wa,etnia,7,Nama,5.0,0.0,,,
+NAM,wa,etnia,8,Caprivian,4.0,0.0,,,
+NAM,wa,etnia,9,San,3.0,0.0,,,
+NAM,wa,etnia,10,Baster,2.0,0.0,,,
+NAM,wa,etnia,11,Tswana,0.5,0.0,,,
+NAM,wa,idioma,1,Oshiwambo languages,49.7,0.0,0.0,,2016.0
+NAM,wa,idioma,2,Nama/Damara,11.0,0.0,0.0,,2016.0
+NAM,wa,idioma,3,Kavango languages,10.4,0.0,0.0,,2016.0
+NAM,wa,idioma,4,Afrikaans,9.4,0.0,0.0,,2016.0
+NAM,wa,idioma,5,Herero languages,9.2,0.0,0.0,,2016.0
+NAM,wa,idioma,6,Zambezi languages,4.9,0.0,0.0,,2016.0
+NAM,wa,idioma,7,English,2.3,0.0,1.0,official,2016.0
+NAM,wa,idioma,8,other African languages,1.5,0.0,0.0,,2016.0
+NAM,wa,idioma,9,other European languages,0.7,0.0,0.0,,2016.0
+NAM,wa,idioma,10,other,1.0,0.0,0.0,,2016.0
+ESH,wi,religion,1,Muslim,,,,,
+ESH,wi,etnia,1,Arab,,,,,
+ESH,wi,etnia,2,Berber,,,,,
+ESH,wi,idioma,1,Standard Arabic,,,0.0,,
+ESH,wi,idioma,2,Hassaniya Arabic,,,0.0,,
+ESH,wi,idioma,3,Moroccan Arabic,,,0.0,,
+ESH,wi,idioma,4,Berber,,,0.0,,
+ESH,wi,idioma,5,Spanish,,,0.0,,
+ESH,wi,idioma,6,French,,,0.0,,
+SWZ,wz,religion,1,Christian,90.0,0.0,,"Zionist - a blend of Christianity and traditional African religions - 40%, Roman Catholic 20%, other Christian 30% - includes Anglican, Methodist, Church of Jesus Christ, Jehovah's Witness",2015.0
+SWZ,wz,religion,2,Muslim,2.0,0.0,,,2015.0
+SWZ,wz,religion,3,other,8.0,0.0,,"includes Baha'i, Buddhist, Hindu, indigenous, Jewish",2015.0
+SWZ,wz,etnia,1,predominantly Swazi,,,,,
+SWZ,wz,idioma,1,English,,,1.0,"official, used for government business",
+SWZ,wz,idioma,2,siSwati,,,1.0,official,
+ZMB,za,religion,1,Protestant,75.3,0.0,,,2010.0
+ZMB,za,religion,2,Roman Catholic,20.2,0.0,,,2010.0
+ZMB,za,religion,3,other,2.7,0.0,,"includes Muslim, Buddhist, Hindu, and Baha'i",2010.0
+ZMB,za,religion,4,none,1.8,0.0,,,2010.0
+ZMB,za,etnia,1,Bemba,21.0,0.0,,,2010.0
+ZMB,za,etnia,2,Tonga,13.6,0.0,,,2010.0
+ZMB,za,etnia,3,Chewa,7.4,0.0,,,2010.0
+ZMB,za,etnia,4,Lozi,5.7,0.0,,,2010.0
+ZMB,za,etnia,5,Nsenga,5.3,0.0,,,2010.0
+ZMB,za,etnia,6,Tumbuka,4.4,0.0,,,2010.0
+ZMB,za,etnia,7,Ngoni,4.0,0.0,,,2010.0
+ZMB,za,etnia,8,Lala,3.1,0.0,,,2010.0
+ZMB,za,etnia,9,Kaonde,2.9,0.0,,,2010.0
+ZMB,za,etnia,10,Namwanga,2.8,0.0,,,2010.0
+ZMB,za,etnia,11,Lunda,2.6,0.0,,north Western,2010.0
+ZMB,za,etnia,12,Mambwe,2.5,0.0,,,2010.0
+ZMB,za,etnia,13,Luvale,2.2,0.0,,,2010.0
+ZMB,za,etnia,14,Lamba,2.1,0.0,,,2010.0
+ZMB,za,etnia,15,Ushi,1.9,0.0,,,2010.0
+ZMB,za,etnia,16,Lenje,1.6,0.0,,,2010.0
+ZMB,za,etnia,17,Bisa,1.6,0.0,,,2010.0
+ZMB,za,etnia,18,Mbunda,1.2,0.0,,,2010.0
+ZMB,za,etnia,19,other,13.8,0.0,,,2010.0
+ZMB,za,etnia,20,unspecified,0.4,0.0,,,2010.0
+ZMB,za,idioma,1,Bemba,33.4,0.0,0.0,,2010.0
+ZMB,za,idioma,2,Nyanja,14.7,0.0,0.0,,2010.0
+ZMB,za,idioma,3,Tonga,11.4,0.0,0.0,,2010.0
+ZMB,za,idioma,4,Lozi,5.5,0.0,0.0,,2010.0
+ZMB,za,idioma,5,Chewa,4.5,0.0,0.0,,2010.0
+ZMB,za,idioma,6,Nsenga,2.9,0.0,0.0,,2010.0
+ZMB,za,idioma,7,Tumbuka,2.5,0.0,0.0,,2010.0
+ZMB,za,idioma,8,Lunda,1.9,0.0,0.0,North Western,2010.0
+ZMB,za,idioma,9,Kaonde,1.8,0.0,0.0,,2010.0
+ZMB,za,idioma,10,Lala,1.8,0.0,0.0,,2010.0
+ZMB,za,idioma,11,Lamba,1.8,0.0,0.0,,2010.0
+ZMB,za,idioma,12,English,1.7,0.0,1.0,official,2010.0
+ZMB,za,idioma,13,Luvale,1.5,0.0,0.0,,2010.0
+ZMB,za,idioma,14,Mambwe,1.3,0.0,0.0,,2010.0
+ZMB,za,idioma,15,Namwanga,1.2,0.0,0.0,,2010.0
+ZMB,za,idioma,16,Lenje,1.1,0.0,0.0,,2010.0
+ZMB,za,idioma,17,Bisa,1.0,0.0,0.0,,2010.0
+ZMB,za,idioma,18,other,9.7,0.0,0.0,,2010.0
+ZMB,za,idioma,19,unspecified,0.2,0.0,0.0,,2010.0
+ZWE,zi,religion,1,Apostolic Sect,40.3,0.0,,,2022.0
+ZWE,zi,religion,2,Pentecostal,17.0,0.0,,,2022.0
+ZWE,zi,religion,3,Protestant,13.8,0.0,,,2022.0
+ZWE,zi,religion,4,other Christian,7.8,0.0,,,2022.0
+ZWE,zi,religion,5,Roman Catholic,6.4,0.0,,,2022.0
+ZWE,zi,religion,6,African traditionalist,5.0,0.0,,,2022.0
+ZWE,zi,religion,7,other,1.5,0.0,,"includes Muslim, Jewish, Hindu",2022.0
+ZWE,zi,religion,8,none,8.3,0.0,,,2022.0
+ZWE,zi,etnia,1,African,99.6,0.0,,predominantly Shona; Ndebele is the second largest ethnic group,2022.0
+ZWE,zi,etnia,2,other,0.4,0.0,,"includes Caucasian, Asiatic, mixed race",2022.0
+ZWE,zi,idioma,1,Shona,80.9,0.0,1.0,"official, most widely spoken",2022.0
+ZWE,zi,idioma,2,Ndebele,11.5,0.0,1.0,"official, second most widely spoken",2022.0
+ZWE,zi,idioma,3,English,0.3,0.0,1.0,"official, traditionally used for official business",2022.0
+ZWE,zi,idioma,4,13 minority languages,7.0,0.0,1.0,"official; includes Chewa, Chibarwe, Kalanga, Koisan, Nambya, Ndau, Shangani, sign language, Sotho, Tonga, Tswana, Venda, and Xhosa",2022.0
+ZWE,zi,idioma,5,other,0.3,0.0,0.0,,2022.0
+ASM,aq,religion,1,Christian,98.3,0.0,,,2020.0
+ASM,aq,religion,2,other,1.0,1.0,,,2020.0
+ASM,aq,religion,3,unaffiliated,1.0,1.0,,,2020.0
+ASM,aq,etnia,1,Pacific Islander,88.7,0.0,,"includes Samoan 83.2%, Tongan 2.2%, other 3.3%",2020.0
+ASM,aq,etnia,2,Asian,5.8,0.0,,"includes Filipino 3.4%, other 2.4%",2020.0
+ASM,aq,etnia,3,mixed,4.4,0.0,,,2020.0
+ASM,aq,etnia,4,other,1.1,0.0,,,2020.0
+ASM,aq,idioma,1,Samoan,87.9,0.0,0.0,closely related to Hawaiian and other Polynesian languages,2020.0
+ASM,aq,idioma,2,English,3.3,0.0,0.0,,2020.0
+ASM,aq,idioma,3,Tongan,2.1,0.0,0.0,,2020.0
+ASM,aq,idioma,4,other Pacific Islander,4.1,0.0,0.0,,2020.0
+ASM,aq,idioma,5,Asian languages,2.1,0.0,0.0,,2020.0
+ASM,aq,idioma,6,other,0.5,0.0,0.0,,2020.0
+AUS,as,religion,1,Roman Catholic,20.0,0.0,,,2021.0
+AUS,as,religion,2,Protestant,18.1,0.0,,"Anglican 9.8%, Uniting Church 2.6%, Presbyterian and Reformed 1.6%, Baptist 1.4%, Pentecostal 1%, other Protestant 1.7%",2021.0
+AUS,as,religion,3,other Christian,3.5,0.0,,,2021.0
+AUS,as,religion,4,Muslim,3.2,0.0,,,2021.0
+AUS,as,religion,5,Hindu,2.7,0.0,,,2021.0
+AUS,as,religion,6,Buddhist,2.4,0.0,,,2021.0
+AUS,as,religion,7,Orthodox,2.3,0.0,,"Eastern Orthodox 2.1%, Oriental Orthodox 0.2%",2021.0
+AUS,as,religion,8,other,2.1,0.0,,,2021.0
+AUS,as,religion,9,none,38.4,0.0,,,2021.0
+AUS,as,religion,10,unspecified,7.3,0.0,,,2021.0
+AUS,as,etnia,1,English,33.0,0.0,,,2021.0
+AUS,as,etnia,2,Australian,29.9,0.0,,,2021.0
+AUS,as,etnia,3,Irish,9.5,0.0,,,2021.0
+AUS,as,etnia,4,Scottish,8.6,0.0,,,2021.0
+AUS,as,etnia,5,Chinese,5.5,0.0,,,2021.0
+AUS,as,etnia,6,Italian,4.4,0.0,,,2021.0
+AUS,as,etnia,7,German,4.0,0.0,,,2021.0
+AUS,as,etnia,8,Indian,3.1,0.0,,,2021.0
+AUS,as,etnia,9,Australian Aboriginal,2.9,0.0,,,2021.0
+AUS,as,etnia,10,Greek,1.7,0.0,,,2021.0
+AUS,as,etnia,11,unspecified,4.7,0.0,,,2021.0
+AUS,as,idioma,1,English,72.0,0.0,0.0,,2021.0
+AUS,as,idioma,2,Mandarin,2.7,0.0,0.0,,2021.0
+AUS,as,idioma,3,Arabic,1.4,0.0,0.0,,2021.0
+AUS,as,idioma,4,Vietnamese,1.3,0.0,0.0,,2021.0
+AUS,as,idioma,5,Cantonese,1.2,0.0,0.0,,2021.0
+AUS,as,idioma,6,other,15.7,0.0,0.0,,2021.0
+AUS,as,idioma,7,unspecified,5.7,0.0,0.0,,2021.0
+SLB,bp,religion,1,Protestant,73.4,0.0,,"Church of Melanesia 31.9%, South Sea Evangelical 17.1%, Seventh Day Adventist 11.7%, United Church 10.1%, Christian Fellowship Church 2.5%",2009.0
+SLB,bp,religion,2,Roman Catholic,19.6,0.0,,,2009.0
+SLB,bp,religion,3,other Christian,2.9,0.0,,,2009.0
+SLB,bp,religion,4,other,4.0,0.0,,,2009.0
+SLB,bp,religion,5,unspecified,0.1,0.0,,,2009.0
+SLB,bp,etnia,1,Melanesian,95.3,0.0,,,2009.0
+SLB,bp,etnia,2,Polynesian,3.1,0.0,,,2009.0
+SLB,bp,etnia,3,Micronesian,1.2,0.0,,,2009.0
+SLB,bp,etnia,4,other,0.3,0.0,,,2009.0
+SLB,bp,idioma,1,Melanesian pidgin,,,0.0,lingua franca in much of the country,
+SLB,bp,idioma,2,English,,,1.0,official but spoken by only 1%-2% of the population,
+SLB,bp,idioma,3,120 indigenous languages,,,0.0,,
+CCK,ck,religion,1,Muslim,75.0,0.0,,predominantly Sunni,2016.0
+CCK,ck,religion,2,Anglican,3.5,0.0,,,2016.0
+CCK,ck,religion,3,Roman Catholic,2.2,0.0,,,2016.0
+CCK,ck,religion,4,none,12.9,0.0,,,2016.0
+CCK,ck,religion,5,unspecified,6.3,0.0,,,2016.0
+CCK,ck,etnia,1,Europeans,,,,,
+CCK,ck,etnia,2,Cocos Malays,,,,,
+CCK,ck,idioma,1,Malay,68.8,0.0,0.0,Cocos dialect,
+CCK,ck,idioma,2,English,22.3,0.0,0.0,,
+CCK,ck,idioma,3,unspecified,8.9,0.0,0.0,,
+MNP,cq,religion,1,Christian,,,,"Roman Catholic majority, although traditional beliefs and taboos may still be found",
+MNP,cq,etnia,1,Asian,50.0,0.0,,"includes Filipino 35.3%, Chinese 6.8%, Korean 4.2%, and other Asian 3.7%",2010.0
+MNP,cq,etnia,2,Native Hawaiian or other Pacific Islander,34.9,0.0,,"includes Chamorro 23.9%, Carolinian 4.6%, and other Native Hawaiian or Pacific Islander 6.4%",2010.0
+MNP,cq,etnia,3,other,2.5,0.0,,,2010.0
+MNP,cq,etnia,4,two or more ethnicities or races,12.7,0.0,,,2010.0
+MNP,cq,idioma,1,Philippine languages,32.8,0.0,0.0,,2010.0
+MNP,cq,idioma,2,Chamorro,24.1,0.0,1.0,official,2010.0
+MNP,cq,idioma,3,English,17.0,0.0,1.0,official,2010.0
+MNP,cq,idioma,4,"other Pacific island languages 10.1% (includes Carolinian , Chinese 6.8%, other Asian languages 7.3%, other",1.9,0.0,1.0,official,2010.0
+COK,cw,religion,1,Protestant,55.0,0.0,,"Cook Islands Christian Church 43.1%, Seventh Day Adventist 8.3%, Assemblies of God 3.6%",2021.0
+COK,cw,religion,2,Roman Catholic,16.7,0.0,,,2021.0
+COK,cw,religion,3,Church of Jesus Christ,3.9,0.0,,,2021.0
+COK,cw,religion,4,Jehovah's Witness,2.2,0.0,,,2021.0
+COK,cw,religion,5,Apostolic Church,2.1,0.0,,,2021.0
+COK,cw,religion,6,other,4.5,0.0,,,2021.0
+COK,cw,religion,7,none/unspecified,15.6,0.0,,,2021.0
+COK,cw,etnia,1,Cook Island Maori,77.4,0.0,,,2021.0
+COK,cw,etnia,2,part Cook Island Maori,8.3,0.0,,,2021.0
+COK,cw,etnia,3,Fijian,3.6,0.0,,,2021.0
+COK,cw,etnia,4,New Zealand Maori/European,3.4,0.0,,,2021.0
+COK,cw,etnia,5,Filipino,2.9,0.0,,,2021.0
+COK,cw,etnia,6,other Pacific Islands,1.8,0.0,,,2021.0
+COK,cw,etnia,7,other,2.6,0.0,,,2021.0
+COK,cw,idioma,1,English,86.4,0.0,1.0,official,2011.0
+COK,cw,idioma,2,Cook Islands Maori,76.2,0.0,1.0,Rarotongan; official,2011.0
+COK,cw,idioma,3,other,8.3,0.0,0.0,,2011.0
+FJI,fj,religion,1,Protestant,45.0,0.0,,"Methodist 34.6%, Assembly of God 5.7%, Seventh Day Adventist 3.9%, and Anglican 0.8%",2007.0
+FJI,fj,religion,2,Hindu,27.9,0.0,,,2007.0
+FJI,fj,religion,3,other Christian,10.4,0.0,,,2007.0
+FJI,fj,religion,4,Roman Catholic,9.1,0.0,,,2007.0
+FJI,fj,religion,5,Muslim,6.3,0.0,,,2007.0
+FJI,fj,religion,6,Sikh,0.3,0.0,,,2007.0
+FJI,fj,religion,7,other,0.3,0.0,,,2007.0
+FJI,fj,religion,8,none,0.8,0.0,,,2007.0
+FJI,fj,etnia,1,iTaukei,56.8,0.0,,predominantly Melanesian with a Polynesian admixture,2007.0
+FJI,fj,etnia,2,Indo-Fijian,37.5,0.0,,,2007.0
+FJI,fj,etnia,3,Rotuman,1.2,0.0,,,2007.0
+FJI,fj,etnia,4,other,4.5,0.0,,"European, part European, other Pacific Islanders, Chinese",2007.0
+FJI,fj,idioma,1,English,,,1.0,official,
+FJI,fj,idioma,2,iTaukei,,,1.0,official,
+FJI,fj,idioma,3,Fiji Hindi,,,1.0,official,
+FSM,fm,religion,1,Roman Catholic,54.7,0.0,,,2010.0
+FSM,fm,religion,2,Protestant,41.1,0.0,,"includes Congregational 38.5%, Baptist 1.1%, Seventh Day Adventist 0.8%, Assembly of God 0.7%",2010.0
+FSM,fm,religion,3,Church of Jesus Christ,1.5,0.0,,,2010.0
+FSM,fm,religion,4,other,1.9,0.0,,,2010.0
+FSM,fm,religion,5,none,0.7,0.0,,,2010.0
+FSM,fm,religion,6,unspecified,0.1,0.0,,,2010.0
+FSM,fm,etnia,1,Chuukese/Mortlockese,49.3,0.0,,,2010.0
+FSM,fm,etnia,2,Pohnpeian,29.8,0.0,,,2010.0
+FSM,fm,etnia,3,Kosraean,6.3,0.0,,,2010.0
+FSM,fm,etnia,4,Yapese,5.7,0.0,,,2010.0
+FSM,fm,etnia,5,Yap outer islanders,5.1,0.0,,,2010.0
+FSM,fm,etnia,6,Polynesian,1.6,0.0,,,2010.0
+FSM,fm,etnia,7,Asian,1.4,0.0,,,2010.0
+FSM,fm,etnia,8,other,0.8,0.0,,,2010.0
+FSM,fm,idioma,1,English,,,1.0,official and common language,
+FSM,fm,idioma,2,Chuukese,,,0.0,,
+FSM,fm,idioma,3,Kosrean,,,0.0,,
+FSM,fm,idioma,4,Pohnpeian,,,0.0,,
+FSM,fm,idioma,5,Yapese,,,0.0,,
+FSM,fm,idioma,6,Ulithian,,,0.0,,
+FSM,fm,idioma,7,Woleaian,,,0.0,,
+FSM,fm,idioma,8,Nukuoro,,,0.0,,
+FSM,fm,idioma,9,Kapingamarangi,,,0.0,,
+PYF,fp,religion,1,Protestant,54.0,0.0,,,
+PYF,fp,religion,2,Roman Catholic,30.0,0.0,,,
+PYF,fp,religion,3,other,10.0,0.0,,,
+PYF,fp,religion,4,no religion,6.0,0.0,,,
+PYF,fp,etnia,1,Polynesian,78.0,0.0,,,
+PYF,fp,etnia,2,Chinese,12.0,0.0,,,
+PYF,fp,etnia,3,local French,6.0,0.0,,,
+PYF,fp,etnia,4,metropolitan French,4.0,0.0,,,
+PYF,fp,idioma,1,French,73.5,0.0,1.0,official,2017.0
+PYF,fp,idioma,2,Tahitian,20.1,0.0,0.0,,2017.0
+PYF,fp,idioma,3,Marquesan,2.6,0.0,0.0,,2017.0
+PYF,fp,idioma,4,Austral languages,1.2,0.0,0.0,,2017.0
+PYF,fp,idioma,5,Paumotu,1.0,0.0,0.0,,2017.0
+PYF,fp,idioma,6,other,1.6,0.0,0.0,,2017.0
+GUM,gq,religion,1,Christian,94.2,0.0,,predominantly Roman Catholic,2020.0
+GUM,gq,religion,2,folk religions,1.5,0.0,,,2020.0
+GUM,gq,religion,3,Buddhist,1.1,0.0,,,2020.0
+GUM,gq,religion,4,other,1.6,0.0,,,2020.0
+GUM,gq,religion,5,unaffiliated,1.7,0.0,,,2020.0
+GUM,gq,etnia,1,Native Hawaiian and other Pacific Islander,46.1,0.0,,"Chamorro 32.8%, Chuukese 6.7%, Palauan 1.4%, Pohnpeian 1.4%, Yapese 1%, other Native Hawaiian and other Pacific Islander 2.8%",2020.0
+GUM,gq,etnia,2,Asian,35.5,0.0,,"Filipino 29.1%, Korean 2.2%, Japanese 1.4%, Chinese (except Taiwanese) 1.3%, other Asian 1.5%",2020.0
+GUM,gq,etnia,3,White,6.8,0.0,,,2020.0
+GUM,gq,etnia,4,African descent or African-American,0.9,0.0,,,2020.0
+GUM,gq,etnia,5,Indigenous,0.1,0.0,,,2020.0
+GUM,gq,etnia,6,other,0.6,0.0,,,2020.0
+GUM,gq,etnia,7,mixed,10.0,0.0,,,2020.0
+GUM,gq,idioma,1,English,43.3,0.0,0.0,,2020.0
+GUM,gq,idioma,2,Filipino,24.9,0.0,0.0,,2020.0
+GUM,gq,idioma,3,Chamorro,16.0,0.0,0.0,,2020.0
+GUM,gq,idioma,4,other Pacific Island languages,9.4,0.0,0.0,,2020.0
+GUM,gq,idioma,5,Asian languages,6.5,0.0,0.0,,2020.0
+KIR,kr,religion,1,Roman Catholic,58.9,0.0,,,2020.0
+KIR,kr,religion,2,Kiribati Uniting Church,21.2,0.0,,,2020.0
+KIR,kr,religion,3,Kiribati Protestant Church,8.4,0.0,,,2020.0
+KIR,kr,religion,4,Church of Jesus Christ,5.6,0.0,,,2020.0
+KIR,kr,religion,5,Seventh Day Adventist,2.1,0.0,,,2020.0
+KIR,kr,religion,6,Baha'i,2.1,0.0,,,2020.0
+KIR,kr,religion,7,other,1.7,0.0,,,2020.0
+KIR,kr,etnia,1,I-Kiribati,95.78,0.0,,,2020.0
+KIR,kr,etnia,2,I-Kiribati/mixed,3.8,0.0,,,2020.0
+KIR,kr,etnia,3,Tuvaluan,0.2,0.0,,,2020.0
+KIR,kr,etnia,4,other,1.7,0.0,,,2020.0
+KIR,kr,idioma,1,Gilbertese,,,0.0,,
+KIR,kr,idioma,2,English,,,1.0,official,
+CXR,kt,religion,1,Muslim,19.4,0.0,,,2016.0
+CXR,kt,religion,2,Buddhist,18.3,0.0,,,2016.0
+CXR,kt,religion,3,Roman Catholic,8.8,0.0,,,2016.0
+CXR,kt,religion,4,Protestant,6.5,0.0,,"includes Anglican 3.6%, Uniting Church 1.2%, other 1.7%",2016.0
+CXR,kt,religion,5,other Christian,3.3,0.0,,,2016.0
+CXR,kt,religion,6,other,0.6,0.0,,,2016.0
+CXR,kt,religion,7,none,15.3,0.0,,,2016.0
+CXR,kt,religion,8,unspecified,27.7,0.0,,,2016.0
+CXR,kt,etnia,1,Chinese,70.0,0.0,,,2001.0
+CXR,kt,etnia,2,European,20.0,0.0,,,2001.0
+CXR,kt,etnia,3,Malay,10.0,0.0,,,2001.0
+CXR,kt,idioma,1,English,27.6,0.0,1.0,official,2016.0
+CXR,kt,idioma,2,Mandarin,17.2,0.0,0.0,,2016.0
+CXR,kt,idioma,3,Malay,17.1,0.0,0.0,,2016.0
+CXR,kt,idioma,4,Cantonese,3.9,0.0,0.0,,2016.0
+CXR,kt,idioma,5,Min Nan,1.6,0.0,0.0,,2016.0
+CXR,kt,idioma,6,Tagalog,1.0,0.0,0.0,,2016.0
+CXR,kt,idioma,7,other,4.5,0.0,0.0,,2016.0
+CXR,kt,idioma,8,unspecified,27.1,0.0,0.0,,2016.0
+NCL,nc,religion,1,Christian,85.2,0.0,,,2020.0
+NCL,nc,religion,2,Muslim,2.8,0.0,,,2020.0
+NCL,nc,religion,3,other,1.6,0.0,,,2020.0
+NCL,nc,religion,4,unaffiliated,10.4,0.0,,,2020.0
+NCL,nc,etnia,1,Kanak,39.1,0.0,,,2014.0
+NCL,nc,etnia,2,European,27.1,0.0,,,2014.0
+NCL,nc,etnia,3,Wallisian,,,,,2014.0
+NCL,nc,etnia,4,Futunian,8.2,0.0,,,2014.0
+NCL,nc,etnia,5,Tahitian,2.1,0.0,,,2014.0
+NCL,nc,etnia,6,Indonesian,1.4,0.0,,,2014.0
+NCL,nc,etnia,7,Ni-Vanuatu,1.0,0.0,,,2014.0
+NCL,nc,etnia,8,Vietnamese,0.9,0.0,,,2014.0
+NCL,nc,etnia,9,other,17.7,0.0,,,2014.0
+NCL,nc,etnia,10,unspecified,2.5,0.0,,,2014.0
+NCL,nc,idioma,1,French,,,1.0,official,
+NCL,nc,idioma,2,33 Melanesian-Polynesian dialects,,,0.0,,
+NIU,ne,religion,1,Ekalesia Niue,61.7,0.0,,,2017.0
+NIU,ne,religion,2,Latter Day Saints,8.7,0.0,,,2017.0
+NIU,ne,religion,3,Roman Catholic,8.4,0.0,,,2017.0
+NIU,ne,religion,4,other,8.2,0.0,,,2017.0
+NIU,ne,religion,5,not stated,5.1,0.0,,,2017.0
+NIU,ne,religion,6,none,3.7,0.0,,,2017.0
+NIU,ne,religion,7,Jehovah's Witnesses,2.7,0.0,,,2017.0
+NIU,ne,religion,8,Seventh Day Adventist,1.4,0.0,,,2017.0
+NIU,ne,etnia,1,Niuean,65.4,0.0,,,2017.0
+NIU,ne,etnia,2,part-Niuean,14.0,0.0,,,2017.0
+NIU,ne,etnia,3,non-Niuean,20.6,0.0,,,2017.0
+NIU,ne,idioma,1,Niuean,46.0,0.0,1.0,"official, a Polynesian language closely related to Tongan and Samoan",2011.0
+NIU,ne,idioma,2,Niuean and English,32.0,0.0,0.0,,2011.0
+NIU,ne,idioma,3,English,11.0,0.0,1.0,official,2011.0
+NIU,ne,idioma,4,Niuean and others,5.0,0.0,0.0,,2011.0
+NIU,ne,idioma,5,other,6.0,0.0,0.0,,2011.0
+NFK,nf,religion,1,Protestant,46.8,0.0,,"Anglican 29.2%, Uniting Church in Australia 9.8%, Presbyterian 2.9%, Seventh Day Adventist 2.7%, other 2.2%",2016.0
+NFK,nf,religion,2,Roman Catholic,12.6,0.0,,,2016.0
+NFK,nf,religion,3,other Christian,2.9,0.0,,,2016.0
+NFK,nf,religion,4,other,1.4,0.0,,,2016.0
+NFK,nf,religion,5,none,26.7,0.0,,,2016.0
+NFK,nf,religion,6,unspecified,9.5,0.0,,,2016.0
+NFK,nf,etnia,1,Australian,22.8,0.0,,,2011.0
+NFK,nf,etnia,2,English,22.4,0.0,,,2011.0
+NFK,nf,etnia,3,Pitcairn Islander,20.0,0.0,,,2011.0
+NFK,nf,etnia,4,Scottish,6.0,0.0,,,2011.0
+NFK,nf,etnia,5,Irish,5.2,0.0,,,2011.0
+NFK,nf,idioma,1,English,44.9,0.0,1.0,official,2016.0
+NFK,nf,idioma,2,Norfolk,40.3,0.0,1.0,"official, a mixture of 18th century English and ancient Tahitian",2016.0
+NFK,nf,idioma,3,Fijian,1.8,0.0,0.0,,2016.0
+NFK,nf,idioma,4,other,6.8,0.0,0.0,,2016.0
+NFK,nf,idioma,5,unspecified,6.2,0.0,0.0,,2016.0
+VUT,nh,religion,1,Protestant,39.9,0.0,,"Presbyterian 27.2%, Seventh Day Adventist 14.8%, Anglican 12%, Churches of Christ 5%, Assemblies of God 4.9%, Neil Thomas Ministry/Inner Life Ministry 3.2%",2020.0
+VUT,nh,religion,2,Roman Catholic,12.1,0.0,,,2020.0
+VUT,nh,religion,3,Apostolic,2.3,0.0,,,2020.0
+VUT,nh,religion,4,Church of Jesus Christ,1.8,0.0,,,2020.0
+VUT,nh,religion,5,customary beliefs,3.1,0.0,,including Jon Frum cargo cult,2020.0
+VUT,nh,religion,6,other,12.0,0.0,,,2020.0
+VUT,nh,religion,7,none,1.4,0.0,,,2020.0
+VUT,nh,religion,8,unspecified,0.1,0.0,,,2020.0
+VUT,nh,etnia,1,Ni-Vanuatu,99.0,0.0,,,2020.0
+VUT,nh,etnia,2,other,1.0,0.0,,"European, Asian, other Melanesian, Polynesian, Micronesian, other",2020.0
+VUT,nh,idioma,1,indigenous languages,82.6,0.0,0.0,more than 100,2020.0
+VUT,nh,idioma,2,Bislama,14.5,0.0,1.0,official; creole,2020.0
+VUT,nh,idioma,3,English,2.1,0.0,1.0,official,2020.0
+VUT,nh,idioma,4,French,0.8,0.0,1.0,official,2020.0
+NRU,nr,religion,1,Protestant,60.4,0.0,,"Nauruan Congregational 34.7%, Assemblies of God 11.6%, Pacific Light House 6.3%, Nauru Independent 3.6%, Baptist 1.5, Seventh Day Adventist 1.3%, other Protestant 1.4%",2021.0
+NRU,nr,religion,2,Roman Catholic,33.9,0.0,,,2021.0
+NRU,nr,religion,3,other,4.2,0.0,,,2021.0
+NRU,nr,religion,4,none,1.3,0.0,,,2021.0
+NRU,nr,religion,5,no answer,0.3,0.0,,,2021.0
+NRU,nr,etnia,1,Nauruan,94.6,0.0,,,2021.0
+NRU,nr,etnia,2,I-Kiribati,2.2,0.0,,,2021.0
+NRU,nr,etnia,3,Fijian,1.3,0.0,,,2021.0
+NRU,nr,etnia,4,other,1.9,0.0,,,2021.0
+NRU,nr,idioma,1,Nauruan,93.0,0.0,1.0,"official, a distinct Pacific Island language",2011.0
+NRU,nr,idioma,2,English,2.0,0.0,0.0,"widely understood, spoken, and used for most government and commercial purposes",2011.0
+NRU,nr,idioma,3,other,5.0,0.0,0.0,includes Gilbertese 2% and Chinese 2%,2011.0
+NZL,nz,religion,1,Christian,37.3,0.0,,"Catholic 10.1%, Anglican 6.8%, Presbyterian and Congregational 5.2%, Pentecostal 1.8%, Methodist 1.6%, Church of Jesus Christ 1.2%, other 10.7%",2018.0
+NZL,nz,religion,2,Hindu,2.7,0.0,,,2018.0
+NZL,nz,religion,3,Maori,1.3,0.0,,,2018.0
+NZL,nz,religion,4,Muslim,,,,,2018.0
+NZL,nz,religion,5,1.3%,1.3,0.0,,,2018.0
+NZL,nz,religion,6,Buddhist,1.1,0.0,,,2018.0
+NZL,nz,religion,7,other religion,1.6,0.0,,"includes Judaism, Spiritualism and New Age religions, Baha'i, Asian religions other than Buddhism",2018.0
+NZL,nz,religion,8,no religion,48.6,0.0,,,2018.0
+NZL,nz,religion,9,objected to answering,6.7,0.0,,,2018.0
+NZL,nz,etnia,1,European,64.1,0.0,,,2018.0
+NZL,nz,etnia,2,Maori,16.5,0.0,,,2018.0
+NZL,nz,etnia,3,Chinese,4.9,0.0,,,2018.0
+NZL,nz,etnia,4,Indian,4.7,0.0,,,2018.0
+NZL,nz,etnia,5,Samoan,3.9,0.0,,,2018.0
+NZL,nz,etnia,6,Tongan,1.8,0.0,,,2018.0
+NZL,nz,etnia,7,Cook Islands Maori,1.7,0.0,,,2018.0
+NZL,nz,etnia,8,English,1.5,0.0,,,2018.0
+NZL,nz,etnia,9,Filipino,1.5,0.0,,,2018.0
+NZL,nz,etnia,10,New Zealander,1.0,0.0,,,2018.0
+NZL,nz,etnia,11,other,13.7,0.0,,,2018.0
+NZL,nz,idioma,1,English,95.4,0.0,1.0,de facto official,2018.0
+NZL,nz,idioma,2,Maori,4.0,0.0,1.0,de jure official,2018.0
+NZL,nz,idioma,3,Samoan,2.2,0.0,0.0,,2018.0
+NZL,nz,idioma,4,Northern Chinese,2.0,0.0,0.0,,2018.0
+NZL,nz,idioma,5,Hindi,1.5,0.0,0.0,,2018.0
+NZL,nz,idioma,6,French,1.2,0.0,0.0,,2018.0
+NZL,nz,idioma,7,Yue,1.1,0.0,0.0,,2018.0
+NZL,nz,idioma,8,New Zealand Sign Language,0.5,0.0,1.0,de jure official,2018.0
+NZL,nz,idioma,9,other or not stated,17.2,0.0,0.0,,2018.0
+PCN,pc,religion,1,Seventh Day Adventist,100.0,0.0,,,
+PCN,pc,etnia,1,descendants of the Bounty mutineers and their Tahitian wives,,,,,
+PCN,pc,idioma,1,English,,,1.0,official,
+PCN,pc,idioma,2,Pitkern,,,0.0,mixture of an 18th century English dialect and a Tahitian dialect,
+PLW,ps,religion,1,Roman Catholic,46.9,0.0,,,2020.0
+PLW,ps,religion,2,Protestant,30.9,0.0,,"Evangelical 24.6%, Seventh Day Adventist 5%, other Protestant 1.4%",2020.0
+PLW,ps,religion,3,Modekngei,5.1,0.0,,indigenous to Palau,2020.0
+PLW,ps,religion,4,Muslim,4.9,0.0,,,2020.0
+PLW,ps,religion,5,other,12.3,0.0,,,2020.0
+PLW,ps,etnia,1,Palauan,70.6,0.0,,Micronesian with Malayan and Melanesian admixtures,2020.0
+PLW,ps,etnia,2,Carolinian,1.2,0.0,,,2020.0
+PLW,ps,etnia,3,Asian,26.5,0.0,,,2020.0
+PLW,ps,etnia,4,other,1.7,0.0,,,2020.0
+PLW,ps,idioma,1,Palauan,65.2,0.0,1.0,official on most islands,2015.0
+PLW,ps,idioma,2,other Micronesian,1.9,0.0,0.0,,2015.0
+PLW,ps,idioma,3,English,19.1,0.0,1.0,official,2015.0
+PLW,ps,idioma,4,Filipino,9.9,0.0,0.0,,2015.0
+PLW,ps,idioma,5,Chinese,1.2,0.0,0.0,,2015.0
+PLW,ps,idioma,6,other,2.8,0.0,0.0,,2015.0
+MHL,rm,religion,1,Protestant,79.3,0.0,,"United Church of Christ 47.9%, Assembly of God 14.1%, Full Gospel 5%, Bukot Nan Jesus 3%, Salvation Army 2.3%, Reformed Congressional Church 2.2%, Seventh Day Adventist 1.7%, New Beginning Church 1.4%, other Protestant 1.6%",2021.0
+MHL,rm,religion,2,Roman Catholic,9.3,0.0,,,2021.0
+MHL,rm,religion,3,Church of Jesus Christ,5.7,0.0,,,2021.0
+MHL,rm,religion,4,Jehovah's Witness,1.3,0.0,,,2021.0
+MHL,rm,religion,5,other,3.3,0.0,,,2021.0
+MHL,rm,religion,6,none,1.1,0.0,,,2021.0
+MHL,rm,etnia,1,Marshallese,95.6,0.0,,,2021.0
+MHL,rm,etnia,2,Filipino,1.1,0.0,,,2021.0
+MHL,rm,etnia,3,other,3.3,0.0,,,2021.0
+MHL,rm,idioma,1,Marshallese,98.2,0.0,1.0,official,1999.0
+MHL,rm,idioma,2,other languages,1.8,0.0,0.0,,1999.0
+TKL,tl,religion,1,Congregational Christian Church,50.4,0.0,,,2016.0
+TKL,tl,religion,2,Roman Catholic,38.7,0.0,,,2016.0
+TKL,tl,religion,3,Presbyterian,5.9,0.0,,,2016.0
+TKL,tl,religion,4,other Christian,4.2,0.0,,,2016.0
+TKL,tl,religion,5,unspecified,0.8,0.0,,,2016.0
+TKL,tl,etnia,1,Tokelauan,64.5,0.0,,,2016.0
+TKL,tl,etnia,2,part Tokelauan/Samoan,9.7,0.0,,,2016.0
+TKL,tl,etnia,3,part Tokelauan/Tuvaluan,2.8,0.0,,,2016.0
+TKL,tl,etnia,4,Tuvaluan,7.5,0.0,,,2016.0
+TKL,tl,etnia,5,Samoan,5.8,0.0,,,2016.0
+TKL,tl,etnia,6,other Pacific Islander,3.4,0.0,,,2016.0
+TKL,tl,etnia,7,other,5.6,0.0,,,2016.0
+TKL,tl,etnia,8,unspecified,0.8,0.0,,,2016.0
+TKL,tl,idioma,1,Tokelauan,88.1,0.0,0.0,a Polynesian language,
+TKL,tl,idioma,2,English,48.6,0.0,0.0,,
+TKL,tl,idioma,3,Samoan,26.7,0.0,0.0,,
+TKL,tl,idioma,4,Tuvaluan,11.2,0.0,0.0,,
+TKL,tl,idioma,5,Kiribati,1.5,0.0,0.0,,
+TKL,tl,idioma,6,other,2.8,0.0,0.0,,
+TKL,tl,idioma,7,none,2.8,0.0,0.0,,
+TKL,tl,idioma,8,unspecified,0.8,0.0,0.0,2016 ests.,
+TON,tn,religion,1,Protestant,63.9,0.0,,"Free Wesleyan Church 34.2%, Free Church of Tonga 11.3%, Church of Tonga 6.8%, Seventh Day Adventist 2.5%, Assembly of God 2.5%, Tokaikolo/Maamafo'ou 1.5%, Constitutional Church of Tonga 1.2%, other Protestant 4%",2021.0
+TON,tn,religion,2,Church of Jesus Christ,19.7,0.0,,,2021.0
+TON,tn,religion,3,Roman Catholic,13.7,0.0,,,2021.0
+TON,tn,religion,4,other,2.1,0.0,,,2021.0
+TON,tn,religion,5,none,0.6,0.0,,,2021.0
+TON,tn,religion,6,no answer,0.1,0.0,,,2021.0
+TON,tn,etnia,1,Tongan,96.5,0.0,,,2021.0
+TON,tn,etnia,2,other,3.5,0.0,,"European, Fijian, Samoan, Indian, Chinese, other Pacific Islander, other Asian, other",2021.0
+TON,tn,idioma,1,Tongan only,85.0,0.0,0.0,,2021.0
+TON,tn,idioma,2,Tongan and other language,13.9,0.0,0.0,,2021.0
+TON,tn,idioma,3,Tongan not used at home,1.1,0.0,0.0,,2021.0
+TUV,tv,religion,1,Protestant,92.7,0.0,,"Congregational Christian Church of Tuvalu 85.9%, Brethren 2.8%, Seventh Day Adventist 2.5%, Assemblies of God 1.5%",2017.0
+TUV,tv,religion,2,Baha'i,1.5,0.0,,,2017.0
+TUV,tv,religion,3,Jehovah's Witness,1.5,0.0,,,2017.0
+TUV,tv,religion,4,other,3.9,0.0,,,2017.0
+TUV,tv,religion,5,none or refused,0.4,0.0,,,2017.0
+TUV,tv,etnia,1,Tuvaluan,97.0,0.0,,,2017.0
+TUV,tv,etnia,2,Tuvaluan/I-Kiribati,1.6,0.0,,,2017.0
+TUV,tv,etnia,3,Tuvaluan/other,0.8,0.0,,,2017.0
+TUV,tv,etnia,4,other,0.6,0.0,,,2017.0
+TUV,tv,idioma,1,Tuvaluan,,,1.0,official,
+TUV,tv,idioma,2,English,,,1.0,official,
+TUV,tv,idioma,3,Samoan,,,0.0,,
+TUV,tv,idioma,4,Kiribati,,,0.0,on the island of Nui,
+WLF,wf,religion,1,Roman Catholic,99.0,0.0,,,
+WLF,wf,religion,2,other,1.0,0.0,,,
+WLF,wf,etnia,1,Polynesian,,,,,
+WLF,wf,idioma,1,Wallisian,58.9,0.0,0.0,indigenous Polynesian language,2003.0
+WLF,wf,idioma,2,Futunian,30.1,0.0,0.0,,2003.0
+WLF,wf,idioma,3,French,10.8,0.0,1.0,official,2003.0
+WLF,wf,idioma,4,other,0.2,0.0,0.0,,2003.0
+WSM,ws,religion,1,Protestant,54.9,0.0,,"Congregationalist 29%, Methodist 12.4%, Assembly of God 6.8%, Seventh Day Adventist 4.4%, other Protestant 2.3%",2016.0
+WSM,ws,religion,2,Roman Catholic,18.8,0.0,,,2016.0
+WSM,ws,religion,3,Church of Jesus Christ,16.9,0.0,,,2016.0
+WSM,ws,religion,4,Worship Centre,2.8,0.0,,,2016.0
+WSM,ws,religion,5,other Christian,3.6,0.0,,,2016.0
+WSM,ws,religion,6,other,2.9,0.0,,"includes Baha'i, Muslim",2016.0
+WSM,ws,religion,7,none,0.2,0.0,,,2016.0
+WSM,ws,etnia,1,Samoan,96.0,0.0,,,2011.0
+WSM,ws,etnia,2,Samoan/New Zealander,2.0,0.0,,,2011.0
+WSM,ws,etnia,3,other,1.9,0.0,,,2011.0
+WSM,ws,idioma,1,Samoan,91.1,0.0,1.0,Polynesian; official,2006.0
+WSM,ws,idioma,2,Samoan/English,6.7,0.0,0.0,,2006.0
+WSM,ws,idioma,3,English,0.5,0.0,1.0,official,2006.0
+WSM,ws,idioma,4,other,0.2,0.0,0.0,,2006.0
+WSM,ws,idioma,5,unspecified,1.6,0.0,0.0,,2006.0
+ABW,aa,religion,1,Roman Catholic,75.3,0.0,,,2010.0
+ABW,aa,religion,2,Protestant,4.9,0.0,,"includes Methodist 0.9%, Adventist 0.9%, Anglican 0.4%, other Protestant 2.7%",2010.0
+ABW,aa,religion,3,Jehovah's Witness,1.7,0.0,,,2010.0
+ABW,aa,religion,4,other,12.0,0.0,,,2010.0
+ABW,aa,religion,5,none,5.5,0.0,,,2010.0
+ABW,aa,religion,6,unspecified,0.5,0.0,,,2010.0
+ABW,aa,etnia,1,Dutch,78.7,0.0,,,2020.0
+ABW,aa,etnia,2,Colombian,6.6,0.0,,,2020.0
+ABW,aa,etnia,3,Venezuelan,5.5,0.0,,,2020.0
+ABW,aa,etnia,4,Dominican,2.8,0.0,,,2020.0
+ABW,aa,etnia,5,Haitian,1.3,0.0,,,2020.0
+ABW,aa,etnia,6,other,5.1,0.0,,,2020.0
+ABW,aa,idioma,1,Papiamento,69.4,0.0,1.0,"official; a creole language that mixes Portuguese, Spanish, Dutch, English, French, African languages, and Arawak",2010.0
+ABW,aa,idioma,2,Spanish,13.7,0.0,0.0,,2010.0
+ABW,aa,idioma,3,English,7.1,0.0,0.0,widely spoken,2010.0
+ABW,aa,idioma,4,Dutch,6.1,0.0,1.0,official,2010.0
+ABW,aa,idioma,5,Chinese,1.5,0.0,0.0,,2010.0
+ABW,aa,idioma,6,other,1.7,0.0,0.0,,2010.0
+ABW,aa,idioma,7,unspecified,0.4,0.0,0.0,,2010.0
+ATG,ac,religion,1,Protestant,68.3,0.0,,"Anglican 17.6%, Seventh Day Adventist 12.4%, Pentecostal 12.2%, Moravian 8.3%, Methodist 5.6%, Wesleyan Holiness 4.5%, Church of God 4.1%, Baptist 3.6%",2011.0
+ATG,ac,religion,2,Roman Catholic,8.2,0.0,,,2011.0
+ATG,ac,religion,3,other,12.2,0.0,,,2011.0
+ATG,ac,religion,4,unspecified,5.5,0.0,,,2011.0
+ATG,ac,religion,5,none,5.9,0.0,,,2011.0
+ATG,ac,etnia,1,African descent,87.3,0.0,,,2011.0
+ATG,ac,etnia,2,mixed,4.7,0.0,,,2011.0
+ATG,ac,etnia,3,Hispanic,2.7,0.0,,,2011.0
+ATG,ac,etnia,4,White,1.6,0.0,,,2011.0
+ATG,ac,etnia,5,other,2.7,0.0,,,2011.0
+ATG,ac,etnia,6,unspecified,0.9,0.0,,,2011.0
+ATG,ac,idioma,1,English,,,1.0,official,
+ATG,ac,idioma,2,Antiguan Creole,,,0.0,an English-based creole,
+AIA,av,religion,1,Protestant,73.2,0.0,,"includes Anglican 22.7%, Methodist 19.4%, Pentecostal 10.5%, Seventh Day Adventist 8.3%, Baptist 7.1%, Church of God 4.9%, Presbyterian 0.2%, Brethren 0.1%",2011.0
+AIA,av,religion,2,Roman Catholic,6.8,0.0,,,2011.0
+AIA,av,religion,3,Jehovah's Witness,1.1,0.0,,,2011.0
+AIA,av,religion,4,other Christian,10.9,0.0,,,2011.0
+AIA,av,religion,5,other,3.2,0.0,,,2011.0
+AIA,av,religion,6,unspecified,0.3,0.0,,,2011.0
+AIA,av,religion,7,none,4.5,0.0,,,2011.0
+AIA,av,etnia,1,African/Black,85.3,0.0,,,2011.0
+AIA,av,etnia,2,Hispanic,4.9,0.0,,,2011.0
+AIA,av,etnia,3,mixed,3.8,0.0,,,2011.0
+AIA,av,etnia,4,White,3.2,0.0,,,2011.0
+AIA,av,etnia,5,East Indian/Indian,1.0,0.0,,,2011.0
+AIA,av,etnia,6,other,1.6,0.0,,,2011.0
+AIA,av,etnia,7,unspecified,0.3,0.0,,,2011.0
+AIA,av,idioma,1,English,,,1.0,official,
+BRB,bb,religion,1,Protestant,66.4,0.0,,"includes Anglican 23.9%, other Pentecostal 19.5%, Adventist 5.9%, Methodist 4.2%, Wesleyan 3.4%, Nazarene 3.2%, Church of God 2.4%, Baptist 1.8%, Moravian 1.2%, other Protestant 0.9%",2010.0
+BRB,bb,religion,2,Roman Catholic,3.8,0.0,,,2010.0
+BRB,bb,religion,3,other Christian,5.4,0.0,,"includes Jehovah's Witness 2.0%, other 3.4%",2010.0
+BRB,bb,religion,4,Rastafarian,1.0,0.0,,,2010.0
+BRB,bb,religion,5,other,1.5,0.0,,,2010.0
+BRB,bb,religion,6,none,20.6,0.0,,,2010.0
+BRB,bb,religion,7,unspecified,1.2,0.0,,,2010.0
+BRB,bb,etnia,1,African descent,92.4,0.0,,,2010.0
+BRB,bb,etnia,2,mixed,3.1,0.0,,,2010.0
+BRB,bb,etnia,3,White,2.7,0.0,,,2010.0
+BRB,bb,etnia,4,East Indian,1.3,0.0,,,2010.0
+BRB,bb,etnia,5,other,0.2,0.0,,,2010.0
+BRB,bb,etnia,6,unspecified,0.3,0.0,,,2010.0
+BRB,bb,idioma,1,English,,,1.0,official,
+BRB,bb,idioma,2,Bajan,,,0.0,"English-based creole language, widely spoken in informal settings",
+BHS,bf,religion,1,Protestant,69.9,0.0,,"includes Baptist 34.9%, Anglican 13.7%, Pentecostal 8.9% Seventh Day Adventist 4.4%, Methodist 3.6%, Church of God 1.9%, Plymouth Brethren 1.6%, other Protestant 0.9%",2010.0
+BHS,bf,religion,2,Roman Catholic,12.0,0.0,,,2010.0
+BHS,bf,religion,3,other Christian,13.0,0.0,,includes Jehovah's Witness 1.1%,2010.0
+BHS,bf,religion,4,other,0.6,0.0,,,2010.0
+BHS,bf,religion,5,none,1.9,0.0,,,2010.0
+BHS,bf,religion,6,unspecified,2.6,0.0,,,2010.0
+BHS,bf,etnia,1,African descent,90.6,0.0,,,2010.0
+BHS,bf,etnia,2,White,4.7,0.0,,,2010.0
+BHS,bf,etnia,3,mixed,2.1,0.0,,,2010.0
+BHS,bf,etnia,4,other,1.9,0.0,,,2010.0
+BHS,bf,etnia,5,unspecified,0.7,0.0,,,2010.0
+BHS,bf,idioma,1,English,,,1.0,official,
+BHS,bf,idioma,2,Creole,,,0.0,among Haitian immigrants,
+BLZ,bh,religion,1,Roman Catholic,40.1,0.0,,,2010.0
+BLZ,bh,religion,2,Protestant,31.5,0.0,,"includes Pentecostal 8.4%, Seventh Day Adventist 5.4%, Anglican 4.7%, Mennonite 3.7%, Baptist 3.6%, Methodist 2.9%, Nazarene 2.8%",2010.0
+BLZ,bh,religion,3,Jehovah's Witness,1.7,0.0,,,2010.0
+BLZ,bh,religion,4,other,10.5,0.0,,"includes Baha'i, Buddhist, Hindu, Church of Jesus Christ, Muslim, Rastafarian, Salvation Army",2010.0
+BLZ,bh,religion,5,unspecified,0.6,0.0,,,2010.0
+BLZ,bh,religion,6,none,15.5,0.0,,,2010.0
+BLZ,bh,etnia,1,Mestizo,52.9,0.0,,,2010.0
+BLZ,bh,etnia,2,Creole,25.9,0.0,,,2010.0
+BLZ,bh,etnia,3,Maya,11.3,0.0,,,2010.0
+BLZ,bh,etnia,4,Garifuna,6.1,0.0,,,2010.0
+BLZ,bh,etnia,5,East Indian,3.9,0.0,,,2010.0
+BLZ,bh,etnia,6,Mennonite,3.6,0.0,,,2010.0
+BLZ,bh,etnia,7,White,1.2,0.0,,,2010.0
+BLZ,bh,etnia,8,Asian,1.0,0.0,,,2010.0
+BLZ,bh,etnia,9,other,1.2,0.0,,,2010.0
+BLZ,bh,etnia,10,unknown,0.3,0.0,,,2010.0
+BLZ,bh,idioma,1,English,62.9,0.0,1.0,official,2010.0
+BLZ,bh,idioma,2,Spanish,56.6,0.0,0.0,,2010.0
+BLZ,bh,idioma,3,Creole,44.6,0.0,0.0,,2010.0
+BLZ,bh,idioma,4,Maya,10.5,0.0,0.0,,2010.0
+BLZ,bh,idioma,5,German,3.2,0.0,0.0,,2010.0
+BLZ,bh,idioma,6,Garifuna,2.9,0.0,0.0,,2010.0
+BLZ,bh,idioma,7,other,1.8,0.0,0.0,,2010.0
+BLZ,bh,idioma,8,unknown,0.5,0.0,0.0,,2010.0
+CYM,cj,religion,1,Protestant,60.8,0.0,,"includes Church of God 19.5%, Seventh Day Adventist 8.7%, non-denominational 8.3%, Baptist 6.9%, Pentecostal 6.8%, Presbyterian/United Church 5.7%, Anglican 2.8%, Wesleyan Holiness 1.5%, Methodist 0.5%",2021.0
+CYM,cj,religion,2,Roman Catholic,13.6,0.0,,,2021.0
+CYM,cj,religion,3,Hindu,1.7,0.0,,,2021.0
+CYM,cj,religion,4,Jehovah's Witness,0.9,0.0,,,2021.0
+CYM,cj,religion,5,other,4.8,0.0,,,2021.0
+CYM,cj,religion,6,none,16.7,0.0,,,2021.0
+CYM,cj,religion,7,unspecified,1.4,0.0,,,2021.0
+CYM,cj,etnia,1,Cayman Islander,35.4,0.0,,,2021.0
+CYM,cj,etnia,2,Jamaican,24.8,0.0,,,2021.0
+CYM,cj,etnia,3,Filipino,5.5,0.0,,,2021.0
+CYM,cj,etnia,4,British,5.3,0.0,,,2021.0
+CYM,cj,etnia,5,American,5.2,0.0,,,2021.0
+CYM,cj,etnia,6,Honduran,4.2,0.0,,,2021.0
+CYM,cj,etnia,7,Canadian,3.3,0.0,,,2021.0
+CYM,cj,etnia,8,Indian,2.1,0.0,,,2021.0
+CYM,cj,etnia,9,Cuban,1.6,0.0,,,2021.0
+CYM,cj,etnia,10,Nicaraguan,1.0,0.0,,,2021.0
+CYM,cj,etnia,11,other,11.1,0.0,,,2021.0
+CYM,cj,etnia,12,unspecified,0.5,0.0,,,2021.0
+CYM,cj,idioma,1,English,88.8,0.0,1.0,official,2021.0
+CYM,cj,idioma,2,Spanish,3.9,0.0,0.0,,2021.0
+CYM,cj,idioma,3,Filipino,3.8,0.0,0.0,,2021.0
+CYM,cj,idioma,4,other,2.8,0.0,0.0,,2021.0
+CYM,cj,idioma,5,unspecified,0.7,0.0,0.0,,2021.0
+CRI,cs,religion,1,Roman Catholic,47.5,0.0,,,2021.0
+CRI,cs,religion,2,Evangelical and Pentecostal,19.8,0.0,,,2021.0
+CRI,cs,religion,3,Jehovah's Witness,1.4,0.0,,,2021.0
+CRI,cs,religion,4,other Protestant,1.2,0.0,,,2021.0
+CRI,cs,religion,5,other,3.1,0.0,,,2021.0
+CRI,cs,religion,6,none,27.0,0.0,,,2021.0
+CRI,cs,etnia,1,White or Mestizo,83.6,0.0,,,2011.0
+CRI,cs,etnia,2,Mulatto,6.7,0.0,,,2011.0
+CRI,cs,etnia,3,Indigenous,2.4,0.0,,,2011.0
+CRI,cs,etnia,4,Black or African descent,1.1,0.0,,,2011.0
+CRI,cs,etnia,5,other,1.1,0.0,,,2011.0
+CRI,cs,etnia,6,none,2.9,0.0,,,2011.0
+CRI,cs,etnia,7,unspecified,2.2,0.0,,,2011.0
+CRI,cs,idioma,1,Spanish,,,1.0,official,
+CRI,cs,idioma,2,English,,,0.0,,
+CUB,cu,religion,1,Christian,58.9,0.0,,,2020.0
+CUB,cu,religion,2,folk religion,17.6,0.0,,,2020.0
+CUB,cu,religion,3,Buddhist,1.0,1.0,,,2020.0
+CUB,cu,religion,4,Hindu,1.0,1.0,,,2020.0
+CUB,cu,religion,5,Jewish,1.0,1.0,,,2020.0
+CUB,cu,religion,6,Muslim,1.0,1.0,,,2020.0
+CUB,cu,religion,7,other,1.0,1.0,,,2020.0
+CUB,cu,religion,8,none,23.2,0.0,,,2020.0
+CUB,cu,etnia,1,White,64.1,0.0,,,2012.0
+CUB,cu,etnia,2,Mulatto or mixed,26.6,0.0,,,2012.0
+CUB,cu,etnia,3,Black,9.3,0.0,,,2012.0
+CUB,cu,idioma,1,Spanish,,,1.0,official,
+DMA,do,religion,1,Roman Catholic,52.7,0.0,,,2011.0
+DMA,do,religion,2,Protestant,29.7,0.0,,"includes Seventh Day Adventist 6.7%, Pentecostal 6.1%, Baptist 5.2%, Christian Union Church 3.9%, Methodist 2.6%, Gospel Mission 2.1%, other Protestant 3.1%",2011.0
+DMA,do,religion,3,Jehovah's Witness,1.3,0.0,,,2011.0
+DMA,do,religion,4,Rastafarian,1.1,0.0,,,2011.0
+DMA,do,religion,5,other,4.3,0.0,,,2011.0
+DMA,do,religion,6,none,9.4,0.0,,,2011.0
+DMA,do,religion,7,unspecified,1.4,0.0,,,2011.0
+DMA,do,etnia,1,African descent,84.5,0.0,,,2011.0
+DMA,do,etnia,2,mixed,9.0,0.0,,,2011.0
+DMA,do,etnia,3,Indigenous,3.8,0.0,,,2011.0
+DMA,do,etnia,4,other,2.1,0.0,,,2011.0
+DMA,do,etnia,5,unspecified,0.6,0.0,,,2011.0
+DMA,do,idioma,1,English,,,1.0,official,
+DMA,do,idioma,2,French patois,,,0.0,,
+DOM,dr,religion,1,Evangelical,50.2,0.0,,,2023.0
+DOM,dr,religion,2,Roman Catholic,30.1,0.0,,,2023.0
+DOM,dr,religion,3,none,18.5,0.0,,,2023.0
+DOM,dr,religion,4,unspecified,1.2,0.0,,,2023.0
+DOM,dr,etnia,1,mixed,70.4,0.0,,"Mestizo/Indio 58%, Mulatto 12.4%",2014.0
+DOM,dr,etnia,2,Black,15.8,0.0,,,2014.0
+DOM,dr,etnia,3,White,13.5,0.0,,,2014.0
+DOM,dr,etnia,4,other,0.3,0.0,,,2014.0
+DOM,dr,idioma,1,Spanish,,,1.0,official,
+SLV,es,religion,1,Roman Catholic,43.9,0.0,,,2023.0
+SLV,es,religion,2,Protestant,39.6,0.0,,"Evangelical - unspecified 38.2%, Evangelical - Methodist 1.3%, Evangelical - Baptist 0.1%",2023.0
+SLV,es,religion,3,none,16.3,0.0,,,2023.0
+SLV,es,religion,4,unspecified,0.2,0.0,,,2023.0
+SLV,es,etnia,1,Mestizo,86.3,0.0,,,2007.0
+SLV,es,etnia,2,White,12.7,0.0,,,2007.0
+SLV,es,etnia,3,Indigenous,0.2,0.0,,"includes Lenca, Kakawira, Nahua-Pipil",2007.0
+SLV,es,etnia,4,Black,0.1,0.0,,,2007.0
+SLV,es,etnia,5,other,0.6,0.0,,,2007.0
+SLV,es,idioma,1,Spanish,,,1.0,official,
+SLV,es,idioma,2,Nawat,,,0.0,among some indigenous,
+GRD,gj,religion,1,Protestant,49.2,0.0,,"includes Pentecostal 17.2%, Seventh Day Adventist 13.2%, Anglican 8.5%, Baptist 3.2%, Church of God 2.4%, Evangelical 1.9%, Methodist 1.6%, other 1.2%",2011.0
+GRD,gj,religion,2,Roman Catholic,36.0,0.0,,,2011.0
+GRD,gj,religion,3,Jehovah's Witness,1.2,0.0,,,2011.0
+GRD,gj,religion,4,Rastafarian,1.2,0.0,,,2011.0
+GRD,gj,religion,5,other,5.5,0.0,,,2011.0
+GRD,gj,religion,6,none,5.7,0.0,,,2011.0
+GRD,gj,religion,7,unspecified,1.3,0.0,,,2011.0
+GRD,gj,etnia,1,African descent,82.4,0.0,,,2011.0
+GRD,gj,etnia,2,mixed,13.3,0.0,,,2011.0
+GRD,gj,etnia,3,East Indian,2.2,0.0,,,2011.0
+GRD,gj,etnia,4,other,1.3,0.0,,,2011.0
+GRD,gj,etnia,5,unspecified,0.9,0.0,,,2011.0
+GRD,gj,idioma,1,English,,,1.0,official,
+GRD,gj,idioma,2,French patois,,,0.0,,
+GTM,gt,religion,1,Evangelical,45.7,0.0,,,2023.0
+GTM,gt,religion,2,Roman Catholic,42.4,0.0,,,2023.0
+GTM,gt,religion,3,none,11.0,0.0,,,2023.0
+GTM,gt,religion,4,unspecified,0.9,0.0,,,2023.0
+GTM,gt,etnia,1,Mestizo,56.0,0.0,,mixed Indigenous-Spanish - in local Spanish called Ladino,2018.0
+GTM,gt,etnia,2,Maya,41.7,0.0,,,2018.0
+GTM,gt,etnia,3,Xinca,1.8,0.0,,"Indigenous, non-Maya",2018.0
+GTM,gt,etnia,4,African descent,0.2,0.0,,,2018.0
+GTM,gt,etnia,5,Garifuna,0.1,0.0,,"mixed West and Central African, Island Carib, and Arawak",2018.0
+GTM,gt,etnia,6,foreign,0.2,0.0,,,2018.0
+GTM,gt,idioma,1,Spanish,69.9,0.0,1.0,official,2018.0
+GTM,gt,idioma,2,Maya languages,29.7,0.0,0.0,"Q'eqchi' 8.3%, K'iche 7.8%, Mam 4.4%, Kaqchikel 3%, Q'anjob'al 1.2%, Poqomchi' 1%, other 4%",2018.0
+GTM,gt,idioma,3,other,0.4,0.0,0.0,includes Xinca and Garifuna,2018.0
+HTI,ha,religion,1,Catholic,55.0,0.0,,,2018.0
+HTI,ha,religion,2,Protestant,29.0,0.0,,,2018.0
+HTI,ha,religion,3,Vodou,2.1,0.0,,,2018.0
+HTI,ha,religion,4,other,4.6,0.0,,,2018.0
+HTI,ha,religion,5,none,10.0,0.0,,,2018.0
+HTI,ha,etnia,1,Black,95.0,0.0,,,
+HTI,ha,etnia,2,mixed and White,5.0,0.0,,,
+HTI,ha,idioma,1,French,,,1.0,official,
+HTI,ha,idioma,2,Creole,,,1.0,official,
+HND,ho,religion,1,Evangelical,55.0,0.0,,,2023.0
+HND,ho,religion,2,Roman Catholic,33.4,0.0,,,2023.0
+HND,ho,religion,3,none,10.1,0.0,,,2023.0
+HND,ho,religion,4,unspecified,1.5,0.0,,,2023.0
+HND,ho,etnia,1,Mestizo,90.0,0.0,,mixed Indigenous and European,
+HND,ho,etnia,2,Indigenous,7.0,0.0,,,
+HND,ho,etnia,3,African descent,2.0,0.0,,,
+HND,ho,etnia,4,White,1.0,0.0,,,
+HND,ho,idioma,1,Spanish,,,1.0,official,
+HND,ho,idioma,2,Amerindian dialects,,,0.0,,
+JAM,jm,religion,1,Protestant,64.8,0.0,,"includes Seventh Day Adventist 12.0%, Pentecostal 11.0%, Other Church of God 9.2%, New Testament Church of God 7.2%, Baptist 6.7%, Church of God in Jamaica 4.8%, Church of God of Prophecy 4.5%, Anglican 2.8%, United Church 2.1%, Methodist 1.6%, Revived 1.4%, Brethren 0.9%, and Moravian 0.7%",2011.0
+JAM,jm,religion,2,Roman Catholic,2.2,0.0,,,2011.0
+JAM,jm,religion,3,Jehovah's Witness,1.9,0.0,,,2011.0
+JAM,jm,religion,4,Rastafarian,1.1,0.0,,,2011.0
+JAM,jm,religion,5,other,6.5,0.0,,,2011.0
+JAM,jm,religion,6,none,21.3,0.0,,,2011.0
+JAM,jm,religion,7,unspecified,2.3,0.0,,,2011.0
+JAM,jm,etnia,1,Black,92.1,0.0,,,2011.0
+JAM,jm,etnia,2,mixed,6.1,0.0,,,2011.0
+JAM,jm,etnia,3,East Indian,0.8,0.0,,,2011.0
+JAM,jm,etnia,4,other,0.4,0.0,,,2011.0
+JAM,jm,etnia,5,unspecified,0.7,0.0,,,2011.0
+JAM,jm,idioma,1,English,,,0.0,,
+JAM,jm,idioma,2,Jamaican patois,,,0.0,,
+MSR,mh,religion,1,Protestant,71.4,0.0,,"includes Anglican 17.7%, Pentecostal/Full Gospel 16.1%, Seventh Day Adventist 15%, Methodist 13.9%, Church of God 6.7%, other Protestant 2%",2018.0
+MSR,mh,religion,2,Roman Catholic,11.4,0.0,,,2018.0
+MSR,mh,religion,3,Rastafarian,1.4,0.0,,,2018.0
+MSR,mh,religion,4,Hindu,1.2,0.0,,,2018.0
+MSR,mh,religion,5,Jehovah's Witness,1.0,0.0,,,2018.0
+MSR,mh,religion,6,Muslim,0.4,0.0,,,2018.0
+MSR,mh,religion,7,other/not stated,5.1,0.0,,,2018.0
+MSR,mh,religion,8,none,7.9,0.0,,,2018.0
+MSR,mh,etnia,1,African/Black,86.2,0.0,,,2018.0
+MSR,mh,etnia,2,mixed,4.8,0.0,,,2018.0
+MSR,mh,etnia,3,Hispanic/Spanish,3.0,0.0,,,2018.0
+MSR,mh,etnia,4,Caucasian/White,2.7,0.0,,,2018.0
+MSR,mh,etnia,5,East Indian/Indian,1.6,0.0,,,2018.0
+MSR,mh,etnia,6,other,1.8,0.0,,,2018.0
+MSR,mh,idioma,1,English,,,0.0,,
+SXM,nn,religion,1,Protestant,41.9,0.0,,"Pentecostal 14.7%, Methodist 10.0%, Seventh Day Adventist 6.6%, Baptist 4.7%, Anglican 3.1%, other Protestant 2.8%",2011.0
+SXM,nn,religion,2,Roman Catholic,33.1,0.0,,,2011.0
+SXM,nn,religion,3,Hindu,5.2,0.0,,,2011.0
+SXM,nn,religion,4,Christian,4.1,0.0,,,2011.0
+SXM,nn,religion,5,Jehovah's Witness,1.7,0.0,,,2011.0
+SXM,nn,religion,6,Evangelical,1.4,0.0,,,2011.0
+SXM,nn,religion,7,Muslim/Jewish,1.1,0.0,,,2011.0
+SXM,nn,religion,8,other,1.3,0.0,,"includes Buddhist, Sikh, Rastafarian",2011.0
+SXM,nn,religion,9,none,7.9,0.0,,,2011.0
+SXM,nn,religion,10,no response,2.4,0.0,,,2011.0
+SXM,nn,etnia,1,Saint Maarten,29.9,0.0,,,2011.0
+SXM,nn,etnia,2,Dominican Republic,10.2,0.0,,,2011.0
+SXM,nn,etnia,3,Haiti,7.8,0.0,,,2011.0
+SXM,nn,etnia,4,Jamaica,6.6,0.0,,,2011.0
+SXM,nn,etnia,5,Saint Martin,5.9,0.0,,,2011.0
+SXM,nn,etnia,6,Guyana,5.0,0.0,,,2011.0
+SXM,nn,etnia,7,Dominica,4.4,0.0,,,2011.0
+SXM,nn,etnia,8,Curacao,4.1,0.0,,,2011.0
+SXM,nn,etnia,9,Aruba,3.4,0.0,,,2011.0
+SXM,nn,etnia,10,Saint Kitts and Nevis,2.8,0.0,,,2011.0
+SXM,nn,etnia,11,India,2.6,0.0,,,2011.0
+SXM,nn,etnia,12,Netherlands,2.2,0.0,,,2011.0
+SXM,nn,etnia,13,US,1.6,0.0,,,2011.0
+SXM,nn,etnia,14,Suriname,1.4,0.0,,,2011.0
+SXM,nn,etnia,15,Saint Lucia,1.3,0.0,,,2011.0
+SXM,nn,etnia,16,Anguilla,1.1,0.0,,,2011.0
+SXM,nn,etnia,17,other,8.0,0.0,,,2011.0
+SXM,nn,etnia,18,unspecified,1.7,0.0,,,2011.0
+SXM,nn,idioma,1,English,67.5,0.0,1.0,official,2001.0
+SXM,nn,idioma,2,Spanish,12.9,0.0,0.0,,2001.0
+SXM,nn,idioma,3,Creole,8.2,0.0,0.0,,2001.0
+SXM,nn,idioma,4,Dutch,4.2,0.0,1.0,official,2001.0
+SXM,nn,idioma,5,Papiamento,2.2,0.0,0.0,a Spanish-Portuguese-Dutch-English dialect,2001.0
+SXM,nn,idioma,6,French,1.5,0.0,0.0,,2001.0
+SXM,nn,idioma,7,other,3.5,0.0,0.0,,2001.0
+NIC,nu,religion,1,Roman Catholic,44.9,0.0,,,2020.0
+NIC,nu,religion,2,Protestant,38.7,0.0,,"Evangelical 38.2, Adventist 0.5%",2020.0
+NIC,nu,religion,3,other,1.2,0.0,,,2020.0
+NIC,nu,religion,4,(includes Jehovah's Witness and Church of Jesus Christ),,,,includes Jehovah's Witness and Church of Jesus Christ,2020.0
+NIC,nu,religion,5,believer but not belonging to a church,1.0,0.0,,,2020.0
+NIC,nu,religion,6,agnostic or atheist,0.4,0.0,,,2020.0
+NIC,nu,religion,7,none,13.7,0.0,,,2020.0
+NIC,nu,religion,8,unspecified,0.2,0.0,,,2020.0
+NIC,nu,etnia,1,Mestizo,69.0,0.0,,mixed Indigenous and White,
+NIC,nu,etnia,2,White,17.0,0.0,,,
+NIC,nu,etnia,3,Black,9.0,0.0,,,
+NIC,nu,etnia,4,Indigenous,5.0,0.0,,,
+NIC,nu,idioma,1,Spanish,99.5,0.0,1.0,official,2020.0
+NIC,nu,idioma,2,Indigenous,0.3,0.0,0.0,,2020.0
+NIC,nu,idioma,3,Portuguese,0.1,0.0,0.0,,2020.0
+NIC,nu,idioma,4,other,0.1,0.0,0.0,,2020.0
+PAN,pm,religion,1,Evangelical,55.0,0.0,,,2023.0
+PAN,pm,religion,2,Roman Catholic,33.4,0.0,,,2023.0
+PAN,pm,religion,3,none,10.1,0.0,,,2023.0
+PAN,pm,religion,4,unspecified,1.5,0.0,,,2023.0
+PAN,pm,etnia,1,Mestizo,65.0,0.0,,mixed Indigenous and White,2010.0
+PAN,pm,etnia,2,Indigenous,12.3,0.0,,"Ngabe 7.6%, Kuna 2.4%, Embera 0.9%, Bugle 0.8%, other 0.4%, unspecified 0.2%",2010.0
+PAN,pm,etnia,3,Black or African descent,9.2,0.0,,,2010.0
+PAN,pm,etnia,4,Mulatto,6.8,0.0,,,2010.0
+PAN,pm,etnia,5,White,6.7,0.0,,,2010.0
+PAN,pm,idioma,1,Spanish,,,1.0,official,
+PAN,pm,idioma,2,Indigenous languages,,,0.0,"including Ngabere (Guaymi), Buglere, Kuna, Embera, Wounaan, Naso (Teribe), and Bri Bri",
+PAN,pm,idioma,3,Panamanian English Creole,,,0.0,"a mixture of English and Spanish with elements of Ngabere, also known as Guari Guari and Colon Creole",
+PAN,pm,idioma,4,English,,,0.0,,
+PAN,pm,idioma,5,Chinese,,,0.0,Yue and Hakka,
+PAN,pm,idioma,6,Arabic,,,0.0,,
+PAN,pm,idioma,7,French Creole,,,0.0,,
+PAN,pm,idioma,8,other,,,0.0,"Yiddish, Hebrew, Korean, Japanese",
+MAF,rn,religion,1,Roman Catholic,,,,,
+MAF,rn,religion,2,Jehovah's Witness,,,,,
+MAF,rn,religion,3,Protestant,,,,,
+MAF,rn,religion,4,Hindu,,,,,
+MAF,rn,etnia,1,Creole,,,,Mulatto,
+MAF,rn,etnia,2,Black,,,,,
+MAF,rn,etnia,3,Guadeloupe Mestizo,,,,French-East Asian,
+MAF,rn,etnia,4,White,,,,,
+MAF,rn,etnia,5,East Indian,,,,,
+MAF,rn,etnia,6,other,,,,,
+MAF,rn,idioma,1,French,,,1.0,official,
+MAF,rn,idioma,2,Dutch,,,0.0,,
+MAF,rn,idioma,3,English,,,0.0,,
+MAF,rn,idioma,4,Guadeloupian Creole,,,0.0,,
+MAF,rn,idioma,5,Haitian Creole,,,0.0,,
+MAF,rn,idioma,6,Italian,,,0.0,,
+MAF,rn,idioma,7,Martiniquan Creole,,,0.0,,
+MAF,rn,idioma,8,Papiamento,,,0.0,dialect of Netherlands Antilles,
+MAF,rn,idioma,9,Spanish,,,0.0,,
+PRI,rq,religion,1,Roman Catholic,56.0,0.0,,,2014.0
+PRI,rq,religion,2,Protestant,33.0,0.0,,largely Pentecostal,2014.0
+PRI,rq,religion,3,other,2.0,0.0,,,2014.0
+PRI,rq,religion,4,atheist,1.0,0.0,,,2014.0
+PRI,rq,religion,5,none,7.0,0.0,,,2014.0
+PRI,rq,etnia,1,White,75.8,0.0,,,2010.0
+PRI,rq,etnia,2,Black/African American,12.4,0.0,,,2010.0
+PRI,rq,etnia,3,other,8.5,0.0,,"includes American Indian, Alaskan Native, Native Hawaiian, other Pacific Islander, and others",2010.0
+PRI,rq,etnia,4,mixed,3.3,0.0,,,2010.0
+PRI,rq,idioma,1,Spanish,,,0.0,,
+PRI,rq,idioma,2,English,,,0.0,,
+KNA,sc,etnia,1,African descent,92.5,0.0,,,2001.0
+KNA,sc,etnia,2,mixed,3.0,0.0,,,2001.0
+KNA,sc,etnia,3,White,2.1,0.0,,,2001.0
+KNA,sc,etnia,4,East Indian,1.5,0.0,,,2001.0
+KNA,sc,etnia,5,other,0.6,0.0,,,2001.0
+KNA,sc,etnia,6,unspecified,0.3,0.0,,,2001.0
+KNA,sc,idioma,1,English,,,1.0,official,
+LCA,st,religion,1,Roman Catholic,61.5,0.0,,,2010.0
+LCA,st,religion,2,Protestant,25.5,0.0,,"includes Seventh Day Adventist 10.4%, Pentecostal 8.9%, Baptist 2.2%, Anglican 1.6%, Church of God 1.5%, other Protestant 0.9%",2010.0
+LCA,st,religion,3,other Christian,3.4,0.0,,includes Evangelical 2.3% and Jehovah's Witness 1.1%,2010.0
+LCA,st,religion,4,Rastafarian,1.9,0.0,,,2010.0
+LCA,st,religion,5,other,0.4,0.0,,,2010.0
+LCA,st,religion,6,none,5.9,0.0,,,2010.0
+LCA,st,religion,7,unspecified,1.4,0.0,,,2010.0
+LCA,st,etnia,1,Black/African descent,85.3,0.0,,,2010.0
+LCA,st,etnia,2,mixed,10.9,0.0,,,2010.0
+LCA,st,etnia,3,East Indian,2.2,0.0,,,2010.0
+LCA,st,etnia,4,other,1.6,0.0,,,2010.0
+LCA,st,etnia,5,unspecified,0.1,0.0,,,2010.0
+LCA,st,idioma,1,English,,,1.0,official,
+LCA,st,idioma,2,Saint Lucian Creole,,,0.0,,
+BLM,tb,etnia,1,French,,,,,
+BLM,tb,etnia,2,Portuguese,,,,,
+BLM,tb,etnia,3,Caribbean,,,,,
+BLM,tb,etnia,4,Afro-Caribbean,,,,,
+BLM,tb,idioma,1,French,,,0.0,primary,
+BLM,tb,idioma,2,English,,,0.0,,
+TTO,td,religion,1,Protestant,32.1,0.0,,"Pentecostal/Evangelical/Full Gospel 12%, Baptist 6.9%, Anglican 5.7%, Seventh Day Adventist 4.1%, Presbyterian/Congregational 2.5%, other Protestant 0.9%",2011.0
+TTO,td,religion,2,Roman Catholic,21.6,0.0,,,2011.0
+TTO,td,religion,3,Hindu,18.2,0.0,,,2011.0
+TTO,td,religion,4,Muslim,5.0,0.0,,,2011.0
+TTO,td,religion,5,Jehovah's Witness,1.5,0.0,,,2011.0
+TTO,td,religion,6,other,8.4,0.0,,,2011.0
+TTO,td,religion,7,none,2.2,0.0,,,2011.0
+TTO,td,religion,8,unspecified,11.1,0.0,,,2011.0
+TTO,td,etnia,1,East Indian,35.4,0.0,,,2011.0
+TTO,td,etnia,2,African descent,34.2,0.0,,,2011.0
+TTO,td,etnia,3,mixed - other,15.3,0.0,,,2011.0
+TTO,td,etnia,4,mixed - African/East Indian,7.7,0.0,,,2011.0
+TTO,td,etnia,5,other,1.3,0.0,,,2011.0
+TTO,td,etnia,6,unspecified,6.2,0.0,,,2011.0
+TTO,td,idioma,1,English,,,1.0,official,
+TTO,td,idioma,2,Trinidadian Creole English,,,0.0,,
+TTO,td,idioma,3,Tobagonian Creole English,,,0.0,,
+TTO,td,idioma,4,Caribbean Hindustani,,,0.0,a dialect of Hindi,
+TTO,td,idioma,5,Trinidadian Creole French,,,0.0,,
+TTO,td,idioma,6,Spanish,,,0.0,,
+TTO,td,idioma,7,Chinese,,,0.0,,
+TCA,tk,religion,1,Protestant,72.8,0.0,,"Baptist 35.8%, Church of God 11.7%, Anglican 10%, Methodist 9.3%, Seventh Day Adventist 6%",2006.0
+TCA,tk,religion,2,Roman Catholic,11.4,0.0,,,2006.0
+TCA,tk,religion,3,Jehovah's Witness,1.8,0.0,,,2006.0
+TCA,tk,religion,4,other,14.0,0.0,,,2006.0
+TCA,tk,etnia,1,Black,87.6,0.0,,,2006.0
+TCA,tk,etnia,2,White,7.9,0.0,,,2006.0
+TCA,tk,etnia,3,mixed,2.5,0.0,,,2006.0
+TCA,tk,etnia,4,East Indian,1.3,0.0,,,2006.0
+TCA,tk,etnia,5,other,0.7,0.0,,,2006.0
+TCA,tk,idioma,1,English,,,1.0,official,
+CUW,uc,religion,1,Roman Catholic,72.8,0.0,,,2011.0
+CUW,uc,religion,2,Pentecostal,6.6,0.0,,,2011.0
+CUW,uc,religion,3,Protestant,3.2,0.0,,,2011.0
+CUW,uc,religion,4,Adventist,3.0,0.0,,,2011.0
+CUW,uc,religion,5,Jehovah's Witness,2.0,0.0,,,2011.0
+CUW,uc,religion,6,Evangelical,1.9,0.0,,,2011.0
+CUW,uc,religion,7,other,3.8,0.0,,,2011.0
+CUW,uc,religion,8,none,6.0,0.0,,,2011.0
+CUW,uc,religion,9,unspecified,0.6,0.0,,,2011.0
+CUW,uc,etnia,1,Curacaoan,75.4,0.0,,,2011.0
+CUW,uc,etnia,2,Dutch,6.0,0.0,,,2011.0
+CUW,uc,etnia,3,Dominican,3.6,0.0,,,2011.0
+CUW,uc,etnia,4,Colombian,3.0,0.0,,,2011.0
+CUW,uc,etnia,5,Bonairean,,,,,2011.0
+CUW,uc,etnia,6,Sint Eustatian,,,,,2011.0
+CUW,uc,etnia,7,Saban,1.5,0.0,,,2011.0
+CUW,uc,etnia,8,Haitian,1.2,0.0,,,2011.0
+CUW,uc,etnia,9,Surinamese,1.2,0.0,,,2011.0
+CUW,uc,etnia,10,Venezuelan,1.1,0.0,,,2011.0
+CUW,uc,etnia,11,Aruban,1.1,0.0,,,2011.0
+CUW,uc,etnia,12,other,5.0,0.0,,,2011.0
+CUW,uc,etnia,13,unspecified,0.9,0.0,,,2011.0
+CUW,uc,idioma,1,Papiamento,80.0,0.0,1.0,"official; a creole language that is a mixture of Portuguese, Spanish, Dutch, English, and, to a lesser extent, French, as well as elements of African languages and the language of the Arawak",2011.0
+CUW,uc,idioma,2,Dutch,8.8,0.0,1.0,official,2011.0
+CUW,uc,idioma,3,Spanish,5.6,0.0,0.0,,2011.0
+CUW,uc,idioma,4,English,3.1,0.0,1.0,official,2011.0
+CUW,uc,idioma,5,other,2.3,0.0,0.0,,2011.0
+CUW,uc,idioma,6,unspecified,0.3,0.0,0.0,,2011.0
+VCT,vc,religion,1,Protestant,75.0,0.0,,"Pentecostal 27.6%, Anglican 13.9%, Seventh Day Adventist 11.6%, Baptist 8.9%, Methodist 8.7%, Evangelical 3.8%, Salvation Army 0.3%, Presbyterian/Congregational 0.3%",2012.0
+VCT,vc,religion,2,Roman Catholic,6.3,0.0,,,2012.0
+VCT,vc,religion,3,Rastafarian,1.1,0.0,,,2012.0
+VCT,vc,religion,4,Jehovah's Witness,0.8,0.0,,,2012.0
+VCT,vc,religion,5,other,4.7,0.0,,,2012.0
+VCT,vc,religion,6,none,7.5,0.0,,,2012.0
+VCT,vc,religion,7,unspecified,4.7,0.0,,,2012.0
+VCT,vc,etnia,1,African descent,71.2,0.0,,,2012.0
+VCT,vc,etnia,2,mixed,23.0,0.0,,,2012.0
+VCT,vc,etnia,3,Indigenous,3.0,0.0,,,2012.0
+VCT,vc,etnia,4,East Indian/Indian,1.1,0.0,,,2012.0
+VCT,vc,etnia,5,European,1.5,0.0,,,2012.0
+VCT,vc,etnia,6,other,0.2,0.0,,,2012.0
+VCT,vc,idioma,1,English,,,0.0,,
+VCT,vc,idioma,2,Vincentian Creole English,,,0.0,,
+VCT,vc,idioma,3,French patois,,,0.0,,
+VGB,vi,religion,1,Protestant,70.2,0.0,,"Methodist 17.6%, Church of God 10.4%, Anglican 9.5%, Seventh Day Adventist 9.0%, Pentecostal 8.2%, Baptist 7.4%, New Testament Church of God 6.9%, other Protestant 1.2%",2010.0
+VGB,vi,religion,2,Roman Catholic,8.9,0.0,,,2010.0
+VGB,vi,religion,3,Jehovah's Witness,2.5,0.0,,,2010.0
+VGB,vi,religion,4,Hindu,1.9,0.0,,,2010.0
+VGB,vi,religion,5,other,6.2,0.0,,,2010.0
+VGB,vi,religion,6,none,7.9,0.0,,,2010.0
+VGB,vi,religion,7,unspecified,2.4,0.0,,,2010.0
+VGB,vi,etnia,1,African/Black,76.3,0.0,,,2010.0
+VGB,vi,etnia,2,Latino,5.5,0.0,,,2010.0
+VGB,vi,etnia,3,White,5.4,0.0,,,2010.0
+VGB,vi,etnia,4,mixed,5.3,0.0,,,2010.0
+VGB,vi,etnia,5,Indian,2.1,0.0,,,2010.0
+VGB,vi,etnia,6,East Indian,1.6,0.0,,,2010.0
+VGB,vi,etnia,7,other,3.0,0.0,,,2010.0
+VGB,vi,etnia,8,unspecified,0.8,0.0,,,2010.0
+VGB,vi,idioma,1,English,,,1.0,official,
+VGB,vi,idioma,2,Virgin Islands Creole,,,0.0,,
+VIR,vq,religion,1,Protestant,65.5,0.0,,,2010.0
+VIR,vq,religion,2,Roman Catholic,27.1,0.0,,,2010.0
+VIR,vq,religion,3,other Christians,2.2,0.0,,,2010.0
+VIR,vq,religion,4,other,1.5,0.0,,,2010.0
+VIR,vq,religion,5,none,3.7,0.0,,,2010.0
+VIR,vq,etnia,1,African-American or African descent,71.4,0.0,,,2020.0
+VIR,vq,etnia,2,White,13.3,0.0,,,2020.0
+VIR,vq,etnia,3,Indigenous,0.4,0.0,,,2020.0
+VIR,vq,etnia,4,Native Hawaiian and other Pacific Islander,0.1,0.0,,,2020.0
+VIR,vq,etnia,5,other,6.3,0.0,,,2020.0
+VIR,vq,etnia,6,mixed,7.5,0.0,,,2020.0
+VIR,vq,idioma,1,English,71.6,0.0,0.0,,2010.0
+VIR,vq,idioma,2,Spanish or Spanish Creole,17.2,0.0,0.0,,2010.0
+VIR,vq,idioma,3,French or French Creole,8.6,0.0,0.0,,2010.0
+VIR,vq,idioma,4,other,2.5,0.0,0.0,,2010.0
+KGZ,kg,religion,1,Muslim,90.0,0.0,,majority Sunni,2017.0
+KGZ,kg,religion,2,Christian,7.0,0.0,,Russian Orthodox 3%,2017.0
+KGZ,kg,religion,3,other,3.0,0.0,,"includes Jewish, Buddhist, Baha'i",2017.0
+KGZ,kg,etnia,1,Kyrgyz,73.8,0.0,,,2021.0
+KGZ,kg,etnia,2,Uzbek,14.8,0.0,,,2021.0
+KGZ,kg,etnia,3,Russian,5.1,0.0,,,2021.0
+KGZ,kg,etnia,4,Dungan,1.1,0.0,,,2021.0
+KGZ,kg,etnia,5,other,5.2,0.0,,"includes Uyghur, Tajik, Turk, Kazakh, Tatar, Ukrainian, Korean, German",2021.0
+KGZ,kg,idioma,1,Kyrgyz,71.4,0.0,0.0,state language,2009.0
+KGZ,kg,idioma,2,Uzbek,14.4,0.0,0.0,,2009.0
+KGZ,kg,idioma,3,Russian,9.0,0.0,1.0,official language,2009.0
+KGZ,kg,idioma,4,other,5.2,0.0,0.0,,2009.0
+KAZ,kz,religion,1,Muslim,69.3,0.0,,,2021.0
+KAZ,kz,religion,2,Christian,17.2,0.0,,"Orthodox 17%, other 0.2%",2021.0
+KAZ,kz,religion,3,Buddhism,0.1,0.0,,,2021.0
+KAZ,kz,religion,4,other,0.1,0.0,,,2021.0
+KAZ,kz,religion,5,non-believers,2.3,0.0,,,2021.0
+KAZ,kz,religion,6,unspecified,11.0,0.0,,,2021.0
+KAZ,kz,etnia,1,Kazakh,71.0,0.0,,,2023.0
+KAZ,kz,etnia,2,Russian,14.9,0.0,,,2023.0
+KAZ,kz,etnia,3,Uzbek,3.3,0.0,,,2023.0
+KAZ,kz,etnia,4,Ukrainian,1.9,0.0,,,2023.0
+KAZ,kz,etnia,5,Uyghurs,1.5,0.0,,,2023.0
+KAZ,kz,etnia,6,German,1.1,0.0,,,2023.0
+KAZ,kz,etnia,7,Tatar,1.1,0.0,,,2023.0
+KAZ,kz,etnia,8,other,4.9,0.0,,,2023.0
+KAZ,kz,etnia,9,unspecified,0.3,0.0,,,2023.0
+KAZ,kz,idioma,1,Kazakh,80.1,0.0,1.0,"official, Qazaq",2021.0
+KAZ,kz,idioma,2,Russian,83.7,0.0,0.0,,2021.0
+KAZ,kz,idioma,3,English,35.1,0.0,0.0,,2021.0
+RUS,rs,religion,1,Russian Orthodox 15-,20.0,0.0,,,2006.0
+RUS,rs,religion,2,Muslim 10-,15.0,0.0,,,2006.0
+RUS,rs,religion,3,other Christian,2.0,0.0,,,2006.0
+RUS,rs,etnia,1,Russian,77.7,0.0,,,2010.0
+RUS,rs,etnia,2,Tatar,3.7,0.0,,,2010.0
+RUS,rs,etnia,3,Ukrainian,1.4,0.0,,,2010.0
+RUS,rs,etnia,4,Bashkir,1.1,0.0,,,2010.0
+RUS,rs,etnia,5,Chuvash,1.0,0.0,,,2010.0
+RUS,rs,etnia,6,Chechen,1.0,0.0,,,2010.0
+RUS,rs,etnia,7,other,10.2,0.0,,,2010.0
+RUS,rs,etnia,8,unspecified,3.9,0.0,,,2010.0
+RUS,rs,idioma,1,Russian,85.7,0.0,1.0,official,2010.0
+RUS,rs,idioma,2,Tatar,3.2,0.0,0.0,,2010.0
+RUS,rs,idioma,3,Chechen,1.0,0.0,0.0,,2010.0
+RUS,rs,idioma,4,other,10.1,0.0,0.0,,2010.0
+TJK,ti,religion,1,Muslim 98%  other,2.0,0.0,,"Sunni 95%, Shia 3%",2014.0
+TJK,ti,etnia,1,Tajik,84.3,0.0,,includes Pamiri and Yagnobi,2014.0
+TJK,ti,etnia,2,Uzbek,13.8,0.0,,,2014.0
+TJK,ti,etnia,3,other,2.0,0.0,,"includes Kyrgyz, Russian, Turkmen, Tatar, Arab",2014.0
+TJK,ti,idioma,1,Tajik,84.4,0.0,1.0,official,2010.0
+TJK,ti,idioma,2,Uzbek,11.9,0.0,0.0,,2010.0
+TJK,ti,idioma,3,Kyrgyz,0.8,0.0,0.0,,2010.0
+TJK,ti,idioma,4,Russian,0.5,0.0,0.0,,2010.0
+TJK,ti,idioma,5,other,2.4,0.0,0.0,,2010.0
+TKM,tx,religion,1,Muslim,93.0,0.0,,,2020.0
+TKM,tx,religion,2,Christian,6.4,0.0,,,2020.0
+TKM,tx,religion,3,Buddhist,1.0,1.0,,,2020.0
+TKM,tx,religion,4,folk religion,1.0,1.0,,,2020.0
+TKM,tx,religion,5,Jewish,1.0,1.0,,,2020.0
+TKM,tx,religion,6,other,1.0,1.0,,,2020.0
+TKM,tx,religion,7,unspecified,1.0,1.0,,,2020.0
+TKM,tx,etnia,1,Turkmen,85.0,0.0,,,2003.0
+TKM,tx,etnia,2,Uzbek,5.0,0.0,,,2003.0
+TKM,tx,etnia,3,Russian,4.0,0.0,,,2003.0
+TKM,tx,etnia,4,other,6.0,0.0,,,2003.0
+TKM,tx,idioma,1,Turkmen,72.0,0.0,1.0,official,
+TKM,tx,idioma,2,Russian,12.0,0.0,0.0,,
+TKM,tx,idioma,3,Uzbek,9.0,0.0,0.0,,
+TKM,tx,idioma,4,other,7.0,0.0,0.0,,
+UZB,uz,religion,1,Muslim,88.0,0.0,,mostly Sunni,
+UZB,uz,religion,2,Eastern Orthodox,9.0,0.0,,,
+UZB,uz,religion,3,other,3.0,0.0,,,
+UZB,uz,etnia,1,Uzbek,83.8,0.0,,,2017.0
+UZB,uz,etnia,2,Tajik,4.8,0.0,,,2017.0
+UZB,uz,etnia,3,Kazakh,2.5,0.0,,,2017.0
+UZB,uz,etnia,4,Russian,2.3,0.0,,,2017.0
+UZB,uz,etnia,5,Karakalpak,2.2,0.0,,,2017.0
+UZB,uz,etnia,6,Tatar,1.5,0.0,,,2017.0
+UZB,uz,etnia,7,other,2.9,0.0,,,2017.0
+UZB,uz,idioma,1,Uzbek,74.3,0.0,1.0,official,
+UZB,uz,idioma,2,Russian,14.2,0.0,0.0,,
+UZB,uz,idioma,3,Tajik,4.4,0.0,0.0,,
+UZB,uz,idioma,4,other,7.1,0.0,0.0,,
+MMR,bm,religion,1,Buddhist,87.9,0.0,,,2014.0
+MMR,bm,religion,2,Christian,6.2,0.0,,,2014.0
+MMR,bm,religion,3,Muslim,4.3,0.0,,,2014.0
+MMR,bm,religion,4,Animist,0.8,0.0,,,2014.0
+MMR,bm,religion,5,Hindu,0.5,0.0,,,2014.0
+MMR,bm,religion,6,other,0.2,0.0,,,2014.0
+MMR,bm,religion,7,none,0.1,0.0,,,2014.0
+MMR,bm,etnia,1,Burman,68.0,0.0,,Bamar,
+MMR,bm,etnia,2,Shan,9.0,0.0,,,
+MMR,bm,etnia,3,Karen,7.0,0.0,,,
+MMR,bm,etnia,4,Rakhine,4.0,0.0,,,
+MMR,bm,etnia,5,Chinese,3.0,0.0,,,
+MMR,bm,etnia,6,Indian,2.0,0.0,,,
+MMR,bm,etnia,7,Mon,2.0,0.0,,,
+MMR,bm,etnia,8,other,5.0,0.0,,,
+MMR,bm,idioma,1,Burmese,,,1.0,official,
+BRN,bx,religion,1,Muslim,82.1,0.0,,official,2021.0
+BRN,bx,religion,2,Christian,6.7,0.0,,,2021.0
+BRN,bx,religion,3,Buddhist,6.3,0.0,,,2021.0
+BRN,bx,religion,4,other,4.9,0.0,,,2021.0
+BRN,bx,etnia,1,Malay,67.4,0.0,,,2021.0
+BRN,bx,etnia,2,Chinese,9.6,0.0,,,2021.0
+BRN,bx,etnia,3,other,23.0,0.0,,,2021.0
+BRN,bx,idioma,1,Malay,,,1.0,Bahasa Melayu; official,
+BRN,bx,idioma,2,English,,,0.0,,
+BRN,bx,idioma,3,Chinese dialects,,,0.0,,
+KHM,cb,religion,1,Buddhist,97.1,0.0,,official,2019.0
+KHM,cb,religion,2,Muslim,2.0,0.0,,,2019.0
+KHM,cb,religion,3,Christian,0.3,0.0,,,2019.0
+KHM,cb,religion,4,other,0.5,0.0,,,2019.0
+KHM,cb,etnia,1,Khmer,95.4,0.0,,,
+KHM,cb,etnia,2,Cham,2.4,0.0,,,
+KHM,cb,etnia,3,Chinese,1.5,0.0,,,
+KHM,cb,etnia,4,other,0.7,0.0,,2019-20 est.,
+KHM,cb,idioma,1,Khmer,95.8,0.0,1.0,official,2019.0
+KHM,cb,idioma,2,minority languages,2.9,0.0,0.0,,2019.0
+KHM,cb,idioma,3,Chinese,0.6,0.0,0.0,,2019.0
+KHM,cb,idioma,4,Vietnamese,0.5,0.0,0.0,,2019.0
+KHM,cb,idioma,5,other,0.2,0.0,0.0,,2019.0
+CHN,ch,religion,1,folk religion,21.9,0.0,,,2021.0
+CHN,ch,religion,2,Buddhist,18.2,0.0,,,2021.0
+CHN,ch,religion,3,Christian,5.1,0.0,,,2021.0
+CHN,ch,religion,4,Muslim,1.8,0.0,,,2021.0
+CHN,ch,religion,5,Hindu,0.1,1.0,,,2021.0
+CHN,ch,religion,6,Jewish,0.1,1.0,,,2021.0
+CHN,ch,religion,7,other,0.7,0.0,,includes Daoist (Taoist),2021.0
+CHN,ch,religion,8,unaffiliated,52.1,0.0,,,2021.0
+CHN,ch,etnia,1,Han Chinese,91.1,0.0,,,2021.0
+CHN,ch,etnia,2,ethnic minorities,8.9,0.0,,"includes Zhang, Hui, Manchu, Uighur, Miao, Yi, Tujia, Tibetan, Mongol, Dong, Buyei, Yao, Bai, Korean, Hani, Li, Kazakh, Dai, and other nationalities",2021.0
+CHN,ch,idioma,1,Standard Chinese or Mandarin,,,1.0,"official; Putonghua, based on the Beijing dialect",
+CHN,ch,idioma,2,Yue,,,0.0,Cantonese,
+CHN,ch,idioma,3,Wu,,,0.0,Shanghainese,
+CHN,ch,idioma,4,Minbei,,,0.0,Fuzhou,
+CHN,ch,idioma,5,Minnan,,,0.0,Hokkien-Taiwanese,
+CHN,ch,idioma,6,Xiang,,,0.0,,
+CHN,ch,idioma,7,Gan,,,0.0,,
+CHN,ch,idioma,8,Hakka dialects,,,0.0,,
+CHN,ch,idioma,9,minority languages,,,0.0,,
+HKG,hk,religion,1,Buddhist or Taoist,27.9,0.0,,,2016.0
+HKG,hk,religion,2,Protestant,6.7,0.0,,,2016.0
+HKG,hk,religion,3,Roman Catholic,5.3,0.0,,,2016.0
+HKG,hk,religion,4,Muslim,4.2,0.0,,,2016.0
+HKG,hk,religion,5,Hindu,1.4,0.0,,,2016.0
+HKG,hk,religion,6,Sikh,0.2,0.0,,,2016.0
+HKG,hk,religion,7,other or none,54.3,0.0,,,2016.0
+HKG,hk,etnia,1,Chinese,91.6,0.0,,,2021.0
+HKG,hk,etnia,2,Filipino,2.7,0.0,,,2021.0
+HKG,hk,etnia,3,Indonesian,1.9,0.0,,,2021.0
+HKG,hk,etnia,4,other,3.7,0.0,,,2021.0
+HKG,hk,idioma,1,Cantonese,85.4,0.0,1.0,official,2021.0
+HKG,hk,idioma,2,English,4.5,0.0,1.0,official,2021.0
+HKG,hk,idioma,3,Putonghua,2.2,0.0,1.0,official,2021.0
+HKG,hk,idioma,4,other Chinese dialects,2.8,0.0,0.0,,2021.0
+HKG,hk,idioma,5,other,2.0,0.0,0.0,,2021.0
+HKG,hk,idioma,6,persons under 5 or mute,3.2,0.0,0.0,,2021.0
+IDN,id,religion,1,Muslim,87.4,0.0,,,2022.0
+IDN,id,religion,2,Protestant,7.5,0.0,,,2022.0
+IDN,id,religion,3,Roman Catholic,3.1,0.0,,,2022.0
+IDN,id,religion,4,Hindu,1.7,0.0,,,2022.0
+IDN,id,religion,5,other,0.8,0.0,,includes Buddhist and Confucian,2022.0
+IDN,id,etnia,1,Javanese,40.1,0.0,,,2010.0
+IDN,id,etnia,2,Sundanese,15.5,0.0,,,2010.0
+IDN,id,etnia,3,Malay,3.7,0.0,,,2010.0
+IDN,id,etnia,4,Batak,3.6,0.0,,,2010.0
+IDN,id,etnia,5,Madurese,3.0,0.0,,,2010.0
+IDN,id,etnia,6,Betawi,2.9,0.0,,,2010.0
+IDN,id,etnia,7,Minangkabau,2.7,0.0,,,2010.0
+IDN,id,etnia,8,Buginese,2.7,0.0,,,2010.0
+IDN,id,etnia,9,Bantenese,2.0,0.0,,,2010.0
+IDN,id,etnia,10,Banjarese,1.7,0.0,,,2010.0
+IDN,id,etnia,11,Balinese,1.7,0.0,,,2010.0
+IDN,id,etnia,12,Acehnese,1.4,0.0,,,2010.0
+IDN,id,etnia,13,Dayak,1.4,0.0,,,2010.0
+IDN,id,etnia,14,Sasak,1.3,0.0,,,2010.0
+IDN,id,etnia,15,Chinese,1.2,0.0,,,2010.0
+IDN,id,etnia,16,other,15.0,0.0,,,2010.0
+IDN,id,idioma,1,Bahasa Indonesia,,,1.0,"official, modified form of Malay",
+IDN,id,idioma,2,English,,,0.0,,
+IDN,id,idioma,3,Dutch,,,0.0,,
+IDN,id,idioma,4,local dialects,,,0.0,of which the most widely spoken is Javanese,
+JPN,ja,religion,1,Shintoism,48.6,0.0,,,2021.0
+JPN,ja,religion,2,Buddhism,46.4,0.0,,,2021.0
+JPN,ja,religion,3,Christianity,1.1,0.0,,,2021.0
+JPN,ja,religion,4,other,4.0,0.0,,,2021.0
+JPN,ja,etnia,1,Japanese,97.5,0.0,,,2022.0
+JPN,ja,etnia,2,Chinese,0.6,0.0,,,2022.0
+JPN,ja,etnia,3,Vietnam,0.4,0.0,,,2022.0
+JPN,ja,etnia,4,South Korean,0.3,0.0,,,2022.0
+JPN,ja,etnia,5,other,1.2,0.0,,"includes Filipino, Brazilian, Nepalese, Indonesian, American, and Taiwanese",2022.0
+JPN,ja,idioma,1,Japanese,,,0.0,,
+PRK,kn,religion,1,traditionally Buddhist and Confucian,,,,,
+PRK,kn,religion,2,some Christian and syncretic Chondogyo,,,,Religion of the Heavenly Way,
+PRK,kn,etnia,1,racially homogeneous,,,,,
+PRK,kn,idioma,1,Korean,,,0.0,,
+KOR,ks,religion,1,Protestant,17.0,0.0,,,2021.0
+KOR,ks,religion,2,Buddhist,16.0,0.0,,,2021.0
+KOR,ks,religion,3,Catholic,6.0,0.0,,,2021.0
+KOR,ks,religion,4,none,60.0,0.0,,,2021.0
+KOR,ks,etnia,1,Korean,,,,,
+KOR,ks,idioma,1,Korean,,,0.0,,
+KOR,ks,idioma,2,English,,,0.0,,
+LAO,la,religion,1,Buddhist,64.7,0.0,,,2015.0
+LAO,la,religion,2,Christian,1.7,0.0,,,2015.0
+LAO,la,religion,3,none,31.4,0.0,,,2015.0
+LAO,la,religion,4,other/not stated,2.1,0.0,,,2015.0
+LAO,la,etnia,1,Lao,53.2,0.0,,,2015.0
+LAO,la,etnia,2,Khmou,11.0,0.0,,,2015.0
+LAO,la,etnia,3,Hmong,9.2,0.0,,,2015.0
+LAO,la,etnia,4,Phouthay,3.4,0.0,,,2015.0
+LAO,la,etnia,5,Tai,3.1,0.0,,,2015.0
+LAO,la,etnia,6,Makong,2.5,0.0,,,2015.0
+LAO,la,etnia,7,Katong,2.2,0.0,,,2015.0
+LAO,la,etnia,8,Lue,2.0,0.0,,,2015.0
+LAO,la,etnia,9,Akha,1.8,0.0,,,2015.0
+LAO,la,etnia,10,other,11.6,0.0,,,2015.0
+LAO,la,idioma,1,Lao,,,1.0,official,
+LAO,la,idioma,2,French,,,0.0,,
+LAO,la,idioma,3,English,,,0.0,,
+LAO,la,idioma,4,various ethnic languages,,,0.0,,
+MAC,mc,religion,1,folk religion,58.9,0.0,,,2020.0
+MAC,mc,religion,2,Buddhist,17.3,0.0,,,2020.0
+MAC,mc,religion,3,Christian,7.2,0.0,,,2020.0
+MAC,mc,religion,4,other,1.2,0.0,,,2020.0
+MAC,mc,religion,5,none,15.4,0.0,,,2020.0
+MAC,mc,etnia,1,Chinese,89.4,0.0,,,2021.0
+MAC,mc,etnia,2,Chinese and Portuguese,1.0,0.0,,,2021.0
+MAC,mc,etnia,3,Portuguese,0.8,0.0,,,2021.0
+MAC,mc,etnia,4,Chinese and non-Portuguese,0.2,0.0,,,2021.0
+MAC,mc,etnia,5,Portuguese and others,0.2,0.0,,,2021.0
+MAC,mc,etnia,6,other,8.5,0.0,,,2021.0
+MAC,mc,idioma,1,Cantonese,81.0,0.0,0.0,,2021.0
+MAC,mc,idioma,2,Mandarin,4.7,0.0,0.0,,2021.0
+MAC,mc,idioma,3,other Chinese dialects,5.4,0.0,0.0,,2021.0
+MAC,mc,idioma,4,English,3.6,0.0,0.0,,2021.0
+MAC,mc,idioma,5,Tagalog,2.9,0.0,0.0,,2021.0
+MAC,mc,idioma,6,Portuguese,0.6,0.0,0.0,,2021.0
+MAC,mc,idioma,7,other,1.8,0.0,0.0,,2021.0
+MNG,mg,religion,1,Buddhist,51.8,0.0,,,2020.0
+MNG,mg,religion,2,no religion,40.6,0.0,,,2020.0
+MNG,mg,religion,3,Muslim,3.2,0.0,,,2020.0
+MNG,mg,religion,4,Shaman,2.5,0.0,,,2020.0
+MNG,mg,religion,5,Christian,1.3,0.0,,,2020.0
+MNG,mg,religion,6,Other,0.6,0.0,,,2020.0
+MNG,mg,etnia,1,Khalkh,83.8,0.0,,,2020.0
+MNG,mg,etnia,2,Kazak,3.8,0.0,,,2020.0
+MNG,mg,etnia,3,Durvud,2.6,0.0,,,2020.0
+MNG,mg,etnia,4,Bayad,2.0,0.0,,,2020.0
+MNG,mg,etnia,5,Buriad,1.4,0.0,,,2020.0
+MNG,mg,etnia,6,Zakhchin,1.2,0.0,,,2020.0
+MNG,mg,etnia,7,Dariganga,1.1,0.0,,,2020.0
+MNG,mg,etnia,8,other,4.1,0.0,,,2020.0
+MNG,mg,idioma,1,Mongolian,90.0,0.0,1.0,"official, Khalkha dialect is predominant",1999.0
+MNG,mg,idioma,2,Turkic,,,0.0,,1999.0
+MNG,mg,idioma,3,Russian,,,0.0,,1999.0
+MYS,my,religion,1,Muslim,63.5,0.0,,official,2020.0
+MYS,my,religion,2,Buddhist,18.7,0.0,,,2020.0
+MYS,my,religion,3,Christian,9.1,0.0,,,2020.0
+MYS,my,religion,4,Hindu,6.1,0.0,,,2020.0
+MYS,my,religion,5,other,0.9,0.0,,"Confucianism, Taoism, other traditional Chinese religions",2020.0
+MYS,my,religion,6,none/unspecified,1.8,0.0,,,2020.0
+MYS,my,etnia,1,Bumiputera,63.8,0.0,,"Malay 52.8% and indigenous peoples, including Orang Asli, Dayak, Anak Negeri, 11%",2023.0
+MYS,my,etnia,2,Chinese,20.6,0.0,,,2023.0
+MYS,my,etnia,3,Indian,6.0,0.0,,,2023.0
+MYS,my,etnia,4,other,0.6,0.0,,,2023.0
+MYS,my,etnia,5,non-citizens,9.0,0.0,,,2023.0
+MYS,my,idioma,1,Bahasa Malaysia,,,1.0,official,
+MYS,my,idioma,2,English,,,0.0,,
+MYS,my,idioma,3,Chinese,,,0.0,"Cantonese, Mandarin, Hokkien, Hakka, Hainan, Foochow",
+MYS,my,idioma,4,Tamil,,,0.0,,
+MYS,my,idioma,5,Telugu,,,0.0,,
+MYS,my,idioma,6,Malayalam,,,0.0,,
+MYS,my,idioma,7,Panjabi,,,0.0,,
+MYS,my,idioma,8,Thai,,,0.0,,
+PNG,pp,religion,1,Protestant,64.3,0.0,,"Evangelical Lutheran 18.4%, Seventh Day Adventist 12.9%, Pentecostal 10.4%, United Church 10.3%, Evangelical Alliance 5.9%, Anglican 3.2%, Baptist 2.8%, Salvation Army 0.4%",2011.0
+PNG,pp,religion,2,Roman Catholic,26.0,0.0,,,2011.0
+PNG,pp,religion,3,other Christian,5.3,0.0,,,2011.0
+PNG,pp,religion,4,non-Christian,1.4,0.0,,,2011.0
+PNG,pp,religion,5,unspecified,3.1,0.0,,,2011.0
+PNG,pp,etnia,1,Melanesian,,,,,
+PNG,pp,etnia,2,Papuan,,,,,
+PNG,pp,etnia,3,Negrito,,,,,
+PNG,pp,etnia,4,Micronesian,,,,,
+PNG,pp,etnia,5,Polynesian,,,,,
+PNG,pp,idioma,1,Tok Pisin,,,1.0,official,
+PNG,pp,idioma,2,English,,,1.0,official,
+PNG,pp,idioma,3,Hiri Motu,,,1.0,official,
+PNG,pp,idioma,4,some 839 living indigenous languages are spoken,,,0.0,about 12% of the world's total,
+PHL,rp,religion,1,Roman Catholic,78.8,0.0,,,2020.0
+PHL,rp,religion,2,Muslim,6.4,0.0,,,2020.0
+PHL,rp,religion,3,Iglesia ni Cristo,2.6,0.0,,,2020.0
+PHL,rp,religion,4,other Christian,3.9,0.0,,,2020.0
+PHL,rp,religion,5,other,8.2,0.0,,,2020.0
+PHL,rp,religion,6,none/unspecified <0.1,,,,,2020.0
+PHL,rp,etnia,1,Tagalog,26.0,0.0,,,2020.0
+PHL,rp,etnia,2,Bisaya/Binisaya,14.3,0.0,,,2020.0
+PHL,rp,etnia,3,Ilocano,8.0,0.0,,,2020.0
+PHL,rp,etnia,4,Cebuano,8.0,0.0,,,2020.0
+PHL,rp,etnia,5,Illonggo,7.9,0.0,,,2020.0
+PHL,rp,etnia,6,Bikol/Bicol,6.5,0.0,,,2020.0
+PHL,rp,etnia,7,Waray,3.8,0.0,,,2020.0
+PHL,rp,etnia,8,Kapampangan,3.0,0.0,,,2020.0
+PHL,rp,etnia,9,Maguindanao,1.9,0.0,,,2020.0
+PHL,rp,etnia,10,Pangasinan,1.9,0.0,,,2020.0
+PHL,rp,etnia,11,other local ethnicities,18.5,0.0,,,2020.0
+PHL,rp,etnia,12,foreign ethnicities,0.2,0.0,,,2020.0
+PHL,rp,idioma,1,Tagalog,39.9,0.0,0.0,,2020.0
+PHL,rp,idioma,2,Bisaya/Binisaya,16.0,0.0,0.0,,2020.0
+PHL,rp,idioma,3,Hiligaynon/Ilonggo,7.3,0.0,0.0,,2020.0
+PHL,rp,idioma,4,Ilocano,7.1,0.0,0.0,,2020.0
+PHL,rp,idioma,5,Cebuano,6.5,0.0,0.0,,2020.0
+PHL,rp,idioma,6,Bikol/Bicol,3.9,0.0,0.0,,2020.0
+PHL,rp,idioma,7,Waray,2.6,0.0,0.0,,2020.0
+PHL,rp,idioma,8,Kapampangan,2.4,0.0,0.0,,2020.0
+PHL,rp,idioma,9,Maguindanao,1.4,0.0,0.0,,2020.0
+PHL,rp,idioma,10,Pangasinan/Panggalato,1.3,0.0,0.0,,2020.0
+PHL,rp,idioma,11,other languages/dialects,11.2,0.0,0.0,,2020.0
+PHL,rp,idioma,12,unspecified,0.4,0.0,0.0,,2020.0
+SGP,sn,religion,1,Buddhist,31.1,0.0,,,2020.0
+SGP,sn,religion,2,Christian,18.9,0.0,,,2020.0
+SGP,sn,religion,3,Muslim,15.6,0.0,,,2020.0
+SGP,sn,religion,4,Taoist,8.8,0.0,,,2020.0
+SGP,sn,religion,5,Hindu,5.0,0.0,,,2020.0
+SGP,sn,religion,6,other,0.6,0.0,,,2020.0
+SGP,sn,religion,7,none,20.0,0.0,,,2020.0
+SGP,sn,etnia,1,Chinese,74.2,0.0,,,2021.0
+SGP,sn,etnia,2,Malay,13.7,0.0,,,2021.0
+SGP,sn,etnia,3,Indian,8.9,0.0,,,2021.0
+SGP,sn,etnia,4,other,3.2,0.0,,,2021.0
+SGP,sn,idioma,1,English,48.3,0.0,1.0,official,2020.0
+SGP,sn,idioma,2,Mandarin,29.9,0.0,1.0,official,2020.0
+SGP,sn,idioma,3,other Chinese dialects,8.7,0.0,0.0,"includes Hokkien, Cantonese, Teochew, Hakka",2020.0
+SGP,sn,idioma,4,Malay,9.2,0.0,1.0,official,2020.0
+SGP,sn,idioma,5,Tamil,2.5,0.0,1.0,official,2020.0
+SGP,sn,idioma,6,other,1.4,0.0,0.0,,2020.0
+THA,th,religion,1,Buddhist,92.5,0.0,,,2021.0
+THA,th,religion,2,Muslim,5.4,0.0,,,2021.0
+THA,th,religion,3,Christian,1.2,0.0,,,2021.0
+THA,th,religion,4,other,0.9,0.0,,"includes animist, Confucian, Hindu, Jewish, Sikh, and Taoist",2021.0
+THA,th,etnia,1,Thai,97.5,0.0,,,2015.0
+THA,th,etnia,2,Burmese,1.3,0.0,,,2015.0
+THA,th,etnia,3,other,1.1,0.0,,,2015.0
+THA,th,etnia,4,unspecified,0.1,1.0,,,2015.0
+THA,th,idioma,1,Thai  only,90.7,0.0,1.0,official,
+THA,th,idioma,2,Thai and other languages,6.4,0.0,0.0,,
+THA,th,idioma,3,only other languages,2.9,0.0,0.0,"includes Malay, Burmese",
+TLS,tt,religion,1,Catholic,90.7,0.0,,,
+TLS,tt,religion,2,other,7.1,0.0,,,
+TLS,tt,religion,3,Protestant Evangelical,1.9,0.0,,,
+TLS,tt,etnia,1,Austronesian,,,,"Malayo-Polynesian; includes Tetun, Mambai, Tokodede, Galoli, Kemak, Baikeno",
+TLS,tt,etnia,2,Melanesian-Papuan,,,,"includes Bunak, Fataluku, Bakasai",
+TLS,tt,etnia,3,small Chinese minority,,,,,
+TLS,tt,idioma,1,Tetun Prasa,30.6,0.0,0.0,,2015.0
+TLS,tt,idioma,2,Mambai,16.6,0.0,0.0,,2015.0
+TLS,tt,idioma,3,Makasai,10.5,0.0,0.0,,2015.0
+TLS,tt,idioma,4,Tetun Terik,6.1,0.0,0.0,,2015.0
+TLS,tt,idioma,5,Baikenu,5.9,0.0,0.0,,2015.0
+TLS,tt,idioma,6,Kemak,5.8,0.0,0.0,,2015.0
+TLS,tt,idioma,7,Bunak,5.5,0.0,0.0,,2015.0
+TLS,tt,idioma,8,Tokodede,4.0,0.0,0.0,,2015.0
+TLS,tt,idioma,9,Fataluku,3.5,0.0,0.0,,2015.0
+TLS,tt,idioma,10,Waima'a,1.8,0.0,0.0,,2015.0
+TLS,tt,idioma,11,Galoli,1.4,0.0,0.0,,2015.0
+TLS,tt,idioma,12,Naueti,1.4,0.0,0.0,,2015.0
+TLS,tt,idioma,13,Idate,1.2,0.0,0.0,,2015.0
+TLS,tt,idioma,14,Midiki,1.2,0.0,0.0,,2015.0
+TLS,tt,idioma,15,other,4.5,0.0,0.0,,2015.0
+TWN,tw,religion,1,Buddhist,35.3,0.0,,,2005.0
+TWN,tw,religion,2,Taoist,33.2,0.0,,,2005.0
+TWN,tw,religion,3,Christian,3.9,0.0,,,2005.0
+TWN,tw,religion,4,folk religion  approximately,10.0,0.0,,includes Confucian,2005.0
+TWN,tw,religion,5,none or unspecified,18.2,0.0,,,2005.0
+TWN,tw,etnia,1,Han Chinese  more than,95.0,0.0,,"including Holo, who compose approximately 70% of Taiwan's population, Hakka, and other groups originating in mainland China",
+TWN,tw,etnia,2,indigenous Malayo-Polynesian peoples,2.3,0.0,,,
+TWN,tw,idioma,1,Mandarin,,,1.0,official,
+TWN,tw,idioma,2,Min Nan,,,0.0,,
+TWN,tw,idioma,3,Hakka dialects,,,0.0,,
+TWN,tw,idioma,4,approximately 16 indigenous languages,,,0.0,,
+VNM,vm,religion,1,Catholic,6.1,0.0,,,2019.0
+VNM,vm,religion,2,Buddhist,5.8,0.0,,,2019.0
+VNM,vm,religion,3,Protestant,1.0,0.0,,,2019.0
+VNM,vm,religion,4,other,0.8,0.0,,,2019.0
+VNM,vm,religion,5,none,86.3,0.0,,,2019.0
+VNM,vm,etnia,1,Kinh,85.3,0.0,,Viet,2019.0
+VNM,vm,etnia,2,Tay,1.9,0.0,,,2019.0
+VNM,vm,etnia,3,Thai,1.9,0.0,,,2019.0
+VNM,vm,etnia,4,Muong,1.5,0.0,,,2019.0
+VNM,vm,etnia,5,Khmer,1.4,0.0,,,2019.0
+VNM,vm,etnia,6,Mong,1.4,0.0,,,2019.0
+VNM,vm,etnia,7,Nung,1.1,0.0,,,2019.0
+VNM,vm,etnia,8,other,5.5,0.0,,,2019.0
+VNM,vm,idioma,1,Vietnamese,,,1.0,official,
+ALB,al,religion,1,Muslim,56.7,0.0,,,2011.0
+ALB,al,religion,2,Roman Catholic,10.0,0.0,,,2011.0
+ALB,al,religion,3,Orthodox,6.8,0.0,,,2011.0
+ALB,al,religion,4,atheist,2.5,0.0,,,2011.0
+ALB,al,religion,5,Bektashi,2.1,0.0,,a Sufi order,2011.0
+ALB,al,religion,6,other,5.7,0.0,,,2011.0
+ALB,al,religion,7,unspecified,16.2,0.0,,,2011.0
+ALB,al,etnia,1,Albanian,82.6,0.0,,,2011.0
+ALB,al,etnia,2,Greek,0.9,0.0,,,2011.0
+ALB,al,etnia,3,other,1.0,0.0,,"including Vlach, Romani, Macedonian, Montenegrin, and Egyptian",2011.0
+ALB,al,etnia,4,unspecified,15.5,0.0,,,2011.0
+ALB,al,idioma,1,Albanian,98.8,0.0,1.0,official - derived from Tosk dialect,2011.0
+ALB,al,idioma,2,Greek,0.5,0.0,0.0,,2011.0
+ALB,al,idioma,3,other,0.6,0.0,0.0,"including Macedonian, Romani, Vlach, Turkish, Italian, and Serbo-Croatian",2011.0
+ALB,al,idioma,4,unspecified,0.1,0.0,0.0,,2011.0
+AND,an,religion,1,Christian  89.5,,,,predominantly Roman Catholic,2020.0
+AND,an,religion,2,other,8.8,0.0,,,2020.0
+AND,an,religion,3,unaffiliated,1.7,0.0,,,2020.0
+AND,an,etnia,1,Spanish,34.3,0.0,,,2024.0
+AND,an,etnia,2,Andorran,32.1,0.0,,,2024.0
+AND,an,etnia,3,Portuguese,10.0,0.0,,,2024.0
+AND,an,etnia,4,French,5.6,0.0,,,2024.0
+AND,an,etnia,5,other,18.0,0.0,,,2024.0
+AND,an,idioma,1,Catalan,44.1,0.0,1.0,official,2022.0
+AND,an,idioma,2,Castilian,40.3,0.0,0.0,,2022.0
+AND,an,idioma,3,Portuguese,13.5,0.0,0.0,,2022.0
+AND,an,idioma,4,French,10.0,0.0,0.0,,2022.0
+AND,an,idioma,5,English,3.0,0.0,0.0,,2022.0
+AND,an,idioma,6,other,6.8,0.0,0.0,,2022.0
+AUT,au,religion,1,Roman Catholic,55.2,0.0,,,2021.0
+AUT,au,religion,2,Muslim,8.3,0.0,,,2021.0
+AUT,au,religion,3,Orthodox,4.9,0.0,,,2021.0
+AUT,au,religion,4,Evangelical Christian,3.8,0.0,,,2021.0
+AUT,au,religion,5,Jewish,0.1,0.0,,,2021.0
+AUT,au,religion,6,other,5.4,0.0,,,2021.0
+AUT,au,religion,7,none,22.4,0.0,,,2021.0
+AUT,au,etnia,1,Austrian,80.8,0.0,,,2018.0
+AUT,au,etnia,2,German,2.6,0.0,,,2018.0
+AUT,au,etnia,3,Bosnian and Herzegovinian,1.9,0.0,,,2018.0
+AUT,au,etnia,4,Turkish,1.8,0.0,,,2018.0
+AUT,au,etnia,5,Serbian,1.6,0.0,,,2018.0
+AUT,au,etnia,6,Romanian,1.3,0.0,,,2018.0
+AUT,au,etnia,7,other,10.0,0.0,,,2018.0
+AUT,au,idioma,1,German,88.6,0.0,1.0,official nationwide,2001.0
+AUT,au,idioma,2,Turkish,2.3,0.0,0.0,,2001.0
+AUT,au,idioma,3,Serbian,2.2,0.0,0.0,,2001.0
+AUT,au,idioma,4,Croatian,1.6,0.0,1.0,official in Burgenland,2001.0
+AUT,au,idioma,5,other,5.3,0.0,1.0,"includes Slovene, official in southern Carinthia, and Hungarian, official in Burgenland",2001.0
+BEL,be,religion,1,Roman Catholic,57.1,0.0,,,2018.0
+BEL,be,religion,2,Protestant,2.3,0.0,,,2018.0
+BEL,be,religion,3,other Christian,,,,,2018.0
+BEL,be,religion,4,2.8%,2.8,0.0,,,2018.0
+BEL,be,religion,5,Muslim,6.8,0.0,,,2018.0
+BEL,be,religion,6,other,1.7,0.0,,,2018.0
+BEL,be,religion,7,atheist,9.1,0.0,,,2018.0
+BEL,be,religion,8,nonbeliever/agnostic,20.2,0.0,,,2018.0
+BEL,be,etnia,1,Belgian,75.2,0.0,,,2012.0
+BEL,be,etnia,2,Italian,4.1,0.0,,,2012.0
+BEL,be,etnia,3,Moroccan,3.7,0.0,,,2012.0
+BEL,be,etnia,4,French,2.4,0.0,,,2012.0
+BEL,be,etnia,5,Turkish,2.0,0.0,,,2012.0
+BEL,be,etnia,6,Dutch,2.0,0.0,,,2012.0
+BEL,be,etnia,7,other,10.6,0.0,,,2012.0
+BEL,be,idioma,1,Dutch,60.0,0.0,1.0,official,
+BEL,be,idioma,2,French,40.0,0.0,1.0,official,
+BEL,be,idioma,3,German,1.0,1.0,1.0,official,
+BIH,bk,religion,1,Muslim,50.7,0.0,,,2013.0
+BIH,bk,religion,2,Orthodox,30.7,0.0,,,2013.0
+BIH,bk,religion,3,Roman Catholic,15.2,0.0,,,2013.0
+BIH,bk,religion,4,atheist,0.8,0.0,,,2013.0
+BIH,bk,religion,5,agnostic,0.3,0.0,,,2013.0
+BIH,bk,religion,6,other,1.2,0.0,,,2013.0
+BIH,bk,religion,7,undeclared/no answer,1.1,0.0,,,2013.0
+BIH,bk,etnia,1,Bosniak,50.1,0.0,,,2013.0
+BIH,bk,etnia,2,Serb,30.8,0.0,,,2013.0
+BIH,bk,etnia,3,Croat,15.4,0.0,,,2013.0
+BIH,bk,etnia,4,other,2.7,0.0,,,2013.0
+BIH,bk,etnia,5,not declared/no answer,1.0,0.0,,,2013.0
+BIH,bk,idioma,1,Bosnian,52.9,0.0,1.0,official,2013.0
+BIH,bk,idioma,2,Serbian,30.8,0.0,1.0,official,2013.0
+BIH,bk,idioma,3,Croatian,14.6,0.0,1.0,official,2013.0
+BIH,bk,idioma,4,other,1.6,0.0,0.0,,2013.0
+BIH,bk,idioma,5,no answer,0.2,0.0,0.0,,2013.0
+BLR,bo,religion,1,Orthodox,48.3,0.0,,,2011.0
+BLR,bo,religion,2,Catholic,7.1,0.0,,,2011.0
+BLR,bo,religion,3,other,3.5,0.0,,,2011.0
+BLR,bo,religion,4,non-believers,41.1,0.0,,,2011.0
+BLR,bo,etnia,1,Belarusian,83.7,0.0,,,2009.0
+BLR,bo,etnia,2,Russian,8.3,0.0,,,2009.0
+BLR,bo,etnia,3,Polish,3.1,0.0,,,2009.0
+BLR,bo,etnia,4,Ukrainian,1.7,0.0,,,2009.0
+BLR,bo,etnia,5,other,2.4,0.0,,,2009.0
+BLR,bo,etnia,6,unspecified,0.9,0.0,,,2009.0
+BLR,bo,idioma,1,Russian,71.4,0.0,1.0,official,2019.0
+BLR,bo,idioma,2,Belarusian,26.0,0.0,1.0,official,2019.0
+BLR,bo,idioma,3,other,0.3,0.0,0.0,includes small Polish- and Ukrainian-speaking minorities,2019.0
+BLR,bo,idioma,4,unspecified,2.3,0.0,0.0,,2019.0
+BGR,bu,religion,1,Christian,64.7,0.0,,,2021.0
+BGR,bu,religion,2,Muslim,9.8,0.0,,,2021.0
+BGR,bu,religion,3,other,0.1,0.0,,,2021.0
+BGR,bu,religion,4,none,4.7,0.0,,,2021.0
+BGR,bu,religion,5,unspecified,20.7,0.0,,,2021.0
+BGR,bu,etnia,1,Bulgarian,78.5,0.0,,,2021.0
+BGR,bu,etnia,2,Turkish,7.8,0.0,,,2021.0
+BGR,bu,etnia,3,Roma,4.1,0.0,,,2021.0
+BGR,bu,etnia,4,other,1.2,0.0,,,2021.0
+BGR,bu,etnia,5,unspecified,9.4,0.0,,,2021.0
+BGR,bu,idioma,1,Bulgarian,77.3,0.0,1.0,official,2021.0
+BGR,bu,idioma,2,Turkish,7.9,0.0,0.0,,2021.0
+BGR,bu,idioma,3,Romani,3.5,0.0,0.0,,2021.0
+BGR,bu,idioma,4,other,1.0,0.0,0.0,,2021.0
+BGR,bu,idioma,5,unspecified,10.4,0.0,0.0,,2021.0
+CYP,cy,religion,1,Eastern Orthodox Christian,89.1,0.0,,,2011.0
+CYP,cy,religion,2,Roman Catholic,2.9,0.0,,,2011.0
+CYP,cy,religion,3,Protestant/Anglican,2.0,0.0,,,2011.0
+CYP,cy,religion,4,Muslim,1.8,0.0,,,2011.0
+CYP,cy,religion,5,Buddhist,1.0,0.0,,,2011.0
+CYP,cy,religion,6,other,1.4,0.0,,"includes Maronite Catholic, Armenian Apostolic, Hindu",2011.0
+CYP,cy,religion,7,unknown,1.1,0.0,,,2011.0
+CYP,cy,religion,8,none/atheist,0.6,0.0,,,2011.0
+CYP,cy,etnia,1,Greek,98.8,0.0,,,2011.0
+CYP,cy,etnia,2,other,1.0,0.0,,"includes Maronite, Armenian, Turkish-Cypriot",2011.0
+CYP,cy,etnia,3,unspecified,0.2,0.0,,,2011.0
+CYP,cy,idioma,1,Greek,80.9,0.0,1.0,official,2011.0
+CYP,cy,idioma,2,Turkish,0.2,0.0,1.0,official,2011.0
+CYP,cy,idioma,3,English,4.1,0.0,0.0,,2011.0
+CYP,cy,idioma,4,Romanian,2.9,0.0,0.0,,2011.0
+CYP,cy,idioma,5,Russian,2.5,0.0,0.0,,2011.0
+CYP,cy,idioma,6,Bulgarian,2.2,0.0,0.0,,2011.0
+CYP,cy,idioma,7,Arabic,1.2,0.0,0.0,,2011.0
+CYP,cy,idioma,8,Filipino,1.1,0.0,0.0,,2011.0
+CYP,cy,idioma,9,other,4.3,0.0,0.0,,2011.0
+CYP,cy,idioma,10,unspecified,0.6,0.0,0.0,,2011.0
+DNK,da,religion,1,Evangelical Lutheran,71.4,0.0,,official,2024.0
+DNK,da,religion,2,Muslim,4.3,0.0,,,2024.0
+DNK,da,religion,3,other/none/unspecified,24.3,0.0,,"denominations include Roman Catholic, Jehovah's Witness, Serbian Orthodox Christian, Jewish, Baptist, Buddhist, Church of Jesus Christ, Pentecostal, and nondenominational Christian",2024.0
+DNK,da,etnia,1,Danish,84.2,0.0,,includes Greenlandic (who are predominantly Inuit) and Faroese,2023.0
+DNK,da,etnia,2,Turkish,1.1,0.0,,,2023.0
+DNK,da,etnia,3,other,14.7,0.0,,"largest groups are Polish, Romanian, Syrian, Ukrainian, German, and Iraqi",2023.0
+DNK,da,idioma,1,Danish,,,0.0,,
+DNK,da,idioma,2,Faroese,,,0.0,,
+DNK,da,idioma,3,Greenlandic,,,0.0,an Inuit dialect,
+DNK,da,idioma,4,German,,,0.0,small minority,
+IRL,ei,religion,1,Roman Catholic,69.2,0.0,,includes lapsed,2022.0
+IRL,ei,religion,2,Protestant,3.7,0.0,,"Church of Ireland/England/Anglican/Episcopalian 2.5%, other Protestant 1.2%",2022.0
+IRL,ei,religion,3,Orthodox,2.0,0.0,,,2022.0
+IRL,ei,religion,4,other Christian,0.9,0.0,,,2022.0
+IRL,ei,religion,5,Muslim,1.6,0.0,,,2022.0
+IRL,ei,religion,6,other,1.4,0.0,,,2022.0
+IRL,ei,religion,7,agnostic/atheist,0.1,0.0,,,2022.0
+IRL,ei,religion,8,none,14.5,0.0,,,2022.0
+IRL,ei,religion,9,unspecified,6.7,0.0,,,2022.0
+IRL,ei,etnia,1,Irish,76.6,0.0,,,2022.0
+IRL,ei,etnia,2,Irish travelers,0.6,0.0,,,2022.0
+IRL,ei,etnia,3,other White,9.9,0.0,,,2022.0
+IRL,ei,etnia,4,Asian,3.3,0.0,,,2022.0
+IRL,ei,etnia,5,Black,1.5,0.0,,,2022.0
+IRL,ei,etnia,6,other,2.0,0.0,,"includes Arab, Roma, and persons of mixed backgrounds",2022.0
+IRL,ei,etnia,7,unspecified,2.6,0.0,,,2022.0
+IRL,ei,idioma,1,English,,,1.0,"official, the language generally used",
+IRL,ei,idioma,2,Irish,,,1.0,"Gaelic or Gaeilge; official, spoken by approximately 37.7% of the population",
+EST,en,religion,1,Orthodox,16.5,0.0,,,2021.0
+EST,en,religion,2,Protestant,9.2,0.0,,"Lutheran 7.7%, other Protestant 1.5%",2021.0
+EST,en,religion,3,other,3.0,0.0,,"includes Roman Catholic, Muslim, Jehovah's Witness, Pentecostal, Buddhist, and Taara Believer",2021.0
+EST,en,religion,4,none,58.4,0.0,,,2021.0
+EST,en,religion,5,unspecified,12.9,0.0,,,2021.0
+EST,en,etnia,1,Estonian,69.1,0.0,,,2021.0
+EST,en,etnia,2,Russian,23.7,0.0,,,2021.0
+EST,en,etnia,3,Ukrainian,2.1,0.0,,,2021.0
+EST,en,etnia,4,other,4.6,0.0,,,2021.0
+EST,en,etnia,5,unspecified,0.5,0.0,,,2021.0
+EST,en,idioma,1,Estonian,67.2,0.0,1.0,official,
+EST,en,idioma,2,Russian,28.5,0.0,0.0,,
+EST,en,idioma,3,other,3.7,0.0,0.0,,
+EST,en,idioma,4,unspecified,0.6,0.0,0.0,2021est.,
+CZE,ez,religion,1,Roman Catholic,7.0,0.0,,,2021.0
+CZE,ez,religion,2,other believers belonging to a church or religious society,6.0,0.0,,includes Evangelical United Brethren Church and Czechoslovak Hussite Church,2021.0
+CZE,ez,religion,3,believers unaffiliated with a religious society,9.1,0.0,,,2021.0
+CZE,ez,religion,4,none,47.8,0.0,,,2021.0
+CZE,ez,religion,5,unspecified,30.1,0.0,,,2021.0
+CZE,ez,etnia,1,Czech,57.3,0.0,,,2021.0
+CZE,ez,etnia,2,Moravian,3.4,0.0,,,2021.0
+CZE,ez,etnia,3,other,7.7,0.0,,,2021.0
+CZE,ez,etnia,4,unspecified,31.6,0.0,,,2021.0
+CZE,ez,idioma,1,Czech,88.4,0.0,1.0,official,2021.0
+CZE,ez,idioma,2,Slovak,1.5,0.0,0.0,,2021.0
+CZE,ez,idioma,3,other,2.6,0.0,0.0,,2021.0
+CZE,ez,idioma,4,unspecified,7.2,0.0,0.0,,2021.0
+FIN,fi,religion,1,Lutheran,66.6,0.0,,,2022.0
+FIN,fi,religion,2,Greek Orthodox,1.1,0.0,,,2022.0
+FIN,fi,religion,3,other,1.7,0.0,,,2022.0
+FIN,fi,religion,4,none,30.6,0.0,,,2022.0
+FIN,fi,etnia,1,Finnish,,,,,
+FIN,fi,etnia,2,Swedish,,,,,
+FIN,fi,etnia,3,Russian,,,,,
+FIN,fi,etnia,4,Estonian,,,,,
+FIN,fi,etnia,5,Romani,,,,,
+FIN,fi,etnia,6,Sami,,,,,
+FIN,fi,idioma,1,Finnish,85.9,0.0,1.0,official,2022.0
+FIN,fi,idioma,2,Swedish,5.2,0.0,1.0,official,2022.0
+FIN,fi,idioma,3,Russian,1.7,0.0,0.0,,2022.0
+FIN,fi,idioma,4,other,7.2,0.0,0.0,,2022.0
+FRO,fo,religion,1,Christian,87.0,0.0,,predominantly Evangelical Lutheran,2011.0
+FRO,fo,religion,2,other,0.9,0.0,,,2011.0
+FRO,fo,religion,3,none,3.7,0.0,,,2011.0
+FRO,fo,religion,4,unspecified,8.9,0.0,,,2011.0
+FRO,fo,etnia,1,Faroese,83.8,0.0,,Scandinavian and Anglo-Saxon descent,2024.0
+FRO,fo,etnia,2,Danish,8.3,0.0,,,2024.0
+FRO,fo,etnia,3,Filipino,1.2,0.0,,,2024.0
+FRO,fo,etnia,4,other Nordic,0.9,0.0,,,2024.0
+FRO,fo,etnia,5,other,4.5,0.0,,includes Polish and Romanian,2024.0
+FRO,fo,idioma,1,Faroese,93.8,0.0,0.0,derived from Old Norse,2011.0
+FRO,fo,idioma,2,Danish,3.2,0.0,0.0,,2011.0
+FRO,fo,idioma,3,other,3.0,0.0,0.0,,2011.0
+FRA,fr,religion,1,Roman Catholic,47.0,0.0,,,2021.0
+FRA,fr,religion,2,Muslim,4.0,0.0,,,2021.0
+FRA,fr,religion,3,Protestant,2.0,0.0,,,2021.0
+FRA,fr,religion,4,Buddhist,2.0,0.0,,,2021.0
+FRA,fr,religion,5,Orthodox,1.0,0.0,,,2021.0
+FRA,fr,religion,6,Jewish,1.0,0.0,,,2021.0
+FRA,fr,religion,7,other,1.0,0.0,,,2021.0
+FRA,fr,religion,8,none,33.0,0.0,,,2021.0
+FRA,fr,religion,9,unspecified,9.0,0.0,,,2021.0
+FRA,fr,etnia,1,Celtic and Latin with Teutonic,,,,,
+FRA,fr,etnia,2,Slavic,,,,,
+FRA,fr,etnia,3,North African,,,,"Algerian, Moroccan, Tunisian",
+FRA,fr,etnia,4,Indochinese,,,,,
+FRA,fr,etnia,5,Basque minorities,,,,,
+FRA,fr,idioma,1,French,100.0,0.0,1.0,official,
+FRA,fr,idioma,2,declining regional dialects and languages,,,0.0,"Provençal, Breton, Alsatian, Corsican, Catalan, Basque, Flemish, Occitan, Picard",
+GIB,gi,religion,1,Roman Catholic,72.1,0.0,,,2012.0
+GIB,gi,religion,2,Church of England,7.7,0.0,,,2012.0
+GIB,gi,religion,3,other Christian,3.8,0.0,,,2012.0
+GIB,gi,religion,4,Muslim,3.6,0.0,,,2012.0
+GIB,gi,religion,5,Jewish,2.4,0.0,,,2012.0
+GIB,gi,religion,6,Hindu,2.0,0.0,,,2012.0
+GIB,gi,religion,7,other,1.1,0.0,,,2012.0
+GIB,gi,religion,8,none,7.1,0.0,,,2012.0
+GIB,gi,religion,9,unspecified,0.1,0.0,,,2012.0
+GIB,gi,etnia,1,Gibraltarian,79.0,0.0,,,2012.0
+GIB,gi,etnia,2,other British,13.2,0.0,,,2012.0
+GIB,gi,etnia,3,Spanish,2.1,0.0,,,2012.0
+GIB,gi,etnia,4,Moroccan,1.6,0.0,,,2012.0
+GIB,gi,etnia,5,other EU,2.4,0.0,,,2012.0
+GIB,gi,etnia,6,other,1.6,0.0,,,2012.0
+GIB,gi,idioma,1,English,,,1.0,used in schools and for official purposes,
+GIB,gi,idioma,2,Spanish,,,0.0,,
+GIB,gi,idioma,3,Italian,,,0.0,,
+GIB,gi,idioma,4,Portuguese,,,0.0,,
+GGY,gk,religion,1,Protestant,,,,"Anglican, Presbyterian, Baptist, Congregational, Methodist",
+GGY,gk,religion,2,Roman Catholic,,,,,
+GGY,gk,etnia,1,Guernsey,53.5,0.0,,,2022.0
+GGY,gk,etnia,2,UK and Ireland,23.8,0.0,,,2022.0
+GGY,gk,etnia,3,Portugal,2.1,0.0,,,2022.0
+GGY,gk,etnia,4,Latvia,1.4,0.0,,,2022.0
+GGY,gk,etnia,5,other Europe,2.7,0.0,,,2022.0
+GGY,gk,etnia,6,other Crown Dependencies,0.7,0.0,,,2022.0
+GGY,gk,etnia,7,other,5.3,0.0,,,2022.0
+GGY,gk,etnia,8,unspecified,10.5,0.0,,,2022.0
+GGY,gk,idioma,1,English,,,0.0,,
+GGY,gk,idioma,2,French,,,0.0,,
+GGY,gk,idioma,3,Norman-French dialect spoken in country districts,,,0.0,,
+DEU,gm,religion,1,Roman Catholic,24.8,0.0,,,2022.0
+DEU,gm,religion,2,Protestant,22.6,0.0,,,2022.0
+DEU,gm,religion,3,Muslim,3.7,0.0,,,2022.0
+DEU,gm,religion,4,other,5.1,0.0,,,2022.0
+DEU,gm,religion,5,none,43.8,0.0,,,2022.0
+DEU,gm,etnia,1,German,85.4,0.0,,,2022.0
+DEU,gm,etnia,2,Turkish,1.8,0.0,,,2022.0
+DEU,gm,etnia,3,Ukrainian,1.4,0.0,,,2022.0
+DEU,gm,etnia,4,Syrian,1.1,0.0,,,2022.0
+DEU,gm,etnia,5,Romanian,1.0,0.0,,,2022.0
+DEU,gm,etnia,6,Poland,1.0,0.0,,,2022.0
+DEU,gm,etnia,7,other/stateless/unspecified,8.3,0.0,,,2022.0
+DEU,gm,idioma,1,German,,,1.0,official,
+GRC,gr,religion,1,Greek Orthodox 81-,90.0,0.0,,,2015.0
+GRC,gr,religion,2,Muslim,2.0,0.0,,,2015.0
+GRC,gr,religion,3,other,3.0,0.0,,,2015.0
+GRC,gr,religion,4,none 4-,15.0,0.0,,,2015.0
+GRC,gr,religion,5,unspecified,1.0,0.0,,,2015.0
+GRC,gr,etnia,1,Greek,91.6,0.0,,,2011.0
+GRC,gr,etnia,2,Albanian,4.4,0.0,,,2011.0
+GRC,gr,etnia,3,other,4.0,0.0,,,2011.0
+GRC,gr,idioma,1,Greek,99.0,0.0,1.0,official,
+GRC,gr,idioma,2,other,1.0,0.0,0.0,includes English and French,
+HRV,hr,religion,1,Roman Catholic,79.0,0.0,,,2021.0
+HRV,hr,religion,2,Orthodox,3.3,0.0,,,2021.0
+HRV,hr,religion,3,Protestant,0.3,0.0,,,2021.0
+HRV,hr,religion,4,other Christian,4.8,0.0,,,2021.0
+HRV,hr,religion,5,Muslim,1.3,0.0,,,2021.0
+HRV,hr,religion,6,other,1.1,0.0,,,2021.0
+HRV,hr,religion,7,agnostic,1.7,0.0,,,2021.0
+HRV,hr,religion,8,none or atheist,4.7,0.0,,,2021.0
+HRV,hr,religion,9,unspecified,3.9,0.0,,,2021.0
+HRV,hr,etnia,1,Croat,91.6,0.0,,,2021.0
+HRV,hr,etnia,2,Serb,3.2,0.0,,,2021.0
+HRV,hr,etnia,3,other,3.9,0.0,,"including Bosniak, Romani, Albanian, Italian, and Hungarian",2021.0
+HRV,hr,etnia,4,unspecified,1.3,0.0,,,2021.0
+HRV,hr,idioma,1,Croatian,95.2,0.0,1.0,official,2021.0
+HRV,hr,idioma,2,Serbian,1.2,0.0,0.0,,2021.0
+HRV,hr,idioma,3,other 3.1%  unspecified,0.5,0.0,0.0,"including Bosnian, Romani, Albanian, and Italian",2021.0
+HUN,hu,religion,1,Catholic,30.1,0.0,,"Roman Catholic 27.5%, Greek Catholic 1.7%, other Catholic 0.9%",2022.0
+HUN,hu,religion,2,Calvinist,9.8,0.0,,,2022.0
+HUN,hu,religion,3,Lutheran,1.8,0.0,,,2022.0
+HUN,hu,religion,4,other Christian,1.6,0.0,,includes Orthodox,2022.0
+HUN,hu,religion,5,other,0.4,0.0,,,2022.0
+HUN,hu,religion,6,none,16.1,0.0,,,2022.0
+HUN,hu,religion,7,no answer,40.1,0.0,,,2022.0
+HUN,hu,etnia,1,Hungarian,84.3,0.0,,,2022.0
+HUN,hu,etnia,2,Romani,2.1,0.0,,,2022.0
+HUN,hu,etnia,3,German,1.0,0.0,,,2022.0
+HUN,hu,etnia,4,other,1.2,0.0,,,2022.0
+HUN,hu,etnia,5,unspecified,13.7,0.0,,,2022.0
+HUN,hu,idioma,1,Hungarian,98.8,0.0,1.0,official,2022.0
+HUN,hu,idioma,2,English,25.3,0.0,0.0,,2022.0
+HUN,hu,idioma,3,German,12.6,0.0,0.0,,2022.0
+HUN,hu,idioma,4,Russian,2.1,0.0,0.0,,2022.0
+HUN,hu,idioma,5,French,1.5,0.0,0.0,,2022.0
+HUN,hu,idioma,6,Romanian,1.4,0.0,0.0,,2022.0
+HUN,hu,idioma,7,other,5.1,0.0,0.0,,2022.0
+ISL,ic,religion,1,Evangelical Lutheran Church of Iceland  58.6% Roman Catholic,3.8,0.0,,official,2024.0
+ISL,ic,religion,2,Independent Congregation of Reykjavik,2.6,0.0,,,2024.0
+ISL,ic,religion,3,Independent Congregation of Hafnarfjordur,1.9,0.0,,,2024.0
+ISL,ic,religion,4,pagan worship,1.5,0.0,,,2024.0
+ISL,ic,religion,5,Icelandic Ethical Humanist Association,1.4,0.0,,,2024.0
+ISL,ic,religion,6,other  or unspecified,18.7,0.0,,includes Zuist and Pentecostal,2024.0
+ISL,ic,religion,7,none,7.7,0.0,,,2024.0
+ISL,ic,etnia,1,Icelandic,78.7,0.0,,,2024.0
+ISL,ic,etnia,2,Polish,5.8,0.0,,,2024.0
+ISL,ic,etnia,3,Danish,1.0,0.0,,,2024.0
+ISL,ic,etnia,4,Ukrainian,1.0,0.0,,,2024.0
+ISL,ic,etnia,5,other,13.5,0.0,,,2024.0
+ISL,ic,idioma,1,Icelandic,,,0.0,,
+ISL,ic,idioma,2,English,,,0.0,,
+ISL,ic,idioma,3,Polish,,,0.0,,
+ISL,ic,idioma,4,Nordic languages,,,0.0,,
+ISL,ic,idioma,5,German,,,0.0,,
+IMN,im,religion,1,Christian,54.7,0.0,,,2021.0
+IMN,im,religion,2,Muslim,0.5,0.0,,,2021.0
+IMN,im,religion,3,Buddhist,0.5,0.0,,,2021.0
+IMN,im,religion,4,Hindu,0.4,0.0,,,2021.0
+IMN,im,religion,5,Jewish,0.2,0.0,,,2021.0
+IMN,im,religion,6,none,43.8,0.0,,,2021.0
+IMN,im,etnia,1,White,94.7,0.0,,,2021.0
+IMN,im,etnia,2,Asian,3.1,0.0,,,2021.0
+IMN,im,etnia,3,Mixed,1.0,0.0,,,2021.0
+IMN,im,etnia,4,Black,0.6,0.0,,,2021.0
+IMN,im,etnia,5,other,0.4,0.0,,,2021.0
+IMN,im,idioma,1,English,,,0.0,,
+IMN,im,idioma,2,Manx Gaelic,,,0.0,about 2% of the population has some knowledge,
+ITA,it,religion,1,Christian,80.8,0.0,,overwhelmingly Roman Catholic with very small groups of Jehovah's Witnesses and Protestants,2020.0
+ITA,it,religion,2,Muslim,4.9,0.0,,,2020.0
+ITA,it,religion,3,unaffiliated,13.4,0.0,,,2020.0
+ITA,it,religion,4,other,0.9,0.0,,,2020.0
+ITA,it,etnia,1,Italian,,,,"includes small clusters of German-, French-, and Slovene-Italians in the north, Albanian-Italians, Croat-Italians, and Greek-Italians in the south",
+ITA,it,idioma,1,Italian,,,1.0,official,
+ITA,it,idioma,2,German,,,0.0,parts of Trentino-Alto Adige region are predominantly German-speaking,
+ITA,it,idioma,3,French,,,0.0,small French-speaking minority in Valle d'Aosta region,
+ITA,it,idioma,4,Slovene,,,0.0,Slovene-speaking minority in the Trieste-Gorizia area,
+ITA,it,idioma,5,Croatian,,,0.0,in Molise,
+JEY,je,religion,1,Christian,85.2,0.0,,,2020.0
+JEY,je,religion,2,Baha'i,0.3,0.0,,,2020.0
+JEY,je,religion,3,Hindu,0.1,0.0,,,2020.0
+JEY,je,religion,4,Jewish,0.1,0.0,,,2020.0
+JEY,je,religion,5,Muslim,0.1,0.0,,,2020.0
+JEY,je,religion,6,atheist,1.1,0.0,,,2020.0
+JEY,je,religion,7,agnostic,13.1,0.0,,,2020.0
+JEY,je,etnia,1,Jersey,44.4,0.0,,,2021.0
+JEY,je,etnia,2,British,30.5,0.0,,,2021.0
+JEY,je,etnia,3,Portuguese/Madeiran,9.4,0.0,,,2021.0
+JEY,je,etnia,4,Polish,3.0,0.0,,,2021.0
+JEY,je,etnia,5,Irish,2.1,0.0,,,2021.0
+JEY,je,etnia,6,other,10.6,0.0,,,2021.0
+JEY,je,idioma,1,English,94.5,0.0,1.0,official,2001.0
+JEY,je,idioma,2,Portuguese,4.6,0.0,0.0,,2001.0
+JEY,je,idioma,3,other,0.9,0.0,1.0,includes French (official) and Jerriais,2001.0
+XKX,kv,religion,1,Muslim,95.6,0.0,,,2011.0
+XKX,kv,religion,2,Roman Catholic,2.2,0.0,,,2011.0
+XKX,kv,religion,3,Orthodox,1.5,0.0,,,2011.0
+XKX,kv,religion,4,other,0.1,0.0,,,2011.0
+XKX,kv,religion,5,none,0.1,0.0,,,2011.0
+XKX,kv,religion,6,unspecified,0.6,0.0,,,2011.0
+XKX,kv,etnia,1,Albanians,92.9,0.0,,,2011.0
+XKX,kv,etnia,2,Bosniaks,1.6,0.0,,,2011.0
+XKX,kv,etnia,3,Serbs,1.5,0.0,,,2011.0
+XKX,kv,etnia,4,Turk,1.1,0.0,,,2011.0
+XKX,kv,etnia,5,Ashkali,0.9,0.0,,,2011.0
+XKX,kv,etnia,6,Egyptian,0.7,0.0,,,2011.0
+XKX,kv,etnia,7,Gorani,0.6,0.0,,,2011.0
+XKX,kv,etnia,8,Romani,0.5,0.0,,,2011.0
+XKX,kv,etnia,9,other/unspecified,0.2,0.0,,,2011.0
+XKX,kv,idioma,1,Albanian,94.5,0.0,1.0,official,2011.0
+XKX,kv,idioma,2,Bosnian,1.7,0.0,0.0,,2011.0
+XKX,kv,idioma,3,Serbian,1.6,0.0,1.0,official,2011.0
+XKX,kv,idioma,4,Turkish,1.1,0.0,0.0,,2011.0
+XKX,kv,idioma,5,other,0.9,0.0,0.0,includes Romani,2011.0
+XKX,kv,idioma,6,unspecified,0.1,0.0,0.0,,2011.0
+LVA,lg,religion,1,Lutheran,36.2,0.0,,,2017.0
+LVA,lg,religion,2,Roman Catholic,19.5,0.0,,,2017.0
+LVA,lg,religion,3,Orthodox,19.1,0.0,,,2017.0
+LVA,lg,religion,4,other Christian,1.6,0.0,,,2017.0
+LVA,lg,religion,5,other,0.1,0.0,,,2017.0
+LVA,lg,religion,6,unspecified/none,23.5,0.0,,,2017.0
+LVA,lg,etnia,1,Latvian,62.7,0.0,,,2021.0
+LVA,lg,etnia,2,Russian,24.5,0.0,,,2021.0
+LVA,lg,etnia,3,Belarusian,3.1,0.0,,,2021.0
+LVA,lg,etnia,4,Ukrainian,2.2,0.0,,,2021.0
+LVA,lg,etnia,5,Polish,2.0,0.0,,,2021.0
+LVA,lg,etnia,6,Lithuanian,1.1,0.0,,,2021.0
+LVA,lg,etnia,7,other,1.8,0.0,,,2021.0
+LVA,lg,etnia,8,unspecified,2.6,0.0,,,2021.0
+LVA,lg,idioma,1,Latvian,56.3,0.0,1.0,official,2011.0
+LVA,lg,idioma,2,Russian,33.8,0.0,0.0,,2011.0
+LVA,lg,idioma,3,other,0.6,0.0,0.0,"includes Polish, Ukrainian, and Belarusian",2011.0
+LVA,lg,idioma,4,unspecified,9.4,0.0,0.0,,2011.0
+LTU,lh,religion,1,Roman Catholic,74.2,0.0,,,2021.0
+LTU,lh,religion,2,Russian Orthodox,3.7,0.0,,,2021.0
+LTU,lh,religion,3,Old Believer,0.6,0.0,,,2021.0
+LTU,lh,religion,4,Evangelical Lutheran,0.6,0.0,,,2021.0
+LTU,lh,religion,5,Evangelical Reformist,0.2,0.0,,,2021.0
+LTU,lh,religion,6,other,0.9,0.0,,"including Sunni Muslim, Jewish, Greek Catholic, and Karaite",2021.0
+LTU,lh,religion,7,none,6.1,0.0,,,2021.0
+LTU,lh,religion,8,unspecified,13.7,0.0,,,2021.0
+LTU,lh,etnia,1,Lithuanian,84.6,0.0,,,2021.0
+LTU,lh,etnia,2,Polish,6.5,0.0,,,2021.0
+LTU,lh,etnia,3,Russian,5.0,0.0,,,2021.0
+LTU,lh,etnia,4,Belarusian,1.0,0.0,,,2021.0
+LTU,lh,etnia,5,other,1.1,0.0,,,2021.0
+LTU,lh,etnia,6,unspecified,1.8,0.0,,,2021.0
+LTU,lh,idioma,1,Lithuanian,85.3,0.0,1.0,official,2021.0
+LTU,lh,idioma,2,Russian,6.8,0.0,0.0,,2021.0
+LTU,lh,idioma,3,Polish,5.1,0.0,0.0,,2021.0
+LTU,lh,idioma,4,other,1.1,0.0,0.0,,2021.0
+LTU,lh,idioma,5,two mother tongues,1.7,0.0,0.0,,2021.0
+SVK,lo,religion,1,Roman Catholic,55.8,0.0,,,2021.0
+SVK,lo,religion,2,Evangelical Church of the Augsburg Confession,5.3,0.0,,,2021.0
+SVK,lo,religion,3,Greek Catholic,4.0,0.0,,,2021.0
+SVK,lo,religion,4,Reformed Christian,1.6,0.0,,,2021.0
+SVK,lo,religion,5,other,3.0,0.0,,,2021.0
+SVK,lo,religion,6,none,23.8,0.0,,,2021.0
+SVK,lo,religion,7,unspecified,6.5,0.0,,,2021.0
+SVK,lo,etnia,1,Slovak,83.8,0.0,,,2021.0
+SVK,lo,etnia,2,Hungarian,7.8,0.0,,,2021.0
+SVK,lo,etnia,3,Romani,1.2,0.0,,,2021.0
+SVK,lo,etnia,4,other,1.8,0.0,,"includes Czech, Ruthenian, Ukrainian, Russian, German, Polish",2021.0
+SVK,lo,etnia,5,unspecified,5.4,0.0,,,2021.0
+SVK,lo,idioma,1,Slovak,81.8,0.0,1.0,official,2021.0
+SVK,lo,idioma,2,Hungarian,8.5,0.0,0.0,,2021.0
+SVK,lo,idioma,3,Roma,1.8,0.0,0.0,,2021.0
+SVK,lo,idioma,4,other,2.2,0.0,0.0,,2021.0
+SVK,lo,idioma,5,unspecified,5.7,0.0,0.0,,2021.0
+LIE,ls,religion,1,Roman Catholic,73.4,0.0,,official,2015.0
+LIE,ls,religion,2,Protestant Reformed,6.3,0.0,,,2015.0
+LIE,ls,religion,3,Muslim,5.9,0.0,,,2015.0
+LIE,ls,religion,4,Christian Orthodox,1.3,0.0,,,2015.0
+LIE,ls,religion,5,Lutheran,1.2,0.0,,,2015.0
+LIE,ls,religion,6,other Protestant,0.7,0.0,,,2015.0
+LIE,ls,religion,7,other Christian,0.3,0.0,,,2015.0
+LIE,ls,religion,8,other,0.8,0.0,,,2015.0
+LIE,ls,religion,9,none,7.0,0.0,,,2015.0
+LIE,ls,religion,10,unspecified,3.3,0.0,,,2015.0
+LIE,ls,etnia,1,Liechtensteiner,65.6,0.0,,,2021.0
+LIE,ls,etnia,2,Swiss,9.6,0.0,,,2021.0
+LIE,ls,etnia,3,Austrian,5.8,0.0,,,2021.0
+LIE,ls,etnia,4,German,4.5,0.0,,,2021.0
+LIE,ls,etnia,5,Italian,3.1,0.0,,,2021.0
+LIE,ls,etnia,6,other,11.4,0.0,,,2021.0
+LIE,ls,idioma,1,German,91.5,0.0,1.0,"official, Alemannic is the main dialect",2015.0
+LIE,ls,idioma,2,Italian,1.5,0.0,0.0,,2015.0
+LIE,ls,idioma,3,Turkish,1.3,0.0,0.0,,2015.0
+LIE,ls,idioma,4,Portuguese,1.1,0.0,0.0,,2015.0
+LIE,ls,idioma,5,other,4.6,0.0,0.0,,2015.0
+LUX,lu,religion,1,Christian,70.6,0.0,,predominantly Roman Catholic,2020.0
+LUX,lu,religion,2,Muslim,2.3,0.0,,,2020.0
+LUX,lu,religion,3,other,0.4,0.0,,"includes Buddhist, folk religions, Hindu, Jewish",2020.0
+LUX,lu,religion,4,unaffiliated,26.7,0.0,,,2020.0
+LUX,lu,etnia,1,Luxembourger,52.9,0.0,,,2022.0
+LUX,lu,etnia,2,Portuguese,14.5,0.0,,,2022.0
+LUX,lu,etnia,3,French,7.6,0.0,,,2022.0
+LUX,lu,etnia,4,Italian,3.7,0.0,,,2022.0
+LUX,lu,etnia,5,Belgian,3.0,0.0,,,2022.0
+LUX,lu,etnia,6,German,2.0,0.0,,,2022.0
+LUX,lu,etnia,7,Spanish,1.3,0.0,,,2022.0
+LUX,lu,etnia,8,Romania,1.0,0.0,,,2022.0
+LUX,lu,etnia,9,other,14.0,0.0,,,2022.0
+LUX,lu,idioma,1,Luxembourgish,48.9,0.0,1.0,"official administrative, judicial, and national language",2021.0
+LUX,lu,idioma,2,Portuguese,15.4,0.0,0.0,,2021.0
+LUX,lu,idioma,3,French,14.9,0.0,1.0,"official administrative, judicial, and legislative language",2021.0
+LUX,lu,idioma,4,Italian,3.6,0.0,0.0,,2021.0
+LUX,lu,idioma,5,English,3.6,0.0,0.0,,2021.0
+LUX,lu,idioma,6,German,2.9,0.0,1.0,official administrative and judicial language,2021.0
+LUX,lu,idioma,7,other,10.8,0.0,0.0,,2021.0
+MDA,md,religion,1,Orthodox,90.1,0.0,,,2014.0
+MDA,md,religion,2,other Christian,2.6,0.0,,,2014.0
+MDA,md,religion,3,other,0.1,0.0,,,2014.0
+MDA,md,religion,4,agnostic,0.1,1.0,,,2014.0
+MDA,md,religion,5,atheist,0.2,0.0,,,2014.0
+MDA,md,religion,6,unspecified,6.9,0.0,,,2014.0
+MDA,md,etnia,1,Moldovan,75.1,0.0,,,2014.0
+MDA,md,etnia,2,Romanian,7.0,0.0,,,2014.0
+MDA,md,etnia,3,Ukrainian,6.6,0.0,,,2014.0
+MDA,md,etnia,4,Gagauz,4.6,0.0,,,2014.0
+MDA,md,etnia,5,Russian,4.1,0.0,,,2014.0
+MDA,md,etnia,6,Bulgarian,1.9,0.0,,,2014.0
+MDA,md,etnia,7,other,0.8,0.0,,,2014.0
+MDA,md,idioma,1,Moldovan/Romanian,80.2,0.0,1.0,official; 56.7% Moldovan; 23.5% Romanian,2014.0
+MDA,md,idioma,2,Russian,9.7,0.0,0.0,,2014.0
+MDA,md,idioma,3,Gagauz,4.2,0.0,0.0,a Turkish language,2014.0
+MDA,md,idioma,4,Ukrainian,3.9,0.0,0.0,,2014.0
+MDA,md,idioma,5,Bulgarian,1.5,0.0,0.0,,2014.0
+MDA,md,idioma,6,Romani,0.3,0.0,0.0,,2014.0
+MDA,md,idioma,7,other,0.2,0.0,0.0,,2014.0
+MNE,mj,religion,1,Orthodox,72.1,0.0,,,2011.0
+MNE,mj,religion,2,Muslim,19.1,0.0,,,2011.0
+MNE,mj,religion,3,Catholic,3.4,0.0,,,2011.0
+MNE,mj,religion,4,atheist,1.2,0.0,,,2011.0
+MNE,mj,religion,5,other,1.5,0.0,,,2011.0
+MNE,mj,religion,6,unspecified,2.6,0.0,,,2011.0
+MNE,mj,etnia,1,Montenegrin,45.0,0.0,,,2011.0
+MNE,mj,etnia,2,Serbian,28.7,0.0,,,2011.0
+MNE,mj,etnia,3,Bosniak,8.7,0.0,,,2011.0
+MNE,mj,etnia,4,Albanian,4.9,0.0,,,2011.0
+MNE,mj,etnia,5,Muslim,3.3,0.0,,,2011.0
+MNE,mj,etnia,6,Romani,1.0,0.0,,,2011.0
+MNE,mj,etnia,7,Croat,1.0,0.0,,,2011.0
+MNE,mj,etnia,8,other,2.6,0.0,,,2011.0
+MNE,mj,etnia,9,unspecified,4.9,0.0,,,2011.0
+MNE,mj,idioma,1,Serbian,42.9,0.0,0.0,,2011.0
+MNE,mj,idioma,2,Montenegrin,37.0,0.0,1.0,official,2011.0
+MNE,mj,idioma,3,Bosnian,5.3,0.0,0.0,,2011.0
+MNE,mj,idioma,4,Albanian,5.3,0.0,0.0,,2011.0
+MNE,mj,idioma,5,Serbo-Croat,2.0,0.0,0.0,,2011.0
+MNE,mj,idioma,6,other,3.5,0.0,0.0,,2011.0
+MNE,mj,idioma,7,unspecified,4.0,0.0,0.0,,2011.0
+MKD,mk,religion,1,Orthodox,46.1,0.0,,,
+MKD,mk,religion,2,Islam,32.2,0.0,,,
+MKD,mk,religion,3,Christian,13.2,0.0,,,
+MKD,mk,religion,4,Other,7.2,0.0,,,
+MKD,mk,etnia,1,Macedonian,58.4,0.0,,,2021.0
+MKD,mk,etnia,2,Albanian,24.3,0.0,,,2021.0
+MKD,mk,etnia,3,Turkish,3.9,0.0,,,2021.0
+MKD,mk,etnia,4,Romani,2.5,0.0,,,2021.0
+MKD,mk,etnia,5,Serb,1.3,0.0,,,2021.0
+MKD,mk,etnia,6,other,2.3,0.0,,,2021.0
+MKD,mk,etnia,7,no ethnic affiliation data available,7.2,0.0,,,2021.0
+MKD,mk,idioma,1,Macedonian,61.4,0.0,1.0,official,2021.0
+MKD,mk,idioma,2,Albanian,24.3,0.0,1.0,official,2021.0
+MKD,mk,idioma,3,Turkish,3.4,0.0,0.0,,2021.0
+MKD,mk,idioma,4,Romani,1.7,0.0,0.0,,2021.0
+MKD,mk,idioma,5,other,2.0,0.0,0.0,includes Aromanian (Vlach) and Bosnian,2021.0
+MKD,mk,idioma,6,unspecified,7.2,0.0,0.0,,2021.0
+MCO,mn,religion,1,Roman Catholic,90.0,0.0,,official,
+MCO,mn,religion,2,other,10.0,0.0,,,
+MCO,mn,etnia,1,Monegasque,32.1,0.0,,,2016.0
+MCO,mn,etnia,2,French,19.9,0.0,,,2016.0
+MCO,mn,etnia,3,Italian,15.3,0.0,,,2016.0
+MCO,mn,etnia,4,British,5.0,0.0,,,2016.0
+MCO,mn,etnia,5,Belgian,2.3,0.0,,,2016.0
+MCO,mn,etnia,6,Swiss,2.0,0.0,,,2016.0
+MCO,mn,etnia,7,German,1.9,0.0,,,2016.0
+MCO,mn,etnia,8,Russian,1.8,0.0,,,2016.0
+MCO,mn,etnia,9,American,1.1,0.0,,,2016.0
+MCO,mn,etnia,10,Dutch,1.1,0.0,,,2016.0
+MCO,mn,etnia,11,Moroccan,1.0,0.0,,,2016.0
+MCO,mn,etnia,12,other,16.6,0.0,,,2016.0
+MCO,mn,idioma,1,French,,,1.0,official,
+MCO,mn,idioma,2,English,,,0.0,,
+MCO,mn,idioma,3,Italian,,,0.0,,
+MCO,mn,idioma,4,Monegasque,,,0.0,,
+MLT,mt,religion,1,Roman Catholic  more than,90.0,0.0,,official,2006.0
+MLT,mt,etnia,1,Maltese,,,,descendants of ancient Carthaginians and Phoenicians with strong elements of Italian and other Mediterranean stock,
+MLT,mt,idioma,1,Maltese,90.1,0.0,1.0,official,2005.0
+MLT,mt,idioma,2,English,6.0,0.0,1.0,official,2005.0
+MLT,mt,idioma,3,multilingual,3.0,0.0,0.0,,2005.0
+MLT,mt,idioma,4,other,0.9,0.0,0.0,,2005.0
+NLD,nl,religion,1,Roman Catholic,20.1,0.0,,,2019.0
+NLD,nl,religion,2,Protestant,14.8,0.0,,"includes Dutch Reformed, Protestant Church of The Netherlands, Calvinist",2019.0
+NLD,nl,religion,3,Muslim,5.0,0.0,,,2019.0
+NLD,nl,religion,4,other,5.9,0.0,,"includes Hindu, Buddhist, Jewish",2019.0
+NLD,nl,religion,5,none,54.1,0.0,,,2019.0
+NLD,nl,etnia,1,Dutch,75.4,0.0,,,2021.0
+NLD,nl,etnia,2,EU,6.4,0.0,,excluding Dutch,2021.0
+NLD,nl,etnia,3,Turkish,2.4,0.0,,,2021.0
+NLD,nl,etnia,4,Moroccan,2.4,0.0,,,2021.0
+NLD,nl,etnia,5,Surinamese,2.1,0.0,,,2021.0
+NLD,nl,etnia,6,Indonesian,2.0,0.0,,,2021.0
+NLD,nl,etnia,7,other,9.3,0.0,,,2021.0
+NLD,nl,idioma,1,Dutch,,,1.0,official,
+NLD,nl,idioma,2,Frisian,,,1.0,official in Fryslan province,
+NOR,no,religion,1,Church of Norway,67.5,0.0,,Evangelical Lutheran - official,2021.0
+NOR,no,religion,2,Muslim,3.1,0.0,,,2021.0
+NOR,no,religion,3,Roman Catholic,3.1,0.0,,,2021.0
+NOR,no,religion,4,other Christian,3.8,0.0,,,2021.0
+NOR,no,religion,5,other,2.6,0.0,,,2021.0
+NOR,no,religion,6,unspecified,19.9,0.0,,,2021.0
+NOR,no,etnia,1,Norwegian,81.5,0.0,,"includes about 60,000 Sami",2021.0
+NOR,no,etnia,2,other European,8.9,0.0,,,2021.0
+NOR,no,etnia,3,other,9.6,0.0,,,2021.0
+NOR,no,idioma,1,Bokmal Norwegian,,,1.0,official,
+NOR,no,idioma,2,Nynorsk Norwegian,,,1.0,official,
+NOR,no,idioma,3,small Sami- and Finnish-speaking minorities,,,0.0,,
+POL,pl,religion,1,Roman Catholic,70.7,0.0,,,
+POL,pl,religion,2,refused to answer,20.9,0.0,,,
+POL,pl,religion,3,no religion,6.9,0.0,,,
+POL,pl,etnia,1,Polish,96.9,0.0,,,2011.0
+POL,pl,etnia,2,Silesian,1.1,0.0,,,2011.0
+POL,pl,etnia,3,German,0.2,0.0,,,2011.0
+POL,pl,etnia,4,Ukrainian,0.1,0.0,,,2011.0
+POL,pl,etnia,5,other and unspecified,1.7,0.0,,,2011.0
+POL,pl,idioma,1,Polish,98.2,0.0,1.0,official,2011.0
+POL,pl,idioma,2,Silesian,1.4,0.0,0.0,,2011.0
+POL,pl,idioma,3,other,1.1,0.0,0.0,,2011.0
+POL,pl,idioma,4,unspecified,1.2,0.0,0.0,,2011.0
+PRT,po,religion,1,Catholic,68.1,0.0,,,
+PRT,po,religion,2,not applicable,12.9,0.0,,,
+PRT,po,religion,3,no religion,12.0,0.0,,,
+PRT,po,religion,4,no response,2.2,0.0,,,
+PRT,po,religion,5,Protestant,1.8,0.0,,,
+PRT,po,religion,6,other,1.0,0.0,,,
+PRT,po,etnia,1,Portuguese,95.0,0.0,,,
+PRT,po,idioma,1,Portuguese,,,1.0,official,
+PRT,po,idioma,2,Mirandese,,,1.0,"official, but locally used",
+SRB,ri,religion,1,Serbian Orthodox,81.1,0.0,,,
+SRB,ri,religion,2,unknown,5.3,0.0,,,
+SRB,ri,religion,3,Islam,4.2,0.0,,,
+SRB,ri,religion,4,Catholic,3.9,0.0,,,
+SRB,ri,religion,5,no response,2.5,0.0,,,
+SRB,ri,religion,6,atheist,1.1,0.0,,,
+SRB,ri,etnia,1,Serb,83.3,0.0,,,2011.0
+SRB,ri,etnia,2,Hungarian,3.5,0.0,,,2011.0
+SRB,ri,etnia,3,Romani,2.1,0.0,,,2011.0
+SRB,ri,etnia,4,Bosniak,2.0,0.0,,,2011.0
+SRB,ri,etnia,5,other,5.7,0.0,,,2011.0
+SRB,ri,etnia,6,undeclared or unknown,3.4,0.0,,,2011.0
+SRB,ri,idioma,1,Serbian,88.1,0.0,1.0,official,2011.0
+SRB,ri,idioma,2,Hungarian,3.4,0.0,0.0,,2011.0
+SRB,ri,idioma,3,Bosnian,1.9,0.0,0.0,,2011.0
+SRB,ri,idioma,4,Romani,1.4,0.0,0.0,,2011.0
+SRB,ri,idioma,5,other,3.4,0.0,0.0,,2011.0
+SRB,ri,idioma,6,undeclared or unknown,1.8,0.0,0.0,,2011.0
+ROU,ro,religion,1,Romanian Orthodox,85.3,0.0,,,2021.0
+ROU,ro,religion,2,Roman Catholic,4.5,0.0,,,2021.0
+ROU,ro,religion,3,Reformed,3.0,0.0,,,2021.0
+ROU,ro,religion,4,Pentecostal,2.5,0.0,,,2021.0
+ROU,ro,religion,5,other,4.7,0.0,,,2021.0
+ROU,ro,etnia,1,Romanian,89.3,0.0,,,2021.0
+ROU,ro,etnia,2,Hungarian,6.0,0.0,,,2021.0
+ROU,ro,etnia,3,Romani,3.4,0.0,,,2021.0
+ROU,ro,etnia,4,Ukrainian,0.3,0.0,,,2021.0
+ROU,ro,etnia,5,German,0.1,0.0,,,2021.0
+ROU,ro,etnia,6,other,0.9,0.0,,,2021.0
+ROU,ro,idioma,1,Romanian,91.6,0.0,1.0,official,2021.0
+ROU,ro,idioma,2,Hungarian,6.3,0.0,0.0,,2021.0
+ROU,ro,idioma,3,Romani,1.2,0.0,0.0,,2021.0
+ROU,ro,idioma,4,other,0.7,0.0,0.0,,2021.0
+SVN,si,religion,1,Catholic,69.0,0.0,,,2019.0
+SVN,si,religion,2,Orthodox,4.0,0.0,,,2019.0
+SVN,si,religion,3,Muslim,3.0,0.0,,,2019.0
+SVN,si,religion,4,Christian,1.0,0.0,,,2019.0
+SVN,si,religion,5,other,3.0,0.0,,,2019.0
+SVN,si,religion,6,atheist,14.0,0.0,,,2019.0
+SVN,si,religion,7,non-believer/agnostic,4.0,0.0,,,2019.0
+SVN,si,religion,8,refused to answer,2.0,0.0,,,2019.0
+SVN,si,etnia,1,Slovene,83.1,0.0,,,2002.0
+SVN,si,etnia,2,Serb,2.0,0.0,,,2002.0
+SVN,si,etnia,3,Croat,1.8,0.0,,,2002.0
+SVN,si,etnia,4,Bosniak,1.1,0.0,,,2002.0
+SVN,si,etnia,5,other or unspecified,12.0,0.0,,,2002.0
+SVN,si,idioma,1,Slovene,87.7,0.0,1.0,official,2002.0
+SVN,si,idioma,2,Croatian,2.8,0.0,0.0,,2002.0
+SVN,si,idioma,3,Serbo-Croatian,1.8,0.0,0.0,,2002.0
+SVN,si,idioma,4,Bosnian,1.6,0.0,0.0,,2002.0
+SVN,si,idioma,5,Serbian,1.6,0.0,0.0,,2002.0
+SVN,si,idioma,6,Hungarian,0.4,0.0,1.0,"official, only in municipalities where Hungarian nationals reside",2002.0
+SVN,si,idioma,7,Italian,0.2,0.0,1.0,"official, only in municipalities where Italian nationals reside",2002.0
+SVN,si,idioma,8,other or unspecified,3.9,0.0,0.0,,2002.0
+SMR,sm,religion,1,Roman Catholic,,,,,
+SMR,sm,etnia,1,Sammarinese,,,,,
+SMR,sm,etnia,2,Italian,,,,,
+SMR,sm,idioma,1,Italian,,,0.0,,
+ESP,sp,religion,1,Roman Catholic,58.2,0.0,,,2021.0
+ESP,sp,religion,2,atheist,16.2,0.0,,,2021.0
+ESP,sp,religion,3,agnostic,10.8,0.0,,,2021.0
+ESP,sp,religion,4,other,2.7,0.0,,,2021.0
+ESP,sp,religion,5,non-believer,10.5,0.0,,,2021.0
+ESP,sp,religion,6,unspecified,1.7,0.0,,,2021.0
+ESP,sp,etnia,1,Spanish,84.8,0.0,,,2021.0
+ESP,sp,etnia,2,Moroccan,1.7,0.0,,,2021.0
+ESP,sp,etnia,3,Romanian,1.2,0.0,,,2021.0
+ESP,sp,etnia,4,other,12.3,0.0,,,2021.0
+ESP,sp,idioma,1,Castilian Spanish,74.0,0.0,1.0,official,
+ESP,sp,idioma,2,Catalan,17.0,0.0,1.0,"official in Catalonia, the Balearic Islands, and the Valencian Community",
+ESP,sp,idioma,3,Galician,7.0,0.0,1.0,official in Galicia,
+ESP,sp,idioma,4,Basque,2.0,0.0,1.0,official in the Basque Country and Navarre,
+ESP,sp,idioma,5,Aranese  <5,,,1.0,official in part of Catalonia,
+ESP,sp,idioma,6,000 speakers,,,0.0,,
+SJM,sv,etnia,1,Norwegian,61.1,0.0,,,2021.0
+SJM,sv,etnia,2,foreign population,38.9,0.0,,"consists primarily of Russians, Thais, Swedes, Filipinos, and Ukrainians",2021.0
+SJM,sv,idioma,1,Norwegian,,,0.0,,
+SJM,sv,idioma,2,Russian,,,0.0,,
+SWE,sw,religion,1,Church of Sweden,53.9,0.0,,Lutheran,2021.0
+SWE,sw,religion,2,other,8.9,0.0,,"includes Roman Catholic, Orthodox, Baptist, Muslim, Jewish, and Buddhist",2021.0
+SWE,sw,religion,3,none or unspecified,37.2,0.0,,,2021.0
+SWE,sw,etnia,1,Swedish,79.6,0.0,,,2022.0
+SWE,sw,etnia,2,Syrian,1.9,0.0,,,2022.0
+SWE,sw,etnia,3,Iraqi,1.4,0.0,,,2022.0
+SWE,sw,etnia,4,Finnish,1.3,0.0,,,2022.0
+SWE,sw,etnia,5,other,15.8,0.0,,,2022.0
+SWE,sw,idioma,1,Swedish,,,1.0,official,
+CHE,sz,religion,1,Roman Catholic,34.4,0.0,,,2020.0
+CHE,sz,religion,2,Protestant,22.5,0.0,,,2020.0
+CHE,sz,religion,3,other Christian,5.7,0.0,,,2020.0
+CHE,sz,religion,4,Muslim,5.4,0.0,,,2020.0
+CHE,sz,religion,5,other,1.5,0.0,,,2020.0
+CHE,sz,religion,6,none,29.4,0.0,,,2020.0
+CHE,sz,religion,7,unspecified,1.1,0.0,,,2020.0
+CHE,sz,etnia,1,Swiss,69.2,0.0,,,2020.0
+CHE,sz,etnia,2,German,4.2,0.0,,,2020.0
+CHE,sz,etnia,3,Italian,3.2,0.0,,,2020.0
+CHE,sz,etnia,4,Portuguese,2.5,0.0,,,2020.0
+CHE,sz,etnia,5,French,2.1,0.0,,,2020.0
+CHE,sz,etnia,6,Kosovan,1.1,0.0,,,2020.0
+CHE,sz,etnia,7,Turkish,1.0,0.0,,,2020.0
+CHE,sz,etnia,8,other,16.7,0.0,,,2020.0
+CHE,sz,idioma,1,German,62.1,0.0,1.0,or Swiss German; official,2019.0
+CHE,sz,idioma,2,French,22.8,0.0,1.0,official,2019.0
+CHE,sz,idioma,3,Italian,8.0,0.0,1.0,official,2019.0
+CHE,sz,idioma,4,English,5.7,0.0,0.0,,2019.0
+CHE,sz,idioma,5,Portuguese,3.5,0.0,0.0,,2019.0
+CHE,sz,idioma,6,Albanian,3.3,0.0,0.0,,2019.0
+CHE,sz,idioma,7,Serbo-Croatian,2.3,0.0,0.0,,2019.0
+CHE,sz,idioma,8,Spanish,2.3,0.0,0.0,,2019.0
+CHE,sz,idioma,9,Romansh,0.5,0.0,1.0,official,2019.0
+CHE,sz,idioma,10,other,7.9,0.0,0.0,,2019.0
+GBR,uk,religion,1,Christian,59.5,0.0,,"includes Anglican, Roman Catholic, Presbyterian, Methodist",2011.0
+GBR,uk,religion,2,Muslim,4.4,0.0,,,2011.0
+GBR,uk,religion,3,Hindu,1.3,0.0,,,2011.0
+GBR,uk,religion,4,other,2.0,0.0,,,2011.0
+GBR,uk,religion,5,unspecified,7.2,0.0,,,2011.0
+GBR,uk,religion,6,none,25.7,0.0,,,2011.0
+GBR,uk,etnia,1,White,87.2,0.0,,,2011.0
+GBR,uk,etnia,2,Black/African/Caribbean/black British,3.0,0.0,,,2011.0
+GBR,uk,etnia,3,Asian/Asian British: Indian,2.3,0.0,,,2011.0
+GBR,uk,etnia,4,Asian/Asian British: Pakistani,1.9,0.0,,,2011.0
+GBR,uk,etnia,5,mixed,2.0,0.0,,,2011.0
+GBR,uk,etnia,6,other,3.7,0.0,,,2011.0
+GBR,uk,idioma,1,English,,,0.0,,
+UKR,up,religion,1,Orthodox,,,,"includes the Orthodox Church of Ukraine (OCU), Ukrainian Autocephalous Orthodox Church (UAOC), and the Ukrainian Orthodox - Moscow Patriarchate (UOC-MP)",2013.0
+UKR,up,religion,2,Ukrainian Greek Catholic,,,,,2013.0
+UKR,up,religion,3,Roman Catholic,,,,,2013.0
+UKR,up,religion,4,Protestant,,,,,2013.0
+UKR,up,religion,5,Muslim,,,,,2013.0
+UKR,up,religion,6,Jewish,,,,,2013.0
+UKR,up,etnia,1,Ukrainian,77.8,0.0,,,2001.0
+UKR,up,etnia,2,Russian,17.3,0.0,,,2001.0
+UKR,up,etnia,3,Belarusian,0.6,0.0,,,2001.0
+UKR,up,etnia,4,Moldovan,0.5,0.0,,,2001.0
+UKR,up,etnia,5,Crimean Tatar,0.5,0.0,,,2001.0
+UKR,up,etnia,6,Bulgarian,0.4,0.0,,,2001.0
+UKR,up,etnia,7,Hungarian,0.3,0.0,,,2001.0
+UKR,up,etnia,8,Romanian,0.3,0.0,,,2001.0
+UKR,up,etnia,9,Polish,0.3,0.0,,,2001.0
+UKR,up,etnia,10,Jewish,0.2,0.0,,,2001.0
+UKR,up,etnia,11,other,1.8,0.0,,,2001.0
+UKR,up,idioma,1,Ukrainian,67.5,0.0,1.0,official,2001.0
+UKR,up,idioma,2,Russian,29.6,0.0,0.0,regional language,2001.0
+UKR,up,idioma,3,other,2.9,0.0,0.0,"includes Crimean Tatar, Moldovan/Romanian, and Hungarian",2001.0
+VAT,vt,religion,1,Roman Catholic,,,,,
+VAT,vt,etnia,1,Italian,,,,,2017.0
+VAT,vt,etnia,2,Swiss,,,,,2017.0
+VAT,vt,etnia,3,Argentinian,,,,,2017.0
+VAT,vt,etnia,4,other nationalities from around the world,,,,,2017.0
+VAT,vt,idioma,1,Italian,,,0.0,,
+VAT,vt,idioma,2,Latin,,,0.0,,
+VAT,vt,idioma,3,French,,,0.0,,
+VAT,vt,idioma,4,various other languages,,,0.0,,
+ARE,ae,religion,1,Muslim,74.5,0.0,,"official; Sunni 63.3%, Shia 6.7%, other 4.4%",2020.0
+ARE,ae,religion,2,Christian,12.9,0.0,,,2020.0
+ARE,ae,religion,3,Hindu,6.2,0.0,,,2020.0
+ARE,ae,religion,4,Buddhist,3.2,0.0,,,2020.0
+ARE,ae,religion,5,agnostic,1.3,0.0,,,2020.0
+ARE,ae,religion,6,other,1.9,0.0,,,2020.0
+ARE,ae,etnia,1,Emirati,11.6,0.0,,,2015.0
+ARE,ae,etnia,2,South Asian,59.4,0.0,,"includes Indian 38.2%, Bangladeshi 9.5%, Pakistani 9.4%, other 2.3%",2015.0
+ARE,ae,etnia,3,Egyptian,10.2,0.0,,,2015.0
+ARE,ae,etnia,4,Filipino,6.1,0.0,,,2015.0
+ARE,ae,etnia,5,other,12.8,0.0,,,2015.0
+ARE,ae,idioma,1,Arabic,,,1.0,official,
+ARE,ae,idioma,2,English,,,0.0,,
+ARE,ae,idioma,3,Hindi,,,0.0,,
+ARE,ae,idioma,4,Malayalam,,,0.0,,
+ARE,ae,idioma,5,Urdu,,,0.0,,
+ARE,ae,idioma,6,Pashto,,,0.0,,
+ARE,ae,idioma,7,Tagalog,,,0.0,,
+ARE,ae,idioma,8,Persian,,,0.0,,
+AZE,aj,religion,1,Muslim,97.3,0.0,,predominantly Shia,2020.0
+AZE,aj,religion,2,Christian,2.6,0.0,,,2020.0
+AZE,aj,religion,3,other <0.1,,,,,2020.0
+AZE,aj,religion,4,unaffiliated <0.1,,,,,2020.0
+AZE,aj,etnia,1,Azerbaijani,94.8,0.0,,,
+AZE,aj,etnia,2,other,1.8,0.0,,,
+AZE,aj,idioma,1,Azerbaijani,96.1,0.0,0.0,,
+AZE,aj,idioma,2,other,1.4,0.0,0.0,,
+ARM,am,religion,1,Armenian Apostolic,95.2,0.0,,,
+ARM,am,religion,2,not stated,1.7,0.0,,,
+ARM,am,etnia,1,Armenian,98.1,0.0,,,
+ARM,am,etnia,2,Yezidi,1.1,0.0,,,
+ARM,am,idioma,1,Armenian,97.2,0.0,0.0,,
+ARM,am,idioma,2,Russian,1.4,0.0,0.0,,
+ARM,am,idioma,3,Ezidian,1.0,0.0,0.0,,
+BHR,ba,religion,1,Muslim,74.2,0.0,,,
+BHR,ba,religion,2,other,25.9,0.0,,2020 est,
+BHR,ba,etnia,1,Bahraini,47.4,0.0,,,2020.0
+BHR,ba,etnia,2,Asian,43.4,0.0,,,2020.0
+BHR,ba,etnia,3,other Arab,4.9,0.0,,,2020.0
+BHR,ba,etnia,4,African,1.4,0.0,,,2020.0
+BHR,ba,etnia,5,North American,1.1,0.0,,,2020.0
+BHR,ba,etnia,6,Gulf Co-operative countries,0.9,0.0,,,2020.0
+BHR,ba,etnia,7,European,0.8,0.0,,,2020.0
+BHR,ba,etnia,8,other,0.1,0.0,,,2020.0
+BHR,ba,idioma,1,Arabic,,,1.0,official,
+BHR,ba,idioma,2,English,,,0.0,,
+BHR,ba,idioma,3,Farsi,,,0.0,,
+BHR,ba,idioma,4,Urdu,,,0.0,,
+GEO,gg,religion,1,Eastern Orthodox Christian,83.4,0.0,,official,2014.0
+GEO,gg,religion,2,Muslim,10.7,0.0,,,2014.0
+GEO,gg,religion,3,Armenian Apostolic Christian,2.9,0.0,,,2014.0
+GEO,gg,religion,4,other,1.2,0.0,,"includes Roman Catholic Christian, Jehovah's Witness, Yazidi, Protestant Christian, Jewish",2014.0
+GEO,gg,religion,5,none,0.5,0.0,,,2014.0
+GEO,gg,religion,6,unspecified/no answer,1.2,0.0,,,2014.0
+GEO,gg,etnia,1,Georgian,86.8,0.0,,,2014.0
+GEO,gg,etnia,2,Azeri,6.3,0.0,,,2014.0
+GEO,gg,etnia,3,Armenian,4.5,0.0,,,2014.0
+GEO,gg,etnia,4,other,2.3,0.0,,"includes Russian, Ossetian, Yazidi, Ukrainian, Kist, Greek",2014.0
+GEO,gg,idioma,1,Georgian,87.6,0.0,1.0,official,2014.0
+GEO,gg,idioma,2,Azeri,6.2,0.0,0.0,,2014.0
+GEO,gg,idioma,3,Armenian,3.9,0.0,0.0,,2014.0
+GEO,gg,idioma,4,Russian,1.2,0.0,0.0,,2014.0
+GEO,gg,idioma,5,other,1.0,0.0,1.0,"including Abkhaz, the official language in Abkhazia",2014.0
+PSE,gz,religion,1,Muslim 98.0 -,99.0,0.0,,predominantly Sunni,2012.0
+PSE,gz,religion,2,Christian,1.0,1.0,,,2012.0
+PSE,gz,religion,3,other,,,,,2012.0
+PSE,gz,religion,4,unaffiliated,,,,,2012.0
+PSE,gz,religion,5,unspecified,1.0,1.0,,,2012.0
+PSE,gz,etnia,1,Palestinian Arab,,,,,
+PSE,gz,idioma,1,Arabic,,,0.0,,
+PSE,gz,idioma,2,Hebrew,,,0.0,spoken by many Palestinians,
+PSE,gz,idioma,3,English,,,0.0,widely understood,
+IRN,ir,religion,1,Muslim,98.5,0.0,,official,2020.0
+IRN,ir,religion,2,Christian,0.7,0.0,,,2020.0
+IRN,ir,religion,3,Baha'i,0.3,0.0,,,2020.0
+IRN,ir,religion,4,agnostic,0.3,0.0,,,2020.0
+IRN,ir,religion,5,other,0.2,0.0,,"includes Zoroastrian, Jewish, Hindu",2020.0
+IRN,ir,etnia,1,Persian,,,,,
+IRN,ir,etnia,2,Azeri,,,,,
+IRN,ir,etnia,3,Kurd,,,,,
+IRN,ir,etnia,4,Lur,,,,,
+IRN,ir,etnia,5,Baloch,,,,,
+IRN,ir,etnia,6,Arab,,,,,
+IRN,ir,etnia,7,Turkmen,,,,,
+IRN,ir,etnia,8,Turkic tribes,,,,,
+IRN,ir,idioma,1,Persian Farsi,,,1.0,official,
+IRN,ir,idioma,2,Azeri and other Turkic dialects,,,0.0,,
+IRN,ir,idioma,3,Kurdish,,,0.0,,
+IRN,ir,idioma,4,Gilaki and Mazandarani,,,0.0,,
+IRN,ir,idioma,5,Luri,,,0.0,,
+IRN,ir,idioma,6,Balochi,,,0.0,,
+IRN,ir,idioma,7,Arabic,,,0.0,,
+ISR,is,religion,1,Jewish,73.5,0.0,,,2022.0
+ISR,is,religion,2,Muslim,18.1,0.0,,,2022.0
+ISR,is,religion,3,Christian,1.9,0.0,,,2022.0
+ISR,is,religion,4,Druze,1.6,0.0,,,2022.0
+ISR,is,religion,5,other,4.9,0.0,,,2022.0
+ISR,is,etnia,1,Jewish,73.5,0.0,,"of which Israel-born 79.7%, Europe/America/Oceania-born 14.3%, Africa-born 3.9%, Asia-born 2.1%",2022.0
+ISR,is,etnia,2,Arab,21.1,0.0,,,2022.0
+ISR,is,etnia,3,other,5.4,0.0,,,2022.0
+ISR,is,idioma,1,Hebrew,,,1.0,official,
+ISR,is,idioma,2,Arabic,,,0.0,special status under Israeli law,
+ISR,is,idioma,3,English,,,0.0,most commonly used foreign language,
+IRQ,iz,religion,1,Muslim  95-,98.0,0.0,,"official; Shia 61-64%, Sunni 29-34%",2015.0
+IRQ,iz,religion,2,Christian,1.0,0.0,,"includes Catholic, Orthodox, Protestant, Assyrian Church of the East",2015.0
+IRQ,iz,religion,3,other 1-,4.0,0.0,,,2015.0
+IRQ,iz,etnia,1,Arab 75-,80.0,0.0,,,
+IRQ,iz,etnia,2,Kurdish 15-,20.0,0.0,,,
+IRQ,iz,etnia,3,other,5.0,0.0,,"includes Turkmen, Yezidi, Shabak, Kaka'i, Bedouin, Romani, Assyrian, Circassian, Sabaean-Mandaean, Persian",
+IRQ,iz,idioma,1,Arabic,,,1.0,official,
+IRQ,iz,idioma,2,Kurdish,,,1.0,official,
+JOR,jo,religion,1,Muslim,97.1,0.0,,official; predominantly Sunni,2020.0
+JOR,jo,religion,2,Christian,2.1,0.0,,"majority Greek Orthodox, but some Greek and Roman Catholics, Syrian Orthodox, Coptic Orthodox, Armenian Orthodox, and Protestant denominations",2020.0
+JOR,jo,religion,3,Buddhist,0.4,0.0,,,2020.0
+JOR,jo,religion,4,Hindu,0.1,0.0,,,2020.0
+JOR,jo,religion,5,Jewish,0.1,1.0,,,2020.0
+JOR,jo,religion,6,folk,0.1,1.0,,,2020.0
+JOR,jo,religion,7,other,0.1,1.0,,,2020.0
+JOR,jo,religion,8,unaffiliated,0.1,1.0,,,2020.0
+JOR,jo,etnia,1,Jordanian,69.3,0.0,,,2015.0
+JOR,jo,etnia,2,Syrian,13.3,0.0,,,2015.0
+JOR,jo,etnia,3,Palestinian,6.7,0.0,,,2015.0
+JOR,jo,etnia,4,Egyptian,6.7,0.0,,,2015.0
+JOR,jo,etnia,5,Iraqi,1.4,0.0,,,2015.0
+JOR,jo,etnia,6,other,2.6,0.0,,,2015.0
+JOR,jo,idioma,1,Arabic,,,1.0,official,
+JOR,jo,idioma,2,English,,,0.0,widely understood among upper and middle classes,
+KWT,ku,religion,1,Muslim,74.6,0.0,,official,2013.0
+KWT,ku,religion,2,Christian,18.2,0.0,,,2013.0
+KWT,ku,religion,3,other and unspecified,7.2,0.0,,,2013.0
+KWT,ku,etnia,1,Kuwaiti,30.4,0.0,,,2018.0
+KWT,ku,etnia,2,other Arab,27.4,0.0,,,2018.0
+KWT,ku,etnia,3,Asian,40.3,0.0,,,2018.0
+KWT,ku,etnia,4,African,1.0,0.0,,,2018.0
+KWT,ku,etnia,5,other,0.9,0.0,,"includes European, North American, South American, and Australian",2018.0
+KWT,ku,idioma,1,Arabic,,,1.0,official,
+KWT,ku,idioma,2,English widely spoken,,,0.0,,
+LBN,le,religion,1,Muslim,67.8,0.0,,"31.9% Sunni, 31.2% Shia, smaller percentages of Alawites and Ismailis",2020.0
+LBN,le,religion,2,Christian,32.4,0.0,,Maronite Catholics are the largest Christian group,2020.0
+LBN,le,religion,3,Druze,4.5,0.0,,,2020.0
+LBN,le,religion,4,very small numbers of Jews,,,,,2020.0
+LBN,le,religion,5,Baha'is,,,,,2020.0
+LBN,le,religion,6,Buddhists,,,,,2020.0
+LBN,le,religion,7,Hindus,,,,,2020.0
+LBN,le,etnia,1,Arab,95.0,0.0,,,
+LBN,le,etnia,2,Armenian,4.0,0.0,,,
+LBN,le,etnia,3,other,1.0,0.0,,,
+LBN,le,idioma,1,Arabic,,,1.0,official,
+LBN,le,idioma,2,French,,,0.0,,
+LBN,le,idioma,3,English,,,0.0,,
+LBN,le,idioma,4,Armenian,,,0.0,,
+OMN,mu,religion,1,Muslim,85.9,0.0,,,2020.0
+OMN,mu,religion,2,Christian,6.4,0.0,,,2020.0
+OMN,mu,religion,3,Hindu,5.7,0.0,,,2020.0
+OMN,mu,religion,4,other and unaffiliated,2.0,0.0,,,2020.0
+OMN,mu,etnia,1,Arab,,,,,
+OMN,mu,etnia,2,Baluchi,,,,,
+OMN,mu,etnia,3,South Asian,,,,"Indian, Pakistani, Sri Lankan, Bangladeshi",
+OMN,mu,etnia,4,African,,,,,
+OMN,mu,idioma,1,Arabic,,,1.0,official,
+OMN,mu,idioma,2,English,,,0.0,,
+OMN,mu,idioma,3,Baluchi,,,0.0,,
+OMN,mu,idioma,4,Swahili,,,0.0,,
+OMN,mu,idioma,5,Urdu,,,0.0,,
+OMN,mu,idioma,6,Indian dialects,,,0.0,,
+QAT,qa,religion,1,Muslim,65.2,0.0,,,2020.0
+QAT,qa,religion,2,Christian,13.7,0.0,,,2020.0
+QAT,qa,religion,3,Hindu,15.9,0.0,,,2020.0
+QAT,qa,religion,4,Buddhist,3.8,0.0,,,2020.0
+QAT,qa,religion,5,folk religion,0.1,1.0,,,2020.0
+QAT,qa,religion,6,Jewish,0.1,1.0,,,2020.0
+QAT,qa,religion,7,other,1.0,1.0,,,2020.0
+QAT,qa,religion,8,unaffiliated,1.0,1.0,,,2020.0
+QAT,qa,etnia,1,non-Qatari,88.4,0.0,,,2015.0
+QAT,qa,etnia,2,Qatari,11.6,0.0,,,2015.0
+QAT,qa,idioma,1,Arabic,,,1.0,official,
+QAT,qa,idioma,2,English commonly used as a second language,,,0.0,,
+SAU,sa,religion,1,Muslim,,,,official; citizens are 85-90% Sunni and 10-12% Shia,2020.0
+SAU,sa,religion,2,other,,,,"includes Eastern Orthodox, Protestant, Roman Catholic, Jewish, Hindu, Buddhist, and Sikh",2020.0
+SAU,sa,etnia,1,Arab,90.0,0.0,,,
+SAU,sa,etnia,2,Afro-Asian,10.0,0.0,,,
+SAU,sa,idioma,1,Arabic,,,1.0,official,
+SYR,sy,religion,1,Muslim,87.0,0.0,,"official; includes Sunni 74% and Alawi, Ismaili, and Shia 13%",
+SYR,sy,religion,2,Christian,10.0,0.0,,"includes Orthodox, Uniate, and Nestorian",
+SYR,sy,religion,3,Druze,3.0,0.0,,,
+SYR,sy,etnia,1,Arab ~,50.0,0.0,,,
+SYR,sy,etnia,2,Alawite ~,15.0,0.0,,,
+SYR,sy,etnia,3,Kurd ~,10.0,0.0,,,
+SYR,sy,etnia,4,Levantine ~,10.0,0.0,,,
+SYR,sy,etnia,5,other ~,15.0,0.0,,"includes Druze, Ismaili, Imami, Nusairi, Assyrian, Turkoman, Armenian",
+SYR,sy,idioma,1,Arabic,,,1.0,official,
+SYR,sy,idioma,2,Kurdish,,,0.0,,
+SYR,sy,idioma,3,Armenian,,,0.0,,
+SYR,sy,idioma,4,Aramaic,,,0.0,,
+SYR,sy,idioma,5,Circassian,,,0.0,,
+SYR,sy,idioma,6,French,,,0.0,,
+SYR,sy,idioma,7,English,,,0.0,,
+TUR,tu,religion,1,Muslim,99.8,0.0,,mostly Sunni,
+TUR,tu,religion,2,other,0.2,0.0,,mostly Christians and Jews,
+TUR,tu,etnia,1,Turkish 70-,75.0,0.0,,,2016.0
+TUR,tu,etnia,2,Kurdish,19.0,0.0,,,2016.0
+TUR,tu,etnia,3,other minorities 6-,11.0,0.0,,,2016.0
+TUR,tu,idioma,1,Turkish,,,1.0,official,
+TUR,tu,idioma,2,Kurdish,,,0.0,,
+TUR,tu,idioma,3,other minority languages,,,0.0,,
+PSE,we,religion,1,Muslim 80-,85.0,0.0,,predominantly Sunni,2012.0
+PSE,we,religion,2,Jewish 12-,14.0,0.0,,,2012.0
+PSE,we,religion,3,Christian 1-,2.5,0.0,,mainly Greek Orthodox,2012.0
+PSE,we,religion,4,other,,,,,2012.0
+PSE,we,religion,5,unaffiliated,,,,,2012.0
+PSE,we,religion,6,unspecified,1.0,1.0,,,2012.0
+PSE,we,etnia,1,Palestinian Arab,,,,,
+PSE,we,etnia,2,Jewish,,,,,
+PSE,we,etnia,3,other,,,,,
+PSE,we,idioma,1,Arabic,,,0.0,,
+PSE,we,idioma,2,Hebrew,,,0.0,spoken by Israeli settlers and many Palestinians,
+PSE,we,idioma,3,English,,,0.0,widely understood,
+YEM,ym,religion,1,Muslim,99.1,0.0,,"official; virtually all are citizens, an estimated 65% are Sunni and 35% are Shia",2020.0
+YEM,ym,religion,2,other,0.9,0.0,,"includes Jewish, Baha'i, Hindu, and Christian; many are refugees or temporary foreign residents",2020.0
+YEM,ym,etnia,1,predominantly Arab,,,,,
+YEM,ym,idioma,1,Arabic,,,1.0,official,
+BMU,bd,religion,1,Protestant,46.2,0.0,,"includes Anglican 15.8%, African Methodist Episcopal 8.6%, Seventh Day Adventist 6.7%, Pentecostal 3.5%, Methodist 2.7%, Presbyterian 2.0%, Church of God 1.6%, Baptist 1.2%, Salvation Army 1.1%, Brethren 1.0%, other Protestant 2.0%",2010.0
+BMU,bd,religion,2,Roman Catholic,14.5,0.0,,,2010.0
+BMU,bd,religion,3,Jehovah's Witness,1.3,0.0,,,2010.0
+BMU,bd,religion,4,other Christian,9.1,0.0,,,2010.0
+BMU,bd,religion,5,Muslim,1.0,0.0,,,2010.0
+BMU,bd,religion,6,other,3.9,0.0,,,2010.0
+BMU,bd,religion,7,none,17.8,0.0,,,2010.0
+BMU,bd,religion,8,unspecified,6.2,0.0,,,2010.0
+BMU,bd,etnia,1,African descent,52.0,0.0,,,2010.0
+BMU,bd,etnia,2,White,31.0,0.0,,,2010.0
+BMU,bd,etnia,3,mixed,9.0,0.0,,,2010.0
+BMU,bd,etnia,4,Asian,4.0,0.0,,,2010.0
+BMU,bd,etnia,5,other,4.0,0.0,,,2010.0
+BMU,bd,idioma,1,English,,,1.0,official,
+BMU,bd,idioma,2,Portuguese,,,0.0,,
+CAN,ca,religion,1,Christian,53.3,0.0,,,2021.0
+CAN,ca,religion,2,Muslim,4.9,0.0,,,2021.0
+CAN,ca,religion,3,Hindu,2.3,0.0,,,2021.0
+CAN,ca,religion,4,Sikh,2.1,0.0,,,2021.0
+CAN,ca,religion,5,Buddhist,1.0,0.0,,,2021.0
+CAN,ca,religion,6,Jewish,0.9,0.0,,,2021.0
+CAN,ca,religion,7,Traditional,0.2,0.0,,North American Indigenous,2021.0
+CAN,ca,religion,8,other religions and traditional spirituality,0.6,0.0,,,2021.0
+CAN,ca,religion,9,none,34.6,0.0,,,2021.0
+CAN,ca,etnia,1,Canadian,15.6,0.0,,,2021.0
+CAN,ca,etnia,2,English,14.7,0.0,,,2021.0
+CAN,ca,etnia,3,Scottish,12.1,0.0,,,2021.0
+CAN,ca,etnia,4,French,11.0,0.0,,,2021.0
+CAN,ca,etnia,5,Irish,12.1,0.0,,,2021.0
+CAN,ca,etnia,6,German,8.1,0.0,,,2021.0
+CAN,ca,etnia,7,Chinese,4.7,0.0,,,2021.0
+CAN,ca,etnia,8,Italian,4.3,0.0,,,2021.0
+CAN,ca,etnia,9,First Nations,1.7,0.0,,,2021.0
+CAN,ca,etnia,10,Indian,3.7,0.0,,,2021.0
+CAN,ca,etnia,11,Ukrainian,3.5,0.0,,,2021.0
+CAN,ca,etnia,12,Metis,1.5,0.0,,,2021.0
+CAN,ca,idioma,1,English,87.1,0.0,1.0,official,2022.0
+CAN,ca,idioma,2,French,29.1,0.0,1.0,official,2022.0
+CAN,ca,idioma,3,Chinese languages,4.2,0.0,0.0,,2022.0
+CAN,ca,idioma,4,Spanish,3.2,0.0,0.0,,2022.0
+CAN,ca,idioma,5,Punjabi,2.6,0.0,0.0,,2022.0
+CAN,ca,idioma,6,Arabic,2.4,0.0,0.0,,2022.0
+CAN,ca,idioma,7,Tagalog,2.3,0.0,0.0,,2022.0
+CAN,ca,idioma,8,Italian,1.5,0.0,0.0,,2022.0
+GRL,gl,religion,1,Evangelical Lutheran,,,,,
+GRL,gl,religion,2,traditional Inuit spiritual beliefs,,,,,
+GRL,gl,etnia,1,Greenlandic,88.1,0.0,,,2024.0
+GRL,gl,etnia,2,Danish,7.1,0.0,,,2024.0
+GRL,gl,etnia,3,Filipino,1.6,0.0,,,2024.0
+GRL,gl,etnia,4,other Nordic peoples,0.9,0.0,,,2024.0
+GRL,gl,etnia,5,other,2.3,0.0,,,2024.0
+GRL,gl,idioma,1,Greenlandic,,,0.0,,
+GRL,gl,idioma,2,Danish,,,0.0,,
+GRL,gl,idioma,3,English,,,0.0,,
+MEX,mx,religion,1,Catholic,77.7,0.0,,,
+MEX,mx,religion,2,no religion,10.6,0.0,,,
+MEX,mx,religion,3,other Evangelical Churches,7.5,0.0,,,
+MEX,mx,religion,4,Jehovah Witness,1.2,0.0,,,
+MEX,mx,etnia,1,Mestizo,62.0,0.0,,Indigenous-Spanish,2012.0
+MEX,mx,etnia,2,predominantly Indigenous,21.0,0.0,,,2012.0
+MEX,mx,etnia,3,Indigenous,7.0,0.0,,,2012.0
+MEX,mx,etnia,4,other,10.0,0.0,,mostly European,2012.0
+MEX,mx,idioma,1,Spanish only,93.8,0.0,0.0,,2020.0
+MEX,mx,idioma,2,Spanish and indigenous languages,5.4,0.0,0.0,"including Mayan, Nahuatl, and others",2020.0
+MEX,mx,idioma,3,indigenous only,0.6,0.0,0.0,,2020.0
+MEX,mx,idioma,4,unspecified,0.2,0.0,0.0,,2020.0
+SPM,sb,religion,1,Roman Catholic,99.0,0.0,,,
+SPM,sb,religion,2,other,1.0,0.0,,,
+SPM,sb,etnia,1,Basques and Bretons,,,,French fishermen,
+SPM,sb,idioma,1,French,,,1.0,official,
+USA,us,religion,1,Protestant,46.5,0.0,,,2014.0
+USA,us,religion,2,Roman Catholic,20.8,0.0,,,2014.0
+USA,us,religion,3,Jewish,1.9,0.0,,,2014.0
+USA,us,religion,4,Church of Jesus Christ,1.6,0.0,,,2014.0
+USA,us,religion,5,other Christian,0.9,0.0,,,2014.0
+USA,us,religion,6,Muslim,0.9,0.0,,,2014.0
+USA,us,religion,7,Jehovah's Witness,0.8,0.0,,,2014.0
+USA,us,religion,8,Buddhist,0.7,0.0,,,2014.0
+USA,us,religion,9,Hindu,0.7,0.0,,,2014.0
+USA,us,religion,10,other,1.8,0.0,,,2014.0
+USA,us,religion,11,unaffiliated,22.8,0.0,,,2014.0
+USA,us,religion,12,don't know/refused,0.6,0.0,,,2014.0
+USA,us,etnia,1,White,61.6,0.0,,,2020.0
+USA,us,etnia,2,Black or African American,12.4,0.0,,,2020.0
+USA,us,etnia,3,Asian,6.0,0.0,,,2020.0
+USA,us,etnia,4,Indigenous and Alaska native,1.1,0.0,,,2020.0
+USA,us,etnia,5,Native Hawaiian and Other Pacific Islander,0.2,0.0,,,2020.0
+USA,us,etnia,6,other,8.4,0.0,,,2020.0
+USA,us,etnia,7,two or more races,10.2,0.0,,,2020.0
+USA,us,idioma,1,English only,78.2,0.0,1.0,official,2017.0
+USA,us,idioma,2,Spanish,13.4,0.0,0.0,,2017.0
+USA,us,idioma,3,Chinese,1.1,0.0,0.0,,2017.0
+USA,us,idioma,4,other,7.3,0.0,0.0,,2017.0
+ARG,ar,religion,1,Roman Catholic,62.9,0.0,,,2019.0
+ARG,ar,religion,2,Evangelical,15.3,0.0,,"Pentecostal 13%, other Evangelical 2.3%",2019.0
+ARG,ar,religion,3,Jehovah's Witness and Church of Jesus Christ,1.4,0.0,,,2019.0
+ARG,ar,religion,4,other,1.2,0.0,,"includes Muslim, Jewish",2019.0
+ARG,ar,religion,5,none,18.9,0.0,,includes agnostic and atheist,2019.0
+ARG,ar,religion,6,unspecified,0.3,0.0,,,2019.0
+ARG,ar,etnia,1,European  and Mestizo,97.2,0.0,,mostly Spanish and Italian descent; mixed European and Indigenous ancestry,2010.0
+ARG,ar,etnia,2,Indigenous,2.4,0.0,,,2010.0
+ARG,ar,etnia,3,African descent,0.4,0.0,,,2010.0
+ARG,ar,idioma,1,Spanish,,,1.0,official,
+ARG,ar,idioma,2,Italian,,,0.0,,
+ARG,ar,idioma,3,English,,,0.0,,
+ARG,ar,idioma,4,German,,,0.0,,
+ARG,ar,idioma,5,French,,,0.0,,
+ARG,ar,idioma,6,indigenous,,,0.0,"Quechua, Guarani, Mapudungun",
+BOL,bl,religion,1,Roman Catholic,65.0,0.0,,,2023.0
+BOL,bl,religion,2,Protestant,19.6,0.0,,"Evangelical (non-specific) 11.9%, Evangelical Baptist 2.1%, Evangelical Pentecostal 1.8%, Evangelical Methodist 0.7%, Adventist 2.8%, Protestant (non-specific) 0.3%",2023.0
+BOL,bl,religion,3,Believer,0.9,0.0,,not belonging to the church,2023.0
+BOL,bl,religion,4,other,4.8,0.0,,,2023.0
+BOL,bl,religion,5,atheist,1.7,0.0,,,2023.0
+BOL,bl,religion,6,agnostic,0.6,0.0,,,2023.0
+BOL,bl,religion,7,none,6.1,0.0,,,2023.0
+BOL,bl,religion,8,unspecified,1.3,0.0,,,2023.0
+BOL,bl,etnia,1,Mestizo,68.0,0.0,,mixed White and Indigenous ancestry,
+BOL,bl,etnia,2,Indigenous,20.0,0.0,,,
+BOL,bl,etnia,3,White,5.0,0.0,,,
+BOL,bl,etnia,4,Cholo/Chola,2.0,0.0,,,
+BOL,bl,etnia,5,African descent,1.0,0.0,,,
+BOL,bl,etnia,6,other,1.0,0.0,,,
+BOL,bl,etnia,7,unspecified,3.0,0.0,,,
+BOL,bl,idioma,1,Spanish,68.1,0.0,1.0,official,
+BOL,bl,idioma,2,Quechua,17.2,0.0,1.0,official,
+BOL,bl,idioma,3,Aymara,10.5,0.0,1.0,official,
+BOL,bl,idioma,4,Guarani,0.6,0.0,1.0,official,
+BOL,bl,idioma,5,other,1.5,0.0,0.0,,
+BOL,bl,idioma,6,unspecified,2.1,0.0,0.0,,
+BRA,br,religion,1,Roman Catholic,56.8,0.0,,,2022.0
+BRA,br,religion,2,Evangelical,26.9,0.0,,,2022.0
+BRA,br,religion,3,none,9.3,0.0,,,2022.0
+BRA,br,religion,4,other,4.0,0.0,,,2022.0
+BRA,br,religion,5,Spirtism,1.8,0.0,,Espírita,2022.0
+BRA,br,religion,6,unspecified,1.4,0.0,,,2022.0
+BRA,br,religion,7,Umbanda and Candomblé,1.1,0.0,,,2022.0
+BRA,br,religion,8,Indigenous religions,6.0,0.0,,,2022.0
+BRA,br,religion,9,undeclared,0.2,0.0,,,2022.0
+BRA,br,etnia,1,mixed,45.3,0.0,,,2022.0
+BRA,br,etnia,2,White,43.5,0.0,,,2022.0
+BRA,br,etnia,3,Black,10.2,0.0,,,2022.0
+BRA,br,etnia,4,Indigenous,0.6,0.0,,,2022.0
+BRA,br,etnia,5,Asian,0.4,0.0,,,2022.0
+BRA,br,idioma,1,Portuguese,,,1.0,official and most widely spoken language,
+CHL,ci,religion,1,Catholic,57.0,0.0,,,
+CHL,ci,religion,2,none,25.7,0.0,,,
+CHL,ci,religion,3,Evangelical or Protestant,16.2,0.0,,,
+CHL,ci,religion,4,other Christians and traditions related to Christ,1.3,0.0,,,
+CHL,ci,etnia,1,White and non-Indigenous,88.9,0.0,,,2012.0
+CHL,ci,etnia,2,Mapuche,9.1,0.0,,,2012.0
+CHL,ci,etnia,3,Aymara,0.7,0.0,,,2012.0
+CHL,ci,etnia,4,other Indigenous groups,1.0,0.0,,"includes Rapa Nui, Likan Antai, Quechua, Colla, Diaguita, Kawesqar, Yagan or Yamana",2012.0
+CHL,ci,etnia,5,unspecified,0.3,0.0,,,2012.0
+CHL,ci,idioma,1,Spanish,99.5,0.0,1.0,official,2012.0
+CHL,ci,idioma,2,English,10.2,0.0,0.0,,2012.0
+CHL,ci,idioma,3,Indigenous,1.0,0.0,0.0,"includes Mapudungun, Aymara, Quechua, Rapa Nui",2012.0
+CHL,ci,idioma,4,other,2.3,0.0,0.0,,2012.0
+CHL,ci,idioma,5,unspecified,0.2,0.0,0.0,,2012.0
+COL,co,religion,1,Roman Catholic,63.6,0.0,,,2023.0
+COL,co,religion,2,Protestant,17.2,0.0,,"Evangelical 16.7%, Adventist 0.3%, other Protestant 0.2%",2023.0
+COL,co,religion,3,Jehovah's Witness,0.6,0.0,,,2023.0
+COL,co,religion,4,Church of Jesus Christ,0.1,0.0,,,2023.0
+COL,co,religion,5,other,0.3,0.0,,,2023.0
+COL,co,religion,6,believer,,,,,2023.0
+COL,co,religion,7,0.2%. agnostic,1.0,0.0,,,2023.0
+COL,co,religion,8,atheist,1.0,0.0,,,2023.0
+COL,co,religion,9,none,14.2,0.0,,,2023.0
+COL,co,religion,10,unspecified,1.8,0.0,,,2023.0
+COL,co,etnia,1,Mestizo and White,87.6,0.0,,,2018.0
+COL,co,etnia,2,Afro-Colombian,6.8,0.0,,"includes Mulatto, Raizal, and Palenquero",2018.0
+COL,co,etnia,3,Indigenous,4.3,0.0,,,2018.0
+COL,co,etnia,4,unspecified,1.4,0.0,,,2018.0
+COL,co,idioma,1,Spanish,98.9,0.0,1.0,official,
+COL,co,idioma,2,indigenous,1.0,0.0,0.0,,
+COL,co,idioma,3,Portuguese,0.1,0.0,0.0,,
+ECU,ec,religion,1,Roman Catholic,68.2,0.0,,,2023.0
+ECU,ec,religion,2,Protestant,19.0,0.0,,"Evangelical 18.3%, Adventist 0.6%, other Protestant 0.2%",2023.0
+ECU,ec,religion,3,Jehovah's Witness,1.4,0.0,,,2023.0
+ECU,ec,religion,4,other,2.3,0.0,,,2023.0
+ECU,ec,religion,5,none 8.2% don't know/no response,1.0,0.0,,,2023.0
+ECU,ec,etnia,1,Mestizo,77.5,0.0,,mixed Indigenous and White,2022.0
+ECU,ec,etnia,2,Montubio,7.7,0.0,,,2022.0
+ECU,ec,etnia,3,Indigenous,7.7,0.0,,,2022.0
+ECU,ec,etnia,4,White,2.2,0.0,,,2022.0
+ECU,ec,etnia,5,Afroecuadorian,2.0,0.0,,,2022.0
+ECU,ec,etnia,6,Mulatto,1.4,0.0,,,2022.0
+ECU,ec,etnia,7,Black,1.3,0.0,,,2022.0
+ECU,ec,etnia,8,other,0.1,0.0,,,2022.0
+ECU,ec,idioma,1,Spanish,98.6,0.0,1.0,Castilian; official,2022.0
+ECU,ec,idioma,2,indigenous,3.9,0.0,0.0,"Quechua 3.2%, other indigenous 0.7%",2022.0
+ECU,ec,idioma,3,foreign,2.8,0.0,0.0,,2022.0
+ECU,ec,idioma,4,other,0.6,0.0,0.0,includes Ecuadorian sign language,2022.0
+FLK,fk,religion,1,Christian,57.1,0.0,,,2016.0
+FLK,fk,religion,2,other,1.6,0.0,,,2016.0
+FLK,fk,religion,3,none,35.4,0.0,,,2016.0
+FLK,fk,religion,4,unspecified,6.0,0.0,,,2016.0
+FLK,fk,etnia,1,Falkland Islander,48.3,0.0,,,2016.0
+FLK,fk,etnia,2,British,23.1,0.0,,,2016.0
+FLK,fk,etnia,3,St. Helenian,7.5,0.0,,,2016.0
+FLK,fk,etnia,4,Chilean,4.6,0.0,,,2016.0
+FLK,fk,etnia,5,mixed,6.0,0.0,,,2016.0
+FLK,fk,etnia,6,other,8.5,0.0,,,2016.0
+FLK,fk,etnia,7,unspecified,2.0,0.0,,,2016.0
+FLK,fk,idioma,1,English,89.0,0.0,0.0,,2006.0
+FLK,fk,idioma,2,Spanish,7.7,0.0,0.0,,2006.0
+FLK,fk,idioma,3,other,3.3,0.0,0.0,,2006.0
+GUY,gy,religion,1,Protestant,34.8,0.0,,"Pentecostal 22.8%, Seventh Day Adventist 5.4%, Anglican 5.2%, Methodist 1.4%",2012.0
+GUY,gy,religion,2,Hindu,24.8,0.0,,,2012.0
+GUY,gy,religion,3,other Christian,20.8,0.0,,,2012.0
+GUY,gy,religion,4,Roman Catholic,7.1,0.0,,,2012.0
+GUY,gy,religion,5,Muslim,6.8,0.0,,,2012.0
+GUY,gy,religion,6,Jehovah's Witness,1.3,0.0,,,2012.0
+GUY,gy,religion,7,Rastafarian,0.5,0.0,,,2012.0
+GUY,gy,religion,8,other,0.9,0.0,,,2012.0
+GUY,gy,religion,9,none,3.1,0.0,,,2012.0
+GUY,gy,etnia,1,East Indian,39.8,0.0,,,2012.0
+GUY,gy,etnia,2,African descent,29.3,0.0,,,2012.0
+GUY,gy,etnia,3,mixed,19.9,0.0,,,2012.0
+GUY,gy,etnia,4,Indigenous,10.5,0.0,,,2012.0
+GUY,gy,etnia,5,other,0.5,0.0,,"includes Portuguese, Chinese, White",2012.0
+GUY,gy,idioma,1,English,,,1.0,official,2014.0
+GUY,gy,idioma,2,Guyanese Creole,,,0.0,,2014.0
+GUY,gy,idioma,3,Amerindian languages,,,0.0,including Caribbean and Arawak languages,2014.0
+GUY,gy,idioma,4,Indian languages,,,0.0,"including Caribbean Hindustani, a dialect of Hindi",2014.0
+GUY,gy,idioma,5,Chinese,,,0.0,,2014.0
+SUR,ns,religion,1,Protestant,23.6,0.0,,"includes Evangelical 11.2%, Moravian 11.2%, Reformed 0.7%, Lutheran 0.5%",2012.0
+SUR,ns,religion,2,Hindu,22.3,0.0,,,2012.0
+SUR,ns,religion,3,Roman Catholic,21.6,0.0,,,2012.0
+SUR,ns,religion,4,Muslim,13.8,0.0,,,2012.0
+SUR,ns,religion,5,other Christian,3.2,0.0,,,2012.0
+SUR,ns,religion,6,Winti,1.8,0.0,,,2012.0
+SUR,ns,religion,7,Jehovah's Witness,1.2,0.0,,,2012.0
+SUR,ns,religion,8,other,1.7,0.0,,,2012.0
+SUR,ns,religion,9,none,7.5,0.0,,,2012.0
+SUR,ns,religion,10,unspecified,3.2,0.0,,,2012.0
+SUR,ns,etnia,1,Hindustani,27.4,0.0,,"also known locally as ""East Indians""; their ancestors emigrated from northern India in the latter part of the 19th century",2012.0
+SUR,ns,etnia,2,Maroon,21.7,0.0,,their African ancestors were brought to the country in the 17th and 18th centuries as slaves and escaped to the interior,2012.0
+SUR,ns,etnia,3,Creole,15.7,0.0,,mixed White and Black,2012.0
+SUR,ns,etnia,4,Javanese,13.7,0.0,,,2012.0
+SUR,ns,etnia,5,mixed,13.4,0.0,,,2012.0
+SUR,ns,etnia,6,other,7.6,0.0,,,2012.0
+SUR,ns,etnia,7,unspecified,0.6,0.0,,,2012.0
+SUR,ns,idioma,1,Dutch,,,1.0,official,
+SUR,ns,idioma,2,English,,,0.0,widely spoken,
+SUR,ns,idioma,3,Sranang Tongo,,,0.0,"Surinamese, sometimes called Taki-Taki, is the native language of Creoles and much of the younger population",
+SUR,ns,idioma,4,Caribbean Hindustani,,,0.0,a dialect of Hindi,
+SUR,ns,idioma,5,Javanese,,,0.0,,
+PRY,pa,religion,1,Roman Catholic,80.4,0.0,,,2023.0
+PRY,pa,religion,2,Protestant,7.0,0.0,,"Evangelical (non-specific) 6.7%, Evangelical Pentecostal <0.1%, Adventist <0.1%, Protestant (non-specific) <0.1%",2023.0
+PRY,pa,religion,3,Believer,5.7,0.0,,not belonging to the church,2023.0
+PRY,pa,religion,4,other,0.6,0.0,,,2023.0
+PRY,pa,religion,5,agnostic,0.1,1.0,,,2023.0
+PRY,pa,religion,6,none,0.2,0.0,,,2023.0
+PRY,pa,religion,7,unspecified,6.2,0.0,,,2023.0
+PRY,pa,etnia,1,Mestizo,95.0,0.0,,mixed Spanish and Indigenous ancestry,
+PRY,pa,etnia,2,other,5.0,0.0,,,
+PRY,pa,idioma,1,Spanish  and Guarani,46.3,0.0,1.0,official; official,2012.0
+PRY,pa,idioma,2,only Guarani,34.0,0.0,0.0,,2012.0
+PRY,pa,idioma,3,only Spanish,15.2,0.0,0.0,,2012.0
+PRY,pa,idioma,4,other,4.1,0.0,0.0,"includes Portuguese, German, other Indigenous languages",2012.0
+PRY,pa,idioma,5,no response,0.4,0.0,0.0,,2012.0
+PER,pe,religion,1,Catholic,76.0,0.0,,,2017.0
+PER,pe,religion,2,Evangelical Christian,15.7,0.0,,,2017.0
+PER,pe,religion,3,no religion,5.1,0.0,,,2017.0
+PER,pe,religion,4,other religions,3.2,0.0,,,2017.0
+PER,pe,etnia,1,Mestizo,60.2,0.0,,mixed Indigenous and White,2017.0
+PER,pe,etnia,2,Indigenous,25.8,0.0,,,2017.0
+PER,pe,etnia,3,White,5.9,0.0,,,2017.0
+PER,pe,etnia,4,African descent,3.6,0.0,,,2017.0
+PER,pe,etnia,5,other,1.2,0.0,,includes Chinese and Japanese descent,2017.0
+PER,pe,etnia,6,unspecified,3.3,0.0,,,2017.0
+PER,pe,idioma,1,Spanish,82.9,0.0,1.0,official,2017.0
+PER,pe,idioma,2,Quechua,13.6,0.0,1.0,official,2017.0
+PER,pe,idioma,3,Aymara,1.6,0.0,1.0,official,2017.0
+PER,pe,idioma,4,Ashaninka,0.3,0.0,0.0,,2017.0
+PER,pe,idioma,5,other native languages,0.8,0.0,0.0,includes many minor Amazonian languages,2017.0
+PER,pe,idioma,6,other,0.2,0.0,0.0,,2017.0
+PER,pe,idioma,7,none,0.1,0.0,0.0,,2017.0
+PER,pe,idioma,8,unspecified,0.7,0.0,0.0,,2017.0
+URY,uy,religion,1,Roman Catholic,36.5,0.0,,,2023.0
+URY,uy,religion,2,Protestant,5.0,0.0,,"Evangelical (non-specific) 4.6%, Adventist 0.2%, Protestant (non-specific) 0.3%",2023.0
+URY,uy,religion,3,African American Cults/Umbanda,2.8,0.0,,,2023.0
+URY,uy,religion,4,Jehovah's Witness,0.6,0.0,,,2023.0
+URY,uy,religion,5,Church of Jesus Christ,0.2,0.0,,,2023.0
+URY,uy,religion,6,other,1.0,0.0,,,2023.0
+URY,uy,religion,7,Believer,1.8,0.0,,not belonging to the church,2023.0
+URY,uy,religion,8,agnostic,0.3,0.0,,,2023.0
+URY,uy,religion,9,atheist,1.3,0.0,,,2023.0
+URY,uy,religion,10,none,47.3,0.0,,,2023.0
+URY,uy,religion,11,unspecified 3.4% Roman Catholic,42.0,0.0,,,2023.0
+URY,uy,religion,12,Protestant,15.0,0.0,,,2023.0
+URY,uy,religion,13,other,6.0,0.0,,,2023.0
+URY,uy,religion,14,agnostic,3.0,0.0,,,2023.0
+URY,uy,religion,15,atheist,10.0,0.0,,,2023.0
+URY,uy,religion,16,unspecified,24.0,0.0,,,2023.0
+URY,uy,etnia,1,White,87.7,0.0,,,2011.0
+URY,uy,etnia,2,Black,4.6,0.0,,,2011.0
+URY,uy,etnia,3,Indigenous,2.4,0.0,,,2011.0
+URY,uy,etnia,4,other,0.3,0.0,,,2011.0
+URY,uy,etnia,5,none or unspecified,5.0,0.0,,,2011.0
+URY,uy,idioma,1,Spanish,,,1.0,"official, Rioplatense is the most widely spoken dialect",
+VEN,ve,religion,1,Roman Catholic,48.1,0.0,,,2023.0
+VEN,ve,religion,2,Protestant,31.6,0.0,,"Evangelical 31.4%, Adventist 0.2%",2023.0
+VEN,ve,religion,3,Jehovah's Witness,1.4,0.0,,,2023.0
+VEN,ve,religion,4,African American/umbanda,0.7,0.0,,,2023.0
+VEN,ve,religion,5,other,0.1,0.0,,,2023.0
+VEN,ve,religion,6,believer,3.5,0.0,,,2023.0
+VEN,ve,religion,7,agnostic,0.1,0.0,,,2023.0
+VEN,ve,religion,8,atheist,,,,,2023.0
+VEN,ve,religion,9,0.4%,0.4,0.0,,,2023.0
+VEN,ve,religion,10,none,13.6,0.0,,,2023.0
+VEN,ve,religion,11,unspecified,0.6,0.0,,,2023.0
+VEN,ve,etnia,1,unspecified Spanish,,,,,
+VEN,ve,etnia,2,Italian,,,,,
+VEN,ve,etnia,3,Portuguese,,,,,
+VEN,ve,etnia,4,Arab,,,,,
+VEN,ve,etnia,5,German,,,,,
+VEN,ve,etnia,6,African,,,,,
+VEN,ve,etnia,7,Indigenous,,,,,
+VEN,ve,idioma,1,Spanish,98.2,0.0,1.0,official,2023.0
+VEN,ve,idioma,2,indigenous,1.3,0.0,0.0,,2023.0
+VEN,ve,idioma,3,Portuguese,0.1,0.0,0.0,,2023.0
+VEN,ve,idioma,4,other,0.4,0.0,0.0,,2023.0
+AFG,af,religion,1,Muslim,99.7,0.0,,"Sunni 84.7 - 89.7%, Shia 10 - 15%",2009.0
+AFG,af,religion,2,other,0.3,1.0,,,2009.0
+AFG,af,etnia,1,current,,,,,
+AFG,af,etnia,2,reliable statistical data on ethnicity in Afghanistan are not available,,,,,
+AFG,af,idioma,1,Afghan Persian or Dari,77.0,0.0,1.0,"official, lingua franca",2020.0
+AFG,af,idioma,2,Pashto,48.0,0.0,1.0,official,2020.0
+AFG,af,idioma,3,Uzbeki,11.0,0.0,0.0,,2020.0
+AFG,af,idioma,4,English,6.0,0.0,0.0,,2020.0
+AFG,af,idioma,5,Turkmani,3.0,0.0,0.0,,2020.0
+AFG,af,idioma,6,Urdu,3.0,0.0,0.0,,2020.0
+AFG,af,idioma,7,Pashaie,1.0,0.0,0.0,,2020.0
+AFG,af,idioma,8,Nuristani,1.0,0.0,0.0,,2020.0
+AFG,af,idioma,9,Arabic,1.0,0.0,0.0,,2020.0
+AFG,af,idioma,10,Balochi,1.0,0.0,0.0,,2020.0
+AFG,af,idioma,11,other,1.0,1.0,0.0,,2020.0
+BGD,bg,religion,1,Muslim,91.0,0.0,,,2022.0
+BGD,bg,religion,2,Hindu,8.0,0.0,,,2022.0
+BGD,bg,religion,3,other,1.0,0.0,,,2022.0
+BGD,bg,etnia,1,Bengali at least,99.0,0.0,,,2022.0
+BGD,bg,etnia,2,other indigenous ethnic groups,1.0,0.0,,,2022.0
+BGD,bg,idioma,1,Bangla,98.8,0.0,1.0,"official, also known as Bengali",2011.0
+BGD,bg,idioma,2,other,1.2,0.0,0.0,,2011.0
+BTN,bt,religion,1,Lamaistic Buddhist,75.3,0.0,,,2005.0
+BTN,bt,religion,2,Indian- and Nepali-influenced Hinduism,22.1,0.0,,,2005.0
+BTN,bt,religion,3,other,2.6,0.0,,,2005.0
+BTN,bt,etnia,1,Ngalop,50.0,0.0,,also known as Bhote,
+BTN,bt,etnia,2,ethnic Nepali,35.0,0.0,,predominantly Lhotshampas,
+BTN,bt,etnia,3,indigenous or migrant tribes,15.0,0.0,,,
+BTN,bt,idioma,1,Sharchopkha,28.0,0.0,0.0,,2005.0
+BTN,bt,idioma,2,Dzongkha,24.0,0.0,1.0,official,2005.0
+BTN,bt,idioma,3,Lhotshamkha,22.0,0.0,0.0,,2005.0
+BTN,bt,idioma,4,other,26.0,0.0,0.0,includes foreign languages,2005.0
+LKA,ce,religion,1,Buddhist,70.2,0.0,,official,2012.0
+LKA,ce,religion,2,Hindu,12.6,0.0,,,2012.0
+LKA,ce,religion,3,Muslim,9.7,0.0,,,2012.0
+LKA,ce,religion,4,Roman Catholic,6.1,0.0,,,2012.0
+LKA,ce,religion,5,other Christian,1.3,0.0,,,2012.0
+LKA,ce,religion,6,other,0.05,0.0,,,2012.0
+LKA,ce,etnia,1,Sinhalese,74.9,0.0,,,2012.0
+LKA,ce,etnia,2,Sri Lankan Tamil,11.2,0.0,,,2012.0
+LKA,ce,etnia,3,Sri Lankan Moors,9.2,0.0,,,2012.0
+LKA,ce,etnia,4,Indian Tamil,4.2,0.0,,,2012.0
+LKA,ce,etnia,5,other,0.5,0.0,,,2012.0
+LKA,ce,idioma,1,Sinhala,87.0,0.0,1.0,official,2012.0
+LKA,ce,idioma,2,Tamil,28.5,0.0,1.0,official,2012.0
+LKA,ce,idioma,3,English,23.8,0.0,0.0,,2012.0
+IND,in,religion,1,Hindu,79.8,0.0,,,2011.0
+IND,in,religion,2,Muslim,14.2,0.0,,,2011.0
+IND,in,religion,3,Christian,2.3,0.0,,,2011.0
+IND,in,religion,4,Sikh,1.7,0.0,,,2011.0
+IND,in,religion,5,other and unspecified,2.0,0.0,,,2011.0
+IND,in,etnia,1,Indo-Aryan,72.0,0.0,,,2000.0
+IND,in,etnia,2,Dravidian,25.0,0.0,,,2000.0
+IND,in,etnia,3,other,3.0,0.0,,,2000.0
+IND,in,idioma,1,Hindi,43.6,0.0,0.0,,
+IND,in,idioma,2,Bengali,8.0,0.0,0.0,,
+IND,in,idioma,3,Marathi,6.9,0.0,0.0,,
+IND,in,idioma,4,Telugu,6.7,0.0,0.0,,
+IND,in,idioma,5,Tamil,5.7,0.0,0.0,,
+IND,in,idioma,6,Gujarati,4.6,0.0,0.0,,
+IND,in,idioma,7,Urdu,4.2,0.0,0.0,,
+IND,in,idioma,8,Kannada,3.6,0.0,0.0,,
+IND,in,idioma,9,Odia,3.1,0.0,0.0,,
+IND,in,idioma,10,Malayalam,2.9,0.0,0.0,,
+IND,in,idioma,11,Punjabi,2.7,0.0,0.0,,
+IND,in,idioma,12,Assamese,1.3,0.0,0.0,,
+IND,in,idioma,13,Maithili,1.1,0.0,0.0,,
+IND,in,idioma,14,other,5.6,0.0,0.0,,
+MDV,mv,religion,1,Sunni Muslim,,,,official,
+MDV,mv,etnia,1,homogeneous mixture of Sinhalese,,,,,
+MDV,mv,etnia,2,Dravidian,,,,,
+MDV,mv,etnia,3,Arab,,,,,
+MDV,mv,etnia,4,Australasian,,,,,
+MDV,mv,etnia,5,African resulting from historical changes in regional hegemony over marine trade routes,,,,,
+MDV,mv,idioma,1,Dhivehi,,,1.0,"official, closely related to Sinhala, script derived from Arabic",
+MDV,mv,idioma,2,English,,,1.0,spoken by most government officials,
+NPL,np,religion,1,Hindu,81.2,0.0,,,
+NPL,np,religion,2,Buddhist,8.2,0.0,,,
+NPL,np,religion,3,Muslim,5.1,0.0,,,
+NPL,np,religion,4,Kirat,3.2,0.0,,,
+NPL,np,religion,5,Christian,1.8,0.0,,,
+NPL,np,etnia,1,Chhettri,16.5,0.0,,,2021.0
+NPL,np,etnia,2,Brahman-Hill,11.3,0.0,,,2021.0
+NPL,np,etnia,3,Magar,6.9,0.0,,,2021.0
+NPL,np,etnia,4,Tharu,6.2,0.0,,,2021.0
+NPL,np,etnia,5,Tamang,5.6,0.0,,,2021.0
+NPL,np,etnia,6,Bishwokarma,5.0,0.0,,,2021.0
+NPL,np,etnia,7,Musalman,4.9,0.0,,,2021.0
+NPL,np,etnia,8,Newar,4.6,0.0,,,2021.0
+NPL,np,etnia,9,Yadav,4.2,0.0,,,2021.0
+NPL,np,etnia,10,Rai,2.2,0.0,,,2021.0
+NPL,np,etnia,11,Pariyar,1.9,0.0,,,2021.0
+NPL,np,etnia,12,Gurung,1.9,0.0,,,2021.0
+NPL,np,etnia,13,Thakuri,1.7,0.0,,,2021.0
+NPL,np,etnia,14,Mijar,1.6,0.0,,,2021.0
+NPL,np,etnia,15,Teli,1.5,0.0,,,2021.0
+NPL,np,etnia,16,Yakthung/Limbu,1.4,0.0,,,2021.0
+NPL,np,etnia,17,Chamar/Harijan/Ram,1.4,0.0,,,2021.0
+NPL,np,etnia,18,Koiri/Kushwaha,1.2,0.0,,,2021.0
+NPL,np,etnia,19,other,20.0,0.0,,,2021.0
+NPL,np,idioma,1,Nepali,44.9,0.0,1.0,official,2021.0
+NPL,np,idioma,2,Maithali,11.1,0.0,0.0,,2021.0
+NPL,np,idioma,3,Bhojpuri,6.2,0.0,0.0,,2021.0
+NPL,np,idioma,4,Tharu,5.9,0.0,0.0,,2021.0
+NPL,np,idioma,5,Tamang,4.9,0.0,0.0,,2021.0
+NPL,np,idioma,6,Bajjika,3.9,0.0,0.0,,2021.0
+NPL,np,idioma,7,Avadhi,3.0,0.0,0.0,,2021.0
+NPL,np,idioma,8,Nepalbhasha,3.0,0.0,0.0,Newari,2021.0
+NPL,np,idioma,9,Magar Dhut,2.8,0.0,0.0,,2021.0
+NPL,np,idioma,10,Doteli,1.7,0.0,0.0,,2021.0
+NPL,np,idioma,11,Urdu,1.4,0.0,0.0,,2021.0
+NPL,np,idioma,12,Yakthung/Limbu,1.2,0.0,0.0,,2021.0
+NPL,np,idioma,13,Gurung,1.1,0.0,0.0,,2021.0
+NPL,np,idioma,14,other,8.9,0.0,0.0,,2021.0
+PAK,pk,religion,1,Muslim,96.4,0.0,,,
+PAK,pk,religion,2,Hindu,1.6,0.0,,,
+PAK,pk,religion,3,Christian,1.4,0.0,,,
+PAK,pk,etnia,1,Punjabi,44.7,0.0,,,
+PAK,pk,etnia,2,Pashtun,15.4,0.0,,Pathan,
+PAK,pk,etnia,3,Sindhi,14.1,0.0,,,
+PAK,pk,etnia,4,Saraiki,8.4,0.0,,,
+PAK,pk,etnia,5,Muhajirs,7.6,0.0,,,
+PAK,pk,etnia,6,Baloch,3.6,0.0,,,
+PAK,pk,etnia,7,other,6.3,0.0,,,
+PAK,pk,idioma,1,Punjabi,38.8,0.0,0.0,,
+PAK,pk,idioma,2,Pashto,18.2,0.0,0.0,"alternate name, Pashtu",
+PAK,pk,idioma,3,Sindhi,14.6,0.0,0.0,,
+PAK,pk,idioma,4,Saraiki,12.2,0.0,0.0,a Punjabi variant,
+PAK,pk,idioma,5,Urdu,7.1,0.0,0.0,,
+PAK,pk,idioma,6,Balochi,3.0,0.0,0.0,,
+PAK,pk,idioma,7,Hindko,2.4,0.0,0.0,,
+PAK,pk,idioma,8,Brahui,1.2,0.0,0.0,,
+PAK,pk,idioma,9,other,2.4,0.0,0.0,,

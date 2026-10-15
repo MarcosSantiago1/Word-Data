@@ -1,0 +1,25 @@
+codigo,provincia,pct_vab_sector_publico,presion_tributaria_propia_pct_pbg,pct_personas_pobres,familia_gobierno,anios_misma_familia,rentismo_fiscal_z,irfh,petroleo_m3_por_hab,pbg_pc_pesos_2004
+AR-F,La Rioja,20.4,2.76,45.5,peronismo,40,1.102,1.1,,8454.0
+AR-P,Formosa,25.3,3.73,39.3,peronismo,40,1.328,1.014,0.07,6131.0
+AR-H,Chaco,18.4,3.56,62.2,peronismo,16,0.649,0.945,,7753.0
+AR-K,Catamarca,24.4,4.05,43.6,peronismo,12,1.134,0.514,,9606.0
+AR-D,San Luis,14.3,4.66,42.0,peronismo,40,-0.118,0.378,,11527.0
+AR-W,Corrientes,17.8,3.28,39.3,radicalismo,22,0.672,0.338,,6850.0
+AR-Z,Santa Cruz,14.5,3.4,33.9,peronismo,40,0.282,0.318,10.07,21403.0
+AR-G,Santiago del Estero,6.7,2.04,51.0,partido provincial,19,-0.119,0.26,,9426.0
+AR-J,San Juan,15.6,3.1,40.9,peronismo,20,0.491,0.26,,9606.0
+AR-Y,Jujuy,18.5,3.13,42.4,radicalismo,8,0.789,0.226,0.01,8588.0
+AR-E,Entre Ríos,14.3,4.07,44.1,peronismo,20,0.064,0.149,,11337.0
+AR-T,Tucumán,19.1,6.25,42.5,peronismo,24,-0.1,0.093,,6628.0
+AR-L,La Pampa,12.4,4.94,36.0,peronismo,40,-0.408,0.04,2.25,16674.0
+AR-Q,Neuquén,11.1,4.24,32.9,partido provincial,40,-0.337,-0.024,27.77,33455.0
+AR-R,Río Negro,15.5,4.4,43.5,partido provincial,8,0.087,-0.09,1.52,10956.0
+AR-X,Córdoba,9.3,4.43,39.4,peronismo,24,-0.582,-0.247,,12366.0
+AR-U,Chubut,12.2,3.57,38.5,partido provincial,8,-0.015,-0.301,12.19,17391.0
+AR-A,Salta,15.5,5.1,39.8,partido provincial,4,-0.127,-0.393,0.14,7866.0
+AR-B,Buenos Aires,9.1,4.88,45.1,peronismo,4,-0.739,-0.529,,10703.0
+AR-M,Mendoza,9.6,5.35,44.0,radicalismo,8,-0.834,-0.534,1.56,9572.0
+AR-S,Santa Fe,10.0,4.17,37.7,peronismo,4,-0.423,-0.608,,12844.0
+AR-V,Tierra del Fuego,13.4,3.9,26.5,peronismo,8,0.02,-0.669,1.28,29941.0
+AR-N,Misiones,17.9,10.4,37.7,partido provincial,20,-1.502,-0.838,,6079.0
+AR-C,Ciudad de Buenos Aires,9.3,6.83,19.6,PRO / Juntos por el Cambio,16,-1.313,-1.402,,38759.0

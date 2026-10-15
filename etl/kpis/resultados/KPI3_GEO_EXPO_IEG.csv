@@ -1,0 +1,214 @@
+iso3,pais,continente,nivel_ingreso,poblacion,anio_comercio,pct_export_top5,hhi_top5,pct_top5_con_respaldo,pct_top5_a_aliados_defensa,ieg,nivel,n_acuerdos_comerciales_en_vigor,n_aliados_defensa
+GMB,Gambia,África,Ingreso bajo,2697845,2023,97.0,8471.0,3.1,2.1,8466.0,exposición alta,8,23
+TUV,Tuvalu,Oceanía,Ingreso mediano alto,9816,2023,99.0,7791.0,1.0,0.0,7790.0,exposición alta,6,0
+KIR,Kiribati,Oceanía,Ingreso mediano bajo,132530,2023,97.0,7275.0,1.0,0.0,7274.0,exposición alta,6,0
+NRU,Nauru,Oceanía,Ingreso alto,11875,2023,96.0,6232.0,0.0,0.0,6232.0,exposición alta,2,0
+NCL,Nueva Caledonia,Oceanía,Ingreso alto,289870,2023,92.0,5728.0,2.2,0.0,5724.0,exposición alta,1,0
+MLI,Mali,África,Ingreso bajo,23769127,2023,95.0,5581.0,1.1,0.0,5580.0,exposición alta,14,20
+BFA,Burkina Faso,África,Ingreso bajo,23025776,2023,90.0,5306.0,5.6,5.6,5293.0,exposición alta,14,23
+ERI,Eritrea,África,Ingreso bajo,3470390,2023,100.0,5192.0,2.0,0.0,5190.0,exposición alta,2,0
+COD,República Democrática del Congo,África,Ingreso bajo,105789731,2023,85.0,4837.0,10.6,0.0,4810.0,exposición alta,14,25
+SLE,Sierra Leona,África,Ingreso bajo,8460512,2023,85.0,4575.0,14.1,0.0,4525.0,exposición alta,9,12
+FSM,Estados Federados de Micronesia,Oceanía,Ingreso mediano alto,112630,2023,97.0,4499.0,0.0,0.0,4499.0,exposición alta,1,0
+RWA,Ruanda,África,Ingreso bajo,13954471,2023,84.0,4478.0,3.6,3.6,4469.0,exposición alta,13,30
+GNB,Guinea-Bisáu,África,Ingreso bajo,2153339,2023,87.0,4487.0,13.8,10.3,4437.0,exposición alta,9,23
+TKM,Turkmenistán,Asia,Ingreso mediano alto,7364438,2023,91.0,4191.0,23.1,0.0,4018.0,exposición alta,7,0
+GIN,Guinea,África,Ingreso mediano bajo,14405468,2023,96.0,3862.0,9.4,0.0,3797.0,exposición alta,10,23
+SSD,Sudán del Sur,África,Ingreso bajo,11483374,2023,97.0,3567.0,3.1,3.1,3558.0,exposición alta,1,11
+CUW,Curazao,América,Ingreso alto,154654,2023,83.0,3519.0,0.0,0.0,3519.0,exposición alta,0,0
+BDI,Burundi,África,Ingreso bajo,13689450,2023,80.0,3604.0,16.3,10.0,3515.0,exposición alta,13,16
+BMU,Bermudas,América,Ingreso alto,64698,2023,97.0,3277.0,0.0,0.0,3277.0,exposición alta,0,0
+SUR,Surinam,América,Ingreso mediano alto,628886,2023,89.0,3235.0,13.5,10.1,3185.0,exposición alta,12,32
+CAF,República Centroafricana,África,Ingreso bajo,5152421,2023,83.0,3189.0,12.0,7.2,3137.0,exposición alta,12,17
+SLB,Islas Salomón,Oceanía,Ingreso mediano bajo,800005,2023,86.0,3398.0,34.9,0.0,3136.0,exposición alta,7,0
+GRL,Groenlandia,América,Ingreso alto,56865,2023,86.0,3088.0,3.5,0.0,3079.0,exposición alta,3,0
+TLS,Timor Oriental,Asia,Ingreso mediano bajo,1384286,2023,94.0,3000.0,0.0,0.0,3000.0,exposición alta,1,0
+STP,Santo Tomé y Príncipe,África,Ingreso mediano bajo,230871,2023,80.0,3120.0,28.8,0.0,2925.0,exposición alta,7,9
+VUT,Vanuatu,Oceanía,Ingreso mediano bajo,320409,2023,88.0,2920.0,11.4,0.0,2820.0,exposición alta,5,0
+COG,Congo,África,Ingreso mediano bajo,6182885,2023,83.0,2715.0,3.6,0.0,2706.0,exposición alta,12,33
+PLW,Palaos,Oceanía,Ingreso alto,17727,2023,91.0,2563.0,0.0,0.0,2563.0,exposición alta,1,0
+MAF,San Martín (parte francesa),América,Ingreso alto,27515,2019,92.0,2442.0,0.0,0.0,2442.0,exposición media,0,0
+ZWE,Zimbabue,África,Ingreso mediano bajo,16340822,2023,84.0,2594.0,22.6,22.6,2353.0,exposición media,12,12
+GIB,Gibraltar,Europa,Ingreso alto,38471,2023,84.0,2254.0,0.0,0.0,2254.0,exposición media,0,0
+ABW,Aruba,América,Ingreso alto,107359,2023,82.0,2216.0,0.0,0.0,2216.0,exposición media,1,0
+PYF,Polinesia Francesa,Oceanía,Ingreso alto,281118,2023,85.0,2411.0,24.7,0.0,2186.0,exposición media,1,0
+GUM,Guam,Oceanía,Ingreso alto,166506,2023,79.0,2129.0,0.0,0.0,2129.0,exposición media,0,0
+CYM,Islas Caimán,América,Ingreso alto,73038,2023,83.0,2211.0,16.9,0.0,2105.0,exposición media,1,0
+OMN,Omán,Asia,Ingreso alto,5049269,2023,63.0,1951.0,15.9,15.9,1901.0,exposición media,7,18
+BEN,Benín,África,Ingreso mediano bajo,14111034,2023,81.0,2319.0,42.0,3.7,1789.0,exposición media,14,23
+TGO,Togo,África,Ingreso mediano bajo,8223850,2023,73.0,1963.0,27.4,9.6,1769.0,exposición media,11,23
+TCA,Islas Turcas y Caicos,América,Ingreso alto,46198,2023,80.0,1716.0,0.0,0.0,1716.0,exposición media,1,0
+VGB,Islas Vírgenes Británicas,América,Ingreso alto,38985,2023,77.0,1759.0,9.1,0.0,1710.0,exposición media,1,0
+AGO,Angola,África,Ingreso mediano bajo,36749906,2023,66.0,1778.0,30.3,0.0,1636.0,exposición media,7,25
+PNG,Papúa Nueva Guinea,Oceanía,Ingreso mediano bajo,10389635,2023,82.0,1778.0,20.7,0.0,1489.0,exposición media,10,0
+ASM,Samoa Americana,Oceanía,Ingreso alto,47521,2023,71.0,1451.0,0.0,0.0,1451.0,exposición media,0,0
+RUS,Rusia,Europa,Ingreso alto,143826130,2023,65.0,1467.0,6.2,6.2,1451.0,exposición media,20,7
+COM,Comoras,África,Ingreso mediano bajo,850387,2023,78.0,1540.0,14.1,14.1,1419.0,exposición media,7,37
+AZE,Azerbaiyán,Asia,Ingreso mediano alto,10153958,2023,69.0,1787.0,33.3,33.3,1410.0,exposición media,8,8
+CUB,Cuba,América,Ingreso mediano alto,11019931,2023,61.0,1377.0,0.0,0.0,1377.0,exposición media,20,1
+KHM,Camboya,Asia,Ingreso mediano bajo,17423880,2023,59.0,1429.0,28.8,0.0,1332.0,exposición media,7,0
+UZB,Uzbekistán,Asia,Ingreso mediano bajo,35652307,2023,70.0,1506.0,25.7,17.1,1326.0,exposición media,9,7
+NER,Níger,África,Ingreso bajo,26159867,2023,83.0,1875.0,33.7,0.0,1321.0,exposición media,14,23
+SXM,San Martín (parte neerlandesa),América,Ingreso alto,42749,2023,71.0,1297.0,0.0,0.0,1297.0,exposición media,0,0
+ZMB,Zambia,África,Ingreso mediano bajo,20723965,2023,77.0,1367.0,13.0,13.0,1267.0,exposición media,9,20
+TJK,Tayikistán,Asia,Ingreso mediano bajo,10389799,2023,84.0,1738.0,42.9,33.3,1250.0,exposición media,9,7
+IRN,Irán,Asia,Ingreso mediano alto,90608707,2023,71.0,1619.0,50.7,0.0,1225.0,exposición media,8,0
+BLR,Bielorrusia,Europa,Ingreso mediano alto,9178298,2023,62.0,1366.0,27.4,27.4,1217.0,exposición media,15,7
+MDV,Maldivas,Asia,Ingreso mediano alto,525994,2023,74.0,1620.0,28.4,0.0,1179.0,exposición media,2,0
+IRQ,Irak,Asia,Ingreso mediano alto,45074049,2023,79.0,1987.0,41.8,6.3,1178.0,exposición media,6,18
+MNP,Islas Marianas del Norte,Oceanía,Ingreso alto,45143,2023,68.0,1098.0,0.0,0.0,1098.0,exposición media,0,0
+BWA,Botsuana,África,Ingreso mediano alto,2480244,2023,75.0,1387.0,32.0,10.7,1067.0,exposición media,14,12
+TCD,Chad,África,Ingreso bajo,19319064,2023,85.0,1595.0,47.1,0.0,1037.0,exposición media,13,27
+KWT,Kuwait,Asia,Ingreso alto,4853420,2023,63.0,1037.0,0.0,0.0,1037.0,exposición media,10,18
+FJI,Fiyi,Oceanía,Ingreso mediano alto,924145,2023,60.0,1256.0,46.7,0.0,1024.0,exposición media,9,0
+KGZ,Kirguistán,Asia,Ingreso mediano bajo,7099750,2023,81.0,1621.0,50.6,40.7,1000.0,exposición media,13,7
+MRT,Mauritania,África,Ingreso mediano bajo,5022441,2023,67.0,1095.0,23.9,0.0,965.0,exposición baja,14,22
+GHA,Ghana,África,Ingreso mediano bajo,33787914,2023,64.0,1062.0,23.4,0.0,949.0,exposición baja,11,23
+LBY,Libia,África,Ingreso mediano alto,7305659,2023,60.0,920.0,0.0,0.0,920.0,exposición baja,10,36
+WSM,Samoa,Oceanía,Ingreso mediano alto,216663,2023,71.0,1197.0,32.4,0.0,920.0,exposición baja,8,0
+LBR,Liberia,África,Ingreso bajo,5493031,2023,62.0,1198.0,45.2,0.0,916.0,exposición baja,9,23
+BRA,Brasil,América,Ingreso mediano alto,211140729,2023,50.0,1038.0,34.0,34.0,909.0,exposición baja,31,32
+IRL,Irlanda,Europa,Ingreso alto,5311538,2023,62.0,1082.0,43.5,43.5,833.0,exposición baja,79,27
+PRI,Puerto Rico,América,Ingreso alto,3203794,2019,75.0,797.0,0.0,0.0,797.0,exposición baja,0,0
+UGA,Uganda,África,Ingreso bajo,48656601,2023,61.0,897.0,23.0,23.0,797.0,exposición baja,12,11
+FRO,Islas Feroe,Europa,Ingreso alto,54398,2017,83.0,1172.0,53.0,0.0,781.0,exposición baja,10,0
+GAB,Gabón,África,Ingreso mediano alto,2484789,2023,52.0,850.0,23.1,9.6,776.0,exposición baja,12,28
+SAU,Arabia Saudí,Asia,Ingreso alto,33702731,2023,55.0,781.0,7.3,7.3,765.0,exposición baja,8,18
+XKX,Kosovo,Europa,Ingreso mediano alto,1682668,2021,59.0,753.0,0.0,0.0,753.0,exposición baja,0,0
+PAN,Panamá,América,Ingreso alto,4458759,2023,51.0,811.0,21.6,21.6,750.0,exposición baja,23,32
+GNQ,Guinea Ecuatorial,África,Ingreso mediano alto,1847549,2023,62.0,1058.0,56.5,0.0,729.0,exposición baja,8,9
+ARM,Armenia,Asia,Ingreso mediano alto,2964300,2023,78.0,2084.0,52.6,47.4,699.0,exposición baja,15,7
+BGD,Bangladés,Asia,Ingreso mediano bajo,171466990,2023,52.0,630.0,0.0,0.0,630.0,exposición baja,6,0
+LKA,Sri Lanka,Asia,Ingreso mediano alto,22037000,2023,48.0,656.0,14.6,0.0,607.0,exposición baja,8,0
+LSO,Lesoto,África,Ingreso mediano bajo,2311472,2023,93.0,2165.0,61.3,33.3,528.0,exposición baja,14,12
+KAZ,Kazajistán,Asia,Ingreso mediano alto,20330104,2023,52.0,642.0,30.8,19.2,506.0,exposición baja,19,7
+ZAF,Sudáfrica,África,Ingreso mediano alto,63212384,2023,47.0,559.0,27.7,0.0,474.0,exposición baja,12,12
+URY,Uruguay,América,Ingreso alto,3388081,2023,56.0,844.0,53.6,53.6,466.0,exposición baja,28,32
+YEM,Yemen,Asia,Ingreso bajo,39390799,2023,78.0,1588.0,66.7,66.7,466.0,exposición baja,2,18
+AND,Andorra,Europa,Ingreso alto,80856,2023,79.0,2117.0,69.6,0.0,450.0,exposición baja,1,0
+ECU,Ecuador,América,Ingreso mediano alto,17980083,2023,61.0,1087.0,60.7,60.7,450.0,exposición baja,17,32
+TON,Tonga,Oceanía,Ingreso mediano alto,104597,2023,76.0,1172.0,61.8,0.0,433.0,exposición baja,7,0
+IND,India,Asia,Ingreso mediano bajo,1438069596,2023,36.0,444.0,11.1,0.0,428.0,exposición baja,21,0
+VIR,Islas Vírgenes de los Estados Unidos,América,Ingreso alto,104917,2019,47.0,417.0,0.0,0.0,417.0,exposición baja,0,0
+JPN,Japón,Asia,Ingreso alto,124516650,2023,53.0,773.0,45.3,0.0,413.0,exposición baja,16,0
+MDG,Madagascar,África,Ingreso bajo,31195932,2023,51.0,617.0,29.4,0.0,392.0,exposición baja,10,0
+PAK,Pakistán,Asia,Ingreso mediano bajo,247504495,2023,46.0,462.0,19.6,0.0,381.0,exposición baja,15,0
+QAT,Catar,Asia,Ingreso alto,2656032,2023,52.0,630.0,51.9,0.0,373.0,exposición baja,7,18
+ETH,Etiopía,África,Ingreso bajo,128691692,2023,43.0,397.0,11.6,0.0,372.0,exposición baja,8,21
+ARE,Emiratos Árabes Unidos,Asia,Ingreso alto,10483751,2023,42.0,394.0,14.3,14.3,358.0,exposición baja,9,18
+CIV,Costa de Marfil,África,Ingreso mediano bajo,31165654,2023,42.0,460.0,38.1,0.0,330.0,exposición baja,15,12
+PSE,Palestina,Asia,Ingreso mediano bajo,5165775,2023,160.0,5700.0,80.0,0.0,320.0,exposición baja,4,0
+SEN,Senegal,África,Ingreso mediano bajo,18077573,2023,53.0,747.0,39.6,39.6,306.0,exposición baja,13,24
+SDN,Sudán,África,Ingreso bajo,50042791,2023,71.0,1131.0,76.1,63.4,289.0,exposición baja,12,29
+CYP,Chipre,Asia,Ingreso alto,1344976,2023,45.0,455.0,53.3,24.4,245.0,exposición baja,41,27
+CMR,Camerún,África,Ingreso mediano bajo,28372687,2023,65.0,951.0,67.7,0.0,233.0,exposición baja,13,9
+HKG,Hong Kong,Asia,Ingreso alto,7536100,2023,51.0,733.0,51.0,0.0,233.0,exposición baja,5,0
+TZA,Tanzania,África,Ingreso mediano bajo,66617606,2023,57.0,701.0,64.9,38.6,232.0,exposición baja,14,20
+DMA,Dominica,América,Ingreso mediano alto,66510,2023,48.0,488.0,56.2,56.2,221.0,exposición baja,16,32
+JOR,Jordania,Asia,Ingreso mediano alto,11439213,2023,58.0,816.0,65.5,29.3,218.0,exposición baja,26,18
+VEN,Venezuela,América,Ingreso mediano bajo,28300854,2023,80.0,2742.0,70.0,70.0,206.0,exposición baja,30,32
+MOZ,Mozambique,África,Ingreso bajo,33635160,2023,50.0,626.0,62.0,18.0,205.0,exposición baja,10,32
+KEN,Kenia,África,Ingreso mediano bajo,55339003,2023,42.0,364.0,42.9,23.8,200.0,exposición baja,12,12
+CHN,China,Asia,Ingreso mediano alto,1410710000,2023,35.0,299.0,48.6,0.0,194.0,exposición baja,18,1
+BOL,Bolivia,América,Ingreso mediano bajo,12244159,2023,58.0,700.0,67.2,44.8,185.0,exposición baja,15,32
+MNE,Montenegro,Europa,Ingreso mediano alto,623529,2023,66.0,1690.0,74.2,74.2,185.0,exposición baja,4,28
+MYS,Malasia,Asia,Ingreso mediano alto,35126298,2023,55.0,779.0,69.1,0.0,169.0,exposición baja,18,0
+PHL,Filipinas,Asia,Ingreso mediano alto,114891199,2023,60.0,820.0,71.7,21.7,169.0,exposición baja,12,1
+SGP,Singapur,Asia,Ingreso alto,5917648,2023,49.0,507.0,73.5,0.0,169.0,exposición baja,26,0
+NPL,Nepal,Asia,Ingreso mediano bajo,29694614,2023,86.0,4650.0,77.9,0.0,161.0,exposición baja,4,0
+FIN,Finlandia,Europa,Ingreso alto,5583911,2023,44.0,416.0,63.6,63.6,146.0,exposición baja,78,27
+NAM,Namibia,África,Ingreso mediano bajo,2963095,2023,59.0,1011.0,79.7,59.3,144.0,exposición baja,11,12
+NZL,Nueva Zelanda,Oceanía,Ingreso alto,5200000,2023,61.0,1117.0,80.3,0.0,144.0,exposición baja,14,0
+SMR,San Marino,Europa,Ingreso alto,33860,2023,46.0,438.0,65.2,0.0,130.0,exposición baja,1,0
+MUS,Mauricio,África,Ingreso mediano alto,1248647,2023,46.0,440.0,76.1,52.2,121.0,exposición baja,11,12
+CHE,Suiza,Europa,Ingreso alto,8888822,2023,47.0,511.0,76.6,0.0,121.0,exposición baja,47,0
+ISR,Israel,Asia,Ingreso alto,9849000,2023,53.0,1009.0,73.6,0.0,116.0,exposición baja,19,0
+NGA,Nigeria,África,Ingreso mediano bajo,227882945,2023,40.0,330.0,75.0,0.0,100.0,exposición baja,10,12
+SWE,Suecia,Europa,Ingreso alto,10536632,2023,39.0,325.0,74.4,59.0,100.0,exposición baja,75,27
+SYR,Siria,Asia,Ingreso bajo,23594623,2023,70.0,1322.0,85.7,14.3,100.0,exposición baja,12,1
+JAM,Jamaica,América,Ingreso mediano alto,2839786,2023,63.0,1541.0,77.8,58.7,98.0,exposición baja,15,32
+UKR,Ucrania,Europa,Ingreso mediano alto,37732836,2023,40.0,346.0,67.5,0.0,85.0,exposición baja,22,0
+DOM,República Dominicana,América,Ingreso mediano alto,11331265,2023,73.0,2823.0,79.5,79.5,83.0,exposición baja,9,32
+AUT,Austria,Europa,Ingreso alto,9131761,2023,50.0,796.0,82.0,72.0,81.0,exposición baja,70,27
+IDN,Indonesia,Asia,Ingreso mediano alto,281190067,2023,54.0,810.0,83.3,0.0,81.0,exposición baja,12,0
+BHR,Baréin,Asia,Ingreso alto,1577059,2023,49.0,597.0,75.5,63.3,80.0,exposición baja,8,18
+USA,Estados Unidos,América,Ingreso alto,336755052,2023,44.0,470.0,72.7,72.7,80.0,exposición baja,19,64
+MWI,Malaui,África,Ingreso bajo,21104482,2023,34.0,256.0,64.7,32.4,74.0,exposición baja,10,12
+ARG,Argentina,América,Ingreso mediano alto,45538401,2023,47.0,549.0,83.0,74.5,64.0,exposición baja,35,32
+GEO,Georgia,Asia,Ingreso mediano alto,3715483,2023,53.0,575.0,84.9,0.0,64.0,exposición baja,13,0
+SYC,Seychelles,África,Ingreso alto,119773,2023,57.0,753.0,86.0,0.0,64.0,exposición baja,7,0
+GBR,Reino Unido,Europa,Ingreso alto,68526000,2023,44.0,422.0,81.8,81.8,64.0,exposición baja,80,34
+MLT,Malta,Europa,Ingreso alto,552747,2023,53.0,961.0,81.1,18.9,52.0,exposición baja,41,27
+NIC,Nicaragua,América,Ingreso mediano bajo,6823613,2023,79.0,2833.0,87.3,87.3,52.0,exposición baja,19,32
+AUS,Australia,Oceanía,Ingreso alto,26659922,2023,69.0,1711.0,85.5,0.0,50.0,exposición baja,16,1
+TUR,Turquía,Asia,Ingreso mediano alto,85325965,2023,31.0,203.0,67.7,67.7,50.0,exposición baja,37,29
+DEU,Alemania,Europa,Ingreso alto,83287273,2023,38.0,298.0,81.6,81.6,49.0,exposición baja,92,34
+KNA,San Cristóbal y Nieves,América,Ingreso alto,46758,2023,85.0,2925.0,91.8,34.1,49.0,exposición baja,15,32
+TTO,Trinidad y Tobago,América,Ingreso alto,1367510,2023,50.0,908.0,86.0,76.0,49.0,exposición baja,17,32
+MAC,Macao,Asia,Ingreso alto,678800,2023,89.0,5411.0,88.8,0.0,46.0,exposición baja,2,0
+LBN,Líbano,Asia,Ingreso mediano bajo,5773493,2023,47.0,791.0,80.9,80.9,41.0,exposición baja,11,19
+MNG,Mongolia,Asia,Ingreso mediano alto,3481145,2023,99.0,8501.0,92.9,0.0,37.0,exposición baja,2,0
+DZA,Argelia,África,Ingreso mediano alto,46164219,2023,66.0,1258.0,90.9,0.0,36.0,exposición baja,11,36
+BRB,Barbados,América,Ingreso alto,282336,2023,59.0,909.0,89.8,89.8,36.0,exposición baja,15,32
+MMR,Myanmar,Asia,Ingreso mediano bajo,54133798,2023,66.0,1390.0,90.9,0.0,36.0,exposición baja,7,0
+CPV,Cabo Verde,África,Ingreso mediano alto,522331,2023,75.0,2331.0,92.0,0.0,36.0,exposición baja,7,0
+EST,Estonia,Europa,Ingreso alto,1370286,2023,46.0,462.0,87.0,87.0,36.0,exposición baja,60,34
+LVA,Letonia,Europa,Ingreso alto,1883710,2023,42.0,494.0,85.7,85.7,36.0,exposición baja,57,34
+LTU,Lituania,Europa,Ingreso alto,2871585,2023,38.0,306.0,84.2,84.2,36.0,exposición baja,58,34
+KOR,Corea del Sur,Asia,Ingreso alto,51712619,2023,55.0,997.0,85.5,32.7,32.0,exposición baja,19,1
+PRK,Corea del Norte,Asia,Ingreso bajo,26418204,2023,86.0,5512.0,89.5,86.0,27.0,exposición baja,1,2
+ATG,Antigua y Barbuda,América,Ingreso alto,93316,2023,70.0,1420.0,92.9,62.9,25.0,exposición baja,15,32
+CAN,Canadá,América,Ingreso alto,40049088,2023,83.0,5083.0,94.0,89.2,25.0,exposición baja,20,28
+COL,Colombia,América,Ingreso mediano alto,52321152,2023,50.0,876.0,90.0,72.0,25.0,exposición baja,30,32
+DNK,Dinamarca,Europa,Ingreso alto,5946952,2023,44.0,424.0,88.6,88.6,25.0,exposición baja,79,34
+EGY,Egipto,África,Ingreso mediano bajo,114535772,2023,35.0,267.0,85.7,42.9,25.0,exposición baja,27,18
+AFG,Afganistán,Asia,Ingreso bajo,41454761,2023,90.0,3388.0,93.3,0.0,20.0,exposición baja,3,0
+BTN,Bután,Asia,Ingreso mediano bajo,786385,2023,98.0,8482.0,93.9,0.0,18.0,exposición baja,5,0
+HTI,Haití,América,Ingreso mediano bajo,11637398,2023,92.0,6752.0,95.7,91.3,16.0,exposición baja,5,32
+VNM,Vietnam,Asia,Ingreso mediano alto,100352192,2023,61.0,1245.0,93.4,0.0,16.0,exposición baja,14,0
+TUN,Túnez,África,Ingreso mediano bajo,12200431,2023,60.0,974.0,93.3,6.7,16.0,exposición baja,22,19
+DJI,Yibuti,África,Ingreso mediano bajo,1152944,2023,89.0,5971.0,94.4,5.6,13.0,exposición baja,8,18
+SOM,Somalia,África,Ingreso bajo,18358615,2023,91.0,2351.0,96.7,96.7,9.0,exposición baja,12,18
+MEX,México,América,Ingreso mediano alto,129739759,2023,86.0,5810.0,97.7,88.4,4.0,exposición baja,35,32
+ALB,Albania,Europa,Ingreso mediano alto,2411658,2023,65.0,1847.0,100.0,93.8,0.0,exposición baja,11,28
+BHS,Bahamas,América,Ingreso alto,399440,2023,82.0,1876.0,100.0,53.7,0.0,exposición baja,14,32
+BEL,Bélgica,Europa,Ingreso alto,11779946,2023,60.0,882.0,100.0,100.0,0.0,exposición baja,92,34
+BIH,Bosnia y Herzegovina,Europa,Ingreso mediano alto,3185073,2023,60.0,746.0,100.0,23.3,0.0,exposición baja,12,1
+BLZ,Belice,América,Ingreso mediano alto,411106,2023,57.0,835.0,100.0,50.9,0.0,exposición baja,15,32
+BRN,Brunéi,Asia,Ingreso alto,458949,2023,77.0,1311.0,100.0,0.0,0.0,exposición baja,11,0
+BGR,Bulgaria,Europa,Ingreso alto,6446596,2023,44.0,442.0,100.0,100.0,0.0,exposición baja,55,34
+CHL,Chile,América,Ingreso alto,19658835,2023,72.0,1878.0,100.0,27.8,0.0,exposición baja,38,32
+CRI,Costa Rica,América,Ingreso alto,5105525,2023,58.0,1686.0,100.0,75.9,0.0,exposición baja,26,32
+HRV,Croacia,Europa,Ingreso alto,3859686,2023,48.0,510.0,100.0,100.0,0.0,exposición baja,42,35
+CZE,República Checa,Europa,Ingreso alto,10864042,2023,52.0,976.0,100.0,100.0,0.0,exposición baja,52,34
+SLV,El Salvador,América,Ingreso mediano alto,6309624,2023,81.0,1899.0,100.0,100.0,0.0,exposición baja,21,32
+FRA,Francia,Europa,Ingreso alto,68372286,2023,43.0,379.0,100.0,100.0,0.0,exposición baja,93,38
+GRC,Grecia,Europa,Ingreso alto,10407351,2023,32.0,248.0,100.0,100.0,0.0,exposición baja,62,34
+GRD,Granada,América,Ingreso mediano alto,117081,2023,56.0,870.0,100.0,100.0,0.0,exposición baja,17,32
+GTM,Guatemala,América,Ingreso mediano alto,18124838,2023,63.0,1343.0,100.0,100.0,0.0,exposición baja,22,32
+GUY,Guyana,América,Ingreso alto,826353,2023,58.0,770.0,100.0,53.4,0.0,exposición baja,18,32
+HND,Honduras,América,Ingreso mediano bajo,10644851,2023,74.0,2564.0,100.0,100.0,0.0,exposición baja,20,32
+HUN,Hungría,Europa,Ingreso alto,9592186,2023,46.0,738.0,100.0,100.0,0.0,exposición baja,50,34
+ISL,Islandia,Europa,Ingreso alto,385663,2023,62.0,1050.0,100.0,100.0,0.0,exposición baja,44,28
+ITA,Italia,Europa,Ingreso alto,58984216,2023,42.0,392.0,100.0,100.0,0.0,exposición baja,91,34
+LAO,Laos,Asia,Ingreso mediano bajo,7664993,2023,83.0,2713.0,100.0,0.0,0.0,exposición baja,11,0
+LUX,Luxemburgo,Europa,Ingreso alto,666430,2023,54.0,698.0,100.0,100.0,0.0,exposición baja,92,34
+MDA,Moldavia,Europa,Ingreso mediano alto,2457783,2023,60.0,1218.0,100.0,0.0,0.0,exposición baja,23,0
+MAR,Marruecos,África,Ingreso mediano bajo,37712505,2023,52.0,766.0,100.0,0.0,0.0,exposición baja,23,19
+NLD,Países Bajos,Europa,Ingreso alto,17877117,2023,54.0,674.0,100.0,100.0,0.0,exposición baja,92,34
+NOR,Noruega,Europa,Ingreso alto,5519601,2023,57.0,779.0,100.0,84.2,0.0,exposición baja,45,28
+MHL,Islas Marshall,Oceanía,Ingreso mediano alto,38827,2023,57.0,687.0,100.0,0.0,0.0,exposición baja,1,0
+PRY,Paraguay,América,Ingreso mediano alto,6844146,2023,72.0,1822.0,100.0,100.0,0.0,exposición baja,23,32
+PER,Perú,América,Ingreso mediano alto,33845617,2023,61.0,1409.0,100.0,23.0,0.0,exposición baja,29,32
+POL,Polonia,Europa,Ingreso alto,36687353,2023,48.0,758.0,100.0,100.0,0.0,exposición baja,49,34
+PRT,Portugal,Europa,Ingreso alto,10578174,2023,55.0,751.0,100.0,100.0,0.0,exposición baja,78,34
+ROU,Rumania,Europa,Ingreso alto,19061062,2023,44.0,538.0,100.0,100.0,0.0,exposición baja,50,34
+LCA,Santa Lucía,América,Ingreso mediano alto,179285,2023,61.0,859.0,100.0,100.0,0.0,exposición baja,16,32
+VCT,San Vicente y las Granadinas,América,Ingreso mediano alto,101323,2023,58.0,716.0,100.0,72.4,0.0,exposición baja,15,32
+SRB,Serbia,Europa,Ingreso mediano alto,6623183,2023,37.0,349.0,100.0,0.0,0.0,exposición baja,16,0
+SVK,Eslovaquia,Europa,Ingreso alto,5426740,2023,49.0,621.0,100.0,100.0,0.0,exposición baja,51,34
+SVN,Eslovenia,Europa,Ingreso alto,2120461,2023,58.0,828.0,100.0,62.1,0.0,exposición baja,55,34
+ESP,España,Europa,Ingreso alto,48352528,2023,49.0,523.0,100.0,100.0,0.0,exposición baja,77,34
+SWZ,Esuatini,África,Ingreso mediano bajo,1230506,2023,76.0,3778.0,100.0,85.5,0.0,exposición baja,15,12
+THA,Tailandia,Asia,Ingreso mediano alto,71702435,2023,46.0,574.0,100.0,39.1,0.0,exposición baja,14,1
+MKD,Macedonia del Norte,Europa,Ingreso mediano alto,1827816,2023,61.0,1655.0,100.0,0.0,0.0,exposición baja,15,0

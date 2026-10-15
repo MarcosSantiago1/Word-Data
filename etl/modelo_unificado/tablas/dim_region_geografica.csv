@@ -1,0 +1,30 @@
+region_geografica_id,nombre_es,nombre_en,nivel,region_padre_id
+2,África,Africa,1,
+9,Oceanía,Oceania,1,
+19,América,Americas,1,
+142,Asia,Asia,1,
+150,Europa,Europe,1,
+15,Norte de África,Northern Africa,2,2.0
+21,"América del Norte (EE. UU., Canadá y otros)",Northern America,2,19.0
+30,Asia Oriental,Eastern Asia,2,142.0
+34,Asia Meridional,Southern Asia,2,142.0
+35,Sudeste Asiático,South-eastern Asia,2,142.0
+39,Europa del Sur,Southern Europe,2,150.0
+53,Australia y Nueva Zelanda,Australia and New Zealand,2,9.0
+54,Melanesia,Melanesia,2,9.0
+57,Micronesia,Micronesia,2,9.0
+61,Polinesia,Polynesia,2,9.0
+143,Asia Central,Central Asia,2,142.0
+145,Asia Occidental,Western Asia,2,142.0
+151,Europa Oriental,Eastern Europe,2,150.0
+154,Europa del Norte,Northern Europe,2,150.0
+155,Europa Occidental,Western Europe,2,150.0
+202,África subsahariana,Sub-Saharan Africa,2,2.0
+419,América Latina y el Caribe,Latin America and the Caribbean,2,19.0
+5,América del Sur,South America,3,419.0
+11,África Occidental,Western Africa,3,202.0
+13,América Central,Central America,3,419.0
+14,África Oriental,Eastern Africa,3,202.0
+17,África Central,Middle Africa,3,202.0
+18,África Austral,Southern Africa,3,202.0
+29,Caribe,Caribbean,3,419.0

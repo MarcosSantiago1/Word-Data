@@ -1,0 +1,688 @@
+<title>Progreso en el tiempo</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Herramienta de una columna: controles arriba, gráfico de líneas, tabla de cambios, ranking de avance. */
+:root {
+  --page: #f6f6f3;
+  --surface: #fcfcfb;
+  --ink: #0b0b0b;
+  --ink-2: #52514e;
+  --muted: #898781;
+  --grid: #e1e0d9;
+  --axis: #c3c2b7;
+  --border: rgba(11,11,11,0.10);
+  --accent: #1c5cab;
+  --accent-wash: rgba(42,120,214,0.10);
+  --better: #2a78d6;
+  --worse: #e34948;
+  --neutral-bar: #898781;
+  --good-text: #006300;
+  --bad-text: #b3261e;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100;
+  --s5: #e87ba4; --s6: #008300; --s7: #6250d6; --s8: #e34948;
+  --font: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --page: #0d0d0d; --surface: #1a1a19; --ink: #f0efec; --ink-2: #c3c2b7; --muted: #898781;
+    --grid: #2c2c2a; --axis: #383835; --border: rgba(255,255,255,0.10);
+    --accent: #86b6ef; --accent-wash: rgba(57,135,229,0.16);
+    --better: #3987e5; --worse: #e66767; --neutral-bar: #898781; --good-text: #3cc13c; --bad-text: #f08a84;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500;
+    --s5: #d55181; --s6: #008300; --s7: #9085e9; --s8: #e66767;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --page: #0d0d0d; --surface: #1a1a19; --ink: #f0efec; --ink-2: #c3c2b7; --muted: #898781;
+  --grid: #2c2c2a; --axis: #383835; --border: rgba(255,255,255,0.10);
+  --accent: #86b6ef; --accent-wash: rgba(57,135,229,0.16);
+  --better: #3987e5; --worse: #e66767; --neutral-bar: #898781; --good-text: #3cc13c; --bad-text: #f08a84;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500;
+  --s5: #d55181; --s6: #008300; --s7: #9085e9; --s8: #e66767;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--page); color: var(--ink); font-family: var(--font); font-size: 15px; line-height: 1.5;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 28px 48px;
+}
+.wrap { max-width: 1080px; margin: 0 auto; display: flex; flex-direction: column; gap: 20px; }
+header h1 { font-size: 28px; line-height: 1.15; font-weight: 700; margin: 0 0 6px; letter-spacing: -0.01em; text-wrap: balance; }
+header p { margin: 0; color: var(--ink-2); max-width: 68ch; }
+.label { font-size: 12px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); }
+
+/* Controles */
+.controls { display: flex; flex-wrap: wrap; gap: 14px 22px; align-items: flex-end; }
+.field { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.seg { display: inline-flex; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); padding: 2px; flex-wrap: wrap; }
+.seg button {
+  font: inherit; font-size: 14px; border: 0; background: transparent; color: var(--ink-2);
+  padding: 6px 12px; border-radius: 6px; cursor: pointer;
+}
+.seg button:hover { background: var(--accent-wash); color: var(--ink); }
+.seg button[aria-pressed="true"] { background: var(--ink); color: var(--surface); font-weight: 600; }
+select, input[type="search"] {
+  font: inherit; font-size: 14px; color: var(--ink); background: var(--surface);
+  border: 1px solid var(--border); border-radius: 8px; padding: 7px 10px; min-width: 0; max-width: 100%;
+}
+#indicador { max-width: 340px; }
+.years { display: flex; gap: 6px; align-items: center; color: var(--muted); }
+button:focus-visible, select:focus-visible, input:focus-visible, rect:focus-visible {
+  outline: 2px solid var(--accent); outline-offset: 2px;
+}
+
+/* Entidades */
+.entities { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.chip {
+  display: inline-flex; align-items: center; gap: 8px; background: var(--surface);
+  border: 1px solid var(--border); border-radius: 999px; padding: 4px 6px 4px 10px; font-size: 14px;
+}
+.chip .key { width: 16px; height: 0; border-top: 3px solid; border-radius: 2px; }
+.chip button {
+  border: 0; background: transparent; color: var(--muted); cursor: pointer; font-size: 16px; line-height: 1;
+  width: 22px; height: 22px; border-radius: 50%;
+}
+.chip button:hover { background: var(--accent-wash); color: var(--ink); }
+.adder { position: relative; }
+.adder input { width: 240px; }
+.suggest {
+  position: absolute; z-index: 5; top: calc(100% + 4px); left: 0; width: min(340px, 86vw); max-height: 300px; overflow: auto;
+  background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 4px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.14);
+}
+.suggest button {
+  display: flex; justify-content: space-between; gap: 10px; width: 100%; text-align: left; font: inherit; font-size: 14px;
+  border: 0; background: transparent; color: var(--ink); padding: 6px 8px; border-radius: 6px; cursor: pointer;
+}
+.suggest button span { color: var(--muted); font-size: 12px; white-space: nowrap; }
+.suggest button:hover, .suggest button.active { background: var(--accent-wash); }
+.hint { font-size: 13px; color: var(--muted); }
+
+/* Tarjetas */
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 18px 18px 14px; min-width: 0; }
+.card h2 { font-size: 18px; margin: 0 0 2px; font-weight: 600; text-wrap: balance; }
+.card .sub { color: var(--ink-2); font-size: 14px; margin: 0 0 12px; }
+.meta { font-size: 13px; color: var(--muted); margin-top: 10px; }
+.meta b { color: var(--ink-2); font-weight: 500; }
+
+#chart { position: relative; width: 100%; }
+#chart svg { display: block; width: 100%; overflow: visible; }
+.tick { font-family: var(--mono); font-size: 11px; fill: var(--muted); font-variant-numeric: tabular-nums; }
+.endlabel { font-size: 12px; fill: var(--ink-2); }
+.tooltip {
+  position: absolute; pointer-events: none; z-index: 4; background: var(--surface); color: var(--ink);
+  border: 1px solid var(--border); border-radius: 8px; padding: 8px 10px; font-size: 13px; min-width: 170px; max-width: 300px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.16);
+}
+.tooltip .yr { font-weight: 600; margin-bottom: 4px; }
+.tooltip .row { display: grid; grid-template-columns: 14px auto 1fr; gap: 6px; align-items: center; }
+.tooltip .row i { width: 12px; border-top: 2px solid; }
+.tooltip .row b { font-variant-numeric: tabular-nums; font-weight: 600; }
+.tooltip .row span { color: var(--ink-2); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.empty { padding: 60px 0; text-align: center; color: var(--muted); }
+
+/* Tablas */
+.tablewrap { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th, td { padding: 7px 10px; text-align: right; border-bottom: 1px solid var(--grid); white-space: nowrap; }
+th { font-size: 12px; font-weight: 600; color: var(--muted); letter-spacing: 0.02em; }
+th:first-child, td:first-child { text-align: left; }
+td { font-variant-numeric: tabular-nums; }
+td .yr { color: var(--muted); font-size: 12px; margin-left: 4px; }
+td .name { display: inline-flex; align-items: center; gap: 8px; }
+td .name i { width: 14px; border-top: 3px solid; border-radius: 2px; flex: none; }
+.up { color: var(--good-text); } .down { color: var(--bad-text); } .flat { color: var(--ink-2); }
+details summary { cursor: pointer; color: var(--accent); font-size: 14px; margin-top: 10px; }
+
+/* Ranking de avance */
+.bars { display: grid; grid-template-columns: minmax(90px, 220px) minmax(0, 1fr) auto; gap: 4px 12px; align-items: center; font-size: 13px; }
+.bars .nm {
+  border: 0; background: transparent; font: inherit; color: var(--ink-2); text-align: left; padding: 0; cursor: pointer;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: flex; align-items: center; gap: 6px; min-width: 0;
+}
+.bars .nm span { overflow: hidden; text-overflow: ellipsis; }
+.bars .nm:hover { color: var(--ink); text-decoration: underline; }
+.bars .nm.sel { color: var(--ink); font-weight: 600; }
+.bars .nm i { width: 8px; height: 8px; border-radius: 50%; flex: none; }
+.bars .track { position: relative; height: 14px; }
+.bars .zero { position: absolute; top: -3px; bottom: -3px; width: 1px; background: var(--axis); }
+.bars .bar { position: absolute; top: 1px; height: 12px; }
+.bars .val { font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; }
+.bars .gap { grid-column: 1 / -1; text-align: center; color: var(--muted); font-size: 12px; padding: 2px 0; }
+.legend-inline { display: flex; flex-wrap: wrap; gap: 14px; font-size: 13px; color: var(--ink-2); margin-bottom: 10px; }
+.legend-inline:empty { display: none; }
+.legend-inline span { display: inline-flex; align-items: center; gap: 6px; }
+.legend-inline i { width: 12px; height: 12px; border-radius: 3px; }
+.linkbtn { font: inherit; font-size: 14px; border: 0; background: none; color: var(--accent); cursor: pointer; padding: 0; margin-top: 10px; }
+footer { font-size: 13px; color: var(--muted); max-width: 80ch; }
+
+@media (max-width: 640px) {
+  header h1 { font-size: 23px; }
+  .adder, .adder input { width: 100%; }
+  .card { padding: 14px 12px 12px; }
+  .bars { grid-template-columns: minmax(70px, 120px) minmax(0, 1fr) auto; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .bars .bar { transition: width .2s ease, left .2s ease; }
+}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Progreso en el tiempo</h1>
+    <p>Elegí un nivel, un indicador y hasta 8 lugares para ver cómo cambiaron año a año. El índice (año base = 100) muestra quién creció más en proporción; el ranking muestra quién subió o bajó de puesto.</p>
+  </header>
+
+  <div class="controls">
+    <div class="field">
+      <span class="label" id="lbl-nivel">Nivel</span>
+      <div class="seg" id="nivel" role="group" aria-labelledby="lbl-nivel"></div>
+    </div>
+    <div class="field">
+      <label class="label" for="indicador">Indicador</label>
+      <select id="indicador"></select>
+    </div>
+    <div class="field">
+      <span class="label" id="lbl-modo">Vista</span>
+      <div class="seg" id="modo" role="group" aria-labelledby="lbl-modo"></div>
+    </div>
+    <div class="field">
+      <span class="label">Período</span>
+      <div class="years">
+        <select id="desde" aria-label="Desde"></select>
+        <span>a</span>
+        <select id="hasta" aria-label="Hasta"></select>
+      </div>
+    </div>
+  </div>
+
+  <div class="field">
+    <span class="label">Comparar</span>
+    <div class="entities">
+      <div id="chips" class="entities"></div>
+      <div class="adder">
+        <input type="search" id="buscar" placeholder="Agregar…" autocomplete="off" aria-label="Buscar para agregar" aria-controls="sugerencias">
+        <div class="suggest" id="sugerencias" hidden></div>
+      </div>
+    </div>
+  </div>
+
+  <section class="card">
+    <h2 id="titulo"></h2>
+    <p class="sub" id="subtitulo"></p>
+    <div id="chart"></div>
+    <div class="meta" id="meta"></div>
+    <details id="det-datos">
+      <summary>Ver los datos del gráfico</summary>
+      <div class="tablewrap" id="tabla-datos"></div>
+    </details>
+  </section>
+
+  <section class="card">
+    <h2 id="titulo-cambio"></h2>
+    <p class="sub" id="sub-cambio"></p>
+    <div class="tablewrap" id="tabla-cambio"></div>
+  </section>
+
+  <section class="card">
+    <h2 id="titulo-barras"></h2>
+    <p class="sub" id="sub-barras"></p>
+    <div class="legend-inline" id="leyenda-barras"></div>
+    <div class="bars" id="barras"></div>
+    <button class="linkbtn" id="ver-todos" type="button"></button>
+  </section>
+
+  <footer id="pie"></footer>
+</div>
+
+<script>
+const D = /*__DATOS__*/null;
+const SLOTS = 8;
+const TOL = 3; // años de tolerancia para el inicio y el fin de la comparación
+const NIVELES = [["paises", "Países"], ["provincias", "Provincias argentinas"], ["latam", "Subdivisiones de Latinoamérica"]];
+const MODOS = [["valor", "Valores"], ["indice", "Índice (base = 100)"], ["ranking", "Ranking"]];
+const nf = (d) => new Intl.NumberFormat("es-AR", { maximumFractionDigits: d, minimumFractionDigits: 0 });
+const nfc = new Intl.NumberFormat("es-AR", { notation: "compact", maximumFractionDigits: 1 });
+
+// ---------- estado ----------
+let S = { nivel: "paises", porNivel: {}, verTodos: false };
+try { const g = JSON.parse(localStorage.getItem("progreso-estado") || "null"); if (g && g.porNivel && D.niveles[g.nivel]) S = Object.assign(S, g); } catch (e) {}
+function guardar() { try { localStorage.setItem("progreso-estado", JSON.stringify(S)); } catch (e) {} }
+function est() {
+  const n = D.niveles[S.nivel];
+  let e = S.porNivel[S.nivel];
+  if (!e || !n.datos[e.indicador]) {
+    const d = n.defecto;
+    e = { indicador: d.indicador, modo: d.modo, desde: d.desde, hasta: d.hasta, colores: {} };
+    d.entidades.forEach((id, i) => e.colores[id] = i);
+    S.porNivel[S.nivel] = e;
+  }
+  Object.keys(e.colores).forEach(id => { if (!n.entidades[id]) delete e.colores[id]; });
+  return e;
+}
+const nivel = () => D.niveles[S.nivel];
+const indicador = () => nivel().indicadores.find(i => i.id === est().indicador);
+const seleccion = () => Object.keys(est().colores).sort((x, y) => est().colores[x] - est().colores[y]);
+const color = (id) => `var(--s${est().colores[id] + 1})`;
+const nombre = (id) => {
+  const e = nivel().entidades[id];
+  return S.nivel === "latam" ? `${e.n} (${e.g})` : e.n;
+};
+
+// ---------- datos ----------
+function valor(ind, id, anio) {
+  const s = nivel().datos[ind][id];
+  if (!s) return null;
+  const v = s.v[anio - s.a0];
+  return v === undefined ? null : v;
+}
+function rango() {
+  const e = est(), i = indicador();
+  let a = Math.max(e.desde, i.anios[0]), b = Math.min(e.hasta, i.anios[1]);
+  if (a >= b) { a = i.anios[0]; b = i.anios[1]; }
+  return [a, b];
+}
+const rankCache = {};
+function rankings(indId) {
+  const k = S.nivel + "|" + indId;
+  if (rankCache[k]) return rankCache[k];
+  const ind = nivel().indicadores.find(i => i.id === indId);
+  const datos = nivel().datos[indId], porAnio = {};
+  const ents = nivel().entidades;
+  for (const [id, s] of Object.entries(datos)) if (ents[id].g !== "Total") s.v.forEach((v, j) => {
+    if (v === null) return; (porAnio[s.a0 + j] ||= []).push([id, v]);
+  });
+  const out = {};
+  for (const [a, arr] of Object.entries(porAnio)) {
+    arr.sort((x, y) => ind.mejor === "bajo" ? x[1] - y[1] : y[1] - x[1]);
+    out[a] = { n: arr.length, pos: Object.fromEntries(arr.map(([id], j) => [id, j + 1])) };
+  }
+  return (rankCache[k] = out);
+}
+// Punto inicial y final dentro del período (con tolerancia de TOL años).
+function extremos(id, a, b) {
+  const ind = indicador().id;
+  let ini = null, fin = null;
+  for (let y = a; y <= Math.min(b, a + TOL); y++) { const v = valor(ind, id, y); if (v !== null) { ini = [y, v]; break; } }
+  for (let y = b; y >= Math.max(a, b - TOL); y--) { const v = valor(ind, id, y); if (v !== null) { fin = [y, v]; break; } }
+  if (!ini || !fin || ini[0] >= fin[0]) return null;
+  return { ini, fin };
+}
+function cambio(x) {
+  const i = indicador();
+  if (i.cambio === "pct") return x.ini[1] === 0 ? null : (x.fin[1] / x.ini[1] - 1) * 100;
+  return x.fin[1] - x.ini[1];
+}
+function mejora(c) { return indicador().mejor === "bajo" ? -c : c; }
+function fmtCambio(c) {
+  const i = indicador();
+  if (c === null) return "–";
+  const s = c > 0 ? "+" : c < 0 ? "−" : "";
+  const a = Math.abs(c);
+  return i.cambio === "pct" ? `${s}${nf(a >= 100 ? 0 : 1).format(a)} %` : `${s}${nf(Math.max(i.dec, 1)).format(a)}`;
+}
+function fmtValor(v, modo) {
+  if (v === null || v === undefined) return "–";
+  if (modo === "indice") return nf(1).format(v);
+  if (modo === "ranking") return nf(0).format(v) + "°";
+  if (Math.abs(v) >= 100000) return nfc.format(v);
+  return nf(indicador().dec).format(v);
+}
+
+// Serie que se dibuja según la vista: [año, y dibujada, valor real, n del ranking]
+function serie(id) {
+  const e = est(), i = indicador(), [a, b] = rango();
+  const pts = [];
+  let base = null;
+  if (e.modo === "indice") {
+    for (let y = a; y <= b; y++) { const v = valor(i.id, id, y); if (v !== null && v !== 0) { base = [y, v]; break; } }
+    if (!base) return { pts, base };
+  }
+  const rk = e.modo === "ranking" ? rankings(i.id) : null;
+  for (let y = a; y <= b; y++) {
+    const v = valor(i.id, id, y);
+    if (v === null) continue;
+    if (e.modo === "valor") pts.push([y, v, v]);
+    else if (e.modo === "indice") pts.push([y, v / base[1] * 100, v]);
+    else if (rk[y] && rk[y].pos[id]) pts.push([y, rk[y].pos[id], v, rk[y].n]);
+  }
+  return { pts, base };
+}
+
+// ---------- utilidades DOM ----------
+const $ = (s) => document.querySelector(s);
+function el(tag, attrs = {}, ...hijos) {
+  const n = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    if (k === "class") n.className = v; else if (k === "style") n.style.cssText = v;
+    else if (k.startsWith("on")) n.addEventListener(k.slice(2), v); else n.setAttribute(k, v);
+  }
+  for (const h of hijos) if (h !== null && h !== undefined) n.append(h instanceof Node ? h : document.createTextNode(String(h)));
+  return n;
+}
+const NS = "http://www.w3.org/2000/svg";
+function sv(tag, attrs = {}) { const n = document.createElementNS(NS, tag); for (const [k, v] of Object.entries(attrs)) n.setAttribute(k, v); return n; }
+
+function niceTicks(min, max, n) {
+  if (min === max) { min -= 1; max += 1; }
+  const step0 = (max - min) / n, mag = Math.pow(10, Math.floor(Math.log10(step0)));
+  const step = [1, 2, 2.5, 5, 10].map(m => m * mag).find(s => s >= step0);
+  const t = []; for (let v = Math.floor(min / step) * step; v <= max + step * 1e-9; v += step) t.push(+v.toFixed(10));
+  if (t[t.length - 1] < max) t.push(+(t[t.length - 1] + step).toFixed(10));
+  return t;
+}
+
+// ---------- controles ----------
+function pintarControles() {
+  const e = est(), n = nivel();
+  const segN = $("#nivel"); segN.replaceChildren();
+  NIVELES.forEach(([k, t]) => segN.append(el("button", { type: "button", "aria-pressed": String(S.nivel === k), onclick: () => { S.nivel = k; S.verTodos = false; render(); } }, t)));
+  const segM = $("#modo"); segM.replaceChildren();
+  MODOS.forEach(([k, t]) => segM.append(el("button", { type: "button", "aria-pressed": String(e.modo === k), onclick: () => { e.modo = k; render(); } }, t)));
+  const sel = $("#indicador"); sel.replaceChildren();
+  n.indicadores.forEach(i => sel.append(el("option", { value: i.id }, `${i.nombre} (${i.anios[0]}–${i.anios[1]})`)));
+  sel.value = e.indicador;
+  const i = indicador(), [a, b] = rango();
+  for (const [idSel, val] of [["#desde", a], ["#hasta", b]]) {
+    const s = $(idSel); s.replaceChildren();
+    for (let y = i.anios[0]; y <= i.anios[1]; y++) s.append(el("option", { value: y }, y));
+    s.value = val;
+  }
+  const chips = $("#chips"); chips.replaceChildren();
+  seleccion().forEach(id => {
+    const tiene = !!n.datos[e.indicador][id];
+    chips.append(el("span", { class: "chip", title: tiene ? "" : "Sin datos para este indicador", style: tiene ? "" : "opacity:.55" },
+      el("span", { class: "key", style: `border-color:${color(id)}` }), nombre(id),
+      el("button", { type: "button", "aria-label": `Quitar ${nombre(id)}`, onclick: () => { delete e.colores[id]; render(); } }, "×")));
+  });
+  const lleno = seleccion().length >= SLOTS;
+  const inp = $("#buscar");
+  inp.disabled = lleno;
+  inp.placeholder = lleno ? "Máximo 8 lugares" : (S.nivel === "paises" ? "Agregar país o región…" : S.nivel === "provincias" ? "Agregar provincia…" : "Agregar (nombre o país)…");
+}
+$("#indicador").addEventListener("change", (ev) => { est().indicador = ev.target.value; S.verTodos = false; render(); });
+$("#desde").addEventListener("change", (ev) => { const e = est(); e.desde = +ev.target.value; if (e.hasta <= e.desde) e.hasta = Math.min(indicador().anios[1], e.desde + 1); render(); });
+$("#hasta").addEventListener("change", (ev) => { const e = est(); e.hasta = +ev.target.value; if (e.desde >= e.hasta) e.desde = Math.max(indicador().anios[0], e.hasta - 1); render(); });
+
+function agregar(id) {
+  const e = est();
+  if (e.colores[id] !== undefined || seleccion().length >= SLOTS) return;
+  const usados = new Set(Object.values(e.colores));
+  let k = 0; while (usados.has(k)) k++;
+  e.colores[id] = k;
+  render();
+}
+const norm = (s) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+let activo = 0;
+function sugerir() {
+  const q = norm($("#buscar").value.trim()), box = $("#sugerencias"), n = nivel(), e = est();
+  box.replaceChildren();
+  if (!q) { box.hidden = true; return; }
+  const ind = e.indicador;
+  const res = Object.entries(n.entidades)
+    .filter(([id, x]) => e.colores[id] === undefined && (norm(x.n).includes(q) || norm(x.g).includes(q) || norm(id).includes(q)))
+    .sort((x, y) => (!!n.datos[ind][y[0]] - !!n.datos[ind][x[0]]) || (norm(x[1].n).includes(q) ? 0 : 1) - (norm(y[1].n).includes(q) ? 0 : 1) || x[1].n.localeCompare(y[1].n, "es"))
+    .slice(0, 40);
+  if (!res.length) { box.append(el("div", { class: "hint", style: "padding:6px 8px" }, "Sin coincidencias")); box.hidden = false; return; }
+  activo = Math.min(activo, res.length - 1);
+  res.forEach(([id, x], j) => box.append(el("button", {
+    type: "button", class: j === activo ? "active" : "", "data-id": id,
+    onmousedown: (ev) => { ev.preventDefault(); agregar(id); $("#buscar").value = ""; box.hidden = true; $("#buscar").focus(); }
+  }, x.n, el("span", {}, (n.datos[ind][id] ? "" : "sin datos · ") + x.g))));
+  box.hidden = false;
+}
+$("#buscar").addEventListener("input", () => { activo = 0; sugerir(); });
+$("#buscar").addEventListener("blur", () => setTimeout(() => $("#sugerencias").hidden = true, 120));
+$("#buscar").addEventListener("keydown", (ev) => {
+  const items = [...$("#sugerencias").querySelectorAll("button")];
+  if (ev.key === "ArrowDown") { activo = Math.min(activo + 1, items.length - 1); sugerir(); ev.preventDefault(); }
+  else if (ev.key === "ArrowUp") { activo = Math.max(activo - 1, 0); sugerir(); ev.preventDefault(); }
+  else if (ev.key === "Enter" && items[activo]) { agregar(items[activo].dataset.id); ev.target.value = ""; $("#sugerencias").hidden = true; ev.preventDefault(); }
+  else if (ev.key === "Escape") { $("#sugerencias").hidden = true; }
+});
+
+// ---------- gráfico de líneas ----------
+function pintarGrafico() {
+  const e = est(), i = indicador(), [a, b] = rango();
+  const cont = $("#chart"); cont.replaceChildren();
+  const series = seleccion().map(id => ({ id, ...serie(id) })).filter(s => s.pts.length);
+  const modoTxt = e.modo === "indice" ? `índice: primer año con dato del período = 100` : e.modo === "ranking" ? `puesto entre todos los lugares con dato ese año (1.° = ${i.mejor === "bajo" ? "el valor más bajo" : "el valor más alto"})` : i.unidad;
+  $("#titulo").textContent = `${i.nombre}, ${a}–${b}`;
+  $("#subtitulo").textContent = modoTxt.charAt(0).toUpperCase() + modoTxt.slice(1);
+  if (!series.length) {
+    cont.append(el("div", { class: "empty" }, "Ninguno de los lugares elegidos tiene datos de este indicador en el período. Agregá otro o cambiá de indicador."));
+    $("#tabla-datos").replaceChildren();
+    return;
+  }
+
+  const W = cont.clientWidth || 800, narrow = W < 560;
+  const H = narrow ? 300 : 380;
+  const showEnd = !narrow && series.length <= 6;
+  const M = { t: 12, r: showEnd ? 150 : 14, b: 28, l: 56 };
+  const iw = W - M.l - M.r, ih = H - M.t - M.b;
+  const ys = series.flatMap(s => s.pts.map(p => p[1]));
+  let lo = Math.min(...ys), hi = Math.max(...ys);
+  let ticks;
+  if (e.modo === "ranking") {
+    lo = 1; hi = Math.max(...series.flatMap(s => s.pts.map(p => p[3])));
+    ticks = niceTicks(0, hi, 5).filter(t => t >= 1 && t <= hi); if (ticks[0] !== 1) ticks.unshift(1);
+  } else {
+    if (e.modo === "indice") { lo = Math.min(lo, 100); hi = Math.max(hi, 100); }
+    const zero = e.modo === "valor" && lo >= 0 && lo < hi * 0.35;
+    const pad = (hi - lo) * 0.06 || 1;
+    ticks = niceTicks(zero ? 0 : lo - pad, hi + pad, narrow ? 4 : 5);
+    if (e.modo === "valor" && lo >= 0) ticks = ticks.filter(t => t >= 0);
+    lo = ticks[0]; hi = ticks[ticks.length - 1];
+  }
+  const x = (y) => M.l + (y - a) / (b - a) * iw;
+  const y = e.modo === "ranking" ? (v) => M.t + (v - 1) / Math.max(hi - 1, 1) * ih : (v) => M.t + (hi - v) / (hi - lo) * ih;
+  const svg = sv("svg", { viewBox: `0 0 ${W} ${H}`, height: H, role: "img", "aria-label": `${i.nombre}: ${series.map(s => nombre(s.id)).join(", ")}` });
+
+  // grilla y ejes
+  const decEje = Math.abs(hi - lo) < 5 ? 2 : Math.abs(hi - lo) < 50 ? 1 : 0;
+  for (const t of ticks) {
+    svg.append(sv("line", { x1: M.l, x2: M.l + iw, y1: y(t), y2: y(t), stroke: "var(--grid)", "stroke-width": 1 }));
+    const tx = sv("text", { x: M.l - 8, y: y(t) + 4, "text-anchor": "end", class: "tick" });
+    tx.textContent = e.modo === "ranking" ? t + "°" : Math.abs(t) >= 10000 ? nfc.format(t) : nf(decEje).format(t);
+    svg.append(tx);
+  }
+  if (e.modo === "indice") svg.append(sv("line", { x1: M.l, x2: M.l + iw, y1: y(100), y2: y(100), stroke: "var(--axis)", "stroke-width": 1 }));
+  svg.append(sv("line", { x1: M.l, x2: M.l + iw, y1: M.t + ih, y2: M.t + ih, stroke: "var(--axis)", "stroke-width": 1 }));
+  const paso = Math.max(1, Math.ceil((b - a) / (narrow ? 5 : 10)));
+  for (let yr = a; yr <= b; yr += paso) {
+    const tx = sv("text", { x: x(yr), y: H - 8, "text-anchor": "middle", class: "tick" }); tx.textContent = yr; svg.append(tx);
+  }
+
+  // líneas
+  for (const s of series) {
+    const c = color(s.id);
+    const ralo = s.pts.length <= 12 || s.pts.some((p, j) => j && p[0] - s.pts[j - 1][0] > 1);
+    if (s.pts.length > 1) {
+      const d = s.pts.map((p, j) => `${j ? "L" : "M"}${x(p[0]).toFixed(1)},${y(p[1]).toFixed(1)}`).join("");
+      svg.append(sv("path", { d, fill: "none", stroke: c, "stroke-width": 2, "stroke-linejoin": "round", "stroke-linecap": "round" }));
+    }
+    const marcas = ralo ? s.pts : [s.pts[s.pts.length - 1]];
+    for (const p of marcas) svg.append(sv("circle", { cx: x(p[0]), cy: y(p[1]), r: 4, fill: c, stroke: "var(--surface)", "stroke-width": 2 }));
+  }
+  // etiquetas al final, solo si no se pisan
+  if (showEnd) {
+    const ends = series.map(s => { const p = s.pts[s.pts.length - 1]; return { s, p, yy: y(p[1]) }; }).sort((u, v) => u.yy - v.yy);
+    const choca = ends.some((u, j) => j && u.yy - ends[j - 1].yy < 14);
+    if (!choca) for (const u of ends) {
+      const tx = sv("text", { x: x(u.p[0]) + 9, y: u.yy + 4, class: "endlabel" });
+      const nm = nivel().entidades[u.s.id].n;
+      tx.textContent = `${nm.length > 16 ? nm.slice(0, 15) + "…" : nm} ${fmtValor(u.p[1], e.modo)}`;
+      svg.append(tx);
+    }
+  }
+  // cruz y tooltip
+  const cross = sv("line", { y1: M.t, y2: M.t + ih, stroke: "var(--muted)", "stroke-width": 1, visibility: "hidden" });
+  svg.append(cross);
+  const hit = sv("rect", { x: M.l - 10, y: 0, width: iw + 20, height: H, fill: "transparent", tabindex: 0, "aria-label": "Recorrer los años con las flechas" });
+  svg.append(hit);
+  cont.append(svg);
+  const tip = el("div", { class: "tooltip" }); tip.hidden = true; cont.append(tip);
+  const mostrar = (yr) => {
+    cross.setAttribute("x1", x(yr)); cross.setAttribute("x2", x(yr)); cross.setAttribute("visibility", "visible");
+    tip.replaceChildren(el("div", { class: "yr" }, yr));
+    const filas = series.map(s => ({ s, p: s.pts.find(p => p[0] === yr) })).filter(r => r.p)
+      .sort((u, v) => e.modo === "ranking" ? u.p[1] - v.p[1] : v.p[1] - u.p[1]);
+    if (!filas.length) tip.append(el("div", { class: "hint" }, "Sin datos este año"));
+    for (const { s, p } of filas) {
+      let txt = fmtValor(p[1], e.modo);
+      if (e.modo === "ranking") txt += ` de ${p[3]}`;
+      else if (e.modo === "indice") txt += ` (${fmtValor(p[2], "valor")})`;
+      tip.append(el("div", { class: "row" }, el("i", { style: `border-color:${color(s.id)}` }), el("b", {}, txt), el("span", {}, nivel().entidades[s.id].n)));
+    }
+    if (e.modo === "ranking" && filas.length) {
+      tip.append(el("div", { class: "hint", style: "margin-top:4px" }, `Valor real (${i.unidad}): ` + filas.map(({ s, p }) => `${nivel().entidades[s.id].n} ${fmtValor(p[2], "valor")}`).join(" · ")));
+    }
+    tip.hidden = false;
+    const cw = cont.clientWidth, px = x(yr) / W * cw, tw = tip.offsetWidth;
+    tip.style.left = Math.max(0, Math.min(cw - tw, px + 14 + tw > cw ? px - tw - 14 : px + 14)) + "px";
+    tip.style.top = "8px";
+  };
+  const ocultar = () => { tip.hidden = true; cross.setAttribute("visibility", "hidden"); };
+  let foco = b;
+  hit.addEventListener("pointermove", (ev) => {
+    const r = svg.getBoundingClientRect(), px = (ev.clientX - r.left) * W / r.width;
+    foco = Math.max(a, Math.min(b, Math.round(a + (px - M.l) / iw * (b - a)))); mostrar(foco);
+  });
+  hit.addEventListener("pointerleave", ocultar);
+  hit.addEventListener("focus", () => mostrar(foco));
+  hit.addEventListener("blur", ocultar);
+  hit.addEventListener("keydown", (ev) => {
+    if (ev.key === "ArrowLeft") { foco = Math.max(a, foco - 1); mostrar(foco); ev.preventDefault(); }
+    if (ev.key === "ArrowRight") { foco = Math.min(b, foco + 1); mostrar(foco); ev.preventDefault(); }
+  });
+
+  // tabla de datos (vista accesible)
+  const anios = []; for (let yr = a; yr <= b; yr++) if (series.some(s => s.pts.some(p => p[0] === yr))) anios.push(yr);
+  const t = el("table");
+  t.append(el("thead", {}, el("tr", {}, el("th", {}, "Año"), ...series.map(s => el("th", {}, nivel().entidades[s.id].n)))));
+  const tb = el("tbody");
+  for (const yr of anios) tb.append(el("tr", {}, el("td", {}, yr), ...series.map(s => { const p = s.pts.find(q => q[0] === yr); return el("td", {}, p ? fmtValor(p[1], e.modo) : "–"); })));
+  t.append(tb);
+  $("#tabla-datos").replaceChildren(t);
+}
+
+// ---------- tabla de cambios ----------
+function veredicto(c) {
+  const i = indicador();
+  if (c === null) return el("span", { class: "flat" }, "–");
+  const umbral = i.cambio === "pct" ? 0.5 : Math.pow(10, -Math.max(i.dec, 1));
+  if (Math.abs(c) < umbral) return el("span", { class: "flat" }, "= Sin cambio");
+  if (!i.mejor) return el("span", { class: "flat" }, c > 0 ? "▲ Subió" : "▼ Bajó");
+  return mejora(c) > 0 ? el("span", { class: "up" }, (c > 0 ? "▲" : "▼") + " Mejoró") : el("span", { class: "down" }, (c > 0 ? "▲" : "▼") + " Empeoró");
+}
+function pintarCambios() {
+  const i = indicador(), [a, b] = rango();
+  $("#titulo-cambio").textContent = `Cómo cambió cada uno entre ${a} y ${b}`;
+  $("#sub-cambio").textContent = (i.cambio === "pct"
+    ? "Cambio en %, crecimiento anual promedio y puesto en el ranking del nivel."
+    : `Diferencia en ${i.unidad} y puesto en el ranking del nivel.`) + " Si falta el año exacto se usa el más cercano dentro de 3 años.";
+  const rk = rankings(i.id);
+  const cols = ["Lugar", "Inicio", "Final", i.cambio === "pct" ? "Cambio" : "Diferencia"];
+  if (i.cambio === "pct") cols.push("Anual prom.");
+  cols.push("Puesto", "");
+  const t = el("table");
+  t.append(el("thead", {}, el("tr", {}, ...cols.map(c => el("th", {}, c)))));
+  const tb = el("tbody");
+  for (const id of seleccion()) {
+    const xt = extremos(id, a, b);
+    const tr = el("tr", {}, el("td", {}, el("span", { class: "name" }, el("i", { style: `border-color:${color(id)}` }), nivel().entidades[id].n)));
+    if (!xt) { tr.append(el("td", { colspan: cols.length - 1, style: "text-align:left;color:var(--muted)" }, "Sin datos suficientes en el período")); tb.append(tr); continue; }
+    const c = cambio(xt);
+    tr.append(el("td", {}, fmtValor(xt.ini[1], "valor"), el("span", { class: "yr" }, xt.ini[0])));
+    tr.append(el("td", {}, fmtValor(xt.fin[1], "valor"), el("span", { class: "yr" }, xt.fin[0])));
+    tr.append(el("td", {}, fmtCambio(c)));
+    if (i.cambio === "pct") {
+      const n = xt.fin[0] - xt.ini[0];
+      const cagr = xt.ini[1] > 0 && xt.fin[1] > 0 ? (Math.pow(xt.fin[1] / xt.ini[1], 1 / n) - 1) * 100 : null;
+      tr.append(el("td", {}, cagr === null ? "–" : `${cagr > 0 ? "+" : cagr < 0 ? "−" : ""}${nf(1).format(Math.abs(cagr))} %`));
+    }
+    const p0 = rk[xt.ini[0]], p1 = rk[xt.fin[0]];
+    tr.append(el("td", {}, p0 && p1 && p0.pos[id] ? `${p0.pos[id]}° → ${p1.pos[id]}°` : "no compite", p1 && p1.pos[id] ? el("span", { class: "yr" }, `de ${p1.n}`) : null));
+    tr.append(el("td", {}, veredicto(c)));
+    tb.append(tr);
+  }
+  t.append(tb);
+  $("#tabla-cambio").replaceChildren(t);
+}
+
+// ---------- quién avanzó más ----------
+function pintarBarras() {
+  const i = indicador(), [a, b] = rango(), n = nivel();
+  const filas = [];
+  for (const id of Object.keys(n.datos[i.id])) {
+    const xt = extremos(id, a, b); if (!xt) continue;
+    const c = cambio(xt); if (c === null || !isFinite(c)) continue;
+    filas.push({ id, c, m: i.mejor ? mejora(c) : c });
+  }
+  filas.sort((u, v) => v.m - u.m);
+  $("#titulo-barras").textContent = i.mejor ? `Quién avanzó más entre ${a} y ${b}` : `Quién creció más entre ${a} y ${b}`;
+  const nTot = filas.filter(f => n.entidades[f.id].g === "Total").length;
+  $("#sub-barras").textContent = `${filas.length - nTot} lugares con dato al inicio y al final del período, ordenados ${i.mejor ? "de la mayor mejora a la mayor caída" : "de mayor a menor cambio"}. ${i.cambio === "pct" ? "Cambio en %." : "Diferencia en " + i.unidad + "."} Tocá un nombre para sumarlo al gráfico.`;
+  const ley = $("#leyenda-barras"); ley.replaceChildren();
+  if (i.mejor) ley.append(
+    el("span", {}, el("i", { style: "background:var(--better)" }), `Mejoró (${i.mejor === "bajo" ? "bajó" : "subió"})`),
+    el("span", {}, el("i", { style: "background:var(--worse)" }), `Empeoró (${i.mejor === "bajo" ? "subió" : "bajó"})`));
+  const box = $("#barras"); box.replaceChildren();
+  const btn = $("#ver-todos");
+  if (!filas.length) { box.append(el("div", { class: "gap" }, "No hay lugares con datos comparables en este período.")); btn.hidden = true; return; }
+  const sel = new Set(seleccion());
+  const K = 8, corto = filas.length <= 2 * K + 4;
+  let puesto = 0;
+  const todas = filas.map((f, j) => ({ ...f, j, puesto: n.entidades[f.id].g === "Total" ? null : ++puesto }));
+  const mostrar = S.verTodos || corto ? todas : todas.filter(f => f.j < K || f.j >= filas.length - K || sel.has(f.id));
+  btn.hidden = corto;
+  btn.textContent = S.verTodos ? "Mostrar solo los extremos" : `Mostrar todos (${filas.length})`;
+  const vals = filas.map(f => f.c);
+  const lo = Math.min(0, ...vals), hi = Math.max(0, ...vals), span = hi - lo || 1;
+  const pos = (v) => (v - lo) / span * 100;
+  let prev = -1;
+  for (const f of mostrar) {
+    if (prev >= 0 && f.j > prev + 1) box.append(el("div", { class: "gap" }, `· · · ${f.j - prev - 1} más · · ·`));
+    prev = f.j;
+    const ent = n.entidades[f.id];
+    const nm = el("button", { type: "button", class: "nm" + (sel.has(f.id) ? " sel" : ""), title: S.nivel === "latam" ? `${ent.n} (${ent.g})` : ent.n, onclick: () => agregar(f.id) },
+      sel.has(f.id) ? el("i", { style: `background:${color(f.id)}` }) : null, el("span", {}, f.puesto ? `${f.puesto}. ${ent.n}` : `Referencia: ${ent.n}`));
+    const fill = !i.mejor ? "var(--neutral-bar)" : f.m >= 0 ? "var(--better)" : "var(--worse)";
+    const x0 = pos(Math.min(0, f.c)), x1 = pos(Math.max(0, f.c));
+    const r = f.c >= 0 ? "0 4px 4px 0" : "4px 0 0 4px";
+    const track = el("div", { class: "track" },
+      el("div", { class: "zero", style: `left:${pos(0)}%` }),
+      el("div", { class: "bar", style: `left:${x0}%;width:${Math.max(x1 - x0, 0.4)}%;background:${fill};border-radius:${r}` }));
+    box.append(nm, track, el("div", { class: "val" }, fmtCambio(f.c)));
+  }
+}
+$("#ver-todos").addEventListener("click", () => { S.verTodos = !S.verTodos; pintarBarras(); guardar(); });
+
+// ---------- meta y pie ----------
+function pintarMeta() {
+  const i = indicador();
+  const mejor = i.mejor === "alto" ? "Más alto es mejor." : i.mejor === "bajo" ? "Más bajo es mejor." : "Sin juicio de mejor o peor: se muestra si subió o bajó.";
+  $("#meta").replaceChildren(el("b", {}, "Fuente: "), i.fuente + ". ", el("b", {}, "Unidad: "), i.unidad + ". ", mejor + " " + (i.nota || ""));
+  $("#pie").textContent = `${nivel().nombre}: ${nivel().descripcion}. Datos del ETL del proyecto, generados el ${D.generado}. Los colores siguen a cada lugar: si quitás uno, los demás conservan su color.`;
+}
+
+function render() {
+  est();
+  pintarControles();
+  pintarGrafico();
+  pintarCambios();
+  pintarBarras();
+  pintarMeta();
+  guardar();
+}
+let ancho = 0;
+new ResizeObserver(() => { const w = $("#chart").clientWidth; if (Math.abs(w - ancho) > 4) { ancho = w; pintarGrafico(); } }).observe($("#chart"));
+render();
+</script>

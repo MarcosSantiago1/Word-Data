@@ -1,0 +1,54 @@
+subdivision_id,sistema,tipo,valor
+208,codigo_gaul1_cckp,codigo,ARG.1212445
+208,codigo_indec,codigo,66
+209,codigo_gaul1_cckp,codigo,ARG.1212429
+209,codigo_indec,codigo,06
+210,codigo_gaul1_cckp,codigo,ARG.1212430
+210,codigo_indec,codigo,02
+210,nombre_en_fuentes,nombre,CABA
+210,nombre_en_fuentes,nombre,Capital Federal
+210,nombre_en_fuentes,nombre,Ciudad Autónoma de Buenos Aires
+211,codigo_gaul1_cckp,codigo,ARG.1212447
+211,codigo_indec,codigo,74
+212,codigo_gaul1_cckp,codigo,ARG.1212436
+212,codigo_indec,codigo,30
+213,codigo_gaul1_cckp,codigo,ARG.1212440
+213,codigo_indec,codigo,46
+214,codigo_gaul1_cckp,codigo,ARG.1212450
+214,codigo_indec,codigo,86
+215,codigo_gaul1_cckp,codigo,ARG.1212432
+215,codigo_indec,codigo,22
+216,codigo_gaul1_cckp,codigo,ARG.1212446
+216,codigo_indec,codigo,70
+217,codigo_gaul1_cckp,codigo,ARG.1212431
+217,codigo_indec,codigo,10
+218,codigo_gaul1_cckp,codigo,ARG.1212439
+218,codigo_indec,codigo,42
+219,codigo_gaul1_cckp,codigo,ARG.1212441
+219,codigo_indec,codigo,50
+220,codigo_gaul1_cckp,codigo,ARG.1212442
+220,codigo_indec,codigo,54
+221,codigo_gaul1_cckp,codigo,ARG.1212437
+221,codigo_indec,codigo,34
+222,codigo_gaul1_cckp,codigo,ARG.1212443
+222,codigo_indec,codigo,58
+223,codigo_gaul1_cckp,codigo,ARG.1212444
+223,codigo_indec,codigo,62
+224,codigo_gaul1_cckp,codigo,ARG.1212449
+224,codigo_indec,codigo,82
+225,codigo_gaul1_cckp,codigo,ARG.1212452
+225,codigo_indec,codigo,90
+226,codigo_gaul1_cckp,codigo,ARG.1212433
+226,codigo_indec,codigo,26
+227,codigo_gaul1_cckp,codigo,ARG.1212451
+227,codigo_indec,codigo,94
+227,nombre_en_fuentes,nombre,"Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+228,codigo_gaul1_cckp,codigo,ARG.1212435
+228,codigo_indec,codigo,18
+229,codigo_gaul1_cckp,codigo,ARG.1212434
+229,codigo_indec,codigo,14
+230,codigo_gaul1_cckp,codigo,ARG.1212438
+230,codigo_indec,codigo,38
+231,codigo_gaul1_cckp,codigo,ARG.1212448
+231,codigo_indec,codigo,78
+232,nombre_en_fuentes,nombre,Estado Nacional

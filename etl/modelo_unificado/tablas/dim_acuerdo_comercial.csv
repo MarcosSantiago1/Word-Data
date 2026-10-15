@@ -1,0 +1,843 @@
+acuerdo_id,nombre,tipo,region_acuerdo,listado_omc
+1,Afghanistan India,bilateral,Asia,1
+2,African Common Market,plurilateral,Africa,1
+3,African Economic Community,plurilateral,Africa,0
+4,Agadir Agreement,plurilateral,Intercontinental,1
+5,Albania Bosnia and Herzegovina,bilateral,Europe,1
+6,Albania Bulgaria,bilateral,Europe,1
+7,Albania Croatia,bilateral,Europe,1
+8,Albania EC SAA,plurilateral con tercer país,Europe,1
+9,Albania EFTA,plurilateral con tercer país,Europe,1
+10,Albania Kosovo,bilateral,Europe,1
+11,Albania Macedonia,bilateral,Europe,1
+12,Albania Moldova,bilateral,Europe,1
+13,Albania Romania,bilateral,Europe,1
+14,Albania Serbia,bilateral,Europe,1
+15,Albania Turkey,bilateral,Intercontinental,1
+16,Algeria EC,plurilateral con tercer país,Intercontinental,1
+17,Algeria EC Euro-Med Association Agreement,plurilateral con tercer país,Intercontinental,1
+18,Algeria Jordan,bilateral,Intercontinental,0
+19,Algeria Morocco,bilateral,Africa,0
+20,Algeria Tunisia,bilateral,Africa,0
+21,Algeria Tunisia,bilateral,Africa,0
+22,Andean Countries Brazil,plurilateral con tercer país,Americas,0
+24,Andean Countries Argentina,plurilateral con tercer país,Americas,0
+25,Andean Countries MERCOSUR,región con región,Americas,0
+26,Andean Group Cartagena Agreement,plurilateral,Americas,0
+28,Andorra EC,plurilateral con tercer país,Europe,1
+29,Arab Common Market,plurilateral,Intercontinental,1
+30,Arab Maghreb Union,plurilateral,Africa,0
+31,Argentina Bolivia,bilateral,Americas,0
+32,Argentina Brazil,bilateral,Americas,0
+33,Argentina Brazil,bilateral,Americas,0
+34,Argentina Brazil,bilateral,Americas,0
+35,Argentina Chile,bilateral,Americas,0
+36,Argentina Colombia,bilateral,Americas,0
+37,Argentina Costa Rica,bilateral,Americas,0
+38,Argentina Cuba,bilateral,Americas,0
+39,Argentina Cuba,bilateral,Americas,0
+40,Argentina Ecuador,bilateral,Americas,0
+41,Argentina Ecuador,bilateral,Americas,0
+42,Argentina El Salvador,bilateral,Americas,0
+43,Argentina Mexico,bilateral,Americas,1
+45,Argentina Paraguay,bilateral,Americas,0
+46,Argentina Peru,bilateral,Americas,0
+47,Argentina Uruguay,bilateral,Americas,0
+48,Argentina Venezuela,bilateral,Americas,0
+49,Argentina Venezuela,bilateral,Americas,0
+50,Armenia Belarus,bilateral,Intercontinental,0
+51,Armenia Estonia,bilateral,Intercontinental,0
+52,Armenia Georgia,bilateral,Asia,1
+53,Armenia Iran,bilateral,Asia,0
+54,Armenia Kazakhstan,bilateral,Asia,1
+55,Armenia Kyrgyzstan,bilateral,Asia,1
+56,Armenia Moldova,bilateral,Intercontinental,1
+57,Armenia Russia,bilateral,Intercontinental,1
+58,Armenia Tajikistan,bilateral,Asia,0
+59,Armenia Turkmenistan,bilateral,Asia,1
+60,Armenia Ukraine,bilateral,Intercontinental,1
+61,Arusha Agreement II,región con región,Intercontinental,1
+62,Asia Pacific Trade Agreement (Bangkok Agreement amended),plurilateral,Asia,0
+63,Association of Caribbean States,plurilateral,Americas,0
+64,Association of Southeast Asian Nations (ASEAN) FTA,plurilateral,Asia,1
+65,Association of Southeast Asian Nations (ASEAN) Preferential Trading Arrangements (PTA),plurilateral,Asia,0
+66,Association of Southeast Asian Nations Australia New Zealand FTA (AANZFTA),región con región,Intercontinental,1
+67,Association of Southeast Asian Nations China,plurilateral con tercer país,Asia,1
+69,Association of Southeast Asian Nations Goods,plurilateral,Asia,0
+70,Association of Southeast Asian Nations India,plurilateral con tercer país,Asia,1
+71,Association of Southeast Asian Nations Japan,plurilateral con tercer país,Asia,1
+72,Association of Southeast Asian Nations Korea,plurilateral con tercer país,Asia,1
+74,Australia Canada,bilateral,Intercontinental,0
+75,Australia Chile,bilateral,Intercontinental,1
+77,Australia New Zealand (ANZCERTA),bilateral,Oceania,1
+79,Australia New Zealand Free Trade Agreement,bilateral,Oceania,1
+80,Australia Papua New Guinea,bilateral,Oceania,0
+81,Australia Papua New Guinea,bilateral,Oceania,1
+82,Australia Singapore,bilateral,Intercontinental,1
+83,Australia Thailand,bilateral,Intercontinental,1
+84,Australia US,bilateral,Intercontinental,1
+85,Austria EC,plurilateral con tercer país,Europe,1
+86,Azerbaijan Georgia,bilateral,Asia,1
+87,Azerbaijan Kazakhstan,bilateral,Asia,0
+88,Azerbaijan Kyrgyzstan,bilateral,Asia,0
+89,Azerbaijan Moldova,bilateral,Intercontinental,0
+90,Azerbaijan Russia,bilateral,Intercontinental,1
+91,Azerbaijan Turkmenistan,bilateral,Asia,0
+92,Azerbaijan Ukraine,bilateral,Intercontinental,1
+93,Azerbaijan Uzbekistan,bilateral,Asia,0
+94,Bahrain Jordan,bilateral,Asia,0
+96,Bahrain US,bilateral,Intercontinental,1
+97,Baltic Free Trade Area (BAFTA) agriculture,plurilateral,Europe,0
+98,Baltic Free Trade Area (BAFTA) industrial,plurilateral,Europe,1
+99,Baltic Free Trade Area (BAFTA) Non Tariff Barriers,plurilateral,Europe,0
+100,Bangkok Agreement,plurilateral,Asia,1
+104,Belarus Kazakhstan Russia,plurilateral,Intercontinental,1
+105,Belarus Kyrgyzstan,bilateral,Intercontinental,0
+106,Belarus Moldova,bilateral,Europe,0
+107,Belarus Russia,bilateral,Europe,0
+108,Belarus Russia,bilateral,Europe,0
+109,Belarus Russia (Union State),bilateral,Europe,0
+112,Belarus Serbia,bilateral,Europe,0
+113,Belarus Tajikistan,bilateral,Intercontinental,0
+114,Belarus Ukraine,bilateral,Europe,1
+115,Belize Guatemala,bilateral,Americas,0
+116,Bhutan India,bilateral,Asia,1
+117,Bhutan India,bilateral,Asia,0
+118,Bolivia Brazil,bilateral,Americas,0
+119,Bolivia Chile,bilateral,Americas,0
+120,Bolivia Cuba,bilateral,Americas,0
+121,Bolivia Cuba,bilateral,Americas,0
+122,Bolivia MERCOSUR,plurilateral con tercer país,Americas,0
+123,Bolivia MERCOSUR,plurilateral con tercer país,Americas,0
+124,Bolivia Mexico,bilateral,Americas,0
+125,Bolivia Paraguay,bilateral,Americas,0
+126,Bolivia Uruguay,bilateral,Americas,0
+128,Bosnia and Herzegovina Bulgaria,bilateral,Europe,1
+129,Bosnia and Herzegovina Croatia,bilateral,Europe,1
+130,Bosnia and Herzegovina EC SAA,plurilateral con tercer país,Europe,1
+131,Bosnia and Herzegovina Macedonia,bilateral,Europe,1
+132,Bosnia and Herzegovina Moldova,bilateral,Europe,1
+133,Bosnia and Herzegovina Romania,bilateral,Europe,1
+134,Bosnia and Herzegovina Serbia Montenegro,bilateral,Europe,0
+135,Bosnia and Herzegovina Slovenia,bilateral,Europe,1
+136,Bosnia and Herzegovina Turkey,bilateral,Intercontinental,1
+137,Botswana Zimbabwe,bilateral,Africa,0
+138,Brazil Cuba,bilateral,Americas,0
+139,Brazil Cuba,bilateral,Americas,0
+140,Brazil Guyana,bilateral,Americas,0
+141,Brazil Mexico,bilateral,Americas,1
+142,Brazil Peru,bilateral,Americas,0
+143,Brazil Suriname,bilateral,Americas,0
+144,Brazil Uruguay,bilateral,Americas,0
+145,Brazil Venezuela,bilateral,Americas,0
+146,Brunei Japan,bilateral,Asia,1
+147,Bulgaria Czech Republic,bilateral,Europe,1
+148,Bulgaria EC,plurilateral con tercer país,Europe,1
+149,Bulgaria EFTA,plurilateral con tercer país,Europe,1
+150,Bulgaria Estonia,bilateral,Europe,1
+151,Bulgaria Finland,bilateral,Europe,1
+152,Bulgaria Israel,bilateral,Intercontinental,1
+153,Bulgaria Latvia,bilateral,Europe,1
+154,Bulgaria Lithuania,bilateral,Europe,1
+155,Bulgaria Macedonia,bilateral,Europe,1
+156,Bulgaria Moldova,bilateral,Europe,1
+157,Bulgaria Serbia,bilateral,Europe,1
+158,Bulgaria Slovakia,bilateral,Europe,1
+159,Bulgaria Slovenia,bilateral,Europe,1
+160,Bulgaria Turkey,bilateral,Intercontinental,1
+161,Canada Chile,bilateral,Americas,1
+162,Canada Colombia,bilateral,Americas,1
+163,Canada Costa Rica,bilateral,Americas,1
+164,Canada EFTA,plurilateral con tercer país,Intercontinental,1
+165,Canada Israel,bilateral,Intercontinental,1
+166,Canada Jordan,bilateral,Intercontinental,1
+167,Canada New Zealand,bilateral,Intercontinental,0
+168,Canada Peru,bilateral,Americas,1
+169,Canada US,bilateral,Americas,1
+170,Canada US Automotive Products Trade Agreement (APTA),bilateral,Americas,0
+171,Caribbean Community (CARICOM),plurilateral,Americas,1
+172,Caribbean Community (CARICOM) Colombia,plurilateral con tercer país,Americas,0
+173,Caribbean Community (CARICOM) Costa Rica,plurilateral con tercer país,Americas,0
+174,Caribbean Community (CARICOM) Cuba,plurilateral con tercer país,Americas,0
+175,Caribbean Community (CARICOM) Dominican Republic,plurilateral con tercer país,Americas,0
+177,Caribbean Community (CARICOM) revised,plurilateral,Americas,0
+178,Caribbean Community (CARICOM) Venezuela,plurilateral con tercer país,Americas,0
+179,Caribbean Free Trade Association (CARIFTA),plurilateral,Americas,0
+180,Caribbean Free Trade Association (CARIFTA),plurilateral,Americas,1
+181,CARIFORUM EC EPA,región con región,Intercontinental,1
+182,Central African Customs and Economic Union (UDEAC),plurilateral,Africa,0
+183,Central America Chile,plurilateral con tercer país,Americas,1
+184,Central America Dominican Republic,plurilateral con tercer país,Americas,1
+185,Central America Panama,plurilateral con tercer país,Americas,1
+186,Central American Common Market (CACM),plurilateral,Americas,1
+187,Central American Free Trade Agreement (CAFTA),plurilateral,Americas,0
+188,Central American Free Trade Agreement (CAFTA) Dominican Republic,plurilateral con tercer país,Americas,1
+189,Central American Free Trade Area (CAFTA),plurilateral,Americas,1
+190,Central American Integration System,plurilateral,Americas,0
+191,Central Asian Economic Community,plurilateral,Asia,0
+192,Central European Free Trade Agreement (CEFTA),plurilateral,Europe,1
+198,Chad Morocco,bilateral,Africa,0
+199,Chile China,bilateral,Intercontinental,1
+200,Chile Colombia,bilateral,Americas,0
+201,Chile Colombia,bilateral,Americas,1
+202,Chile EC,plurilateral con tercer país,Intercontinental,1
+203,Chile Ecuador,bilateral,Americas,0
+204,Chile Ecuador,bilateral,Americas,0
+205,Chile EFTA,plurilateral con tercer país,Intercontinental,1
+206,Chile India,bilateral,Intercontinental,1
+207,Chile Japan,bilateral,Intercontinental,1
+208,Chile Korea,bilateral,Intercontinental,1
+209,Chile MERCOSUR,plurilateral con tercer país,Americas,0
+211,Chile Mexico,bilateral,Americas,0
+212,Chile Mexico,bilateral,Americas,1
+213,Chile Panama,bilateral,Americas,1
+214,Chile Peru,bilateral,Americas,0
+215,Chile Peru,bilateral,Americas,0
+216,Chile Turkey,bilateral,Intercontinental,1
+217,Chile Uruguay,bilateral,Americas,0
+218,Chile US,bilateral,Americas,1
+219,Chile Venezuela,bilateral,Americas,0
+220,China Hong Kong,bilateral,Asia,1
+221,China Macao,bilateral,Asia,1
+222,China New Zealand,bilateral,Intercontinental,1
+223,China Pakistan,bilateral,Asia,1
+224,China Pakistan,bilateral,Asia,1
+227,China Peru,bilateral,Intercontinental,1
+228,China Singapore,bilateral,Asia,1
+230,Colombia Costa Rica,bilateral,Americas,0
+231,Colombia Cuba,bilateral,Americas,0
+232,Colombia Cuba,bilateral,Americas,0
+233,Colombia Cuba,bilateral,Americas,0
+234,Colombia EFTA,plurilateral con tercer país,Intercontinental,1
+235,Colombia El Salvador,bilateral,Americas,0
+236,Colombia Guatemala,bilateral,Americas,0
+237,Colombia Honduras,bilateral,Americas,0
+238,Colombia Nicaragua,bilateral,Americas,0
+239,Colombia Northern Triangle,plurilateral con tercer país,Americas,1
+240,Colombia Panama,bilateral,Americas,0
+241,Colombia US,bilateral,Americas,1
+242,Common Economic Zone,plurilateral,Intercontinental,1
+243,Common Market for Eastern and Southern Africa (COMESA),plurilateral,Africa,1
+244,Commonwealth of Independent States (CIS),plurilateral,Intercontinental,1
+246,Costa Rica Dominican Republic,bilateral,Americas,0
+247,Costa Rica Mexico,bilateral,Americas,0
+248,Costa Rica Mexico,bilateral,Americas,1
+249,Costa Rica Nicaragua Panama,plurilateral,Americas,0
+251,Costa Rica Venezuela,bilateral,Americas,0
+252,Cote d'Ivoire EC EPA,plurilateral con tercer país,Intercontinental,1
+253,Cotonou Agreement,región con región,Intercontinental,0
+254,Croatia EC,plurilateral con tercer país,Europe,1
+255,Croatia EFTA,plurilateral con tercer país,Europe,1
+256,Croatia Hungary,bilateral,Europe,0
+257,Croatia Lithuania,bilateral,Europe,0
+258,Croatia Macedonia,bilateral,Europe,1
+259,Croatia Macedonia (amended),bilateral,Europe,1
+260,Croatia Moldova,bilateral,Europe,1
+261,Croatia Serbia Montenegro,bilateral,Europe,1
+262,Croatia Slovenia,bilateral,Europe,1
+263,Croatia Turkey,bilateral,Intercontinental,1
+264,Cuba Ecuador,bilateral,Americas,0
+265,Cuba Ecuador,bilateral,Americas,0
+266,Cuba Guatemala,bilateral,Americas,0
+267,Cuba MERCOSUR,plurilateral con tercer país,Americas,0
+268,Cuba Mexico,bilateral,Americas,0
+270,Cuba Paraguay,bilateral,Americas,0
+271,Cuba Peru,bilateral,Americas,0
+272,Cuba Peru,bilateral,Americas,0
+273,Cuba Peru,bilateral,Americas,0
+274,Cuba Uruguay,bilateral,Americas,0
+275,Cuba Uruguay,bilateral,Americas,0
+276,Cuba Venezuela,bilateral,Americas,0
+277,Cuba Venezuela,bilateral,Americas,0
+278,Cyprus EC,plurilateral con tercer país,Europe,1
+279,Czech and Slovak Republic EFTA,plurilateral con tercer país,Europe,1
+280,Czech Republic EC,plurilateral con tercer país,Europe,1
+282,Czech Republic Estonia,bilateral,Europe,1
+283,Czech Republic Israel,bilateral,Intercontinental,1
+284,Czech Republic Latvia,bilateral,Europe,1
+285,Czech Republic Lithuania,bilateral,Europe,1
+286,Czech Republic Romania,bilateral,Europe,1
+287,Czech Republic Slovakia,bilateral,Europe,1
+288,Czech Republic Slovenia,bilateral,Europe,1
+289,Czech Republic Turkey,bilateral,Intercontinental,1
+290,Czechoslovakia Finland,bilateral,Europe,1
+291,D8 PTA,plurilateral,Intercontinental,0
+292,Dominican Republic Panama,bilateral,Americas,1
+293,EC,plurilateral,Europe,1
+300,EC Amsterdam,plurilateral,Europe,0
+302,EC Egypt,plurilateral con tercer país,Intercontinental,1
+303,EC Egypt Agreement,plurilateral con tercer país,Intercontinental,1
+304,EC Egypt Euro-Med Association Agreement,plurilateral con tercer país,Intercontinental,1
+305,EC Estonia,plurilateral con tercer país,Europe,1
+306,EC Estonia Europe Agreement,plurilateral con tercer país,Europe,0
+307,EC Faroe Islands,plurilateral con tercer país,Europe,1
+308,EC Faroe Islands,plurilateral con tercer país,Europe,1
+309,EC Finland,plurilateral con tercer país,Europe,1
+311,EC Greece Association Agreement,plurilateral con tercer país,Europe,1
+312,EC Hungary,plurilateral con tercer país,Europe,1
+313,EC Iceland,plurilateral con tercer país,Europe,1
+314,EC Israel,plurilateral con tercer país,Intercontinental,1
+315,EC Israel,plurilateral con tercer país,Intercontinental,1
+316,EC Israel Euro-Med Association Agreement,plurilateral con tercer país,Intercontinental,1
+317,EC Jordan,plurilateral con tercer país,Intercontinental,1
+318,EC Jordan Euro-Med Association Agreement,plurilateral con tercer país,Intercontinental,1
+319,EC Latvia,plurilateral con tercer país,Europe,1
+320,EC Latvia Europe Agreement,plurilateral con tercer país,Europe,0
+321,EC Lebanon,plurilateral con tercer país,Intercontinental,1
+322,EC Lebanon,plurilateral con tercer país,Intercontinental,1
+323,EC Lebanon Euro-Med Association Agreement,plurilateral con tercer país,Intercontinental,1
+324,EC Lisbon,plurilateral,Europe,0
+325,EC Lithuania,plurilateral con tercer país,Europe,1
+326,EC Lithuania Europe Agreement,plurilateral con tercer país,Europe,0
+327,EC Maastricht,plurilateral,Europe,0
+328,EC Macedonia SAA,plurilateral con tercer país,Europe,1
+329,EC Malta,plurilateral con tercer país,Europe,1
+330,EC Mexico,plurilateral con tercer país,Intercontinental,1
+331,EC Montenegro SAA,plurilateral con tercer país,Europe,1
+332,EC Morocco,plurilateral con tercer país,Intercontinental,1
+333,EC Morocco Association Agreement,plurilateral con tercer país,Intercontinental,1
+334,EC Morocco Euro-Med Association Agreement,plurilateral con tercer país,Intercontinental,1
+335,EC Nice,plurilateral,Europe,0
+336,EC Norway,plurilateral con tercer país,Europe,1
+337,EC Poland,plurilateral con tercer país,Europe,1
+338,EC Portugal,plurilateral con tercer país,Europe,1
+340,EC Romania,plurilateral con tercer país,Europe,1
+341,EC San Marino,plurilateral con tercer país,Europe,1
+342,EC Serbia SAA,plurilateral con tercer país,Europe,1
+344,EC Slovakia,plurilateral con tercer país,Europe,1
+345,EC Slovenia,plurilateral con tercer país,Europe,1
+346,EC Slovenia Europe Agreement,plurilateral con tercer país,Europe,0
+347,EC South Africa,plurilateral con tercer país,Intercontinental,1
+348,EC Spain,plurilateral con tercer país,Europe,1
+349,EC Sweden,plurilateral con tercer país,Europe,1
+350,EC Switzerland Liechtenstein,plurilateral con tercer país,Europe,1
+351,EC Syria,plurilateral con tercer país,Intercontinental,1
+352,EC Tunisia,plurilateral con tercer país,Intercontinental,1
+353,EC Tunisia Association Agreement,plurilateral con tercer país,Intercontinental,1
+354,EC Tunisia Euro-Med Association Agreement,plurilateral con tercer país,Intercontinental,1
+355,EC Turkey,plurilateral con tercer país,Intercontinental,1
+357,EC Turkey Association Agreement (Ankara Agreement),plurilateral con tercer país,Intercontinental,1
+359,EC Yugoslavia,plurilateral con tercer país,Europe,1
+360,Economic and Monetary Community of Central Africa (CEMAC),plurilateral,Africa,1
+361,Economic and Monetary Community of Central Africa (CEMAC) revised,plurilateral,Africa,0
+363,Economic Community of Central African States (ECCAS-CEEAC),plurilateral,Africa,0
+364,Economic Community of Central African States (ECCAS-CEEAC) PTA/FTA/CU,plurilateral,Africa,0
+365,Economic Community of the Great Lakes (CEPGL) Economic and Customs Cooperation Agreement,plurilateral,Africa,0
+366,Economic Community Of West African States (ECOWAS),plurilateral,Africa,0
+367,Economic Community Of West African States (ECOWAS),plurilateral,Africa,1
+370,Economic Cooperation Organization (ECO) Preferences,plurilateral,Asia,1
+371,Economic Cooperation Organization Trade Agreement (ECOTA),plurilateral,Asia,0
+372,Ecuador Mexico,bilateral,Americas,1
+373,Ecuador Paraguay,bilateral,Americas,0
+374,Ecuador Uruguay,bilateral,Americas,0
+375,EFTA,plurilateral,Europe,1
+376,EFTA Egypt,plurilateral con tercer país,Intercontinental,1
+377,EFTA Estonia,plurilateral con tercer país,Europe,1
+379,EFTA GCC,región con región,Intercontinental,1
+380,EFTA Hungary,plurilateral con tercer país,Europe,1
+382,EFTA Israel,plurilateral con tercer país,Intercontinental,1
+383,EFTA Jordan,plurilateral con tercer país,Intercontinental,1
+384,EFTA Korea,plurilateral con tercer país,Intercontinental,1
+385,EFTA Latvia,plurilateral con tercer país,Europe,1
+386,EFTA Lebanon,plurilateral con tercer país,Intercontinental,1
+388,EFTA Lithuania,plurilateral con tercer país,Europe,1
+389,EFTA Macedonia,plurilateral con tercer país,Europe,1
+390,EFTA Mexico,plurilateral con tercer país,Intercontinental,1
+391,EFTA Morocco,plurilateral con tercer país,Intercontinental,1
+392,EFTA Poland,plurilateral con tercer país,Europe,1
+393,EFTA Romania,plurilateral con tercer país,Europe,1
+394,EFTA Serbia,plurilateral con tercer país,Europe,1
+396,EFTA Singapore,plurilateral con tercer país,Intercontinental,1
+398,EFTA Slovenia,plurilateral con tercer país,Europe,1
+399,EFTA Southern African Customs Union (SACU),región con región,Intercontinental,1
+400,EFTA Spain,plurilateral con tercer país,Europe,1
+401,EFTA Tunisia,plurilateral con tercer país,Intercontinental,1
+402,EFTA Turkey,plurilateral con tercer país,Intercontinental,1
+403,Egypt Iraq,bilateral,Intercontinental,0
+404,Egypt Jordan,bilateral,Intercontinental,0
+405,Egypt Jordan,bilateral,Intercontinental,0
+406,Egypt Jordan,bilateral,Intercontinental,0
+407,Egypt Lebanon,bilateral,Intercontinental,0
+408,Egypt Libya,bilateral,Africa,0
+409,Egypt Libya,bilateral,Africa,0
+410,Egypt Morocco,bilateral,Africa,0
+411,Egypt Morocco,bilateral,Africa,0
+412,Egypt PLO,bilateral,Intercontinental,0
+413,Egypt Syria,bilateral,Intercontinental,0
+414,Egypt Tunisia,bilateral,Africa,0
+415,Egypt Turkey,bilateral,Intercontinental,1
+416,El Salvador Honduras Taiwan,plurilateral,Intercontinental,1
+417,El Salvador Mexico,bilateral,Americas,0
+418,El Salvador Nicaragua Free Trade Area,bilateral,Americas,1
+419,El Salvador Panama,bilateral,Americas,0
+421,El Salvador Venezuela,bilateral,Americas,0
+422,Equatorial Customs Union,plurilateral,Africa,0
+424,Estonia Faroe Islands,bilateral,Europe,1
+425,Estonia Finland,bilateral,Europe,1
+426,Estonia Hungary,bilateral,Europe,1
+427,Estonia Norway,bilateral,Europe,1
+428,Estonia Slovakia,bilateral,Europe,1
+429,Estonia Slovenia,bilateral,Europe,1
+430,Estonia Sweden,bilateral,Europe,1
+431,Estonia Switzerland,bilateral,Europe,1
+432,Estonia Turkey,bilateral,Intercontinental,1
+433,Estonia Ukraine,bilateral,Europe,1
+434,Eurasian Economic Community (EAEC),plurilateral,Intercontinental,1
+435,Eurasian Economic Community (Union of the Five),plurilateral,Intercontinental,1
+436,European Coal and Steel Community,plurilateral,Europe,0
+437,European Economic Area (EEA),región con región,Europe,1
+438,Faroe Islands Iceland,bilateral,Europe,1
+439,Faroe Islands Iceland,bilateral,Europe,1
+440,Faroe Islands Norway,bilateral,Europe,1
+441,Faroe Islands Poland,bilateral,Europe,1
+442,Faroe Islands Sweden,bilateral,Europe,0
+443,Faroe Islands Switzerland,bilateral,Europe,1
+444,Fiji Papua New Guinea,bilateral,Oceania,0
+445,EFTA Finland,plurilateral con tercer país,Europe,1
+446,Finland German Democratic Republic,bilateral,Europe,1
+447,Finland Hungary,bilateral,Europe,1
+448,Finland Latvia,bilateral,Europe,1
+449,Finland Lithuania,bilateral,Europe,1
+450,Finland Poland,bilateral,Europe,1
+451,Finland USSR,bilateral,Europe,0
+452,France Monaco,bilateral,Europe,0
+453,France Tunisia Customs Union Convention,bilateral,Intercontinental,0
+454,Georgia Kazakhstan,bilateral,Asia,1
+455,Georgia Russia,bilateral,Intercontinental,1
+456,Georgia Turkey,bilateral,Asia,1
+457,Georgia Turkmenistan,bilateral,Asia,1
+458,Georgia Ukraine,bilateral,Intercontinental,1
+459,Georgia Uzbekistan,bilateral,Asia,0
+460,Ghana Upper Volta Trade Agreement,bilateral,Africa,1
+461,Global System of Trade Preferences (GSTP),plurilateral,Intercontinental,1
+462,Greater Arab Free Trade Agreement,plurilateral,Intercontinental,1
+463,Greenland Iceland,bilateral,Europe,0
+464,Group of Three,plurilateral,Americas,1
+466,GUAM/GUUAM Organization for Democracy and Economic Development,plurilateral,Intercontinental,1
+467,Guatemala Mexico,bilateral,Americas,0
+468,Guatemala Mexico,bilateral,Americas,0
+469,Guatemala Panama,bilateral,Americas,0
+470,Guatemala Taiwan,bilateral,Intercontinental,1
+471,Guatemala Venezuela,bilateral,Americas,0
+473,Gulf Cooperation Council (GCC),plurilateral,Asia,1
+474,Gulf Cooperation Council (GCC),plurilateral,Asia,1
+475,Gulf Cooperation Council (GCC) Singapore,plurilateral con tercer país,Americas,1
+476,Guyana Venezuela,bilateral,Americas,0
+477,Honduras Mexico,bilateral,Americas,0
+478,Honduras Panama,bilateral,Americas,0
+480,Honduras Venezuela,bilateral,Americas,0
+481,Hungary Israel,bilateral,Intercontinental,1
+482,Hungary Latvia,bilateral,Europe,1
+483,Hungary Lithuania,bilateral,Europe,1
+487,Hungary Slovenia,bilateral,Europe,1
+488,Hungary Turkey,bilateral,Intercontinental,1
+489,India Korea,bilateral,Asia,1
+490,India MERCOSUR,plurilateral con tercer país,Intercontinental,1
+491,India Nepal,bilateral,Asia,0
+492,India Nepal,bilateral,Asia,1
+493,India Singapore,bilateral,Asia,1
+494,India Sri Lanka,bilateral,Asia,1
+495,Indonesia Japan,bilateral,Asia,1
+496,Inter-Arab Trade Agreement,plurilateral,Intercontinental,0
+497,Iran Pakistan,bilateral,Asia,0
+498,Iran Syria,bilateral,Asia,0
+499,Iraq Jordan,bilateral,Asia,0
+500,Iraq Jordan,bilateral,Asia,0
+501,Iraq Lebanon,bilateral,Asia,0
+502,Iraq Tunisia,bilateral,Intercontinental,0
+503,Iraq UAE,bilateral,Asia,0
+504,Iraq UAE,bilateral,Asia,0
+505,Ireland UK Free Trade Area,bilateral,Europe,1
+506,Israel Jordan,bilateral,Asia,0
+507,Israel Jordan,bilateral,Asia,0
+508,Israel MERCOSUR,plurilateral con tercer país,Intercontinental,1
+509,Israel Mexico,bilateral,Intercontinental,1
+510,Israel PLO,bilateral,Asia,0
+511,Israel Poland,bilateral,Intercontinental,1
+512,Israel Romania,bilateral,Intercontinental,1
+513,Israel Slovakia,bilateral,Intercontinental,1
+514,Israel Slovenia,bilateral,Intercontinental,1
+515,Israel Turkey,bilateral,Asia,1
+516,Israel US,bilateral,Intercontinental,1
+517,Japan Malaysia,bilateral,Asia,1
+518,Japan Mexico,bilateral,Intercontinental,1
+519,Japan Philippines,bilateral,Asia,1
+520,Japan Singapore,bilateral,Asia,1
+521,Japan Switzerland,bilateral,Intercontinental,1
+522,Japan Thailand,bilateral,Asia,1
+523,Japan Vietnam,bilateral,Asia,1
+524,Jordan Kuwait,bilateral,Asia,0
+525,Jordan Kuwait,bilateral,Asia,0
+526,Jordan Lebanon,bilateral,Asia,0
+527,Jordan Lebanon,bilateral,Asia,0
+528,Jordan Libya,bilateral,Intercontinental,0
+529,Jordan Morocco,bilateral,Intercontinental,0
+530,Jordan Morocco,bilateral,Africa,0
+531,Jordan PLO,bilateral,Asia,0
+532,Jordan Qatar,bilateral,Asia,0
+533,Jordan Saudi Arabia,bilateral,Asia,0
+534,Jordan Singapore,bilateral,Asia,1
+535,Jordan Sudan,bilateral,Intercontinental,0
+536,Jordan Sudan,bilateral,Intercontinental,0
+537,Jordan Syria,bilateral,Asia,0
+538,Jordan Syria,bilateral,Asia,0
+539,Jordan Syria,bilateral,Asia,0
+540,Jordan Tunisia,bilateral,Africa,0
+541,Jordan Turkey,bilateral,Intercontinental,1
+542,Jordan UAE,bilateral,Asia,0
+543,Jordan US,bilateral,Intercontinental,1
+544,Kazakhstan Kyrgyzstan,bilateral,Asia,1
+545,Kazakhstan Moldova,bilateral,Intercontinental,0
+546,Kazakhstan Russia,bilateral,Intercontinental,1
+547,Kazakhstan Tajikistan,bilateral,Asia,0
+548,Kazakhstan Ukraine,bilateral,Intercontinental,1
+549,Kazakhstan Uzbekistan,bilateral,Asia,0
+550,Korea Singapore,bilateral,Asia,1
+551,Korea US,bilateral,Intercontinental,1
+552,Kuwait Lebanon,bilateral,Asia,0
+553,Kuwait Tunisia,bilateral,Intercontinental,0
+554,Kuwait UAE,bilateral,Asia,0
+555,Kyrgyzstan Moldova,bilateral,Intercontinental,1
+556,Kyrgyzstan Russia,bilateral,Intercontinental,1
+557,Kyrgyzstan Tajikistan,bilateral,Asia,0
+558,Kyrgyzstan Ukraine,bilateral,Intercontinental,1
+559,Kyrgyzstan Uzbekistan,bilateral,Asia,1
+560,Laos Thailand,bilateral,Asia,1
+561,Latin American Free Trade Area (LAFTA),plurilateral,Americas,1
+562,Latin American Integration Association (ALADI LAIA),plurilateral,Americas,1
+564,Latvia Norway,bilateral,Europe,1
+565,Latvia Poland,bilateral,Europe,1
+566,Latvia Slovakia,bilateral,Europe,1
+567,Latvia Slovenia,bilateral,Europe,1
+568,Latvia Sweden,bilateral,Europe,1
+569,Latvia Switzerland,bilateral,Europe,1
+570,Latvia Turkey,bilateral,Intercontinental,1
+571,Latvia Ukraine,bilateral,Europe,0
+572,Lebanon Syria,bilateral,Asia,0
+573,Lebanon UAE,bilateral,Asia,0
+574,Libya Morocco,bilateral,Africa,0
+575,Libya Tunisia,bilateral,Africa,0
+576,Lithuania Norway,bilateral,Europe,1
+577,Lithuania Poland,bilateral,Europe,1
+578,Lithuania Slovakia,bilateral,Europe,1
+579,Lithuania Slovenia,bilateral,Europe,1
+580,Lithuania Sweden,bilateral,Europe,1
+581,Lithuania Switzerland,bilateral,Europe,1
+582,Lithuania Turkey,bilateral,Intercontinental,1
+583,Lithuania Ukraine,bilateral,Europe,0
+584,Lome I,región con región,Intercontinental,1
+585,Lome II,región con región,Intercontinental,1
+586,Lome III,región con región,Intercontinental,1
+587,Lome IV,región con región,Intercontinental,0
+588,Kosovo Macedonia,bilateral,Europe,0
+589,Macedonia Moldova,bilateral,Europe,1
+590,Macedonia Romania,bilateral,Europe,1
+591,Macedonia Serbia and Montenegro,bilateral,Europe,0
+592,Macedonia Slovenia,bilateral,Europe,1
+593,Macedonia Turkey,bilateral,Intercontinental,1
+594,Macedonia Ukraine,bilateral,Europe,1
+595,Malawi Mozambique,bilateral,Africa,0
+596,Malawi South Africa,bilateral,Africa,0
+598,Malaysia New Zealand,bilateral,Asia,1
+599,Malaysia Pakistan,bilateral,Asia,1
+600,Mano River Union,bilateral,Africa,0
+601,Mauritania Morocco,bilateral,Africa,0
+602,Mauritius Pakistan,bilateral,Intercontinental,1
+603,Melanesian Spearhead Group (MSG),plurilateral,Oceania,1
+604,MERCOSUR,plurilateral,Americas,1
+605,MERCOSUR Mexico Auto Agreement,plurilateral con tercer país,Americas,0
+606,MERCOSUR Peru,plurilateral con tercer país,Americas,0
+608,MERCOSUR Southern African Customs Union (SACU),región con región,Intercontinental,0
+610,Mexico Nicaragua,bilateral,Americas,0
+611,Mexico Nicaragua,bilateral,Americas,1
+612,Mexico Northern Triangle,plurilateral con tercer país,Americas,1
+613,Mexico Panama,bilateral,Americas,0
+615,Mexico Uruguay,bilateral,Americas,0
+616,Mexico Uruguay,bilateral,Americas,1
+617,Moldova Romania,bilateral,Europe,1
+618,Moldova Russia,bilateral,Europe,1
+619,Moldova Serbia,bilateral,Europe,1
+620,Moldova Turkmenistan,bilateral,Intercontinental,0
+621,Moldova Ukraine,bilateral,Europe,1
+622,Moldova Ukraine,bilateral,Europe,0
+623,Moldova Uzbekistan,bilateral,Intercontinental,0
+624,Montenegro Turkey,bilateral,Intercontinental,1
+625,Morocco Tunisia,bilateral,Africa,0
+626,Morocco Turkey,bilateral,Intercontinental,1
+627,Morocco UAE,bilateral,Intercontinental,1
+628,Morocco US,bilateral,Intercontinental,1
+629,Mozambique Zimbabwe,bilateral,Africa,0
+630,Namibia Zimbabwe,bilateral,Africa,0
+631,New Zealand Singapore,bilateral,Intercontinental,1
+632,New Zealand Thailand,bilateral,Intercontinental,1
+633,Nicaragua Panama,bilateral,Americas,0
+634,Nicaragua Taiwan,bilateral,Americas,1
+635,Nicaragua Venezuela,bilateral,Americas,0
+636,North American Free Trade Agreement (NAFTA),plurilateral,Americas,1
+637,Oman US,bilateral,Intercontinental,1
+638,Organisation of Eastern Caribbean States (OECS),plurilateral,Americas,0
+639,Pacific Island Countries Trade Agreement (PICTA),plurilateral,Oceania,1
+640,Pakistan Sri Lanka,bilateral,Asia,1
+641,Panama Singapore,bilateral,Intercontinental,1
+642,Panama Taiwan,bilateral,Intercontinental,1
+643,Panama US,bilateral,Americas,1
+644,Peru Singapore,bilateral,Intercontinental,1
+645,Peru US,bilateral,Americas,1
+646,Poland Turkey,bilateral,Intercontinental,1
+647,Protocol on Trade Negotiations (PTN),plurilateral,Intercontinental,1
+648,Romania Serbia,bilateral,Europe,1
+649,Romania Slovakia,bilateral,Europe,1
+650,Romania Turkey,bilateral,Intercontinental,1
+651,Russia Serbia and Montenegro,bilateral,Europe,1
+652,Russia Tajikistan,bilateral,Intercontinental,1
+653,Russia Turkmenistan,bilateral,Intercontinental,1
+654,Russia Ukraine,bilateral,Europe,1
+655,Russia Uzbekistan,bilateral,Intercontinental,1
+656,Saudi Arabia UAE,bilateral,Asia,0
+657,Serbia Turkey,bilateral,Intercontinental,1
+658,Singapore US,bilateral,Intercontinental,1
+659,Slovakia Slovenia,bilateral,Europe,1
+660,Slovakia Turkey,bilateral,Intercontinental,1
+661,Slovenia Turkey,bilateral,Intercontinental,1
+663,South Africa Southern Rhodesia Customs Union,bilateral,Africa,1
+664,South Africa Zimbabwe,bilateral,Africa,0
+666,"South Asian Association for Regional Cooperation, Preferential Trading Arrangement (SAPTA)",plurilateral,Asia,1
+667,South Asian Free Trade Area (SAFTA),plurilateral,Asia,1
+668,South Pacific Trade and Economic Co Operation Agreement (SPARTECA ),plurilateral,Intercontinental,1
+669,Southern Africa Customs Union (SACU),plurilateral,Africa,0
+670,Southern Africa Customs Union (SACU),plurilateral,Africa,1
+671,Southern African Development Community (SADC),plurilateral,Africa,0
+673,Sudan Tunisia,bilateral,Africa,0
+674,Syria Tunisia,bilateral,Intercontinental,0
+675,Syria Turkey,bilateral,Asia,1
+676,Syria UAE,bilateral,Asia,0
+677,Tajikistan Ukraine,bilateral,Intercontinental,1
+678,Tajikistan Uzbekistan,bilateral,Asia,0
+679,Trans Pacific Strategic EPA,plurilateral,Intercontinental,1
+680,Treaty of Economic Association,plurilateral,Americas,0
+681,Trinidad and Tobago Venezuela,bilateral,Americas,0
+682,Tripartite Agreement,plurilateral,Intercontinental,1
+683,Tunisia Turkey,bilateral,Asia,1
+684,Turkmenistan Ukraine,bilateral,Intercontinental,1
+685,Turkmenistan Uzbekistan,bilateral,Asia,0
+686,Ukraine Uzbekistan,bilateral,Intercontinental,1
+687,US Vietnam,bilateral,Intercontinental,0
+688,West African Economic and Monetary Union,plurilateral,Africa,1
+689,Yaounde I,región con región,Intercontinental,1
+690,Yaounde II,región con región,Intercontinental,1
+691,Algeria Iraq,bilateral,Intercontinental,0
+692,Algeria Morocco,bilateral,Africa,0
+695,Arab Trade Convention / Treaty on Transit Trade,plurilateral,Intercontinental,0
+697,Argentina Uruguay,bilateral,Americas,0
+698,Argentina Uruguay,bilateral,Americas,0
+699,Argentina Uruguay,bilateral,Americas,0
+700,Arusha Agreement I,región con región,Intercontinental,0
+701,Austria Faroe Islands,bilateral,Europe,0
+702,Azerbaijan Belarus,bilateral,Intercontinental,0
+703,Bahrain Iraq,bilateral,Asia,0
+705,Belarus Kazakhstan,bilateral,Intercontinental,0
+706,Benelux Economic Union,plurilateral,Europe,0
+707,Bhutan India,bilateral,Asia,0
+708,Bhutan India,bilateral,Asia,0
+709,Bhutan India,bilateral,Asia,0
+710,Bosnia and Herzegovina Kosovo,bilateral,Europe,0
+711,Bosnia and Herzegovina Macedonia,bilateral,Europe,0
+712,Brazil Mexico,bilateral,Americas,0
+715,Chile Cuba,bilateral,Americas,0
+716,Chile Peru,bilateral,Americas,1
+717,Commonwealth of Independent States (CIS) Common Agrarian Market (CAM),plurilateral,Intercontinental,0
+723,Cook Islands Fiji,bilateral,Oceania,0
+724,Croatia Kosovo,bilateral,Europe,0
+725,Cross Boarder Initiative,plurilateral,Africa,0
+726,Customs and Economic Union of West African States (UDEAO),plurilateral,Africa,0
+727,Ecuador Peru,bilateral,Americas,0
+728,Egypt Morocco,bilateral,Africa,0
+729,Egypt Saudi Arabia,bilateral,Intercontinental,0
+730,Egypt Saudi Arabia,bilateral,Intercontinental,0
+731,Egypt Syria,bilateral,Intercontinental,0
+732,Faroe Islands Finland,bilateral,Europe,0
+733,Faroe Islands Sweden,bilateral,Europe,0
+736,Fiji Tonga,bilateral,Oceania,0
+740,Georgia Moldova,bilateral,Intercontinental,0
+741,Greenland Sweden,bilateral,Intercontinental,0
+742,Guinea Morocco,bilateral,Africa,0
+743,Guyana Panama,bilateral,Americas,0
+744,Honduras Mexico,bilateral,Americas,0
+745,Iraq Jordan,bilateral,Asia,0
+746,Iraq Lebanon,bilateral,Asia,0
+747,Iraq Libya,bilateral,Intercontinental,0
+750,Iraq Qatar,bilateral,Asia,0
+751,Iraq Saudi Arabia,bilateral,Asia,0
+752,Iraq Sudan,bilateral,Intercontinental,0
+753,Iraq Syria,bilateral,Asia,0
+754,Iraq Syria,bilateral,Asia,0
+755,Iraq Yemen,bilateral,Asia,0
+757,Lebanon Saudi Arabia,bilateral,Asia,0
+758,Lebanon Saudi Arabia,bilateral,Asia,0
+759,Lebanon Sudan,bilateral,Intercontinental,0
+760,Macedonia Serbia and Montenegro,bilateral,Europe,0
+761,Madagascar Mauritius (under Indian Ocean Commission),bilateral,Africa,0
+762,Malawi South Africa,bilateral,Africa,0
+763,Malawi Zimbabwe,bilateral,Africa,0
+764,Malawi Zimbabwe,bilateral,Africa,0
+765,Mauritania Tunisia,bilateral,Africa,0
+766,Mexico Paraguay,bilateral,Americas,1
+767,Mexico Peru,bilateral,Americas,1
+768,Morocco Saudi Arabia,bilateral,Intercontinental,0
+769,Morocco Senegal,bilateral,Africa,0
+770,Niger Tunisia,bilateral,Africa,0
+771,Peru Thailand,bilateral,Intercontinental,0
+772,PTA for Eastern and Southern African States,plurilateral,Africa,0
+773,Saudi Arabia Syria,bilateral,Asia,0
+774,Saudi Arabia Syria,bilateral,Asia,0
+776,Senegal Tunisia,bilateral,Africa,0
+777,South Africa Zimbabwe,bilateral,Africa,0
+778,Uruguay Venezuela,bilateral,Americas,0
+779,West African Customs Union (UDAO),plurilateral,Africa,0
+780,West African Economic Community (CEAO),plurilateral,Africa,0
+781,Paraguay Venezuela,bilateral,Americas,0
+782,Uruguay Venezuela,bilateral,Americas,0
+783,Canada Portugal,bilateral,Intercontinental,0
+784,Canada Spain,bilateral,Intercontinental,0
+787,East African Community (EAC),plurilateral,Africa,1
+788,East Caribbean Common Market,plurilateral,Americas,0
+789,MERCOSUR Southern African Customs Union (SACU),región con región,Intercontinental,1
+790,El Salvador Guatemala,bilateral,Americas,0
+791,Estonia Poland,bilateral,Europe,0
+792,Brazil Uruguay,bilateral,Americas,0
+793,EC Switzerland Bilaterals I,plurilateral con tercer país,Europe,0
+795,Australia Malaysia,bilateral,Intercontinental,1
+797,Canada Honduras,bilateral,Americas,1
+798,Canada Panama,bilateral,Americas,1
+799,Central America EC,región con región,Intercontinental,1
+800,Chile Malaysia,bilateral,Intercontinental,1
+801,Chile Thailand,bilateral,Intercontinental,1
+803,Chile Vietnam,bilateral,Intercontinental,1
+804,China Costa Rica,bilateral,Intercontinental,1
+805,Colombia Costa Rica,bilateral,Americas,1
+806,Colombia Israel,bilateral,Intercontinental,0
+808,Colombia Korea,bilateral,Intercontinental,1
+809,Colombia Panama,bilateral,Americas,0
+810,Colombia EC Peru,región con región,Intercontinental,1
+811,Commonwealth of Independent States (CIS),plurilateral,Asia,1
+812,Costa Rica Panama Protocol,bilateral,Americas,1
+813,Costa Rica Peru,bilateral,Americas,1
+814,Costa Rica Singapore,bilateral,Intercontinental,1
+815,EC Korea,plurilateral con tercer país,Intercontinental,1
+817,EFTA Hong Kong,plurilateral con tercer país,Intercontinental,1
+818,EFTA Montenegro,plurilateral con tercer país,Europe,1
+819,EFTA Peru,plurilateral con tercer país,Intercontinental,1
+820,EFTA Ukraine,plurilateral con tercer país,Europe,1
+821,Egypt MERCOSUR,plurilateral con tercer país,Intercontinental,1
+823,Guatemala Peru,bilateral,Americas,0
+825,Hong Kong New Zealand,bilateral,Intercontinental,1
+826,India Japan,bilateral,Asia,1
+827,India Malaysia,bilateral,Asia,1
+829,Japan Peru,bilateral,Intercontinental,1
+830,Korea Peru,bilateral,Intercontinental,1
+831,Korea Turkey,bilateral,Asia,1
+832,Mauritius Turkey,bilateral,Intercontinental,1
+833,Montenegro Ukraine,bilateral,Europe,1
+834,New Zealand Taiwan,bilateral,Intercontinental,1
+836,Pacific Alliance,plurilateral,Americas,1
+837,Panama Peru,bilateral,Americas,1
+838,Peru Venezuela,bilateral,Americas,0
+840,Australia China,bilateral,Intercontinental,1
+842,Australia Japan,bilateral,Intercontinental,1
+844,Bosnia and Herzegovina EFTA,plurilateral con tercer país,Europe,1
+848,Canada EC (CETA),plurilateral con tercer país,Intercontinental,1
+852,Canada Korea,bilateral,Intercontinental,1
+855,Canada Ukraine,bilateral,Intercontinental,1
+858,Chile Hong Kong,bilateral,Intercontinental,1
+862,China Switzerland,bilateral,Intercontinental,1
+864,Central America EFTA,región con región,Intercontinental,1
+866,EC Georgia,plurilateral con tercer país,Intercontinental,1
+867,Armenia EC,plurilateral con tercer país,Intercontinental,1
+869,EC Japan,plurilateral con tercer país,Intercontinental,1
+872,EC Moldova,plurilateral con tercer país,Europe,1
+874,EC Singapore,plurilateral con tercer país,Intercontinental,1
+876,EC Ukraine,plurilateral con tercer país,Intercontinental,1
+877,EC Vietnam,plurilateral con tercer país,Intercontinental,1
+879,EFTA Indonesia,plurilateral con tercer país,Intercontinental,1
+885,Guatemala Trinidad and Tobago,bilateral,Americas,0
+891,Mexico Panama,bilateral,Americas,1
+895,Pacific Agreement on Closer Economic Relations (PACER) Plus,plurilateral,Intercontinental,0
+896,Panama Trinidad and Tobago,bilateral,Americas,0
+899,Transpacific Partnership (TPP),plurilateral,Intercontinental,0
+901,East African Community (EAC),plurilateral,Africa,1
+908,Colombia Mexico Venezuela,plurilateral,Americas,1
+909,China Korea,bilateral,Asia,1
+911,Australia Korea,bilateral,Intercontinental,1
+912,Korea New Zealand,bilateral,Intercontinental,1
+913,Korea Vietnam,bilateral,Asia,1
+915,Eurasian Economic Union (EAEU) Vietnam,plurilateral con tercer país,Intercontinental,1
+916,Cuba El Salvador,bilateral,Americas,1
+919,Honduras Peru,bilateral,Americas,1
+920,Chile Indonesia,bilateral,Intercontinental,1
+928,Israel Panama,bilateral,Intercontinental,0
+930,Japan Mongolia,bilateral,Asia,1
+931,Central America Korea,plurilateral con tercer país,Intercontinental,0
+941,Australia Indonesia,bilateral,Intercontinental,0
+943,Malaysia Turkey,bilateral,Intercontinental,1
+949,Central America Mexico,plurilateral con tercer país,Americas,1
+950,MERCOSUR Pakistan,plurilateral con tercer país,Intercontinental,0
+955,China Iceland,bilateral,Intercontinental,1
+959,China Thailand,bilateral,Asia,0
+961,Singapore Taiwan,bilateral,Asia,1
+962,Singapore Turkey,bilateral,Intercontinental,1
+963,Iran Sri Lanka,bilateral,Asia,0
+965,EFTA Philippines,plurilateral con tercer país,Intercontinental,1
+971,Indonesia Pakistan,bilateral,Asia,1
+972,Ecuador EFTA,plurilateral con tercer país,Intercontinental,1
+974,Chile Uruguay,bilateral,Americas,0
+975,EC Kosovo SAA,plurilateral con tercer país,Europe,0
+976,Laos US,bilateral,Intercontinental,0
+978,EC South African Development Community (SADC) EPA,región con región,Intercontinental,1
+979,EC Pacific States EPA Fiji Papua New Guinea,región con región,Intercontinental,1
+981,EFTA Georgia,plurilateral con tercer país,Intercontinental,1
+983,Moldova Turkey,bilateral,Asia,1
+984,Hong Kong Macao,bilateral,Asia,1
+985,EC Overseas Countries and Territories (OCT),región con región,Intercontinental,1
+987,Singapore Sri Lanka,bilateral,Intercontinental,0
+988,Continental Free Trade Agreement,región con región,Africa,0
+989,Comprehensive and Progressive Agreement for Transpacific Partnership (CPTPP),plurilateral,Intercontinental,1
+990,China Georgia,bilateral,Intercontinental,1
+991,China Maldives,bilateral,Asia,0
+992,Australia Peru,bilateral,Intercontinental,1
+993,Argentina Chile,bilateral,Americas,0
+995,Eurasian Economic Union (EAEU) Iran,plurilateral con tercer país,Intercontinental,1
+996,Colombia MERCOSUR,plurilateral con tercer país,Americas,0
+997,EC Kazakhstan,plurilateral con tercer país,Intercontinental,0
+1000,Common Market for Eastern and Southern Africa (COMESA) East African Community (EAC) Southern African Development Community (SADC),plurilateral,Africa,0
+1003,Brazil Venezuela,bilateral,Americas,0
+1007,US Mexico Canada Agreement (USMCA),plurilateral,Americas,1
+1011,Bosnia and Herzegovina Turkey,bilateral,Intercontinental,1
+1012,Ecuador El Salvador,bilateral,Americas,1
+1013,Georgia Hong Kong,bilateral,Asia,1
+1014,Mexico Peru,bilateral,Americas,1
+1015,Australia Hong Kong,bilateral,Asia,1
+1016,Andean Countries UK,plurilateral con tercer país,Intercontinental,0
+1017,Korea UK,bilateral,Intercontinental,0
+1018,Australia UK,bilateral,Intercontinental,0
+1019,Central America UK,plurilateral con tercer país,Intercontinental,0
+1020,Chile UK,bilateral,Intercontinental,0
+1021,Faroe Islands UK,bilateral,Europe,0
+1022,Georgia UK,bilateral,Intercontinental,0
+1023,Iceland Norway UK,plurilateral,Europe,0
+1024,Israel UK,bilateral,Intercontinental,0
+1025,Jordan UK,bilateral,Intercontinental,0
+1026,Kosovo UK,bilateral,Europe,0
+1027,Lebanon UK,bilateral,Intercontinental,0
+1028,Liechtenstein UK,bilateral,Europe,0
+1029,Morocco UK,bilateral,Intercontinental,0
+1030,New Zealand UK,bilateral,Intercontinental,0
+1031,Pacific States UK,plurilateral con tercer país,Intercontinental,0
+1032,Switzerland UK,bilateral,Europe,0
+1033,Tunisia UK,bilateral,Intercontinental,0
+1035,Eastern and Southern African States UK,plurilateral con tercer país,Intercontinental,0
+1036,CARIFORUM UK,plurilateral con tercer país,Intercontinental,0
+1037,Southern African Customs Union Mozambique (SACUM) UK,plurilateral con tercer país,Intercontinental,0
+1038,Brazil Paraguay,bilateral,Americas,0
+1040,Eurasian Economic Union (EAEU),plurilateral,Intercontinental,1
+1041,EFTA Turkey,plurilateral con tercer país,Europe,0
+1043,Paraguay Taiwan,bilateral,Intercontinental,0

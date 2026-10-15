@@ -1,0 +1,2307 @@
+pais_id,sistema,tipo,valor
+4,abreviatura_correlates_of_war,codigo,AFG
+4,codigo_correlates_of_war,codigo,700
+4,codigo_gec_cia_factbook,codigo,af
+4,iso2_banco_mundial,codigo,AF
+4,nombre_banco_mundial_en,nombre,Afghanistan
+4,nombre_cia_factbook,nombre,Afghanistan
+4,nombre_en,nombre,Afghanistan
+4,nombre_es,nombre,Afganistán
+4,nombre_es_banco_mundial,nombre,Afganistán
+4,nombre_oficial_en,nombre,Islamic Republic of Afghanistan
+8,abreviatura_correlates_of_war,codigo,ALB
+8,codigo_correlates_of_war,codigo,339
+8,codigo_gec_cia_factbook,codigo,al
+8,iso2_banco_mundial,codigo,AL
+8,nombre_banco_mundial_en,nombre,Albania
+8,nombre_cia_factbook,nombre,Albania
+8,nombre_en,nombre,Albania
+8,nombre_es,nombre,Albania
+8,nombre_es_banco_mundial,nombre,Albania
+8,nombre_oficial_en,nombre,Republic of Albania
+10,codigo_gec_cia_factbook,codigo,ay
+10,nombre_cia_factbook,nombre,Antarctica
+10,nombre_en,nombre,Antarctica
+10,nombre_es,nombre,Antártida
+10,nombre_oficial_en,nombre,Antarctica
+12,abreviatura_correlates_of_war,codigo,ALG
+12,codigo_correlates_of_war,codigo,615
+12,codigo_gec_cia_factbook,codigo,ag
+12,iso2_banco_mundial,codigo,DZ
+12,nombre_banco_mundial_en,nombre,Algeria
+12,nombre_cia_factbook,nombre,Algeria
+12,nombre_en,nombre,Algeria
+12,nombre_es,nombre,Argelia
+12,nombre_es_banco_mundial,nombre,Argelia
+12,nombre_oficial_en,nombre,People's Democratic Republic of Algeria
+16,codigo_gec_cia_factbook,codigo,aq
+16,iso2_banco_mundial,codigo,AS
+16,nombre_banco_mundial_en,nombre,American Samoa
+16,nombre_cia_factbook,nombre,American Samoa
+16,nombre_en,nombre,American Samoa
+16,nombre_es,nombre,Samoa Americana
+16,nombre_es_banco_mundial,nombre,Samoa Americana
+16,nombre_oficial_en,nombre,American Samoa
+20,abreviatura_correlates_of_war,codigo,AND
+20,codigo_correlates_of_war,codigo,232
+20,codigo_gec_cia_factbook,codigo,an
+20,iso2_banco_mundial,codigo,AD
+20,nombre_banco_mundial_en,nombre,Andorra
+20,nombre_cia_factbook,nombre,Andorra
+20,nombre_en,nombre,Andorra
+20,nombre_es,nombre,Andorra
+20,nombre_es_banco_mundial,nombre,Andorra
+20,nombre_oficial_en,nombre,Principality of Andorra
+24,abreviatura_correlates_of_war,codigo,ANG
+24,codigo_correlates_of_war,codigo,540
+24,codigo_gec_cia_factbook,codigo,ao
+24,iso2_banco_mundial,codigo,AO
+24,nombre_banco_mundial_en,nombre,Angola
+24,nombre_cia_factbook,nombre,Angola
+24,nombre_en,nombre,Angola
+24,nombre_es,nombre,Angola
+24,nombre_es_banco_mundial,nombre,Angola
+24,nombre_oficial_en,nombre,Republic of Angola
+28,abreviatura_correlates_of_war,codigo,AAB
+28,codigo_correlates_of_war,codigo,58
+28,codigo_gec_cia_factbook,codigo,ac
+28,iso2_banco_mundial,codigo,AG
+28,nombre_banco_mundial_en,nombre,Antigua and Barbuda
+28,nombre_cia_factbook,nombre,Antigua and Barbuda
+28,nombre_en,nombre,Antigua and Barbuda
+28,nombre_es,nombre,Antigua y Barbuda
+28,nombre_es_banco_mundial,nombre,Antigua y Barbuda
+28,nombre_oficial_en,nombre,Antigua and Barbuda
+31,abreviatura_correlates_of_war,codigo,AZE
+31,codigo_correlates_of_war,codigo,373
+31,codigo_gec_cia_factbook,codigo,aj
+31,iso2_banco_mundial,codigo,AZ
+31,nombre_banco_mundial_en,nombre,Azerbaijan
+31,nombre_cia_factbook,nombre,Azerbaijan
+31,nombre_en,nombre,Azerbaijan
+31,nombre_es,nombre,Azerbaiyán
+31,nombre_es_banco_mundial,nombre,Azerbaiyán
+31,nombre_oficial_en,nombre,Republic of Azerbaijan
+32,abreviatura_correlates_of_war,codigo,ARG
+32,codigo_correlates_of_war,codigo,160
+32,codigo_gec_cia_factbook,codigo,ar
+32,iso2_banco_mundial,codigo,AR
+32,nombre_banco_mundial_en,nombre,Argentina
+32,nombre_cia_factbook,nombre,Argentina
+32,nombre_en,nombre,Argentina
+32,nombre_es,nombre,Argentina
+32,nombre_es_banco_mundial,nombre,Argentina
+32,nombre_oficial_en,nombre,Argentine Republic
+36,abreviatura_correlates_of_war,codigo,AUL
+36,codigo_correlates_of_war,codigo,900
+36,codigo_gec_cia_factbook,codigo,as
+36,iso2_banco_mundial,codigo,AU
+36,nombre_banco_mundial_en,nombre,Australia
+36,nombre_cia_factbook,nombre,Australia
+36,nombre_en,nombre,Australia
+36,nombre_es,nombre,Australia
+36,nombre_es_banco_mundial,nombre,Australia
+36,nombre_oficial_en,nombre,Australia
+40,abreviatura_correlates_of_war,codigo,AUS
+40,codigo_correlates_of_war,codigo,305
+40,codigo_gec_cia_factbook,codigo,au
+40,iso2_banco_mundial,codigo,AT
+40,nombre_banco_mundial_en,nombre,Austria
+40,nombre_cia_factbook,nombre,Austria
+40,nombre_en,nombre,Austria
+40,nombre_es,nombre,Austria
+40,nombre_es_banco_mundial,nombre,Austria
+40,nombre_oficial_en,nombre,Republic of Austria
+44,abreviatura_correlates_of_war,codigo,BHM
+44,codigo_correlates_of_war,codigo,31
+44,codigo_gec_cia_factbook,codigo,bf
+44,iso2_banco_mundial,codigo,BS
+44,nombre_banco_mundial_en,nombre,"Bahamas, The"
+44,nombre_cia_factbook,nombre,The Bahamas
+44,nombre_en,nombre,"Bahamas, The"
+44,nombre_es,nombre,Bahamas
+44,nombre_es_banco_mundial,nombre,Bahamas
+44,nombre_oficial_en,nombre,Commonwealth of the Bahamas
+48,abreviatura_correlates_of_war,codigo,BAH
+48,codigo_correlates_of_war,codigo,692
+48,codigo_gec_cia_factbook,codigo,ba
+48,iso2_banco_mundial,codigo,BH
+48,nombre_banco_mundial_en,nombre,Bahrain
+48,nombre_cia_factbook,nombre,Bahrain
+48,nombre_en,nombre,Bahrain
+48,nombre_es,nombre,Baréin
+48,nombre_es_banco_mundial,nombre,Bahrein
+48,nombre_oficial_en,nombre,Kingdom of Bahrain
+50,abreviatura_correlates_of_war,codigo,BNG
+50,codigo_correlates_of_war,codigo,771
+50,codigo_gec_cia_factbook,codigo,bg
+50,iso2_banco_mundial,codigo,BD
+50,nombre_banco_mundial_en,nombre,Bangladesh
+50,nombre_cia_factbook,nombre,Bangladesh
+50,nombre_en,nombre,Bangladesh
+50,nombre_es,nombre,Bangladés
+50,nombre_es_banco_mundial,nombre,Bangladesh
+50,nombre_oficial_en,nombre,People's Republic of Bangladesh
+51,abreviatura_correlates_of_war,codigo,ARM
+51,codigo_correlates_of_war,codigo,371
+51,codigo_gec_cia_factbook,codigo,am
+51,iso2_banco_mundial,codigo,AM
+51,nombre_banco_mundial_en,nombre,Armenia
+51,nombre_cia_factbook,nombre,Armenia
+51,nombre_en,nombre,Armenia
+51,nombre_es,nombre,Armenia
+51,nombre_es_banco_mundial,nombre,Armenia
+51,nombre_oficial_en,nombre,Republic of Armenia
+52,abreviatura_correlates_of_war,codigo,BAR
+52,codigo_correlates_of_war,codigo,53
+52,codigo_gec_cia_factbook,codigo,bb
+52,iso2_banco_mundial,codigo,BB
+52,nombre_banco_mundial_en,nombre,Barbados
+52,nombre_cia_factbook,nombre,Barbados
+52,nombre_en,nombre,Barbados
+52,nombre_es,nombre,Barbados
+52,nombre_es_banco_mundial,nombre,Barbados
+52,nombre_oficial_en,nombre,Barbados
+56,abreviatura_correlates_of_war,codigo,BEL
+56,codigo_correlates_of_war,codigo,211
+56,codigo_gec_cia_factbook,codigo,be
+56,iso2_banco_mundial,codigo,BE
+56,nombre_banco_mundial_en,nombre,Belgium
+56,nombre_cia_factbook,nombre,Belgium
+56,nombre_en,nombre,Belgium
+56,nombre_es,nombre,Bélgica
+56,nombre_es_banco_mundial,nombre,Bélgica
+56,nombre_oficial_en,nombre,Kingdom of Belgium
+60,codigo_gec_cia_factbook,codigo,bd
+60,iso2_banco_mundial,codigo,BM
+60,nombre_banco_mundial_en,nombre,Bermuda
+60,nombre_cia_factbook,nombre,Bermuda
+60,nombre_en,nombre,Bermuda
+60,nombre_es,nombre,Bermudas
+60,nombre_es_banco_mundial,nombre,Bermudas
+60,nombre_oficial_en,nombre,Bermuda
+64,abreviatura_correlates_of_war,codigo,BHU
+64,codigo_correlates_of_war,codigo,760
+64,codigo_gec_cia_factbook,codigo,bt
+64,iso2_banco_mundial,codigo,BT
+64,nombre_banco_mundial_en,nombre,Bhutan
+64,nombre_cia_factbook,nombre,Bhutan
+64,nombre_en,nombre,Bhutan
+64,nombre_es,nombre,Bután
+64,nombre_es_banco_mundial,nombre,Bhután
+64,nombre_oficial_en,nombre,Kingdom of Bhutan
+68,abreviatura_correlates_of_war,codigo,BOL
+68,codigo_correlates_of_war,codigo,145
+68,codigo_gec_cia_factbook,codigo,bl
+68,iso2_banco_mundial,codigo,BO
+68,nombre_banco_mundial_en,nombre,Bolivia
+68,nombre_cia_factbook,nombre,Bolivia
+68,nombre_en,nombre,Bolivia
+68,nombre_es,nombre,Bolivia
+68,nombre_es_banco_mundial,nombre,Bolivia
+68,nombre_oficial_en,nombre,Plurinational State of Bolivia
+70,abreviatura_correlates_of_war,codigo,BOS
+70,codigo_correlates_of_war,codigo,346
+70,codigo_gec_cia_factbook,codigo,bk
+70,iso2_banco_mundial,codigo,BA
+70,nombre_banco_mundial_en,nombre,Bosnia and Herzegovina
+70,nombre_cia_factbook,nombre,Bosnia and Herzegovina
+70,nombre_en,nombre,Bosnia and Herzegovina
+70,nombre_es,nombre,Bosnia y Herzegovina
+70,nombre_es_banco_mundial,nombre,Bosnia y Herzegovina
+70,nombre_oficial_en,nombre,Republic of Bosnia and Herzegovina
+72,abreviatura_correlates_of_war,codigo,BOT
+72,codigo_correlates_of_war,codigo,571
+72,codigo_gec_cia_factbook,codigo,bc
+72,iso2_banco_mundial,codigo,BW
+72,nombre_banco_mundial_en,nombre,Botswana
+72,nombre_cia_factbook,nombre,Botswana
+72,nombre_en,nombre,Botswana
+72,nombre_es,nombre,Botsuana
+72,nombre_es_banco_mundial,nombre,Botswana
+72,nombre_oficial_en,nombre,Republic of Botswana
+74,codigo_gec_cia_factbook,codigo,bv
+74,nombre_cia_factbook,nombre,Bouvet Island
+74,nombre_en,nombre,Bouvet Island
+74,nombre_es,nombre,Isla Bouvet
+74,nombre_oficial_en,nombre,Bouvet Island
+76,abreviatura_correlates_of_war,codigo,BRA
+76,codigo_correlates_of_war,codigo,140
+76,codigo_gec_cia_factbook,codigo,br
+76,iso2_banco_mundial,codigo,BR
+76,nombre_banco_mundial_en,nombre,Brazil
+76,nombre_cia_factbook,nombre,Brazil
+76,nombre_en,nombre,Brazil
+76,nombre_es,nombre,Brasil
+76,nombre_es_banco_mundial,nombre,Brasil
+76,nombre_oficial_en,nombre,Federative Republic of Brazil
+84,abreviatura_correlates_of_war,codigo,BLZ
+84,codigo_correlates_of_war,codigo,80
+84,codigo_gec_cia_factbook,codigo,bh
+84,iso2_banco_mundial,codigo,BZ
+84,nombre_banco_mundial_en,nombre,Belize
+84,nombre_cia_factbook,nombre,Belize
+84,nombre_en,nombre,Belize
+84,nombre_es,nombre,Belice
+84,nombre_es_banco_mundial,nombre,Belice
+84,nombre_oficial_en,nombre,Belize
+86,codigo_gec_cia_factbook,codigo,io
+86,nombre_cia_factbook,nombre,British Indian Ocean Territory
+86,nombre_en,nombre,British Indian Ocean Territory
+86,nombre_es,nombre,Territorio Británico del Océano Índico
+86,nombre_oficial_en,nombre,British Indian Ocean Territory
+90,abreviatura_correlates_of_war,codigo,SOL
+90,codigo_correlates_of_war,codigo,940
+90,codigo_gec_cia_factbook,codigo,bp
+90,iso2_banco_mundial,codigo,SB
+90,nombre_banco_mundial_en,nombre,Solomon Islands
+90,nombre_cia_factbook,nombre,Solomon Islands
+90,nombre_en,nombre,Solomon Islands
+90,nombre_es,nombre,Islas Salomón
+90,nombre_es_banco_mundial,nombre,Islas Salomón
+90,nombre_oficial_en,nombre,Solomon Islands
+92,codigo_gec_cia_factbook,codigo,vi
+92,iso2_banco_mundial,codigo,VG
+92,nombre_banco_mundial_en,nombre,British Virgin Islands
+92,nombre_cia_factbook,nombre,British Virgin Islands
+92,nombre_en,nombre,British Virgin Islands
+92,nombre_es,nombre,Islas Vírgenes Británicas
+92,nombre_es_banco_mundial,nombre,Islas Vírgenes Británicas
+92,nombre_oficial_en,nombre,British Virgin Islands
+96,abreviatura_correlates_of_war,codigo,BRU
+96,codigo_correlates_of_war,codigo,835
+96,codigo_gec_cia_factbook,codigo,bx
+96,iso2_banco_mundial,codigo,BN
+96,nombre_banco_mundial_en,nombre,Brunei Darussalam
+96,nombre_cia_factbook,nombre,Brunei
+96,nombre_en,nombre,Brunei Darussalam
+96,nombre_es,nombre,Brunéi
+96,nombre_es_banco_mundial,nombre,Brunei Darussalam
+96,nombre_oficial_en,nombre,Brunei Darussalam
+100,abreviatura_correlates_of_war,codigo,BUL
+100,codigo_correlates_of_war,codigo,355
+100,codigo_gec_cia_factbook,codigo,bu
+100,iso2_banco_mundial,codigo,BG
+100,nombre_banco_mundial_en,nombre,Bulgaria
+100,nombre_cia_factbook,nombre,Bulgaria
+100,nombre_en,nombre,Bulgaria
+100,nombre_es,nombre,Bulgaria
+100,nombre_es_banco_mundial,nombre,Bulgaria
+100,nombre_oficial_en,nombre,Republic of Bulgaria
+104,abreviatura_correlates_of_war,codigo,MYA
+104,codigo_correlates_of_war,codigo,775
+104,codigo_gec_cia_factbook,codigo,bm
+104,iso2_banco_mundial,codigo,MM
+104,nombre_banco_mundial_en,nombre,Myanmar
+104,nombre_cia_factbook,nombre,Burma
+104,nombre_en,nombre,Myanmar
+104,nombre_es,nombre,Myanmar
+104,nombre_es_banco_mundial,nombre,Myanmar
+104,nombre_oficial_en,nombre,Republic of Myanmar
+108,abreviatura_correlates_of_war,codigo,BUI
+108,codigo_correlates_of_war,codigo,516
+108,codigo_gec_cia_factbook,codigo,by
+108,iso2_banco_mundial,codigo,BI
+108,nombre_banco_mundial_en,nombre,Burundi
+108,nombre_cia_factbook,nombre,Burundi
+108,nombre_en,nombre,Burundi
+108,nombre_es,nombre,Burundi
+108,nombre_es_banco_mundial,nombre,Burundi
+108,nombre_oficial_en,nombre,Republic of Burundi
+112,abreviatura_correlates_of_war,codigo,BLR
+112,codigo_correlates_of_war,codigo,370
+112,codigo_gec_cia_factbook,codigo,bo
+112,iso2_banco_mundial,codigo,BY
+112,nombre_banco_mundial_en,nombre,Belarus
+112,nombre_cia_factbook,nombre,Belarus
+112,nombre_en,nombre,Belarus
+112,nombre_es,nombre,Bielorrusia
+112,nombre_es_banco_mundial,nombre,Belarús
+112,nombre_oficial_en,nombre,Republic of Belarus
+116,abreviatura_correlates_of_war,codigo,CAM
+116,codigo_correlates_of_war,codigo,811
+116,codigo_gec_cia_factbook,codigo,cb
+116,iso2_banco_mundial,codigo,KH
+116,nombre_banco_mundial_en,nombre,Cambodia
+116,nombre_cia_factbook,nombre,Cambodia
+116,nombre_en,nombre,Cambodia
+116,nombre_es,nombre,Camboya
+116,nombre_es_banco_mundial,nombre,Camboya
+116,nombre_oficial_en,nombre,Kingdom of Cambodia
+120,abreviatura_correlates_of_war,codigo,CAO
+120,codigo_correlates_of_war,codigo,471
+120,codigo_gec_cia_factbook,codigo,cm
+120,iso2_banco_mundial,codigo,CM
+120,nombre_banco_mundial_en,nombre,Cameroon
+120,nombre_cia_factbook,nombre,Cameroon
+120,nombre_en,nombre,Cameroon
+120,nombre_es,nombre,Camerún
+120,nombre_es_banco_mundial,nombre,Camerún
+120,nombre_oficial_en,nombre,Republic of Cameroon
+124,abreviatura_correlates_of_war,codigo,CAN
+124,codigo_correlates_of_war,codigo,20
+124,codigo_gec_cia_factbook,codigo,ca
+124,iso2_banco_mundial,codigo,CA
+124,nombre_banco_mundial_en,nombre,Canada
+124,nombre_cia_factbook,nombre,Canada
+124,nombre_en,nombre,Canada
+124,nombre_es,nombre,Canadá
+124,nombre_es_banco_mundial,nombre,Canadá
+124,nombre_oficial_en,nombre,Canada
+132,abreviatura_correlates_of_war,codigo,CAP
+132,codigo_correlates_of_war,codigo,402
+132,codigo_gec_cia_factbook,codigo,cv
+132,iso2_banco_mundial,codigo,CV
+132,nombre_banco_mundial_en,nombre,Cabo Verde
+132,nombre_cia_factbook,nombre,Cabo Verde
+132,nombre_en,nombre,Cabo Verde
+132,nombre_es,nombre,Cabo Verde
+132,nombre_es_banco_mundial,nombre,Cabo Verde
+132,nombre_oficial_en,nombre,Republic of Cabo Verde
+136,codigo_gec_cia_factbook,codigo,cj
+136,iso2_banco_mundial,codigo,KY
+136,nombre_banco_mundial_en,nombre,Cayman Islands
+136,nombre_cia_factbook,nombre,Cayman Islands
+136,nombre_en,nombre,Cayman Islands
+136,nombre_es,nombre,Islas Caimán
+136,nombre_es_banco_mundial,nombre,Islas Caimán
+136,nombre_oficial_en,nombre,Cayman Islands
+140,abreviatura_correlates_of_war,codigo,CEN
+140,codigo_correlates_of_war,codigo,482
+140,codigo_gec_cia_factbook,codigo,ct
+140,iso2_banco_mundial,codigo,CF
+140,nombre_banco_mundial_en,nombre,Central African Republic
+140,nombre_cia_factbook,nombre,Central African Republic
+140,nombre_en,nombre,Central African Republic
+140,nombre_es,nombre,República Centroafricana
+140,nombre_es_banco_mundial,nombre,República Centroafricana
+140,nombre_oficial_en,nombre,Central African Republic
+144,abreviatura_correlates_of_war,codigo,SRI
+144,codigo_correlates_of_war,codigo,780
+144,codigo_gec_cia_factbook,codigo,ce
+144,iso2_banco_mundial,codigo,LK
+144,nombre_banco_mundial_en,nombre,Sri Lanka
+144,nombre_cia_factbook,nombre,Sri Lanka
+144,nombre_en,nombre,Sri Lanka
+144,nombre_es,nombre,Sri Lanka
+144,nombre_es_banco_mundial,nombre,Sri Lanka
+144,nombre_oficial_en,nombre,Democratic Socialist Republic of Sri Lanka
+148,abreviatura_correlates_of_war,codigo,CHA
+148,codigo_correlates_of_war,codigo,483
+148,codigo_gec_cia_factbook,codigo,cd
+148,iso2_banco_mundial,codigo,TD
+148,nombre_banco_mundial_en,nombre,Chad
+148,nombre_cia_factbook,nombre,Chad
+148,nombre_en,nombre,Chad
+148,nombre_es,nombre,Chad
+148,nombre_es_banco_mundial,nombre,Chad
+148,nombre_oficial_en,nombre,Republic of Chad
+152,abreviatura_correlates_of_war,codigo,CHL
+152,codigo_correlates_of_war,codigo,155
+152,codigo_gec_cia_factbook,codigo,ci
+152,iso2_banco_mundial,codigo,CL
+152,nombre_banco_mundial_en,nombre,Chile
+152,nombre_cia_factbook,nombre,Chile
+152,nombre_en,nombre,Chile
+152,nombre_es,nombre,Chile
+152,nombre_es_banco_mundial,nombre,Chile
+152,nombre_oficial_en,nombre,Republic of Chile
+156,abreviatura_correlates_of_war,codigo,CHN
+156,codigo_correlates_of_war,codigo,710
+156,codigo_gec_cia_factbook,codigo,ch
+156,iso2_banco_mundial,codigo,CN
+156,nombre_banco_mundial_en,nombre,China
+156,nombre_cia_factbook,nombre,China
+156,nombre_en,nombre,China
+156,nombre_es,nombre,China
+156,nombre_es_banco_mundial,nombre,China
+156,nombre_oficial_en,nombre,People's Republic of China
+158,abreviatura_correlates_of_war,codigo,TAW
+158,codigo_correlates_of_war,codigo,713
+158,codigo_gec_cia_factbook,codigo,tw
+158,nombre_cia_factbook,nombre,Taiwan
+158,nombre_en,nombre,Taiwan
+158,nombre_es,nombre,Taiwán
+158,nombre_oficial_en,nombre,"Taiwan, Province of China"
+162,codigo_gec_cia_factbook,codigo,kt
+162,nombre_cia_factbook,nombre,Christmas Island
+162,nombre_en,nombre,Christmas Island
+162,nombre_es,nombre,Isla de Navidad
+162,nombre_oficial_en,nombre,Christmas Island
+166,codigo_gec_cia_factbook,codigo,ck
+166,nombre_cia_factbook,nombre,Cocos (Keeling) Islands
+166,nombre_en,nombre,Cocos (Keeling) Islands
+166,nombre_es,nombre,Islas Cocos
+166,nombre_oficial_en,nombre,Cocos (Keeling) Islands
+170,abreviatura_correlates_of_war,codigo,COL
+170,codigo_correlates_of_war,codigo,100
+170,codigo_gec_cia_factbook,codigo,co
+170,iso2_banco_mundial,codigo,CO
+170,nombre_banco_mundial_en,nombre,Colombia
+170,nombre_cia_factbook,nombre,Colombia
+170,nombre_en,nombre,Colombia
+170,nombre_es,nombre,Colombia
+170,nombre_es_banco_mundial,nombre,Colombia
+170,nombre_oficial_en,nombre,Republic of Colombia
+174,abreviatura_correlates_of_war,codigo,COM
+174,codigo_correlates_of_war,codigo,581
+174,codigo_gec_cia_factbook,codigo,cn
+174,iso2_banco_mundial,codigo,KM
+174,nombre_banco_mundial_en,nombre,Comoros
+174,nombre_cia_factbook,nombre,Comoros
+174,nombre_en,nombre,Comoros
+174,nombre_es,nombre,Comoras
+174,nombre_es_banco_mundial,nombre,Comoras
+174,nombre_oficial_en,nombre,Union of the Comoros
+175,nombre_en,nombre,Mayotte
+175,nombre_es,nombre,Mayotte
+175,nombre_oficial_en,nombre,Mayotte
+178,abreviatura_correlates_of_war,codigo,CON
+178,codigo_correlates_of_war,codigo,484
+178,codigo_gec_cia_factbook,codigo,cf
+178,iso2_banco_mundial,codigo,CG
+178,nombre_banco_mundial_en,nombre,"Congo, Rep."
+178,nombre_cia_factbook,nombre,Congo (Brazzaville)
+178,nombre_en,nombre,"Congo, Rep."
+178,nombre_es,nombre,Congo
+178,nombre_es_banco_mundial,nombre,"Congo, República del"
+178,nombre_oficial_en,nombre,Republic of the Congo
+178,nombre_world_happiness_report,nombre,Congo
+180,abreviatura_correlates_of_war,codigo,DRC
+180,codigo_correlates_of_war,codigo,490
+180,codigo_gec_cia_factbook,codigo,cg
+180,iso2_banco_mundial,codigo,CD
+180,nombre_banco_mundial_en,nombre,"Congo, Dem. Rep."
+180,nombre_cia_factbook,nombre,DRC
+180,nombre_en,nombre,"Congo, Dem. Rep."
+180,nombre_es,nombre,República Democrática del Congo
+180,nombre_es_banco_mundial,nombre,"Congo, República Democrática del"
+180,nombre_oficial_en,nombre,"Congo, The Democratic Republic of the"
+180,nombre_world_happiness_report,nombre,DR Congo
+184,codigo_gec_cia_factbook,codigo,cw
+184,nombre_cia_factbook,nombre,Cook Islands
+184,nombre_en,nombre,Cook Islands
+184,nombre_es,nombre,Islas Cook
+184,nombre_oficial_en,nombre,Cook Islands
+188,abreviatura_correlates_of_war,codigo,COS
+188,codigo_correlates_of_war,codigo,94
+188,codigo_gec_cia_factbook,codigo,cs
+188,iso2_banco_mundial,codigo,CR
+188,nombre_banco_mundial_en,nombre,Costa Rica
+188,nombre_cia_factbook,nombre,Costa Rica
+188,nombre_en,nombre,Costa Rica
+188,nombre_es,nombre,Costa Rica
+188,nombre_es_banco_mundial,nombre,Costa Rica
+188,nombre_oficial_en,nombre,Republic of Costa Rica
+191,abreviatura_correlates_of_war,codigo,CRO
+191,codigo_correlates_of_war,codigo,344
+191,codigo_gec_cia_factbook,codigo,hr
+191,iso2_banco_mundial,codigo,HR
+191,nombre_banco_mundial_en,nombre,Croatia
+191,nombre_cia_factbook,nombre,Croatia
+191,nombre_en,nombre,Croatia
+191,nombre_es,nombre,Croacia
+191,nombre_es_banco_mundial,nombre,Croacia
+191,nombre_oficial_en,nombre,Republic of Croatia
+192,abreviatura_correlates_of_war,codigo,CUB
+192,codigo_correlates_of_war,codigo,40
+192,codigo_gec_cia_factbook,codigo,cu
+192,iso2_banco_mundial,codigo,CU
+192,nombre_banco_mundial_en,nombre,Cuba
+192,nombre_cia_factbook,nombre,Cuba
+192,nombre_en,nombre,Cuba
+192,nombre_es,nombre,Cuba
+192,nombre_es_banco_mundial,nombre,Cuba
+192,nombre_oficial_en,nombre,Republic of Cuba
+196,abreviatura_correlates_of_war,codigo,CYP
+196,codigo_correlates_of_war,codigo,352
+196,codigo_gec_cia_factbook,codigo,cy
+196,iso2_banco_mundial,codigo,CY
+196,nombre_banco_mundial_en,nombre,Cyprus
+196,nombre_cia_factbook,nombre,Cyprus
+196,nombre_en,nombre,Cyprus
+196,nombre_es,nombre,Chipre
+196,nombre_es_banco_mundial,nombre,Chipre
+196,nombre_oficial_en,nombre,Republic of Cyprus
+203,abreviatura_correlates_of_war,codigo,CZR
+203,codigo_correlates_of_war,codigo,316
+203,codigo_gec_cia_factbook,codigo,ez
+203,iso2_banco_mundial,codigo,CZ
+203,nombre_banco_mundial_en,nombre,Czechia
+203,nombre_cia_factbook,nombre,Czechia
+203,nombre_en,nombre,Czechia
+203,nombre_es,nombre,República Checa
+203,nombre_es_banco_mundial,nombre,República Checa
+203,nombre_oficial_en,nombre,Czech Republic
+204,abreviatura_correlates_of_war,codigo,BEN
+204,codigo_correlates_of_war,codigo,434
+204,codigo_gec_cia_factbook,codigo,bn
+204,iso2_banco_mundial,codigo,BJ
+204,nombre_banco_mundial_en,nombre,Benin
+204,nombre_cia_factbook,nombre,Benin
+204,nombre_en,nombre,Benin
+204,nombre_es,nombre,Benín
+204,nombre_es_banco_mundial,nombre,Benin
+204,nombre_oficial_en,nombre,Republic of Benin
+208,abreviatura_correlates_of_war,codigo,DEN
+208,codigo_correlates_of_war,codigo,390
+208,codigo_gec_cia_factbook,codigo,da
+208,iso2_banco_mundial,codigo,DK
+208,nombre_banco_mundial_en,nombre,Denmark
+208,nombre_cia_factbook,nombre,Denmark
+208,nombre_en,nombre,Denmark
+208,nombre_es,nombre,Dinamarca
+208,nombre_es_banco_mundial,nombre,Dinamarca
+208,nombre_oficial_en,nombre,Kingdom of Denmark
+212,abreviatura_correlates_of_war,codigo,DMA
+212,codigo_correlates_of_war,codigo,54
+212,codigo_gec_cia_factbook,codigo,do
+212,iso2_banco_mundial,codigo,DM
+212,nombre_banco_mundial_en,nombre,Dominica
+212,nombre_cia_factbook,nombre,Dominica
+212,nombre_en,nombre,Dominica
+212,nombre_es,nombre,Dominica
+212,nombre_es_banco_mundial,nombre,Dominica
+212,nombre_oficial_en,nombre,Commonwealth of Dominica
+214,abreviatura_correlates_of_war,codigo,DOM
+214,codigo_correlates_of_war,codigo,42
+214,codigo_gec_cia_factbook,codigo,dr
+214,iso2_banco_mundial,codigo,DO
+214,nombre_banco_mundial_en,nombre,Dominican Republic
+214,nombre_cia_factbook,nombre,The Dominican
+214,nombre_en,nombre,Dominican Republic
+214,nombre_es,nombre,República Dominicana
+214,nombre_es_banco_mundial,nombre,República Dominicana
+214,nombre_oficial_en,nombre,Dominican Republic
+218,abreviatura_correlates_of_war,codigo,ECU
+218,codigo_correlates_of_war,codigo,130
+218,codigo_gec_cia_factbook,codigo,ec
+218,iso2_banco_mundial,codigo,EC
+218,nombre_banco_mundial_en,nombre,Ecuador
+218,nombre_cia_factbook,nombre,Ecuador
+218,nombre_en,nombre,Ecuador
+218,nombre_es,nombre,Ecuador
+218,nombre_es_banco_mundial,nombre,Ecuador
+218,nombre_oficial_en,nombre,Republic of Ecuador
+222,abreviatura_correlates_of_war,codigo,SAL
+222,codigo_correlates_of_war,codigo,92
+222,codigo_gec_cia_factbook,codigo,es
+222,iso2_banco_mundial,codigo,SV
+222,nombre_banco_mundial_en,nombre,El Salvador
+222,nombre_cia_factbook,nombre,El Salvador
+222,nombre_en,nombre,El Salvador
+222,nombre_es,nombre,El Salvador
+222,nombre_es_banco_mundial,nombre,El Salvador
+222,nombre_oficial_en,nombre,Republic of El Salvador
+226,abreviatura_correlates_of_war,codigo,EQG
+226,codigo_correlates_of_war,codigo,411
+226,codigo_gec_cia_factbook,codigo,ek
+226,iso2_banco_mundial,codigo,GQ
+226,nombre_banco_mundial_en,nombre,Equatorial Guinea
+226,nombre_cia_factbook,nombre,Equatorial Guinea
+226,nombre_en,nombre,Equatorial Guinea
+226,nombre_es,nombre,Guinea Ecuatorial
+226,nombre_es_banco_mundial,nombre,Guinea Ecuatorial
+226,nombre_oficial_en,nombre,Republic of Equatorial Guinea
+231,abreviatura_correlates_of_war,codigo,ETH
+231,codigo_correlates_of_war,codigo,530
+231,codigo_gec_cia_factbook,codigo,et
+231,iso2_banco_mundial,codigo,ET
+231,nombre_banco_mundial_en,nombre,Ethiopia
+231,nombre_cia_factbook,nombre,Ethiopia
+231,nombre_en,nombre,Ethiopia
+231,nombre_es,nombre,Etiopía
+231,nombre_es_banco_mundial,nombre,Etiopía
+231,nombre_oficial_en,nombre,Federal Democratic Republic of Ethiopia
+232,abreviatura_correlates_of_war,codigo,ERI
+232,codigo_correlates_of_war,codigo,531
+232,codigo_gec_cia_factbook,codigo,er
+232,iso2_banco_mundial,codigo,ER
+232,nombre_banco_mundial_en,nombre,Eritrea
+232,nombre_cia_factbook,nombre,Eritrea
+232,nombre_en,nombre,Eritrea
+232,nombre_es,nombre,Eritrea
+232,nombre_es_banco_mundial,nombre,Eritrea
+232,nombre_oficial_en,nombre,the State of Eritrea
+233,abreviatura_correlates_of_war,codigo,EST
+233,codigo_correlates_of_war,codigo,366
+233,codigo_gec_cia_factbook,codigo,en
+233,iso2_banco_mundial,codigo,EE
+233,nombre_banco_mundial_en,nombre,Estonia
+233,nombre_cia_factbook,nombre,Estonia
+233,nombre_en,nombre,Estonia
+233,nombre_es,nombre,Estonia
+233,nombre_es_banco_mundial,nombre,Estonia
+233,nombre_oficial_en,nombre,Republic of Estonia
+234,codigo_gec_cia_factbook,codigo,fo
+234,iso2_banco_mundial,codigo,FO
+234,nombre_banco_mundial_en,nombre,Faroe Islands
+234,nombre_cia_factbook,nombre,Faroe Islands
+234,nombre_en,nombre,Faroe Islands
+234,nombre_es,nombre,Islas Feroe
+234,nombre_es_banco_mundial,nombre,Islas Feroe
+234,nombre_oficial_en,nombre,Faroe Islands
+238,codigo_gec_cia_factbook,codigo,fk
+238,nombre_cia_factbook,nombre,Falkland Islands (Islas Malvinas)
+238,nombre_en,nombre,Falkland Islands (Malvinas)
+238,nombre_es,nombre,Islas Malvinas
+238,nombre_oficial_en,nombre,Falkland Islands (Malvinas)
+239,codigo_gec_cia_factbook,codigo,sx
+239,nombre_cia_factbook,nombre,South Georgia and South Sandwich Islands
+239,nombre_en,nombre,South Georgia and the South Sandwich Islands
+239,nombre_es,nombre,Islas Georgias del Sur y Sandwich del Sur
+239,nombre_oficial_en,nombre,South Georgia and the South Sandwich Islands
+242,abreviatura_correlates_of_war,codigo,FIJ
+242,codigo_correlates_of_war,codigo,950
+242,codigo_gec_cia_factbook,codigo,fj
+242,iso2_banco_mundial,codigo,FJ
+242,nombre_banco_mundial_en,nombre,Fiji
+242,nombre_cia_factbook,nombre,Fiji
+242,nombre_en,nombre,Fiji
+242,nombre_es,nombre,Fiyi
+242,nombre_es_banco_mundial,nombre,Fiji
+242,nombre_oficial_en,nombre,Republic of Fiji
+246,abreviatura_correlates_of_war,codigo,FIN
+246,codigo_correlates_of_war,codigo,375
+246,codigo_gec_cia_factbook,codigo,fi
+246,iso2_banco_mundial,codigo,FI
+246,nombre_banco_mundial_en,nombre,Finland
+246,nombre_cia_factbook,nombre,Finland
+246,nombre_en,nombre,Finland
+246,nombre_es,nombre,Finlandia
+246,nombre_es_banco_mundial,nombre,Finlandia
+246,nombre_oficial_en,nombre,Republic of Finland
+248,nombre_en,nombre,Åland Islands
+248,nombre_es,nombre,Åland
+248,nombre_oficial_en,nombre,Åland Islands
+250,abreviatura_correlates_of_war,codigo,FRN
+250,codigo_correlates_of_war,codigo,220
+250,codigo_gec_cia_factbook,codigo,fr
+250,iso2_banco_mundial,codigo,FR
+250,nombre_banco_mundial_en,nombre,France
+250,nombre_cia_factbook,nombre,France
+250,nombre_en,nombre,France
+250,nombre_es,nombre,Francia
+250,nombre_es_banco_mundial,nombre,Francia
+250,nombre_oficial_en,nombre,French Republic
+254,nombre_en,nombre,French Guiana
+254,nombre_es,nombre,Guayana Francesa
+254,nombre_oficial_en,nombre,French Guiana
+258,codigo_gec_cia_factbook,codigo,fp
+258,iso2_banco_mundial,codigo,PF
+258,nombre_banco_mundial_en,nombre,French Polynesia
+258,nombre_cia_factbook,nombre,French Polynesia
+258,nombre_en,nombre,French Polynesia
+258,nombre_es,nombre,Polinesia Francesa
+258,nombre_es_banco_mundial,nombre,Polinesia Francesa
+258,nombre_oficial_en,nombre,French Polynesia
+260,codigo_gec_cia_factbook,codigo,fs
+260,nombre_cia_factbook,nombre,French Southern and Antarctic Lands
+260,nombre_en,nombre,French Southern Territories
+260,nombre_es,nombre,Tierras Australes y Antárticas Francesas
+260,nombre_oficial_en,nombre,French Southern Territories
+262,abreviatura_correlates_of_war,codigo,DJI
+262,codigo_correlates_of_war,codigo,522
+262,codigo_gec_cia_factbook,codigo,dj
+262,iso2_banco_mundial,codigo,DJ
+262,nombre_banco_mundial_en,nombre,Djibouti
+262,nombre_cia_factbook,nombre,Djibouti
+262,nombre_en,nombre,Djibouti
+262,nombre_es,nombre,Yibuti
+262,nombre_es_banco_mundial,nombre,Djibouti
+262,nombre_oficial_en,nombre,Republic of Djibouti
+266,abreviatura_correlates_of_war,codigo,GAB
+266,codigo_correlates_of_war,codigo,481
+266,codigo_gec_cia_factbook,codigo,gb
+266,iso2_banco_mundial,codigo,GA
+266,nombre_banco_mundial_en,nombre,Gabon
+266,nombre_cia_factbook,nombre,Gabon
+266,nombre_en,nombre,Gabon
+266,nombre_es,nombre,Gabón
+266,nombre_es_banco_mundial,nombre,Gabón
+266,nombre_oficial_en,nombre,Gabonese Republic
+268,abreviatura_correlates_of_war,codigo,GRG
+268,codigo_correlates_of_war,codigo,372
+268,codigo_gec_cia_factbook,codigo,gg
+268,iso2_banco_mundial,codigo,GE
+268,nombre_banco_mundial_en,nombre,Georgia
+268,nombre_cia_factbook,nombre,Georgia
+268,nombre_en,nombre,Georgia
+268,nombre_es,nombre,Georgia
+268,nombre_es_banco_mundial,nombre,Georgia
+268,nombre_oficial_en,nombre,Georgia
+270,abreviatura_correlates_of_war,codigo,GAM
+270,codigo_correlates_of_war,codigo,420
+270,codigo_gec_cia_factbook,codigo,ga
+270,iso2_banco_mundial,codigo,GM
+270,nombre_banco_mundial_en,nombre,"Gambia, The"
+270,nombre_cia_factbook,nombre,The Gambia
+270,nombre_en,nombre,"Gambia, The"
+270,nombre_es,nombre,Gambia
+270,nombre_es_banco_mundial,nombre,Gambia
+270,nombre_oficial_en,nombre,Republic of the Gambia
+270,nombre_world_happiness_report,nombre,Gambia
+275,codigo_gec_cia_factbook,codigo,gz
+275,codigo_gec_cia_factbook,codigo,we
+275,iso2_banco_mundial,codigo,PS
+275,nombre_banco_mundial_en,nombre,West Bank and Gaza
+275,nombre_cia_factbook,nombre,"Gaza, Gaza Strip"
+275,nombre_cia_factbook,nombre,West Bank
+275,nombre_en,nombre,West Bank and Gaza
+275,nombre_es,nombre,Palestina
+275,nombre_es_banco_mundial,nombre,Ribera Occidental y Gaza
+275,nombre_oficial_en,nombre,the State of Palestine
+275,nombre_world_happiness_report,nombre,State of Palestine
+276,abreviatura_correlates_of_war,codigo,GMY
+276,abreviatura_correlates_of_war,codigo,GFR
+276,codigo_correlates_of_war,codigo,255
+276,codigo_correlates_of_war,codigo,260
+276,codigo_gec_cia_factbook,codigo,gm
+276,iso2_banco_mundial,codigo,DE
+276,nombre_banco_mundial_en,nombre,Germany
+276,nombre_cia_factbook,nombre,Germany
+276,nombre_en,nombre,Germany
+276,nombre_es,nombre,Alemania
+276,nombre_es_banco_mundial,nombre,Alemania
+276,nombre_oficial_en,nombre,Federal Republic of Germany
+288,abreviatura_correlates_of_war,codigo,GHA
+288,codigo_correlates_of_war,codigo,452
+288,codigo_gec_cia_factbook,codigo,gh
+288,iso2_banco_mundial,codigo,GH
+288,nombre_banco_mundial_en,nombre,Ghana
+288,nombre_cia_factbook,nombre,Ghana
+288,nombre_en,nombre,Ghana
+288,nombre_es,nombre,Ghana
+288,nombre_es_banco_mundial,nombre,Ghana
+288,nombre_oficial_en,nombre,Republic of Ghana
+292,codigo_gec_cia_factbook,codigo,gi
+292,iso2_banco_mundial,codigo,GI
+292,nombre_banco_mundial_en,nombre,Gibraltar
+292,nombre_cia_factbook,nombre,Gibraltar
+292,nombre_en,nombre,Gibraltar
+292,nombre_es,nombre,Gibraltar
+292,nombre_es_banco_mundial,nombre,Gibraltar
+292,nombre_oficial_en,nombre,Gibraltar
+296,abreviatura_correlates_of_war,codigo,KIR
+296,codigo_correlates_of_war,codigo,946
+296,codigo_gec_cia_factbook,codigo,kr
+296,iso2_banco_mundial,codigo,KI
+296,nombre_banco_mundial_en,nombre,Kiribati
+296,nombre_cia_factbook,nombre,Kiribati
+296,nombre_en,nombre,Kiribati
+296,nombre_es,nombre,Kiribati
+296,nombre_es_banco_mundial,nombre,Kiribati
+296,nombre_oficial_en,nombre,Republic of Kiribati
+300,abreviatura_correlates_of_war,codigo,GRC
+300,codigo_correlates_of_war,codigo,350
+300,codigo_gec_cia_factbook,codigo,gr
+300,iso2_banco_mundial,codigo,GR
+300,nombre_banco_mundial_en,nombre,Greece
+300,nombre_cia_factbook,nombre,Greece
+300,nombre_en,nombre,Greece
+300,nombre_es,nombre,Grecia
+300,nombre_es_banco_mundial,nombre,Grecia
+300,nombre_oficial_en,nombre,Hellenic Republic
+304,codigo_gec_cia_factbook,codigo,gl
+304,iso2_banco_mundial,codigo,GL
+304,nombre_banco_mundial_en,nombre,Greenland
+304,nombre_cia_factbook,nombre,Greenland
+304,nombre_en,nombre,Greenland
+304,nombre_es,nombre,Groenlandia
+304,nombre_es_banco_mundial,nombre,Groenlandia
+304,nombre_oficial_en,nombre,Greenland
+308,abreviatura_correlates_of_war,codigo,GRN
+308,codigo_correlates_of_war,codigo,55
+308,codigo_gec_cia_factbook,codigo,gj
+308,iso2_banco_mundial,codigo,GD
+308,nombre_banco_mundial_en,nombre,Grenada
+308,nombre_cia_factbook,nombre,Grenada
+308,nombre_en,nombre,Grenada
+308,nombre_es,nombre,Granada
+308,nombre_es_banco_mundial,nombre,Granada
+308,nombre_oficial_en,nombre,Grenada
+312,nombre_en,nombre,Guadeloupe
+312,nombre_es,nombre,Guadalupe
+312,nombre_oficial_en,nombre,Guadeloupe
+316,codigo_gec_cia_factbook,codigo,gq
+316,iso2_banco_mundial,codigo,GU
+316,nombre_banco_mundial_en,nombre,Guam
+316,nombre_cia_factbook,nombre,Guam
+316,nombre_en,nombre,Guam
+316,nombre_es,nombre,Guam
+316,nombre_es_banco_mundial,nombre,Guam
+316,nombre_oficial_en,nombre,Guam
+320,abreviatura_correlates_of_war,codigo,GUA
+320,codigo_correlates_of_war,codigo,90
+320,codigo_gec_cia_factbook,codigo,gt
+320,iso2_banco_mundial,codigo,GT
+320,nombre_banco_mundial_en,nombre,Guatemala
+320,nombre_cia_factbook,nombre,Guatemala
+320,nombre_en,nombre,Guatemala
+320,nombre_es,nombre,Guatemala
+320,nombre_es_banco_mundial,nombre,Guatemala
+320,nombre_oficial_en,nombre,Republic of Guatemala
+324,abreviatura_correlates_of_war,codigo,GUI
+324,codigo_correlates_of_war,codigo,438
+324,codigo_gec_cia_factbook,codigo,gv
+324,iso2_banco_mundial,codigo,GN
+324,nombre_banco_mundial_en,nombre,Guinea
+324,nombre_cia_factbook,nombre,Guinea
+324,nombre_en,nombre,Guinea
+324,nombre_es,nombre,Guinea
+324,nombre_es_banco_mundial,nombre,Guinea
+324,nombre_oficial_en,nombre,Republic of Guinea
+328,abreviatura_correlates_of_war,codigo,GUY
+328,codigo_correlates_of_war,codigo,110
+328,codigo_gec_cia_factbook,codigo,gy
+328,iso2_banco_mundial,codigo,GY
+328,nombre_banco_mundial_en,nombre,Guyana
+328,nombre_cia_factbook,nombre,Guyana
+328,nombre_en,nombre,Guyana
+328,nombre_es,nombre,Guyana
+328,nombre_es_banco_mundial,nombre,Guyana
+328,nombre_oficial_en,nombre,Republic of Guyana
+332,abreviatura_correlates_of_war,codigo,HAI
+332,codigo_correlates_of_war,codigo,41
+332,codigo_gec_cia_factbook,codigo,ha
+332,iso2_banco_mundial,codigo,HT
+332,nombre_banco_mundial_en,nombre,Haiti
+332,nombre_cia_factbook,nombre,Haiti
+332,nombre_en,nombre,Haiti
+332,nombre_es,nombre,Haití
+332,nombre_es_banco_mundial,nombre,Haití
+332,nombre_oficial_en,nombre,Republic of Haiti
+334,codigo_gec_cia_factbook,codigo,hm
+334,nombre_cia_factbook,nombre,Heard Island and McDonald Islands
+334,nombre_en,nombre,Heard Island and McDonald Islands
+334,nombre_es,nombre,Islas Heard y McDonald
+334,nombre_oficial_en,nombre,Heard Island and McDonald Islands
+336,codigo_gec_cia_factbook,codigo,vt
+336,nombre_cia_factbook,nombre,Holy See (Vatican City)
+336,nombre_en,nombre,Holy See (Vatican City State)
+336,nombre_es,nombre,Ciudad del Vaticano
+336,nombre_oficial_en,nombre,Holy See (Vatican City State)
+340,abreviatura_correlates_of_war,codigo,HON
+340,codigo_correlates_of_war,codigo,91
+340,codigo_gec_cia_factbook,codigo,ho
+340,iso2_banco_mundial,codigo,HN
+340,nombre_banco_mundial_en,nombre,Honduras
+340,nombre_cia_factbook,nombre,Honduras
+340,nombre_en,nombre,Honduras
+340,nombre_es,nombre,Honduras
+340,nombre_es_banco_mundial,nombre,Honduras
+340,nombre_oficial_en,nombre,Republic of Honduras
+344,codigo_gec_cia_factbook,codigo,hk
+344,iso2_banco_mundial,codigo,HK
+344,nombre_banco_mundial_en,nombre,"Hong Kong SAR, China"
+344,nombre_cia_factbook,nombre,Hong Kong
+344,nombre_en,nombre,"Hong Kong SAR, China"
+344,nombre_es,nombre,Hong Kong
+344,nombre_es_banco_mundial,nombre,"Hong Kong, Región Administrativa Especial"
+344,nombre_oficial_en,nombre,Hong Kong Special Administrative Region of China
+344,nombre_world_happiness_report,nombre,Hong Kong SAR of China
+348,abreviatura_correlates_of_war,codigo,HUN
+348,codigo_correlates_of_war,codigo,310
+348,codigo_gec_cia_factbook,codigo,hu
+348,iso2_banco_mundial,codigo,HU
+348,nombre_banco_mundial_en,nombre,Hungary
+348,nombre_cia_factbook,nombre,Hungary
+348,nombre_en,nombre,Hungary
+348,nombre_es,nombre,Hungría
+348,nombre_es_banco_mundial,nombre,Hungría
+348,nombre_oficial_en,nombre,Hungary
+352,abreviatura_correlates_of_war,codigo,ICE
+352,codigo_correlates_of_war,codigo,395
+352,codigo_gec_cia_factbook,codigo,ic
+352,iso2_banco_mundial,codigo,IS
+352,nombre_banco_mundial_en,nombre,Iceland
+352,nombre_cia_factbook,nombre,Iceland
+352,nombre_en,nombre,Iceland
+352,nombre_es,nombre,Islandia
+352,nombre_es_banco_mundial,nombre,Islandia
+352,nombre_oficial_en,nombre,Republic of Iceland
+356,abreviatura_correlates_of_war,codigo,IND
+356,codigo_correlates_of_war,codigo,750
+356,codigo_gec_cia_factbook,codigo,in
+356,iso2_banco_mundial,codigo,IN
+356,nombre_banco_mundial_en,nombre,India
+356,nombre_cia_factbook,nombre,India
+356,nombre_en,nombre,India
+356,nombre_es,nombre,India
+356,nombre_es_banco_mundial,nombre,India
+356,nombre_oficial_en,nombre,Republic of India
+360,abreviatura_correlates_of_war,codigo,INS
+360,codigo_correlates_of_war,codigo,850
+360,codigo_gec_cia_factbook,codigo,id
+360,iso2_banco_mundial,codigo,ID
+360,nombre_banco_mundial_en,nombre,Indonesia
+360,nombre_cia_factbook,nombre,Indonesia
+360,nombre_en,nombre,Indonesia
+360,nombre_es,nombre,Indonesia
+360,nombre_es_banco_mundial,nombre,Indonesia
+360,nombre_oficial_en,nombre,Republic of Indonesia
+364,abreviatura_correlates_of_war,codigo,IRN
+364,codigo_correlates_of_war,codigo,630
+364,codigo_gec_cia_factbook,codigo,ir
+364,iso2_banco_mundial,codigo,IR
+364,nombre_banco_mundial_en,nombre,"Iran, Islamic Rep."
+364,nombre_cia_factbook,nombre,Iran
+364,nombre_en,nombre,"Iran, Islamic Rep."
+364,nombre_es,nombre,Irán
+364,nombre_es_banco_mundial,nombre,"Irán, República Islámica del"
+364,nombre_oficial_en,nombre,Islamic Republic of Iran
+364,nombre_world_happiness_report,nombre,Iran
+368,abreviatura_correlates_of_war,codigo,IRQ
+368,codigo_correlates_of_war,codigo,645
+368,codigo_gec_cia_factbook,codigo,iz
+368,iso2_banco_mundial,codigo,IQ
+368,nombre_banco_mundial_en,nombre,Iraq
+368,nombre_cia_factbook,nombre,Iraq
+368,nombre_en,nombre,Iraq
+368,nombre_es,nombre,Irak
+368,nombre_es_banco_mundial,nombre,Iraq
+368,nombre_oficial_en,nombre,Republic of Iraq
+372,abreviatura_correlates_of_war,codigo,IRE
+372,codigo_correlates_of_war,codigo,205
+372,codigo_gec_cia_factbook,codigo,ei
+372,iso2_banco_mundial,codigo,IE
+372,nombre_banco_mundial_en,nombre,Ireland
+372,nombre_cia_factbook,nombre,Ireland
+372,nombre_en,nombre,Ireland
+372,nombre_es,nombre,Irlanda
+372,nombre_es_banco_mundial,nombre,Irlanda
+372,nombre_oficial_en,nombre,Ireland
+376,abreviatura_correlates_of_war,codigo,ISR
+376,codigo_correlates_of_war,codigo,666
+376,codigo_gec_cia_factbook,codigo,is
+376,iso2_banco_mundial,codigo,IL
+376,nombre_banco_mundial_en,nombre,Israel
+376,nombre_cia_factbook,nombre,Israel
+376,nombre_en,nombre,Israel
+376,nombre_es,nombre,Israel
+376,nombre_es_banco_mundial,nombre,Israel
+376,nombre_oficial_en,nombre,State of Israel
+380,abreviatura_correlates_of_war,codigo,ITA
+380,codigo_correlates_of_war,codigo,325
+380,codigo_gec_cia_factbook,codigo,it
+380,iso2_banco_mundial,codigo,IT
+380,nombre_banco_mundial_en,nombre,Italy
+380,nombre_cia_factbook,nombre,Italy
+380,nombre_en,nombre,Italy
+380,nombre_es,nombre,Italia
+380,nombre_es_banco_mundial,nombre,Italia
+380,nombre_oficial_en,nombre,Italian Republic
+384,abreviatura_correlates_of_war,codigo,CDI
+384,codigo_correlates_of_war,codigo,437
+384,codigo_gec_cia_factbook,codigo,iv
+384,iso2_banco_mundial,codigo,CI
+384,nombre_banco_mundial_en,nombre,Cote d'Ivoire
+384,nombre_cia_factbook,nombre,Côte d'Ivoire
+384,nombre_en,nombre,Cote d'Ivoire
+384,nombre_es,nombre,Costa de Marfil
+384,nombre_es_banco_mundial,nombre,Côte d'Ivoire
+384,nombre_oficial_en,nombre,Republic of Côte d'Ivoire
+384,nombre_world_happiness_report,nombre,Côte d’Ivoire
+388,abreviatura_correlates_of_war,codigo,JAM
+388,codigo_correlates_of_war,codigo,51
+388,codigo_gec_cia_factbook,codigo,jm
+388,iso2_banco_mundial,codigo,JM
+388,nombre_banco_mundial_en,nombre,Jamaica
+388,nombre_cia_factbook,nombre,Jamaica
+388,nombre_en,nombre,Jamaica
+388,nombre_es,nombre,Jamaica
+388,nombre_es_banco_mundial,nombre,Jamaica
+388,nombre_oficial_en,nombre,Jamaica
+392,abreviatura_correlates_of_war,codigo,JPN
+392,codigo_correlates_of_war,codigo,740
+392,codigo_gec_cia_factbook,codigo,ja
+392,iso2_banco_mundial,codigo,JP
+392,nombre_banco_mundial_en,nombre,Japan
+392,nombre_cia_factbook,nombre,Japan
+392,nombre_en,nombre,Japan
+392,nombre_es,nombre,Japón
+392,nombre_es_banco_mundial,nombre,Japón
+392,nombre_oficial_en,nombre,Japan
+398,abreviatura_correlates_of_war,codigo,KZK
+398,codigo_correlates_of_war,codigo,705
+398,codigo_gec_cia_factbook,codigo,kz
+398,iso2_banco_mundial,codigo,KZ
+398,nombre_banco_mundial_en,nombre,Kazakhstan
+398,nombre_cia_factbook,nombre,Kazakhstan
+398,nombre_en,nombre,Kazakhstan
+398,nombre_es,nombre,Kazajistán
+398,nombre_es_banco_mundial,nombre,Kazajstán
+398,nombre_oficial_en,nombre,Republic of Kazakhstan
+400,abreviatura_correlates_of_war,codigo,JOR
+400,codigo_correlates_of_war,codigo,663
+400,codigo_gec_cia_factbook,codigo,jo
+400,iso2_banco_mundial,codigo,JO
+400,nombre_banco_mundial_en,nombre,Jordan
+400,nombre_cia_factbook,nombre,Jordan
+400,nombre_en,nombre,Jordan
+400,nombre_es,nombre,Jordania
+400,nombre_es_banco_mundial,nombre,Jordania
+400,nombre_oficial_en,nombre,Hashemite Kingdom of Jordan
+404,abreviatura_correlates_of_war,codigo,KEN
+404,codigo_correlates_of_war,codigo,501
+404,codigo_gec_cia_factbook,codigo,ke
+404,iso2_banco_mundial,codigo,KE
+404,nombre_banco_mundial_en,nombre,Kenya
+404,nombre_cia_factbook,nombre,Kenya
+404,nombre_en,nombre,Kenya
+404,nombre_es,nombre,Kenia
+404,nombre_es_banco_mundial,nombre,Kenya
+404,nombre_oficial_en,nombre,Republic of Kenya
+408,abreviatura_correlates_of_war,codigo,PRK
+408,codigo_correlates_of_war,codigo,731
+408,codigo_gec_cia_factbook,codigo,kn
+408,iso2_banco_mundial,codigo,KP
+408,nombre_banco_mundial_en,nombre,"Korea, Dem. People's Rep."
+408,nombre_cia_factbook,nombre,North Korea
+408,nombre_en,nombre,"Korea, Dem. People's Rep."
+408,nombre_es,nombre,Corea del Norte
+408,nombre_es_banco_mundial,nombre,"Corea, República Popular Democrática de"
+408,nombre_oficial_en,nombre,Democratic People's Republic of Korea
+410,abreviatura_correlates_of_war,codigo,ROK
+410,codigo_correlates_of_war,codigo,732
+410,codigo_gec_cia_factbook,codigo,ks
+410,iso2_banco_mundial,codigo,KR
+410,nombre_banco_mundial_en,nombre,"Korea, Rep."
+410,nombre_cia_factbook,nombre,South Korea
+410,nombre_en,nombre,"Korea, Rep."
+410,nombre_es,nombre,Corea del Sur
+410,nombre_es_banco_mundial,nombre,"Corea, República de"
+410,nombre_oficial_en,nombre,"Korea, Republic of"
+410,nombre_world_happiness_report,nombre,Republic of Korea
+414,abreviatura_correlates_of_war,codigo,KUW
+414,codigo_correlates_of_war,codigo,690
+414,codigo_gec_cia_factbook,codigo,ku
+414,iso2_banco_mundial,codigo,KW
+414,nombre_banco_mundial_en,nombre,Kuwait
+414,nombre_cia_factbook,nombre,Kuwait
+414,nombre_en,nombre,Kuwait
+414,nombre_es,nombre,Kuwait
+414,nombre_es_banco_mundial,nombre,Kuwait
+414,nombre_oficial_en,nombre,State of Kuwait
+417,abreviatura_correlates_of_war,codigo,KYR
+417,codigo_correlates_of_war,codigo,703
+417,codigo_gec_cia_factbook,codigo,kg
+417,iso2_banco_mundial,codigo,KG
+417,nombre_banco_mundial_en,nombre,Kyrgyz Republic
+417,nombre_cia_factbook,nombre,Kyrgyzstan
+417,nombre_en,nombre,Kyrgyz Republic
+417,nombre_es,nombre,Kirguistán
+417,nombre_es_banco_mundial,nombre,Kirguistán
+417,nombre_oficial_en,nombre,Kyrgyz Republic
+417,nombre_world_happiness_report,nombre,Kyrgyzstan
+418,abreviatura_correlates_of_war,codigo,LAO
+418,codigo_correlates_of_war,codigo,812
+418,codigo_gec_cia_factbook,codigo,la
+418,iso2_banco_mundial,codigo,LA
+418,nombre_banco_mundial_en,nombre,Lao PDR
+418,nombre_cia_factbook,nombre,Laos
+418,nombre_en,nombre,Lao PDR
+418,nombre_es,nombre,Laos
+418,nombre_es_banco_mundial,nombre,República Democrática Popular Lao
+418,nombre_oficial_en,nombre,Lao People's Democratic Republic
+422,abreviatura_correlates_of_war,codigo,LEB
+422,codigo_correlates_of_war,codigo,660
+422,codigo_gec_cia_factbook,codigo,le
+422,iso2_banco_mundial,codigo,LB
+422,nombre_banco_mundial_en,nombre,Lebanon
+422,nombre_cia_factbook,nombre,Lebanon
+422,nombre_en,nombre,Lebanon
+422,nombre_es,nombre,Líbano
+422,nombre_es_banco_mundial,nombre,Líbano
+422,nombre_oficial_en,nombre,Lebanese Republic
+426,abreviatura_correlates_of_war,codigo,LES
+426,codigo_correlates_of_war,codigo,570
+426,codigo_gec_cia_factbook,codigo,lt
+426,iso2_banco_mundial,codigo,LS
+426,nombre_banco_mundial_en,nombre,Lesotho
+426,nombre_cia_factbook,nombre,Lesotho
+426,nombre_en,nombre,Lesotho
+426,nombre_es,nombre,Lesoto
+426,nombre_es_banco_mundial,nombre,Lesotho
+426,nombre_oficial_en,nombre,Kingdom of Lesotho
+428,abreviatura_correlates_of_war,codigo,LAT
+428,codigo_correlates_of_war,codigo,367
+428,codigo_gec_cia_factbook,codigo,lg
+428,iso2_banco_mundial,codigo,LV
+428,nombre_banco_mundial_en,nombre,Latvia
+428,nombre_cia_factbook,nombre,Latvia
+428,nombre_en,nombre,Latvia
+428,nombre_es,nombre,Letonia
+428,nombre_es_banco_mundial,nombre,Letonia
+428,nombre_oficial_en,nombre,Republic of Latvia
+430,abreviatura_correlates_of_war,codigo,LBR
+430,codigo_correlates_of_war,codigo,450
+430,codigo_gec_cia_factbook,codigo,li
+430,iso2_banco_mundial,codigo,LR
+430,nombre_banco_mundial_en,nombre,Liberia
+430,nombre_cia_factbook,nombre,Liberia
+430,nombre_en,nombre,Liberia
+430,nombre_es,nombre,Liberia
+430,nombre_es_banco_mundial,nombre,Liberia
+430,nombre_oficial_en,nombre,Republic of Liberia
+434,abreviatura_correlates_of_war,codigo,LIB
+434,codigo_correlates_of_war,codigo,620
+434,codigo_gec_cia_factbook,codigo,ly
+434,iso2_banco_mundial,codigo,LY
+434,nombre_banco_mundial_en,nombre,Libya
+434,nombre_cia_factbook,nombre,Libya
+434,nombre_en,nombre,Libya
+434,nombre_es,nombre,Libia
+434,nombre_es_banco_mundial,nombre,Libia
+434,nombre_oficial_en,nombre,Libya
+438,abreviatura_correlates_of_war,codigo,LIE
+438,codigo_correlates_of_war,codigo,223
+438,codigo_gec_cia_factbook,codigo,ls
+438,iso2_banco_mundial,codigo,LI
+438,nombre_banco_mundial_en,nombre,Liechtenstein
+438,nombre_cia_factbook,nombre,Liechtenstein
+438,nombre_en,nombre,Liechtenstein
+438,nombre_es,nombre,Liechtenstein
+438,nombre_es_banco_mundial,nombre,Liechtenstein
+438,nombre_oficial_en,nombre,Principality of Liechtenstein
+440,abreviatura_correlates_of_war,codigo,LIT
+440,codigo_correlates_of_war,codigo,368
+440,codigo_gec_cia_factbook,codigo,lh
+440,iso2_banco_mundial,codigo,LT
+440,nombre_banco_mundial_en,nombre,Lithuania
+440,nombre_cia_factbook,nombre,Lithuania
+440,nombre_en,nombre,Lithuania
+440,nombre_es,nombre,Lituania
+440,nombre_es_banco_mundial,nombre,Lituania
+440,nombre_oficial_en,nombre,Republic of Lithuania
+442,abreviatura_correlates_of_war,codigo,LUX
+442,codigo_correlates_of_war,codigo,212
+442,codigo_gec_cia_factbook,codigo,lu
+442,iso2_banco_mundial,codigo,LU
+442,nombre_banco_mundial_en,nombre,Luxembourg
+442,nombre_cia_factbook,nombre,Luxembourg
+442,nombre_en,nombre,Luxembourg
+442,nombre_es,nombre,Luxemburgo
+442,nombre_es_banco_mundial,nombre,Luxemburgo
+442,nombre_oficial_en,nombre,Grand Duchy of Luxembourg
+446,codigo_gec_cia_factbook,codigo,mc
+446,iso2_banco_mundial,codigo,MO
+446,nombre_banco_mundial_en,nombre,"Macao SAR, China"
+446,nombre_cia_factbook,nombre,Macau
+446,nombre_en,nombre,"Macao SAR, China"
+446,nombre_es,nombre,Macao
+446,nombre_es_banco_mundial,nombre,"Región Administrativa Especial de Macao, China"
+446,nombre_oficial_en,nombre,Macao Special Administrative Region of China
+450,abreviatura_correlates_of_war,codigo,MAG
+450,codigo_correlates_of_war,codigo,580
+450,codigo_gec_cia_factbook,codigo,ma
+450,iso2_banco_mundial,codigo,MG
+450,nombre_banco_mundial_en,nombre,Madagascar
+450,nombre_cia_factbook,nombre,Madagascar
+450,nombre_en,nombre,Madagascar
+450,nombre_es,nombre,Madagascar
+450,nombre_es_banco_mundial,nombre,Madagascar
+450,nombre_oficial_en,nombre,Republic of Madagascar
+454,abreviatura_correlates_of_war,codigo,MAW
+454,codigo_correlates_of_war,codigo,553
+454,codigo_gec_cia_factbook,codigo,mi
+454,iso2_banco_mundial,codigo,MW
+454,nombre_banco_mundial_en,nombre,Malawi
+454,nombre_cia_factbook,nombre,Malawi
+454,nombre_en,nombre,Malawi
+454,nombre_es,nombre,Malaui
+454,nombre_es_banco_mundial,nombre,Malawi
+454,nombre_oficial_en,nombre,Republic of Malawi
+458,abreviatura_correlates_of_war,codigo,MAL
+458,codigo_correlates_of_war,codigo,820
+458,codigo_gec_cia_factbook,codigo,my
+458,iso2_banco_mundial,codigo,MY
+458,nombre_banco_mundial_en,nombre,Malaysia
+458,nombre_cia_factbook,nombre,Malaysia
+458,nombre_en,nombre,Malaysia
+458,nombre_es,nombre,Malasia
+458,nombre_es_banco_mundial,nombre,Malasia
+458,nombre_oficial_en,nombre,Malaysia
+462,abreviatura_correlates_of_war,codigo,MAD
+462,codigo_correlates_of_war,codigo,781
+462,codigo_gec_cia_factbook,codigo,mv
+462,iso2_banco_mundial,codigo,MV
+462,nombre_banco_mundial_en,nombre,Maldives
+462,nombre_cia_factbook,nombre,Maldives
+462,nombre_en,nombre,Maldives
+462,nombre_es,nombre,Maldivas
+462,nombre_es_banco_mundial,nombre,Maldivas
+462,nombre_oficial_en,nombre,Republic of Maldives
+466,abreviatura_correlates_of_war,codigo,MLI
+466,codigo_correlates_of_war,codigo,432
+466,codigo_gec_cia_factbook,codigo,ml
+466,iso2_banco_mundial,codigo,ML
+466,nombre_banco_mundial_en,nombre,Mali
+466,nombre_cia_factbook,nombre,Mali
+466,nombre_en,nombre,Mali
+466,nombre_es,nombre,Mali
+466,nombre_es_banco_mundial,nombre,Malí
+466,nombre_oficial_en,nombre,Republic of Mali
+470,abreviatura_correlates_of_war,codigo,MLT
+470,codigo_correlates_of_war,codigo,338
+470,codigo_gec_cia_factbook,codigo,mt
+470,iso2_banco_mundial,codigo,MT
+470,nombre_banco_mundial_en,nombre,Malta
+470,nombre_cia_factbook,nombre,Malta
+470,nombre_en,nombre,Malta
+470,nombre_es,nombre,Malta
+470,nombre_es_banco_mundial,nombre,Malta
+470,nombre_oficial_en,nombre,Republic of Malta
+474,nombre_en,nombre,Martinique
+474,nombre_es,nombre,Martinica
+474,nombre_oficial_en,nombre,Martinique
+478,abreviatura_correlates_of_war,codigo,MAA
+478,codigo_correlates_of_war,codigo,435
+478,codigo_gec_cia_factbook,codigo,mr
+478,iso2_banco_mundial,codigo,MR
+478,nombre_banco_mundial_en,nombre,Mauritania
+478,nombre_cia_factbook,nombre,Mauritania
+478,nombre_en,nombre,Mauritania
+478,nombre_es,nombre,Mauritania
+478,nombre_es_banco_mundial,nombre,Mauritania
+478,nombre_oficial_en,nombre,Islamic Republic of Mauritania
+480,abreviatura_correlates_of_war,codigo,MAS
+480,codigo_correlates_of_war,codigo,590
+480,codigo_gec_cia_factbook,codigo,mp
+480,iso2_banco_mundial,codigo,MU
+480,nombre_banco_mundial_en,nombre,Mauritius
+480,nombre_cia_factbook,nombre,Mauritius
+480,nombre_en,nombre,Mauritius
+480,nombre_es,nombre,Mauricio
+480,nombre_es_banco_mundial,nombre,Mauricio
+480,nombre_oficial_en,nombre,Republic of Mauritius
+484,abreviatura_correlates_of_war,codigo,MEX
+484,codigo_correlates_of_war,codigo,70
+484,codigo_gec_cia_factbook,codigo,mx
+484,iso2_banco_mundial,codigo,MX
+484,nombre_banco_mundial_en,nombre,Mexico
+484,nombre_cia_factbook,nombre,Mexico
+484,nombre_en,nombre,Mexico
+484,nombre_es,nombre,México
+484,nombre_es_banco_mundial,nombre,México
+484,nombre_oficial_en,nombre,United Mexican States
+492,abreviatura_correlates_of_war,codigo,MNC
+492,codigo_correlates_of_war,codigo,221
+492,codigo_gec_cia_factbook,codigo,mn
+492,iso2_banco_mundial,codigo,MC
+492,nombre_banco_mundial_en,nombre,Monaco
+492,nombre_cia_factbook,nombre,Monaco
+492,nombre_en,nombre,Monaco
+492,nombre_es,nombre,Mónaco
+492,nombre_es_banco_mundial,nombre,Mónaco
+492,nombre_oficial_en,nombre,Principality of Monaco
+496,abreviatura_correlates_of_war,codigo,MON
+496,codigo_correlates_of_war,codigo,712
+496,codigo_gec_cia_factbook,codigo,mg
+496,iso2_banco_mundial,codigo,MN
+496,nombre_banco_mundial_en,nombre,Mongolia
+496,nombre_cia_factbook,nombre,Mongolia
+496,nombre_en,nombre,Mongolia
+496,nombre_es,nombre,Mongolia
+496,nombre_es_banco_mundial,nombre,Mongolia
+496,nombre_oficial_en,nombre,Mongolia
+498,abreviatura_correlates_of_war,codigo,MLD
+498,codigo_correlates_of_war,codigo,359
+498,codigo_gec_cia_factbook,codigo,md
+498,iso2_banco_mundial,codigo,MD
+498,nombre_banco_mundial_en,nombre,Moldova
+498,nombre_cia_factbook,nombre,Moldova
+498,nombre_en,nombre,Moldova
+498,nombre_es,nombre,Moldavia
+498,nombre_es_banco_mundial,nombre,República de Moldova
+498,nombre_oficial_en,nombre,Republic of Moldova
+498,nombre_world_happiness_report,nombre,Republic of Moldova
+499,abreviatura_correlates_of_war,codigo,MNG
+499,codigo_correlates_of_war,codigo,341
+499,codigo_gec_cia_factbook,codigo,mj
+499,iso2_banco_mundial,codigo,ME
+499,nombre_banco_mundial_en,nombre,Montenegro
+499,nombre_cia_factbook,nombre,Montenegro
+499,nombre_en,nombre,Montenegro
+499,nombre_es,nombre,Montenegro
+499,nombre_es_banco_mundial,nombre,Montenegro
+499,nombre_oficial_en,nombre,Montenegro
+500,codigo_gec_cia_factbook,codigo,mh
+500,nombre_cia_factbook,nombre,Montserrat
+500,nombre_en,nombre,Montserrat
+500,nombre_es,nombre,Montserrat
+500,nombre_oficial_en,nombre,Montserrat
+504,abreviatura_correlates_of_war,codigo,MOR
+504,codigo_correlates_of_war,codigo,600
+504,codigo_gec_cia_factbook,codigo,mo
+504,iso2_banco_mundial,codigo,MA
+504,nombre_banco_mundial_en,nombre,Morocco
+504,nombre_cia_factbook,nombre,Morocco
+504,nombre_en,nombre,Morocco
+504,nombre_es,nombre,Marruecos
+504,nombre_es_banco_mundial,nombre,Marruecos
+504,nombre_oficial_en,nombre,Kingdom of Morocco
+508,abreviatura_correlates_of_war,codigo,MZM
+508,codigo_correlates_of_war,codigo,541
+508,codigo_gec_cia_factbook,codigo,mz
+508,iso2_banco_mundial,codigo,MZ
+508,nombre_banco_mundial_en,nombre,Mozambique
+508,nombre_cia_factbook,nombre,Mozambique
+508,nombre_en,nombre,Mozambique
+508,nombre_es,nombre,Mozambique
+508,nombre_es_banco_mundial,nombre,Mozambique
+508,nombre_oficial_en,nombre,Republic of Mozambique
+512,abreviatura_correlates_of_war,codigo,OMA
+512,codigo_correlates_of_war,codigo,698
+512,codigo_gec_cia_factbook,codigo,mu
+512,iso2_banco_mundial,codigo,OM
+512,nombre_banco_mundial_en,nombre,Oman
+512,nombre_cia_factbook,nombre,Oman
+512,nombre_en,nombre,Oman
+512,nombre_es,nombre,Omán
+512,nombre_es_banco_mundial,nombre,Omán
+512,nombre_oficial_en,nombre,Sultanate of Oman
+516,abreviatura_correlates_of_war,codigo,NAM
+516,codigo_correlates_of_war,codigo,565
+516,codigo_gec_cia_factbook,codigo,wa
+516,iso2_banco_mundial,codigo,NA
+516,nombre_banco_mundial_en,nombre,Namibia
+516,nombre_cia_factbook,nombre,Namibia
+516,nombre_en,nombre,Namibia
+516,nombre_es,nombre,Namibia
+516,nombre_es_banco_mundial,nombre,Namibia
+516,nombre_oficial_en,nombre,Republic of Namibia
+520,abreviatura_correlates_of_war,codigo,NAU
+520,codigo_correlates_of_war,codigo,970
+520,codigo_gec_cia_factbook,codigo,nr
+520,iso2_banco_mundial,codigo,NR
+520,nombre_banco_mundial_en,nombre,Naoero
+520,nombre_cia_factbook,nombre,Nauru
+520,nombre_en,nombre,Naoero
+520,nombre_es,nombre,Nauru
+520,nombre_es_banco_mundial,nombre,Naoero
+520,nombre_oficial_en,nombre,Republic of Nauru
+524,abreviatura_correlates_of_war,codigo,NEP
+524,codigo_correlates_of_war,codigo,790
+524,codigo_gec_cia_factbook,codigo,np
+524,iso2_banco_mundial,codigo,NP
+524,nombre_banco_mundial_en,nombre,Nepal
+524,nombre_cia_factbook,nombre,Nepal
+524,nombre_en,nombre,Nepal
+524,nombre_es,nombre,Nepal
+524,nombre_es_banco_mundial,nombre,Nepal
+524,nombre_oficial_en,nombre,Federal Democratic Republic of Nepal
+528,abreviatura_correlates_of_war,codigo,NTH
+528,codigo_correlates_of_war,codigo,210
+528,codigo_gec_cia_factbook,codigo,nl
+528,iso2_banco_mundial,codigo,NL
+528,nombre_banco_mundial_en,nombre,Netherlands
+528,nombre_cia_factbook,nombre,Netherlands
+528,nombre_en,nombre,Netherlands
+528,nombre_es,nombre,Países Bajos
+528,nombre_es_banco_mundial,nombre,Países Bajos
+528,nombre_oficial_en,nombre,Kingdom of the Netherlands
+531,codigo_gec_cia_factbook,codigo,uc
+531,iso2_banco_mundial,codigo,CW
+531,nombre_banco_mundial_en,nombre,Curacao
+531,nombre_cia_factbook,nombre,Curacao
+531,nombre_en,nombre,Curacao
+531,nombre_es,nombre,Curazao
+531,nombre_es_banco_mundial,nombre,Curacao
+531,nombre_oficial_en,nombre,Curaçao
+533,codigo_gec_cia_factbook,codigo,aa
+533,iso2_banco_mundial,codigo,AW
+533,nombre_banco_mundial_en,nombre,Aruba
+533,nombre_cia_factbook,nombre,Aruba
+533,nombre_en,nombre,Aruba
+533,nombre_es,nombre,Aruba
+533,nombre_es_banco_mundial,nombre,Aruba
+533,nombre_oficial_en,nombre,Aruba
+534,codigo_gec_cia_factbook,codigo,nn
+534,iso2_banco_mundial,codigo,SX
+534,nombre_banco_mundial_en,nombre,Sint Maarten (Dutch part)
+534,nombre_cia_factbook,nombre,Sint Maarten
+534,nombre_en,nombre,Sint Maarten (Dutch part)
+534,nombre_es,nombre,San Martín (parte neerlandesa)
+534,nombre_es_banco_mundial,nombre,Sint Maarten (Dutch part)
+534,nombre_oficial_en,nombre,Sint Maarten (Dutch part)
+535,nombre_en,nombre,"Bonaire, Sint Eustatius and Saba"
+535,nombre_es,nombre,Caribe neerlandés
+535,nombre_oficial_en,nombre,"Bonaire, Sint Eustatius and Saba"
+540,codigo_gec_cia_factbook,codigo,nc
+540,iso2_banco_mundial,codigo,NC
+540,nombre_banco_mundial_en,nombre,New Caledonia
+540,nombre_cia_factbook,nombre,New Caledonia
+540,nombre_en,nombre,New Caledonia
+540,nombre_es,nombre,Nueva Caledonia
+540,nombre_es_banco_mundial,nombre,Nueva Caledonia
+540,nombre_oficial_en,nombre,New Caledonia
+548,abreviatura_correlates_of_war,codigo,VAN
+548,codigo_correlates_of_war,codigo,935
+548,codigo_gec_cia_factbook,codigo,nh
+548,iso2_banco_mundial,codigo,VU
+548,nombre_banco_mundial_en,nombre,Vanuatu
+548,nombre_cia_factbook,nombre,Vanuatu
+548,nombre_en,nombre,Vanuatu
+548,nombre_es,nombre,Vanuatu
+548,nombre_es_banco_mundial,nombre,Vanuatu
+548,nombre_oficial_en,nombre,Republic of Vanuatu
+554,abreviatura_correlates_of_war,codigo,NEW
+554,codigo_correlates_of_war,codigo,920
+554,codigo_gec_cia_factbook,codigo,nz
+554,iso2_banco_mundial,codigo,NZ
+554,nombre_banco_mundial_en,nombre,New Zealand
+554,nombre_cia_factbook,nombre,New Zealand
+554,nombre_en,nombre,New Zealand
+554,nombre_es,nombre,Nueva Zelanda
+554,nombre_es_banco_mundial,nombre,Nueva Zelandia
+554,nombre_oficial_en,nombre,New Zealand
+558,abreviatura_correlates_of_war,codigo,NIC
+558,codigo_correlates_of_war,codigo,93
+558,codigo_gec_cia_factbook,codigo,nu
+558,iso2_banco_mundial,codigo,NI
+558,nombre_banco_mundial_en,nombre,Nicaragua
+558,nombre_cia_factbook,nombre,Nicaragua
+558,nombre_en,nombre,Nicaragua
+558,nombre_es,nombre,Nicaragua
+558,nombre_es_banco_mundial,nombre,Nicaragua
+558,nombre_oficial_en,nombre,Republic of Nicaragua
+562,abreviatura_correlates_of_war,codigo,NIR
+562,codigo_correlates_of_war,codigo,436
+562,codigo_gec_cia_factbook,codigo,ng
+562,iso2_banco_mundial,codigo,NE
+562,nombre_banco_mundial_en,nombre,Niger
+562,nombre_cia_factbook,nombre,Niger
+562,nombre_en,nombre,Niger
+562,nombre_es,nombre,Níger
+562,nombre_es_banco_mundial,nombre,Níger
+562,nombre_oficial_en,nombre,Republic of the Niger
+566,abreviatura_correlates_of_war,codigo,NIG
+566,codigo_correlates_of_war,codigo,475
+566,codigo_gec_cia_factbook,codigo,ni
+566,iso2_banco_mundial,codigo,NG
+566,nombre_banco_mundial_en,nombre,Nigeria
+566,nombre_cia_factbook,nombre,Nigeria
+566,nombre_en,nombre,Nigeria
+566,nombre_es,nombre,Nigeria
+566,nombre_es_banco_mundial,nombre,Nigeria
+566,nombre_oficial_en,nombre,Federal Republic of Nigeria
+570,codigo_gec_cia_factbook,codigo,ne
+570,nombre_cia_factbook,nombre,Niue
+570,nombre_en,nombre,Niue
+570,nombre_es,nombre,Niue
+570,nombre_oficial_en,nombre,Niue
+574,codigo_gec_cia_factbook,codigo,nf
+574,nombre_cia_factbook,nombre,Norfolk Island
+574,nombre_en,nombre,Norfolk Island
+574,nombre_es,nombre,Isla Norfolk
+574,nombre_oficial_en,nombre,Norfolk Island
+578,abreviatura_correlates_of_war,codigo,NOR
+578,codigo_correlates_of_war,codigo,385
+578,codigo_gec_cia_factbook,codigo,no
+578,iso2_banco_mundial,codigo,NO
+578,nombre_banco_mundial_en,nombre,Norway
+578,nombre_cia_factbook,nombre,Norway
+578,nombre_en,nombre,Norway
+578,nombre_es,nombre,Noruega
+578,nombre_es_banco_mundial,nombre,Noruega
+578,nombre_oficial_en,nombre,Kingdom of Norway
+580,codigo_gec_cia_factbook,codigo,cq
+580,iso2_banco_mundial,codigo,MP
+580,nombre_banco_mundial_en,nombre,Northern Mariana Islands
+580,nombre_cia_factbook,nombre,Northern Mariana Islands
+580,nombre_en,nombre,Northern Mariana Islands
+580,nombre_es,nombre,Islas Marianas del Norte
+580,nombre_es_banco_mundial,nombre,Mariana
+580,nombre_oficial_en,nombre,Commonwealth of the Northern Mariana Islands
+581,codigo_gec_cia_factbook,codigo,um
+581,nombre_cia_factbook,nombre,"Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll"
+581,nombre_en,nombre,United States Minor Outlying Islands
+581,nombre_es,nombre,Islas ultramarinas de Estados Unidos
+581,nombre_oficial_en,nombre,United States Minor Outlying Islands
+583,abreviatura_correlates_of_war,codigo,FSM
+583,codigo_correlates_of_war,codigo,987
+583,codigo_gec_cia_factbook,codigo,fm
+583,iso2_banco_mundial,codigo,FM
+583,nombre_banco_mundial_en,nombre,"Micronesia, Fed. Sts."
+583,nombre_cia_factbook,nombre,Federated States of Micronesia
+583,nombre_en,nombre,"Micronesia, Fed. Sts."
+583,nombre_es,nombre,Estados Federados de Micronesia
+583,nombre_es_banco_mundial,nombre,Micronesia (Estados Federados de)
+583,nombre_oficial_en,nombre,Federated States of Micronesia
+584,abreviatura_correlates_of_war,codigo,MSI
+584,codigo_correlates_of_war,codigo,983
+584,codigo_gec_cia_factbook,codigo,rm
+584,iso2_banco_mundial,codigo,MH
+584,nombre_banco_mundial_en,nombre,Marshall Islands
+584,nombre_cia_factbook,nombre,Marshall Islands
+584,nombre_en,nombre,Marshall Islands
+584,nombre_es,nombre,Islas Marshall
+584,nombre_es_banco_mundial,nombre,Islas Marshall
+584,nombre_oficial_en,nombre,Republic of the Marshall Islands
+585,abreviatura_correlates_of_war,codigo,PAL
+585,codigo_correlates_of_war,codigo,986
+585,codigo_gec_cia_factbook,codigo,ps
+585,iso2_banco_mundial,codigo,PW
+585,nombre_banco_mundial_en,nombre,Palau
+585,nombre_cia_factbook,nombre,Palau
+585,nombre_en,nombre,Palau
+585,nombre_es,nombre,Palaos
+585,nombre_es_banco_mundial,nombre,Palau
+585,nombre_oficial_en,nombre,Republic of Palau
+586,abreviatura_correlates_of_war,codigo,PAK
+586,codigo_correlates_of_war,codigo,770
+586,codigo_gec_cia_factbook,codigo,pk
+586,iso2_banco_mundial,codigo,PK
+586,nombre_banco_mundial_en,nombre,Pakistan
+586,nombre_cia_factbook,nombre,Pakistan
+586,nombre_en,nombre,Pakistan
+586,nombre_es,nombre,Pakistán
+586,nombre_es_banco_mundial,nombre,Pakistán
+586,nombre_oficial_en,nombre,Islamic Republic of Pakistan
+591,abreviatura_correlates_of_war,codigo,PAN
+591,codigo_correlates_of_war,codigo,95
+591,codigo_gec_cia_factbook,codigo,pm
+591,iso2_banco_mundial,codigo,PA
+591,nombre_banco_mundial_en,nombre,Panama
+591,nombre_cia_factbook,nombre,Panama
+591,nombre_en,nombre,Panama
+591,nombre_es,nombre,Panamá
+591,nombre_es_banco_mundial,nombre,Panamá
+591,nombre_oficial_en,nombre,Republic of Panama
+598,abreviatura_correlates_of_war,codigo,PNG
+598,codigo_correlates_of_war,codigo,910
+598,codigo_gec_cia_factbook,codigo,pp
+598,iso2_banco_mundial,codigo,PG
+598,nombre_banco_mundial_en,nombre,Papua New Guinea
+598,nombre_cia_factbook,nombre,Papua New Guinea
+598,nombre_en,nombre,Papua New Guinea
+598,nombre_es,nombre,Papúa Nueva Guinea
+598,nombre_es_banco_mundial,nombre,Papua Nueva Guinea
+598,nombre_oficial_en,nombre,Independent State of Papua New Guinea
+600,abreviatura_correlates_of_war,codigo,PAR
+600,codigo_correlates_of_war,codigo,150
+600,codigo_gec_cia_factbook,codigo,pa
+600,iso2_banco_mundial,codigo,PY
+600,nombre_banco_mundial_en,nombre,Paraguay
+600,nombre_cia_factbook,nombre,Paraguay
+600,nombre_en,nombre,Paraguay
+600,nombre_es,nombre,Paraguay
+600,nombre_es_banco_mundial,nombre,Paraguay
+600,nombre_oficial_en,nombre,Republic of Paraguay
+604,abreviatura_correlates_of_war,codigo,PER
+604,codigo_correlates_of_war,codigo,135
+604,codigo_gec_cia_factbook,codigo,pe
+604,iso2_banco_mundial,codigo,PE
+604,nombre_banco_mundial_en,nombre,Peru
+604,nombre_cia_factbook,nombre,Peru
+604,nombre_en,nombre,Peru
+604,nombre_es,nombre,Perú
+604,nombre_es_banco_mundial,nombre,Perú
+604,nombre_oficial_en,nombre,Republic of Peru
+608,abreviatura_correlates_of_war,codigo,PHI
+608,codigo_correlates_of_war,codigo,840
+608,codigo_gec_cia_factbook,codigo,rp
+608,iso2_banco_mundial,codigo,PH
+608,nombre_banco_mundial_en,nombre,Philippines
+608,nombre_cia_factbook,nombre,Philippines
+608,nombre_en,nombre,Philippines
+608,nombre_es,nombre,Filipinas
+608,nombre_es_banco_mundial,nombre,Filipinas
+608,nombre_oficial_en,nombre,Republic of the Philippines
+612,codigo_gec_cia_factbook,codigo,pc
+612,nombre_cia_factbook,nombre,Pitcairn Islands
+612,nombre_en,nombre,Pitcairn
+612,nombre_es,nombre,Islas Pitcairn
+612,nombre_oficial_en,nombre,Pitcairn
+616,abreviatura_correlates_of_war,codigo,POL
+616,codigo_correlates_of_war,codigo,290
+616,codigo_gec_cia_factbook,codigo,pl
+616,iso2_banco_mundial,codigo,PL
+616,nombre_banco_mundial_en,nombre,Poland
+616,nombre_cia_factbook,nombre,Poland
+616,nombre_en,nombre,Poland
+616,nombre_es,nombre,Polonia
+616,nombre_es_banco_mundial,nombre,Polonia
+616,nombre_oficial_en,nombre,Republic of Poland
+620,abreviatura_correlates_of_war,codigo,POR
+620,codigo_correlates_of_war,codigo,235
+620,codigo_gec_cia_factbook,codigo,po
+620,iso2_banco_mundial,codigo,PT
+620,nombre_banco_mundial_en,nombre,Portugal
+620,nombre_cia_factbook,nombre,Portugal
+620,nombre_en,nombre,Portugal
+620,nombre_es,nombre,Portugal
+620,nombre_es_banco_mundial,nombre,Portugal
+620,nombre_oficial_en,nombre,Portuguese Republic
+624,abreviatura_correlates_of_war,codigo,GNB
+624,codigo_correlates_of_war,codigo,404
+624,codigo_gec_cia_factbook,codigo,pu
+624,iso2_banco_mundial,codigo,GW
+624,nombre_banco_mundial_en,nombre,Guinea-Bissau
+624,nombre_cia_factbook,nombre,Guinea-Bissau
+624,nombre_en,nombre,Guinea-Bissau
+624,nombre_es,nombre,Guinea-Bisáu
+624,nombre_es_banco_mundial,nombre,Guinea-Bissau
+624,nombre_oficial_en,nombre,Republic of Guinea-Bissau
+626,abreviatura_correlates_of_war,codigo,ETM
+626,codigo_correlates_of_war,codigo,860
+626,codigo_gec_cia_factbook,codigo,tt
+626,iso2_banco_mundial,codigo,TL
+626,nombre_banco_mundial_en,nombre,Timor-Leste
+626,nombre_cia_factbook,nombre,Timor-Leste
+626,nombre_en,nombre,Timor-Leste
+626,nombre_es,nombre,Timor Oriental
+626,nombre_es_banco_mundial,nombre,Timor-Leste
+626,nombre_oficial_en,nombre,Democratic Republic of Timor-Leste
+630,codigo_gec_cia_factbook,codigo,rq
+630,iso2_banco_mundial,codigo,PR
+630,nombre_banco_mundial_en,nombre,Puerto Rico (US)
+630,nombre_cia_factbook,nombre,Puerto Rico
+630,nombre_en,nombre,Puerto Rico (US)
+630,nombre_es,nombre,Puerto Rico
+630,nombre_es_banco_mundial,nombre,Puerto Rico (US)
+630,nombre_oficial_en,nombre,Puerto Rico
+630,nombre_world_happiness_report,nombre,Puerto Rico
+634,abreviatura_correlates_of_war,codigo,QAT
+634,codigo_correlates_of_war,codigo,694
+634,codigo_gec_cia_factbook,codigo,qa
+634,iso2_banco_mundial,codigo,QA
+634,nombre_banco_mundial_en,nombre,Qatar
+634,nombre_cia_factbook,nombre,Qatar
+634,nombre_en,nombre,Qatar
+634,nombre_es,nombre,Catar
+634,nombre_es_banco_mundial,nombre,Qatar
+634,nombre_oficial_en,nombre,State of Qatar
+638,nombre_en,nombre,Réunion
+638,nombre_es,nombre,Reunión
+638,nombre_oficial_en,nombre,Réunion
+642,abreviatura_correlates_of_war,codigo,ROM
+642,codigo_correlates_of_war,codigo,360
+642,codigo_gec_cia_factbook,codigo,ro
+642,iso2_banco_mundial,codigo,RO
+642,nombre_banco_mundial_en,nombre,Romania
+642,nombre_cia_factbook,nombre,Romania
+642,nombre_en,nombre,Romania
+642,nombre_es,nombre,Rumania
+642,nombre_es_banco_mundial,nombre,Rumania
+642,nombre_oficial_en,nombre,Romania
+643,abreviatura_correlates_of_war,codigo,RUS
+643,codigo_correlates_of_war,codigo,365
+643,codigo_gec_cia_factbook,codigo,rs
+643,iso2_banco_mundial,codigo,RU
+643,nombre_banco_mundial_en,nombre,Russian Federation
+643,nombre_cia_factbook,nombre,Russia
+643,nombre_en,nombre,Russian Federation
+643,nombre_es,nombre,Rusia
+643,nombre_es_banco_mundial,nombre,Federación de Rusia
+643,nombre_oficial_en,nombre,Russian Federation
+646,abreviatura_correlates_of_war,codigo,RWA
+646,codigo_correlates_of_war,codigo,517
+646,codigo_gec_cia_factbook,codigo,rw
+646,iso2_banco_mundial,codigo,RW
+646,nombre_banco_mundial_en,nombre,Rwanda
+646,nombre_cia_factbook,nombre,Rwanda
+646,nombre_en,nombre,Rwanda
+646,nombre_es,nombre,Ruanda
+646,nombre_es_banco_mundial,nombre,Rwanda
+646,nombre_oficial_en,nombre,Rwandese Republic
+652,codigo_gec_cia_factbook,codigo,tb
+652,nombre_cia_factbook,nombre,Saint Barthelemy
+652,nombre_en,nombre,Saint Barthélemy
+652,nombre_es,nombre,San Bartolomé
+652,nombre_oficial_en,nombre,Saint Barthélemy
+654,codigo_gec_cia_factbook,codigo,sh
+654,nombre_cia_factbook,nombre,"Saint Helena, Ascension, and Tristan da Cunha"
+654,nombre_en,nombre,"Saint Helena, Ascension and Tristan da Cunha"
+654,nombre_es,nombre,"Santa Elena, Ascensión y Tristán de Acuña"
+654,nombre_oficial_en,nombre,"Saint Helena, Ascension and Tristan da Cunha"
+659,abreviatura_correlates_of_war,codigo,SKN
+659,codigo_correlates_of_war,codigo,60
+659,codigo_gec_cia_factbook,codigo,sc
+659,iso2_banco_mundial,codigo,KN
+659,nombre_banco_mundial_en,nombre,St. Kitts and Nevis
+659,nombre_cia_factbook,nombre,Saint Kitts and Nevis
+659,nombre_en,nombre,St. Kitts and Nevis
+659,nombre_es,nombre,San Cristóbal y Nieves
+659,nombre_es_banco_mundial,nombre,Saint Kitts y Nevis
+659,nombre_oficial_en,nombre,Saint Kitts and Nevis
+660,codigo_gec_cia_factbook,codigo,av
+660,nombre_cia_factbook,nombre,Anguilla
+660,nombre_en,nombre,Anguilla
+660,nombre_es,nombre,Anguila
+660,nombre_oficial_en,nombre,Anguilla
+662,abreviatura_correlates_of_war,codigo,SLU
+662,codigo_correlates_of_war,codigo,56
+662,codigo_gec_cia_factbook,codigo,st
+662,iso2_banco_mundial,codigo,LC
+662,nombre_banco_mundial_en,nombre,St. Lucia
+662,nombre_cia_factbook,nombre,Saint Lucia
+662,nombre_en,nombre,St. Lucia
+662,nombre_es,nombre,Santa Lucía
+662,nombre_es_banco_mundial,nombre,Santa Lucía
+662,nombre_oficial_en,nombre,Saint Lucia
+663,codigo_gec_cia_factbook,codigo,rn
+663,iso2_banco_mundial,codigo,MF
+663,nombre_banco_mundial_en,nombre,St. Martin (French part)
+663,nombre_cia_factbook,nombre,Saint Martin
+663,nombre_en,nombre,St. Martin (French part)
+663,nombre_es,nombre,San Martín (parte francesa)
+663,nombre_es_banco_mundial,nombre,Isla de San Martín (parte francesa)
+663,nombre_oficial_en,nombre,Saint Martin (French part)
+666,codigo_gec_cia_factbook,codigo,sb
+666,nombre_cia_factbook,nombre,Saint Pierre and Miquelon
+666,nombre_en,nombre,Saint Pierre and Miquelon
+666,nombre_es,nombre,San Pedro y Miquelón
+666,nombre_oficial_en,nombre,Saint Pierre and Miquelon
+670,abreviatura_correlates_of_war,codigo,SVG
+670,codigo_correlates_of_war,codigo,57
+670,codigo_gec_cia_factbook,codigo,vc
+670,iso2_banco_mundial,codigo,VC
+670,nombre_banco_mundial_en,nombre,St. Vincent and the Grenadines
+670,nombre_cia_factbook,nombre,Saint Vincent and the Grenadines
+670,nombre_en,nombre,St. Vincent and the Grenadines
+670,nombre_es,nombre,San Vicente y las Granadinas
+670,nombre_es_banco_mundial,nombre,San Vicente y las Granadinas
+670,nombre_oficial_en,nombre,Saint Vincent and the Grenadines
+674,abreviatura_correlates_of_war,codigo,SNM
+674,codigo_correlates_of_war,codigo,331
+674,codigo_gec_cia_factbook,codigo,sm
+674,iso2_banco_mundial,codigo,SM
+674,nombre_banco_mundial_en,nombre,San Marino
+674,nombre_cia_factbook,nombre,San Marino
+674,nombre_en,nombre,San Marino
+674,nombre_es,nombre,San Marino
+674,nombre_es_banco_mundial,nombre,San Marino
+674,nombre_oficial_en,nombre,Republic of San Marino
+678,abreviatura_correlates_of_war,codigo,STP
+678,codigo_correlates_of_war,codigo,403
+678,codigo_gec_cia_factbook,codigo,tp
+678,iso2_banco_mundial,codigo,ST
+678,nombre_banco_mundial_en,nombre,Sao Tome and Principe
+678,nombre_cia_factbook,nombre,Sao Tome and Principe
+678,nombre_en,nombre,Sao Tome and Principe
+678,nombre_es,nombre,Santo Tomé y Príncipe
+678,nombre_es_banco_mundial,nombre,Santo Tomé y Príncipe
+678,nombre_oficial_en,nombre,Democratic Republic of Sao Tome and Principe
+682,abreviatura_correlates_of_war,codigo,SAU
+682,codigo_correlates_of_war,codigo,670
+682,codigo_gec_cia_factbook,codigo,sa
+682,iso2_banco_mundial,codigo,SA
+682,nombre_banco_mundial_en,nombre,Saudi Arabia
+682,nombre_cia_factbook,nombre,Saudi Arabia
+682,nombre_en,nombre,Saudi Arabia
+682,nombre_es,nombre,Arabia Saudí
+682,nombre_es_banco_mundial,nombre,Arabia Saudita
+682,nombre_oficial_en,nombre,Kingdom of Saudi Arabia
+686,abreviatura_correlates_of_war,codigo,SEN
+686,codigo_correlates_of_war,codigo,433
+686,codigo_gec_cia_factbook,codigo,sg
+686,iso2_banco_mundial,codigo,SN
+686,nombre_banco_mundial_en,nombre,Senegal
+686,nombre_cia_factbook,nombre,Senegal
+686,nombre_en,nombre,Senegal
+686,nombre_es,nombre,Senegal
+686,nombre_es_banco_mundial,nombre,Senegal
+686,nombre_oficial_en,nombre,Republic of Senegal
+688,abreviatura_correlates_of_war,codigo,YUG
+688,codigo_correlates_of_war,codigo,345
+688,codigo_gec_cia_factbook,codigo,ri
+688,iso2_banco_mundial,codigo,RS
+688,nombre_banco_mundial_en,nombre,Serbia
+688,nombre_cia_factbook,nombre,Serbia
+688,nombre_en,nombre,Serbia
+688,nombre_es,nombre,Serbia
+688,nombre_es_banco_mundial,nombre,Serbia
+688,nombre_oficial_en,nombre,Republic of Serbia
+690,abreviatura_correlates_of_war,codigo,SEY
+690,codigo_correlates_of_war,codigo,591
+690,codigo_gec_cia_factbook,codigo,se
+690,iso2_banco_mundial,codigo,SC
+690,nombre_banco_mundial_en,nombre,Seychelles
+690,nombre_cia_factbook,nombre,Seychelles
+690,nombre_en,nombre,Seychelles
+690,nombre_es,nombre,Seychelles
+690,nombre_es_banco_mundial,nombre,Seychelles
+690,nombre_oficial_en,nombre,Republic of Seychelles
+694,abreviatura_correlates_of_war,codigo,SIE
+694,codigo_correlates_of_war,codigo,451
+694,codigo_gec_cia_factbook,codigo,sl
+694,iso2_banco_mundial,codigo,SL
+694,nombre_banco_mundial_en,nombre,Sierra Leone
+694,nombre_cia_factbook,nombre,Sierra Leone
+694,nombre_en,nombre,Sierra Leone
+694,nombre_es,nombre,Sierra Leona
+694,nombre_es_banco_mundial,nombre,Sierra Leona
+694,nombre_oficial_en,nombre,Republic of Sierra Leone
+702,abreviatura_correlates_of_war,codigo,SIN
+702,codigo_correlates_of_war,codigo,830
+702,codigo_gec_cia_factbook,codigo,sn
+702,iso2_banco_mundial,codigo,SG
+702,nombre_banco_mundial_en,nombre,Singapore
+702,nombre_cia_factbook,nombre,Singapore
+702,nombre_en,nombre,Singapore
+702,nombre_es,nombre,Singapur
+702,nombre_es_banco_mundial,nombre,Singapur
+702,nombre_oficial_en,nombre,Republic of Singapore
+703,abreviatura_correlates_of_war,codigo,SLO
+703,codigo_correlates_of_war,codigo,317
+703,codigo_gec_cia_factbook,codigo,lo
+703,iso2_banco_mundial,codigo,SK
+703,nombre_banco_mundial_en,nombre,Slovak Republic
+703,nombre_cia_factbook,nombre,Slovakia
+703,nombre_en,nombre,Slovak Republic
+703,nombre_es,nombre,Eslovaquia
+703,nombre_es_banco_mundial,nombre,República Eslovaca
+703,nombre_oficial_en,nombre,Slovak Republic
+703,nombre_world_happiness_report,nombre,Slovakia
+704,abreviatura_correlates_of_war,codigo,DRV
+704,codigo_correlates_of_war,codigo,816
+704,codigo_gec_cia_factbook,codigo,vm
+704,iso2_banco_mundial,codigo,VN
+704,nombre_banco_mundial_en,nombre,Viet Nam
+704,nombre_cia_factbook,nombre,Vietnam
+704,nombre_en,nombre,Viet Nam
+704,nombre_es,nombre,Vietnam
+704,nombre_es_banco_mundial,nombre,Viet Nam
+704,nombre_oficial_en,nombre,Socialist Republic of Viet Nam
+705,abreviatura_correlates_of_war,codigo,SLV
+705,codigo_correlates_of_war,codigo,349
+705,codigo_gec_cia_factbook,codigo,si
+705,iso2_banco_mundial,codigo,SI
+705,nombre_banco_mundial_en,nombre,Slovenia
+705,nombre_cia_factbook,nombre,Slovenia
+705,nombre_en,nombre,Slovenia
+705,nombre_es,nombre,Eslovenia
+705,nombre_es_banco_mundial,nombre,Eslovenia
+705,nombre_oficial_en,nombre,Republic of Slovenia
+706,abreviatura_correlates_of_war,codigo,SOM
+706,codigo_correlates_of_war,codigo,520
+706,codigo_gec_cia_factbook,codigo,so
+706,iso2_banco_mundial,codigo,SO
+706,nombre_banco_mundial_en,nombre,"Somalia, Fed. Rep."
+706,nombre_cia_factbook,nombre,Somalia
+706,nombre_en,nombre,"Somalia, Fed. Rep."
+706,nombre_es,nombre,Somalia
+706,nombre_es_banco_mundial,nombre,República Federal de Somalia
+706,nombre_oficial_en,nombre,Federal Republic of Somalia
+706,nombre_world_happiness_report,nombre,Somalia
+710,abreviatura_correlates_of_war,codigo,SAF
+710,codigo_correlates_of_war,codigo,560
+710,codigo_gec_cia_factbook,codigo,sf
+710,iso2_banco_mundial,codigo,ZA
+710,nombre_banco_mundial_en,nombre,South Africa
+710,nombre_cia_factbook,nombre,South Africa
+710,nombre_en,nombre,South Africa
+710,nombre_es,nombre,Sudáfrica
+710,nombre_es_banco_mundial,nombre,Sudáfrica
+710,nombre_oficial_en,nombre,Republic of South Africa
+716,abreviatura_correlates_of_war,codigo,ZIM
+716,codigo_correlates_of_war,codigo,552
+716,codigo_gec_cia_factbook,codigo,zi
+716,iso2_banco_mundial,codigo,ZW
+716,nombre_banco_mundial_en,nombre,Zimbabwe
+716,nombre_cia_factbook,nombre,Zimbabwe
+716,nombre_en,nombre,Zimbabwe
+716,nombre_es,nombre,Zimbabue
+716,nombre_es_banco_mundial,nombre,Zimbabwe
+716,nombre_oficial_en,nombre,Republic of Zimbabwe
+724,abreviatura_correlates_of_war,codigo,SPN
+724,codigo_correlates_of_war,codigo,230
+724,codigo_gec_cia_factbook,codigo,sp
+724,iso2_banco_mundial,codigo,ES
+724,nombre_banco_mundial_en,nombre,Spain
+724,nombre_cia_factbook,nombre,Spain
+724,nombre_en,nombre,Spain
+724,nombre_es,nombre,España
+724,nombre_es_banco_mundial,nombre,España
+724,nombre_oficial_en,nombre,Kingdom of Spain
+728,abreviatura_correlates_of_war,codigo,SSD
+728,codigo_correlates_of_war,codigo,626
+728,codigo_gec_cia_factbook,codigo,od
+728,iso2_banco_mundial,codigo,SS
+728,nombre_banco_mundial_en,nombre,South Sudan
+728,nombre_cia_factbook,nombre,South Sudan
+728,nombre_en,nombre,South Sudan
+728,nombre_es,nombre,Sudán del Sur
+728,nombre_es_banco_mundial,nombre,Sudán del Sur
+728,nombre_oficial_en,nombre,Republic of South Sudan
+729,abreviatura_correlates_of_war,codigo,SUD
+729,codigo_correlates_of_war,codigo,625
+729,codigo_gec_cia_factbook,codigo,su
+729,iso2_banco_mundial,codigo,SD
+729,nombre_banco_mundial_en,nombre,Sudan
+729,nombre_cia_factbook,nombre,Sudan
+729,nombre_en,nombre,Sudan
+729,nombre_es,nombre,Sudán
+729,nombre_es_banco_mundial,nombre,Sudán
+729,nombre_oficial_en,nombre,Republic of the Sudan
+732,codigo_gec_cia_factbook,codigo,wi
+732,nombre_cia_factbook,nombre,Western Sahara
+732,nombre_en,nombre,Western Sahara
+732,nombre_es,nombre,Sahara Occidental
+732,nombre_oficial_en,nombre,Western Sahara
+740,abreviatura_correlates_of_war,codigo,SUR
+740,codigo_correlates_of_war,codigo,115
+740,codigo_gec_cia_factbook,codigo,ns
+740,iso2_banco_mundial,codigo,SR
+740,nombre_banco_mundial_en,nombre,Suriname
+740,nombre_cia_factbook,nombre,Suriname
+740,nombre_en,nombre,Suriname
+740,nombre_es,nombre,Surinam
+740,nombre_es_banco_mundial,nombre,Suriname
+740,nombre_oficial_en,nombre,Republic of Suriname
+744,codigo_gec_cia_factbook,codigo,sv
+744,nombre_cia_factbook,nombre,"Svalbard (sometimes referred to as Spitsbergen, the largest island in the archipelago)"
+744,nombre_en,nombre,Svalbard and Jan Mayen
+744,nombre_es,nombre,Svalbard y Jan Mayen
+744,nombre_oficial_en,nombre,Svalbard and Jan Mayen
+748,abreviatura_correlates_of_war,codigo,SWA
+748,codigo_correlates_of_war,codigo,572
+748,codigo_gec_cia_factbook,codigo,wz
+748,iso2_banco_mundial,codigo,SZ
+748,nombre_banco_mundial_en,nombre,Eswatini
+748,nombre_cia_factbook,nombre,Eswatini
+748,nombre_en,nombre,Eswatini
+748,nombre_es,nombre,Esuatini
+748,nombre_es_banco_mundial,nombre,Eswatini
+748,nombre_oficial_en,nombre,Kingdom of Eswatini
+748,nombre_world_happiness_report,nombre,Swaziland
+752,abreviatura_correlates_of_war,codigo,SWD
+752,codigo_correlates_of_war,codigo,380
+752,codigo_gec_cia_factbook,codigo,sw
+752,iso2_banco_mundial,codigo,SE
+752,nombre_banco_mundial_en,nombre,Sweden
+752,nombre_cia_factbook,nombre,Sweden
+752,nombre_en,nombre,Sweden
+752,nombre_es,nombre,Suecia
+752,nombre_es_banco_mundial,nombre,Suecia
+752,nombre_oficial_en,nombre,Kingdom of Sweden
+756,abreviatura_correlates_of_war,codigo,SWZ
+756,codigo_correlates_of_war,codigo,225
+756,codigo_gec_cia_factbook,codigo,sz
+756,iso2_banco_mundial,codigo,CH
+756,nombre_banco_mundial_en,nombre,Switzerland
+756,nombre_cia_factbook,nombre,Switzerland
+756,nombre_en,nombre,Switzerland
+756,nombre_es,nombre,Suiza
+756,nombre_es_banco_mundial,nombre,Suiza
+756,nombre_oficial_en,nombre,Swiss Confederation
+760,abreviatura_correlates_of_war,codigo,SYR
+760,codigo_correlates_of_war,codigo,652
+760,codigo_gec_cia_factbook,codigo,sy
+760,iso2_banco_mundial,codigo,SY
+760,nombre_banco_mundial_en,nombre,Syrian Arab Republic
+760,nombre_cia_factbook,nombre,Syria
+760,nombre_en,nombre,Syrian Arab Republic
+760,nombre_es,nombre,Siria
+760,nombre_es_banco_mundial,nombre,República Árabe Siria
+760,nombre_oficial_en,nombre,Syrian Arab Republic
+760,nombre_world_happiness_report,nombre,Syria
+762,abreviatura_correlates_of_war,codigo,TAJ
+762,codigo_correlates_of_war,codigo,702
+762,codigo_gec_cia_factbook,codigo,ti
+762,iso2_banco_mundial,codigo,TJ
+762,nombre_banco_mundial_en,nombre,Tajikistan
+762,nombre_cia_factbook,nombre,Tajikistan
+762,nombre_en,nombre,Tajikistan
+762,nombre_es,nombre,Tayikistán
+762,nombre_es_banco_mundial,nombre,Tayikistán
+762,nombre_oficial_en,nombre,Republic of Tajikistan
+764,abreviatura_correlates_of_war,codigo,THI
+764,codigo_correlates_of_war,codigo,800
+764,codigo_gec_cia_factbook,codigo,th
+764,iso2_banco_mundial,codigo,TH
+764,nombre_banco_mundial_en,nombre,Thailand
+764,nombre_cia_factbook,nombre,Thailand
+764,nombre_en,nombre,Thailand
+764,nombre_es,nombre,Tailandia
+764,nombre_es_banco_mundial,nombre,Tailandia
+764,nombre_oficial_en,nombre,Kingdom of Thailand
+768,abreviatura_correlates_of_war,codigo,TOG
+768,codigo_correlates_of_war,codigo,461
+768,codigo_gec_cia_factbook,codigo,to
+768,iso2_banco_mundial,codigo,TG
+768,nombre_banco_mundial_en,nombre,Togo
+768,nombre_cia_factbook,nombre,Togo
+768,nombre_en,nombre,Togo
+768,nombre_es,nombre,Togo
+768,nombre_es_banco_mundial,nombre,Togo
+768,nombre_oficial_en,nombre,Togolese Republic
+772,codigo_gec_cia_factbook,codigo,tl
+772,nombre_cia_factbook,nombre,Tokelau
+772,nombre_en,nombre,Tokelau
+772,nombre_es,nombre,Tokelau
+772,nombre_oficial_en,nombre,Tokelau
+776,abreviatura_correlates_of_war,codigo,TON
+776,codigo_correlates_of_war,codigo,955
+776,codigo_gec_cia_factbook,codigo,tn
+776,iso2_banco_mundial,codigo,TO
+776,nombre_banco_mundial_en,nombre,Tonga
+776,nombre_cia_factbook,nombre,Tonga
+776,nombre_en,nombre,Tonga
+776,nombre_es,nombre,Tonga
+776,nombre_es_banco_mundial,nombre,Tonga
+776,nombre_oficial_en,nombre,Kingdom of Tonga
+780,abreviatura_correlates_of_war,codigo,TRI
+780,codigo_correlates_of_war,codigo,52
+780,codigo_gec_cia_factbook,codigo,td
+780,iso2_banco_mundial,codigo,TT
+780,nombre_banco_mundial_en,nombre,Trinidad and Tobago
+780,nombre_cia_factbook,nombre,Trinidad and Tobago
+780,nombre_en,nombre,Trinidad and Tobago
+780,nombre_es,nombre,Trinidad y Tobago
+780,nombre_es_banco_mundial,nombre,Trinidad y Tobago
+780,nombre_oficial_en,nombre,Republic of Trinidad and Tobago
+784,abreviatura_correlates_of_war,codigo,UAE
+784,codigo_correlates_of_war,codigo,696
+784,codigo_gec_cia_factbook,codigo,ae
+784,iso2_banco_mundial,codigo,AE
+784,nombre_banco_mundial_en,nombre,United Arab Emirates
+784,nombre_cia_factbook,nombre,United Arab Emirates
+784,nombre_en,nombre,United Arab Emirates
+784,nombre_es,nombre,Emiratos Árabes Unidos
+784,nombre_es_banco_mundial,nombre,Emiratos Árabes Unidos
+784,nombre_oficial_en,nombre,United Arab Emirates
+788,abreviatura_correlates_of_war,codigo,TUN
+788,codigo_correlates_of_war,codigo,616
+788,codigo_gec_cia_factbook,codigo,ts
+788,iso2_banco_mundial,codigo,TN
+788,nombre_banco_mundial_en,nombre,Tunisia
+788,nombre_cia_factbook,nombre,Tunisia
+788,nombre_en,nombre,Tunisia
+788,nombre_es,nombre,Túnez
+788,nombre_es_banco_mundial,nombre,Túnez
+788,nombre_oficial_en,nombre,Republic of Tunisia
+792,abreviatura_correlates_of_war,codigo,TUR
+792,codigo_correlates_of_war,codigo,640
+792,codigo_gec_cia_factbook,codigo,tu
+792,iso2_banco_mundial,codigo,TR
+792,nombre_banco_mundial_en,nombre,Turkiye
+792,nombre_cia_factbook,nombre,Turkey
+792,nombre_en,nombre,Turkiye
+792,nombre_es,nombre,Turquía
+792,nombre_es_banco_mundial,nombre,Turquía
+792,nombre_oficial_en,nombre,Republic of Türkiye
+792,nombre_world_happiness_report,nombre,Türkiye
+795,abreviatura_correlates_of_war,codigo,TKM
+795,codigo_correlates_of_war,codigo,701
+795,codigo_gec_cia_factbook,codigo,tx
+795,iso2_banco_mundial,codigo,TM
+795,nombre_banco_mundial_en,nombre,Turkmenistan
+795,nombre_cia_factbook,nombre,Turkmenistan
+795,nombre_en,nombre,Turkmenistan
+795,nombre_es,nombre,Turkmenistán
+795,nombre_es_banco_mundial,nombre,Turkmenistán
+795,nombre_oficial_en,nombre,Turkmenistan
+796,codigo_gec_cia_factbook,codigo,tk
+796,iso2_banco_mundial,codigo,TC
+796,nombre_banco_mundial_en,nombre,Turks and Caicos Islands
+796,nombre_cia_factbook,nombre,Turks and Caicos Islands
+796,nombre_en,nombre,Turks and Caicos Islands
+796,nombre_es,nombre,Islas Turcas y Caicos
+796,nombre_es_banco_mundial,nombre,Islas Turcas y Caicos
+796,nombre_oficial_en,nombre,Turks and Caicos Islands
+798,abreviatura_correlates_of_war,codigo,TUV
+798,codigo_correlates_of_war,codigo,947
+798,codigo_gec_cia_factbook,codigo,tv
+798,iso2_banco_mundial,codigo,TV
+798,nombre_banco_mundial_en,nombre,Tuvalu
+798,nombre_cia_factbook,nombre,Tuvalu
+798,nombre_en,nombre,Tuvalu
+798,nombre_es,nombre,Tuvalu
+798,nombre_es_banco_mundial,nombre,Tuvalu
+798,nombre_oficial_en,nombre,Tuvalu
+800,abreviatura_correlates_of_war,codigo,UGA
+800,codigo_correlates_of_war,codigo,500
+800,codigo_gec_cia_factbook,codigo,ug
+800,iso2_banco_mundial,codigo,UG
+800,nombre_banco_mundial_en,nombre,Uganda
+800,nombre_cia_factbook,nombre,Uganda
+800,nombre_en,nombre,Uganda
+800,nombre_es,nombre,Uganda
+800,nombre_es_banco_mundial,nombre,Uganda
+800,nombre_oficial_en,nombre,Republic of Uganda
+804,abreviatura_correlates_of_war,codigo,UKR
+804,codigo_correlates_of_war,codigo,369
+804,codigo_gec_cia_factbook,codigo,up
+804,iso2_banco_mundial,codigo,UA
+804,nombre_banco_mundial_en,nombre,Ukraine
+804,nombre_cia_factbook,nombre,Ukraine
+804,nombre_en,nombre,Ukraine
+804,nombre_es,nombre,Ucrania
+804,nombre_es_banco_mundial,nombre,Ucrania
+804,nombre_oficial_en,nombre,Ukraine
+807,abreviatura_correlates_of_war,codigo,MAC
+807,codigo_correlates_of_war,codigo,343
+807,codigo_gec_cia_factbook,codigo,mk
+807,iso2_banco_mundial,codigo,MK
+807,nombre_banco_mundial_en,nombre,North Macedonia
+807,nombre_cia_factbook,nombre,North Macedonia
+807,nombre_en,nombre,North Macedonia
+807,nombre_es,nombre,Macedonia del Norte
+807,nombre_es_banco_mundial,nombre,Macedonia del Norte
+807,nombre_oficial_en,nombre,Republic of North Macedonia
+818,abreviatura_correlates_of_war,codigo,EGY
+818,codigo_correlates_of_war,codigo,651
+818,codigo_gec_cia_factbook,codigo,eg
+818,iso2_banco_mundial,codigo,EG
+818,nombre_banco_mundial_en,nombre,"Egypt, Arab Rep."
+818,nombre_cia_factbook,nombre,Egypt
+818,nombre_en,nombre,"Egypt, Arab Rep."
+818,nombre_es,nombre,Egipto
+818,nombre_es_banco_mundial,nombre,"Egipto, República Árabe de"
+818,nombre_oficial_en,nombre,Arab Republic of Egypt
+818,nombre_world_happiness_report,nombre,Egypt
+826,abreviatura_correlates_of_war,codigo,UKG
+826,codigo_correlates_of_war,codigo,200
+826,codigo_gec_cia_factbook,codigo,uk
+826,iso2_banco_mundial,codigo,GB
+826,nombre_banco_mundial_en,nombre,United Kingdom
+826,nombre_cia_factbook,nombre,United Kingdom
+826,nombre_en,nombre,United Kingdom
+826,nombre_es,nombre,Reino Unido
+826,nombre_es_banco_mundial,nombre,Reino Unido
+826,nombre_oficial_en,nombre,United Kingdom of Great Britain and Northern Ireland
+831,codigo_gec_cia_factbook,codigo,gk
+831,nombre_cia_factbook,nombre,Guernsey
+831,nombre_en,nombre,Guernsey
+831,nombre_es,nombre,Guernsey
+831,nombre_oficial_en,nombre,Guernsey
+832,codigo_gec_cia_factbook,codigo,je
+832,nombre_cia_factbook,nombre,Jersey
+832,nombre_en,nombre,Jersey
+832,nombre_es,nombre,Jersey
+832,nombre_oficial_en,nombre,Jersey
+833,codigo_gec_cia_factbook,codigo,im
+833,iso2_banco_mundial,codigo,IM
+833,nombre_banco_mundial_en,nombre,Isle of Man
+833,nombre_cia_factbook,nombre,Isle of Man
+833,nombre_en,nombre,Isle of Man
+833,nombre_es,nombre,Isla de Man
+833,nombre_es_banco_mundial,nombre,Isla de Man
+833,nombre_oficial_en,nombre,Isle of Man
+834,abreviatura_correlates_of_war,codigo,TAZ
+834,codigo_correlates_of_war,codigo,510
+834,codigo_gec_cia_factbook,codigo,tz
+834,iso2_banco_mundial,codigo,TZ
+834,nombre_banco_mundial_en,nombre,Tanzania
+834,nombre_cia_factbook,nombre,Tanzania
+834,nombre_en,nombre,Tanzania
+834,nombre_es,nombre,Tanzania
+834,nombre_es_banco_mundial,nombre,Tanzanía
+834,nombre_oficial_en,nombre,United Republic of Tanzania
+840,abreviatura_correlates_of_war,codigo,USA
+840,codigo_correlates_of_war,codigo,2
+840,codigo_gec_cia_factbook,codigo,us
+840,iso2_banco_mundial,codigo,US
+840,nombre_banco_mundial_en,nombre,United States
+840,nombre_cia_factbook,nombre,United States
+840,nombre_en,nombre,United States
+840,nombre_es,nombre,Estados Unidos
+840,nombre_es_banco_mundial,nombre,Estados Unidos
+840,nombre_oficial_en,nombre,United States of America
+850,codigo_gec_cia_factbook,codigo,vq
+850,iso2_banco_mundial,codigo,VI
+850,nombre_banco_mundial_en,nombre,Virgin Islands (U.S.)
+850,nombre_cia_factbook,nombre,Virgin Islands
+850,nombre_en,nombre,Virgin Islands (U.S.)
+850,nombre_es,nombre,Islas Vírgenes de los Estados Unidos
+850,nombre_es_banco_mundial,nombre,Islas Vírgenes (EE.UU.)
+850,nombre_oficial_en,nombre,Virgin Islands of the United States
+854,abreviatura_correlates_of_war,codigo,BFO
+854,codigo_correlates_of_war,codigo,439
+854,codigo_gec_cia_factbook,codigo,uv
+854,iso2_banco_mundial,codigo,BF
+854,nombre_banco_mundial_en,nombre,Burkina Faso
+854,nombre_cia_factbook,nombre,Burkina Faso
+854,nombre_en,nombre,Burkina Faso
+854,nombre_es,nombre,Burkina Faso
+854,nombre_es_banco_mundial,nombre,Burkina Faso
+854,nombre_oficial_en,nombre,Burkina Faso
+858,abreviatura_correlates_of_war,codigo,URU
+858,codigo_correlates_of_war,codigo,165
+858,codigo_gec_cia_factbook,codigo,uy
+858,iso2_banco_mundial,codigo,UY
+858,nombre_banco_mundial_en,nombre,Uruguay
+858,nombre_cia_factbook,nombre,Uruguay
+858,nombre_en,nombre,Uruguay
+858,nombre_es,nombre,Uruguay
+858,nombre_es_banco_mundial,nombre,Uruguay
+858,nombre_oficial_en,nombre,Eastern Republic of Uruguay
+860,abreviatura_correlates_of_war,codigo,UZB
+860,codigo_correlates_of_war,codigo,704
+860,codigo_gec_cia_factbook,codigo,uz
+860,iso2_banco_mundial,codigo,UZ
+860,nombre_banco_mundial_en,nombre,Uzbekistan
+860,nombre_cia_factbook,nombre,Uzbekistan
+860,nombre_en,nombre,Uzbekistan
+860,nombre_es,nombre,Uzbekistán
+860,nombre_es_banco_mundial,nombre,Uzbekistán
+860,nombre_oficial_en,nombre,Republic of Uzbekistan
+862,abreviatura_correlates_of_war,codigo,VEN
+862,codigo_correlates_of_war,codigo,101
+862,codigo_gec_cia_factbook,codigo,ve
+862,iso2_banco_mundial,codigo,VE
+862,nombre_banco_mundial_en,nombre,"Venezuela, RB"
+862,nombre_cia_factbook,nombre,Venezuela
+862,nombre_en,nombre,"Venezuela, RB"
+862,nombre_es,nombre,Venezuela
+862,nombre_es_banco_mundial,nombre,Venezuela
+862,nombre_oficial_en,nombre,Bolivarian Republic of Venezuela
+862,nombre_world_happiness_report,nombre,Venezuela
+876,codigo_gec_cia_factbook,codigo,wf
+876,nombre_cia_factbook,nombre,Wallis and Futuna
+876,nombre_en,nombre,Wallis and Futuna
+876,nombre_es,nombre,Wallis y Futuna
+876,nombre_oficial_en,nombre,Wallis and Futuna
+882,abreviatura_correlates_of_war,codigo,WSM
+882,codigo_correlates_of_war,codigo,990
+882,codigo_gec_cia_factbook,codigo,ws
+882,iso2_banco_mundial,codigo,WS
+882,nombre_banco_mundial_en,nombre,Samoa
+882,nombre_cia_factbook,nombre,Samoa
+882,nombre_en,nombre,Samoa
+882,nombre_es,nombre,Samoa
+882,nombre_es_banco_mundial,nombre,Samoa
+882,nombre_oficial_en,nombre,Independent State of Samoa
+887,abreviatura_correlates_of_war,codigo,YAR
+887,abreviatura_correlates_of_war,codigo,YEM
+887,codigo_correlates_of_war,codigo,678
+887,codigo_correlates_of_war,codigo,679
+887,codigo_gec_cia_factbook,codigo,ym
+887,iso2_banco_mundial,codigo,YE
+887,nombre_banco_mundial_en,nombre,"Yemen, Rep."
+887,nombre_cia_factbook,nombre,Yemen
+887,nombre_en,nombre,"Yemen, Rep."
+887,nombre_es,nombre,Yemen
+887,nombre_es_banco_mundial,nombre,"Yemen, Rep. del"
+887,nombre_oficial_en,nombre,Republic of Yemen
+887,nombre_world_happiness_report,nombre,Yemen
+894,abreviatura_correlates_of_war,codigo,ZAM
+894,codigo_correlates_of_war,codigo,551
+894,codigo_gec_cia_factbook,codigo,za
+894,iso2_banco_mundial,codigo,ZM
+894,nombre_banco_mundial_en,nombre,Zambia
+894,nombre_cia_factbook,nombre,Zambia
+894,nombre_en,nombre,Zambia
+894,nombre_es,nombre,Zambia
+894,nombre_es_banco_mundial,nombre,Zambia
+894,nombre_oficial_en,nombre,Republic of Zambia
+901,abreviatura_correlates_of_war,codigo,KOS
+901,codigo_correlates_of_war,codigo,347
+901,codigo_gec_cia_factbook,codigo,kv
+901,codigo_ilostat,codigo,KOS
+901,iso2_banco_mundial,codigo,XK
+901,nombre_banco_mundial_en,nombre,Kosovo
+901,nombre_cia_factbook,nombre,Kosovo
+901,nombre_en,nombre,Kosovo
+901,nombre_es,nombre,Kosovo
+901,nombre_es_banco_mundial,nombre,Kosovo
+901,nombre_oficial_en,nombre,Kosovo
+902,iso2_banco_mundial,codigo,JG
+902,nombre_banco_mundial_en,nombre,Channel Islands
+902,nombre_en,nombre,Channel Islands
+902,nombre_es,nombre,Islas del Canal
+902,nombre_es_banco_mundial,nombre,Islas del Canal
+902,nombre_oficial_en,nombre,Channel Islands

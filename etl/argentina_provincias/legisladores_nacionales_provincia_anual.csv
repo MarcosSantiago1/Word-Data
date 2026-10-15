@@ -1,0 +1,1433 @@
+provincia_iso,provincia,anio,camara,bancas,bancas_La Libertad Avanza,bancas_PRO / Juntos por el Cambio,bancas_izquierda,bancas_otros,bancas_partido provincial,bancas_peronismo,bancas_radicalismo,familia_mayoritaria,bloque_o_partido_mayoritario
+AR-B,Buenos Aires,2010,diputados,70,0,12,0,11,0,38,9,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-B,Buenos Aires,2011,diputados,70,0,12,0,11,0,38,9,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-B,Buenos Aires,2012,diputados,70,0,4,0,12,0,48,6,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-B,Buenos Aires,2013,diputados,70,0,4,0,12,0,48,6,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-B,Buenos Aires,2014,diputados,70,0,3,1,13,0,49,4,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-B,Buenos Aires,2015,diputados,70,0,3,1,18,0,45,3,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-B,Buenos Aires,2016,diputados,70,0,15,2,21,0,27,5,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-B,Buenos Aires,2017,diputados,70,0,13,3,22,0,27,5,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-B,Buenos Aires,2018,diputados,70,0,21,3,12,0,28,6,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-B,Buenos Aires,2019,diputados,71,0,21,4,13,0,27,6,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-B,Buenos Aires,2020,diputados,70,0,22,2,4,0,36,6,peronismo,FRENTE DE TODOS
+AR-B,Buenos Aires,2021,diputados,70,0,22,2,4,0,36,6,peronismo,FRENTE DE TODOS
+AR-B,Buenos Aires,2022,diputados,70,0,20,2,8,0,34,6,peronismo,FRENTE DE TODOS
+AR-B,Buenos Aires,2023,diputados,69,0,19,2,8,0,34,6,peronismo,FRENTE DE TODOS
+AR-B,Buenos Aires,2024,diputados,70,8,20,3,3,0,31,5,peronismo,UNIÓN POR LA PATRIA
+AR-B,Buenos Aires,2025,diputados,70,10,15,3,6,0,31,5,peronismo,UNIÓN POR LA PATRIA
+AR-B,Buenos Aires,2026,diputados,70,23,6,3,6,0,32,0,peronismo,UNIÓN POR LA PATRIA
+AR-K,Catamarca,2010,diputados,5,0,0,0,0,0,2,3,radicalismo,FRENTE PARA LA VICTORIA - PJ
+AR-K,Catamarca,2011,diputados,5,0,0,0,0,0,2,3,radicalismo,FRENTE PARA LA VICTORIA - PJ
+AR-K,Catamarca,2012,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-K,Catamarca,2013,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-K,Catamarca,2014,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-K,Catamarca,2015,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-K,Catamarca,2016,diputados,5,0,0,0,0,0,2,3,radicalismo,FRENTE CIVICO Y SOCIAL DE CATAMARCA
+AR-K,Catamarca,2017,diputados,5,0,1,0,0,0,2,2,empate,FRENTE CIVICO Y SOCIAL DE CATAMARCA
+AR-K,Catamarca,2018,diputados,5,0,1,0,0,2,1,1,partido provincial,ELIJO CATAMARCA
+AR-K,Catamarca,2019,diputados,5,0,1,0,0,2,1,1,partido provincial,ELIJO CATAMARCA
+AR-K,Catamarca,2020,diputados,5,0,1,0,0,0,3,1,peronismo,FRENTE DE TODOS
+AR-K,Catamarca,2021,diputados,5,0,1,0,0,0,3,1,peronismo,FRENTE DE TODOS
+AR-K,Catamarca,2022,diputados,5,0,1,0,0,0,3,1,peronismo,FRENTE DE TODOS
+AR-K,Catamarca,2023,diputados,5,0,1,0,0,0,3,1,peronismo,FRENTE DE TODOS
+AR-K,Catamarca,2024,diputados,5,0,0,0,0,0,4,1,peronismo,UNIÓN POR LA PATRIA
+AR-K,Catamarca,2025,diputados,5,0,0,0,1,0,4,0,peronismo,UNIÓN POR LA PATRIA
+AR-K,Catamarca,2026,diputados,5,1,0,0,0,3,1,0,partido provincial,ELIJO CATAMARCA
+AR-H,Chaco,2010,diputados,7,0,1,0,0,0,4,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-H,Chaco,2011,diputados,7,0,1,0,0,0,4,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-H,Chaco,2012,diputados,7,0,1,0,0,0,4,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-H,Chaco,2013,diputados,7,0,1,0,0,0,4,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-H,Chaco,2014,diputados,7,0,0,0,0,0,5,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-H,Chaco,2015,diputados,7,0,1,0,0,0,5,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-H,Chaco,2016,diputados,7,0,1,0,0,0,5,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-H,Chaco,2017,diputados,7,0,1,0,0,0,5,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-H,Chaco,2018,diputados,7,0,1,0,0,0,4,2,peronismo,UCR
+AR-H,Chaco,2019,diputados,7,0,1,0,0,0,4,2,peronismo,UCR
+AR-H,Chaco,2020,diputados,7,0,1,0,0,0,4,2,peronismo,FRENTE DE TODOS
+AR-H,Chaco,2021,diputados,7,0,1,0,0,0,4,2,peronismo,FRENTE DE TODOS
+AR-H,Chaco,2022,diputados,7,0,1,0,0,0,4,2,peronismo,FRENTE DE TODOS
+AR-H,Chaco,2023,diputados,7,0,1,0,0,0,4,2,peronismo,FRENTE DE TODOS
+AR-H,Chaco,2024,diputados,7,1,1,0,0,0,3,2,peronismo,UNIÓN POR LA PATRIA
+AR-H,Chaco,2025,diputados,7,1,1,0,0,0,3,2,peronismo,UNIÓN POR LA PATRIA
+AR-H,Chaco,2026,diputados,7,2,0,0,0,0,3,2,peronismo,UNIÓN POR LA PATRIA
+AR-U,Chubut,2010,diputados,5,0,0,0,0,0,5,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-U,Chubut,2011,diputados,5,0,0,0,0,0,5,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-U,Chubut,2012,diputados,5,0,0,0,0,0,5,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-U,Chubut,2013,diputados,5,0,0,0,0,0,5,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-U,Chubut,2014,diputados,5,0,0,0,2,0,3,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-U,Chubut,2015,diputados,5,0,0,0,2,0,3,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-U,Chubut,2016,diputados,5,0,0,0,2,1,2,0,empate,TRABAJO Y DIGNIDAD
+AR-U,Chubut,2017,diputados,5,0,0,0,2,1,2,0,empate,TRABAJO Y DIGNIDAD
+AR-U,Chubut,2018,diputados,5,0,0,0,2,0,2,1,empate,FRENTE PARA LA VICTORIA - PJ
+AR-U,Chubut,2019,diputados,5,0,0,0,2,0,2,1,empate,FRENTE PARA LA VICTORIA - PJ
+AR-U,Chubut,2020,diputados,5,0,1,0,0,0,3,1,peronismo,FRENTE DE TODOS
+AR-U,Chubut,2021,diputados,5,0,1,0,0,0,3,1,peronismo,FRENTE DE TODOS
+AR-U,Chubut,2022,diputados,5,0,2,0,0,0,3,0,peronismo,FRENTE DE TODOS
+AR-U,Chubut,2023,diputados,5,0,2,0,0,0,3,0,peronismo,FRENTE DE TODOS
+AR-U,Chubut,2024,diputados,5,1,2,0,0,0,2,0,empate,UNIÓN POR LA PATRIA
+AR-U,Chubut,2025,diputados,5,1,1,0,1,0,2,0,peronismo,UNIÓN POR LA PATRIA
+AR-U,Chubut,2026,diputados,5,2,0,0,1,0,2,0,empate,LA LIBERTAD AVANZA
+AR-C,Ciudad de Buenos Aires,2010,diputados,25,0,12,0,8,0,3,2,PRO / Juntos por el Cambio,PRO
+AR-C,Ciudad de Buenos Aires,2011,diputados,25,0,12,0,8,0,3,2,PRO / Juntos por el Cambio,PRO
+AR-C,Ciudad de Buenos Aires,2012,diputados,25,0,10,0,7,0,6,2,PRO / Juntos por el Cambio,PRO
+AR-C,Ciudad de Buenos Aires,2013,diputados,25,0,10,0,7,0,6,2,PRO / Juntos por el Cambio,PRO
+AR-C,Ciudad de Buenos Aires,2014,diputados,25,0,11,0,5,0,8,1,PRO / Juntos por el Cambio,UNION PRO
+AR-C,Ciudad de Buenos Aires,2015,diputados,25,0,11,0,7,0,6,1,PRO / Juntos por el Cambio,UNION PRO
+AR-C,Ciudad de Buenos Aires,2016,diputados,25,0,13,0,6,0,5,1,PRO / Juntos por el Cambio,UNION PRO
+AR-C,Ciudad de Buenos Aires,2017,diputados,25,0,13,0,6,0,5,1,PRO / Juntos por el Cambio,UNION PRO
+AR-C,Ciudad de Buenos Aires,2018,diputados,25,0,13,0,3,0,6,3,PRO / Juntos por el Cambio,PRO
+AR-C,Ciudad de Buenos Aires,2019,diputados,25,0,13,0,3,0,6,3,PRO / Juntos por el Cambio,PRO
+AR-C,Ciudad de Buenos Aires,2020,diputados,25,0,13,0,0,0,7,5,PRO / Juntos por el Cambio,PRO
+AR-C,Ciudad de Buenos Aires,2021,diputados,25,0,13,0,0,0,7,5,PRO / Juntos por el Cambio,PRO
+AR-C,Ciudad de Buenos Aires,2022,diputados,25,2,10,1,1,0,7,4,PRO / Juntos por el Cambio,PRO
+AR-C,Ciudad de Buenos Aires,2023,diputados,25,2,10,1,1,0,7,4,PRO / Juntos por el Cambio,PRO
+AR-C,Ciudad de Buenos Aires,2024,diputados,25,3,10,1,1,0,7,3,PRO / Juntos por el Cambio,PRO
+AR-C,Ciudad de Buenos Aires,2025,diputados,25,3,9,1,2,0,7,3,PRO / Juntos por el Cambio,PRO
+AR-C,Ciudad de Buenos Aires,2026,diputados,25,8,5,1,3,0,8,0,empate,LA LIBERTAD AVANZA
+AR-W,Corrientes,2010,diputados,7,0,0,0,0,1,3,3,empate,UCR
+AR-W,Corrientes,2011,diputados,7,0,0,0,0,1,3,3,empate,UCR
+AR-W,Corrientes,2012,diputados,7,0,0,0,0,0,4,3,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-W,Corrientes,2013,diputados,7,0,0,0,0,0,4,3,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-W,Corrientes,2014,diputados,7,0,0,0,0,0,4,3,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-W,Corrientes,2015,diputados,7,0,0,0,0,0,4,3,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-W,Corrientes,2016,diputados,7,0,0,0,0,0,4,3,peronismo,UCR
+AR-W,Corrientes,2017,diputados,7,0,0,0,0,0,4,3,peronismo,UCR
+AR-W,Corrientes,2018,diputados,7,0,1,0,0,0,4,2,peronismo,UCR
+AR-W,Corrientes,2019,diputados,7,0,1,0,0,0,4,2,peronismo,UCR
+AR-W,Corrientes,2020,diputados,7,0,2,0,0,0,3,2,peronismo,FRENTE DE TODOS
+AR-W,Corrientes,2021,diputados,7,0,2,0,0,0,3,2,peronismo,FRENTE DE TODOS
+AR-W,Corrientes,2022,diputados,7,0,2,0,0,0,3,2,peronismo,FRENTE DE TODOS
+AR-W,Corrientes,2023,diputados,7,0,2,0,0,0,3,2,peronismo,FRENTE DE TODOS
+AR-W,Corrientes,2024,diputados,7,1,1,0,0,0,3,2,peronismo,UNIÓN POR LA PATRIA
+AR-W,Corrientes,2025,diputados,7,1,1,0,1,0,3,1,peronismo,UNIÓN POR LA PATRIA
+AR-W,Corrientes,2026,diputados,7,3,0,0,0,0,3,1,empate,LA LIBERTAD AVANZA
+AR-X,Córdoba,2010,diputados,18,0,2,0,4,0,6,6,empate,UCR
+AR-X,Córdoba,2011,diputados,18,0,2,0,4,0,6,6,empate,UCR
+AR-X,Córdoba,2012,diputados,18,0,0,0,5,0,8,5,peronismo,UCR
+AR-X,Córdoba,2013,diputados,18,0,0,0,5,0,8,5,peronismo,UCR
+AR-X,Córdoba,2014,diputados,18,0,1,0,2,0,10,5,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-X,Córdoba,2015,diputados,18,0,1,0,2,0,10,5,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-X,Córdoba,2016,diputados,18,0,4,0,7,0,2,5,otros,UCR
+AR-X,Córdoba,2017,diputados,18,0,4,0,8,0,1,5,otros,UCR
+AR-X,Córdoba,2018,diputados,18,0,5,0,2,0,6,5,peronismo,UCR
+AR-X,Córdoba,2019,diputados,18,0,5,0,1,0,7,5,peronismo,UCR
+AR-X,Córdoba,2020,diputados,18,0,6,0,0,0,7,5,peronismo,UCR
+AR-X,Córdoba,2021,diputados,18,0,6,0,0,0,7,5,peronismo,UCR
+AR-X,Córdoba,2022,diputados,18,0,6,0,0,0,6,6,empate,PRO
+AR-X,Córdoba,2023,diputados,18,0,6,0,0,0,6,6,empate,PRO
+AR-X,Córdoba,2024,diputados,18,2,9,0,1,0,2,4,PRO / Juntos por el Cambio,HACEMOS COALICIÓN FEDERAL
+AR-X,Córdoba,2025,diputados,18,2,3,0,8,0,2,3,otros,ENCUENTRO FEDERAL
+AR-X,Córdoba,2026,diputados,18,10,0,0,7,0,1,0,La Libertad Avanza,LA LIBERTAD AVANZA
+AR-E,Entre Ríos,2010,diputados,9,0,1,0,1,0,4,3,peronismo,UCR
+AR-E,Entre Ríos,2011,diputados,9,0,1,0,1,0,4,3,peronismo,UCR
+AR-E,Entre Ríos,2012,diputados,9,0,1,0,0,0,5,3,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-E,Entre Ríos,2013,diputados,9,0,1,0,0,0,5,3,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-E,Entre Ríos,2014,diputados,9,0,0,0,1,0,6,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-E,Entre Ríos,2015,diputados,9,0,0,0,1,0,6,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-E,Entre Ríos,2016,diputados,9,0,1,0,1,0,5,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-E,Entre Ríos,2017,diputados,9,0,1,0,1,0,5,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-E,Entre Ríos,2018,diputados,9,0,2,0,0,0,4,3,peronismo,UCR
+AR-E,Entre Ríos,2019,diputados,9,0,2,0,0,0,4,3,peronismo,UCR
+AR-E,Entre Ríos,2020,diputados,9,0,2,0,0,0,4,3,peronismo,FRENTE DE TODOS
+AR-E,Entre Ríos,2021,diputados,9,0,2,0,0,0,4,3,peronismo,FRENTE DE TODOS
+AR-E,Entre Ríos,2022,diputados,9,0,2,0,0,0,4,3,peronismo,FRENTE DE TODOS
+AR-E,Entre Ríos,2023,diputados,9,0,2,0,0,0,4,3,peronismo,FRENTE DE TODOS
+AR-E,Entre Ríos,2024,diputados,9,1,1,0,0,0,4,3,peronismo,UNIÓN POR LA PATRIA
+AR-E,Entre Ríos,2025,diputados,9,1,1,0,1,0,4,2,peronismo,UNIÓN POR LA PATRIA
+AR-E,Entre Ríos,2026,diputados,9,3,1,0,0,0,4,1,peronismo,UNIÓN POR LA PATRIA
+AR-P,Formosa,2010,diputados,5,0,0,0,0,0,4,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-P,Formosa,2011,diputados,5,0,0,0,0,0,4,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-P,Formosa,2012,diputados,5,0,0,0,0,0,4,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-P,Formosa,2013,diputados,5,0,0,0,0,0,4,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-P,Formosa,2014,diputados,5,0,0,0,0,0,4,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-P,Formosa,2015,diputados,5,0,0,0,0,0,4,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-P,Formosa,2016,diputados,5,0,0,0,1,0,3,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-P,Formosa,2017,diputados,5,0,0,0,1,0,3,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-P,Formosa,2018,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-P,Formosa,2019,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-P,Formosa,2020,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE DE TODOS
+AR-P,Formosa,2021,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE DE TODOS
+AR-P,Formosa,2022,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE DE TODOS
+AR-P,Formosa,2023,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE DE TODOS
+AR-P,Formosa,2024,diputados,5,1,0,0,0,0,3,1,peronismo,UNIÓN POR LA PATRIA
+AR-P,Formosa,2025,diputados,5,1,0,0,0,0,3,1,peronismo,UNIÓN POR LA PATRIA
+AR-P,Formosa,2026,diputados,5,1,0,0,0,1,3,0,peronismo,UNIÓN POR LA PATRIA
+AR-Y,Jujuy,2010,diputados,6,0,0,0,0,0,4,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-Y,Jujuy,2011,diputados,6,0,0,0,0,0,4,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-Y,Jujuy,2012,diputados,6,0,0,0,0,0,4,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-Y,Jujuy,2013,diputados,6,0,0,0,0,0,4,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-Y,Jujuy,2014,diputados,6,0,0,0,0,0,3,3,empate,UCR
+AR-Y,Jujuy,2015,diputados,6,0,0,0,0,0,3,3,empate,UCR
+AR-Y,Jujuy,2016,diputados,6,0,0,0,1,0,2,3,radicalismo,UCR
+AR-Y,Jujuy,2017,diputados,6,0,0,0,1,0,2,3,radicalismo,UCR
+AR-Y,Jujuy,2018,diputados,6,0,1,0,1,0,2,2,empate,UCR
+AR-Y,Jujuy,2019,diputados,6,0,1,0,1,0,2,2,empate,UCR
+AR-Y,Jujuy,2020,diputados,6,0,1,0,0,0,3,2,peronismo,FRENTE DE TODOS
+AR-Y,Jujuy,2021,diputados,6,0,1,0,0,0,3,2,peronismo,FRENTE DE TODOS
+AR-Y,Jujuy,2022,diputados,6,0,0,1,0,0,3,2,peronismo,FRENTE DE TODOS
+AR-Y,Jujuy,2023,diputados,6,0,0,1,0,0,3,2,peronismo,FRENTE DE TODOS
+AR-Y,Jujuy,2024,diputados,6,1,0,1,0,0,2,2,empate,UNIÓN POR LA PATRIA
+AR-Y,Jujuy,2025,diputados,6,1,0,1,0,0,2,2,empate,UNIÓN POR LA PATRIA
+AR-Y,Jujuy,2026,diputados,6,3,0,0,2,0,1,0,La Libertad Avanza,LA LIBERTAD AVANZA
+AR-L,La Pampa,2010,diputados,5,0,0,0,0,0,3,2,peronismo,UCR
+AR-L,La Pampa,2011,diputados,5,0,0,0,0,0,3,2,peronismo,UCR
+AR-L,La Pampa,2012,diputados,5,0,0,0,0,0,3,2,peronismo,UCR
+AR-L,La Pampa,2013,diputados,5,0,0,0,0,0,3,2,peronismo,UCR
+AR-L,La Pampa,2014,diputados,5,0,1,0,0,0,2,2,empate,UCR
+AR-L,La Pampa,2015,diputados,5,0,1,0,0,0,2,2,empate,UCR
+AR-L,La Pampa,2016,diputados,5,0,1,0,0,0,2,2,empate,JUSTICIALISTA
+AR-L,La Pampa,2017,diputados,5,0,1,0,0,0,2,2,empate,JUSTICIALISTA
+AR-L,La Pampa,2018,diputados,5,0,1,0,0,0,3,1,peronismo,JUSTICIALISTA
+AR-L,La Pampa,2019,diputados,5,0,1,0,0,0,3,1,peronismo,JUSTICIALISTA
+AR-L,La Pampa,2020,diputados,5,0,1,0,0,0,3,1,peronismo,FRENTE DE TODOS
+AR-L,La Pampa,2021,diputados,5,0,1,0,0,0,3,1,peronismo,FRENTE DE TODOS
+AR-L,La Pampa,2022,diputados,5,0,1,0,0,0,2,2,empate,FRENTE DE TODOS
+AR-L,La Pampa,2023,diputados,5,0,1,0,0,0,2,2,empate,FRENTE DE TODOS
+AR-L,La Pampa,2024,diputados,5,0,2,0,0,0,2,1,empate,PRO
+AR-L,La Pampa,2025,diputados,5,0,2,0,0,0,2,1,empate,PRO
+AR-L,La Pampa,2026,diputados,5,1,1,0,0,0,3,0,peronismo,UNIÓN POR LA PATRIA
+AR-F,La Rioja,2010,diputados,5,0,0,0,0,0,4,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-F,La Rioja,2011,diputados,5,0,0,0,0,0,4,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-F,La Rioja,2012,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-F,La Rioja,2013,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-F,La Rioja,2014,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-F,La Rioja,2015,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-F,La Rioja,2016,diputados,5,0,1,0,0,0,2,2,empate,JUSTICIALISTA
+AR-F,La Rioja,2017,diputados,5,0,1,0,0,0,2,2,empate,JUSTICIALISTA
+AR-F,La Rioja,2018,diputados,5,0,2,0,0,0,2,1,empate,JUSTICIALISTA
+AR-F,La Rioja,2019,diputados,5,0,2,0,1,0,2,0,empate,JUSTICIALISTA
+AR-F,La Rioja,2020,diputados,5,0,1,0,1,0,3,0,peronismo,FRENTE DE TODOS
+AR-F,La Rioja,2021,diputados,5,0,1,0,1,0,3,0,peronismo,FRENTE DE TODOS
+AR-F,La Rioja,2022,diputados,5,0,0,0,1,0,4,0,peronismo,FRENTE DE TODOS
+AR-F,La Rioja,2023,diputados,5,0,0,0,1,0,4,0,peronismo,FRENTE DE TODOS
+AR-F,La Rioja,2024,diputados,5,1,0,0,0,0,4,0,peronismo,UNIÓN POR LA PATRIA
+AR-F,La Rioja,2025,diputados,5,1,0,0,0,0,4,0,peronismo,UNIÓN POR LA PATRIA
+AR-F,La Rioja,2026,diputados,5,2,0,0,0,0,3,0,peronismo,UNIÓN POR LA PATRIA
+AR-M,Mendoza,2010,diputados,10,0,0,0,2,0,5,3,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-M,Mendoza,2011,diputados,10,0,0,0,2,0,5,3,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-M,Mendoza,2012,diputados,10,0,0,0,2,0,5,3,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-M,Mendoza,2013,diputados,10,0,0,0,2,0,5,3,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-M,Mendoza,2014,diputados,10,0,0,1,1,0,4,4,empate,FRENTE PARA LA VICTORIA - PJ
+AR-M,Mendoza,2015,diputados,10,0,0,1,1,0,4,4,empate,FRENTE PARA LA VICTORIA - PJ
+AR-M,Mendoza,2016,diputados,10,0,2,1,1,0,3,3,empate,UCR
+AR-M,Mendoza,2017,diputados,10,0,2,1,1,0,3,3,empate,UCR
+AR-M,Mendoza,2018,diputados,10,0,2,0,2,0,2,4,radicalismo,UCR
+AR-M,Mendoza,2019,diputados,10,0,2,0,2,0,2,4,radicalismo,UCR
+AR-M,Mendoza,2020,diputados,10,0,1,0,1,0,3,5,radicalismo,UCR
+AR-M,Mendoza,2021,diputados,10,0,1,0,1,0,3,5,radicalismo,UCR
+AR-M,Mendoza,2022,diputados,10,0,2,0,0,0,4,4,empate,FRENTE DE TODOS
+AR-M,Mendoza,2023,diputados,10,0,2,0,0,0,4,4,empate,FRENTE DE TODOS
+AR-M,Mendoza,2024,diputados,10,4,0,0,0,0,3,3,La Libertad Avanza,LA LIBERTAD AVANZA
+AR-M,Mendoza,2025,diputados,10,3,0,0,1,0,3,3,empate,UNIÓN POR LA PATRIA
+AR-M,Mendoza,2026,diputados,10,5,0,0,1,0,2,2,La Libertad Avanza,LA LIBERTAD AVANZA
+AR-N,Misiones,2010,diputados,7,0,0,0,0,0,7,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-N,Misiones,2011,diputados,7,0,0,0,0,0,7,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-N,Misiones,2012,diputados,7,0,0,0,0,0,7,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-N,Misiones,2013,diputados,7,0,0,0,0,0,7,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-N,Misiones,2014,diputados,7,0,0,0,0,0,6,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-N,Misiones,2015,diputados,7,0,0,0,0,0,6,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-N,Misiones,2016,diputados,7,0,0,0,1,3,2,1,partido provincial,FRENTE DE LA CONCORDIA MISIONERO
+AR-N,Misiones,2017,diputados,7,0,0,0,1,3,2,1,partido provincial,FRENTE DE LA CONCORDIA MISIONERO
+AR-N,Misiones,2018,diputados,7,0,0,0,0,5,1,1,partido provincial,FRENTE DE LA CONCORDIA MISIONERO
+AR-N,Misiones,2019,diputados,7,0,0,0,0,5,1,1,partido provincial,FRENTE DE LA CONCORDIA MISIONERO
+AR-N,Misiones,2020,diputados,7,0,1,0,0,3,2,1,partido provincial,FRENTE DE LA CONCORDIA MISIONERO
+AR-N,Misiones,2021,diputados,7,0,1,0,0,3,2,1,partido provincial,FRENTE DE LA CONCORDIA MISIONERO
+AR-N,Misiones,2022,diputados,7,0,2,0,0,2,2,1,empate,FRENTE DE TODOS
+AR-N,Misiones,2023,diputados,7,0,2,0,0,2,2,1,empate,FRENTE DE TODOS
+AR-N,Misiones,2024,diputados,7,1,1,0,0,4,0,1,partido provincial,INNOVACIÓN FEDERAL
+AR-N,Misiones,2025,diputados,7,1,1,0,1,4,0,0,partido provincial,INNOVACIÓN FEDERAL
+AR-N,Misiones,2026,diputados,7,2,1,0,0,4,0,0,partido provincial,INNOVACIÓN FEDERAL
+AR-Q,Neuquén,2010,diputados,5,0,0,0,1,3,0,1,partido provincial,MOV POP NEUQUINO
+AR-Q,Neuquén,2011,diputados,5,0,0,0,1,3,0,1,partido provincial,MOV POP NEUQUINO
+AR-Q,Neuquén,2012,diputados,5,0,0,0,0,3,1,1,partido provincial,MOV POP NEUQUINO
+AR-Q,Neuquén,2013,diputados,5,0,0,0,0,3,1,1,partido provincial,MOV POP NEUQUINO
+AR-Q,Neuquén,2014,diputados,5,0,0,0,0,3,2,0,partido provincial,MOV POP NEUQUINO
+AR-Q,Neuquén,2015,diputados,5,0,0,0,0,3,2,0,partido provincial,MOV POP NEUQUINO
+AR-Q,Neuquén,2016,diputados,5,0,1,0,0,2,2,0,empate,FRENTE PARA LA VICTORIA - PJ
+AR-Q,Neuquén,2017,diputados,5,0,1,0,0,2,2,0,empate,FRENTE PARA LA VICTORIA - PJ
+AR-Q,Neuquén,2018,diputados,5,0,2,0,0,1,2,0,empate,FRENTE PARA LA VICTORIA - PJ
+AR-Q,Neuquén,2019,diputados,5,0,2,0,0,1,2,0,empate,FRENTE PARA LA VICTORIA - PJ
+AR-Q,Neuquén,2020,diputados,5,0,2,0,0,1,2,0,empate,FRENTE DE TODOS
+AR-Q,Neuquén,2021,diputados,5,0,2,0,0,1,2,0,empate,FRENTE DE TODOS
+AR-Q,Neuquén,2022,diputados,5,0,1,0,0,1,2,1,peronismo,FRENTE DE TODOS
+AR-Q,Neuquén,2023,diputados,5,0,1,0,0,1,2,1,peronismo,FRENTE DE TODOS
+AR-Q,Neuquén,2024,diputados,5,1,0,0,0,1,2,1,peronismo,UNIÓN POR LA PATRIA
+AR-Q,Neuquén,2025,diputados,5,1,0,0,1,1,2,0,peronismo,UNIÓN POR LA PATRIA
+AR-Q,Neuquén,2026,diputados,5,3,0,0,0,1,1,0,La Libertad Avanza,LA LIBERTAD AVANZA
+AR-R,Río Negro,2010,diputados,5,0,0,0,1,0,3,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-R,Río Negro,2011,diputados,5,0,0,0,1,0,3,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-R,Río Negro,2012,diputados,5,0,0,0,0,0,4,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-R,Río Negro,2013,diputados,5,0,0,0,0,0,4,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-R,Río Negro,2014,diputados,5,0,0,0,0,0,5,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-R,Río Negro,2015,diputados,5,0,0,0,0,0,5,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-R,Río Negro,2016,diputados,5,0,1,0,0,0,4,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-R,Río Negro,2017,diputados,5,0,1,0,0,0,4,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-R,Río Negro,2018,diputados,5,0,1,0,0,0,3,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-R,Río Negro,2019,diputados,5,0,1,0,0,0,3,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-R,Río Negro,2020,diputados,5,0,0,0,0,1,3,1,peronismo,FRENTE DE TODOS
+AR-R,Río Negro,2021,diputados,5,0,0,0,0,1,3,1,peronismo,FRENTE DE TODOS
+AR-R,Río Negro,2022,diputados,5,0,1,0,0,2,2,0,empate,FRENTE DE TODOS
+AR-R,Río Negro,2023,diputados,5,0,1,0,0,2,2,0,empate,FRENTE DE TODOS
+AR-R,Río Negro,2024,diputados,5,1,2,0,0,1,1,0,PRO / Juntos por el Cambio,PRO
+AR-R,Río Negro,2025,diputados,5,1,2,0,0,1,1,0,PRO / Juntos por el Cambio,PRO
+AR-R,Río Negro,2026,diputados,5,2,0,0,1,0,2,0,empate,UNIÓN POR LA PATRIA
+AR-A,Salta,2010,diputados,7,0,0,0,1,1,5,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-A,Salta,2011,diputados,7,0,0,0,1,1,5,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-A,Salta,2012,diputados,7,0,0,0,2,1,4,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-A,Salta,2013,diputados,7,0,0,0,2,1,4,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-A,Salta,2014,diputados,7,0,0,1,2,0,4,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-A,Salta,2015,diputados,7,0,0,1,2,0,4,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-A,Salta,2016,diputados,7,0,1,1,1,0,3,1,peronismo,JUSTICIALISTA
+AR-A,Salta,2017,diputados,7,0,1,1,1,0,3,1,peronismo,JUSTICIALISTA
+AR-A,Salta,2018,diputados,7,0,1,0,1,0,4,1,peronismo,JUSTICIALISTA
+AR-A,Salta,2019,diputados,7,0,1,0,1,0,4,1,peronismo,JUSTICIALISTA
+AR-A,Salta,2020,diputados,7,0,2,0,0,0,4,1,peronismo,FRENTE DE TODOS
+AR-A,Salta,2021,diputados,7,0,2,0,0,0,4,1,peronismo,FRENTE DE TODOS
+AR-A,Salta,2022,diputados,7,0,1,0,0,0,5,1,peronismo,FRENTE DE TODOS
+AR-A,Salta,2023,diputados,7,0,1,0,0,0,5,1,peronismo,FRENTE DE TODOS
+AR-A,Salta,2024,diputados,7,3,0,0,0,3,1,0,empate,INNOVACIÓN FEDERAL
+AR-A,Salta,2025,diputados,7,3,0,0,0,3,1,0,empate,INNOVACIÓN FEDERAL
+AR-A,Salta,2026,diputados,7,4,0,0,0,3,0,0,La Libertad Avanza,LA LIBERTAD AVANZA
+AR-J,San Juan,2010,diputados,6,0,0,0,0,0,6,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-J,San Juan,2011,diputados,6,0,0,0,0,0,6,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-J,San Juan,2012,diputados,6,0,0,0,0,1,5,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-J,San Juan,2013,diputados,6,0,0,0,0,1,5,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-J,San Juan,2014,diputados,6,0,1,0,0,0,5,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-J,San Juan,2015,diputados,6,0,1,0,0,0,5,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-J,San Juan,2016,diputados,6,0,1,0,1,1,3,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-J,San Juan,2017,diputados,6,0,1,0,1,1,3,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-J,San Juan,2018,diputados,6,0,1,0,1,2,2,0,empate,FRENTE PARA LA VICTORIA - PJ
+AR-J,San Juan,2019,diputados,6,0,1,0,1,2,2,0,empate,FRENTE PARA LA VICTORIA - PJ
+AR-J,San Juan,2020,diputados,6,0,1,0,0,1,4,0,peronismo,FRENTE DE TODOS
+AR-J,San Juan,2021,diputados,6,0,1,0,0,1,4,0,peronismo,FRENTE DE TODOS
+AR-J,San Juan,2022,diputados,6,0,0,0,0,2,4,0,peronismo,FRENTE DE TODOS
+AR-J,San Juan,2023,diputados,6,0,0,0,0,2,4,0,peronismo,FRENTE DE TODOS
+AR-J,San Juan,2024,diputados,6,1,0,0,0,2,3,0,peronismo,UNIÓN POR LA PATRIA
+AR-J,San Juan,2025,diputados,6,1,0,0,0,2,3,0,peronismo,UNIÓN POR LA PATRIA
+AR-J,San Juan,2026,diputados,6,2,0,0,0,2,2,0,empate,UNIÓN POR LA PATRIA
+AR-D,San Luis,2010,diputados,5,0,0,0,0,0,5,0,peronismo,PERONISMO FEDERAL
+AR-D,San Luis,2011,diputados,5,0,0,0,0,0,5,0,peronismo,PERONISMO FEDERAL
+AR-D,San Luis,2012,diputados,5,0,0,0,0,0,5,0,peronismo,FRENTE PERONISTA
+AR-D,San Luis,2013,diputados,5,0,0,0,0,0,5,0,peronismo,FRENTE PERONISTA
+AR-D,San Luis,2014,diputados,5,0,0,0,0,0,4,1,peronismo,COMPROMISO FEDERAL
+AR-D,San Luis,2015,diputados,5,0,0,0,0,0,4,1,peronismo,COMPROMISO FEDERAL
+AR-D,San Luis,2016,diputados,5,0,1,0,0,0,3,1,peronismo,COMPROMISO FEDERAL
+AR-D,San Luis,2017,diputados,4,0,1,0,0,0,2,1,peronismo,COMPROMISO FEDERAL
+AR-D,San Luis,2018,diputados,5,0,0,0,0,0,4,1,peronismo,UNIDAD JUSTICIALISTA
+AR-D,San Luis,2019,diputados,5,0,0,0,0,0,4,1,peronismo,UNIDAD JUSTICIALISTA
+AR-D,San Luis,2020,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE DE TODOS
+AR-D,San Luis,2021,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE DE TODOS
+AR-D,San Luis,2022,diputados,5,0,2,0,0,0,2,1,empate,FRENTE DE TODOS
+AR-D,San Luis,2023,diputados,5,0,2,0,0,0,2,1,empate,FRENTE DE TODOS
+AR-D,San Luis,2024,diputados,5,2,1,0,0,0,2,0,empate,UNIÓN POR LA PATRIA
+AR-D,San Luis,2025,diputados,5,2,1,0,0,0,2,0,empate,UNIÓN POR LA PATRIA
+AR-D,San Luis,2026,diputados,5,2,0,0,1,1,1,0,La Libertad Avanza,LA LIBERTAD AVANZA
+AR-Z,Santa Cruz,2010,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-Z,Santa Cruz,2011,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-Z,Santa Cruz,2012,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-Z,Santa Cruz,2013,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-Z,Santa Cruz,2014,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-Z,Santa Cruz,2015,diputados,5,0,0,0,0,0,3,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-Z,Santa Cruz,2016,diputados,5,0,0,0,0,0,2,3,radicalismo,UCR
+AR-Z,Santa Cruz,2017,diputados,5,0,0,0,0,0,2,3,radicalismo,UCR
+AR-Z,Santa Cruz,2018,diputados,5,0,1,0,0,0,2,2,empate,FRENTE PARA LA VICTORIA - PJ
+AR-Z,Santa Cruz,2019,diputados,5,0,1,0,0,0,2,2,empate,FRENTE PARA LA VICTORIA - PJ
+AR-Z,Santa Cruz,2020,diputados,5,0,0,0,1,0,3,1,peronismo,FRENTE DE TODOS
+AR-Z,Santa Cruz,2021,diputados,5,0,0,0,1,0,3,1,peronismo,FRENTE DE TODOS
+AR-Z,Santa Cruz,2022,diputados,5,0,0,0,1,0,3,1,peronismo,FRENTE DE TODOS
+AR-Z,Santa Cruz,2023,diputados,5,0,0,0,1,0,3,1,peronismo,FRENTE DE TODOS
+AR-Z,Santa Cruz,2024,diputados,5,0,0,0,0,2,2,1,empate,POR SANTA CRUZ
+AR-Z,Santa Cruz,2025,diputados,5,0,0,0,0,2,2,1,empate,POR SANTA CRUZ
+AR-Z,Santa Cruz,2026,diputados,5,1,0,0,0,1,3,0,peronismo,UNIÓN POR LA PATRIA
+AR-S,Santa Fe,2010,diputados,19,0,2,0,6,0,10,1,peronismo,PERONISMO FEDERAL
+AR-S,Santa Fe,2011,diputados,19,0,2,0,6,0,10,1,peronismo,PERONISMO FEDERAL
+AR-S,Santa Fe,2012,diputados,19,0,1,0,8,0,9,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-S,Santa Fe,2013,diputados,19,0,1,0,7,0,10,1,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-S,Santa Fe,2014,diputados,19,0,4,0,7,0,7,1,empate,FRENTE PARA LA VICTORIA - PJ
+AR-S,Santa Fe,2015,diputados,19,0,4,0,7,0,7,1,empate,FRENTE PARA LA VICTORIA - PJ
+AR-S,Santa Fe,2016,diputados,19,0,6,0,5,0,6,2,empate,UNION PRO
+AR-S,Santa Fe,2017,diputados,19,0,6,0,5,0,6,2,empate,UNION PRO
+AR-S,Santa Fe,2018,diputados,19,0,6,0,5,0,5,3,PRO / Juntos por el Cambio,PRO
+AR-S,Santa Fe,2019,diputados,19,0,6,0,5,0,5,3,PRO / Juntos por el Cambio,PRO
+AR-S,Santa Fe,2020,diputados,19,0,6,0,2,0,7,4,peronismo,FRENTE DE TODOS
+AR-S,Santa Fe,2021,diputados,19,0,6,0,2,0,7,4,peronismo,FRENTE DE TODOS
+AR-S,Santa Fe,2022,diputados,19,0,6,0,2,0,7,4,peronismo,FRENTE DE TODOS
+AR-S,Santa Fe,2023,diputados,19,0,5,0,3,0,7,4,peronismo,FRENTE DE TODOS
+AR-S,Santa Fe,2024,diputados,19,3,8,0,0,0,6,2,PRO / Juntos por el Cambio,PRO
+AR-S,Santa Fe,2025,diputados,19,3,4,0,6,0,5,1,otros,UNIÓN POR LA PATRIA
+AR-S,Santa Fe,2026,diputados,19,9,0,0,4,0,6,0,La Libertad Avanza,LA LIBERTAD AVANZA
+AR-G,Santiago del Estero,2010,diputados,7,0,0,0,0,7,0,0,partido provincial,FRENTE CIVICO POR SANTIAGO
+AR-G,Santiago del Estero,2011,diputados,7,0,0,0,0,7,0,0,partido provincial,FRENTE CIVICO POR SANTIAGO
+AR-G,Santiago del Estero,2012,diputados,7,0,0,0,0,7,0,0,partido provincial,FRENTE CIVICO POR SANTIAGO
+AR-G,Santiago del Estero,2013,diputados,7,0,0,0,0,7,0,0,partido provincial,FRENTE CIVICO POR SANTIAGO
+AR-G,Santiago del Estero,2014,diputados,7,0,0,0,0,7,0,0,partido provincial,FRENTE CIVICO POR SANTIAGO
+AR-G,Santiago del Estero,2015,diputados,7,0,0,0,0,7,0,0,partido provincial,FRENTE CIVICO POR SANTIAGO
+AR-G,Santiago del Estero,2016,diputados,7,0,0,0,1,6,0,0,partido provincial,FRENTE CIVICO POR SANTIAGO
+AR-G,Santiago del Estero,2017,diputados,7,0,0,0,1,6,0,0,partido provincial,FRENTE CIVICO POR SANTIAGO
+AR-G,Santiago del Estero,2018,diputados,7,0,0,0,1,6,0,0,partido provincial,FRENTE CIVICO POR SANTIAGO
+AR-G,Santiago del Estero,2019,diputados,7,0,0,0,1,6,0,0,partido provincial,FRENTE CIVICO POR SANTIAGO
+AR-G,Santiago del Estero,2020,diputados,7,0,0,0,0,0,7,0,peronismo,FRENTE DE TODOS
+AR-G,Santiago del Estero,2021,diputados,7,0,0,0,0,0,7,0,peronismo,FRENTE DE TODOS
+AR-G,Santiago del Estero,2022,diputados,7,0,0,0,0,0,7,0,peronismo,FRENTE DE TODOS
+AR-G,Santiago del Estero,2023,diputados,7,0,0,0,0,0,7,0,peronismo,FRENTE DE TODOS
+AR-G,Santiago del Estero,2024,diputados,7,0,0,0,0,0,7,0,peronismo,UNIÓN POR LA PATRIA
+AR-G,Santiago del Estero,2025,diputados,7,0,0,0,0,0,7,0,peronismo,UNIÓN POR LA PATRIA
+AR-G,Santiago del Estero,2026,diputados,7,0,0,0,0,0,7,0,peronismo,UNIÓN POR LA PATRIA
+AR-V,Tierra del Fuego,2010,diputados,5,0,0,0,1,1,3,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-V,Tierra del Fuego,2011,diputados,5,0,0,0,1,1,3,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-V,Tierra del Fuego,2012,diputados,5,0,0,0,0,2,3,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-V,Tierra del Fuego,2013,diputados,5,0,0,0,0,2,3,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-V,Tierra del Fuego,2014,diputados,5,0,0,0,1,1,3,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-V,Tierra del Fuego,2015,diputados,5,0,0,0,1,1,3,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-V,Tierra del Fuego,2016,diputados,5,0,1,0,1,0,3,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-V,Tierra del Fuego,2017,diputados,5,0,1,0,1,0,3,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-V,Tierra del Fuego,2018,diputados,5,0,2,0,0,0,3,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-V,Tierra del Fuego,2019,diputados,5,0,2,0,0,0,3,0,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-V,Tierra del Fuego,2020,diputados,5,0,2,0,0,0,3,0,peronismo,FRENTE DE TODOS
+AR-V,Tierra del Fuego,2021,diputados,5,0,2,0,0,0,3,0,peronismo,FRENTE DE TODOS
+AR-V,Tierra del Fuego,2022,diputados,5,0,2,0,0,0,3,0,peronismo,FRENTE DE TODOS
+AR-V,Tierra del Fuego,2023,diputados,5,0,2,0,0,0,3,0,peronismo,FRENTE DE TODOS
+AR-V,Tierra del Fuego,2024,diputados,5,1,1,0,0,0,3,0,peronismo,UNIÓN POR LA PATRIA
+AR-V,Tierra del Fuego,2025,diputados,5,1,0,0,0,1,3,0,peronismo,UNIÓN POR LA PATRIA
+AR-V,Tierra del Fuego,2026,diputados,5,2,0,0,0,0,3,0,peronismo,UNIÓN POR LA PATRIA
+AR-T,Tucumán,2010,diputados,9,0,0,0,0,0,7,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-T,Tucumán,2011,diputados,9,0,0,0,0,0,7,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-T,Tucumán,2012,diputados,9,0,0,0,0,0,7,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-T,Tucumán,2013,diputados,9,0,0,0,0,0,7,2,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-T,Tucumán,2014,diputados,9,0,0,0,0,0,6,3,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-T,Tucumán,2015,diputados,9,0,0,0,0,0,6,3,peronismo,FRENTE PARA LA VICTORIA - PJ
+AR-T,Tucumán,2016,diputados,9,0,1,0,4,0,4,0,empate,FRENTE PARA LA VICTORIA - PJ
+AR-T,Tucumán,2017,diputados,9,0,1,0,4,0,4,0,empate,FRENTE PARA LA VICTORIA - PJ
+AR-T,Tucumán,2018,diputados,9,0,1,0,0,0,6,2,peronismo,JUSTICIALISTA POR TUCUMAN
+AR-T,Tucumán,2019,diputados,9,0,1,0,0,0,6,2,peronismo,JUSTICIALISTA POR TUCUMAN
+AR-T,Tucumán,2020,diputados,9,0,1,0,0,0,6,2,peronismo,FRENTE DE TODOS
+AR-T,Tucumán,2021,diputados,9,0,1,0,0,0,6,2,peronismo,FRENTE DE TODOS
+AR-T,Tucumán,2022,diputados,9,0,0,0,2,0,5,2,peronismo,FRENTE DE TODOS
+AR-T,Tucumán,2023,diputados,9,0,0,0,2,0,5,2,peronismo,FRENTE DE TODOS
+AR-T,Tucumán,2024,diputados,10,1,0,0,5,0,2,2,otros,INDEPENDENCIA
+AR-T,Tucumán,2025,diputados,10,1,0,0,6,0,2,1,otros,INDEPENDENCIA
+AR-T,Tucumán,2026,diputados,9,4,0,0,3,0,2,0,La Libertad Avanza,LA LIBERTAD AVANZA
+AR-B,Buenos Aires,1984,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-B,Buenos Aires,1985,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-B,Buenos Aires,1986,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-B,Buenos Aires,1987,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-B,Buenos Aires,1988,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-B,Buenos Aires,1989,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-B,Buenos Aires,1990,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-B,Buenos Aires,1991,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-B,Buenos Aires,1992,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-B,Buenos Aires,1993,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-B,Buenos Aires,1994,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-B,Buenos Aires,1995,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-B,Buenos Aires,1996,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-B,Buenos Aires,1997,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-B,Buenos Aires,1998,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-B,Buenos Aires,1999,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-B,Buenos Aires,2000,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-B,Buenos Aires,2001,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-B,Buenos Aires,2002,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-B,Buenos Aires,2003,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-B,Buenos Aires,2004,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-B,Buenos Aires,2005,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-B,Buenos Aires,2006,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-B,Buenos Aires,2007,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-B,Buenos Aires,2008,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-B,Buenos Aires,2009,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-B,Buenos Aires,2010,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-B,Buenos Aires,2011,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-B,Buenos Aires,2012,senado,3,0,0,0,1,0,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-B,Buenos Aires,2013,senado,3,0,0,0,1,0,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-B,Buenos Aires,2014,senado,3,0,0,0,1,0,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-B,Buenos Aires,2015,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE AMPLIO PROGRESISTA
+AR-B,Buenos Aires,2016,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE AMPLIO PROGRESISTA
+AR-B,Buenos Aires,2017,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE AMPLIO PROGRESISTA
+AR-B,Buenos Aires,2018,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,CAMBIEMOS BUENOS AIRES
+AR-B,Buenos Aires,2019,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,CAMBIEMOS BUENOS AIRES
+AR-B,Buenos Aires,2020,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,CAMBIEMOS BUENOS AIRES
+AR-B,Buenos Aires,2021,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,CAMBIEMOS BUENOS AIRES
+AR-B,Buenos Aires,2022,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,CAMBIEMOS BUENOS AIRES
+AR-B,Buenos Aires,2023,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,CAMBIEMOS BUENOS AIRES
+AR-B,Buenos Aires,2024,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA UNIÓN POR LA PATRIA
+AR-B,Buenos Aires,2025,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA UNIÓN POR LA PATRIA
+AR-B,Buenos Aires,2026,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA UNIÓN POR LA PATRIA
+AR-K,Catamarca,1984,senado,2,0,0,0,1,0,1,0,empate,CONSERVADOR POPULAR-CATAMARCA
+AR-K,Catamarca,1985,senado,2,0,0,0,1,0,1,0,empate,CONSERVADOR POPULAR-CATAMARCA
+AR-K,Catamarca,1986,senado,2,0,0,0,1,0,1,0,empate,CONSERVADOR POPULAR-CATAMARCA
+AR-K,Catamarca,1987,senado,2,0,0,0,1,0,1,0,empate,CONSERVADOR POPULAR-CATAMARCA
+AR-K,Catamarca,1988,senado,2,0,0,0,1,0,1,0,empate,CONSERVADOR POPULAR-CATAMARCA
+AR-K,Catamarca,1989,senado,2,0,0,0,1,0,1,0,empate,CONSERVADOR POPULAR-CATAMARCA
+AR-K,Catamarca,1990,senado,2,0,0,0,1,0,1,0,empate,CONSERVADOR POPULAR-CATAMARCA
+AR-K,Catamarca,1991,senado,2,0,0,0,1,0,1,0,empate,CONSERVADOR POPULAR-CATAMARCA
+AR-K,Catamarca,1992,senado,2,0,0,0,1,0,1,0,empate,CONSERVADOR POPULAR-CATAMARCA
+AR-K,Catamarca,1993,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-K,Catamarca,1994,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-K,Catamarca,1995,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-K,Catamarca,1996,senado,1,0,0,0,0,0,0,1,radicalismo,FRENTE CÍVICO Y SOCIAL DE CATAMARCA
+AR-K,Catamarca,1997,senado,1,0,0,0,0,0,0,1,radicalismo,FRENTE CÍVICO Y SOCIAL DE CATAMARCA
+AR-K,Catamarca,1998,senado,1,0,0,0,0,0,0,1,radicalismo,FRENTE CÍVICO Y SOCIAL DE CATAMARCA
+AR-K,Catamarca,1999,senado,1,0,0,0,0,0,0,1,radicalismo,FRENTE CÍVICO Y SOCIAL DE CATAMARCA
+AR-K,Catamarca,2000,senado,1,0,0,0,0,0,0,1,radicalismo,FRENTE CÍVICO Y SOCIAL DE CATAMARCA
+AR-K,Catamarca,2001,senado,1,0,0,0,0,0,0,1,radicalismo,FRENTE CÍVICO Y SOCIAL DE CATAMARCA
+AR-K,Catamarca,2002,senado,3,0,0,0,0,0,1,2,radicalismo,FRENTE CÍVICO Y SOCIAL DE CATAMARCA
+AR-K,Catamarca,2003,senado,3,0,0,0,0,0,1,2,radicalismo,FRENTE CÍVICO Y SOCIAL DE CATAMARCA
+AR-K,Catamarca,2004,senado,3,0,0,0,0,0,1,2,radicalismo,FRENTE CÍVICO Y SOCIAL DE CATAMARCA
+AR-K,Catamarca,2005,senado,3,0,0,0,0,0,1,2,radicalismo,FRENTE CÍVICO Y SOCIAL DE CATAMARCA
+AR-K,Catamarca,2006,senado,3,0,0,0,0,0,1,2,radicalismo,FRENTE CÍVICO Y SOCIAL DE CATAMARCA
+AR-K,Catamarca,2007,senado,3,0,0,0,0,0,1,2,radicalismo,FRENTE CÍVICO Y SOCIAL DE CATAMARCA
+AR-K,Catamarca,2008,senado,3,0,0,0,0,0,1,2,radicalismo,FRENTE CÍVICO Y SOCIAL DE CATAMARCA
+AR-K,Catamarca,2009,senado,3,0,0,0,0,0,1,2,radicalismo,FRENTE CÍVICO Y SOCIAL DE CATAMARCA
+AR-K,Catamarca,2010,senado,3,0,0,0,0,0,1,2,radicalismo,ALIANZA FRENTE CÍVICO Y SOCIAL
+AR-K,Catamarca,2011,senado,3,0,0,0,0,0,1,2,radicalismo,ALIANZA FRENTE CÍVICO Y SOCIAL
+AR-K,Catamarca,2012,senado,3,0,0,0,0,0,1,2,radicalismo,ALIANZA FRENTE CÍVICO Y SOCIAL
+AR-K,Catamarca,2013,senado,3,0,0,0,0,0,1,2,radicalismo,ALIANZA FRENTE CÍVICO Y SOCIAL
+AR-K,Catamarca,2014,senado,3,0,0,0,0,0,1,2,radicalismo,ALIANZA FRENTE CÍVICO Y SOCIAL
+AR-K,Catamarca,2015,senado,3,0,0,0,0,0,1,2,radicalismo,ALIANZA FRENTE CÍVICO Y SOCIAL
+AR-K,Catamarca,2016,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-K,Catamarca,2017,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-K,Catamarca,2018,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-K,Catamarca,2019,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-K,Catamarca,2020,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-K,Catamarca,2021,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-K,Catamarca,2022,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-K,Catamarca,2023,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-K,Catamarca,2024,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-K,Catamarca,2025,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-K,Catamarca,2026,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-H,Chaco,1984,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-H,Chaco,1985,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-H,Chaco,1986,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-H,Chaco,1987,senado,1,0,0,0,0,0,0,1,radicalismo,UNIÓN CÍVICA RADICAL
+AR-H,Chaco,1988,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-H,Chaco,1989,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-H,Chaco,1990,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-H,Chaco,1991,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-H,Chaco,1992,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-H,Chaco,1993,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-H,Chaco,1994,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-H,Chaco,1995,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-H,Chaco,1996,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-H,Chaco,1997,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-H,Chaco,1998,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-H,Chaco,1999,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-H,Chaco,2000,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-H,Chaco,2001,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-H,Chaco,2002,senado,3,0,0,0,1,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-H,Chaco,2003,senado,3,0,0,0,1,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-H,Chaco,2004,senado,3,0,0,0,1,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-H,Chaco,2005,senado,3,0,0,0,1,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-H,Chaco,2006,senado,3,0,0,0,1,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-H,Chaco,2007,senado,3,0,0,0,1,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-H,Chaco,2008,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA FRENTE JUST. CHACO MERECE MÁS
+AR-H,Chaco,2009,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA FRENTE JUST. CHACO MERECE MÁS
+AR-H,Chaco,2010,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA FRENTE JUST. CHACO MERECE MÁS
+AR-H,Chaco,2011,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA FRENTE JUST. CHACO MERECE MÁS
+AR-H,Chaco,2012,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA FRENTE JUST. CHACO MERECE MÁS
+AR-H,Chaco,2013,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA FRENTE JUST. CHACO MERECE MÁS
+AR-H,Chaco,2014,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-H,Chaco,2015,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-H,Chaco,2016,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-H,Chaco,2017,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-H,Chaco,2018,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-H,Chaco,2019,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-H,Chaco,2020,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-H,Chaco,2021,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-H,Chaco,2022,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-H,Chaco,2023,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-H,Chaco,2024,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-H,Chaco,2025,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-H,Chaco,2026,senado,3,2,0,0,0,0,1,0,La Libertad Avanza,ALIANZA LA LIBERTAD AVANZA
+AR-U,Chubut,1984,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-U,Chubut,1985,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-U,Chubut,1986,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-U,Chubut,1987,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-U,Chubut,1988,senado,1,0,0,0,0,0,0,1,radicalismo,UNIÓN CÍVICA RADICAL
+AR-U,Chubut,1989,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-U,Chubut,1990,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-U,Chubut,1991,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-U,Chubut,1992,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-U,Chubut,1993,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-U,Chubut,1994,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-U,Chubut,1995,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-U,Chubut,1996,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-U,Chubut,1997,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-U,Chubut,1998,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-U,Chubut,1999,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-U,Chubut,2000,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-U,Chubut,2001,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-U,Chubut,2002,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-U,Chubut,2003,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-U,Chubut,2004,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-U,Chubut,2005,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-U,Chubut,2006,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-U,Chubut,2007,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-U,Chubut,2008,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-U,Chubut,2009,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-U,Chubut,2010,senado,3,0,0,0,2,0,0,1,otros,FRENTE POR LA INTEGRACIÓN
+AR-U,Chubut,2011,senado,3,0,0,0,2,0,0,1,otros,FRENTE POR LA INTEGRACIÓN
+AR-U,Chubut,2012,senado,3,0,0,0,2,0,0,1,otros,FRENTE POR LA INTEGRACIÓN
+AR-U,Chubut,2013,senado,3,0,0,0,2,0,0,1,otros,FRENTE POR LA INTEGRACIÓN
+AR-U,Chubut,2014,senado,3,0,0,0,2,0,0,1,otros,FRENTE POR LA INTEGRACIÓN
+AR-U,Chubut,2015,senado,3,0,0,0,2,0,0,1,otros,FRENTE POR LA INTEGRACIÓN
+AR-U,Chubut,2016,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-U,Chubut,2017,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-U,Chubut,2018,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-U,Chubut,2019,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-U,Chubut,2020,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-U,Chubut,2021,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-U,Chubut,2022,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO CHUBUT
+AR-U,Chubut,2023,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO CHUBUT
+AR-U,Chubut,2024,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO CHUBUT
+AR-U,Chubut,2025,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO CHUBUT
+AR-U,Chubut,2026,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO CHUBUT
+AR-C,Ciudad de Buenos Aires,1984,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-C,Ciudad de Buenos Aires,1985,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-C,Ciudad de Buenos Aires,1986,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-C,Ciudad de Buenos Aires,1987,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-C,Ciudad de Buenos Aires,1988,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-C,Ciudad de Buenos Aires,1989,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-C,Ciudad de Buenos Aires,1990,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-C,Ciudad de Buenos Aires,1991,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-C,Ciudad de Buenos Aires,1992,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-C,Ciudad de Buenos Aires,1993,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-C,Ciudad de Buenos Aires,1994,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-C,Ciudad de Buenos Aires,1995,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-C,Ciudad de Buenos Aires,1996,senado,3,0,0,0,1,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-C,Ciudad de Buenos Aires,1997,senado,2,0,0,0,1,0,1,0,empate,JUSTICIALISTA
+AR-C,Ciudad de Buenos Aires,1998,senado,3,0,0,0,1,0,1,1,empate,JUSTICIALISTA
+AR-C,Ciudad de Buenos Aires,1999,senado,2,0,0,0,1,0,0,1,empate,FREPASO
+AR-C,Ciudad de Buenos Aires,2000,senado,3,0,0,0,1,0,1,1,empate,FREPASO
+AR-C,Ciudad de Buenos Aires,2001,senado,3,0,0,0,1,0,1,1,empate,FREPASO
+AR-C,Ciudad de Buenos Aires,2002,senado,2,0,0,0,1,0,0,1,empate,UNIÓN CÍVICA RADICAL
+AR-C,Ciudad de Buenos Aires,2003,senado,2,0,0,0,1,0,0,1,empate,UNIÓN CÍVICA RADICAL
+AR-C,Ciudad de Buenos Aires,2004,senado,3,0,0,0,1,0,1,1,empate,JUSTICIALISTA
+AR-C,Ciudad de Buenos Aires,2005,senado,3,0,0,0,1,0,1,1,empate,JUSTICIALISTA
+AR-C,Ciudad de Buenos Aires,2006,senado,3,0,0,0,1,0,1,1,empate,JUSTICIALISTA
+AR-C,Ciudad de Buenos Aires,2007,senado,3,0,0,0,1,0,1,1,empate,JUSTICIALISTA
+AR-C,Ciudad de Buenos Aires,2008,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,ALIANZA COALICIÓN CÍVICA
+AR-C,Ciudad de Buenos Aires,2009,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,ALIANZA COALICIÓN CÍVICA
+AR-C,Ciudad de Buenos Aires,2010,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,ALIANZA COALICIÓN CÍVICA
+AR-C,Ciudad de Buenos Aires,2011,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,ALIANZA COALICIÓN CÍVICA
+AR-C,Ciudad de Buenos Aires,2012,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,ALIANZA COALICIÓN CÍVICA
+AR-C,Ciudad de Buenos Aires,2013,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,ALIANZA COALICIÓN CÍVICA
+AR-C,Ciudad de Buenos Aires,2014,senado,3,0,2,0,1,0,0,0,PRO / Juntos por el Cambio,ALIANZA UNIÓN PRO
+AR-C,Ciudad de Buenos Aires,2015,senado,3,0,2,0,1,0,0,0,PRO / Juntos por el Cambio,ALIANZA UNIÓN PRO
+AR-C,Ciudad de Buenos Aires,2016,senado,3,0,2,0,1,0,0,0,PRO / Juntos por el Cambio,ALIANZA UNIÓN PRO
+AR-C,Ciudad de Buenos Aires,2017,senado,3,0,2,0,1,0,0,0,PRO / Juntos por el Cambio,ALIANZA UNIÓN PRO
+AR-C,Ciudad de Buenos Aires,2018,senado,3,0,2,0,1,0,0,0,PRO / Juntos por el Cambio,ALIANZA UNIÓN PRO
+AR-C,Ciudad de Buenos Aires,2019,senado,3,0,2,0,1,0,0,0,PRO / Juntos por el Cambio,ALIANZA UNIÓN PRO
+AR-C,Ciudad de Buenos Aires,2020,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-C,Ciudad de Buenos Aires,2021,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-C,Ciudad de Buenos Aires,2022,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-C,Ciudad de Buenos Aires,2023,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-C,Ciudad de Buenos Aires,2024,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-C,Ciudad de Buenos Aires,2025,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-C,Ciudad de Buenos Aires,2026,senado,3,2,0,0,0,0,1,0,La Libertad Avanza,ALIANZA LA LIBERTAD AVANZA
+AR-W,Corrientes,1984,senado,2,0,0,0,1,1,0,0,empate,LIBERAL
+AR-W,Corrientes,1985,senado,2,0,0,0,1,1,0,0,empate,LIBERAL
+AR-W,Corrientes,1986,senado,2,0,0,0,1,1,0,0,empate,LIBERAL
+AR-W,Corrientes,1987,senado,2,0,0,0,1,1,0,0,empate,LIBERAL
+AR-W,Corrientes,1988,senado,2,0,0,0,0,2,0,0,partido provincial,LIBERAL DE CORRIENTES
+AR-W,Corrientes,1989,senado,2,0,0,0,0,2,0,0,partido provincial,LIBERAL DE CORRIENTES
+AR-W,Corrientes,1990,senado,2,0,0,0,0,2,0,0,partido provincial,LIBERAL DE CORRIENTES
+AR-W,Corrientes,1991,senado,2,0,0,0,0,2,0,0,partido provincial,LIBERAL DE CORRIENTES
+AR-W,Corrientes,1992,senado,2,0,0,0,0,2,0,0,partido provincial,LIBERAL DE CORRIENTES
+AR-W,Corrientes,1993,senado,2,0,0,0,0,2,0,0,partido provincial,LIBERAL DE CORRIENTES
+AR-W,Corrientes,1994,senado,2,0,0,0,0,2,0,0,partido provincial,LIBERAL DE CORRIENTES
+AR-W,Corrientes,1995,senado,2,0,0,0,0,2,0,0,partido provincial,LIBERAL DE CORRIENTES
+AR-W,Corrientes,1996,senado,3,0,0,0,0,2,1,0,partido provincial,LIBERAL DE CORRIENTES
+AR-W,Corrientes,1997,senado,3,0,0,0,0,2,1,0,partido provincial,LIBERAL DE CORRIENTES
+AR-W,Corrientes,1998,senado,3,0,0,0,0,2,1,0,partido provincial,LIBERAL DE CORRIENTES
+AR-W,Corrientes,1999,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-W,Corrientes,2000,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-W,Corrientes,2001,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-W,Corrientes,2002,senado,2,0,0,0,0,1,1,0,empate,JUSTICIALISTA
+AR-W,Corrientes,2003,senado,2,0,0,0,0,1,1,0,empate,JUSTICIALISTA
+AR-W,Corrientes,2004,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-W,Corrientes,2005,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-W,Corrientes,2006,senado,3,0,0,0,0,1,1,1,empate,JUSTICIALISTA
+AR-W,Corrientes,2007,senado,3,0,0,0,0,1,1,1,empate,JUSTICIALISTA
+AR-W,Corrientes,2008,senado,3,0,0,0,0,1,1,1,empate,JUSTICIALISTA
+AR-W,Corrientes,2009,senado,3,0,0,0,0,1,1,1,empate,JUSTICIALISTA
+AR-W,Corrientes,2010,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE DE TODOS
+AR-W,Corrientes,2011,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE DE TODOS
+AR-W,Corrientes,2012,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE DE TODOS
+AR-W,Corrientes,2013,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE DE TODOS
+AR-W,Corrientes,2014,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE DE TODOS
+AR-W,Corrientes,2015,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE DE TODOS
+AR-W,Corrientes,2016,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-W,Corrientes,2017,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-W,Corrientes,2018,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-W,Corrientes,2019,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-W,Corrientes,2020,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-W,Corrientes,2021,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-W,Corrientes,2022,senado,3,0,0,0,0,0,1,2,radicalismo,ECO + VAMOS CORRIENTES
+AR-W,Corrientes,2023,senado,3,0,0,0,0,0,1,2,radicalismo,ECO + VAMOS CORRIENTES
+AR-W,Corrientes,2024,senado,3,0,0,0,0,0,1,2,radicalismo,ECO + VAMOS CORRIENTES
+AR-W,Corrientes,2025,senado,3,0,0,0,0,0,1,2,radicalismo,ECO + VAMOS CORRIENTES
+AR-W,Corrientes,2026,senado,3,0,0,0,0,0,1,2,radicalismo,ECO + VAMOS CORRIENTES
+AR-X,Córdoba,1984,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-X,Córdoba,1985,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-X,Córdoba,1986,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-X,Córdoba,1987,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-X,Córdoba,1988,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-X,Córdoba,1989,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-X,Córdoba,1990,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-X,Córdoba,1991,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-X,Córdoba,1992,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-X,Córdoba,1993,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-X,Córdoba,1994,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-X,Córdoba,1995,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-X,Córdoba,1996,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-X,Córdoba,1997,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-X,Córdoba,1998,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-X,Córdoba,1999,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-X,Córdoba,2000,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-X,Córdoba,2001,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-X,Córdoba,2002,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-X,Córdoba,2003,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-X,Córdoba,2004,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-X,Córdoba,2005,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-X,Córdoba,2006,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-X,Córdoba,2007,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-X,Córdoba,2008,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-X,Córdoba,2009,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-X,Córdoba,2010,senado,3,0,0,0,2,0,0,1,otros,ALIANZA FRENTE CÍVICO
+AR-X,Córdoba,2011,senado,3,0,0,0,2,0,0,1,otros,ALIANZA FRENTE CÍVICO
+AR-X,Córdoba,2012,senado,3,0,0,0,2,0,0,1,otros,ALIANZA FRENTE CÍVICO
+AR-X,Córdoba,2013,senado,3,0,0,0,2,0,0,1,otros,ALIANZA FRENTE CÍVICO
+AR-X,Córdoba,2014,senado,3,0,0,0,2,0,0,1,otros,ALIANZA FRENTE CÍVICO
+AR-X,Córdoba,2015,senado,3,0,0,0,2,0,0,1,otros,ALIANZA FRENTE CÍVICO
+AR-X,Córdoba,2016,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,ALIANZA CAMBIEMOS
+AR-X,Córdoba,2017,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,ALIANZA CAMBIEMOS
+AR-X,Córdoba,2018,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,ALIANZA CAMBIEMOS
+AR-X,Córdoba,2019,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,ALIANZA CAMBIEMOS
+AR-X,Córdoba,2020,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,ALIANZA CAMBIEMOS
+AR-X,Córdoba,2021,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,ALIANZA CAMBIEMOS
+AR-X,Córdoba,2022,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-X,Córdoba,2023,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-X,Córdoba,2024,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-X,Córdoba,2025,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-X,Córdoba,2026,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-E,Entre Ríos,1984,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-E,Entre Ríos,1985,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-E,Entre Ríos,1986,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-E,Entre Ríos,1987,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-E,Entre Ríos,1988,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-E,Entre Ríos,1989,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-E,Entre Ríos,1990,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-E,Entre Ríos,1991,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-E,Entre Ríos,1992,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-E,Entre Ríos,1993,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-E,Entre Ríos,1994,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-E,Entre Ríos,1995,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-E,Entre Ríos,1996,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-E,Entre Ríos,1997,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-E,Entre Ríos,1998,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-E,Entre Ríos,1999,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-E,Entre Ríos,2000,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-E,Entre Ríos,2001,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-E,Entre Ríos,2002,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-E,Entre Ríos,2003,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-E,Entre Ríos,2004,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-E,Entre Ríos,2005,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-E,Entre Ríos,2006,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-E,Entre Ríos,2007,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-E,Entre Ríos,2008,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE JUSTICIALISTA PARA LA VICTORIA
+AR-E,Entre Ríos,2009,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE JUSTICIALISTA PARA LA VICTORIA
+AR-E,Entre Ríos,2010,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE JUSTICIALISTA PARA LA VICTORIA
+AR-E,Entre Ríos,2011,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE JUSTICIALISTA PARA LA VICTORIA
+AR-E,Entre Ríos,2012,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE JUSTICIALISTA PARA LA VICTORIA
+AR-E,Entre Ríos,2013,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE JUSTICIALISTA PARA LA VICTORIA
+AR-E,Entre Ríos,2014,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-E,Entre Ríos,2015,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-E,Entre Ríos,2016,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-E,Entre Ríos,2017,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-E,Entre Ríos,2018,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-E,Entre Ríos,2019,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-E,Entre Ríos,2020,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-E,Entre Ríos,2021,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-E,Entre Ríos,2022,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-E,Entre Ríos,2023,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-E,Entre Ríos,2024,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-E,Entre Ríos,2025,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-E,Entre Ríos,2026,senado,3,2,0,0,0,1,0,0,La Libertad Avanza,ALIANZA LA LIBERTAD AVANZA
+AR-P,Formosa,1984,senado,2,0,0,0,1,0,1,0,empate,JUSTICIALISTA
+AR-P,Formosa,1985,senado,2,0,0,0,1,0,1,0,empate,JUSTICIALISTA
+AR-P,Formosa,1986,senado,2,0,0,0,1,0,1,0,empate,JUSTICIALISTA
+AR-P,Formosa,1987,senado,2,0,0,0,1,0,1,0,empate,JUSTICIALISTA
+AR-P,Formosa,1988,senado,2,0,0,0,1,0,1,0,empate,JUSTICIALISTA
+AR-P,Formosa,1989,senado,1,0,0,0,0,0,1,0,peronismo,JUSTICIALISTA
+AR-P,Formosa,1990,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-P,Formosa,1991,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-P,Formosa,1992,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-P,Formosa,1993,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-P,Formosa,1994,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-P,Formosa,1995,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-P,Formosa,1996,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-P,Formosa,1997,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-P,Formosa,1998,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-P,Formosa,1999,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-P,Formosa,2000,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-P,Formosa,2001,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-P,Formosa,2002,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-P,Formosa,2003,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-P,Formosa,2004,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-P,Formosa,2005,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-P,Formosa,2006,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-P,Formosa,2007,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-P,Formosa,2008,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-P,Formosa,2009,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-P,Formosa,2010,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-P,Formosa,2011,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-P,Formosa,2012,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-P,Formosa,2013,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-P,Formosa,2014,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-P,Formosa,2015,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-P,Formosa,2016,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-P,Formosa,2017,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-P,Formosa,2018,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE LA VICTORIA
+AR-P,Formosa,2019,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE LA VICTORIA
+AR-P,Formosa,2020,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE LA VICTORIA
+AR-P,Formosa,2021,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE LA VICTORIA
+AR-P,Formosa,2022,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE LA VICTORIA
+AR-P,Formosa,2023,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE LA VICTORIA
+AR-P,Formosa,2024,senado,3,1,0,0,0,0,2,0,peronismo,ALIANZA UNIÓN POR LA PATRIA
+AR-P,Formosa,2025,senado,3,1,0,0,0,0,2,0,peronismo,ALIANZA UNIÓN POR LA PATRIA
+AR-P,Formosa,2026,senado,3,1,0,0,0,0,2,0,peronismo,ALIANZA UNIÓN POR LA PATRIA
+AR-Y,Jujuy,1984,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Y,Jujuy,1985,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Y,Jujuy,1986,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Y,Jujuy,1987,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Y,Jujuy,1988,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Y,Jujuy,1989,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-Y,Jujuy,1990,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Y,Jujuy,1991,senado,1,0,0,0,0,0,1,0,peronismo,JUSTICIALISTA
+AR-Y,Jujuy,1992,senado,1,0,0,0,0,0,1,0,peronismo,JUSTICIALISTA
+AR-Y,Jujuy,1993,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Y,Jujuy,1994,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Y,Jujuy,1995,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Y,Jujuy,1996,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-Y,Jujuy,1997,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-Y,Jujuy,1998,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-Y,Jujuy,1999,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-Y,Jujuy,2000,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-Y,Jujuy,2001,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-Y,Jujuy,2002,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-Y,Jujuy,2003,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-Y,Jujuy,2004,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-Y,Jujuy,2005,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-Y,Jujuy,2006,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-Y,Jujuy,2007,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-Y,Jujuy,2008,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-Y,Jujuy,2009,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-Y,Jujuy,2010,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-Y,Jujuy,2011,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-Y,Jujuy,2012,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-Y,Jujuy,2013,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-Y,Jujuy,2014,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-Y,Jujuy,2015,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-Y,Jujuy,2016,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-Y,Jujuy,2017,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-Y,Jujuy,2018,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,FRENTE JUJEÑO CAMBIEMOS
+AR-Y,Jujuy,2019,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,FRENTE JUJEÑO CAMBIEMOS
+AR-Y,Jujuy,2020,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,FRENTE JUJEÑO CAMBIEMOS
+AR-Y,Jujuy,2021,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,FRENTE JUJEÑO CAMBIEMOS
+AR-Y,Jujuy,2022,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,FRENTE JUJEÑO CAMBIEMOS
+AR-Y,Jujuy,2023,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,FRENTE JUJEÑO CAMBIEMOS
+AR-Y,Jujuy,2024,senado,3,0,0,0,0,2,1,0,partido provincial,PARTIDO RENOVADOR FEDERAL
+AR-Y,Jujuy,2025,senado,3,0,0,0,0,2,1,0,partido provincial,PARTIDO RENOVADOR FEDERAL
+AR-Y,Jujuy,2026,senado,3,0,0,0,0,2,1,0,partido provincial,PARTIDO RENOVADOR FEDERAL
+AR-L,La Pampa,1984,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-L,La Pampa,1985,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-L,La Pampa,1986,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-L,La Pampa,1987,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-L,La Pampa,1988,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-L,La Pampa,1989,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-L,La Pampa,1990,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-L,La Pampa,1991,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-L,La Pampa,1992,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-L,La Pampa,1993,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-L,La Pampa,1994,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-L,La Pampa,1995,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-L,La Pampa,1996,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-L,La Pampa,1997,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-L,La Pampa,1998,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-L,La Pampa,1999,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-L,La Pampa,2000,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-L,La Pampa,2001,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-L,La Pampa,2002,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-L,La Pampa,2003,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-L,La Pampa,2004,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-L,La Pampa,2005,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-L,La Pampa,2006,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-L,La Pampa,2007,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-L,La Pampa,2008,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-L,La Pampa,2009,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-L,La Pampa,2010,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-L,La Pampa,2011,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-L,La Pampa,2012,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-L,La Pampa,2013,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-L,La Pampa,2014,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-L,La Pampa,2015,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-L,La Pampa,2016,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE P/VICTORIA (PERONISMO PAMPEANO)
+AR-L,La Pampa,2017,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE P/VICTORIA (PERONISMO PAMPEANO)
+AR-L,La Pampa,2018,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE P/VICTORIA (PERONISMO PAMPEANO)
+AR-L,La Pampa,2019,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE P/VICTORIA (PERONISMO PAMPEANO)
+AR-L,La Pampa,2020,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE P/VICTORIA (PERONISMO PAMPEANO)
+AR-L,La Pampa,2021,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE P/VICTORIA (PERONISMO PAMPEANO)
+AR-L,La Pampa,2022,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-L,La Pampa,2023,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-L,La Pampa,2024,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-L,La Pampa,2025,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-L,La Pampa,2026,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-F,La Rioja,1984,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-F,La Rioja,1985,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-F,La Rioja,1986,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-F,La Rioja,1987,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-F,La Rioja,1988,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-F,La Rioja,1989,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-F,La Rioja,1990,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-F,La Rioja,1991,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-F,La Rioja,1992,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-F,La Rioja,1993,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-F,La Rioja,1994,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-F,La Rioja,1995,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-F,La Rioja,1996,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-F,La Rioja,1997,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-F,La Rioja,1998,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-F,La Rioja,1999,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-F,La Rioja,2000,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-F,La Rioja,2001,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-F,La Rioja,2002,senado,3,0,0,0,0,0,3,0,peronismo,JUSTICIALISTA
+AR-F,La Rioja,2003,senado,3,0,0,0,0,0,3,0,peronismo,JUSTICIALISTA
+AR-F,La Rioja,2004,senado,3,0,0,0,0,0,3,0,peronismo,JUSTICIALISTA
+AR-F,La Rioja,2005,senado,3,0,0,0,0,0,3,0,peronismo,JUSTICIALISTA
+AR-F,La Rioja,2006,senado,3,0,0,0,0,0,3,0,peronismo,PARTIDO DE LA VICTORIA
+AR-F,La Rioja,2007,senado,3,0,0,0,0,0,3,0,peronismo,PARTIDO DE LA VICTORIA
+AR-F,La Rioja,2008,senado,3,0,0,0,0,0,3,0,peronismo,PARTIDO DE LA VICTORIA
+AR-F,La Rioja,2009,senado,3,0,0,0,0,0,3,0,peronismo,PARTIDO DE LA VICTORIA
+AR-F,La Rioja,2010,senado,3,0,0,0,0,0,3,0,peronismo,PARTIDO DE LA VICTORIA
+AR-F,La Rioja,2011,senado,3,0,0,0,0,0,3,0,peronismo,PARTIDO DE LA VICTORIA
+AR-F,La Rioja,2012,senado,3,0,0,0,1,0,2,0,peronismo,ALIANZA FRENTE POPULAR RIOJANO
+AR-F,La Rioja,2013,senado,3,0,0,0,1,0,2,0,peronismo,ALIANZA FRENTE POPULAR RIOJANO
+AR-F,La Rioja,2014,senado,3,0,0,0,1,0,2,0,peronismo,ALIANZA FRENTE POPULAR RIOJANO
+AR-F,La Rioja,2015,senado,3,0,0,0,1,0,2,0,peronismo,ALIANZA FRENTE POPULAR RIOJANO
+AR-F,La Rioja,2016,senado,3,0,0,0,1,0,2,0,peronismo,ALIANZA FRENTE POPULAR RIOJANO
+AR-F,La Rioja,2017,senado,3,0,0,0,1,0,2,0,peronismo,ALIANZA FRENTE POPULAR RIOJANO
+AR-F,La Rioja,2018,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,CAMBIEMOS FUERZA CÍVICA RIOJANA
+AR-F,La Rioja,2019,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,CAMBIEMOS FUERZA CÍVICA RIOJANA
+AR-F,La Rioja,2020,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,CAMBIEMOS FUERZA CÍVICA RIOJANA
+AR-F,La Rioja,2021,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,CAMBIEMOS FUERZA CÍVICA RIOJANA
+AR-F,La Rioja,2022,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,CAMBIEMOS FUERZA CÍVICA RIOJANA
+AR-F,La Rioja,2023,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,CAMBIEMOS FUERZA CÍVICA RIOJANA
+AR-F,La Rioja,2024,senado,3,1,0,0,0,0,2,0,peronismo,ALIANZA UNIÓN POR LA PATRIA
+AR-F,La Rioja,2025,senado,3,1,0,0,0,0,2,0,peronismo,ALIANZA UNIÓN POR LA PATRIA
+AR-F,La Rioja,2026,senado,3,1,0,0,0,0,2,0,peronismo,ALIANZA UNIÓN POR LA PATRIA
+AR-M,Mendoza,1984,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-M,Mendoza,1985,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-M,Mendoza,1986,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-M,Mendoza,1987,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-M,Mendoza,1988,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-M,Mendoza,1989,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-M,Mendoza,1990,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-M,Mendoza,1991,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-M,Mendoza,1992,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-M,Mendoza,1993,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-M,Mendoza,1994,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-M,Mendoza,1995,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-M,Mendoza,1996,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-M,Mendoza,1997,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-M,Mendoza,1998,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-M,Mendoza,1999,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-M,Mendoza,2000,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-M,Mendoza,2001,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-M,Mendoza,2002,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-M,Mendoza,2003,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-M,Mendoza,2004,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-M,Mendoza,2005,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-M,Mendoza,2006,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-M,Mendoza,2007,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-M,Mendoza,2008,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-M,Mendoza,2009,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-M,Mendoza,2010,senado,3,0,0,0,0,0,1,2,radicalismo,ALIANZA FRENTE CÍVICO FEDERAL UCR-CONFE
+AR-M,Mendoza,2011,senado,3,0,0,0,0,0,1,2,radicalismo,ALIANZA FRENTE CÍVICO FEDERAL UCR-CONFE
+AR-M,Mendoza,2012,senado,3,0,0,0,0,0,1,2,radicalismo,ALIANZA FRENTE CÍVICO FEDERAL UCR-CONFE
+AR-M,Mendoza,2013,senado,3,0,0,0,0,0,1,2,radicalismo,ALIANZA FRENTE CÍVICO FEDERAL UCR-CONFE
+AR-M,Mendoza,2014,senado,3,0,0,0,0,0,1,2,radicalismo,ALIANZA FRENTE CÍVICO FEDERAL UCR-CONFE
+AR-M,Mendoza,2015,senado,3,0,0,0,0,0,1,2,radicalismo,ALIANZA FRENTE CÍVICO FEDERAL UCR-CONFE
+AR-M,Mendoza,2016,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,ALIANZA CAMBIEMOS
+AR-M,Mendoza,2017,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,ALIANZA CAMBIEMOS
+AR-M,Mendoza,2018,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,ALIANZA CAMBIEMOS
+AR-M,Mendoza,2019,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,ALIANZA CAMBIEMOS
+AR-M,Mendoza,2020,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,ALIANZA CAMBIEMOS
+AR-M,Mendoza,2021,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,ALIANZA CAMBIEMOS
+AR-M,Mendoza,2022,senado,3,0,0,0,0,0,1,2,radicalismo,FRENTE CAMBIA MENDOZA
+AR-M,Mendoza,2023,senado,3,0,0,0,0,0,1,2,radicalismo,FRENTE CAMBIA MENDOZA
+AR-M,Mendoza,2024,senado,3,0,0,0,0,0,1,2,radicalismo,FRENTE CAMBIA MENDOZA
+AR-M,Mendoza,2025,senado,3,0,0,0,0,0,1,2,radicalismo,FRENTE CAMBIA MENDOZA
+AR-M,Mendoza,2026,senado,3,0,0,0,0,0,1,2,radicalismo,FRENTE CAMBIA MENDOZA
+AR-N,Misiones,1984,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-N,Misiones,1985,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-N,Misiones,1986,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-N,Misiones,1987,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-N,Misiones,1988,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-N,Misiones,1989,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-N,Misiones,1990,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-N,Misiones,1991,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-N,Misiones,1992,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-N,Misiones,1993,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-N,Misiones,1994,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-N,Misiones,1995,senado,2,0,0,0,0,0,1,1,empate,JUSTICIALISTA
+AR-N,Misiones,1996,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-N,Misiones,1997,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-N,Misiones,1998,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-N,Misiones,1999,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-N,Misiones,2000,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-N,Misiones,2001,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-N,Misiones,2002,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-N,Misiones,2003,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-N,Misiones,2004,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-N,Misiones,2005,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-N,Misiones,2006,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE JUSTICIALISTA para la  VICTORIA
+AR-N,Misiones,2007,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE JUSTICIALISTA para la  VICTORIA
+AR-N,Misiones,2008,senado,3,0,0,0,0,2,1,0,partido provincial,FRENTE RENOVADOR DE LA CONCORDIA
+AR-N,Misiones,2009,senado,3,0,0,0,0,2,1,0,partido provincial,FRENTE RENOVADOR DE LA CONCORDIA
+AR-N,Misiones,2010,senado,3,0,0,0,0,2,1,0,partido provincial,FRENTE RENOVADOR DE LA CONCORDIA
+AR-N,Misiones,2011,senado,3,0,0,0,0,2,1,0,partido provincial,FRENTE RENOVADOR DE LA CONCORDIA
+AR-N,Misiones,2012,senado,3,0,0,0,0,2,1,0,partido provincial,FRENTE RENOVADOR DE LA CONCORDIA
+AR-N,Misiones,2013,senado,3,0,0,0,0,2,1,0,partido provincial,FRENTE RENOVADOR DE LA CONCORDIA
+AR-N,Misiones,2014,senado,3,0,0,0,0,2,1,0,partido provincial,FRENTE RENOVADOR DE LA CONCORDIA
+AR-N,Misiones,2015,senado,3,0,0,0,0,2,1,0,partido provincial,FRENTE RENOVADOR DE LA CONCORDIA
+AR-N,Misiones,2016,senado,3,0,0,0,0,2,1,0,partido provincial,FRENTE RENOVADOR DE LA CONCORDIA
+AR-N,Misiones,2017,senado,3,0,0,0,0,2,1,0,partido provincial,FRENTE RENOVADOR DE LA CONCORDIA
+AR-N,Misiones,2018,senado,3,0,1,0,0,2,0,0,partido provincial,FRENTE RENOVADOR DE LA CONCORDIA
+AR-N,Misiones,2019,senado,3,0,1,0,0,2,0,0,partido provincial,FRENTE RENOVADOR DE LA CONCORDIA
+AR-N,Misiones,2020,senado,3,0,1,0,0,2,0,0,partido provincial,FRENTE RENOVADOR DE LA CONCORDIA
+AR-N,Misiones,2021,senado,3,0,1,0,0,2,0,0,partido provincial,FRENTE RENOVADOR DE LA CONCORDIA
+AR-N,Misiones,2022,senado,3,0,1,0,0,2,0,0,partido provincial,FRENTE RENOVADOR DE LA CONCORDIA
+AR-N,Misiones,2023,senado,3,0,1,0,0,2,0,0,partido provincial,FRENTE RENOVADOR DE LA CONCORDIA
+AR-N,Misiones,2024,senado,3,0,1,0,0,2,0,0,partido provincial,FRENTE RENOVADOR DE LA CONCORDIA-INNOVACIÓN FEDERAL
+AR-N,Misiones,2025,senado,3,0,1,0,0,2,0,0,partido provincial,FRENTE RENOVADOR DE LA CONCORDIA-INNOVACIÓN FEDERAL
+AR-N,Misiones,2026,senado,3,0,1,0,0,2,0,0,partido provincial,FRENTE RENOVADOR DE LA CONCORDIA-INNOVACIÓN FEDERAL
+AR-Q,Neuquén,1984,senado,2,0,0,0,0,2,0,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,1985,senado,2,0,0,0,0,2,0,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,1986,senado,2,0,0,0,0,2,0,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,1987,senado,2,0,0,0,0,2,0,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,1988,senado,2,0,0,0,0,2,0,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,1989,senado,2,0,0,0,0,2,0,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,1990,senado,2,0,0,0,0,2,0,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,1991,senado,2,0,0,0,0,2,0,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,1992,senado,2,0,0,0,0,2,0,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,1993,senado,1,0,0,0,0,1,0,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,1994,senado,2,0,0,0,0,2,0,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,1995,senado,2,0,0,0,0,2,0,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,1996,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,1997,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,1998,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,1999,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,2000,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,2001,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,2002,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,2003,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,2004,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,2005,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,2006,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,2007,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,2008,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-Q,Neuquén,2009,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-Q,Neuquén,2010,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-Q,Neuquén,2011,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-Q,Neuquén,2012,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-Q,Neuquén,2013,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-Q,Neuquén,2014,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,2015,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,2016,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,2017,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,2018,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,2019,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR NEUQUINO
+AR-Q,Neuquén,2020,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-Q,Neuquén,2021,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-Q,Neuquén,2022,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-Q,Neuquén,2023,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-Q,Neuquén,2024,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-Q,Neuquén,2025,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-Q,Neuquén,2026,senado,3,2,0,0,0,1,0,0,La Libertad Avanza,ALIANZA LA LIBERTAD AVANZA
+AR-R,Río Negro,1984,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,1985,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,1986,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,1987,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,1988,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,1989,senado,2,0,0,0,0,0,0,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,1990,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,1991,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,1992,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,1993,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,1994,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,1995,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,1996,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,1997,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,1998,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,1999,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,2000,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,2001,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,2002,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,2003,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,2004,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,2005,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,2006,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,2007,senado,3,0,0,0,0,0,1,2,radicalismo,UNIÓN CÍVICA RADICAL
+AR-R,Río Negro,2008,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-R,Río Negro,2009,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-R,Río Negro,2010,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-R,Río Negro,2011,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-R,Río Negro,2012,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-R,Río Negro,2013,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-R,Río Negro,2014,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-R,Río Negro,2015,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-R,Río Negro,2016,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-R,Río Negro,2017,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-R,Río Negro,2018,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-R,Río Negro,2019,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-R,Río Negro,2020,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE DE TODOS
+AR-R,Río Negro,2021,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE DE TODOS
+AR-R,Río Negro,2022,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE DE TODOS
+AR-R,Río Negro,2023,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE DE TODOS
+AR-R,Río Negro,2024,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE DE TODOS
+AR-R,Río Negro,2025,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE DE TODOS
+AR-R,Río Negro,2026,senado,3,1,0,0,0,0,2,0,peronismo,FUERZA PATRIA
+AR-A,Salta,1984,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,1985,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,1986,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,1987,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,1988,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,1989,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,1990,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,1991,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,1992,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,1993,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,1994,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,1995,senado,1,0,0,0,0,0,1,0,peronismo,JUSTICIALISTA
+AR-A,Salta,1996,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,1997,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,1998,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,1999,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,2000,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,2001,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,2002,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,2003,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,2004,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,2005,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,2006,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,2007,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-A,Salta,2008,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA PARTIDO JUSTICIALISTA - FRENTE JUSTICIALISTA PARA LA VICTORIA
+AR-A,Salta,2009,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA PARTIDO JUSTICIALISTA - FRENTE JUSTICIALISTA PARA LA VICTORIA
+AR-A,Salta,2010,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA PARTIDO JUSTICIALISTA - FRENTE JUSTICIALISTA PARA LA VICTORIA
+AR-A,Salta,2011,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA PARTIDO JUSTICIALISTA - FRENTE JUSTICIALISTA PARA LA VICTORIA
+AR-A,Salta,2012,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA PARTIDO JUSTICIALISTA - FRENTE JUSTICIALISTA PARA LA VICTORIA
+AR-A,Salta,2013,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA PARTIDO JUSTICIALISTA - FRENTE JUSTICIALISTA PARA LA VICTORIA
+AR-A,Salta,2014,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-A,Salta,2015,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-A,Salta,2016,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-A,Salta,2017,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-A,Salta,2018,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-A,Salta,2019,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-A,Salta,2020,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-A,Salta,2021,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-A,Salta,2022,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-A,Salta,2023,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-A,Salta,2024,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-A,Salta,2025,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-A,Salta,2026,senado,3,2,0,0,0,1,0,0,La Libertad Avanza,ALIANZA LA LIBERTAD AVANZA
+AR-J,San Juan,1984,senado,2,0,0,0,0,2,0,0,partido provincial,BLOQUISTA DE SAN JUAN
+AR-J,San Juan,1985,senado,2,0,0,0,0,2,0,0,partido provincial,BLOQUISTA DE SAN JUAN
+AR-J,San Juan,1986,senado,2,0,0,0,0,2,0,0,partido provincial,BLOQUISTA DE SAN JUAN
+AR-J,San Juan,1987,senado,2,0,0,0,0,2,0,0,partido provincial,BLOQUISTA DE SAN JUAN
+AR-J,San Juan,1988,senado,2,0,0,0,0,2,0,0,partido provincial,BLOQUISTA DE SAN JUAN
+AR-J,San Juan,1989,senado,2,0,0,0,0,2,0,0,partido provincial,BLOQUISTA DE SAN JUAN
+AR-J,San Juan,1990,senado,2,0,0,0,0,2,0,0,partido provincial,BLOQUISTA DE SAN JUAN
+AR-J,San Juan,1991,senado,2,0,0,0,0,2,0,0,partido provincial,BLOQUISTA DE SAN JUAN
+AR-J,San Juan,1992,senado,2,0,0,0,0,2,0,0,partido provincial,BLOQUISTA DE SAN JUAN
+AR-J,San Juan,1993,senado,2,0,0,0,0,2,0,0,partido provincial,BLOQUISTA DE SAN JUAN
+AR-J,San Juan,1994,senado,2,0,0,0,0,2,0,0,partido provincial,BLOQUISTA DE SAN JUAN
+AR-J,San Juan,1995,senado,2,0,0,0,0,2,0,0,partido provincial,BLOQUISTA DE SAN JUAN
+AR-J,San Juan,1996,senado,3,0,0,0,0,2,1,0,partido provincial,BLOQUISTA DE SAN JUAN
+AR-J,San Juan,1997,senado,3,0,0,0,0,2,1,0,partido provincial,BLOQUISTA DE SAN JUAN
+AR-J,San Juan,1998,senado,3,0,0,0,0,2,1,0,partido provincial,BLOQUISTA DE SAN JUAN
+AR-J,San Juan,1999,senado,3,0,0,0,0,2,1,0,partido provincial,BLOQUISTA DE SAN JUAN
+AR-J,San Juan,2000,senado,2,0,0,0,0,1,1,0,empate,BLOQUISTA DE SAN JUAN
+AR-J,San Juan,2001,senado,3,0,0,0,0,2,1,0,partido provincial,BLOQUISTA DE SAN JUAN
+AR-J,San Juan,2002,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-J,San Juan,2003,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-J,San Juan,2004,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-J,San Juan,2005,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-J,San Juan,2006,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-J,San Juan,2007,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-J,San Juan,2008,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-J,San Juan,2009,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-J,San Juan,2010,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-J,San Juan,2011,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-J,San Juan,2012,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-J,San Juan,2013,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-J,San Juan,2014,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-J,San Juan,2015,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-J,San Juan,2016,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-J,San Juan,2017,senado,3,0,0,0,0,1,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-J,San Juan,2018,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE TODOS
+AR-J,San Juan,2019,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE TODOS
+AR-J,San Juan,2020,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE TODOS
+AR-J,San Juan,2021,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE TODOS
+AR-J,San Juan,2022,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE TODOS
+AR-J,San Juan,2023,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE TODOS
+AR-J,San Juan,2024,senado,3,1,0,0,0,0,2,0,peronismo,ALIANZA UNIÓN POR LA PATRIA
+AR-J,San Juan,2025,senado,3,1,0,0,0,0,2,0,peronismo,ALIANZA UNIÓN POR LA PATRIA
+AR-J,San Juan,2026,senado,3,1,0,0,0,0,2,0,peronismo,ALIANZA UNIÓN POR LA PATRIA
+AR-D,San Luis,1984,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-D,San Luis,1985,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-D,San Luis,1986,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-D,San Luis,1987,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-D,San Luis,1988,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-D,San Luis,1989,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-D,San Luis,1990,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-D,San Luis,1991,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-D,San Luis,1992,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-D,San Luis,1993,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-D,San Luis,1994,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-D,San Luis,1995,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-D,San Luis,1996,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-D,San Luis,1997,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-D,San Luis,1998,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-D,San Luis,1999,senado,2,0,0,0,0,0,1,1,empate,UNIÓN CÍVICA RADICAL
+AR-D,San Luis,2000,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-D,San Luis,2001,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-D,San Luis,2002,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-D,San Luis,2003,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-D,San Luis,2004,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-D,San Luis,2005,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-D,San Luis,2006,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA FRENTE JUSTICIALISTA
+AR-D,San Luis,2007,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA FRENTE JUSTICIALISTA
+AR-D,San Luis,2008,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA FRENTE JUSTICIALISTA
+AR-D,San Luis,2009,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA FRENTE JUSTICIALISTA
+AR-D,San Luis,2010,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA FRENTE JUSTICIALISTA
+AR-D,San Luis,2011,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA FRENTE JUSTICIALISTA
+AR-D,San Luis,2012,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA COMPROMISO FEDERAL
+AR-D,San Luis,2013,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA COMPROMISO FEDERAL
+AR-D,San Luis,2014,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA COMPROMISO FEDERAL
+AR-D,San Luis,2015,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA COMPROMISO FEDERAL
+AR-D,San Luis,2016,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA COMPROMISO FEDERAL
+AR-D,San Luis,2017,senado,3,0,0,0,0,0,3,0,peronismo,ALIANZA COMPROMISO FEDERAL
+AR-D,San Luis,2018,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE UNIDAD JUSTICIALISTA SAN LUIS
+AR-D,San Luis,2019,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE UNIDAD JUSTICIALISTA SAN LUIS
+AR-D,San Luis,2020,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE UNIDAD JUSTICIALISTA SAN LUIS
+AR-D,San Luis,2021,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE UNIDAD JUSTICIALISTA SAN LUIS
+AR-D,San Luis,2022,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE UNIDAD JUSTICIALISTA SAN LUIS
+AR-D,San Luis,2023,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE UNIDAD JUSTICIALISTA SAN LUIS
+AR-D,San Luis,2024,senado,3,2,0,0,0,0,1,0,La Libertad Avanza,ALIANZA LA LIBERTAD AVANZA
+AR-D,San Luis,2025,senado,3,2,0,0,0,0,1,0,La Libertad Avanza,ALIANZA LA LIBERTAD AVANZA
+AR-D,San Luis,2026,senado,3,2,0,0,0,0,1,0,La Libertad Avanza,ALIANZA LA LIBERTAD AVANZA
+AR-Z,Santa Cruz,1984,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,1985,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,1986,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,1987,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,1988,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,1989,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,1990,senado,1,0,0,0,0,0,1,0,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,1991,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,1992,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,1993,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,1994,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,1995,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,1996,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,1997,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,1998,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,1999,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,2000,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,2001,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,2002,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,2003,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,2004,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,2005,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-Z,Santa Cruz,2006,senado,3,0,0,0,0,0,2,1,peronismo,FRENTE PARA LA VICTORIA
+AR-Z,Santa Cruz,2007,senado,3,0,0,0,0,0,2,1,peronismo,FRENTE PARA LA VICTORIA
+AR-Z,Santa Cruz,2008,senado,3,0,0,0,0,0,2,1,peronismo,FRENTE PARA LA VICTORIA
+AR-Z,Santa Cruz,2009,senado,3,0,0,0,0,0,2,1,peronismo,FRENTE PARA LA VICTORIA
+AR-Z,Santa Cruz,2010,senado,3,0,0,0,0,0,2,1,peronismo,FRENTE PARA LA VICTORIA
+AR-Z,Santa Cruz,2011,senado,3,0,0,0,0,0,2,1,peronismo,FRENTE PARA LA VICTORIA
+AR-Z,Santa Cruz,2012,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-Z,Santa Cruz,2013,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-Z,Santa Cruz,2014,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-Z,Santa Cruz,2015,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-Z,Santa Cruz,2016,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-Z,Santa Cruz,2017,senado,3,0,0,0,0,0,2,1,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-Z,Santa Cruz,2018,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,UNIÓN PARA VIVIR MEJOR CAMBIEMOS
+AR-Z,Santa Cruz,2019,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,UNIÓN PARA VIVIR MEJOR CAMBIEMOS
+AR-Z,Santa Cruz,2020,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,UNIÓN PARA VIVIR MEJOR CAMBIEMOS
+AR-Z,Santa Cruz,2021,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,UNIÓN PARA VIVIR MEJOR CAMBIEMOS
+AR-Z,Santa Cruz,2022,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,UNIÓN PARA VIVIR MEJOR CAMBIEMOS
+AR-Z,Santa Cruz,2023,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,UNIÓN PARA VIVIR MEJOR CAMBIEMOS
+AR-Z,Santa Cruz,2024,senado,3,0,0,0,0,2,1,0,partido provincial,ALIANZA POR SANTA CRUZ
+AR-Z,Santa Cruz,2025,senado,3,0,0,0,0,2,1,0,partido provincial,ALIANZA POR SANTA CRUZ
+AR-Z,Santa Cruz,2026,senado,3,0,0,0,0,2,1,0,partido provincial,ALIANZA POR SANTA CRUZ
+AR-S,Santa Fe,1984,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,1985,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,1986,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,1987,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,1988,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,1989,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,1990,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,1991,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,1992,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,1993,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,1994,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,1995,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,1996,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,1997,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,1998,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,1999,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,2000,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,2001,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,2002,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,2003,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,2004,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,2005,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,2006,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,2007,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,2008,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,2009,senado,3,0,0,0,1,0,2,0,peronismo,JUSTICIALISTA
+AR-S,Santa Fe,2010,senado,3,0,0,0,3,0,0,0,otros,ALIANZA SANTA FE FEDERAL
+AR-S,Santa Fe,2011,senado,3,0,0,0,3,0,0,0,otros,ALIANZA SANTA FE FEDERAL
+AR-S,Santa Fe,2012,senado,3,0,0,0,3,0,0,0,otros,ALIANZA SANTA FE FEDERAL
+AR-S,Santa Fe,2013,senado,3,0,0,0,3,0,0,0,otros,ALIANZA SANTA FE FEDERAL
+AR-S,Santa Fe,2014,senado,3,0,0,0,3,0,0,0,otros,ALIANZA SANTA FE FEDERAL
+AR-S,Santa Fe,2015,senado,3,0,0,0,3,0,0,0,otros,ALIANZA SANTA FE FEDERAL
+AR-S,Santa Fe,2016,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-S,Santa Fe,2017,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-S,Santa Fe,2018,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-S,Santa Fe,2019,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-S,Santa Fe,2020,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-S,Santa Fe,2021,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-S,Santa Fe,2022,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-S,Santa Fe,2023,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-S,Santa Fe,2024,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-S,Santa Fe,2025,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-S,Santa Fe,2026,senado,3,0,2,0,0,0,1,0,PRO / Juntos por el Cambio,JUNTOS POR EL CAMBIO
+AR-G,Santiago del Estero,1984,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,1985,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,1986,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,1987,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,1988,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,1989,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,1990,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,1991,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,1992,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,1993,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,1994,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,1995,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,1996,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,1997,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,1998,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,1999,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,2000,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,2001,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,2002,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,2003,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,2004,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,2005,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,2006,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,2007,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-G,Santiago del Estero,2008,senado,3,0,0,0,1,2,0,0,partido provincial,FRENTE CÍVICO POR SANTIAGO
+AR-G,Santiago del Estero,2009,senado,3,0,0,0,1,2,0,0,partido provincial,FRENTE CÍVICO POR SANTIAGO
+AR-G,Santiago del Estero,2010,senado,3,0,0,0,1,2,0,0,partido provincial,FRENTE CÍVICO POR SANTIAGO
+AR-G,Santiago del Estero,2011,senado,3,0,0,0,1,2,0,0,partido provincial,FRENTE CÍVICO POR SANTIAGO
+AR-G,Santiago del Estero,2012,senado,3,0,0,0,1,2,0,0,partido provincial,FRENTE CÍVICO POR SANTIAGO
+AR-G,Santiago del Estero,2013,senado,3,0,0,0,1,2,0,0,partido provincial,FRENTE CÍVICO POR SANTIAGO
+AR-G,Santiago del Estero,2014,senado,3,0,0,0,1,2,0,0,partido provincial,FRENTE CÍVICO POR SANTIAGO
+AR-G,Santiago del Estero,2015,senado,3,0,0,0,1,2,0,0,partido provincial,FRENTE CÍVICO POR SANTIAGO
+AR-G,Santiago del Estero,2016,senado,3,0,0,0,1,2,0,0,partido provincial,FRENTE CÍVICO POR SANTIAGO
+AR-G,Santiago del Estero,2017,senado,3,0,0,0,1,2,0,0,partido provincial,FRENTE CÍVICO POR SANTIAGO
+AR-G,Santiago del Estero,2018,senado,3,0,0,0,2,1,0,0,otros,ALIANZA FRENTE CÍVICO
+AR-G,Santiago del Estero,2019,senado,3,0,0,0,2,1,0,0,otros,ALIANZA FRENTE CÍVICO
+AR-G,Santiago del Estero,2020,senado,3,0,0,0,1,1,1,0,empate,FRENTE CÍVICO POR SANTIAGO
+AR-G,Santiago del Estero,2021,senado,3,0,0,0,1,1,1,0,empate,FRENTE CÍVICO POR SANTIAGO
+AR-G,Santiago del Estero,2022,senado,3,0,0,0,1,1,1,0,empate,FRENTE CÍVICO POR SANTIAGO
+AR-G,Santiago del Estero,2023,senado,3,0,0,0,1,1,1,0,empate,FRENTE CÍVICO POR SANTIAGO
+AR-G,Santiago del Estero,2024,senado,3,0,0,0,1,1,1,0,empate,FRENTE CÍVICO POR SANTIAGO
+AR-G,Santiago del Estero,2025,senado,3,0,0,0,1,1,1,0,empate,FRENTE CÍVICO POR SANTIAGO
+AR-G,Santiago del Estero,2026,senado,3,0,0,0,0,2,1,0,partido provincial,FRENTE CÍVICO POR SANTIAGO
+AR-V,Tierra del Fuego,1992,senado,2,0,0,0,0,1,1,0,empate,MOVIMIENTO POPULAR FUEGUINO
+AR-V,Tierra del Fuego,1993,senado,2,0,0,0,0,1,1,0,empate,MOVIMIENTO POPULAR FUEGUINO
+AR-V,Tierra del Fuego,1994,senado,2,0,0,0,0,1,1,0,empate,MOVIMIENTO POPULAR FUEGUINO
+AR-V,Tierra del Fuego,1995,senado,2,0,0,0,0,1,1,0,empate,MOVIMIENTO POPULAR FUEGUINO
+AR-V,Tierra del Fuego,1996,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR FUEGUINO
+AR-V,Tierra del Fuego,1997,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR FUEGUINO
+AR-V,Tierra del Fuego,1998,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR FUEGUINO
+AR-V,Tierra del Fuego,1999,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR FUEGUINO
+AR-V,Tierra del Fuego,2000,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR FUEGUINO
+AR-V,Tierra del Fuego,2001,senado,3,0,0,0,0,2,1,0,partido provincial,MOVIMIENTO POPULAR FUEGUINO
+AR-V,Tierra del Fuego,2002,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-V,Tierra del Fuego,2003,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-V,Tierra del Fuego,2004,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-V,Tierra del Fuego,2005,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-V,Tierra del Fuego,2006,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-V,Tierra del Fuego,2007,senado,3,0,0,0,0,0,2,1,peronismo,JUSTICIALISTA
+AR-V,Tierra del Fuego,2008,senado,3,0,0,0,3,0,0,0,otros,AFIRMACIÓN PARA UNA REPÚBLICA IGUALITARIA
+AR-V,Tierra del Fuego,2009,senado,3,0,0,0,3,0,0,0,otros,AFIRMACIÓN PARA UNA REPÚBLICA IGUALITARIA
+AR-V,Tierra del Fuego,2010,senado,3,0,0,0,3,0,0,0,otros,AFIRMACIÓN PARA UNA REPÚBLICA IGUALITARIA
+AR-V,Tierra del Fuego,2011,senado,3,0,0,0,3,0,0,0,otros,AFIRMACIÓN PARA UNA REPÚBLICA IGUALITARIA
+AR-V,Tierra del Fuego,2012,senado,3,0,0,0,3,0,0,0,otros,AFIRMACIÓN PARA UNA REPÚBLICA IGUALITARIA
+AR-V,Tierra del Fuego,2013,senado,3,0,0,0,3,0,0,0,otros,AFIRMACIÓN PARA UNA REPÚBLICA IGUALITARIA
+AR-V,Tierra del Fuego,2014,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-V,Tierra del Fuego,2015,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-V,Tierra del Fuego,2016,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-V,Tierra del Fuego,2017,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-V,Tierra del Fuego,2018,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-V,Tierra del Fuego,2019,senado,3,0,0,0,0,1,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-V,Tierra del Fuego,2020,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-V,Tierra del Fuego,2021,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-V,Tierra del Fuego,2022,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-V,Tierra del Fuego,2023,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-V,Tierra del Fuego,2024,senado,3,0,1,0,1,0,1,0,empate,JUNTOS POR EL CAMBIO TIERRA DEL FUEGO
+AR-V,Tierra del Fuego,2025,senado,3,0,1,0,1,0,1,0,empate,JUNTOS POR EL CAMBIO TIERRA DEL FUEGO
+AR-V,Tierra del Fuego,2026,senado,3,2,0,0,0,0,1,0,La Libertad Avanza,ALIANZA LA LIBERTAD AVANZA
+AR-T,Tucumán,1984,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,1985,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,1986,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,1987,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,1988,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,1989,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,1990,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,1991,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,1992,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,1993,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,1994,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,1995,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,1996,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,1997,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,1998,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,1999,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,2000,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,2001,senado,2,0,0,0,0,0,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,2002,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,2003,senado,3,0,0,0,0,1,2,0,peronismo,JUSTICIALISTA
+AR-T,Tucumán,2004,senado,3,0,0,0,0,2,1,0,partido provincial,FUERZA REPUBLICANA
+AR-T,Tucumán,2005,senado,3,0,0,0,0,2,1,0,partido provincial,FUERZA REPUBLICANA
+AR-T,Tucumán,2006,senado,3,0,0,0,0,2,1,0,partido provincial,FUERZA REPUBLICANA
+AR-T,Tucumán,2007,senado,3,0,0,0,0,2,1,0,partido provincial,FUERZA REPUBLICANA
+AR-T,Tucumán,2008,senado,3,0,0,0,0,2,1,0,partido provincial,FUERZA REPUBLICANA
+AR-T,Tucumán,2009,senado,3,0,0,0,0,2,1,0,partido provincial,FUERZA REPUBLICANA
+AR-T,Tucumán,2010,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-T,Tucumán,2011,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-T,Tucumán,2012,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-T,Tucumán,2013,senado,3,0,0,0,1,0,2,0,peronismo,FRENTE PARA LA VICTORIA
+AR-T,Tucumán,2014,senado,3,0,0,0,0,0,2,1,peronismo,FRENTE PARA LA VICTORIA
+AR-T,Tucumán,2015,senado,3,0,0,0,0,0,2,1,peronismo,FRENTE PARA LA VICTORIA
+AR-T,Tucumán,2016,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-T,Tucumán,2017,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-T,Tucumán,2018,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-T,Tucumán,2019,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-T,Tucumán,2020,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-T,Tucumán,2021,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE PARA LA VICTORIA
+AR-T,Tucumán,2022,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-T,Tucumán,2023,senado,3,0,1,0,0,0,2,0,peronismo,FRENTE DE TODOS
+AR-T,Tucumán,2024,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE DE TODOS
+AR-T,Tucumán,2025,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE DE TODOS
+AR-T,Tucumán,2026,senado,3,0,1,0,0,0,2,0,peronismo,ALIANZA FRENTE DE TODOS

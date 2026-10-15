@@ -1,0 +1,252 @@
+pais_id,iso3,iso2,iso_numerico,codigo_banco_mundial,nombre_es,nombre_en,nombre_oficial_en,nombre_es_banco_mundial,region_geografica_id,region_bm_codigo,nivel_ingreso_codigo,capital,latitud_capital,longitud_capital,tipo_entidad,es_miembro_onu,pais_soberano_id,en_panel_bm
+533,ABW,AW,533,ABW,Aruba,Aruba,Aruba,Aruba,29,LCN,HIC,Oranjestad,12.5167,-70.0167,pais_constituyente,0,528,1
+4,AFG,AF,004,AFG,Afganistán,Afghanistan,Islamic Republic of Afghanistan,Afganistán,34,MEA,LIC,Kabul,34.5228,69.1761,estado_miembro_onu,1,,1
+24,AGO,AO,024,AGO,Angola,Angola,Republic of Angola,Angola,17,SSF,LMC,Luanda,-8.81155,13.242,estado_miembro_onu,1,,1
+660,AIA,AI,660,,Anguila,Anguilla,Anguilla,,29,,,,,,territorio_dependiente,0,826,0
+248,ALA,AX,248,,Åland,Åland Islands,Åland Islands,,154,,,,,,region_autonoma,0,246,0
+8,ALB,AL,008,ALB,Albania,Albania,Republic of Albania,Albania,39,ECS,UMC,Tirane,41.3317,19.8172,estado_miembro_onu,1,,1
+20,AND,AD,020,AND,Andorra,Andorra,Principality of Andorra,Andorra,39,ECS,HIC,Andorra la Vella,42.5075,1.5218,estado_miembro_onu,1,,1
+784,ARE,AE,784,ARE,Emiratos Árabes Unidos,United Arab Emirates,United Arab Emirates,Emiratos Árabes Unidos,145,MEA,HIC,Abu Dhabi,24.4764,54.3705,estado_miembro_onu,1,,1
+32,ARG,AR,032,ARG,Argentina,Argentina,Argentine Republic,Argentina,5,LCN,UMC,Buenos Aires,-34.6118,-58.4173,estado_miembro_onu,1,,1
+51,ARM,AM,051,ARM,Armenia,Armenia,Republic of Armenia,Armenia,145,ECS,UMC,Yerevan,40.1596,44.509,estado_miembro_onu,1,,1
+16,ASM,AS,016,ASM,Samoa Americana,American Samoa,American Samoa,Samoa Americana,61,EAS,HIC,Pago Pago,-14.2846,-170.691,territorio_dependiente,0,840,1
+10,ATA,AQ,010,,Antártida,Antarctica,Antarctica,,,,,,,,territorio_internacional,0,,0
+260,ATF,TF,260,,Tierras Australes y Antárticas Francesas,French Southern Territories,French Southern Territories,,14,,,,,,territorio_dependiente,0,250,0
+28,ATG,AG,028,ATG,Antigua y Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua y Barbuda,29,LCN,HIC,Saint John's,17.1175,-61.8456,estado_miembro_onu,1,,1
+36,AUS,AU,036,AUS,Australia,Australia,Australia,Australia,53,EAS,HIC,Canberra,-35.282,149.129,estado_miembro_onu,1,,1
+40,AUT,AT,040,AUT,Austria,Austria,Republic of Austria,Austria,155,ECS,HIC,Vienna,48.2201,16.3798,estado_miembro_onu,1,,1
+31,AZE,AZ,031,AZE,Azerbaiyán,Azerbaijan,Republic of Azerbaijan,Azerbaiyán,145,ECS,UMC,Baku,40.3834,49.8932,estado_miembro_onu,1,,1
+108,BDI,BI,108,BDI,Burundi,Burundi,Republic of Burundi,Burundi,14,SSF,LIC,Bujumbura,-3.3784,29.3639,estado_miembro_onu,1,,1
+56,BEL,BE,056,BEL,Bélgica,Belgium,Kingdom of Belgium,Bélgica,155,ECS,HIC,Brussels,50.8371,4.36761,estado_miembro_onu,1,,1
+204,BEN,BJ,204,BEN,Benín,Benin,Republic of Benin,Benin,11,SSF,LMC,Porto-Novo,6.4779,2.6323,estado_miembro_onu,1,,1
+535,BES,BQ,535,,Caribe neerlandés,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",,29,,,,,,municipio_especial,0,528,0
+854,BFA,BF,854,BFA,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,11,SSF,LIC,Ouagadougou,12.3605,-1.53395,estado_miembro_onu,1,,1
+50,BGD,BD,050,BGD,Bangladés,Bangladesh,People's Republic of Bangladesh,Bangladesh,34,SAS,LMC,Dhaka,23.7055,90.4113,estado_miembro_onu,1,,1
+100,BGR,BG,100,BGR,Bulgaria,Bulgaria,Republic of Bulgaria,Bulgaria,151,ECS,HIC,Sofia,42.7105,23.3238,estado_miembro_onu,1,,1
+48,BHR,BH,048,BHR,Baréin,Bahrain,Kingdom of Bahrain,Bahrein,145,MEA,HIC,Manama,26.1921,50.5354,estado_miembro_onu,1,,1
+44,BHS,BS,044,BHS,Bahamas,"Bahamas, The",Commonwealth of the Bahamas,Bahamas,29,LCN,HIC,Nassau,25.0661,-77.339,estado_miembro_onu,1,,1
+70,BIH,BA,070,BIH,Bosnia y Herzegovina,Bosnia and Herzegovina,Republic of Bosnia and Herzegovina,Bosnia y Herzegovina,39,ECS,UMC,Sarajevo,43.8607,18.4214,estado_miembro_onu,1,,1
+652,BLM,BL,652,,San Bartolomé,Saint Barthélemy,Saint Barthélemy,,29,,,,,,territorio_dependiente,0,250,0
+112,BLR,BY,112,BLR,Bielorrusia,Belarus,Republic of Belarus,Belarús,151,ECS,UMC,Minsk,53.9678,27.5766,estado_miembro_onu,1,,1
+84,BLZ,BZ,084,BLZ,Belice,Belize,Belize,Belice,13,LCN,UMC,Belmopan,17.2534,-88.7713,estado_miembro_onu,1,,1
+60,BMU,BM,060,BMU,Bermudas,Bermuda,Bermuda,Bermudas,21,NAC,HIC,Hamilton,32.3293,-64.706,territorio_dependiente,0,826,1
+68,BOL,BO,068,BOL,Bolivia,Bolivia,Plurinational State of Bolivia,Bolivia,5,LCN,LMC,La Paz,-13.9908,-66.1936,estado_miembro_onu,1,,1
+76,BRA,BR,076,BRA,Brasil,Brazil,Federative Republic of Brazil,Brasil,5,LCN,UMC,Brasilia,-15.7801,-47.9292,estado_miembro_onu,1,,1
+52,BRB,BB,052,BRB,Barbados,Barbados,Barbados,Barbados,29,LCN,HIC,Bridgetown,13.0935,-59.6105,estado_miembro_onu,1,,1
+96,BRN,BN,096,BRN,Brunéi,Brunei Darussalam,Brunei Darussalam,Brunei Darussalam,35,EAS,HIC,Bandar Seri Begawan,4.94199,114.946,estado_miembro_onu,1,,1
+64,BTN,BT,064,BTN,Bután,Bhutan,Kingdom of Bhutan,Bhután,34,SAS,LMC,Thimphu,27.5768,89.6177,estado_miembro_onu,1,,1
+74,BVT,BV,074,,Isla Bouvet,Bouvet Island,Bouvet Island,,5,,,,,,territorio_dependiente,0,578,0
+72,BWA,BW,072,BWA,Botsuana,Botswana,Republic of Botswana,Botswana,18,SSF,UMC,Gaborone,-24.6544,25.9201,estado_miembro_onu,1,,1
+140,CAF,CF,140,CAF,República Centroafricana,Central African Republic,Central African Republic,República Centroafricana,17,SSF,LIC,Bangui,5.63056,21.6407,estado_miembro_onu,1,,1
+124,CAN,CA,124,CAN,Canadá,Canada,Canada,Canadá,21,NAC,HIC,Ottawa,45.4215,-75.6919,estado_miembro_onu,1,,1
+166,CCK,CC,166,,Islas Cocos,Cocos (Keeling) Islands,Cocos (Keeling) Islands,,53,,,,,,territorio_dependiente,0,36,0
+756,CHE,CH,756,CHE,Suiza,Switzerland,Swiss Confederation,Suiza,155,ECS,HIC,Bern,46.948,7.44821,estado_miembro_onu,1,,1
+902,CHI,JG,,CHI,Islas del Canal,Channel Islands,Channel Islands,Islas del Canal,154,ECS,HIC,,,,agrupacion_estadistica,0,826,1
+152,CHL,CL,152,CHL,Chile,Chile,Republic of Chile,Chile,5,LCN,HIC,Santiago,-33.475,-70.6475,estado_miembro_onu,1,,1
+156,CHN,CN,156,CHN,China,China,People's Republic of China,China,30,EAS,UMC,Beijing,40.0495,116.286,estado_miembro_onu,1,,1
+384,CIV,CI,384,CIV,Costa de Marfil,Cote d'Ivoire,Republic of Côte d'Ivoire,Côte d'Ivoire,11,SSF,LMC,Yamoussoukro,5.332,-4.0305,estado_miembro_onu,1,,1
+120,CMR,CM,120,CMR,Camerún,Cameroon,Republic of Cameroon,Camerún,17,SSF,LMC,Yaounde,3.8721,11.5174,estado_miembro_onu,1,,1
+180,COD,CD,180,COD,República Democrática del Congo,"Congo, Dem. Rep.","Congo, The Democratic Republic of the","Congo, República Democrática del",17,SSF,LIC,Kinshasa,-4.325,15.3222,estado_miembro_onu,1,,1
+178,COG,CG,178,COG,Congo,"Congo, Rep.",Republic of the Congo,"Congo, República del",17,SSF,LMC,Brazzaville,-4.2767,15.2662,estado_miembro_onu,1,,1
+184,COK,CK,184,,Islas Cook,Cook Islands,Cook Islands,,61,,,,,,estado_libre_asociado,0,554,0
+170,COL,CO,170,COL,Colombia,Colombia,Republic of Colombia,Colombia,5,LCN,UMC,Bogota,4.60987,-74.082,estado_miembro_onu,1,,1
+174,COM,KM,174,COM,Comoras,Comoros,Union of the Comoros,Comoras,14,SSF,LMC,Moroni,-11.6986,43.2418,estado_miembro_onu,1,,1
+132,CPV,CV,132,CPV,Cabo Verde,Cabo Verde,Republic of Cabo Verde,Cabo Verde,11,SSF,UMC,Praia,14.9218,-23.5087,estado_miembro_onu,1,,1
+188,CRI,CR,188,CRI,Costa Rica,Costa Rica,Republic of Costa Rica,Costa Rica,13,LCN,HIC,San Jose,9.63701,-84.0089,estado_miembro_onu,1,,1
+192,CUB,CU,192,CUB,Cuba,Cuba,Republic of Cuba,Cuba,29,LCN,UMC,Havana,23.1333,-82.3667,estado_miembro_onu,1,,1
+531,CUW,CW,531,CUW,Curazao,Curacao,Curaçao,Curacao,29,LCN,HIC,Willemstad,,,pais_constituyente,0,528,1
+162,CXR,CX,162,,Isla de Navidad,Christmas Island,Christmas Island,,53,,,,,,territorio_dependiente,0,36,0
+136,CYM,KY,136,CYM,Islas Caimán,Cayman Islands,Cayman Islands,Islas Caimán,29,LCN,HIC,George Town,19.3022,-81.3857,territorio_dependiente,0,826,1
+196,CYP,CY,196,CYP,Chipre,Cyprus,Republic of Cyprus,Chipre,145,ECS,HIC,Nicosia,35.1676,33.3736,estado_miembro_onu,1,,1
+203,CZE,CZ,203,CZE,República Checa,Czechia,Czech Republic,República Checa,151,ECS,HIC,Prague,50.0878,14.4205,estado_miembro_onu,1,,1
+276,DEU,DE,276,DEU,Alemania,Germany,Federal Republic of Germany,Alemania,155,ECS,HIC,Berlin,52.5235,13.4115,estado_miembro_onu,1,,1
+262,DJI,DJ,262,DJI,Yibuti,Djibouti,Republic of Djibouti,Djibouti,14,MEA,LMC,Djibouti,11.5806,43.1425,estado_miembro_onu,1,,1
+212,DMA,DM,212,DMA,Dominica,Dominica,Commonwealth of Dominica,Dominica,29,LCN,UMC,Roseau,15.2976,-61.39,estado_miembro_onu,1,,1
+208,DNK,DK,208,DNK,Dinamarca,Denmark,Kingdom of Denmark,Dinamarca,154,ECS,HIC,Copenhagen,55.6763,12.5681,estado_miembro_onu,1,,1
+214,DOM,DO,214,DOM,República Dominicana,Dominican Republic,Dominican Republic,República Dominicana,29,LCN,UMC,Santo Domingo,18.479,-69.8908,estado_miembro_onu,1,,1
+12,DZA,DZ,012,DZA,Argelia,Algeria,People's Democratic Republic of Algeria,Argelia,15,MEA,UMC,Algiers,36.7397,3.05097,estado_miembro_onu,1,,1
+218,ECU,EC,218,ECU,Ecuador,Ecuador,Republic of Ecuador,Ecuador,5,LCN,UMC,Quito,-0.229498,-78.5243,estado_miembro_onu,1,,1
+818,EGY,EG,818,EGY,Egipto,"Egypt, Arab Rep.",Arab Republic of Egypt,"Egipto, República Árabe de",15,MEA,LMC,Cairo,30.0982,31.2461,estado_miembro_onu,1,,1
+232,ERI,ER,232,ERI,Eritrea,Eritrea,the State of Eritrea,Eritrea,14,SSF,LIC,Asmara,15.3315,38.9183,estado_miembro_onu,1,,1
+732,ESH,EH,732,,Sahara Occidental,Western Sahara,Western Sahara,,15,,,,,,territorio_en_disputa,0,,0
+724,ESP,ES,724,ESP,España,Spain,Kingdom of Spain,España,39,ECS,HIC,Madrid,40.4167,-3.70327,estado_miembro_onu,1,,1
+233,EST,EE,233,EST,Estonia,Estonia,Republic of Estonia,Estonia,154,ECS,HIC,Tallinn,59.4392,24.7586,estado_miembro_onu,1,,1
+231,ETH,ET,231,ETH,Etiopía,Ethiopia,Federal Democratic Republic of Ethiopia,Etiopía,14,SSF,LIC,Addis Ababa,9.02274,38.7468,estado_miembro_onu,1,,1
+246,FIN,FI,246,FIN,Finlandia,Finland,Republic of Finland,Finlandia,154,ECS,HIC,Helsinki,60.1608,24.9525,estado_miembro_onu,1,,1
+242,FJI,FJ,242,FJI,Fiyi,Fiji,Republic of Fiji,Fiji,54,EAS,UMC,Suva,-18.1149,178.399,estado_miembro_onu,1,,1
+238,FLK,FK,238,,Islas Malvinas,Falkland Islands (Malvinas),Falkland Islands (Malvinas),,5,,,,,,territorio_dependiente,0,826,0
+250,FRA,FR,250,FRA,Francia,France,French Republic,Francia,155,ECS,HIC,Paris,48.8566,2.35097,estado_miembro_onu,1,,1
+234,FRO,FO,234,FRO,Islas Feroe,Faroe Islands,Faroe Islands,Islas Feroe,154,ECS,HIC,Torshavn,61.8926,-6.91181,pais_constituyente,0,208,1
+583,FSM,FM,583,FSM,Estados Federados de Micronesia,"Micronesia, Fed. Sts.",Federated States of Micronesia,Micronesia (Estados Federados de),57,EAS,UMC,Palikir,6.91771,158.185,estado_miembro_onu,1,,1
+266,GAB,GA,266,GAB,Gabón,Gabon,Gabonese Republic,Gabón,17,SSF,UMC,Libreville,0.38832,9.45162,estado_miembro_onu,1,,1
+826,GBR,GB,826,GBR,Reino Unido,United Kingdom,United Kingdom of Great Britain and Northern Ireland,Reino Unido,154,ECS,HIC,London,51.5002,-0.126236,estado_miembro_onu,1,,1
+268,GEO,GE,268,GEO,Georgia,Georgia,Georgia,Georgia,145,ECS,UMC,Tbilisi,41.71,44.793,estado_miembro_onu,1,,1
+831,GGY,GG,831,,Guernsey,Guernsey,Guernsey,,154,,,,,,dependencia_de_la_corona,0,826,0
+288,GHA,GH,288,GHA,Ghana,Ghana,Republic of Ghana,Ghana,11,SSF,LMC,Accra,5.57045,-0.20795,estado_miembro_onu,1,,1
+292,GIB,GI,292,GIB,Gibraltar,Gibraltar,Gibraltar,Gibraltar,39,ECS,HIC,,,,territorio_dependiente,0,826,1
+324,GIN,GN,324,GIN,Guinea,Guinea,Republic of Guinea,Guinea,11,SSF,LMC,Conakry,9.51667,-13.7,estado_miembro_onu,1,,1
+312,GLP,GP,312,,Guadalupe,Guadeloupe,Guadeloupe,,29,,,,,,departamento_de_ultramar,0,250,0
+270,GMB,GM,270,GMB,Gambia,"Gambia, The",Republic of the Gambia,Gambia,11,SSF,LIC,Banjul,13.4495,-16.5885,estado_miembro_onu,1,,1
+624,GNB,GW,624,GNB,Guinea-Bisáu,Guinea-Bissau,Republic of Guinea-Bissau,Guinea-Bissau,11,SSF,LIC,Bissau,11.8037,-15.1804,estado_miembro_onu,1,,1
+226,GNQ,GQ,226,GNQ,Guinea Ecuatorial,Equatorial Guinea,Republic of Equatorial Guinea,Guinea Ecuatorial,17,SSF,UMC,Malabo,3.7523,8.7741,estado_miembro_onu,1,,1
+300,GRC,GR,300,GRC,Grecia,Greece,Hellenic Republic,Grecia,39,ECS,HIC,Athens,37.9792,23.7166,estado_miembro_onu,1,,1
+308,GRD,GD,308,GRD,Granada,Grenada,Grenada,Granada,29,LCN,UMC,Saint George's,12.0653,-61.7449,estado_miembro_onu,1,,1
+304,GRL,GL,304,GRL,Groenlandia,Greenland,Greenland,Groenlandia,21,ECS,HIC,Nuuk,64.1836,-51.7214,pais_constituyente,0,208,1
+320,GTM,GT,320,GTM,Guatemala,Guatemala,Republic of Guatemala,Guatemala,13,LCN,UMC,Guatemala City,14.6248,-90.5328,estado_miembro_onu,1,,1
+254,GUF,GF,254,,Guayana Francesa,French Guiana,French Guiana,,5,,,,,,departamento_de_ultramar,0,250,0
+316,GUM,GU,316,GUM,Guam,Guam,Guam,Guam,57,EAS,HIC,Agana,13.4443,144.794,territorio_dependiente,0,840,1
+328,GUY,GY,328,GUY,Guyana,Guyana,Republic of Guyana,Guyana,5,LCN,HIC,Georgetown,6.80461,-58.1548,estado_miembro_onu,1,,1
+344,HKG,HK,344,HKG,Hong Kong,"Hong Kong SAR, China",Hong Kong Special Administrative Region of China,"Hong Kong, Región Administrativa Especial",30,EAS,HIC,,22.3964,114.109,region_administrativa_especial,0,156,1
+334,HMD,HM,334,,Islas Heard y McDonald,Heard Island and McDonald Islands,Heard Island and McDonald Islands,,53,,,,,,territorio_dependiente,0,36,0
+340,HND,HN,340,HND,Honduras,Honduras,Republic of Honduras,Honduras,13,LCN,LMC,Tegucigalpa,15.1333,-87.4667,estado_miembro_onu,1,,1
+191,HRV,HR,191,HRV,Croacia,Croatia,Republic of Croatia,Croacia,39,ECS,HIC,Zagreb,45.8069,15.9614,estado_miembro_onu,1,,1
+332,HTI,HT,332,HTI,Haití,Haiti,Republic of Haiti,Haití,29,LCN,LMC,Port-au-Prince,18.5392,-72.3288,estado_miembro_onu,1,,1
+348,HUN,HU,348,HUN,Hungría,Hungary,Hungary,Hungría,151,ECS,HIC,Budapest,47.4984,19.0408,estado_miembro_onu,1,,1
+360,IDN,ID,360,IDN,Indonesia,Indonesia,Republic of Indonesia,Indonesia,35,EAS,UMC,Jakarta,-6.19752,106.83,estado_miembro_onu,1,,1
+833,IMN,IM,833,IMN,Isla de Man,Isle of Man,Isle of Man,Isla de Man,154,ECS,HIC,Douglas,54.1509,-4.47928,dependencia_de_la_corona,0,826,1
+356,IND,IN,356,IND,India,India,Republic of India,India,34,SAS,LMC,New Delhi,28.6353,77.225,estado_miembro_onu,1,,1
+86,IOT,IO,086,,Territorio Británico del Océano Índico,British Indian Ocean Territory,British Indian Ocean Territory,,14,,,,,,territorio_dependiente,0,826,0
+372,IRL,IE,372,IRL,Irlanda,Ireland,Ireland,Irlanda,154,ECS,HIC,Dublin,53.3441,-6.26749,estado_miembro_onu,1,,1
+364,IRN,IR,364,IRN,Irán,"Iran, Islamic Rep.",Islamic Republic of Iran,"Irán, República Islámica del",34,MEA,UMC,Tehran,35.6878,51.4447,estado_miembro_onu,1,,1
+368,IRQ,IQ,368,IRQ,Irak,Iraq,Republic of Iraq,Iraq,145,MEA,UMC,Baghdad,33.3302,44.394,estado_miembro_onu,1,,1
+352,ISL,IS,352,ISL,Islandia,Iceland,Republic of Iceland,Islandia,154,ECS,HIC,Reykjavik,64.1353,-21.8952,estado_miembro_onu,1,,1
+376,ISR,IL,376,ISR,Israel,Israel,State of Israel,Israel,145,MEA,HIC,,31.7717,35.2035,estado_miembro_onu,1,,1
+380,ITA,IT,380,ITA,Italia,Italy,Italian Republic,Italia,39,ECS,HIC,Rome,41.8955,12.4823,estado_miembro_onu,1,,1
+388,JAM,JM,388,JAM,Jamaica,Jamaica,Jamaica,Jamaica,29,LCN,UMC,Kingston,17.9927,-76.792,estado_miembro_onu,1,,1
+832,JEY,JE,832,,Jersey,Jersey,Jersey,,154,,,,,,dependencia_de_la_corona,0,826,0
+400,JOR,JO,400,JOR,Jordania,Jordan,Hashemite Kingdom of Jordan,Jordania,145,MEA,UMC,Amman,31.9497,35.9263,estado_miembro_onu,1,,1
+392,JPN,JP,392,JPN,Japón,Japan,Japan,Japón,30,EAS,HIC,Tokyo,35.67,139.77,estado_miembro_onu,1,,1
+398,KAZ,KZ,398,KAZ,Kazajistán,Kazakhstan,Republic of Kazakhstan,Kazajstán,143,ECS,UMC,Astana,51.1879,71.4382,estado_miembro_onu,1,,1
+404,KEN,KE,404,KEN,Kenia,Kenya,Republic of Kenya,Kenya,14,SSF,LMC,Nairobi,-1.27975,36.8126,estado_miembro_onu,1,,1
+417,KGZ,KG,417,KGZ,Kirguistán,Kyrgyz Republic,Kyrgyz Republic,Kirguistán,143,ECS,LMC,Bishkek,42.8851,74.6057,estado_miembro_onu,1,,1
+116,KHM,KH,116,KHM,Camboya,Cambodia,Kingdom of Cambodia,Camboya,35,EAS,LMC,Phnom Penh,11.5556,104.874,estado_miembro_onu,1,,1
+296,KIR,KI,296,KIR,Kiribati,Kiribati,Republic of Kiribati,Kiribati,57,EAS,LMC,Tarawa,1.32905,172.979,estado_miembro_onu,1,,1
+659,KNA,KN,659,KNA,San Cristóbal y Nieves,St. Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts y Nevis,29,LCN,HIC,Basseterre,17.3,-62.7309,estado_miembro_onu,1,,1
+410,KOR,KR,410,KOR,Corea del Sur,"Korea, Rep.","Korea, Republic of","Corea, República de",30,EAS,HIC,Seoul,37.5323,126.957,estado_miembro_onu,1,,1
+414,KWT,KW,414,KWT,Kuwait,Kuwait,State of Kuwait,Kuwait,145,MEA,HIC,Kuwait City,29.3721,47.9824,estado_miembro_onu,1,,1
+418,LAO,LA,418,LAO,Laos,Lao PDR,Lao People's Democratic Republic,República Democrática Popular Lao,35,EAS,LMC,Vientiane,18.5826,102.177,estado_miembro_onu,1,,1
+422,LBN,LB,422,LBN,Líbano,Lebanon,Lebanese Republic,Líbano,145,MEA,LMC,Beirut,33.8872,35.5134,estado_miembro_onu,1,,1
+430,LBR,LR,430,LBR,Liberia,Liberia,Republic of Liberia,Liberia,11,SSF,LIC,Monrovia,6.30039,-10.7957,estado_miembro_onu,1,,1
+434,LBY,LY,434,LBY,Libia,Libya,Libya,Libia,15,MEA,UMC,Tripoli,32.8578,13.1072,estado_miembro_onu,1,,1
+662,LCA,LC,662,LCA,Santa Lucía,St. Lucia,Saint Lucia,Santa Lucía,29,LCN,UMC,Castries,14.0,-60.9832,estado_miembro_onu,1,,1
+438,LIE,LI,438,LIE,Liechtenstein,Liechtenstein,Principality of Liechtenstein,Liechtenstein,155,ECS,HIC,Vaduz,47.1411,9.52148,estado_miembro_onu,1,,1
+144,LKA,LK,144,LKA,Sri Lanka,Sri Lanka,Democratic Socialist Republic of Sri Lanka,Sri Lanka,34,SAS,UMC,Colombo,6.92148,79.8528,estado_miembro_onu,1,,1
+426,LSO,LS,426,LSO,Lesoto,Lesotho,Kingdom of Lesotho,Lesotho,18,SSF,LMC,Maseru,-29.5208,27.7167,estado_miembro_onu,1,,1
+440,LTU,LT,440,LTU,Lituania,Lithuania,Republic of Lithuania,Lituania,154,ECS,HIC,Vilnius,54.6896,25.2799,estado_miembro_onu,1,,1
+442,LUX,LU,442,LUX,Luxemburgo,Luxembourg,Grand Duchy of Luxembourg,Luxemburgo,155,ECS,HIC,Luxembourg,49.61,6.1296,estado_miembro_onu,1,,1
+428,LVA,LV,428,LVA,Letonia,Latvia,Republic of Latvia,Letonia,154,ECS,HIC,Riga,56.9465,24.1048,estado_miembro_onu,1,,1
+446,MAC,MO,446,MAC,Macao,"Macao SAR, China",Macao Special Administrative Region of China,"Región Administrativa Especial de Macao, China",30,EAS,HIC,,22.1667,113.55,region_administrativa_especial,0,156,1
+663,MAF,MF,663,MAF,San Martín (parte francesa),St. Martin (French part),Saint Martin (French part),Isla de San Martín (parte francesa),29,LCN,HIC,Marigot,,,territorio_dependiente,0,250,1
+504,MAR,MA,504,MAR,Marruecos,Morocco,Kingdom of Morocco,Marruecos,15,MEA,LMC,Rabat,33.9905,-6.8704,estado_miembro_onu,1,,1
+492,MCO,MC,492,MCO,Mónaco,Monaco,Principality of Monaco,Mónaco,155,ECS,HIC,Monaco,43.7325,7.41891,estado_miembro_onu,1,,1
+498,MDA,MD,498,MDA,Moldavia,Moldova,Republic of Moldova,República de Moldova,151,ECS,UMC,Chisinau,47.0167,28.8497,estado_miembro_onu,1,,1
+450,MDG,MG,450,MDG,Madagascar,Madagascar,Republic of Madagascar,Madagascar,14,SSF,LIC,Antananarivo,-20.4667,45.7167,estado_miembro_onu,1,,1
+462,MDV,MV,462,MDV,Maldivas,Maldives,Republic of Maldives,Maldivas,34,SAS,UMC,Male,4.1742,73.5109,estado_miembro_onu,1,,1
+484,MEX,MX,484,MEX,México,Mexico,United Mexican States,México,13,LCN,UMC,Mexico City,19.427,-99.1276,estado_miembro_onu,1,,1
+584,MHL,MH,584,MHL,Islas Marshall,Marshall Islands,Republic of the Marshall Islands,Islas Marshall,57,EAS,UMC,Majuro,7.11046,171.135,estado_miembro_onu,1,,1
+807,MKD,MK,807,MKD,Macedonia del Norte,North Macedonia,Republic of North Macedonia,Macedonia del Norte,39,ECS,UMC,Skopje,42.0024,21.4361,estado_miembro_onu,1,,1
+466,MLI,ML,466,MLI,Mali,Mali,Republic of Mali,Malí,11,SSF,LIC,Bamako,13.5667,-7.50034,estado_miembro_onu,1,,1
+470,MLT,MT,470,MLT,Malta,Malta,Republic of Malta,Malta,39,MEA,HIC,Valletta,35.9042,14.5189,estado_miembro_onu,1,,1
+104,MMR,MM,104,MMR,Myanmar,Myanmar,Republic of Myanmar,Myanmar,35,EAS,LMC,Naypyidaw,21.914,95.9562,estado_miembro_onu,1,,1
+499,MNE,ME,499,MNE,Montenegro,Montenegro,Montenegro,Montenegro,39,ECS,UMC,Podgorica,42.4602,19.2595,estado_miembro_onu,1,,1
+496,MNG,MN,496,MNG,Mongolia,Mongolia,Mongolia,Mongolia,30,EAS,UMC,Ulaanbaatar,47.9129,106.937,estado_miembro_onu,1,,1
+580,MNP,MP,580,MNP,Islas Marianas del Norte,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,Mariana,57,EAS,HIC,Saipan,15.1935,145.765,territorio_dependiente,0,840,1
+508,MOZ,MZ,508,MOZ,Mozambique,Mozambique,Republic of Mozambique,Mozambique,14,SSF,LIC,Maputo,-25.9664,32.5713,estado_miembro_onu,1,,1
+478,MRT,MR,478,MRT,Mauritania,Mauritania,Islamic Republic of Mauritania,Mauritania,11,SSF,LMC,Nouakchott,18.2367,-15.9824,estado_miembro_onu,1,,1
+500,MSR,MS,500,,Montserrat,Montserrat,Montserrat,,29,,,,,,territorio_dependiente,0,826,0
+474,MTQ,MQ,474,,Martinica,Martinique,Martinique,,29,,,,,,departamento_de_ultramar,0,250,0
+480,MUS,MU,480,MUS,Mauricio,Mauritius,Republic of Mauritius,Mauricio,14,SSF,UMC,Port Louis,-20.1605,57.4977,estado_miembro_onu,1,,1
+454,MWI,MW,454,MWI,Malaui,Malawi,Republic of Malawi,Malawi,14,SSF,LIC,Lilongwe,-13.9899,33.7703,estado_miembro_onu,1,,1
+458,MYS,MY,458,MYS,Malasia,Malaysia,Malaysia,Malasia,35,EAS,UMC,Kuala Lumpur,3.12433,101.684,estado_miembro_onu,1,,1
+175,MYT,YT,175,,Mayotte,Mayotte,Mayotte,,14,,,,,,departamento_de_ultramar,0,250,0
+516,NAM,NA,516,NAM,Namibia,Namibia,Republic of Namibia,Namibia,18,SSF,LMC,Windhoek,-22.5648,17.0931,estado_miembro_onu,1,,1
+540,NCL,NC,540,NCL,Nueva Caledonia,New Caledonia,New Caledonia,Nueva Caledonia,54,EAS,HIC,Noum'ea,-22.2677,166.464,territorio_dependiente,0,250,1
+562,NER,NE,562,NER,Níger,Niger,Republic of the Niger,Níger,11,SSF,LIC,Niamey,13.514,2.1073,estado_miembro_onu,1,,1
+574,NFK,NF,574,,Isla Norfolk,Norfolk Island,Norfolk Island,,53,,,,,,territorio_dependiente,0,36,0
+566,NGA,NG,566,NGA,Nigeria,Nigeria,Federal Republic of Nigeria,Nigeria,11,SSF,LMC,Abuja,9.05804,7.48906,estado_miembro_onu,1,,1
+558,NIC,NI,558,NIC,Nicaragua,Nicaragua,Republic of Nicaragua,Nicaragua,13,LCN,LMC,Managua,12.1475,-86.2734,estado_miembro_onu,1,,1
+570,NIU,NU,570,,Niue,Niue,Niue,,61,,,,,,estado_libre_asociado,0,554,0
+528,NLD,NL,528,NLD,Países Bajos,Netherlands,Kingdom of the Netherlands,Países Bajos,155,ECS,HIC,Amsterdam,52.3738,4.89095,estado_miembro_onu,1,,1
+578,NOR,NO,578,NOR,Noruega,Norway,Kingdom of Norway,Noruega,154,ECS,HIC,Oslo,59.9138,10.7387,estado_miembro_onu,1,,1
+524,NPL,NP,524,NPL,Nepal,Nepal,Federal Democratic Republic of Nepal,Nepal,34,SAS,LMC,Kathmandu,27.6939,85.3157,estado_miembro_onu,1,,1
+520,NRU,NR,520,NRU,Nauru,Naoero,Republic of Nauru,Naoero,57,EAS,HIC,Yaren District,-0.5477,166.920867,estado_miembro_onu,1,,1
+554,NZL,NZ,554,NZL,Nueva Zelanda,New Zealand,New Zealand,Nueva Zelandia,53,EAS,HIC,Wellington,-41.2865,174.776,estado_miembro_onu,1,,1
+512,OMN,OM,512,OMN,Omán,Oman,Sultanate of Oman,Omán,145,MEA,HIC,Muscat,23.6105,58.5874,estado_miembro_onu,1,,1
+586,PAK,PK,586,PAK,Pakistán,Pakistan,Islamic Republic of Pakistan,Pakistán,34,MEA,LMC,Islamabad,30.5167,72.8,estado_miembro_onu,1,,1
+591,PAN,PA,591,PAN,Panamá,Panama,Republic of Panama,Panamá,13,LCN,HIC,Panama City,8.99427,-79.5188,estado_miembro_onu,1,,1
+612,PCN,PN,612,,Islas Pitcairn,Pitcairn,Pitcairn,,61,,,,,,territorio_dependiente,0,826,0
+604,PER,PE,604,PER,Perú,Peru,Republic of Peru,Perú,5,LCN,UMC,Lima,-12.0931,-77.0465,estado_miembro_onu,1,,1
+608,PHL,PH,608,PHL,Filipinas,Philippines,Republic of the Philippines,Filipinas,35,EAS,UMC,Manila,14.5515,121.035,estado_miembro_onu,1,,1
+585,PLW,PW,585,PLW,Palaos,Palau,Republic of Palau,Palau,57,EAS,HIC,Koror,7.34194,134.479,estado_miembro_onu,1,,1
+598,PNG,PG,598,PNG,Papúa Nueva Guinea,Papua New Guinea,Independent State of Papua New Guinea,Papua Nueva Guinea,54,EAS,LMC,Port Moresby,-9.47357,147.194,estado_miembro_onu,1,,1
+616,POL,PL,616,POL,Polonia,Poland,Republic of Poland,Polonia,151,ECS,HIC,Warsaw,52.26,21.02,estado_miembro_onu,1,,1
+630,PRI,PR,630,PRI,Puerto Rico,Puerto Rico (US),Puerto Rico,Puerto Rico (US),29,LCN,HIC,San Juan,18.23,-66.0,territorio_dependiente,0,840,1
+408,PRK,KP,408,PRK,Corea del Norte,"Korea, Dem. People's Rep.",Democratic People's Republic of Korea,"Corea, República Popular Democrática de",30,EAS,LIC,Pyongyang,39.0319,125.754,estado_miembro_onu,1,,1
+620,PRT,PT,620,PRT,Portugal,Portugal,Portuguese Republic,Portugal,39,ECS,HIC,Lisbon,38.7072,-9.13552,estado_miembro_onu,1,,1
+600,PRY,PY,600,PRY,Paraguay,Paraguay,Republic of Paraguay,Paraguay,5,LCN,UMC,Asuncion,-25.3005,-57.6362,estado_miembro_onu,1,,1
+275,PSE,PS,275,PSE,Palestina,West Bank and Gaza,the State of Palestine,Ribera Occidental y Gaza,145,MEA,LMC,,,,estado_observador_onu,0,,1
+258,PYF,PF,258,PYF,Polinesia Francesa,French Polynesia,French Polynesia,Polinesia Francesa,61,EAS,HIC,Papeete,-17.535,-149.57,territorio_dependiente,0,250,1
+634,QAT,QA,634,QAT,Catar,Qatar,State of Qatar,Qatar,145,MEA,HIC,Doha,25.2948,51.5082,estado_miembro_onu,1,,1
+638,REU,RE,638,,Reunión,Réunion,Réunion,,14,,,,,,departamento_de_ultramar,0,250,0
+642,ROU,RO,642,ROU,Rumania,Romania,Romania,Rumania,151,ECS,HIC,Bucharest,44.4479,26.0979,estado_miembro_onu,1,,1
+643,RUS,RU,643,RUS,Rusia,Russian Federation,Russian Federation,Federación de Rusia,151,ECS,HIC,Moscow,55.7558,37.6176,estado_miembro_onu,1,,1
+646,RWA,RW,646,RWA,Ruanda,Rwanda,Rwandese Republic,Rwanda,14,SSF,LIC,Kigali,-1.95325,30.0587,estado_miembro_onu,1,,1
+682,SAU,SA,682,SAU,Arabia Saudí,Saudi Arabia,Kingdom of Saudi Arabia,Arabia Saudita,145,MEA,HIC,Riyadh,24.6748,46.6977,estado_miembro_onu,1,,1
+729,SDN,SD,729,SDN,Sudán,Sudan,Republic of the Sudan,Sudán,15,SSF,LIC,Khartoum,15.5932,32.5363,estado_miembro_onu,1,,1
+686,SEN,SN,686,SEN,Senegal,Senegal,Republic of Senegal,Senegal,11,SSF,LMC,Dakar,14.7247,-17.4734,estado_miembro_onu,1,,1
+702,SGP,SG,702,SGP,Singapur,Singapore,Republic of Singapore,Singapur,35,EAS,HIC,Singapore,1.28941,103.85,estado_miembro_onu,1,,1
+239,SGS,GS,239,,Islas Georgias del Sur y Sandwich del Sur,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,,5,,,,,,territorio_dependiente,0,826,0
+654,SHN,SH,654,,"Santa Elena, Ascensión y Tristán de Acuña","Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",,11,,,,,,territorio_dependiente,0,826,0
+744,SJM,SJ,744,,Svalbard y Jan Mayen,Svalbard and Jan Mayen,Svalbard and Jan Mayen,,154,,,,,,territorio_dependiente,0,578,0
+90,SLB,SB,090,SLB,Islas Salomón,Solomon Islands,Solomon Islands,Islas Salomón,54,EAS,LMC,Honiara,-9.42676,159.949,estado_miembro_onu,1,,1
+694,SLE,SL,694,SLE,Sierra Leona,Sierra Leone,Republic of Sierra Leone,Sierra Leona,11,SSF,LIC,Freetown,8.4821,-13.2134,estado_miembro_onu,1,,1
+222,SLV,SV,222,SLV,El Salvador,El Salvador,Republic of El Salvador,El Salvador,13,LCN,UMC,San Salvador,13.7034,-89.2073,estado_miembro_onu,1,,1
+674,SMR,SM,674,SMR,San Marino,San Marino,Republic of San Marino,San Marino,39,ECS,HIC,San Marino,43.9322,12.4486,estado_miembro_onu,1,,1
+706,SOM,SO,706,SOM,Somalia,"Somalia, Fed. Rep.",Federal Republic of Somalia,República Federal de Somalia,14,SSF,LIC,Mogadishu,2.07515,45.3254,estado_miembro_onu,1,,1
+666,SPM,PM,666,,San Pedro y Miquelón,Saint Pierre and Miquelon,Saint Pierre and Miquelon,,21,,,,,,territorio_dependiente,0,250,0
+688,SRB,RS,688,SRB,Serbia,Serbia,Republic of Serbia,Serbia,39,ECS,UMC,Belgrade,44.8024,20.4656,estado_miembro_onu,1,,1
+728,SSD,SS,728,SSD,Sudán del Sur,South Sudan,Republic of South Sudan,Sudán del Sur,14,SSF,LIC,Juba,4.85,31.6,estado_miembro_onu,1,,1
+678,STP,ST,678,STP,Santo Tomé y Príncipe,Sao Tome and Principe,Democratic Republic of Sao Tome and Principe,Santo Tomé y Príncipe,17,SSF,LMC,Sao Tome,0.20618,6.6071,estado_miembro_onu,1,,1
+740,SUR,SR,740,SUR,Surinam,Suriname,Republic of Suriname,Suriname,5,LCN,UMC,Paramaribo,5.8232,-55.1679,estado_miembro_onu,1,,1
+703,SVK,SK,703,SVK,Eslovaquia,Slovak Republic,Slovak Republic,República Eslovaca,151,ECS,HIC,Bratislava,48.1484,17.1073,estado_miembro_onu,1,,1
+705,SVN,SI,705,SVN,Eslovenia,Slovenia,Republic of Slovenia,Eslovenia,39,ECS,HIC,Ljubljana,46.0546,14.5044,estado_miembro_onu,1,,1
+752,SWE,SE,752,SWE,Suecia,Sweden,Kingdom of Sweden,Suecia,154,ECS,HIC,Stockholm,59.3327,18.0645,estado_miembro_onu,1,,1
+748,SWZ,SZ,748,SWZ,Esuatini,Eswatini,Kingdom of Eswatini,Eswatini,18,SSF,LMC,Mbabane,-26.5225,31.4659,estado_miembro_onu,1,,1
+534,SXM,SX,534,SXM,San Martín (parte neerlandesa),Sint Maarten (Dutch part),Sint Maarten (Dutch part),Sint Maarten (Dutch part),29,LCN,HIC,Philipsburg,,,pais_constituyente,0,528,1
+690,SYC,SC,690,SYC,Seychelles,Seychelles,Republic of Seychelles,Seychelles,14,SSF,HIC,Victoria,-4.6309,55.4466,estado_miembro_onu,1,,1
+760,SYR,SY,760,SYR,Siria,Syrian Arab Republic,Syrian Arab Republic,República Árabe Siria,145,MEA,LIC,Damascus,33.5146,36.3119,estado_miembro_onu,1,,1
+796,TCA,TC,796,TCA,Islas Turcas y Caicos,Turks and Caicos Islands,Turks and Caicos Islands,Islas Turcas y Caicos,29,LCN,HIC,Grand Turk,21.4602778,-71.141389,territorio_dependiente,0,826,1
+148,TCD,TD,148,TCD,Chad,Chad,Republic of Chad,Chad,17,SSF,LIC,N'Djamena,12.1048,15.0445,estado_miembro_onu,1,,1
+768,TGO,TG,768,TGO,Togo,Togo,Togolese Republic,Togo,11,SSF,LMC,Lome,6.1228,1.2255,estado_miembro_onu,1,,1
+764,THA,TH,764,THA,Tailandia,Thailand,Kingdom of Thailand,Tailandia,35,EAS,UMC,Bangkok,13.7308,100.521,estado_miembro_onu,1,,1
+762,TJK,TJ,762,TJK,Tayikistán,Tajikistan,Republic of Tajikistan,Tayikistán,143,ECS,LMC,Dushanbe,38.5878,68.7864,estado_miembro_onu,1,,1
+772,TKL,TK,772,,Tokelau,Tokelau,Tokelau,,61,,,,,,territorio_dependiente,0,554,0
+795,TKM,TM,795,TKM,Turkmenistán,Turkmenistan,Turkmenistan,Turkmenistán,143,ECS,UMC,Ashgabat,37.9509,58.3794,estado_miembro_onu,1,,1
+626,TLS,TL,626,TLS,Timor Oriental,Timor-Leste,Democratic Republic of Timor-Leste,Timor-Leste,35,EAS,LMC,Dili,-8.56667,125.567,estado_miembro_onu,1,,1
+776,TON,TO,776,TON,Tonga,Tonga,Kingdom of Tonga,Tonga,61,EAS,UMC,Nuku'alofa,-21.136,-175.216,estado_miembro_onu,1,,1
+780,TTO,TT,780,TTO,Trinidad y Tobago,Trinidad and Tobago,Republic of Trinidad and Tobago,Trinidad y Tobago,29,LCN,HIC,Port-of-Spain,10.6596,-61.4789,estado_miembro_onu,1,,1
+788,TUN,TN,788,TUN,Túnez,Tunisia,Republic of Tunisia,Túnez,15,MEA,LMC,Tunis,36.7899,10.21,estado_miembro_onu,1,,1
+792,TUR,TR,792,TUR,Turquía,Turkiye,Republic of Türkiye,Turquía,145,ECS,UMC,Ankara,39.7153,32.3606,estado_miembro_onu,1,,1
+798,TUV,TV,798,TUV,Tuvalu,Tuvalu,Tuvalu,Tuvalu,61,EAS,UMC,Funafuti,-8.6314877,179.089567,estado_miembro_onu,1,,1
+158,TWN,TW,158,,Taiwán,Taiwan,"Taiwan, Province of China",,30,,,,,,estado_reconocimiento_limitado,0,,0
+834,TZA,TZ,834,TZA,Tanzania,Tanzania,United Republic of Tanzania,Tanzanía,14,SSF,LMC,Dodoma,-6.17486,35.7382,estado_miembro_onu,1,,1
+800,UGA,UG,800,UGA,Uganda,Uganda,Republic of Uganda,Uganda,14,SSF,LIC,Kampala,0.314269,32.5729,estado_miembro_onu,1,,1
+804,UKR,UA,804,UKR,Ucrania,Ukraine,Ukraine,Ucrania,151,ECS,UMC,Kiev,50.4536,30.5038,estado_miembro_onu,1,,1
+581,UMI,UM,581,,Islas ultramarinas de Estados Unidos,United States Minor Outlying Islands,United States Minor Outlying Islands,,57,,,,,,territorio_dependiente,0,840,0
+858,URY,UY,858,URY,Uruguay,Uruguay,Eastern Republic of Uruguay,Uruguay,5,LCN,HIC,Montevideo,-34.8941,-56.0675,estado_miembro_onu,1,,1
+840,USA,US,840,USA,Estados Unidos,United States,United States of America,Estados Unidos,21,NAC,HIC,Washington D.C.,38.8895,-77.032,estado_miembro_onu,1,,1
+860,UZB,UZ,860,UZB,Uzbekistán,Uzbekistan,Republic of Uzbekistan,Uzbekistán,143,ECS,LMC,Tashkent,41.3052,69.269,estado_miembro_onu,1,,1
+336,VAT,VA,336,,Ciudad del Vaticano,Holy See (Vatican City State),Holy See (Vatican City State),,39,,,,,,estado_observador_onu,0,,0
+670,VCT,VC,670,VCT,San Vicente y las Granadinas,St. Vincent and the Grenadines,Saint Vincent and the Grenadines,San Vicente y las Granadinas,29,LCN,UMC,Kingstown,13.2035,-61.2653,estado_miembro_onu,1,,1
+862,VEN,VE,862,VEN,Venezuela,"Venezuela, RB",Bolivarian Republic of Venezuela,Venezuela,5,LCN,LMC,Caracas,9.08165,-69.8371,estado_miembro_onu,1,,1
+92,VGB,VG,092,VGB,Islas Vírgenes Británicas,British Virgin Islands,British Virgin Islands,Islas Vírgenes Británicas,29,LCN,HIC,Road Town,18.431389,-64.623056,territorio_dependiente,0,826,1
+850,VIR,VI,850,VIR,Islas Vírgenes de los Estados Unidos,Virgin Islands (U.S.),Virgin Islands of the United States,Islas Vírgenes (EE.UU.),29,LCN,HIC,Charlotte Amalie,18.3358,-64.8963,territorio_dependiente,0,840,1
+704,VNM,VN,704,VNM,Vietnam,Viet Nam,Socialist Republic of Viet Nam,Viet Nam,35,EAS,UMC,Hanoi,21.0069,105.825,estado_miembro_onu,1,,1
+548,VUT,VU,548,VUT,Vanuatu,Vanuatu,Republic of Vanuatu,Vanuatu,54,EAS,LMC,Port-Vila,-17.7404,168.321,estado_miembro_onu,1,,1
+876,WLF,WF,876,,Wallis y Futuna,Wallis and Futuna,Wallis and Futuna,,61,,,,,,territorio_dependiente,0,250,0
+882,WSM,WS,882,WSM,Samoa,Samoa,Independent State of Samoa,Samoa,61,EAS,UMC,Apia,-13.8314,-171.752,estado_miembro_onu,1,,1
+901,XKX,XK,,XKX,Kosovo,Kosovo,Kosovo,Kosovo,39,ECS,UMC,Pristina,42.565,20.926,estado_reconocimiento_limitado,0,,1
+887,YEM,YE,887,YEM,Yemen,"Yemen, Rep.",Republic of Yemen,"Yemen, Rep. del",145,MEA,LIC,Sana'a,15.352,44.2075,estado_miembro_onu,1,,1
+710,ZAF,ZA,710,ZAF,Sudáfrica,South Africa,Republic of South Africa,Sudáfrica,18,SSF,UMC,Pretoria,-25.746,28.1871,estado_miembro_onu,1,,1
+894,ZMB,ZM,894,ZMB,Zambia,Zambia,Republic of Zambia,Zambia,14,SSF,LMC,Lusaka,-15.3982,28.2937,estado_miembro_onu,1,,1
+716,ZWE,ZW,716,ZWE,Zimbabue,Zimbabwe,Republic of Zimbabwe,Zimbabwe,14,SSF,LMC,Harare,-17.8312,31.0672,estado_miembro_onu,1,,1

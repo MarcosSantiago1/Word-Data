@@ -1,0 +1,987 @@
+iso3,pais,organizacion,organizacion_nombre,tipo,estado,anio_ingreso,anio_salida,fuente,nota,en_panel
+AUT,Austria,AELC,Asociación Europea de Libre Comercio (EFTA),económica-comercial,pleno,1960,1995,Correlates of War IGO v3,,1
+CHE,Switzerland,AELC,Asociación Europea de Libre Comercio (EFTA),económica-comercial,pleno,1960,,Correlates of War IGO v3,,1
+DNK,Denmark,AELC,Asociación Europea de Libre Comercio (EFTA),económica-comercial,pleno,1960,1973,Correlates of War IGO v3,,1
+GBR,United Kingdom,AELC,Asociación Europea de Libre Comercio (EFTA),económica-comercial,pleno,1960,1973,Correlates of War IGO v3,,1
+NOR,Norway,AELC,Asociación Europea de Libre Comercio (EFTA),económica-comercial,pleno,1960,,Correlates of War IGO v3,,1
+PRT,Portugal,AELC,Asociación Europea de Libre Comercio (EFTA),económica-comercial,pleno,1960,1986,Correlates of War IGO v3,,1
+SWE,Sweden,AELC,Asociación Europea de Libre Comercio (EFTA),económica-comercial,pleno,1960,1995,Correlates of War IGO v3,,1
+FIN,Finland,AELC,Asociación Europea de Libre Comercio (EFTA),económica-comercial,asociado,1961,1986,carga manual,,1
+ISL,Iceland,AELC,Asociación Europea de Libre Comercio (EFTA),económica-comercial,pleno,1973,,Correlates of War IGO v3,,1
+FIN,Finland,AELC,Asociación Europea de Libre Comercio (EFTA),económica-comercial,pleno,1986,1995,carga manual,pasa a la UE en 1995,1
+LIE,Liechtenstein,AELC,Asociación Europea de Libre Comercio (EFTA),económica-comercial,pleno,1991,,Correlates of War IGO v3,,1
+BFA,Burkina Faso,AES,Alianza de Estados del Sahel,militar-seguridad,pleno,2023,,carga manual,Carta de Liptako-Gourma; confederación desde 2024,1
+MLI,Mali,AES,Alianza de Estados del Sahel,militar-seguridad,pleno,2023,,carga manual,Carta de Liptako-Gourma; confederación desde 2024,1
+NER,Niger,AES,Alianza de Estados del Sahel,militar-seguridad,pleno,2023,,carga manual,Carta de Liptako-Gourma; confederación desde 2024,1
+ARG,Argentina,ALADI,Asociación Latinoamericana de Integración,económica-comercial,pleno,1980,,Correlates of War IGO v3,,1
+BRA,Brazil,ALADI,Asociación Latinoamericana de Integración,económica-comercial,pleno,1980,,Correlates of War IGO v3,,1
+CHL,Chile,ALADI,Asociación Latinoamericana de Integración,económica-comercial,pleno,1980,,Correlates of War IGO v3,,1
+PER,Peru,ALADI,Asociación Latinoamericana de Integración,económica-comercial,pleno,1980,,Correlates of War IGO v3,,1
+URY,Uruguay,ALADI,Asociación Latinoamericana de Integración,económica-comercial,pleno,1980,,Correlates of War IGO v3,,1
+BOL,Bolivia,ALADI,Asociación Latinoamericana de Integración,económica-comercial,pleno,1981,,Correlates of War IGO v3,,1
+COL,Colombia,ALADI,Asociación Latinoamericana de Integración,económica-comercial,pleno,1981,,Correlates of War IGO v3,,1
+ECU,Ecuador,ALADI,Asociación Latinoamericana de Integración,económica-comercial,pleno,1981,,Correlates of War IGO v3,,1
+MEX,Mexico,ALADI,Asociación Latinoamericana de Integración,económica-comercial,pleno,1981,,Correlates of War IGO v3,,1
+PRY,Paraguay,ALADI,Asociación Latinoamericana de Integración,económica-comercial,pleno,1981,,Correlates of War IGO v3,,1
+VEN,"Venezuela, RB",ALADI,Asociación Latinoamericana de Integración,económica-comercial,pleno,1981,,Correlates of War IGO v3,,1
+CUB,Cuba,ALADI,Asociación Latinoamericana de Integración,económica-comercial,pleno,1999,,Correlates of War IGO v3,,1
+PAN,Panama,ALADI,Asociación Latinoamericana de Integración,económica-comercial,pleno,2011,,Correlates of War IGO v3,,1
+CUB,Cuba,ALBA,Alianza Bolivariana para los Pueblos de Nuestra América,política-diplomática,pleno,2004,,carga manual,,1
+VEN,"Venezuela, RB",ALBA,Alianza Bolivariana para los Pueblos de Nuestra América,política-diplomática,pleno,2004,,carga manual,,1
+BOL,Bolivia,ALBA,Alianza Bolivariana para los Pueblos de Nuestra América,política-diplomática,pleno,2006,2019,carga manual,sale en nov. 2019,1
+NIC,Nicaragua,ALBA,Alianza Bolivariana para los Pueblos de Nuestra América,política-diplomática,pleno,2007,,carga manual,,1
+DMA,Dominica,ALBA,Alianza Bolivariana para los Pueblos de Nuestra América,política-diplomática,pleno,2008,,carga manual,,1
+HND,Honduras,ALBA,Alianza Bolivariana para los Pueblos de Nuestra América,política-diplomática,pleno,2008,2010,carga manual,sale en ene. 2010,1
+ATG,Antigua and Barbuda,ALBA,Alianza Bolivariana para los Pueblos de Nuestra América,política-diplomática,pleno,2009,,carga manual,,1
+ECU,Ecuador,ALBA,Alianza Bolivariana para los Pueblos de Nuestra América,política-diplomática,pleno,2009,2018,carga manual,sale en ago. 2018,1
+VCT,St. Vincent and the Grenadines,ALBA,Alianza Bolivariana para los Pueblos de Nuestra América,política-diplomática,pleno,2009,,carga manual,,1
+LCA,St. Lucia,ALBA,Alianza Bolivariana para los Pueblos de Nuestra América,política-diplomática,pleno,2013,,carga manual,,1
+GRD,Grenada,ALBA,Alianza Bolivariana para los Pueblos de Nuestra América,política-diplomática,pleno,2014,,carga manual,,1
+KNA,St. Kitts and Nevis,ALBA,Alianza Bolivariana para los Pueblos de Nuestra América,política-diplomática,pleno,2014,,carga manual,,1
+BOL,Bolivia,ALBA,Alianza Bolivariana para los Pueblos de Nuestra América,política-diplomática,pleno,2020,,carga manual,vuelve en nov. 2020,1
+CHL,Chile,ALIANZA_PACIFICO,Alianza del Pacífico,económica-comercial,pleno,2011,,carga manual,Declaración de Lima 2011; acuerdo marco 2012,1
+COL,Colombia,ALIANZA_PACIFICO,Alianza del Pacífico,económica-comercial,pleno,2011,,carga manual,Declaración de Lima 2011; acuerdo marco 2012,1
+MEX,Mexico,ALIANZA_PACIFICO,Alianza del Pacífico,económica-comercial,pleno,2011,,carga manual,Declaración de Lima 2011; acuerdo marco 2012,1
+PER,Peru,ALIANZA_PACIFICO,Alianza del Pacífico,económica-comercial,pleno,2011,,carga manual,Declaración de Lima 2011; acuerdo marco 2012,1
+AUS,Australia,APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1989,,Correlates of War IGO v3,,1
+BRN,Brunei Darussalam,APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1989,,Correlates of War IGO v3,,1
+CAN,Canada,APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1989,,Correlates of War IGO v3,,1
+IDN,Indonesia,APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1989,,Correlates of War IGO v3,,1
+JPN,Japan,APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1989,,Correlates of War IGO v3,,1
+KOR,"Korea, Rep.",APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1989,,Correlates of War IGO v3,,1
+MYS,Malaysia,APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1989,,Correlates of War IGO v3,,1
+NZL,New Zealand,APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1989,,Correlates of War IGO v3,,1
+PHL,Philippines,APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1989,,Correlates of War IGO v3,,1
+SGP,Singapore,APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1989,,Correlates of War IGO v3,,1
+THA,Thailand,APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1989,,Correlates of War IGO v3,,1
+USA,United States,APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1989,,Correlates of War IGO v3,,1
+CHN,China,APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1991,,Correlates of War IGO v3,,1
+HKG,"Hong Kong SAR, China",APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1991,,carga manual,"economía miembro, no está en COW",1
+TWN,"Taiwan, Province of China",APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1991,,Correlates of War IGO v3,,0
+MEX,Mexico,APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1993,,Correlates of War IGO v3,,1
+PNG,Papua New Guinea,APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1993,,Correlates of War IGO v3,,1
+CHL,Chile,APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+PER,Peru,APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1998,,Correlates of War IGO v3,,1
+RUS,Russian Federation,APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1998,,Correlates of War IGO v3,,1
+VNM,Viet Nam,APEC,Foro de Cooperación Económica Asia-Pacífico,económica-comercial,pleno,1998,,Correlates of War IGO v3,,1
+IDN,Indonesia,ASEAN,Asociación de Naciones del Sudeste Asiático,económica-comercial,pleno,1967,,Correlates of War IGO v3,,1
+MYS,Malaysia,ASEAN,Asociación de Naciones del Sudeste Asiático,económica-comercial,pleno,1967,,Correlates of War IGO v3,,1
+PHL,Philippines,ASEAN,Asociación de Naciones del Sudeste Asiático,económica-comercial,pleno,1967,,Correlates of War IGO v3,,1
+SGP,Singapore,ASEAN,Asociación de Naciones del Sudeste Asiático,económica-comercial,pleno,1967,,Correlates of War IGO v3,,1
+THA,Thailand,ASEAN,Asociación de Naciones del Sudeste Asiático,económica-comercial,pleno,1967,,Correlates of War IGO v3,,1
+PNG,Papua New Guinea,ASEAN,Asociación de Naciones del Sudeste Asiático,económica-comercial,observador,1976,,Correlates of War IGO v3,,1
+BRN,Brunei Darussalam,ASEAN,Asociación de Naciones del Sudeste Asiático,económica-comercial,pleno,1984,,Correlates of War IGO v3,,1
+VNM,Viet Nam,ASEAN,Asociación de Naciones del Sudeste Asiático,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+LAO,Lao PDR,ASEAN,Asociación de Naciones del Sudeste Asiático,económica-comercial,pleno,1997,,Correlates of War IGO v3,,1
+MMR,Myanmar,ASEAN,Asociación de Naciones del Sudeste Asiático,económica-comercial,pleno,1997,,Correlates of War IGO v3,,1
+KHM,Cambodia,ASEAN,Asociación de Naciones del Sudeste Asiático,económica-comercial,pleno,1999,,Correlates of War IGO v3,,1
+TLS,Timor-Leste,ASEAN,Asociación de Naciones del Sudeste Asiático,económica-comercial,observador,2002,2025,Correlates of War IGO v3,,1
+TLS,Timor-Leste,ASEAN,Asociación de Naciones del Sudeste Asiático,económica-comercial,pleno,2025,,carga manual (cambios desde 2015),admitido en oct. 2025,1
+AUS,Australia,AUKUS,Pacto de seguridad Australia-Reino Unido-EE. UU.,militar-seguridad,pleno,2021,,carga manual,,1
+GBR,United Kingdom,AUKUS,Pacto de seguridad Australia-Reino Unido-EE. UU.,militar-seguridad,pleno,2021,,carga manual,,1
+USA,United States,AUKUS,Pacto de seguridad Australia-Reino Unido-EE. UU.,militar-seguridad,pleno,2021,,carga manual,,1
+BRA,Brazil,BRICS,"BRICS (Brasil, Rusia, India, China, Sudáfrica y ampliación)",foro informal,pleno,2009,,carga manual,primera cumbre BRIC en 2009,1
+CHN,China,BRICS,"BRICS (Brasil, Rusia, India, China, Sudáfrica y ampliación)",foro informal,pleno,2009,,carga manual,primera cumbre BRIC en 2009,1
+IND,India,BRICS,"BRICS (Brasil, Rusia, India, China, Sudáfrica y ampliación)",foro informal,pleno,2009,,carga manual,primera cumbre BRIC en 2009,1
+RUS,Russian Federation,BRICS,"BRICS (Brasil, Rusia, India, China, Sudáfrica y ampliación)",foro informal,pleno,2009,,carga manual,primera cumbre BRIC en 2009,1
+ZAF,South Africa,BRICS,"BRICS (Brasil, Rusia, India, China, Sudáfrica y ampliación)",foro informal,pleno,2011,,carga manual,"invitada en dic. 2010, primera cumbre en 2011",1
+ARE,United Arab Emirates,BRICS,"BRICS (Brasil, Rusia, India, China, Sudáfrica y ampliación)",foro informal,pleno,2024,,carga manual,Arabia Saudita fue invitada y no confirmó,1
+EGY,"Egypt, Arab Rep.",BRICS,"BRICS (Brasil, Rusia, India, China, Sudáfrica y ampliación)",foro informal,pleno,2024,,carga manual,Arabia Saudita fue invitada y no confirmó,1
+ETH,Ethiopia,BRICS,"BRICS (Brasil, Rusia, India, China, Sudáfrica y ampliación)",foro informal,pleno,2024,,carga manual,Arabia Saudita fue invitada y no confirmó,1
+IRN,"Iran, Islamic Rep.",BRICS,"BRICS (Brasil, Rusia, India, China, Sudáfrica y ampliación)",foro informal,pleno,2024,,carga manual,Arabia Saudita fue invitada y no confirmó,1
+IDN,Indonesia,BRICS,"BRICS (Brasil, Rusia, India, China, Sudáfrica y ampliación)",foro informal,pleno,2025,,carga manual,,1
+BOL,Bolivia,CAN,Comunidad Andina,económica-comercial,pleno,1970,,Correlates of War IGO v3,,1
+CHL,Chile,CAN,Comunidad Andina,económica-comercial,pleno,1970,1976,Correlates of War IGO v3,,1
+COL,Colombia,CAN,Comunidad Andina,económica-comercial,pleno,1970,,Correlates of War IGO v3,,1
+ECU,Ecuador,CAN,Comunidad Andina,económica-comercial,pleno,1970,,Correlates of War IGO v3,,1
+PER,Peru,CAN,Comunidad Andina,económica-comercial,pleno,1970,,Correlates of War IGO v3,,1
+VEN,"Venezuela, RB",CAN,Comunidad Andina,económica-comercial,pleno,1973,2006,Correlates of War IGO v3,,1
+ARG,Argentina,CAN,Comunidad Andina,económica-comercial,asociado,2005,,Correlates of War IGO v3,,1
+BRA,Brazil,CAN,Comunidad Andina,económica-comercial,asociado,2005,,Correlates of War IGO v3,,1
+PRY,Paraguay,CAN,Comunidad Andina,económica-comercial,asociado,2005,,Correlates of War IGO v3,,1
+URY,Uruguay,CAN,Comunidad Andina,económica-comercial,asociado,2005,,Correlates of War IGO v3,,1
+CHL,Chile,CAN,Comunidad Andina,económica-comercial,asociado,2006,,Correlates of War IGO v3,,1
+BRB,Barbados,CARICOM,Comunidad del Caribe,económica-comercial,pleno,1973,,Correlates of War IGO v3,,1
+GUY,Guyana,CARICOM,Comunidad del Caribe,económica-comercial,pleno,1973,,Correlates of War IGO v3,,1
+JAM,Jamaica,CARICOM,Comunidad del Caribe,económica-comercial,pleno,1973,,Correlates of War IGO v3,,1
+TTO,Trinidad and Tobago,CARICOM,Comunidad del Caribe,económica-comercial,pleno,1973,,Correlates of War IGO v3,,1
+GRD,Grenada,CARICOM,Comunidad del Caribe,económica-comercial,pleno,1974,,Correlates of War IGO v3,,1
+DMA,Dominica,CARICOM,Comunidad del Caribe,económica-comercial,pleno,1978,,Correlates of War IGO v3,,1
+LCA,St. Lucia,CARICOM,Comunidad del Caribe,económica-comercial,pleno,1979,,Correlates of War IGO v3,,1
+VCT,St. Vincent and the Grenadines,CARICOM,Comunidad del Caribe,económica-comercial,pleno,1979,,Correlates of War IGO v3,,1
+ATG,Antigua and Barbuda,CARICOM,Comunidad del Caribe,económica-comercial,pleno,1981,,Correlates of War IGO v3,,1
+BLZ,Belize,CARICOM,Comunidad del Caribe,económica-comercial,pleno,1981,,Correlates of War IGO v3,,1
+BHS,"Bahamas, The",CARICOM,Comunidad del Caribe,económica-comercial,pleno,1983,,Correlates of War IGO v3,COW dice 1974; corregido con Wikidata,1
+KNA,St. Kitts and Nevis,CARICOM,Comunidad del Caribe,económica-comercial,pleno,1983,,Correlates of War IGO v3,,1
+SUR,Suriname,CARICOM,Comunidad del Caribe,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+HTI,Haiti,CARICOM,Comunidad del Caribe,económica-comercial,pleno,2002,,Correlates of War IGO v3,,1
+ARE,United Arab Emirates,CCG,Consejo de Cooperación del Golfo,económica-comercial,pleno,1981,,Correlates of War IGO v3,,1
+BHR,Bahrain,CCG,Consejo de Cooperación del Golfo,económica-comercial,pleno,1981,,Correlates of War IGO v3,,1
+KWT,Kuwait,CCG,Consejo de Cooperación del Golfo,económica-comercial,pleno,1981,,Correlates of War IGO v3,,1
+OMN,Oman,CCG,Consejo de Cooperación del Golfo,económica-comercial,pleno,1981,,Correlates of War IGO v3,,1
+QAT,Qatar,CCG,Consejo de Cooperación del Golfo,económica-comercial,pleno,1981,,Correlates of War IGO v3,,1
+SAU,Saudi Arabia,CCG,Consejo de Cooperación del Golfo,económica-comercial,pleno,1981,,Correlates of War IGO v3,,1
+BEN,Benin,CEDEAO,Comunidad Económica de los Estados de África Occidental (ECOWAS),económica-comercial,pleno,1975,,Correlates of War IGO v3,,1
+BFA,Burkina Faso,CEDEAO,Comunidad Económica de los Estados de África Occidental (ECOWAS),económica-comercial,pleno,1975,2025,Correlates of War IGO v3 + carga manual (salida),salida efectiva el 29-01-2025,1
+CIV,Cote d'Ivoire,CEDEAO,Comunidad Económica de los Estados de África Occidental (ECOWAS),económica-comercial,pleno,1975,,Correlates of War IGO v3,,1
+GHA,Ghana,CEDEAO,Comunidad Económica de los Estados de África Occidental (ECOWAS),económica-comercial,pleno,1975,,Correlates of War IGO v3,,1
+GIN,Guinea,CEDEAO,Comunidad Económica de los Estados de África Occidental (ECOWAS),económica-comercial,pleno,1975,,Correlates of War IGO v3,,1
+GMB,"Gambia, The",CEDEAO,Comunidad Económica de los Estados de África Occidental (ECOWAS),económica-comercial,pleno,1975,,Correlates of War IGO v3,,1
+GNB,Guinea-Bissau,CEDEAO,Comunidad Económica de los Estados de África Occidental (ECOWAS),económica-comercial,pleno,1975,,Correlates of War IGO v3,,1
+LBR,Liberia,CEDEAO,Comunidad Económica de los Estados de África Occidental (ECOWAS),económica-comercial,pleno,1975,,Correlates of War IGO v3,,1
+MLI,Mali,CEDEAO,Comunidad Económica de los Estados de África Occidental (ECOWAS),económica-comercial,pleno,1975,2025,Correlates of War IGO v3 + carga manual (salida),salida efectiva el 29-01-2025,1
+MRT,Mauritania,CEDEAO,Comunidad Económica de los Estados de África Occidental (ECOWAS),económica-comercial,pleno,1975,2000,carga manual,sale en dic. 2000,1
+NER,Niger,CEDEAO,Comunidad Económica de los Estados de África Occidental (ECOWAS),económica-comercial,pleno,1975,2025,Correlates of War IGO v3 + carga manual (salida),salida efectiva el 29-01-2025,1
+NGA,Nigeria,CEDEAO,Comunidad Económica de los Estados de África Occidental (ECOWAS),económica-comercial,pleno,1975,,Correlates of War IGO v3,,1
+SEN,Senegal,CEDEAO,Comunidad Económica de los Estados de África Occidental (ECOWAS),económica-comercial,pleno,1975,,Correlates of War IGO v3,,1
+SLE,Sierra Leone,CEDEAO,Comunidad Económica de los Estados de África Occidental (ECOWAS),económica-comercial,pleno,1975,,Correlates of War IGO v3,,1
+TGO,Togo,CEDEAO,Comunidad Económica de los Estados de África Occidental (ECOWAS),económica-comercial,pleno,1975,,Correlates of War IGO v3,,1
+CPV,Cabo Verde,CEDEAO,Comunidad Económica de los Estados de África Occidental (ECOWAS),económica-comercial,pleno,1977,,carga manual,,1
+ARM,Armenia,CEI,Comunidad de Estados Independientes,política-diplomática,pleno,1991,,Correlates of War IGO v3,,1
+AZE,Azerbaijan,CEI,Comunidad de Estados Independientes,política-diplomática,pleno,1991,,Correlates of War IGO v3,,1
+BLR,Belarus,CEI,Comunidad de Estados Independientes,política-diplomática,pleno,1991,,Correlates of War IGO v3,,1
+KAZ,Kazakhstan,CEI,Comunidad de Estados Independientes,política-diplomática,pleno,1991,,Correlates of War IGO v3,,1
+KGZ,Kyrgyz Republic,CEI,Comunidad de Estados Independientes,política-diplomática,pleno,1991,,Correlates of War IGO v3,,1
+MDA,Moldova,CEI,Comunidad de Estados Independientes,política-diplomática,pleno,1991,,Correlates of War IGO v3,,1
+RUS,Russian Federation,CEI,Comunidad de Estados Independientes,política-diplomática,pleno,1991,,Correlates of War IGO v3,,1
+TJK,Tajikistan,CEI,Comunidad de Estados Independientes,política-diplomática,pleno,1991,,Correlates of War IGO v3,,1
+TKM,Turkmenistan,CEI,Comunidad de Estados Independientes,política-diplomática,pleno,1991,2005,Correlates of War IGO v3,,1
+UKR,Ukraine,CEI,Comunidad de Estados Independientes,política-diplomática,pleno,1991,1993,Correlates of War IGO v3,,1
+UZB,Uzbekistan,CEI,Comunidad de Estados Independientes,política-diplomática,pleno,1991,,Correlates of War IGO v3,,1
+GEO,Georgia,CEI,Comunidad de Estados Independientes,política-diplomática,pleno,1993,2009,carga manual,sale en ago. 2009,1
+UKR,Ukraine,CEI,Comunidad de Estados Independientes,política-diplomática,asociado,1993,2018,Correlates of War IGO v3 + carga manual (salida),COW la codifica como asociada; deja de participar en 2014 y se retira en 2018,1
+TKM,Turkmenistan,CEI,Comunidad de Estados Independientes,política-diplomática,asociado,2005,,Correlates of War IGO v3,,1
+CAF,Central African Republic,CEMAC,Comunidad Económica y Monetaria de África Central,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+CMR,Cameroon,CEMAC,Comunidad Económica y Monetaria de África Central,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+COG,"Congo, Rep.",CEMAC,Comunidad Económica y Monetaria de África Central,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+GAB,Gabon,CEMAC,Comunidad Económica y Monetaria de África Central,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+GNQ,Equatorial Guinea,CEMAC,Comunidad Económica y Monetaria de África Central,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+TCD,Chad,CEMAC,Comunidad Económica y Monetaria de África Central,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+AGO,Angola,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,2007,Correlates of War IGO v3,,1
+BDI,Burundi,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+COD,"Congo, Dem. Rep.",COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,,carga manual,,1
+COM,Comoros,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+DJI,Djibouti,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+ERI,Eritrea,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,,carga manual,,1
+ETH,Ethiopia,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+KEN,Kenya,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+LSO,Lesotho,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,1997,Correlates of War IGO v3,,1
+MDG,Madagascar,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+MOZ,Mozambique,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,1998,Correlates of War IGO v3,,1
+MUS,Mauritius,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+MWI,Malawi,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+NAM,Namibia,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,2004,Correlates of War IGO v3,,1
+RWA,Rwanda,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+SDN,Sudan,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+SWZ,Eswatini,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+TZA,Tanzania,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,2000,Correlates of War IGO v3,,1
+UGA,Uganda,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+ZMB,Zambia,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+ZWE,Zimbabwe,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+EGY,"Egypt, Arab Rep.",COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,1998,,Correlates of War IGO v3,,1
+SYC,Seychelles,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,2001,,Correlates of War IGO v3,,1
+LBY,Libya,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,2005,,Correlates of War IGO v3,,1
+SOM,"Somalia, Fed. Rep.",COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,2018,,carga manual,"COW la incluye desde 1994, pero ingresa en 2018",1
+TUN,Tunisia,COMESA,Mercado Común de África Oriental y Austral,económica-comercial,pleno,2018,,carga manual (cambios desde 2015),,1
+AUS,Australia,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1931,,Correlates of War IGO v3,COW dice 1965; corregido con Wikidata,1
+CAN,Canada,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1931,,Correlates of War IGO v3,COW dice 1965; corregido con Wikidata,1
+GBR,United Kingdom,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1931,,Correlates of War IGO v3,COW dice 1969; corregido con Wikidata,1
+NZL,New Zealand,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1931,,Correlates of War IGO v3,COW dice 1965; corregido con Wikidata,1
+IND,India,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1947,,Correlates of War IGO v3,COW dice 1965; corregido con Wikidata,1
+PAK,Pakistan,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1947,1973,Correlates of War IGO v3,COW dice 1965; corregido con Wikidata,1
+LKA,Sri Lanka,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1948,,Correlates of War IGO v3,COW dice 1965; corregido con Wikidata,1
+GHA,Ghana,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1957,,Correlates of War IGO v3,COW dice 1965; corregido con Wikidata,1
+MYS,Malaysia,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1957,,Correlates of War IGO v3,COW dice 1965; corregido con Wikidata,1
+NGA,Nigeria,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1960,1995,carga manual,,1
+CYP,Cyprus,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1961,,Correlates of War IGO v3,COW dice 1965; corregido con Wikidata,1
+SLE,Sierra Leone,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1961,,Correlates of War IGO v3,COW dice 1965; corregido con Wikidata,1
+TZA,Tanzania,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1961,,Correlates of War IGO v3,COW dice 1965; corregido con Wikidata,1
+JAM,Jamaica,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1962,,Correlates of War IGO v3,COW dice 1965; corregido con Wikidata,1
+TTO,Trinidad and Tobago,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1962,,Correlates of War IGO v3,COW dice 1965; corregido con Wikidata,1
+UGA,Uganda,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1962,,Correlates of War IGO v3,COW dice 1965; corregido con Wikidata,1
+KEN,Kenya,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1963,,Correlates of War IGO v3,COW dice 1965; corregido con Wikidata,1
+GMB,"Gambia, The",COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1965,2013,Correlates of War IGO v3,,1
+MLT,Malta,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1965,,Correlates of War IGO v3,,1
+MWI,Malawi,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1965,,Correlates of War IGO v3,,1
+SGP,Singapore,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1965,,Correlates of War IGO v3,,1
+USA,United States,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1965,1969,Correlates of War IGO v3,,1
+ZMB,Zambia,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1965,,Correlates of War IGO v3,,1
+BRB,Barbados,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1966,,Correlates of War IGO v3,,1
+BWA,Botswana,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1966,,Correlates of War IGO v3,,1
+GUY,Guyana,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1966,,Correlates of War IGO v3,,1
+LSO,Lesotho,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1966,,Correlates of War IGO v3,,1
+MUS,Mauritius,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1968,,Correlates of War IGO v3,,1
+SWZ,Eswatini,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1968,,Correlates of War IGO v3,,1
+FJI,Fiji,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1970,1987,carga manual,sale tras el golpe de 1987,1
+TON,Tonga,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1970,,Correlates of War IGO v3,COW dice 1999; corregido con Wikidata,1
+WSM,Samoa,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1970,,Correlates of War IGO v3,COW dice 1976; corregido con Wikidata,1
+BGD,Bangladesh,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1972,,Correlates of War IGO v3,,1
+BHS,"Bahamas, The",COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1973,,Correlates of War IGO v3,,1
+GRD,Grenada,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1974,,Correlates of War IGO v3,,1
+PNG,Papua New Guinea,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1975,,Correlates of War IGO v3,,1
+SYC,Seychelles,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1976,,Correlates of War IGO v3,,1
+DMA,Dominica,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1978,,Correlates of War IGO v3,,1
+SLB,Solomon Islands,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1978,,Correlates of War IGO v3,,1
+KIR,Kiribati,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1979,,Correlates of War IGO v3,COW dice 1999; corregido con Wikidata,1
+LCA,St. Lucia,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1979,,Correlates of War IGO v3,,1
+VCT,St. Vincent and the Grenadines,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1979,,Correlates of War IGO v3,,1
+ZWE,Zimbabwe,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1980,2004,Correlates of War IGO v3,,1
+ATG,Antigua and Barbuda,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1981,,Correlates of War IGO v3,,1
+BLZ,Belize,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1981,,Correlates of War IGO v3,,1
+VUT,Vanuatu,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1981,,Correlates of War IGO v3,,1
+MDV,Maldives,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1982,2016,Correlates of War IGO v3 + carga manual (salida),,1
+KNA,St. Kitts and Nevis,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1983,,Correlates of War IGO v3,,1
+BRN,Brunei Darussalam,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1984,,Correlates of War IGO v3,,1
+PAK,Pakistan,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1989,,Correlates of War IGO v3,,1
+NAM,Namibia,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1990,,Correlates of War IGO v3,,1
+ZAF,South Africa,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1994,,Correlates of War IGO v3,,1
+CMR,Cameroon,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1995,,Correlates of War IGO v3,,1
+MOZ,Mozambique,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1995,,Correlates of War IGO v3,,1
+NGA,Nigeria,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,suspendido,1995,1999,carga manual,suspendida nov. 1995 - may. 1999,1
+FJI,Fiji,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1997,2009,carga manual,suspensiones parciales en 2000-2001 y 2006-2009,1
+NGA,Nigeria,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1999,,carga manual,,1
+NRU,Naoero,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,1999,,Correlates of War IGO v3,,1
+TUV,Tuvalu,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,2000,,Correlates of War IGO v3,,1
+FJI,Fiji,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,suspendido,2009,2014,carga manual,suspendida por completo sep. 2009 - sep. 2014,1
+RWA,Rwanda,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,2009,,Correlates of War IGO v3,,1
+FJI,Fiji,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,2014,,carga manual,,1
+GMB,"Gambia, The",COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,2018,,carga manual (cambios desde 2015),vuelve tras salir en 2013,1
+MDV,Maldives,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,2020,,carga manual (cambios desde 2015),,1
+GAB,Gabon,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,2022,,carga manual (cambios desde 2015),,1
+TGO,Togo,COMMONWEALTH,Mancomunidad de Naciones (Commonwealth),política-diplomática,pleno,2022,,carga manual (cambios desde 2015),,1
+BEL,Belgium,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1949,,Correlates of War IGO v3,,1
+DNK,Denmark,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1949,,Correlates of War IGO v3,,1
+FRA,France,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1949,,Correlates of War IGO v3,,1
+GBR,United Kingdom,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1949,,Correlates of War IGO v3,,1
+GRC,Greece,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1949,,Correlates of War IGO v3,,1
+IRL,Ireland,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1949,,Correlates of War IGO v3,,1
+ITA,Italy,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1949,,Correlates of War IGO v3,,1
+LUX,Luxembourg,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1949,,Correlates of War IGO v3,,1
+NLD,Netherlands,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1949,,Correlates of War IGO v3,,1
+NOR,Norway,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1949,,Correlates of War IGO v3,,1
+SWE,Sweden,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1949,,Correlates of War IGO v3,,1
+TUR,Turkiye,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1949,,Correlates of War IGO v3,,1
+DEU,Germany,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1950,,Correlates of War IGO v3,COW dice 1955; corregido con Wikidata,1
+ISL,Iceland,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1950,,Correlates of War IGO v3,,1
+AUT,Austria,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1956,,Correlates of War IGO v3,,1
+ISR,Israel,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,observador,1957,,Correlates of War IGO v3,,1
+CYP,Cyprus,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1961,,Correlates of War IGO v3,,1
+CHE,Switzerland,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1963,,Correlates of War IGO v3,,1
+MLT,Malta,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1965,,Correlates of War IGO v3,,1
+PRT,Portugal,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1976,,Correlates of War IGO v3,,1
+ESP,Spain,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1977,,Correlates of War IGO v3,,1
+FIN,Finland,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1989,,Correlates of War IGO v3,COW dice 1965; corregido con Wikidata,1
+HUN,Hungary,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1990,,Correlates of War IGO v3,,1
+POL,Poland,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1991,,Correlates of War IGO v3,,1
+BGR,Bulgaria,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1992,,Correlates of War IGO v3,,1
+SMR,San Marino,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1992,,Correlates of War IGO v3,,1
+CZE,Czechia,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1993,,Correlates of War IGO v3,,1
+EST,Estonia,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1993,,Correlates of War IGO v3,,1
+LTU,Lithuania,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1993,,Correlates of War IGO v3,,1
+ROU,Romania,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1993,,Correlates of War IGO v3,,1
+SVK,Slovak Republic,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1993,,Correlates of War IGO v3,,1
+SVN,Slovenia,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1993,,Correlates of War IGO v3,,1
+AND,Andorra,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1994,,Correlates of War IGO v3,,1
+ALB,Albania,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1995,,Correlates of War IGO v3,,1
+LIE,Liechtenstein,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1995,,Correlates of War IGO v3,,1
+LVA,Latvia,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1995,,Correlates of War IGO v3,,1
+MDA,Moldova,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1995,,Correlates of War IGO v3,,1
+MKD,North Macedonia,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1995,,Correlates of War IGO v3,,1
+UKR,Ukraine,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1995,,Correlates of War IGO v3,,1
+USA,United States,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,observador,1995,,Correlates of War IGO v3,,1
+CAN,Canada,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,observador,1996,,Correlates of War IGO v3,,1
+HRV,Croatia,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1996,,Correlates of War IGO v3,,1
+JPN,Japan,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,observador,1996,,Correlates of War IGO v3,,1
+RUS,Russian Federation,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1996,2022,Correlates of War IGO v3 + carga manual (salida),expulsada en mar. 2022,1
+GEO,Georgia,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,1999,,Correlates of War IGO v3,,1
+MEX,Mexico,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,observador,1999,,Correlates of War IGO v3,,1
+ARM,Armenia,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,2001,,Correlates of War IGO v3,,1
+AZE,Azerbaijan,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,2002,,Correlates of War IGO v3,,1
+BIH,Bosnia and Herzegovina,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,2002,,Correlates of War IGO v3,,1
+SRB,Serbia,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,2003,,Correlates of War IGO v3,,1
+MCO,Monaco,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,2004,,Correlates of War IGO v3,,1
+MNE,Montenegro,CONSEJO_EUROPA,Consejo de Europa,política-diplomática,pleno,2007,,Correlates of War IGO v3,,1
+AUS,Australia,CPTPP,Tratado Integral y Progresista de Asociación Transpacífico,económica-comercial,pleno,2018,,carga manual,en vigor el 30-12-2018,1
+CAN,Canada,CPTPP,Tratado Integral y Progresista de Asociación Transpacífico,económica-comercial,pleno,2018,,carga manual,en vigor el 30-12-2018,1
+JPN,Japan,CPTPP,Tratado Integral y Progresista de Asociación Transpacífico,económica-comercial,pleno,2018,,carga manual,en vigor el 30-12-2018,1
+MEX,Mexico,CPTPP,Tratado Integral y Progresista de Asociación Transpacífico,económica-comercial,pleno,2018,,carga manual,en vigor el 30-12-2018,1
+NZL,New Zealand,CPTPP,Tratado Integral y Progresista de Asociación Transpacífico,económica-comercial,pleno,2018,,carga manual,en vigor el 30-12-2018,1
+SGP,Singapore,CPTPP,Tratado Integral y Progresista de Asociación Transpacífico,económica-comercial,pleno,2018,,carga manual,en vigor el 30-12-2018,1
+VNM,Viet Nam,CPTPP,Tratado Integral y Progresista de Asociación Transpacífico,económica-comercial,pleno,2019,,carga manual,,1
+PER,Peru,CPTPP,Tratado Integral y Progresista de Asociación Transpacífico,económica-comercial,pleno,2021,,carga manual,,1
+MYS,Malaysia,CPTPP,Tratado Integral y Progresista de Asociación Transpacífico,económica-comercial,pleno,2022,,carga manual,,1
+BRN,Brunei Darussalam,CPTPP,Tratado Integral y Progresista de Asociación Transpacífico,económica-comercial,pleno,2023,,carga manual,,1
+CHL,Chile,CPTPP,Tratado Integral y Progresista de Asociación Transpacífico,económica-comercial,pleno,2023,,carga manual,,1
+GBR,United Kingdom,CPTPP,Tratado Integral y Progresista de Asociación Transpacífico,económica-comercial,pleno,2024,,carga manual,en vigor el 15-12-2024,1
+KEN,Kenya,EAC,Comunidad de África Oriental,económica-comercial,pleno,2000,,carga manual,tratado en vigor desde jul. 2000,1
+TZA,Tanzania,EAC,Comunidad de África Oriental,económica-comercial,pleno,2000,,carga manual,tratado en vigor desde jul. 2000,1
+UGA,Uganda,EAC,Comunidad de África Oriental,económica-comercial,pleno,2000,,carga manual,tratado en vigor desde jul. 2000,1
+BDI,Burundi,EAC,Comunidad de África Oriental,económica-comercial,pleno,2007,,carga manual,,1
+RWA,Rwanda,EAC,Comunidad de África Oriental,económica-comercial,pleno,2007,,carga manual,,1
+SSD,South Sudan,EAC,Comunidad de África Oriental,económica-comercial,pleno,2016,,carga manual,,1
+COD,"Congo, Dem. Rep.",EAC,Comunidad de África Oriental,económica-comercial,pleno,2022,,carga manual,,1
+SOM,"Somalia, Fed. Rep.",EAC,Comunidad de África Oriental,económica-comercial,pleno,2024,,carga manual,,1
+AUT,Austria,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,1999,,carga manual,billetes desde 2002,1
+BEL,Belgium,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,1999,,carga manual,billetes desde 2002,1
+DEU,Germany,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,1999,,carga manual,billetes desde 2002,1
+ESP,Spain,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,1999,,carga manual,billetes desde 2002,1
+FIN,Finland,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,1999,,carga manual,billetes desde 2002,1
+FRA,France,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,1999,,carga manual,billetes desde 2002,1
+IRL,Ireland,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,1999,,carga manual,billetes desde 2002,1
+ITA,Italy,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,1999,,carga manual,billetes desde 2002,1
+LUX,Luxembourg,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,1999,,carga manual,billetes desde 2002,1
+NLD,Netherlands,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,1999,,carga manual,billetes desde 2002,1
+PRT,Portugal,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,1999,,carga manual,billetes desde 2002,1
+GRC,Greece,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,2001,,carga manual,,1
+SVN,Slovenia,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,2007,,carga manual,,1
+CYP,Cyprus,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,2008,,carga manual,,1
+MLT,Malta,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,2008,,carga manual,,1
+SVK,Slovak Republic,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,2009,,carga manual,,1
+EST,Estonia,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,2011,,carga manual,,1
+LVA,Latvia,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,2014,,carga manual,,1
+LTU,Lithuania,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,2015,,carga manual,,1
+HRV,Croatia,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,2023,,carga manual,,1
+BGR,Bulgaria,EUROZONA,Zona euro (usa el euro como moneda oficial),económica-comercial,pleno,2026,,carga manual,adopta el euro el 01-01-2026,1
+ARG,Argentina,G20,Grupo de los Veinte,foro informal,pleno,1999,,carga manual,además la UE (1999) y la Unión Africana (2023) como bloques,1
+AUS,Australia,G20,Grupo de los Veinte,foro informal,pleno,1999,,carga manual,además la UE (1999) y la Unión Africana (2023) como bloques,1
+BRA,Brazil,G20,Grupo de los Veinte,foro informal,pleno,1999,,carga manual,además la UE (1999) y la Unión Africana (2023) como bloques,1
+CAN,Canada,G20,Grupo de los Veinte,foro informal,pleno,1999,,carga manual,además la UE (1999) y la Unión Africana (2023) como bloques,1
+CHN,China,G20,Grupo de los Veinte,foro informal,pleno,1999,,carga manual,además la UE (1999) y la Unión Africana (2023) como bloques,1
+DEU,Germany,G20,Grupo de los Veinte,foro informal,pleno,1999,,carga manual,además la UE (1999) y la Unión Africana (2023) como bloques,1
+FRA,France,G20,Grupo de los Veinte,foro informal,pleno,1999,,carga manual,además la UE (1999) y la Unión Africana (2023) como bloques,1
+GBR,United Kingdom,G20,Grupo de los Veinte,foro informal,pleno,1999,,carga manual,además la UE (1999) y la Unión Africana (2023) como bloques,1
+IDN,Indonesia,G20,Grupo de los Veinte,foro informal,pleno,1999,,carga manual,además la UE (1999) y la Unión Africana (2023) como bloques,1
+IND,India,G20,Grupo de los Veinte,foro informal,pleno,1999,,carga manual,además la UE (1999) y la Unión Africana (2023) como bloques,1
+ITA,Italy,G20,Grupo de los Veinte,foro informal,pleno,1999,,carga manual,además la UE (1999) y la Unión Africana (2023) como bloques,1
+JPN,Japan,G20,Grupo de los Veinte,foro informal,pleno,1999,,carga manual,además la UE (1999) y la Unión Africana (2023) como bloques,1
+KOR,"Korea, Rep.",G20,Grupo de los Veinte,foro informal,pleno,1999,,carga manual,además la UE (1999) y la Unión Africana (2023) como bloques,1
+MEX,Mexico,G20,Grupo de los Veinte,foro informal,pleno,1999,,carga manual,además la UE (1999) y la Unión Africana (2023) como bloques,1
+RUS,Russian Federation,G20,Grupo de los Veinte,foro informal,pleno,1999,,carga manual,además la UE (1999) y la Unión Africana (2023) como bloques,1
+SAU,Saudi Arabia,G20,Grupo de los Veinte,foro informal,pleno,1999,,carga manual,además la UE (1999) y la Unión Africana (2023) como bloques,1
+TUR,Turkiye,G20,Grupo de los Veinte,foro informal,pleno,1999,,carga manual,además la UE (1999) y la Unión Africana (2023) como bloques,1
+USA,United States,G20,Grupo de los Veinte,foro informal,pleno,1999,,carga manual,además la UE (1999) y la Unión Africana (2023) como bloques,1
+ZAF,South Africa,G20,Grupo de los Veinte,foro informal,pleno,1999,,carga manual,además la UE (1999) y la Unión Africana (2023) como bloques,1
+DEU,Germany,G7,Grupo de los Siete,foro informal,pleno,1975,,carga manual,cumbre de Rambouillet,1
+FRA,France,G7,Grupo de los Siete,foro informal,pleno,1975,,carga manual,cumbre de Rambouillet,1
+GBR,United Kingdom,G7,Grupo de los Siete,foro informal,pleno,1975,,carga manual,cumbre de Rambouillet,1
+ITA,Italy,G7,Grupo de los Siete,foro informal,pleno,1975,,carga manual,cumbre de Rambouillet,1
+JPN,Japan,G7,Grupo de los Siete,foro informal,pleno,1975,,carga manual,cumbre de Rambouillet,1
+USA,United States,G7,Grupo de los Siete,foro informal,pleno,1975,,carga manual,cumbre de Rambouillet,1
+CAN,Canada,G7,Grupo de los Siete,foro informal,pleno,1976,,carga manual,,1
+CAN,Canada,G8,Grupo de los Ocho (G7 + Rusia),foro informal,pleno,1997,2014,carga manual,formato G8 hasta la suspensión de Rusia,1
+DEU,Germany,G8,Grupo de los Ocho (G7 + Rusia),foro informal,pleno,1997,2014,carga manual,formato G8 hasta la suspensión de Rusia,1
+FRA,France,G8,Grupo de los Ocho (G7 + Rusia),foro informal,pleno,1997,2014,carga manual,formato G8 hasta la suspensión de Rusia,1
+GBR,United Kingdom,G8,Grupo de los Ocho (G7 + Rusia),foro informal,pleno,1997,2014,carga manual,formato G8 hasta la suspensión de Rusia,1
+ITA,Italy,G8,Grupo de los Ocho (G7 + Rusia),foro informal,pleno,1997,2014,carga manual,formato G8 hasta la suspensión de Rusia,1
+JPN,Japan,G8,Grupo de los Ocho (G7 + Rusia),foro informal,pleno,1997,2014,carga manual,formato G8 hasta la suspensión de Rusia,1
+RUS,Russian Federation,G8,Grupo de los Ocho (G7 + Rusia),foro informal,pleno,1997,2014,carga manual,suspendida en 2014 por la anexión de Crimea,1
+USA,United States,G8,Grupo de los Ocho (G7 + Rusia),foro informal,pleno,1997,2014,carga manual,formato G8 hasta la suspensión de Rusia,1
+EGY,"Egypt, Arab Rep.",LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1945,1980,Correlates of War IGO v3,,1
+IRQ,Iraq,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1945,,Correlates of War IGO v3,,1
+SAU,Saudi Arabia,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1945,,Correlates of War IGO v3,,1
+YEM,"Yemen, Rep.",LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1945,1965,Correlates of War IGO v3,,1
+JOR,Jordan,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1946,,Correlates of War IGO v3,,1
+LBN,Lebanon,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1946,,Correlates of War IGO v3,,1
+SYR,Syrian Arab Republic,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1946,1959,Correlates of War IGO v3,,1
+LBY,Libya,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1953,,Correlates of War IGO v3,,1
+SDN,Sudan,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1956,,Correlates of War IGO v3,,1
+MAR,Morocco,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1958,,Correlates of War IGO v3,,1
+TUN,Tunisia,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1958,,Correlates of War IGO v3,,1
+KWT,Kuwait,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1961,,Correlates of War IGO v3,,1
+SYR,Syrian Arab Republic,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1961,2011,Correlates of War IGO v3,,1
+DZA,Algeria,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1962,,Correlates of War IGO v3,,1
+YEM,"Yemen, Rep.",LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1967,,Correlates of War IGO v3,,1
+ARE,United Arab Emirates,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1971,,Correlates of War IGO v3,,1
+BHR,Bahrain,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1971,,Correlates of War IGO v3,,1
+OMN,Oman,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1971,,Correlates of War IGO v3,,1
+QAT,Qatar,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1971,,Correlates of War IGO v3,,1
+MRT,Mauritania,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1973,,Correlates of War IGO v3,,1
+SOM,"Somalia, Fed. Rep.",LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1974,,Correlates of War IGO v3,,1
+DJI,Djibouti,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1977,,Correlates of War IGO v3,,1
+EGY,"Egypt, Arab Rep.",LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1989,,Correlates of War IGO v3,,1
+COM,Comoros,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,1993,,Correlates of War IGO v3,,1
+SYR,Syrian Arab Republic,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,suspendido,2011,2023,carga manual (cambios desde 2015),suspendida en nov. 2011,1
+SYR,Syrian Arab Republic,LIGA_ARABE,Liga de los Estados Árabes,política-diplomática,pleno,2023,,carga manual (cambios desde 2015),readmitida en may. 2023,1
+ARG,Argentina,MERCOSUR,Mercado Común del Sur,económica-comercial,pleno,1991,,carga manual,Tratado de Asunción,1
+BRA,Brazil,MERCOSUR,Mercado Común del Sur,económica-comercial,pleno,1991,,carga manual,Tratado de Asunción,1
+PRY,Paraguay,MERCOSUR,Mercado Común del Sur,económica-comercial,pleno,1991,2012,carga manual,Tratado de Asunción,1
+URY,Uruguay,MERCOSUR,Mercado Común del Sur,económica-comercial,pleno,1991,,carga manual,Tratado de Asunción,1
+BOL,Bolivia,MERCOSUR,Mercado Común del Sur,económica-comercial,asociado,1996,2024,carga manual,,1
+CHL,Chile,MERCOSUR,Mercado Común del Sur,económica-comercial,asociado,1996,,carga manual,,1
+PER,Peru,MERCOSUR,Mercado Común del Sur,económica-comercial,asociado,2003,,carga manual,,1
+COL,Colombia,MERCOSUR,Mercado Común del Sur,económica-comercial,asociado,2004,,carga manual,,1
+ECU,Ecuador,MERCOSUR,Mercado Común del Sur,económica-comercial,asociado,2004,,carga manual,,1
+PRY,Paraguay,MERCOSUR,Mercado Común del Sur,económica-comercial,suspendido,2012,2013,carga manual,suspendido jun. 2012 - ago. 2013,1
+VEN,"Venezuela, RB",MERCOSUR,Mercado Común del Sur,económica-comercial,pleno,2012,2016,carga manual,,1
+GUY,Guyana,MERCOSUR,Mercado Común del Sur,económica-comercial,asociado,2013,,carga manual,,1
+PRY,Paraguay,MERCOSUR,Mercado Común del Sur,económica-comercial,pleno,2013,,carga manual,,1
+SUR,Suriname,MERCOSUR,Mercado Común del Sur,económica-comercial,asociado,2013,,carga manual,,1
+VEN,"Venezuela, RB",MERCOSUR,Mercado Común del Sur,económica-comercial,suspendido,2016,,carga manual,suspendida desde dic. 2016,1
+BOL,Bolivia,MERCOSUR,Mercado Común del Sur,económica-comercial,pleno,2024,,carga manual,miembro pleno desde jul. 2024,1
+PAN,Panama,MERCOSUR,Mercado Común del Sur,económica-comercial,asociado,2024,,carga manual,,1
+AUS,Australia,MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,1989,,carga manual,,1
+EGY,"Egypt, Arab Rep.",MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,1989,,carga manual,,1
+ISR,Israel,MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,1989,,carga manual,,1
+JPN,Japan,MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,1989,,carga manual,,1
+KOR,"Korea, Rep.",MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,1989,,carga manual,,1
+JOR,Jordan,MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,1996,,carga manual,,1
+NZL,New Zealand,MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,1997,,carga manual,,1
+ARG,Argentina,MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,1998,,carga manual,,1
+BHR,Bahrain,MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,2002,,carga manual,,1
+PHL,Philippines,MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,2003,,carga manual,"Taiwán: tratado como tal por ley, sin designación formal",1
+THA,Thailand,MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,2003,,carga manual,"Taiwán: tratado como tal por ley, sin designación formal",1
+TWN,"Taiwan, Province of China",MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,2003,,carga manual,"Taiwán: tratado como tal por ley, sin designación formal",0
+KWT,Kuwait,MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,2004,,carga manual,,1
+MAR,Morocco,MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,2004,,carga manual,,1
+PAK,Pakistan,MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,2004,,carga manual,,1
+AFG,Afghanistan,MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,2012,2022,carga manual,revocado en 2022,1
+TUN,Tunisia,MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,2015,,carga manual,,1
+BRA,Brazil,MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,2019,,carga manual,,1
+COL,Colombia,MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,2022,,carga manual,,1
+QAT,Qatar,MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,2022,,carga manual,,1
+KEN,Kenya,MNNA_EEUU,Aliado principal extra-OTAN de EE. UU. (designación unilateral),militar-seguridad,pleno,2024,,carga manual,,1
+AUT,Austria,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1961,,Correlates of War IGO v3,,1
+BEL,Belgium,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1961,,Correlates of War IGO v3,,1
+CAN,Canada,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1961,,Correlates of War IGO v3,,1
+CHE,Switzerland,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1961,,Correlates of War IGO v3,,1
+DEU,Germany,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1961,,carga manual,Alemania Occidental hasta 1990,1
+DNK,Denmark,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1961,,Correlates of War IGO v3,,1
+ESP,Spain,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1961,,Correlates of War IGO v3,,1
+FRA,France,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1961,,Correlates of War IGO v3,,1
+GBR,United Kingdom,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1961,,Correlates of War IGO v3,,1
+GRC,Greece,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1961,,Correlates of War IGO v3,,1
+IRL,Ireland,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1961,,Correlates of War IGO v3,,1
+ISL,Iceland,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1961,,Correlates of War IGO v3,,1
+LUX,Luxembourg,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1961,,Correlates of War IGO v3,,1
+NLD,Netherlands,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1961,,Correlates of War IGO v3,,1
+NOR,Norway,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1961,,Correlates of War IGO v3,,1
+PRT,Portugal,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1961,,Correlates of War IGO v3,,1
+SWE,Sweden,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1961,,Correlates of War IGO v3,,1
+TUR,Turkiye,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1961,,Correlates of War IGO v3,,1
+USA,United States,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1961,,Correlates of War IGO v3,,1
+ITA,Italy,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1962,,Correlates of War IGO v3,,1
+JPN,Japan,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1964,,Correlates of War IGO v3,,1
+FIN,Finland,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1969,,carga manual,,1
+AUS,Australia,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1971,,Correlates of War IGO v3,,1
+NZL,New Zealand,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1973,,Correlates of War IGO v3,,1
+MEX,Mexico,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+CZE,Czechia,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+HUN,Hungary,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1996,,Correlates of War IGO v3,,1
+KOR,"Korea, Rep.",OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1996,,Correlates of War IGO v3,,1
+POL,Poland,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,1996,,Correlates of War IGO v3,,1
+SVK,Slovak Republic,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,2000,,Correlates of War IGO v3,,1
+CHL,Chile,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,2010,,Correlates of War IGO v3,,1
+EST,Estonia,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,2010,,Correlates of War IGO v3,,1
+ISR,Israel,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,2010,,Correlates of War IGO v3,,1
+SVN,Slovenia,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,2010,,Correlates of War IGO v3,,1
+LVA,Latvia,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,2016,,carga manual (cambios desde 2015),,1
+LTU,Lithuania,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,2018,,carga manual (cambios desde 2015),,1
+COL,Colombia,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,2020,,carga manual (cambios desde 2015),,1
+CRI,Costa Rica,OCDE,Organización para la Cooperación y el Desarrollo Económicos,económica-comercial,pleno,2021,,carga manual (cambios desde 2015),,1
+AFG,Afghanistan,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+DZA,Algeria,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+EGY,"Egypt, Arab Rep.",OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+GIN,Guinea,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+IDN,Indonesia,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+IRN,"Iran, Islamic Rep.",OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+JOR,Jordan,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+KWT,Kuwait,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+LBN,Lebanon,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+LBY,Libya,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+MAR,Morocco,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+MLI,Mali,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+MRT,Mauritania,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+MYS,Malaysia,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+NER,Niger,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+PAK,Pakistan,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+SAU,Saudi Arabia,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+SDN,Sudan,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+SEN,Senegal,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+SOM,"Somalia, Fed. Rep.",OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+TCD,Chad,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+TUN,Tunisia,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+TUR,Turkiye,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+YEM,"Yemen, Rep.",OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+SYR,Syrian Arab Republic,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1970,,Correlates of War IGO v3,,1
+ARE,United Arab Emirates,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1971,,Correlates of War IGO v3,,1
+BHR,Bahrain,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1971,,Correlates of War IGO v3,,1
+OMN,Oman,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1971,,Correlates of War IGO v3,,1
+QAT,Qatar,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1971,,Correlates of War IGO v3,,1
+SLE,Sierra Leone,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1972,,Correlates of War IGO v3,,1
+BGD,Bangladesh,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1974,,Correlates of War IGO v3,,1
+CMR,Cameroon,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1974,,Correlates of War IGO v3,COW dice 2006; corregido con Wikidata,1
+GAB,Gabon,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1974,,Correlates of War IGO v3,,1
+GMB,"Gambia, The",OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1974,,Correlates of War IGO v3,,1
+GNB,Guinea-Bissau,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1974,,Correlates of War IGO v3,,1
+UGA,Uganda,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1974,,Correlates of War IGO v3,,1
+BFA,Burkina Faso,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1975,,Correlates of War IGO v3,,1
+COM,Comoros,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1976,,Correlates of War IGO v3,,1
+IRQ,Iraq,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1976,,Correlates of War IGO v3,,1
+MDV,Maldives,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1976,,Correlates of War IGO v3,,1
+DJI,Djibouti,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1978,,Correlates of War IGO v3,,1
+BEN,Benin,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1982,,Correlates of War IGO v3,,1
+BRN,Brunei Darussalam,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1984,,Correlates of War IGO v3,,1
+NGA,Nigeria,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1986,,Correlates of War IGO v3,,1
+AZE,Azerbaijan,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1991,,Correlates of War IGO v3,,1
+ALB,Albania,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1992,,Correlates of War IGO v3,,1
+KGZ,Kyrgyz Republic,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1992,,Correlates of War IGO v3,,1
+TJK,Tajikistan,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1992,,Correlates of War IGO v3,,1
+TKM,Turkmenistan,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1992,,Correlates of War IGO v3,,1
+MOZ,Mozambique,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1994,,Correlates of War IGO v3,,1
+KAZ,Kazakhstan,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1995,,Correlates of War IGO v3,,1
+UZB,Uzbekistan,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1995,,Correlates of War IGO v3,,1
+SUR,Suriname,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1996,,Correlates of War IGO v3,,1
+TGO,Togo,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1997,,Correlates of War IGO v3,,1
+GUY,Guyana,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,1998,,Correlates of War IGO v3,,1
+CIV,Cote d'Ivoire,OCI,Organización de Cooperación Islámica,política-diplomática,pleno,2001,,Correlates of War IGO v3,,1
+CHN,China,OCS,Organización de Cooperación de Shanghái,militar-seguridad,pleno,1996,,Correlates of War IGO v3,,1
+KAZ,Kazakhstan,OCS,Organización de Cooperación de Shanghái,militar-seguridad,pleno,1996,,Correlates of War IGO v3,,1
+KGZ,Kyrgyz Republic,OCS,Organización de Cooperación de Shanghái,militar-seguridad,pleno,1996,,Correlates of War IGO v3,,1
+RUS,Russian Federation,OCS,Organización de Cooperación de Shanghái,militar-seguridad,pleno,1996,,Correlates of War IGO v3,,1
+TJK,Tajikistan,OCS,Organización de Cooperación de Shanghái,militar-seguridad,pleno,1996,,Correlates of War IGO v3,,1
+UZB,Uzbekistan,OCS,Organización de Cooperación de Shanghái,militar-seguridad,pleno,2001,,Correlates of War IGO v3,,1
+IND,India,OCS,Organización de Cooperación de Shanghái,militar-seguridad,pleno,2017,,carga manual (cambios desde 2015),,1
+PAK,Pakistan,OCS,Organización de Cooperación de Shanghái,militar-seguridad,pleno,2017,,carga manual (cambios desde 2015),,1
+IRN,"Iran, Islamic Rep.",OCS,Organización de Cooperación de Shanghái,militar-seguridad,pleno,2023,,carga manual (cambios desde 2015),,1
+BLR,Belarus,OCS,Organización de Cooperación de Shanghái,militar-seguridad,pleno,2024,,carga manual (cambios desde 2015),,1
+ARG,Argentina,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1890,,Correlates of War IGO v3,,1
+BOL,Bolivia,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1890,,Correlates of War IGO v3,,1
+BRA,Brazil,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1890,,Correlates of War IGO v3,,1
+CHL,Chile,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1890,,Correlates of War IGO v3,,1
+COL,Colombia,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1890,,Correlates of War IGO v3,,1
+ECU,Ecuador,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1890,,Correlates of War IGO v3,,1
+GTM,Guatemala,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1890,,Correlates of War IGO v3,,1
+HTI,Haiti,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1890,1916,Correlates of War IGO v3,,1
+MEX,Mexico,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1890,,Correlates of War IGO v3,,1
+PER,Peru,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1890,,Correlates of War IGO v3,,1
+PRY,Paraguay,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1890,,Correlates of War IGO v3,,1
+SLV,El Salvador,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1890,,Correlates of War IGO v3,,1
+URY,Uruguay,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1890,,Correlates of War IGO v3,,1
+USA,United States,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1890,,Correlates of War IGO v3,,1
+VEN,"Venezuela, RB",OEA,Organización de los Estados Americanos,política-diplomática,pleno,1890,2019,Correlates of War IGO v3 + carga manual (salida),denuncia de la Carta efectiva en abr. 2019,1
+DOM,Dominican Republic,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1894,1917,Correlates of War IGO v3,,1
+HND,Honduras,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1899,2010,Correlates of War IGO v3,,1
+NIC,Nicaragua,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1900,2023,Correlates of War IGO v3 + carga manual (salida),denuncia de la Carta efectiva en nov. 2023,1
+CUB,Cuba,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1902,1907,Correlates of War IGO v3,,1
+PAN,Panama,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1905,,Correlates of War IGO v3,,1
+CUB,Cuba,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1909,1963,Correlates of War IGO v3,,1
+CRI,Costa Rica,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1920,,Correlates of War IGO v3,,1
+DOM,Dominican Republic,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1924,,Correlates of War IGO v3,,1
+HTI,Haiti,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1934,,Correlates of War IGO v3,,1
+BRB,Barbados,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1967,,Correlates of War IGO v3,,1
+TTO,Trinidad and Tobago,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1967,,Correlates of War IGO v3,,1
+JAM,Jamaica,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1969,,Correlates of War IGO v3,,1
+GRD,Grenada,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1975,,Correlates of War IGO v3,,1
+SUR,Suriname,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1977,,Correlates of War IGO v3,,1
+DMA,Dominica,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1979,,Correlates of War IGO v3,,1
+LCA,St. Lucia,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1979,,Correlates of War IGO v3,,1
+ATG,Antigua and Barbuda,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1981,,Correlates of War IGO v3,,1
+VCT,St. Vincent and the Grenadines,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1981,,Correlates of War IGO v3,,1
+BHS,"Bahamas, The",OEA,Organización de los Estados Americanos,política-diplomática,pleno,1982,,Correlates of War IGO v3,,1
+KNA,St. Kitts and Nevis,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1984,,Correlates of War IGO v3,,1
+CAN,Canada,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1990,,Correlates of War IGO v3,,1
+BLZ,Belize,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1991,,Correlates of War IGO v3,,1
+GUY,Guyana,OEA,Organización de los Estados Americanos,política-diplomática,pleno,1991,,Correlates of War IGO v3,,1
+CUB,Cuba,OEA,Organización de los Estados Americanos,política-diplomática,pleno,2009,,Correlates of War IGO v3,,1
+ARG,Argentina,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+ATG,Antigua and Barbuda,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+AUS,Australia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+AUT,Austria,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+BDI,Burundi,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+BEL,Belgium,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+BFA,Burkina Faso,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+BGD,Bangladesh,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+BHR,Bahrain,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+BLZ,Belize,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+BOL,Bolivia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+BRA,Brazil,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+BRB,Barbados,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+BRN,Brunei Darussalam,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+BWA,Botswana,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+CAF,Central African Republic,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+CAN,Canada,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+CHE,Switzerland,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+CHL,Chile,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+CIV,Cote d'Ivoire,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+CMR,Cameroon,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+COL,Colombia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+CRI,Costa Rica,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+CUB,Cuba,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+CYP,Cyprus,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+CZE,Czechia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+DEU,Germany,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+DJI,Djibouti,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+DMA,Dominica,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+DNK,Denmark,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+DOM,Dominican Republic,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+EGY,"Egypt, Arab Rep.",OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+ESP,Spain,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+FIN,Finland,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+FRA,France,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+GAB,Gabon,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+GBR,United Kingdom,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+GHA,Ghana,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+GIN,Guinea,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+GNB,Guinea-Bissau,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+GRC,Greece,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+GTM,Guatemala,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+GUY,Guyana,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+HKG,"Hong Kong SAR, China",OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,carga manual,"territorios aduaneros, no están en COW",1
+HND,Honduras,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+HUN,Hungary,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+IDN,Indonesia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+IND,India,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+IRL,Ireland,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+ISL,Iceland,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+ISR,Israel,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+ITA,Italy,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+JAM,Jamaica,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+JPN,Japan,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+KEN,Kenya,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+KOR,"Korea, Rep.",OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+KWT,Kuwait,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+LCA,St. Lucia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+LIE,Liechtenstein,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+LKA,Sri Lanka,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+LSO,Lesotho,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+LUX,Luxembourg,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+MAC,"Macao SAR, China",OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,carga manual,"territorios aduaneros, no están en COW",1
+MAR,Morocco,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+MDG,Madagascar,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+MDV,Maldives,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+MEX,Mexico,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+MLI,Mali,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+MLT,Malta,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+MMR,Myanmar,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+MOZ,Mozambique,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+MRT,Mauritania,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+MUS,Mauritius,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+MWI,Malawi,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+MYS,Malaysia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+NAM,Namibia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+NGA,Nigeria,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+NIC,Nicaragua,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+NLD,Netherlands,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+NOR,Norway,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+NZL,New Zealand,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+PAK,Pakistan,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+PER,Peru,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+PHL,Philippines,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+POL,Poland,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+PRT,Portugal,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+PRY,Paraguay,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+ROU,Romania,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+SEN,Senegal,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+SGP,Singapore,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+SLE,Sierra Leone,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+SLV,El Salvador,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+SUR,Suriname,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+SVK,Slovak Republic,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+SVN,Slovenia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+SWE,Sweden,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+SWZ,Eswatini,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+TGO,Togo,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+THA,Thailand,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+TTO,Trinidad and Tobago,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+TUN,Tunisia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+TUR,Turkiye,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+TZA,Tanzania,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+UGA,Uganda,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+URY,Uruguay,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+USA,United States,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+VCT,St. Vincent and the Grenadines,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+VEN,"Venezuela, RB",OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+ZAF,South Africa,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+ZMB,Zambia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+ZWE,Zimbabwe,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1995,,Correlates of War IGO v3,,1
+AGO,Angola,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1996,,Correlates of War IGO v3,,1
+ARE,United Arab Emirates,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1996,,Correlates of War IGO v3,,1
+BEN,Benin,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1996,,Correlates of War IGO v3,,1
+BGR,Bulgaria,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1996,,Correlates of War IGO v3,,1
+ECU,Ecuador,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1996,,Correlates of War IGO v3,,1
+FJI,Fiji,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1996,,Correlates of War IGO v3,,1
+GMB,"Gambia, The",OMC,Organización Mundial del Comercio,económica-comercial,pleno,1996,,Correlates of War IGO v3,,1
+GRD,Grenada,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1996,,Correlates of War IGO v3,,1
+HTI,Haiti,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1996,,Correlates of War IGO v3,,1
+KNA,St. Kitts and Nevis,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1996,,Correlates of War IGO v3,,1
+NER,Niger,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1996,,Correlates of War IGO v3,,1
+PNG,Papua New Guinea,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1996,,Correlates of War IGO v3,,1
+QAT,Qatar,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1996,,Correlates of War IGO v3,,1
+RWA,Rwanda,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1996,,Correlates of War IGO v3,,1
+SLB,Solomon Islands,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1996,,Correlates of War IGO v3,,1
+TCD,Chad,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1996,,Correlates of War IGO v3,,1
+COD,"Congo, Dem. Rep.",OMC,Organización Mundial del Comercio,económica-comercial,pleno,1997,,Correlates of War IGO v3,,1
+COG,"Congo, Rep.",OMC,Organización Mundial del Comercio,económica-comercial,pleno,1997,,Correlates of War IGO v3,,1
+MNG,Mongolia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1997,,Correlates of War IGO v3,,1
+PAN,Panama,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1997,,Correlates of War IGO v3,,1
+KGZ,Kyrgyz Republic,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1998,,Correlates of War IGO v3,,1
+EST,Estonia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1999,,Correlates of War IGO v3,,1
+LVA,Latvia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,1999,,Correlates of War IGO v3,,1
+ALB,Albania,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2000,,Correlates of War IGO v3,,1
+GEO,Georgia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2000,,Correlates of War IGO v3,,1
+HRV,Croatia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2000,,Correlates of War IGO v3,,1
+JOR,Jordan,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2000,,Correlates of War IGO v3,,1
+OMN,Oman,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2000,,Correlates of War IGO v3,,1
+CHN,China,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2001,,Correlates of War IGO v3,,1
+LTU,Lithuania,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2001,,Correlates of War IGO v3,,1
+MDA,Moldova,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2001,,Correlates of War IGO v3,,1
+TWN,"Taiwan, Province of China",OMC,Organización Mundial del Comercio,económica-comercial,pleno,2002,,Correlates of War IGO v3,,0
+ARM,Armenia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2003,,Correlates of War IGO v3,,1
+MKD,North Macedonia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2003,,carga manual,falta en COW,1
+KHM,Cambodia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2004,,Correlates of War IGO v3,,1
+NPL,Nepal,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2004,,Correlates of War IGO v3,,1
+SAU,Saudi Arabia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2005,,Correlates of War IGO v3,,1
+TON,Tonga,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2007,,Correlates of War IGO v3,,1
+VNM,Viet Nam,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2007,,Correlates of War IGO v3,,1
+CPV,Cabo Verde,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2008,,Correlates of War IGO v3,,1
+UKR,Ukraine,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2008,,Correlates of War IGO v3,,1
+MNE,Montenegro,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2012,,Correlates of War IGO v3,,1
+RUS,Russian Federation,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2012,,Correlates of War IGO v3,,1
+VUT,Vanuatu,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2012,,Correlates of War IGO v3,,1
+WSM,Samoa,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2012,,Correlates of War IGO v3,,1
+LAO,Lao PDR,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2013,,Correlates of War IGO v3,,1
+TJK,Tajikistan,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2013,,Correlates of War IGO v3,,1
+YEM,"Yemen, Rep.",OMC,Organización Mundial del Comercio,económica-comercial,pleno,2014,,Correlates of War IGO v3,,1
+KAZ,Kazakhstan,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2015,,carga manual (cambios desde 2015),,1
+SYC,Seychelles,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2015,,carga manual (cambios desde 2015),,1
+AFG,Afghanistan,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2016,,carga manual (cambios desde 2015),,1
+LBR,Liberia,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2016,,carga manual (cambios desde 2015),,1
+COM,Comoros,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2024,,carga manual (cambios desde 2015),,1
+TLS,Timor-Leste,OMC,Organización Mundial del Comercio,económica-comercial,pleno,2024,,carga manual (cambios desde 2015),,1
+IRN,"Iran, Islamic Rep.",OPEP,Organización de Países Exportadores de Petróleo,energética,pleno,1960,,carga manual,"fundadores, Conferencia de Bagdad",1
+IRQ,Iraq,OPEP,Organización de Países Exportadores de Petróleo,energética,pleno,1960,,carga manual,"fundadores, Conferencia de Bagdad",1
+KWT,Kuwait,OPEP,Organización de Países Exportadores de Petróleo,energética,pleno,1960,,carga manual,"fundadores, Conferencia de Bagdad",1
+SAU,Saudi Arabia,OPEP,Organización de Países Exportadores de Petróleo,energética,pleno,1960,,carga manual,"fundadores, Conferencia de Bagdad",1
+VEN,"Venezuela, RB",OPEP,Organización de Países Exportadores de Petróleo,energética,pleno,1960,,carga manual,"fundadores, Conferencia de Bagdad",1
+QAT,Qatar,OPEP,Organización de Países Exportadores de Petróleo,energética,pleno,1961,2019,carga manual,sale el 01-01-2019,1
+IDN,Indonesia,OPEP,Organización de Países Exportadores de Petróleo,energética,pleno,1962,2009,carga manual,suspende su membresía en ene. 2009,1
+LBY,Libya,OPEP,Organización de Países Exportadores de Petróleo,energética,pleno,1962,,carga manual,,1
+ARE,United Arab Emirates,OPEP,Organización de Países Exportadores de Petróleo,energética,pleno,1967,,carga manual,Abu Dabi desde 1967; Emiratos Árabes Unidos desde 1974,1
+DZA,Algeria,OPEP,Organización de Países Exportadores de Petróleo,energética,pleno,1969,,carga manual,,1
+NGA,Nigeria,OPEP,Organización de Países Exportadores de Petróleo,energética,pleno,1971,,carga manual,,1
+ECU,Ecuador,OPEP,Organización de Países Exportadores de Petróleo,energética,pleno,1973,1992,carga manual,suspende su membresía en dic. 1992,1
+GAB,Gabon,OPEP,Organización de Países Exportadores de Petróleo,energética,pleno,1975,1995,carga manual,sale en ene. 1995,1
+AGO,Angola,OPEP,Organización de Países Exportadores de Petróleo,energética,pleno,2007,2024,carga manual,sale el 01-01-2024,1
+ECU,Ecuador,OPEP,Organización de Países Exportadores de Petróleo,energética,pleno,2007,2020,carga manual,vuelve en oct. 2007; sale el 01-01-2020,1
+GAB,Gabon,OPEP,Organización de Países Exportadores de Petróleo,energética,pleno,2016,,carga manual,vuelve en jul. 2016,1
+IDN,Indonesia,OPEP,Organización de Países Exportadores de Petróleo,energética,pleno,2016,2016,carga manual,vuelve en ene. 2016 y se suspende en nov. 2016 (no cuenta al 31-12),1
+GNQ,Equatorial Guinea,OPEP,Organización de Países Exportadores de Petróleo,energética,pleno,2017,,carga manual,,1
+COG,"Congo, Rep.",OPEP,Organización de Países Exportadores de Petróleo,energética,pleno,2018,,carga manual,,1
+AZE,Azerbaijan,OPEP_PLUS,OPEP+ (países fuera de la OPEP en la Declaración de Cooperación),energética,pleno,2017,,carga manual,Declaración de Cooperación firmada el 10-12-2016; los miembros de la OPEP están en la sigla OPEP,1
+BHR,Bahrain,OPEP_PLUS,OPEP+ (países fuera de la OPEP en la Declaración de Cooperación),energética,pleno,2017,,carga manual,Declaración de Cooperación firmada el 10-12-2016; los miembros de la OPEP están en la sigla OPEP,1
+BRN,Brunei Darussalam,OPEP_PLUS,OPEP+ (países fuera de la OPEP en la Declaración de Cooperación),energética,pleno,2017,,carga manual,Declaración de Cooperación firmada el 10-12-2016; los miembros de la OPEP están en la sigla OPEP,1
+KAZ,Kazakhstan,OPEP_PLUS,OPEP+ (países fuera de la OPEP en la Declaración de Cooperación),energética,pleno,2017,,carga manual,Declaración de Cooperación firmada el 10-12-2016; los miembros de la OPEP están en la sigla OPEP,1
+MEX,Mexico,OPEP_PLUS,OPEP+ (países fuera de la OPEP en la Declaración de Cooperación),energética,pleno,2017,,carga manual,Declaración de Cooperación firmada el 10-12-2016; los miembros de la OPEP están en la sigla OPEP,1
+MYS,Malaysia,OPEP_PLUS,OPEP+ (países fuera de la OPEP en la Declaración de Cooperación),energética,pleno,2017,,carga manual,Declaración de Cooperación firmada el 10-12-2016; los miembros de la OPEP están en la sigla OPEP,1
+OMN,Oman,OPEP_PLUS,OPEP+ (países fuera de la OPEP en la Declaración de Cooperación),energética,pleno,2017,,carga manual,Declaración de Cooperación firmada el 10-12-2016; los miembros de la OPEP están en la sigla OPEP,1
+RUS,Russian Federation,OPEP_PLUS,OPEP+ (países fuera de la OPEP en la Declaración de Cooperación),energética,pleno,2017,,carga manual,Declaración de Cooperación firmada el 10-12-2016; los miembros de la OPEP están en la sigla OPEP,1
+SDN,Sudan,OPEP_PLUS,OPEP+ (países fuera de la OPEP en la Declaración de Cooperación),energética,pleno,2017,,carga manual,Declaración de Cooperación firmada el 10-12-2016; los miembros de la OPEP están en la sigla OPEP,1
+SSD,South Sudan,OPEP_PLUS,OPEP+ (países fuera de la OPEP en la Declaración de Cooperación),energética,pleno,2017,,carga manual,Declaración de Cooperación firmada el 10-12-2016; los miembros de la OPEP están en la sigla OPEP,1
+BEL,Belgium,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,1949,,Correlates of War IGO v3,,1
+CAN,Canada,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,1949,,Correlates of War IGO v3,,1
+DNK,Denmark,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,1949,,Correlates of War IGO v3,,1
+FRA,France,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,1949,,Correlates of War IGO v3,,1
+GBR,United Kingdom,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,1949,,Correlates of War IGO v3,,1
+ISL,Iceland,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,1949,,Correlates of War IGO v3,,1
+ITA,Italy,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,1949,,Correlates of War IGO v3,,1
+LUX,Luxembourg,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,1949,,Correlates of War IGO v3,,1
+NLD,Netherlands,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,1949,,Correlates of War IGO v3,,1
+NOR,Norway,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,1949,,Correlates of War IGO v3,,1
+PRT,Portugal,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,1949,,Correlates of War IGO v3,,1
+USA,United States,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,1949,,Correlates of War IGO v3,,1
+GRC,Greece,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,1952,,Correlates of War IGO v3,,1
+TUR,Turkiye,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,1952,,Correlates of War IGO v3,,1
+DEU,Germany,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,1955,,Correlates of War IGO v3,,1
+ESP,Spain,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,1982,,Correlates of War IGO v3,,1
+CZE,Czechia,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,1999,,Correlates of War IGO v3,,1
+HUN,Hungary,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,1999,,Correlates of War IGO v3,,1
+POL,Poland,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,1999,,Correlates of War IGO v3,,1
+BGR,Bulgaria,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,2004,,Correlates of War IGO v3,,1
+EST,Estonia,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,2004,,Correlates of War IGO v3,,1
+LTU,Lithuania,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,2004,,Correlates of War IGO v3,,1
+LVA,Latvia,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,2004,,Correlates of War IGO v3,,1
+ROU,Romania,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,2004,,Correlates of War IGO v3,,1
+SVK,Slovak Republic,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,2004,,Correlates of War IGO v3,,1
+SVN,Slovenia,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,2004,,Correlates of War IGO v3,,1
+ALB,Albania,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,2009,,Correlates of War IGO v3,,1
+HRV,Croatia,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,2009,,Correlates of War IGO v3,,1
+MNE,Montenegro,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,2017,,carga manual (cambios desde 2015),,1
+MKD,North Macedonia,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,2020,,carga manual (cambios desde 2015),,1
+FIN,Finland,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,2023,,carga manual (cambios desde 2015),,1
+SWE,Sweden,OTAN,Organización del Tratado del Atlántico Norte,militar-seguridad,pleno,2024,,carga manual (cambios desde 2015),,1
+ARM,Armenia,OTSC,Organización del Tratado de Seguridad Colectiva,militar-seguridad,pleno,2002,,Correlates of War IGO v3,,1
+BLR,Belarus,OTSC,Organización del Tratado de Seguridad Colectiva,militar-seguridad,pleno,2002,,Correlates of War IGO v3,,1
+KAZ,Kazakhstan,OTSC,Organización del Tratado de Seguridad Colectiva,militar-seguridad,pleno,2002,,Correlates of War IGO v3,,1
+KGZ,Kyrgyz Republic,OTSC,Organización del Tratado de Seguridad Colectiva,militar-seguridad,pleno,2002,,Correlates of War IGO v3,,1
+RUS,Russian Federation,OTSC,Organización del Tratado de Seguridad Colectiva,militar-seguridad,pleno,2002,,Correlates of War IGO v3,,1
+TJK,Tajikistan,OTSC,Organización del Tratado de Seguridad Colectiva,militar-seguridad,pleno,2002,,Correlates of War IGO v3,,1
+UZB,Uzbekistan,OTSC,Organización del Tratado de Seguridad Colectiva,militar-seguridad,pleno,2006,2012,carga manual,"vuelve en 2006, suspende su participación en 2012",1
+AFG,Afghanistan,OTSC,Organización del Tratado de Seguridad Colectiva,militar-seguridad,observador,2013,,Correlates of War IGO v3,,1
+SRB,Serbia,OTSC,Organización del Tratado de Seguridad Colectiva,militar-seguridad,observador,2013,,Correlates of War IGO v3,,1
+AUS,Australia,QUAD,Diálogo de Seguridad Cuadrilateral,militar-seguridad,pleno,2017,,carga manual,"primer diálogo en 2007, inactivo 2008-2016",1
+IND,India,QUAD,Diálogo de Seguridad Cuadrilateral,militar-seguridad,pleno,2017,,carga manual,"primer diálogo en 2007, inactivo 2008-2016",1
+JPN,Japan,QUAD,Diálogo de Seguridad Cuadrilateral,militar-seguridad,pleno,2017,,carga manual,"primer diálogo en 2007, inactivo 2008-2016",1
+USA,United States,QUAD,Diálogo de Seguridad Cuadrilateral,militar-seguridad,pleno,2017,,carga manual,"primer diálogo en 2007, inactivo 2008-2016",1
+AUS,Australia,RCEP,Asociación Económica Integral Regional (Asia-Pacífico),económica-comercial,pleno,2022,,carga manual,Myanmar ratificó pero su entrada en vigor está en disputa: no se incluye,1
+BRN,Brunei Darussalam,RCEP,Asociación Económica Integral Regional (Asia-Pacífico),económica-comercial,pleno,2022,,carga manual,Myanmar ratificó pero su entrada en vigor está en disputa: no se incluye,1
+CHN,China,RCEP,Asociación Económica Integral Regional (Asia-Pacífico),económica-comercial,pleno,2022,,carga manual,Myanmar ratificó pero su entrada en vigor está en disputa: no se incluye,1
+JPN,Japan,RCEP,Asociación Económica Integral Regional (Asia-Pacífico),económica-comercial,pleno,2022,,carga manual,Myanmar ratificó pero su entrada en vigor está en disputa: no se incluye,1
+KHM,Cambodia,RCEP,Asociación Económica Integral Regional (Asia-Pacífico),económica-comercial,pleno,2022,,carga manual,Myanmar ratificó pero su entrada en vigor está en disputa: no se incluye,1
+KOR,"Korea, Rep.",RCEP,Asociación Económica Integral Regional (Asia-Pacífico),económica-comercial,pleno,2022,,carga manual,Myanmar ratificó pero su entrada en vigor está en disputa: no se incluye,1
+LAO,Lao PDR,RCEP,Asociación Económica Integral Regional (Asia-Pacífico),económica-comercial,pleno,2022,,carga manual,Myanmar ratificó pero su entrada en vigor está en disputa: no se incluye,1
+MYS,Malaysia,RCEP,Asociación Económica Integral Regional (Asia-Pacífico),económica-comercial,pleno,2022,,carga manual,Myanmar ratificó pero su entrada en vigor está en disputa: no se incluye,1
+NZL,New Zealand,RCEP,Asociación Económica Integral Regional (Asia-Pacífico),económica-comercial,pleno,2022,,carga manual,Myanmar ratificó pero su entrada en vigor está en disputa: no se incluye,1
+SGP,Singapore,RCEP,Asociación Económica Integral Regional (Asia-Pacífico),económica-comercial,pleno,2022,,carga manual,Myanmar ratificó pero su entrada en vigor está en disputa: no se incluye,1
+THA,Thailand,RCEP,Asociación Económica Integral Regional (Asia-Pacífico),económica-comercial,pleno,2022,,carga manual,Myanmar ratificó pero su entrada en vigor está en disputa: no se incluye,1
+VNM,Viet Nam,RCEP,Asociación Económica Integral Regional (Asia-Pacífico),económica-comercial,pleno,2022,,carga manual,Myanmar ratificó pero su entrada en vigor está en disputa: no se incluye,1
+IDN,Indonesia,RCEP,Asociación Económica Integral Regional (Asia-Pacífico),económica-comercial,pleno,2023,,carga manual,,1
+PHL,Philippines,RCEP,Asociación Económica Integral Regional (Asia-Pacífico),económica-comercial,pleno,2023,,carga manual,,1
+BGD,Bangladesh,SAARC,Asociación del Asia Meridional para la Cooperación Regional,económica-comercial,pleno,1985,,Correlates of War IGO v3,,1
+BTN,Bhutan,SAARC,Asociación del Asia Meridional para la Cooperación Regional,económica-comercial,pleno,1985,,Correlates of War IGO v3,,1
+IND,India,SAARC,Asociación del Asia Meridional para la Cooperación Regional,económica-comercial,pleno,1985,,Correlates of War IGO v3,,1
+LKA,Sri Lanka,SAARC,Asociación del Asia Meridional para la Cooperación Regional,económica-comercial,pleno,1985,,Correlates of War IGO v3,,1
+MDV,Maldives,SAARC,Asociación del Asia Meridional para la Cooperación Regional,económica-comercial,pleno,1985,,Correlates of War IGO v3,,1
+NPL,Nepal,SAARC,Asociación del Asia Meridional para la Cooperación Regional,económica-comercial,pleno,1985,,Correlates of War IGO v3,,1
+PAK,Pakistan,SAARC,Asociación del Asia Meridional para la Cooperación Regional,económica-comercial,pleno,1985,,Correlates of War IGO v3,,1
+CHN,China,SAARC,Asociación del Asia Meridional para la Cooperación Regional,económica-comercial,observador,2004,,Correlates of War IGO v3,,1
+JPN,Japan,SAARC,Asociación del Asia Meridional para la Cooperación Regional,económica-comercial,observador,2005,,Correlates of War IGO v3,,1
+KOR,"Korea, Rep.",SAARC,Asociación del Asia Meridional para la Cooperación Regional,económica-comercial,observador,2006,,Correlates of War IGO v3,,1
+USA,United States,SAARC,Asociación del Asia Meridional para la Cooperación Regional,económica-comercial,observador,2006,,Correlates of War IGO v3,,1
+AFG,Afghanistan,SAARC,Asociación del Asia Meridional para la Cooperación Regional,económica-comercial,pleno,2007,,Correlates of War IGO v3,,1
+AUS,Australia,SAARC,Asociación del Asia Meridional para la Cooperación Regional,económica-comercial,observador,2008,,Correlates of War IGO v3,,1
+IRN,"Iran, Islamic Rep.",SAARC,Asociación del Asia Meridional para la Cooperación Regional,económica-comercial,observador,2008,,Correlates of War IGO v3,,1
+MMR,Myanmar,SAARC,Asociación del Asia Meridional para la Cooperación Regional,económica-comercial,observador,2008,,Correlates of War IGO v3,,1
+MUS,Mauritius,SAARC,Asociación del Asia Meridional para la Cooperación Regional,económica-comercial,observador,2008,,Correlates of War IGO v3,,1
+BWA,Botswana,SACU,Unión Aduanera de África Austral,económica-comercial,pleno,1969,,Correlates of War IGO v3,,1
+LSO,Lesotho,SACU,Unión Aduanera de África Austral,económica-comercial,pleno,1969,,Correlates of War IGO v3,,1
+SWZ,Eswatini,SACU,Unión Aduanera de África Austral,económica-comercial,pleno,1969,,Correlates of War IGO v3,,1
+ZAF,South Africa,SACU,Unión Aduanera de África Austral,económica-comercial,pleno,1969,,Correlates of War IGO v3,,1
+NAM,Namibia,SACU,Unión Aduanera de África Austral,económica-comercial,pleno,1990,,Correlates of War IGO v3,,1
+AGO,Angola,SADC,Comunidad de Desarrollo de África Austral,económica-comercial,pleno,1992,,Correlates of War IGO v3,,1
+BWA,Botswana,SADC,Comunidad de Desarrollo de África Austral,económica-comercial,pleno,1992,,Correlates of War IGO v3,,1
+LSO,Lesotho,SADC,Comunidad de Desarrollo de África Austral,económica-comercial,pleno,1992,,Correlates of War IGO v3,,1
+MOZ,Mozambique,SADC,Comunidad de Desarrollo de África Austral,económica-comercial,pleno,1992,,Correlates of War IGO v3,,1
+MWI,Malawi,SADC,Comunidad de Desarrollo de África Austral,económica-comercial,pleno,1992,,Correlates of War IGO v3,,1
+NAM,Namibia,SADC,Comunidad de Desarrollo de África Austral,económica-comercial,pleno,1992,,Correlates of War IGO v3,,1
+SWZ,Eswatini,SADC,Comunidad de Desarrollo de África Austral,económica-comercial,pleno,1992,,Correlates of War IGO v3,,1
+TZA,Tanzania,SADC,Comunidad de Desarrollo de África Austral,económica-comercial,pleno,1992,,Correlates of War IGO v3,,1
+ZMB,Zambia,SADC,Comunidad de Desarrollo de África Austral,económica-comercial,pleno,1992,,Correlates of War IGO v3,,1
+ZWE,Zimbabwe,SADC,Comunidad de Desarrollo de África Austral,económica-comercial,pleno,1992,,Correlates of War IGO v3,,1
+ZAF,South Africa,SADC,Comunidad de Desarrollo de África Austral,económica-comercial,pleno,1994,,carga manual,,1
+MUS,Mauritius,SADC,Comunidad de Desarrollo de África Austral,económica-comercial,pleno,1995,,carga manual,,1
+COD,"Congo, Dem. Rep.",SADC,Comunidad de Desarrollo de África Austral,económica-comercial,pleno,1997,,carga manual,,1
+SYC,Seychelles,SADC,Comunidad de Desarrollo de África Austral,económica-comercial,pleno,1997,2004,carga manual,sale en jul. 2004,1
+MDG,Madagascar,SADC,Comunidad de Desarrollo de África Austral,económica-comercial,pleno,2005,2009,carga manual,,1
+SYC,Seychelles,SADC,Comunidad de Desarrollo de África Austral,económica-comercial,pleno,2008,,carga manual,,1
+MDG,Madagascar,SADC,Comunidad de Desarrollo de África Austral,económica-comercial,suspendido,2009,2014,carga manual,suspendida tras el golpe de 2009,1
+MDG,Madagascar,SADC,Comunidad de Desarrollo de África Austral,económica-comercial,pleno,2014,,carga manual,,1
+COM,Comoros,SADC,Comunidad de Desarrollo de África Austral,económica-comercial,pleno,2017,,carga manual (cambios desde 2015),,1
+CRI,Costa Rica,SICA,Sistema de la Integración Centroamericana,económica-comercial,pleno,1991,,Correlates of War IGO v3,,1
+GTM,Guatemala,SICA,Sistema de la Integración Centroamericana,económica-comercial,pleno,1991,,Correlates of War IGO v3,,1
+HND,Honduras,SICA,Sistema de la Integración Centroamericana,económica-comercial,pleno,1991,,Correlates of War IGO v3,,1
+NIC,Nicaragua,SICA,Sistema de la Integración Centroamericana,económica-comercial,pleno,1991,,Correlates of War IGO v3,,1
+PAN,Panama,SICA,Sistema de la Integración Centroamericana,económica-comercial,pleno,1991,,Correlates of War IGO v3,,1
+SLV,El Salvador,SICA,Sistema de la Integración Centroamericana,económica-comercial,pleno,1991,,Correlates of War IGO v3,,1
+BLZ,Belize,SICA,Sistema de la Integración Centroamericana,económica-comercial,pleno,2000,,Correlates of War IGO v3,,1
+DOM,Dominican Republic,SICA,Sistema de la Integración Centroamericana,económica-comercial,pleno,2013,,Correlates of War IGO v3,,1
+CAN,Canada,TLCAN,Tratado de Libre Comercio de América del Norte (NAFTA),económica-comercial,pleno,1993,2020,Correlates of War IGO v3 + carga manual (salida),reemplazado por el T-MEC,1
+MEX,Mexico,TLCAN,Tratado de Libre Comercio de América del Norte (NAFTA),económica-comercial,pleno,1993,2020,Correlates of War IGO v3 + carga manual (salida),reemplazado por el T-MEC,1
+USA,United States,TLCAN,Tratado de Libre Comercio de América del Norte (NAFTA),económica-comercial,pleno,1993,2020,Correlates of War IGO v3 + carga manual (salida),reemplazado por el T-MEC,1
+CAN,Canada,TMEC,"Tratado entre México, Estados Unidos y Canadá (USMCA)",económica-comercial,pleno,2020,,carga manual,reemplaza al TLCAN desde el 01-07-2020,1
+MEX,Mexico,TMEC,"Tratado entre México, Estados Unidos y Canadá (USMCA)",económica-comercial,pleno,2020,,carga manual,reemplaza al TLCAN desde el 01-07-2020,1
+USA,United States,TMEC,"Tratado entre México, Estados Unidos y Canadá (USMCA)",económica-comercial,pleno,2020,,carga manual,reemplaza al TLCAN desde el 01-07-2020,1
+AGO,Angola,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+BDI,Burundi,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+BEN,Benin,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+BFA,Burkina Faso,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+BWA,Botswana,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+CAF,Central African Republic,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+CIV,Cote d'Ivoire,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+CMR,Cameroon,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+COD,"Congo, Dem. Rep.",UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+COG,"Congo, Rep.",UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+COM,Comoros,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+CPV,Cabo Verde,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+DJI,Djibouti,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+DZA,Algeria,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+EGY,"Egypt, Arab Rep.",UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+ERI,Eritrea,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+ETH,Ethiopia,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+GAB,Gabon,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+GHA,Ghana,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+GIN,Guinea,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+GMB,"Gambia, The",UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+GNB,Guinea-Bissau,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+GNQ,Equatorial Guinea,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+KEN,Kenya,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+LBR,Liberia,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+LBY,Libya,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+LSO,Lesotho,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+MDG,Madagascar,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+MLI,Mali,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+MOZ,Mozambique,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+MRT,Mauritania,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+MUS,Mauritius,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+MWI,Malawi,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+NAM,Namibia,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+NER,Niger,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+NGA,Nigeria,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+RWA,Rwanda,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+SDN,Sudan,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+SEN,Senegal,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+SLE,Sierra Leone,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+SOM,"Somalia, Fed. Rep.",UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+STP,Sao Tome and Principe,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+SWZ,Eswatini,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+SYC,Seychelles,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+TCD,Chad,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+TGO,Togo,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+TUN,Tunisia,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+TZA,Tanzania,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+UGA,Uganda,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+ZAF,South Africa,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+ZMB,Zambia,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+ZWE,Zimbabwe,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2002,,carga manual,la UA reemplaza a la OUA (1963) en jul. 2002; no se modelan suspensiones,1
+SSD,South Sudan,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2011,,carga manual,,1
+MAR,Morocco,UA,Unión Africana (OUA antes de 2002),política-diplomática,pleno,2017,,carga manual,había dejado la OUA en 1984,1
+BEL,Belgium,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,1958,,carga manual,CEE desde el Tratado de Roma,1
+DEU,Germany,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,1958,,carga manual,CEE desde el Tratado de Roma,1
+FRA,France,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,1958,,carga manual,CEE desde el Tratado de Roma,1
+ITA,Italy,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,1958,,carga manual,CEE desde el Tratado de Roma,1
+LUX,Luxembourg,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,1958,,carga manual,CEE desde el Tratado de Roma,1
+NLD,Netherlands,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,1958,,carga manual,CEE desde el Tratado de Roma,1
+DNK,Denmark,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,1973,,carga manual,,1
+GBR,United Kingdom,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,1973,2020,carga manual,Brexit: sale el 31-01-2020,1
+IRL,Ireland,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,1973,,carga manual,,1
+GRC,Greece,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,1981,,carga manual,,1
+ESP,Spain,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,1986,,carga manual,,1
+PRT,Portugal,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,1986,,carga manual,,1
+AUT,Austria,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,1995,,carga manual,,1
+FIN,Finland,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,1995,,carga manual,,1
+SWE,Sweden,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,1995,,carga manual,,1
+CYP,Cyprus,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,2004,,carga manual,,1
+CZE,Czechia,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,2004,,carga manual,,1
+EST,Estonia,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,2004,,carga manual,,1
+HUN,Hungary,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,2004,,carga manual,,1
+LTU,Lithuania,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,2004,,carga manual,,1
+LVA,Latvia,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,2004,,carga manual,,1
+MLT,Malta,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,2004,,carga manual,,1
+POL,Poland,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,2004,,carga manual,,1
+SVK,Slovak Republic,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,2004,,carga manual,,1
+SVN,Slovenia,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,2004,,carga manual,,1
+BGR,Bulgaria,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,2007,,carga manual,,1
+ROU,Romania,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,2007,,carga manual,,1
+HRV,Croatia,UE,Unión Europea (CEE/CE antes de 1993),económica-comercial,pleno,2013,,carga manual,,1
+ARM,Armenia,UEE,Unión Económica Euroasiática,económica-comercial,pleno,2015,,carga manual,sucede a la Comunidad Económica Euroasiática,1
+BLR,Belarus,UEE,Unión Económica Euroasiática,económica-comercial,pleno,2015,,carga manual,sucede a la Comunidad Económica Euroasiática,1
+KAZ,Kazakhstan,UEE,Unión Económica Euroasiática,económica-comercial,pleno,2015,,carga manual,sucede a la Comunidad Económica Euroasiática,1
+KGZ,Kyrgyz Republic,UEE,Unión Económica Euroasiática,económica-comercial,pleno,2015,,carga manual,sucede a la Comunidad Económica Euroasiática,1
+RUS,Russian Federation,UEE,Unión Económica Euroasiática,económica-comercial,pleno,2015,,carga manual,sucede a la Comunidad Económica Euroasiática,1
+BEN,Benin,UEMOA,Unión Económica y Monetaria de África Occidental,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+BFA,Burkina Faso,UEMOA,Unión Económica y Monetaria de África Occidental,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+CIV,Cote d'Ivoire,UEMOA,Unión Económica y Monetaria de África Occidental,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+MLI,Mali,UEMOA,Unión Económica y Monetaria de África Occidental,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+NER,Niger,UEMOA,Unión Económica y Monetaria de África Occidental,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+SEN,Senegal,UEMOA,Unión Económica y Monetaria de África Occidental,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+TGO,Togo,UEMOA,Unión Económica y Monetaria de África Occidental,económica-comercial,pleno,1994,,Correlates of War IGO v3,,1
+GNB,Guinea-Bissau,UEMOA,Unión Económica y Monetaria de África Occidental,económica-comercial,pleno,1997,,Correlates of War IGO v3,,1

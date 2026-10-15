@@ -1,0 +1,143 @@
+iso3,pais,continente,nivel_ingreso,felicidad_0a10,suicidio_x100k,razon_suicidio_hombres_mujeres,gini,z_felicidad,z_suicidio,ipfs,cuadrante
+USA,Estados Unidos,América,Ingreso alto,6.98,15.6,3.8,39.7,1.31,1.16,1.164,paradoja (feliz y con suicidio alto)
+BEL,Bélgica,Europa,Ingreso alto,6.8,18.4,2.5,26.6,1.16,1.62,1.156,paradoja (feliz y con suicidio alto)
+FRA,Francia,Europa,Ingreso alto,6.69,16.6,2.5,31.5,1.05,1.32,1.048,paradoja (feliz y con suicidio alto)
+SVN,Eslovenia,Europa,Ingreso alto,6.63,18.9,3.9,24.3,1.0,1.71,0.996,paradoja (feliz y con suicidio alto)
+FIN,Finlandia,Europa,Ingreso alto,7.82,14.6,2.3,27.7,2.09,0.99,0.986,paradoja (feliz y con suicidio alto)
+AUT,Austria,Europa,Ingreso alto,7.16,14.5,4.1,30.7,1.48,0.98,0.976,paradoja (feliz y con suicidio alto)
+CHE,Suiza,Europa,Ingreso alto,7.51,14.0,2.1,33.8,1.8,0.89,0.893,paradoja (feliz y con suicidio alto)
+SWE,Suecia,Europa,Ingreso alto,7.38,13.8,2.2,29.8,1.69,0.86,0.863,paradoja (feliz y con suicidio alto)
+URY,Uruguay,América,Ingreso alto,6.47,24.8,3.8,40.8,0.85,2.7,0.853,paradoja (feliz y con suicidio alto)
+LTU,Lituania,Europa,Ingreso alto,6.45,22.1,4.0,36.7,0.83,2.26,0.827,paradoja (feliz y con suicidio alto)
+CZE,República Checa,Europa,Ingreso alto,6.92,13.3,3.7,26.2,1.26,0.78,0.777,paradoja (feliz y con suicidio alto)
+NOR,Noruega,Europa,Ingreso alto,7.37,13.2,2.5,29.1,1.67,0.75,0.753,paradoja (feliz y con suicidio alto)
+AUS,Australia,Oceanía,Ingreso alto,7.16,13.1,2.9,33.8,1.48,0.73,0.735,paradoja (feliz y con suicidio alto)
+EST,Estonia,Europa,Ingreso alto,6.34,14.9,4.4,31.8,0.73,1.05,0.731,paradoja (feliz y con suicidio alto)
+DEU,Alemania,Europa,Ingreso alto,7.03,12.9,2.4,33.6,1.37,0.7,0.704,paradoja (feliz y con suicidio alto)
+KAZ,Kazajistán,Asia,Ingreso mediano alto,6.23,14.6,4.6,29.2,0.63,0.99,0.633,paradoja (feliz y con suicidio alto)
+LVA,Letonia,Europa,Ingreso alto,6.18,15.2,5.9,34.3,0.58,1.09,0.584,paradoja (feliz y con suicidio alto)
+SRB,Serbia,Europa,Ingreso mediano alto,6.18,15.1,2.9,33.1,0.58,1.08,0.582,paradoja (feliz y con suicidio alto)
+NZL,Nueva Zelanda,Oceanía,Ingreso alto,7.2,11.9,2.9,,1.52,0.54,0.539,paradoja (feliz y con suicidio alto)
+ISL,Islandia,Europa,Ingreso alto,7.56,11.9,1.5,26.8,1.84,0.54,0.538,paradoja (feliz y con suicidio alto)
+HRV,Croacia,Europa,Ingreso alto,6.13,15.7,3.6,28.9,0.53,1.17,0.534,paradoja (feliz y con suicidio alto)
+POL,Polonia,Europa,Ingreso alto,6.12,13.7,6.3,28.5,0.53,0.83,0.532,paradoja (feliz y con suicidio alto)
+HUN,Hungría,Europa,Ingreso alto,6.09,16.4,3.5,30.6,0.5,1.3,0.498,paradoja (feliz y con suicidio alto)
+NLD,Países Bajos,Europa,Ingreso alto,7.42,11.5,2.0,25.7,1.71,0.47,0.469,paradoja (feliz y con suicidio alto)
+JPN,Japón,Asia,Ingreso alto,6.04,17.4,2.0,32.3,0.45,1.47,0.455,paradoja (feliz y con suicidio alto)
+PRT,Portugal,Europa,Ingreso alto,6.02,11.5,3.0,34.6,0.43,0.47,0.434,paradoja (feliz y con suicidio alto)
+KOR,Corea del Sur,Asia,Ingreso alto,5.93,27.5,2.3,32.9,0.36,3.17,0.36,paradoja (feliz y con suicidio alto)
+THA,Tailandia,Asia,Ingreso mediano alto,5.89,16.6,5.1,34.9,0.32,1.33,0.319,paradoja (feliz y con suicidio alto)
+MUS,Mauricio,África,Ingreso mediano alto,6.07,10.5,5.9,36.8,0.48,0.3,0.304,paradoja (feliz y con suicidio alto)
+DNK,Dinamarca,Europa,Ingreso alto,7.64,10.5,2.3,28.3,1.92,0.29,0.294,paradoja (feliz y con suicidio alto)
+MDA,Moldavia,Europa,Ingreso mediano alto,5.86,14.1,4.9,25.7,0.29,0.91,0.288,paradoja (feliz y con suicidio alto)
+BLR,Bielorrusia,Europa,Ingreso mediano alto,5.82,15.6,5.5,24.4,0.26,1.16,0.255,paradoja (feliz y con suicidio alto)
+SVK,Eslovaquia,Europa,Ingreso alto,6.39,9.9,5.7,24.1,0.78,0.2,0.201,paradoja (feliz y con suicidio alto)
+MNG,Mongolia,Asia,Ingreso mediano alto,5.76,18.5,6.6,32.7,0.2,1.65,0.2,paradoja (feliz y con suicidio alto)
+ROU,Rumania,Europa,Ingreso alto,6.48,9.6,5.0,33.9,0.86,0.15,0.152,paradoja (feliz y con suicidio alto)
+GBR,Reino Unido,Europa,Ingreso alto,6.94,9.6,3.2,32.4,1.28,0.14,0.14,paradoja (feliz y con suicidio alto)
+CAN,Canadá,América,Ingreso alto,7.03,9.4,3.0,31.1,1.36,0.12,0.122,paradoja (feliz y con suicidio alto)
+BIH,Bosnia y Herzegovina,Europa,Ingreso mediano alto,5.77,9.0,2.9,30.3,0.21,0.04,0.043,paradoja (feliz y con suicidio alto)
+CHN,China,Asia,Ingreso mediano alto,5.58,8.9,1.4,35.8,0.04,0.04,0.039,paradoja (feliz y con suicidio alto)
+MNE,Montenegro,Europa,Ingreso mediano alto,5.55,11.3,2.9,34.3,0.0,0.44,0.005,paradoja (feliz y con suicidio alto)
+ESP,España,Europa,Ingreso alto,6.48,8.7,2.9,33.9,0.85,0.0,0.001,paradoja (feliz y con suicidio alto)
+IRL,Irlanda,Europa,Ingreso alto,7.04,8.6,2.7,29.4,1.37,-0.03,-0.028,bienestar consistente
+UZB,Uzbekistán,Asia,Ingreso mediano bajo,6.06,8.3,1.7,32.9,0.48,-0.06,-0.063,bienestar consistente
+RUS,Rusia,Europa,Ingreso alto,5.46,21.4,4.5,35.1,-0.08,2.13,-0.076,malestar consistente
+LUX,Luxemburgo,Europa,Ingreso alto,7.4,8.2,2.8,32.7,1.7,-0.08,-0.084,bienestar consistente
+SGP,Singapur,Asia,Ingreso alto,6.48,8.1,2.3,,0.86,-0.1,-0.104,bienestar consistente
+CRI,Costa Rica,América,Ingreso alto,6.58,8.1,4.8,48.7,0.95,-0.11,-0.111,bienestar consistente
+ARG,Argentina,América,Ingreso mediano alto,5.97,7.9,3.7,42.4,0.39,-0.13,-0.131,bienestar consistente
+NPL,Nepal,Asia,Ingreso mediano bajo,5.38,10.1,1.9,,-0.15,0.24,-0.151,malestar consistente
+BGR,Bulgaria,Europa,Ingreso alto,5.37,9.5,3.6,39.0,-0.16,0.13,-0.157,malestar consistente
+CHL,Chile,América,Ingreso alto,6.17,7.7,3.9,47.0,0.58,-0.17,-0.173,bienestar consistente
+SLV,El Salvador,América,Ingreso mediano alto,6.12,7.6,4.0,39.0,0.53,-0.18,-0.183,bienestar consistente
+BRA,Brasil,América,Ingreso mediano alto,6.29,7.6,2.9,52.9,0.69,-0.19,-0.19,bienestar consistente
+ECU,Ecuador,América,Ingreso mediano alto,5.53,7.6,4.8,45.8,-0.01,-0.19,-0.195,malestar con suicidio bajo (posible subregistro)
+VNM,Vietnam,Asia,Ingreso mediano alto,5.49,7.3,2.4,36.8,-0.05,-0.24,-0.238,malestar con suicidio bajo (posible subregistro)
+CIV,Costa de Marfil,África,Ingreso mediano bajo,5.24,7.4,4.6,35.3,-0.28,-0.22,-0.281,malestar con suicidio bajo (posible subregistro)
+ITA,Italia,Europa,Ingreso alto,6.47,7.0,2.9,34.8,0.85,-0.29,-0.291,bienestar consistente
+MEX,México,América,Ingreso mediano alto,6.13,7.0,4.4,44.6,0.54,-0.3,-0.297,bienestar consistente
+TKM,Turkmenistán,Asia,Ingreso mediano alto,5.47,6.8,3.0,,-0.06,-0.32,-0.318,malestar con suicidio bajo (posible subregistro)
+ZAF,Sudáfrica,África,Ingreso mediano alto,5.19,22.3,3.6,59.6,-0.32,2.29,-0.319,malestar consistente
+KGZ,Kirguistán,Asia,Ingreso mediano bajo,5.83,6.8,3.3,28.8,0.26,-0.32,-0.323,bienestar consistente
+MLT,Malta,Europa,Ingreso alto,6.45,6.5,1.9,31.6,0.83,-0.38,-0.378,bienestar consistente
+PRY,Paraguay,América,Ingreso mediano alto,5.58,6.4,1.7,42.9,0.03,-0.4,-0.397,bienestar consistente
+UKR,Ucrania,Europa,Ingreso mediano alto,5.08,21.2,5.5,25.6,-0.42,2.1,-0.419,malestar consistente
+COG,Congo,África,Ingreso mediano bajo,5.08,6.7,3.0,,-0.43,-0.34,-0.427,malestar con suicidio bajo (posible subregistro)
+CMR,Camerún,África,Ingreso mediano bajo,5.05,8.5,3.8,42.2,-0.45,-0.04,-0.452,malestar con suicidio bajo (posible subregistro)
+MOZ,Mozambique,África,Ingreso bajo,5.05,10.6,2.6,50.7,-0.45,0.32,-0.452,malestar consistente
+SEN,Senegal,África,Ingreso mediano bajo,5.05,6.8,3.5,36.2,-0.45,-0.33,-0.454,malestar con suicidio bajo (posible subregistro)
+LBR,Liberia,África,Ingreso bajo,5.12,6.0,2.0,35.3,-0.38,-0.46,-0.462,malestar con suicidio bajo (posible subregistro)
+MKD,Macedonia del Norte,Europa,Ingreso mediano alto,5.2,5.8,2.1,33.5,-0.31,-0.49,-0.494,malestar con suicidio bajo (posible subregistro)
+MYS,Malasia,Asia,Ingreso mediano alto,5.71,5.7,4.0,40.7,0.15,-0.52,-0.516,bienestar consistente
+GAB,Gabón,África,Ingreso mediano alto,4.96,7.3,5.0,38.0,-0.53,-0.24,-0.535,malestar con suicidio bajo (posible subregistro)
+VEN,Venezuela,América,Ingreso mediano bajo,4.92,8.6,7.6,,-0.56,-0.01,-0.565,malestar con suicidio bajo (posible subregistro)
+GEO,Georgia,Asia,Ingreso mediano alto,4.97,5.1,7.3,34.2,-0.52,-0.61,-0.609,malestar con suicidio bajo (posible subregistro)
+GHA,Ghana,África,Ingreso mediano bajo,4.87,5.3,3.5,43.5,-0.61,-0.57,-0.613,malestar con suicidio bajo (posible subregistro)
+LBY,Libia,África,Ingreso mediano alto,5.33,5.0,2.7,,-0.19,-0.63,-0.626,malestar con suicidio bajo (posible subregistro)
+COL,Colombia,América,Ingreso mediano alto,5.78,5.0,3.8,55.1,0.22,-0.63,-0.632,bienestar consistente
+GTM,Guatemala,América,Ingreso mediano alto,6.26,4.9,2.5,48.3,0.66,-0.64,-0.636,bienestar consistente
+GIN,Guinea,África,Ingreso mediano bajo,4.89,4.8,1.7,29.6,-0.6,-0.66,-0.656,malestar con suicidio bajo (posible subregistro)
+GMB,Gambia,África,Ingreso bajo,5.16,4.8,2.1,38.8,-0.35,-0.66,-0.658,malestar con suicidio bajo (posible subregistro)
+GRC,Grecia,Europa,Ingreso alto,5.95,4.7,4.9,32.9,0.37,-0.68,-0.68,bienestar consistente
+BHR,Baréin,Asia,Ingreso alto,6.65,4.7,4.6,,1.01,-0.68,-0.683,bienestar consistente
+LAO,Laos,Asia,Ingreso mediano bajo,5.14,4.6,2.5,38.8,-0.37,-0.7,-0.696,malestar con suicidio bajo (posible subregistro)
+NER,Níger,África,Ingreso bajo,5.0,4.5,2.0,32.9,-0.49,-0.71,-0.713,malestar con suicidio bajo (posible subregistro)
+ISR,Israel,Asia,Ingreso alto,7.36,4.4,2.6,37.9,1.67,-0.73,-0.732,bienestar consistente
+NIC,Nicaragua,América,Ingreso mediano bajo,6.17,4.2,4.1,46.2,0.57,-0.75,-0.754,bienestar consistente
+BOL,Bolivia,América,Ingreso mediano bajo,5.6,4.2,2.6,40.9,0.05,-0.76,-0.76,bienestar consistente
+DOM,República Dominicana,América,Ingreso mediano alto,5.74,4.2,4.7,38.5,0.18,-0.76,-0.76,bienestar consistente
+IRN,Irán,Asia,Ingreso mediano alto,4.89,4.1,2.5,35.5,-0.6,-0.78,-0.782,malestar con suicidio bajo (posible subregistro)
+BFA,Burkina Faso,África,Ingreso bajo,4.67,8.5,3.2,37.4,-0.8,-0.04,-0.798,malestar con suicidio bajo (posible subregistro)
+KHM,Camboya,Asia,Ingreso mediano bajo,4.64,4.5,2.3,,-0.83,-0.71,-0.826,malestar con suicidio bajo (posible subregistro)
+BEN,Benín,África,Ingreso mediano bajo,4.62,7.1,3.6,34.4,-0.84,-0.27,-0.841,malestar con suicidio bajo (posible subregistro)
+COM,Comoras,África,Ingreso mediano bajo,4.61,6.0,1.7,34.2,-0.85,-0.46,-0.854,malestar con suicidio bajo (posible subregistro)
+UGA,Uganda,África,Ingreso bajo,4.6,5.5,3.9,42.7,-0.86,-0.54,-0.859,malestar con suicidio bajo (posible subregistro)
+PHL,Filipinas,Asia,Ingreso mediano alto,5.9,3.5,3.0,40.7,0.33,-0.88,-0.88,bienestar consistente
+NGA,Nigeria,África,Ingreso mediano bajo,4.55,5.0,5.5,35.1,-0.91,-0.63,-0.906,malestar con suicidio bajo (posible subregistro)
+KEN,Kenia,África,Ingreso mediano bajo,4.54,4.6,2.7,38.7,-0.91,-0.7,-0.914,malestar con suicidio bajo (posible subregistro)
+PAN,Panamá,América,Ingreso alto,6.31,3.3,5.6,50.9,0.7,-0.91,-0.914,bienestar consistente
+PAK,Pakistán,Asia,Ingreso mediano bajo,4.52,5.6,2.5,29.6,-0.94,-0.52,-0.939,malestar con suicidio bajo (posible subregistro)
+CYP,Chipre,Asia,Ingreso alto,6.22,3.0,1.8,31.3,0.62,-0.96,-0.959,bienestar consistente
+HND,Honduras,América,Ingreso mediano bajo,6.02,3.0,5.2,48.2,0.44,-0.97,-0.968,bienestar consistente
+IRQ,Irak,Asia,Ingreso mediano alto,4.94,3.0,2.9,,-0.55,-0.97,-0.968,malestar con suicidio bajo (posible subregistro)
+MLI,Mali,África,Ingreso bajo,4.48,4.2,2.0,35.7,-0.97,-0.77,-0.973,malestar con suicidio bajo (posible subregistro)
+MAR,Marruecos,África,Ingreso mediano bajo,5.06,2.9,1.4,,-0.44,-0.98,-0.978,malestar con suicidio bajo (posible subregistro)
+NAM,Namibia,África,Ingreso mediano bajo,4.46,8.6,3.9,59.1,-0.99,-0.02,-0.991,malestar con suicidio bajo (posible subregistro)
+BGD,Bangladés,Asia,Ingreso mediano bajo,5.16,2.8,1.8,32.4,-0.35,-0.99,-0.995,malestar con suicidio bajo (posible subregistro)
+ALB,Albania,Europa,Ingreso mediano alto,5.2,2.8,1.4,29.4,-0.31,-1.0,-1.005,malestar con suicidio bajo (posible subregistro)
+TUR,Turquía,Asia,Ingreso mediano alto,4.74,2.7,3.9,44.4,-0.73,-1.01,-1.015,malestar con suicidio bajo (posible subregistro)
+SWZ,Esuatini,África,Ingreso mediano bajo,4.4,27.2,4.5,54.6,-1.05,3.12,-1.049,malestar consistente
+MMR,Myanmar,Asia,Ingreso mediano bajo,4.39,2.9,4.7,30.7,-1.05,-0.98,-1.051,malestar con suicidio bajo (posible subregistro)
+ARM,Armenia,Asia,Ingreso mediano alto,5.4,2.5,4.3,27.9,-0.13,-1.05,-1.053,malestar con suicidio bajo (posible subregistro)
+TJK,Tayikistán,Asia,Ingreso mediano bajo,5.38,2.4,2.7,32.4,-0.15,-1.06,-1.059,malestar con suicidio bajo (posible subregistro)
+KWT,Kuwait,Asia,Ingreso alto,6.11,2.3,10.5,,0.52,-1.08,-1.079,bienestar consistente
+LKA,Sri Lanka,Asia,Ingreso mediano alto,4.36,14.7,4.1,37.7,-1.08,1.01,-1.08,malestar consistente
+DZA,Argelia,África,Ingreso mediano alto,5.12,2.2,2.2,,-0.38,-1.1,-1.101,malestar con suicidio bajo (posible subregistro)
+MDG,Madagascar,África,Ingreso bajo,4.34,6.1,2.5,36.8,-1.1,-0.44,-1.101,malestar con suicidio bajo (posible subregistro)
+TUN,Túnez,África,Ingreso mediano bajo,4.52,1.8,2.0,33.7,-0.94,-1.16,-1.158,malestar con suicidio bajo (posible subregistro)
+ARE,Emiratos Árabes Unidos,Asia,Ingreso alto,6.58,1.7,6.8,26.4,0.95,-1.18,-1.18,bienestar consistente
+TCD,Chad,África,Ingreso bajo,4.25,5.2,2.4,37.5,-1.18,-0.59,-1.182,malestar con suicidio bajo (posible subregistro)
+JAM,Jamaica,América,Ingreso mediano alto,5.85,1.7,7.1,39.9,0.28,-1.18,-1.183,bienestar consistente
+ETH,Etiopía,África,Ingreso bajo,4.24,6.1,3.0,31.1,-1.19,-0.45,-1.191,malestar con suicidio bajo (posible subregistro)
+AZE,Azerbaiyán,Asia,Ingreso mediano alto,5.17,1.6,2.8,,-0.34,-1.21,-1.205,malestar con suicidio bajo (posible subregistro)
+PER,Perú,América,Ingreso mediano alto,5.56,1.5,2.8,40.1,0.02,-1.21,-1.208,bienestar consistente
+YEM,Yemen,Asia,Ingreso bajo,4.2,4.2,2.0,36.7,-1.23,-0.76,-1.231,malestar con suicidio bajo (posible subregistro)
+IDN,Indonesia,Asia,Ingreso mediano alto,5.24,1.2,1.6,35.5,-0.28,-1.27,-1.266,malestar con suicidio bajo (posible subregistro)
+MRT,Mauritania,África,Ingreso mediano bajo,4.15,2.7,2.2,32.0,-1.27,-1.01,-1.271,malestar con suicidio bajo (posible subregistro)
+SAU,Arabia Saudí,Asia,Ingreso alto,6.52,0.9,1.7,,0.9,-1.31,-1.308,bienestar consistente
+TGO,Togo,África,Ingreso mediano bajo,4.11,9.3,3.7,37.9,-1.31,0.11,-1.309,malestar consistente
+PSE,Palestina,Asia,Ingreso mediano bajo,4.48,0.7,4.7,33.7,-0.97,-1.36,-1.358,malestar con suicidio bajo (posible subregistro)
+EGY,Egipto,África,Ingreso mediano bajo,4.29,0.6,2.8,28.5,-1.15,-1.36,-1.362,malestar con suicidio bajo (posible subregistro)
+JOR,Jordania,Asia,Ingreso mediano alto,4.15,0.6,3.1,,-1.27,-1.37,-1.367,malestar con suicidio bajo (posible subregistro)
+IND,India,Asia,Ingreso mediano bajo,3.78,12.6,1.2,,-1.62,0.65,-1.615,malestar consistente
+ZMB,Zambia,África,Ingreso mediano bajo,3.76,7.1,3.6,55.8,-1.63,-0.27,-1.631,malestar con suicidio bajo (posible subregistro)
+MWI,Malaui,África,Ingreso bajo,3.75,7.6,4.3,38.5,-1.64,-0.19,-1.64,malestar con suicidio bajo (posible subregistro)
+TZA,Tanzania,África,Ingreso mediano bajo,3.7,5.1,2.7,40.5,-1.68,-0.61,-1.684,malestar con suicidio bajo (posible subregistro)
+SLE,Sierra Leona,África,Ingreso bajo,3.57,6.1,1.7,35.7,-1.8,-0.43,-1.801,malestar con suicidio bajo (posible subregistro)
+LSO,Lesoto,África,Ingreso mediano bajo,3.51,28.7,2.5,44.9,-1.86,3.36,-1.858,malestar consistente
+BWA,Botsuana,África,Ingreso mediano alto,3.47,8.3,2.0,54.9,-1.9,-0.06,-1.896,malestar con suicidio bajo (posible subregistro)
+RWA,Ruanda,África,Ingreso bajo,3.27,8.7,2.7,43.7,-2.08,-0.01,-2.081,malestar con suicidio bajo (posible subregistro)
+ZWE,Zimbabue,África,Ingreso mediano bajo,3.0,17.3,2.0,50.3,-2.33,1.45,-2.331,malestar consistente
+LBN,Líbano,Asia,Ingreso mediano bajo,2.96,0.7,1.6,,-2.37,-1.35,-2.368,malestar con suicidio bajo (posible subregistro)
+AFG,Afganistán,Asia,Ingreso bajo,2.4,3.6,2.0,,-2.87,-0.86,-2.872,malestar con suicidio bajo (posible subregistro)

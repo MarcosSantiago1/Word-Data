@@ -1,0 +1,252 @@
+pais_id,iso3,iso2,iso_numerico,nombre_es,nombre_en,nombre_oficial_en,continente,subregion,region_intermedia,region_bm,nivel_ingreso,capital,latitud_capital,longitud_capital,tipo_entidad,es_miembro_onu,soberano_iso3,en_panel_bm,n_subdivisiones_nivel1
+4,AFG,AF,004,Afganistán,Afghanistan,Islamic Republic of Afghanistan,Asia,Asia Meridional,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso bajo,Kabul,34.5228,69.1761,estado_miembro_onu,1,,1,34
+8,ALB,AL,008,Albania,Albania,Republic of Albania,Europa,Europa del Sur,,Europa y Asia Central,Ingreso mediano alto,Tirane,41.3317,19.8172,estado_miembro_onu,1,,1,12
+10,ATA,AQ,010,Antártida,Antarctica,Antarctica,,,,,,,,,territorio_internacional,0,,0,0
+12,DZA,DZ,012,Argelia,Algeria,People's Democratic Republic of Algeria,África,Norte de África,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano alto,Algiers,36.7397,3.05097,estado_miembro_onu,1,,1,58
+16,ASM,AS,016,Samoa Americana,American Samoa,American Samoa,Oceanía,Polinesia,,Asia Oriental y el Pacífico,Ingreso alto,Pago Pago,-14.2846,-170.691,territorio_dependiente,0,USA,1,0
+20,AND,AD,020,Andorra,Andorra,Principality of Andorra,Europa,Europa del Sur,,Europa y Asia Central,Ingreso alto,Andorra la Vella,42.5075,1.5218,estado_miembro_onu,1,,1,7
+24,AGO,AO,024,Angola,Angola,Republic of Angola,África,África subsahariana,África Central,África subsahariana,Ingreso mediano bajo,Luanda,-8.81155,13.242,estado_miembro_onu,1,,1,18
+28,ATG,AG,028,Antigua y Barbuda,Antigua and Barbuda,Antigua and Barbuda,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso alto,Saint John's,17.1175,-61.8456,estado_miembro_onu,1,,1,8
+31,AZE,AZ,031,Azerbaiyán,Azerbaijan,Republic of Azerbaijan,Asia,Asia Occidental,,Europa y Asia Central,Ingreso mediano alto,Baku,40.3834,49.8932,estado_miembro_onu,1,,1,70
+32,ARG,AR,032,Argentina,Argentina,Argentine Republic,América,América Latina y el Caribe,América del Sur,América Latina y el Caribe,Ingreso mediano alto,Buenos Aires,-34.6118,-58.4173,estado_miembro_onu,1,,1,24
+36,AUS,AU,036,Australia,Australia,Australia,Oceanía,Australia y Nueva Zelanda,,Asia Oriental y el Pacífico,Ingreso alto,Canberra,-35.282,149.129,estado_miembro_onu,1,,1,8
+40,AUT,AT,040,Austria,Austria,Republic of Austria,Europa,Europa Occidental,,Europa y Asia Central,Ingreso alto,Vienna,48.2201,16.3798,estado_miembro_onu,1,,1,9
+44,BHS,BS,044,Bahamas,"Bahamas, The",Commonwealth of the Bahamas,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso alto,Nassau,25.0661,-77.339,estado_miembro_onu,1,,1,32
+48,BHR,BH,048,Baréin,Bahrain,Kingdom of Bahrain,Asia,Asia Occidental,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso alto,Manama,26.1921,50.5354,estado_miembro_onu,1,,1,4
+50,BGD,BD,050,Bangladés,Bangladesh,People's Republic of Bangladesh,Asia,Asia Meridional,,Asia Meridional,Ingreso mediano bajo,Dhaka,23.7055,90.4113,estado_miembro_onu,1,,1,8
+51,ARM,AM,051,Armenia,Armenia,Republic of Armenia,Asia,Asia Occidental,,Europa y Asia Central,Ingreso mediano alto,Yerevan,40.1596,44.509,estado_miembro_onu,1,,1,11
+52,BRB,BB,052,Barbados,Barbados,Barbados,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso alto,Bridgetown,13.0935,-59.6105,estado_miembro_onu,1,,1,11
+56,BEL,BE,056,Bélgica,Belgium,Kingdom of Belgium,Europa,Europa Occidental,,Europa y Asia Central,Ingreso alto,Brussels,50.8371,4.36761,estado_miembro_onu,1,,1,3
+60,BMU,BM,060,Bermudas,Bermuda,Bermuda,América,"América del Norte (EE. UU., Canadá y otros)",,América del Norte,Ingreso alto,Hamilton,32.3293,-64.706,territorio_dependiente,0,GBR,1,0
+64,BTN,BT,064,Bután,Bhutan,Kingdom of Bhutan,Asia,Asia Meridional,,Asia Meridional,Ingreso mediano bajo,Thimphu,27.5768,89.6177,estado_miembro_onu,1,,1,20
+68,BOL,BO,068,Bolivia,Bolivia,Plurinational State of Bolivia,América,América Latina y el Caribe,América del Sur,América Latina y el Caribe,Ingreso mediano bajo,La Paz,-13.9908,-66.1936,estado_miembro_onu,1,,1,9
+70,BIH,BA,070,Bosnia y Herzegovina,Bosnia and Herzegovina,Republic of Bosnia and Herzegovina,Europa,Europa del Sur,,Europa y Asia Central,Ingreso mediano alto,Sarajevo,43.8607,18.4214,estado_miembro_onu,1,,1,3
+72,BWA,BW,072,Botsuana,Botswana,Republic of Botswana,África,África subsahariana,África Austral,África subsahariana,Ingreso mediano alto,Gaborone,-24.6544,25.9201,estado_miembro_onu,1,,1,16
+74,BVT,BV,074,Isla Bouvet,Bouvet Island,Bouvet Island,América,América Latina y el Caribe,América del Sur,,,,,,territorio_dependiente,0,NOR,0,0
+76,BRA,BR,076,Brasil,Brazil,Federative Republic of Brazil,América,América Latina y el Caribe,América del Sur,América Latina y el Caribe,Ingreso mediano alto,Brasilia,-15.7801,-47.9292,estado_miembro_onu,1,,1,27
+84,BLZ,BZ,084,Belice,Belize,Belize,América,América Latina y el Caribe,América Central,América Latina y el Caribe,Ingreso mediano alto,Belmopan,17.2534,-88.7713,estado_miembro_onu,1,,1,6
+86,IOT,IO,086,Territorio Británico del Océano Índico,British Indian Ocean Territory,British Indian Ocean Territory,África,África subsahariana,África Oriental,,,,,,territorio_dependiente,0,GBR,0,0
+90,SLB,SB,090,Islas Salomón,Solomon Islands,Solomon Islands,Oceanía,Melanesia,,Asia Oriental y el Pacífico,Ingreso mediano bajo,Honiara,-9.42676,159.949,estado_miembro_onu,1,,1,10
+92,VGB,VG,092,Islas Vírgenes Británicas,British Virgin Islands,British Virgin Islands,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso alto,Road Town,18.431389,-64.623056,territorio_dependiente,0,GBR,1,0
+96,BRN,BN,096,Brunéi,Brunei Darussalam,Brunei Darussalam,Asia,Sudeste Asiático,,Asia Oriental y el Pacífico,Ingreso alto,Bandar Seri Begawan,4.94199,114.946,estado_miembro_onu,1,,1,4
+100,BGR,BG,100,Bulgaria,Bulgaria,Republic of Bulgaria,Europa,Europa Oriental,,Europa y Asia Central,Ingreso alto,Sofia,42.7105,23.3238,estado_miembro_onu,1,,1,28
+104,MMR,MM,104,Myanmar,Myanmar,Republic of Myanmar,Asia,Sudeste Asiático,,Asia Oriental y el Pacífico,Ingreso mediano bajo,Naypyidaw,21.914,95.9562,estado_miembro_onu,1,,1,15
+108,BDI,BI,108,Burundi,Burundi,Republic of Burundi,África,África subsahariana,África Oriental,África subsahariana,Ingreso bajo,Bujumbura,-3.3784,29.3639,estado_miembro_onu,1,,1,18
+112,BLR,BY,112,Bielorrusia,Belarus,Republic of Belarus,Europa,Europa Oriental,,Europa y Asia Central,Ingreso mediano alto,Minsk,53.9678,27.5766,estado_miembro_onu,1,,1,7
+116,KHM,KH,116,Camboya,Cambodia,Kingdom of Cambodia,Asia,Sudeste Asiático,,Asia Oriental y el Pacífico,Ingreso mediano bajo,Phnom Penh,11.5556,104.874,estado_miembro_onu,1,,1,25
+120,CMR,CM,120,Camerún,Cameroon,Republic of Cameroon,África,África subsahariana,África Central,África subsahariana,Ingreso mediano bajo,Yaounde,3.8721,11.5174,estado_miembro_onu,1,,1,10
+124,CAN,CA,124,Canadá,Canada,Canada,América,"América del Norte (EE. UU., Canadá y otros)",,América del Norte,Ingreso alto,Ottawa,45.4215,-75.6919,estado_miembro_onu,1,,1,13
+132,CPV,CV,132,Cabo Verde,Cabo Verde,Republic of Cabo Verde,África,África subsahariana,África Occidental,África subsahariana,Ingreso mediano alto,Praia,14.9218,-23.5087,estado_miembro_onu,1,,1,2
+136,CYM,KY,136,Islas Caimán,Cayman Islands,Cayman Islands,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso alto,George Town,19.3022,-81.3857,territorio_dependiente,0,GBR,1,0
+140,CAF,CF,140,República Centroafricana,Central African Republic,Central African Republic,África,África subsahariana,África Central,África subsahariana,Ingreso bajo,Bangui,5.63056,21.6407,estado_miembro_onu,1,,1,17
+144,LKA,LK,144,Sri Lanka,Sri Lanka,Democratic Socialist Republic of Sri Lanka,Asia,Asia Meridional,,Asia Meridional,Ingreso mediano alto,Colombo,6.92148,79.8528,estado_miembro_onu,1,,1,9
+148,TCD,TD,148,Chad,Chad,Republic of Chad,África,África subsahariana,África Central,África subsahariana,Ingreso bajo,N'Djamena,12.1048,15.0445,estado_miembro_onu,1,,1,23
+152,CHL,CL,152,Chile,Chile,Republic of Chile,América,América Latina y el Caribe,América del Sur,América Latina y el Caribe,Ingreso alto,Santiago,-33.475,-70.6475,estado_miembro_onu,1,,1,16
+156,CHN,CN,156,China,China,People's Republic of China,Asia,Asia Oriental,,Asia Oriental y el Pacífico,Ingreso mediano alto,Beijing,40.0495,116.286,estado_miembro_onu,1,,1,34
+158,TWN,TW,158,Taiwán,Taiwan,"Taiwan, Province of China",Asia,Asia Oriental,,,,,,,estado_reconocimiento_limitado,0,,0,22
+162,CXR,CX,162,Isla de Navidad,Christmas Island,Christmas Island,Oceanía,Australia y Nueva Zelanda,,,,,,,territorio_dependiente,0,AUS,0,0
+166,CCK,CC,166,Islas Cocos,Cocos (Keeling) Islands,Cocos (Keeling) Islands,Oceanía,Australia y Nueva Zelanda,,,,,,,territorio_dependiente,0,AUS,0,0
+170,COL,CO,170,Colombia,Colombia,Republic of Colombia,América,América Latina y el Caribe,América del Sur,América Latina y el Caribe,Ingreso mediano alto,Bogota,4.60987,-74.082,estado_miembro_onu,1,,1,33
+174,COM,KM,174,Comoras,Comoros,Union of the Comoros,África,África subsahariana,África Oriental,África subsahariana,Ingreso mediano bajo,Moroni,-11.6986,43.2418,estado_miembro_onu,1,,1,3
+175,MYT,YT,175,Mayotte,Mayotte,Mayotte,África,África subsahariana,África Oriental,,,,,,departamento_de_ultramar,0,FRA,0,0
+178,COG,CG,178,Congo,"Congo, Rep.",Republic of the Congo,África,África subsahariana,África Central,África subsahariana,Ingreso mediano bajo,Brazzaville,-4.2767,15.2662,estado_miembro_onu,1,,1,12
+180,COD,CD,180,República Democrática del Congo,"Congo, Dem. Rep.","Congo, The Democratic Republic of the",África,África subsahariana,África Central,África subsahariana,Ingreso bajo,Kinshasa,-4.325,15.3222,estado_miembro_onu,1,,1,26
+184,COK,CK,184,Islas Cook,Cook Islands,Cook Islands,Oceanía,Polinesia,,,,,,,estado_libre_asociado,0,NZL,0,0
+188,CRI,CR,188,Costa Rica,Costa Rica,Republic of Costa Rica,América,América Latina y el Caribe,América Central,América Latina y el Caribe,Ingreso alto,San Jose,9.63701,-84.0089,estado_miembro_onu,1,,1,7
+191,HRV,HR,191,Croacia,Croatia,Republic of Croatia,Europa,Europa del Sur,,Europa y Asia Central,Ingreso alto,Zagreb,45.8069,15.9614,estado_miembro_onu,1,,1,21
+192,CUB,CU,192,Cuba,Cuba,Republic of Cuba,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso mediano alto,Havana,23.1333,-82.3667,estado_miembro_onu,1,,1,16
+196,CYP,CY,196,Chipre,Cyprus,Republic of Cyprus,Asia,Asia Occidental,,Europa y Asia Central,Ingreso alto,Nicosia,35.1676,33.3736,estado_miembro_onu,1,,1,6
+203,CZE,CZ,203,República Checa,Czechia,Czech Republic,Europa,Europa Oriental,,Europa y Asia Central,Ingreso alto,Prague,50.0878,14.4205,estado_miembro_onu,1,,1,14
+204,BEN,BJ,204,Benín,Benin,Republic of Benin,África,África subsahariana,África Occidental,África subsahariana,Ingreso mediano bajo,Porto-Novo,6.4779,2.6323,estado_miembro_onu,1,,1,12
+208,DNK,DK,208,Dinamarca,Denmark,Kingdom of Denmark,Europa,Europa del Norte,,Europa y Asia Central,Ingreso alto,Copenhagen,55.6763,12.5681,estado_miembro_onu,1,,1,5
+212,DMA,DM,212,Dominica,Dominica,Commonwealth of Dominica,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso mediano alto,Roseau,15.2976,-61.39,estado_miembro_onu,1,,1,10
+214,DOM,DO,214,República Dominicana,Dominican Republic,Dominican Republic,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso mediano alto,Santo Domingo,18.479,-69.8908,estado_miembro_onu,1,,1,10
+218,ECU,EC,218,Ecuador,Ecuador,Republic of Ecuador,América,América Latina y el Caribe,América del Sur,América Latina y el Caribe,Ingreso mediano alto,Quito,-0.229498,-78.5243,estado_miembro_onu,1,,1,24
+222,SLV,SV,222,El Salvador,El Salvador,Republic of El Salvador,América,América Latina y el Caribe,América Central,América Latina y el Caribe,Ingreso mediano alto,San Salvador,13.7034,-89.2073,estado_miembro_onu,1,,1,14
+226,GNQ,GQ,226,Guinea Ecuatorial,Equatorial Guinea,Republic of Equatorial Guinea,África,África subsahariana,África Central,África subsahariana,Ingreso mediano alto,Malabo,3.7523,8.7741,estado_miembro_onu,1,,1,2
+231,ETH,ET,231,Etiopía,Ethiopia,Federal Democratic Republic of Ethiopia,África,África subsahariana,África Oriental,África subsahariana,Ingreso bajo,Addis Ababa,9.02274,38.7468,estado_miembro_onu,1,,1,13
+232,ERI,ER,232,Eritrea,Eritrea,the State of Eritrea,África,África subsahariana,África Oriental,África subsahariana,Ingreso bajo,Asmara,15.3315,38.9183,estado_miembro_onu,1,,1,6
+233,EST,EE,233,Estonia,Estonia,Republic of Estonia,Europa,Europa del Norte,,Europa y Asia Central,Ingreso alto,Tallinn,59.4392,24.7586,estado_miembro_onu,1,,1,15
+234,FRO,FO,234,Islas Feroe,Faroe Islands,Faroe Islands,Europa,Europa del Norte,,Europa y Asia Central,Ingreso alto,Torshavn,61.8926,-6.91181,pais_constituyente,0,DNK,1,0
+238,FLK,FK,238,Islas Malvinas,Falkland Islands (Malvinas),Falkland Islands (Malvinas),América,América Latina y el Caribe,América del Sur,,,,,,territorio_dependiente,0,GBR,0,0
+239,SGS,GS,239,Islas Georgias del Sur y Sandwich del Sur,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,América,América Latina y el Caribe,América del Sur,,,,,,territorio_dependiente,0,GBR,0,0
+242,FJI,FJ,242,Fiyi,Fiji,Republic of Fiji,Oceanía,Melanesia,,Asia Oriental y el Pacífico,Ingreso mediano alto,Suva,-18.1149,178.399,estado_miembro_onu,1,,1,5
+246,FIN,FI,246,Finlandia,Finland,Republic of Finland,Europa,Europa del Norte,,Europa y Asia Central,Ingreso alto,Helsinki,60.1608,24.9525,estado_miembro_onu,1,,1,19
+248,ALA,AX,248,Åland,Åland Islands,Åland Islands,Europa,Europa del Norte,,,,,,,region_autonoma,0,FIN,0,0
+250,FRA,FR,250,Francia,France,French Republic,Europa,Europa Occidental,,Europa y Asia Central,Ingreso alto,Paris,48.8566,2.35097,estado_miembro_onu,1,,1,26
+254,GUF,GF,254,Guayana Francesa,French Guiana,French Guiana,América,América Latina y el Caribe,América del Sur,,,,,,departamento_de_ultramar,0,FRA,0,0
+258,PYF,PF,258,Polinesia Francesa,French Polynesia,French Polynesia,Oceanía,Polinesia,,Asia Oriental y el Pacífico,Ingreso alto,Papeete,-17.535,-149.57,territorio_dependiente,0,FRA,1,0
+260,ATF,TF,260,Tierras Australes y Antárticas Francesas,French Southern Territories,French Southern Territories,África,África subsahariana,África Oriental,,,,,,territorio_dependiente,0,FRA,0,0
+262,DJI,DJ,262,Yibuti,Djibouti,Republic of Djibouti,África,África subsahariana,África Oriental,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano bajo,Djibouti,11.5806,43.1425,estado_miembro_onu,1,,1,6
+266,GAB,GA,266,Gabón,Gabon,Gabonese Republic,África,África subsahariana,África Central,África subsahariana,Ingreso mediano alto,Libreville,0.38832,9.45162,estado_miembro_onu,1,,1,9
+268,GEO,GE,268,Georgia,Georgia,Georgia,Asia,Asia Occidental,,Europa y Asia Central,Ingreso mediano alto,Tbilisi,41.71,44.793,estado_miembro_onu,1,,1,12
+270,GMB,GM,270,Gambia,"Gambia, The",Republic of the Gambia,África,África subsahariana,África Occidental,África subsahariana,Ingreso bajo,Banjul,13.4495,-16.5885,estado_miembro_onu,1,,1,6
+275,PSE,PS,275,Palestina,West Bank and Gaza,the State of Palestine,Asia,Asia Occidental,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano bajo,,,,estado_observador_onu,0,,1,16
+276,DEU,DE,276,Alemania,Germany,Federal Republic of Germany,Europa,Europa Occidental,,Europa y Asia Central,Ingreso alto,Berlin,52.5235,13.4115,estado_miembro_onu,1,,1,16
+288,GHA,GH,288,Ghana,Ghana,Republic of Ghana,África,África subsahariana,África Occidental,África subsahariana,Ingreso mediano bajo,Accra,5.57045,-0.20795,estado_miembro_onu,1,,1,16
+292,GIB,GI,292,Gibraltar,Gibraltar,Gibraltar,Europa,Europa del Sur,,Europa y Asia Central,Ingreso alto,,,,territorio_dependiente,0,GBR,1,0
+296,KIR,KI,296,Kiribati,Kiribati,Republic of Kiribati,Oceanía,Micronesia,,Asia Oriental y el Pacífico,Ingreso mediano bajo,Tarawa,1.32905,172.979,estado_miembro_onu,1,,1,3
+300,GRC,GR,300,Grecia,Greece,Hellenic Republic,Europa,Europa del Sur,,Europa y Asia Central,Ingreso alto,Athens,37.9792,23.7166,estado_miembro_onu,1,,1,14
+304,GRL,GL,304,Groenlandia,Greenland,Greenland,América,"América del Norte (EE. UU., Canadá y otros)",,Europa y Asia Central,Ingreso alto,Nuuk,64.1836,-51.7214,pais_constituyente,0,DNK,1,5
+308,GRD,GD,308,Granada,Grenada,Grenada,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso mediano alto,Saint George's,12.0653,-61.7449,estado_miembro_onu,1,,1,7
+312,GLP,GP,312,Guadalupe,Guadeloupe,Guadeloupe,América,América Latina y el Caribe,Caribe,,,,,,departamento_de_ultramar,0,FRA,0,0
+316,GUM,GU,316,Guam,Guam,Guam,Oceanía,Micronesia,,Asia Oriental y el Pacífico,Ingreso alto,Agana,13.4443,144.794,territorio_dependiente,0,USA,1,0
+320,GTM,GT,320,Guatemala,Guatemala,Republic of Guatemala,América,América Latina y el Caribe,América Central,América Latina y el Caribe,Ingreso mediano alto,Guatemala City,14.6248,-90.5328,estado_miembro_onu,1,,1,22
+324,GIN,GN,324,Guinea,Guinea,Republic of Guinea,África,África subsahariana,África Occidental,África subsahariana,Ingreso mediano bajo,Conakry,9.51667,-13.7,estado_miembro_onu,1,,1,8
+328,GUY,GY,328,Guyana,Guyana,Republic of Guyana,América,América Latina y el Caribe,América del Sur,América Latina y el Caribe,Ingreso alto,Georgetown,6.80461,-58.1548,estado_miembro_onu,1,,1,10
+332,HTI,HT,332,Haití,Haiti,Republic of Haiti,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso mediano bajo,Port-au-Prince,18.5392,-72.3288,estado_miembro_onu,1,,1,10
+334,HMD,HM,334,Islas Heard y McDonald,Heard Island and McDonald Islands,Heard Island and McDonald Islands,Oceanía,Australia y Nueva Zelanda,,,,,,,territorio_dependiente,0,AUS,0,0
+336,VAT,VA,336,Ciudad del Vaticano,Holy See (Vatican City State),Holy See (Vatican City State),Europa,Europa del Sur,,,,,,,estado_observador_onu,0,,0,0
+340,HND,HN,340,Honduras,Honduras,Republic of Honduras,América,América Latina y el Caribe,América Central,América Latina y el Caribe,Ingreso mediano bajo,Tegucigalpa,15.1333,-87.4667,estado_miembro_onu,1,,1,18
+344,HKG,HK,344,Hong Kong,"Hong Kong SAR, China",Hong Kong Special Administrative Region of China,Asia,Asia Oriental,,Asia Oriental y el Pacífico,Ingreso alto,,22.3964,114.109,region_administrativa_especial,0,CHN,1,0
+348,HUN,HU,348,Hungría,Hungary,Hungary,Europa,Europa Oriental,,Europa y Asia Central,Ingreso alto,Budapest,47.4984,19.0408,estado_miembro_onu,1,,1,43
+352,ISL,IS,352,Islandia,Iceland,Republic of Iceland,Europa,Europa del Norte,,Europa y Asia Central,Ingreso alto,Reykjavik,64.1353,-21.8952,estado_miembro_onu,1,,1,8
+356,IND,IN,356,India,India,Republic of India,Asia,Asia Meridional,,Asia Meridional,Ingreso mediano bajo,New Delhi,28.6353,77.225,estado_miembro_onu,1,,1,36
+360,IDN,ID,360,Indonesia,Indonesia,Republic of Indonesia,Asia,Sudeste Asiático,,Asia Oriental y el Pacífico,Ingreso mediano alto,Jakarta,-6.19752,106.83,estado_miembro_onu,1,,1,7
+364,IRN,IR,364,Irán,"Iran, Islamic Rep.",Islamic Republic of Iran,Asia,Asia Meridional,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano alto,Tehran,35.6878,51.4447,estado_miembro_onu,1,,1,31
+368,IRQ,IQ,368,Irak,Iraq,Republic of Iraq,Asia,Asia Occidental,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano alto,Baghdad,33.3302,44.394,estado_miembro_onu,1,,1,16
+372,IRL,IE,372,Irlanda,Ireland,Ireland,Europa,Europa del Norte,,Europa y Asia Central,Ingreso alto,Dublin,53.3441,-6.26749,estado_miembro_onu,1,,1,4
+376,ISR,IL,376,Israel,Israel,State of Israel,Asia,Asia Occidental,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso alto,,31.7717,35.2035,estado_miembro_onu,1,,1,6
+380,ITA,IT,380,Italia,Italy,Italian Republic,Europa,Europa del Sur,,Europa y Asia Central,Ingreso alto,Rome,41.8955,12.4823,estado_miembro_onu,1,,1,20
+384,CIV,CI,384,Costa de Marfil,Cote d'Ivoire,Republic of Côte d'Ivoire,África,África subsahariana,África Occidental,África subsahariana,Ingreso mediano bajo,Yamoussoukro,5.332,-4.0305,estado_miembro_onu,1,,1,14
+388,JAM,JM,388,Jamaica,Jamaica,Jamaica,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso mediano alto,Kingston,17.9927,-76.792,estado_miembro_onu,1,,1,14
+392,JPN,JP,392,Japón,Japan,Japan,Asia,Asia Oriental,,Asia Oriental y el Pacífico,Ingreso alto,Tokyo,35.67,139.77,estado_miembro_onu,1,,1,47
+398,KAZ,KZ,398,Kazajistán,Kazakhstan,Republic of Kazakhstan,Asia,Asia Central,,Europa y Asia Central,Ingreso mediano alto,Astana,51.1879,71.4382,estado_miembro_onu,1,,1,20
+400,JOR,JO,400,Jordania,Jordan,Hashemite Kingdom of Jordan,Asia,Asia Occidental,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano alto,Amman,31.9497,35.9263,estado_miembro_onu,1,,1,12
+404,KEN,KE,404,Kenia,Kenya,Republic of Kenya,África,África subsahariana,África Oriental,África subsahariana,Ingreso mediano bajo,Nairobi,-1.27975,36.8126,estado_miembro_onu,1,,1,47
+408,PRK,KP,408,Corea del Norte,"Korea, Dem. People's Rep.",Democratic People's Republic of Korea,Asia,Asia Oriental,,Asia Oriental y el Pacífico,Ingreso bajo,Pyongyang,39.0319,125.754,estado_miembro_onu,1,,1,13
+410,KOR,KR,410,Corea del Sur,"Korea, Rep.","Korea, Republic of",Asia,Asia Oriental,,Asia Oriental y el Pacífico,Ingreso alto,Seoul,37.5323,126.957,estado_miembro_onu,1,,1,17
+414,KWT,KW,414,Kuwait,Kuwait,State of Kuwait,Asia,Asia Occidental,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso alto,Kuwait City,29.3721,47.9824,estado_miembro_onu,1,,1,6
+417,KGZ,KG,417,Kirguistán,Kyrgyz Republic,Kyrgyz Republic,Asia,Asia Central,,Europa y Asia Central,Ingreso mediano bajo,Bishkek,42.8851,74.6057,estado_miembro_onu,1,,1,9
+418,LAO,LA,418,Laos,Lao PDR,Lao People's Democratic Republic,Asia,Sudeste Asiático,,Asia Oriental y el Pacífico,Ingreso mediano bajo,Vientiane,18.5826,102.177,estado_miembro_onu,1,,1,18
+422,LBN,LB,422,Líbano,Lebanon,Lebanese Republic,Asia,Asia Occidental,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano bajo,Beirut,33.8872,35.5134,estado_miembro_onu,1,,1,8
+426,LSO,LS,426,Lesoto,Lesotho,Kingdom of Lesotho,África,África subsahariana,África Austral,África subsahariana,Ingreso mediano bajo,Maseru,-29.5208,27.7167,estado_miembro_onu,1,,1,10
+428,LVA,LV,428,Letonia,Latvia,Republic of Latvia,Europa,Europa del Norte,,Europa y Asia Central,Ingreso alto,Riga,56.9465,24.1048,estado_miembro_onu,1,,1,43
+430,LBR,LR,430,Liberia,Liberia,Republic of Liberia,África,África subsahariana,África Occidental,África subsahariana,Ingreso bajo,Monrovia,6.30039,-10.7957,estado_miembro_onu,1,,1,15
+434,LBY,LY,434,Libia,Libya,Libya,África,Norte de África,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano alto,Tripoli,32.8578,13.1072,estado_miembro_onu,1,,1,22
+438,LIE,LI,438,Liechtenstein,Liechtenstein,Principality of Liechtenstein,Europa,Europa Occidental,,Europa y Asia Central,Ingreso alto,Vaduz,47.1411,9.52148,estado_miembro_onu,1,,1,11
+440,LTU,LT,440,Lituania,Lithuania,Republic of Lithuania,Europa,Europa del Norte,,Europa y Asia Central,Ingreso alto,Vilnius,54.6896,25.2799,estado_miembro_onu,1,,1,10
+442,LUX,LU,442,Luxemburgo,Luxembourg,Grand Duchy of Luxembourg,Europa,Europa Occidental,,Europa y Asia Central,Ingreso alto,Luxembourg,49.61,6.1296,estado_miembro_onu,1,,1,12
+446,MAC,MO,446,Macao,"Macao SAR, China",Macao Special Administrative Region of China,Asia,Asia Oriental,,Asia Oriental y el Pacífico,Ingreso alto,,22.1667,113.55,region_administrativa_especial,0,CHN,1,0
+450,MDG,MG,450,Madagascar,Madagascar,Republic of Madagascar,África,África subsahariana,África Oriental,África subsahariana,Ingreso bajo,Antananarivo,-20.4667,45.7167,estado_miembro_onu,1,,1,6
+454,MWI,MW,454,Malaui,Malawi,Republic of Malawi,África,África subsahariana,África Oriental,África subsahariana,Ingreso bajo,Lilongwe,-13.9899,33.7703,estado_miembro_onu,1,,1,3
+458,MYS,MY,458,Malasia,Malaysia,Malaysia,Asia,Sudeste Asiático,,Asia Oriental y el Pacífico,Ingreso mediano alto,Kuala Lumpur,3.12433,101.684,estado_miembro_onu,1,,1,16
+462,MDV,MV,462,Maldivas,Maldives,Republic of Maldives,Asia,Asia Meridional,,Asia Meridional,Ingreso mediano alto,Male,4.1742,73.5109,estado_miembro_onu,1,,1,21
+466,MLI,ML,466,Mali,Mali,Republic of Mali,África,África subsahariana,África Occidental,África subsahariana,Ingreso bajo,Bamako,13.5667,-7.50034,estado_miembro_onu,1,,1,11
+470,MLT,MT,470,Malta,Malta,Republic of Malta,Europa,Europa del Sur,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso alto,Valletta,35.9042,14.5189,estado_miembro_onu,1,,1,68
+474,MTQ,MQ,474,Martinica,Martinique,Martinique,América,América Latina y el Caribe,Caribe,,,,,,departamento_de_ultramar,0,FRA,0,0
+478,MRT,MR,478,Mauritania,Mauritania,Islamic Republic of Mauritania,África,África subsahariana,África Occidental,África subsahariana,Ingreso mediano bajo,Nouakchott,18.2367,-15.9824,estado_miembro_onu,1,,1,15
+480,MUS,MU,480,Mauricio,Mauritius,Republic of Mauritius,África,África subsahariana,África Oriental,África subsahariana,Ingreso mediano alto,Port Louis,-20.1605,57.4977,estado_miembro_onu,1,,1,12
+484,MEX,MX,484,México,Mexico,United Mexican States,América,América Latina y el Caribe,América Central,América Latina y el Caribe,Ingreso mediano alto,Mexico City,19.427,-99.1276,estado_miembro_onu,1,,1,32
+492,MCO,MC,492,Mónaco,Monaco,Principality of Monaco,Europa,Europa Occidental,,Europa y Asia Central,Ingreso alto,Monaco,43.7325,7.41891,estado_miembro_onu,1,,1,17
+496,MNG,MN,496,Mongolia,Mongolia,Mongolia,Asia,Asia Oriental,,Asia Oriental y el Pacífico,Ingreso mediano alto,Ulaanbaatar,47.9129,106.937,estado_miembro_onu,1,,1,22
+498,MDA,MD,498,Moldavia,Moldova,Republic of Moldova,Europa,Europa Oriental,,Europa y Asia Central,Ingreso mediano alto,Chisinau,47.0167,28.8497,estado_miembro_onu,1,,1,37
+499,MNE,ME,499,Montenegro,Montenegro,Montenegro,Europa,Europa del Sur,,Europa y Asia Central,Ingreso mediano alto,Podgorica,42.4602,19.2595,estado_miembro_onu,1,,1,25
+500,MSR,MS,500,Montserrat,Montserrat,Montserrat,América,América Latina y el Caribe,Caribe,,,,,,territorio_dependiente,0,GBR,0,0
+504,MAR,MA,504,Marruecos,Morocco,Kingdom of Morocco,África,Norte de África,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano bajo,Rabat,33.9905,-6.8704,estado_miembro_onu,1,,1,12
+508,MOZ,MZ,508,Mozambique,Mozambique,Republic of Mozambique,África,África subsahariana,África Oriental,África subsahariana,Ingreso bajo,Maputo,-25.9664,32.5713,estado_miembro_onu,1,,1,11
+512,OMN,OM,512,Omán,Oman,Sultanate of Oman,Asia,Asia Occidental,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso alto,Muscat,23.6105,58.5874,estado_miembro_onu,1,,1,11
+516,NAM,NA,516,Namibia,Namibia,Republic of Namibia,África,África subsahariana,África Austral,África subsahariana,Ingreso mediano bajo,Windhoek,-22.5648,17.0931,estado_miembro_onu,1,,1,14
+520,NRU,NR,520,Nauru,Naoero,Republic of Nauru,Oceanía,Micronesia,,Asia Oriental y el Pacífico,Ingreso alto,Yaren District,-0.5477,166.920867,estado_miembro_onu,1,,1,14
+524,NPL,NP,524,Nepal,Nepal,Federal Democratic Republic of Nepal,Asia,Asia Meridional,,Asia Meridional,Ingreso mediano bajo,Kathmandu,27.6939,85.3157,estado_miembro_onu,1,,1,7
+528,NLD,NL,528,Países Bajos,Netherlands,Kingdom of the Netherlands,Europa,Europa Occidental,,Europa y Asia Central,Ingreso alto,Amsterdam,52.3738,4.89095,estado_miembro_onu,1,,1,18
+531,CUW,CW,531,Curazao,Curacao,Curaçao,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso alto,Willemstad,,,pais_constituyente,0,NLD,1,0
+533,ABW,AW,533,Aruba,Aruba,Aruba,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso alto,Oranjestad,12.5167,-70.0167,pais_constituyente,0,NLD,1,0
+534,SXM,SX,534,San Martín (parte neerlandesa),Sint Maarten (Dutch part),Sint Maarten (Dutch part),América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso alto,Philipsburg,,,pais_constituyente,0,NLD,1,0
+535,BES,BQ,535,Caribe neerlandés,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",América,América Latina y el Caribe,Caribe,,,,,,municipio_especial,0,NLD,0,3
+540,NCL,NC,540,Nueva Caledonia,New Caledonia,New Caledonia,Oceanía,Melanesia,,Asia Oriental y el Pacífico,Ingreso alto,Noum'ea,-22.2677,166.464,territorio_dependiente,0,FRA,1,0
+548,VUT,VU,548,Vanuatu,Vanuatu,Republic of Vanuatu,Oceanía,Melanesia,,Asia Oriental y el Pacífico,Ingreso mediano bajo,Port-Vila,-17.7404,168.321,estado_miembro_onu,1,,1,6
+554,NZL,NZ,554,Nueva Zelanda,New Zealand,New Zealand,Oceanía,Australia y Nueva Zelanda,,Asia Oriental y el Pacífico,Ingreso alto,Wellington,-41.2865,174.776,estado_miembro_onu,1,,1,17
+558,NIC,NI,558,Nicaragua,Nicaragua,Republic of Nicaragua,América,América Latina y el Caribe,América Central,América Latina y el Caribe,Ingreso mediano bajo,Managua,12.1475,-86.2734,estado_miembro_onu,1,,1,17
+562,NER,NE,562,Níger,Niger,Republic of the Niger,África,África subsahariana,África Occidental,África subsahariana,Ingreso bajo,Niamey,13.514,2.1073,estado_miembro_onu,1,,1,8
+566,NGA,NG,566,Nigeria,Nigeria,Federal Republic of Nigeria,África,África subsahariana,África Occidental,África subsahariana,Ingreso mediano bajo,Abuja,9.05804,7.48906,estado_miembro_onu,1,,1,37
+570,NIU,NU,570,Niue,Niue,Niue,Oceanía,Polinesia,,,,,,,estado_libre_asociado,0,NZL,0,0
+574,NFK,NF,574,Isla Norfolk,Norfolk Island,Norfolk Island,Oceanía,Australia y Nueva Zelanda,,,,,,,territorio_dependiente,0,AUS,0,0
+578,NOR,NO,578,Noruega,Norway,Kingdom of Norway,Europa,Europa del Norte,,Europa y Asia Central,Ingreso alto,Oslo,59.9138,10.7387,estado_miembro_onu,1,,1,13
+580,MNP,MP,580,Islas Marianas del Norte,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,Oceanía,Micronesia,,Asia Oriental y el Pacífico,Ingreso alto,Saipan,15.1935,145.765,territorio_dependiente,0,USA,1,0
+581,UMI,UM,581,Islas ultramarinas de Estados Unidos,United States Minor Outlying Islands,United States Minor Outlying Islands,Oceanía,Micronesia,,,,,,,territorio_dependiente,0,USA,0,9
+583,FSM,FM,583,Estados Federados de Micronesia,"Micronesia, Fed. Sts.",Federated States of Micronesia,Oceanía,Micronesia,,Asia Oriental y el Pacífico,Ingreso mediano alto,Palikir,6.91771,158.185,estado_miembro_onu,1,,1,4
+584,MHL,MH,584,Islas Marshall,Marshall Islands,Republic of the Marshall Islands,Oceanía,Micronesia,,Asia Oriental y el Pacífico,Ingreso mediano alto,Majuro,7.11046,171.135,estado_miembro_onu,1,,1,2
+585,PLW,PW,585,Palaos,Palau,Republic of Palau,Oceanía,Micronesia,,Asia Oriental y el Pacífico,Ingreso alto,Koror,7.34194,134.479,estado_miembro_onu,1,,1,16
+586,PAK,PK,586,Pakistán,Pakistan,Islamic Republic of Pakistan,Asia,Asia Meridional,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano bajo,Islamabad,30.5167,72.8,estado_miembro_onu,1,,1,7
+591,PAN,PA,591,Panamá,Panama,Republic of Panama,América,América Latina y el Caribe,América Central,América Latina y el Caribe,Ingreso alto,Panama City,8.99427,-79.5188,estado_miembro_onu,1,,1,14
+598,PNG,PG,598,Papúa Nueva Guinea,Papua New Guinea,Independent State of Papua New Guinea,Oceanía,Melanesia,,Asia Oriental y el Pacífico,Ingreso mediano bajo,Port Moresby,-9.47357,147.194,estado_miembro_onu,1,,1,22
+600,PRY,PY,600,Paraguay,Paraguay,Republic of Paraguay,América,América Latina y el Caribe,América del Sur,América Latina y el Caribe,Ingreso mediano alto,Asuncion,-25.3005,-57.6362,estado_miembro_onu,1,,1,18
+604,PER,PE,604,Perú,Peru,Republic of Peru,América,América Latina y el Caribe,América del Sur,América Latina y el Caribe,Ingreso mediano alto,Lima,-12.0931,-77.0465,estado_miembro_onu,1,,1,26
+608,PHL,PH,608,Filipinas,Philippines,Republic of the Philippines,Asia,Sudeste Asiático,,Asia Oriental y el Pacífico,Ingreso mediano alto,Manila,14.5515,121.035,estado_miembro_onu,1,,1,17
+612,PCN,PN,612,Islas Pitcairn,Pitcairn,Pitcairn,Oceanía,Polinesia,,,,,,,territorio_dependiente,0,GBR,0,0
+616,POL,PL,616,Polonia,Poland,Republic of Poland,Europa,Europa Oriental,,Europa y Asia Central,Ingreso alto,Warsaw,52.26,21.02,estado_miembro_onu,1,,1,16
+620,PRT,PT,620,Portugal,Portugal,Portuguese Republic,Europa,Europa del Sur,,Europa y Asia Central,Ingreso alto,Lisbon,38.7072,-9.13552,estado_miembro_onu,1,,1,20
+624,GNB,GW,624,Guinea-Bisáu,Guinea-Bissau,Republic of Guinea-Bissau,África,África subsahariana,África Occidental,África subsahariana,Ingreso bajo,Bissau,11.8037,-15.1804,estado_miembro_onu,1,,1,4
+626,TLS,TL,626,Timor Oriental,Timor-Leste,Democratic Republic of Timor-Leste,Asia,Sudeste Asiático,,Asia Oriental y el Pacífico,Ingreso mediano bajo,Dili,-8.56667,125.567,estado_miembro_onu,1,,1,13
+630,PRI,PR,630,Puerto Rico,Puerto Rico (US),Puerto Rico,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso alto,San Juan,18.23,-66.0,territorio_dependiente,0,USA,1,0
+634,QAT,QA,634,Catar,Qatar,State of Qatar,Asia,Asia Occidental,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso alto,Doha,25.2948,51.5082,estado_miembro_onu,1,,1,8
+638,REU,RE,638,Reunión,Réunion,Réunion,África,África subsahariana,África Oriental,,,,,,departamento_de_ultramar,0,FRA,0,0
+642,ROU,RO,642,Rumania,Romania,Romania,Europa,Europa Oriental,,Europa y Asia Central,Ingreso alto,Bucharest,44.4479,26.0979,estado_miembro_onu,1,,1,42
+643,RUS,RU,643,Rusia,Russian Federation,Russian Federation,Europa,Europa Oriental,,Europa y Asia Central,Ingreso alto,Moscow,55.7558,37.6176,estado_miembro_onu,1,,1,83
+646,RWA,RW,646,Ruanda,Rwanda,Rwandese Republic,África,África subsahariana,África Oriental,África subsahariana,Ingreso bajo,Kigali,-1.95325,30.0587,estado_miembro_onu,1,,1,5
+652,BLM,BL,652,San Bartolomé,Saint Barthélemy,Saint Barthélemy,América,América Latina y el Caribe,Caribe,,,,,,territorio_dependiente,0,FRA,0,0
+654,SHN,SH,654,"Santa Elena, Ascensión y Tristán de Acuña","Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",África,África subsahariana,África Occidental,,,,,,territorio_dependiente,0,GBR,0,3
+659,KNA,KN,659,San Cristóbal y Nieves,St. Kitts and Nevis,Saint Kitts and Nevis,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso alto,Basseterre,17.3,-62.7309,estado_miembro_onu,1,,1,2
+660,AIA,AI,660,Anguila,Anguilla,Anguilla,América,América Latina y el Caribe,Caribe,,,,,,territorio_dependiente,0,GBR,0,0
+662,LCA,LC,662,Santa Lucía,St. Lucia,Saint Lucia,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso mediano alto,Castries,14.0,-60.9832,estado_miembro_onu,1,,1,10
+663,MAF,MF,663,San Martín (parte francesa),St. Martin (French part),Saint Martin (French part),América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso alto,Marigot,,,territorio_dependiente,0,FRA,1,0
+666,SPM,PM,666,San Pedro y Miquelón,Saint Pierre and Miquelon,Saint Pierre and Miquelon,América,"América del Norte (EE. UU., Canadá y otros)",,,,,,,territorio_dependiente,0,FRA,0,0
+670,VCT,VC,670,San Vicente y las Granadinas,St. Vincent and the Grenadines,Saint Vincent and the Grenadines,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso mediano alto,Kingstown,13.2035,-61.2653,estado_miembro_onu,1,,1,6
+674,SMR,SM,674,San Marino,San Marino,Republic of San Marino,Europa,Europa del Sur,,Europa y Asia Central,Ingreso alto,San Marino,43.9322,12.4486,estado_miembro_onu,1,,1,9
+678,STP,ST,678,Santo Tomé y Príncipe,Sao Tome and Principe,Democratic Republic of Sao Tome and Principe,África,África subsahariana,África Central,África subsahariana,Ingreso mediano bajo,Sao Tome,0.20618,6.6071,estado_miembro_onu,1,,1,7
+682,SAU,SA,682,Arabia Saudí,Saudi Arabia,Kingdom of Saudi Arabia,Asia,Asia Occidental,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso alto,Riyadh,24.6748,46.6977,estado_miembro_onu,1,,1,13
+686,SEN,SN,686,Senegal,Senegal,Republic of Senegal,África,África subsahariana,África Occidental,África subsahariana,Ingreso mediano bajo,Dakar,14.7247,-17.4734,estado_miembro_onu,1,,1,14
+688,SRB,RS,688,Serbia,Serbia,Republic of Serbia,Europa,Europa del Sur,,Europa y Asia Central,Ingreso mediano alto,Belgrade,44.8024,20.4656,estado_miembro_onu,1,,1,20
+690,SYC,SC,690,Seychelles,Seychelles,Republic of Seychelles,África,África subsahariana,África Oriental,África subsahariana,Ingreso alto,Victoria,-4.6309,55.4466,estado_miembro_onu,1,,1,27
+694,SLE,SL,694,Sierra Leona,Sierra Leone,Republic of Sierra Leone,África,África subsahariana,África Occidental,África subsahariana,Ingreso bajo,Freetown,8.4821,-13.2134,estado_miembro_onu,1,,1,5
+702,SGP,SG,702,Singapur,Singapore,Republic of Singapore,Asia,Sudeste Asiático,,Asia Oriental y el Pacífico,Ingreso alto,Singapore,1.28941,103.85,estado_miembro_onu,1,,1,5
+703,SVK,SK,703,Eslovaquia,Slovak Republic,Slovak Republic,Europa,Europa Oriental,,Europa y Asia Central,Ingreso alto,Bratislava,48.1484,17.1073,estado_miembro_onu,1,,1,8
+704,VNM,VN,704,Vietnam,Viet Nam,Socialist Republic of Viet Nam,Asia,Sudeste Asiático,,Asia Oriental y el Pacífico,Ingreso mediano alto,Hanoi,21.0069,105.825,estado_miembro_onu,1,,1,63
+705,SVN,SI,705,Eslovenia,Slovenia,Republic of Slovenia,Europa,Europa del Sur,,Europa y Asia Central,Ingreso alto,Ljubljana,46.0546,14.5044,estado_miembro_onu,1,,1,212
+706,SOM,SO,706,Somalia,"Somalia, Fed. Rep.",Federal Republic of Somalia,África,África subsahariana,África Oriental,África subsahariana,Ingreso bajo,Mogadishu,2.07515,45.3254,estado_miembro_onu,1,,1,18
+710,ZAF,ZA,710,Sudáfrica,South Africa,Republic of South Africa,África,África subsahariana,África Austral,África subsahariana,Ingreso mediano alto,Pretoria,-25.746,28.1871,estado_miembro_onu,1,,1,9
+716,ZWE,ZW,716,Zimbabue,Zimbabwe,Republic of Zimbabwe,África,África subsahariana,África Oriental,África subsahariana,Ingreso mediano bajo,Harare,-17.8312,31.0672,estado_miembro_onu,1,,1,10
+724,ESP,ES,724,España,Spain,Kingdom of Spain,Europa,Europa del Sur,,Europa y Asia Central,Ingreso alto,Madrid,40.4167,-3.70327,estado_miembro_onu,1,,1,19
+728,SSD,SS,728,Sudán del Sur,South Sudan,Republic of South Sudan,África,África subsahariana,África Oriental,África subsahariana,Ingreso bajo,Juba,4.85,31.6,estado_miembro_onu,1,,1,10
+729,SDN,SD,729,Sudán,Sudan,Republic of the Sudan,África,Norte de África,,África subsahariana,Ingreso bajo,Khartoum,15.5932,32.5363,estado_miembro_onu,1,,1,18
+732,ESH,EH,732,Sahara Occidental,Western Sahara,Western Sahara,África,Norte de África,,,,,,,territorio_en_disputa,0,,0,0
+740,SUR,SR,740,Surinam,Suriname,Republic of Suriname,América,América Latina y el Caribe,América del Sur,América Latina y el Caribe,Ingreso mediano alto,Paramaribo,5.8232,-55.1679,estado_miembro_onu,1,,1,10
+744,SJM,SJ,744,Svalbard y Jan Mayen,Svalbard and Jan Mayen,Svalbard and Jan Mayen,Europa,Europa del Norte,,,,,,,territorio_dependiente,0,NOR,0,0
+748,SWZ,SZ,748,Esuatini,Eswatini,Kingdom of Eswatini,África,África subsahariana,África Austral,África subsahariana,Ingreso mediano bajo,Mbabane,-26.5225,31.4659,estado_miembro_onu,1,,1,4
+752,SWE,SE,752,Suecia,Sweden,Kingdom of Sweden,Europa,Europa del Norte,,Europa y Asia Central,Ingreso alto,Stockholm,59.3327,18.0645,estado_miembro_onu,1,,1,21
+756,CHE,CH,756,Suiza,Switzerland,Swiss Confederation,Europa,Europa Occidental,,Europa y Asia Central,Ingreso alto,Bern,46.948,7.44821,estado_miembro_onu,1,,1,26
+760,SYR,SY,760,Siria,Syrian Arab Republic,Syrian Arab Republic,Asia,Asia Occidental,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso bajo,Damascus,33.5146,36.3119,estado_miembro_onu,1,,1,14
+762,TJK,TJ,762,Tayikistán,Tajikistan,Republic of Tajikistan,Asia,Asia Central,,Europa y Asia Central,Ingreso mediano bajo,Dushanbe,38.5878,68.7864,estado_miembro_onu,1,,1,5
+764,THA,TH,764,Tailandia,Thailand,Kingdom of Thailand,Asia,Sudeste Asiático,,Asia Oriental y el Pacífico,Ingreso mediano alto,Bangkok,13.7308,100.521,estado_miembro_onu,1,,1,78
+768,TGO,TG,768,Togo,Togo,Togolese Republic,África,África subsahariana,África Occidental,África subsahariana,Ingreso mediano bajo,Lome,6.1228,1.2255,estado_miembro_onu,1,,1,5
+772,TKL,TK,772,Tokelau,Tokelau,Tokelau,Oceanía,Polinesia,,,,,,,territorio_dependiente,0,NZL,0,0
+776,TON,TO,776,Tonga,Tonga,Kingdom of Tonga,Oceanía,Polinesia,,Asia Oriental y el Pacífico,Ingreso mediano alto,Nuku'alofa,-21.136,-175.216,estado_miembro_onu,1,,1,5
+780,TTO,TT,780,Trinidad y Tobago,Trinidad and Tobago,Republic of Trinidad and Tobago,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso alto,Port-of-Spain,10.6596,-61.4789,estado_miembro_onu,1,,1,15
+784,ARE,AE,784,Emiratos Árabes Unidos,United Arab Emirates,United Arab Emirates,Asia,Asia Occidental,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso alto,Abu Dhabi,24.4764,54.3705,estado_miembro_onu,1,,1,7
+788,TUN,TN,788,Túnez,Tunisia,Republic of Tunisia,África,Norte de África,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano bajo,Tunis,36.7899,10.21,estado_miembro_onu,1,,1,24
+792,TUR,TR,792,Turquía,Turkiye,Republic of Türkiye,Asia,Asia Occidental,,Europa y Asia Central,Ingreso mediano alto,Ankara,39.7153,32.3606,estado_miembro_onu,1,,1,81
+795,TKM,TM,795,Turkmenistán,Turkmenistan,Turkmenistan,Asia,Asia Central,,Europa y Asia Central,Ingreso mediano alto,Ashgabat,37.9509,58.3794,estado_miembro_onu,1,,1,6
+796,TCA,TC,796,Islas Turcas y Caicos,Turks and Caicos Islands,Turks and Caicos Islands,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso alto,Grand Turk,21.4602778,-71.141389,territorio_dependiente,0,GBR,1,0
+798,TUV,TV,798,Tuvalu,Tuvalu,Tuvalu,Oceanía,Polinesia,,Asia Oriental y el Pacífico,Ingreso mediano alto,Funafuti,-8.6314877,179.089567,estado_miembro_onu,1,,1,8
+800,UGA,UG,800,Uganda,Uganda,Republic of Uganda,África,África subsahariana,África Oriental,África subsahariana,Ingreso bajo,Kampala,0.314269,32.5729,estado_miembro_onu,1,,1,4
+804,UKR,UA,804,Ucrania,Ukraine,Ukraine,Europa,Europa Oriental,,Europa y Asia Central,Ingreso mediano alto,Kiev,50.4536,30.5038,estado_miembro_onu,1,,1,27
+807,MKD,MK,807,Macedonia del Norte,North Macedonia,Republic of North Macedonia,Europa,Europa del Sur,,Europa y Asia Central,Ingreso mediano alto,Skopje,42.0024,21.4361,estado_miembro_onu,1,,1,80
+818,EGY,EG,818,Egipto,"Egypt, Arab Rep.",Arab Republic of Egypt,África,Norte de África,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano bajo,Cairo,30.0982,31.2461,estado_miembro_onu,1,,1,27
+826,GBR,GB,826,Reino Unido,United Kingdom,United Kingdom of Great Britain and Northern Ireland,Europa,Europa del Norte,,Europa y Asia Central,Ingreso alto,London,51.5002,-0.126236,estado_miembro_onu,1,,1,4
+831,GGY,GG,831,Guernsey,Guernsey,Guernsey,Europa,Europa del Norte,,,,,,,dependencia_de_la_corona,0,GBR,0,0
+832,JEY,JE,832,Jersey,Jersey,Jersey,Europa,Europa del Norte,,,,,,,dependencia_de_la_corona,0,GBR,0,0
+833,IMN,IM,833,Isla de Man,Isle of Man,Isle of Man,Europa,Europa del Norte,,Europa y Asia Central,Ingreso alto,Douglas,54.1509,-4.47928,dependencia_de_la_corona,0,GBR,1,0
+834,TZA,TZ,834,Tanzania,Tanzania,United Republic of Tanzania,África,África subsahariana,África Oriental,África subsahariana,Ingreso mediano bajo,Dodoma,-6.17486,35.7382,estado_miembro_onu,1,,1,31
+840,USA,US,840,Estados Unidos,United States,United States of America,América,"América del Norte (EE. UU., Canadá y otros)",,América del Norte,Ingreso alto,Washington D.C.,38.8895,-77.032,estado_miembro_onu,1,,1,57
+850,VIR,VI,850,Islas Vírgenes de los Estados Unidos,Virgin Islands (U.S.),Virgin Islands of the United States,América,América Latina y el Caribe,Caribe,América Latina y el Caribe,Ingreso alto,Charlotte Amalie,18.3358,-64.8963,territorio_dependiente,0,USA,1,0
+854,BFA,BF,854,Burkina Faso,Burkina Faso,Burkina Faso,África,África subsahariana,África Occidental,África subsahariana,Ingreso bajo,Ouagadougou,12.3605,-1.53395,estado_miembro_onu,1,,1,13
+858,URY,UY,858,Uruguay,Uruguay,Eastern Republic of Uruguay,América,América Latina y el Caribe,América del Sur,América Latina y el Caribe,Ingreso alto,Montevideo,-34.8941,-56.0675,estado_miembro_onu,1,,1,19
+860,UZB,UZ,860,Uzbekistán,Uzbekistan,Republic of Uzbekistan,Asia,Asia Central,,Europa y Asia Central,Ingreso mediano bajo,Tashkent,41.3052,69.269,estado_miembro_onu,1,,1,14
+862,VEN,VE,862,Venezuela,"Venezuela, RB",Bolivarian Republic of Venezuela,América,América Latina y el Caribe,América del Sur,América Latina y el Caribe,Ingreso mediano bajo,Caracas,9.08165,-69.8371,estado_miembro_onu,1,,1,25
+876,WLF,WF,876,Wallis y Futuna,Wallis and Futuna,Wallis and Futuna,Oceanía,Polinesia,,,,,,,territorio_dependiente,0,FRA,0,3
+882,WSM,WS,882,Samoa,Samoa,Independent State of Samoa,Oceanía,Polinesia,,Asia Oriental y el Pacífico,Ingreso mediano alto,Apia,-13.8314,-171.752,estado_miembro_onu,1,,1,11
+887,YEM,YE,887,Yemen,"Yemen, Rep.",Republic of Yemen,Asia,Asia Occidental,,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso bajo,Sana'a,15.352,44.2075,estado_miembro_onu,1,,1,22
+894,ZMB,ZM,894,Zambia,Zambia,Republic of Zambia,África,África subsahariana,África Oriental,África subsahariana,Ingreso mediano bajo,Lusaka,-15.3982,28.2937,estado_miembro_onu,1,,1,10
+901,XKX,XK,,Kosovo,Kosovo,Kosovo,Europa,Europa del Sur,,Europa y Asia Central,Ingreso mediano alto,Pristina,42.565,20.926,estado_reconocimiento_limitado,0,,1,0
+902,CHI,JG,,Islas del Canal,Channel Islands,Channel Islands,Europa,Europa del Norte,,Europa y Asia Central,Ingreso alto,,,,agrupacion_estadistica,0,GBR,1,0

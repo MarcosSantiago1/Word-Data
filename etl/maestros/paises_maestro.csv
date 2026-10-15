@@ -1,0 +1,252 @@
+iso3,iso2,iso_numerico,nombre_es,nombre_es_banco_mundial,nombre_en,nombre_oficial_en,region_bm,region_bm_es,nivel_ingreso_bm,nivel_ingreso_bm_es,capital,latitud_capital,longitud_capital,en_panel,tiene_codigo_iso,n_subdivisiones,tipo_subdivision_principal
+ABW,AW,533,Aruba,Aruba,Aruba,,Latin America & Caribbean,América Latina y el Caribe,High income,Ingreso alto,Oranjestad,12.5167,-70.0167,1,1,0,
+AFG,AF,004,Afganistán,Afganistán,Afghanistan,Islamic Republic of Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",Low income,Ingreso bajo,Kabul,34.5228,69.1761,1,1,34,provincia
+AGO,AO,024,Angola,Angola,Angola,Republic of Angola,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Luanda,-8.81155,13.242,1,1,18,provincia
+ALB,AL,008,Albania,Albania,Albania,Republic of Albania,Europe & Central Asia,Europa y Asia central,Upper middle income,Ingreso mediano alto,Tirane,41.3317,19.8172,1,1,12,condado
+AND,AD,020,Andorra,Andorra,Andorra,Principality of Andorra,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Andorra la Vella,42.5075,1.5218,1,1,7,parroquia
+ARE,AE,784,Emiratos Árabes Unidos,Emiratos Árabes Unidos,United Arab Emirates,,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",High income,Ingreso alto,Abu Dhabi,24.4764,54.3705,1,1,7,emirato
+ARG,AR,032,Argentina,Argentina,Argentina,Argentine Republic,Latin America & Caribbean,América Latina y el Caribe,Upper middle income,Ingreso mediano alto,Buenos Aires,-34.6118,-58.4173,1,1,24,provincia
+ARM,AM,051,Armenia,Armenia,Armenia,Republic of Armenia,Europe & Central Asia,Europa y Asia central,Upper middle income,Ingreso mediano alto,Yerevan,40.1596,44.509,1,1,11,región
+ASM,AS,016,Samoa Americana,Samoa Americana,American Samoa,,East Asia & Pacific,Asia oriental y el Pacífico,High income,Ingreso alto,Pago Pago,-14.2846,-170.691,1,1,0,
+ATG,AG,028,Antigua y Barbuda,Antigua y Barbuda,Antigua and Barbuda,,Latin America & Caribbean,América Latina y el Caribe,High income,Ingreso alto,Saint John's,17.1175,-61.8456,1,1,8,parroquia
+AUS,AU,036,Australia,Australia,Australia,,East Asia & Pacific,Asia oriental y el Pacífico,High income,Ingreso alto,Canberra,-35.282,149.129,1,1,8,estado
+AUT,AT,040,Austria,Austria,Austria,Republic of Austria,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Vienna,48.2201,16.3798,1,1,9,estado
+AZE,AZ,031,Azerbaiyán,Azerbaiyán,Azerbaijan,Republic of Azerbaijan,Europe & Central Asia,Europa y Asia central,Upper middle income,Ingreso mediano alto,Baku,40.3834,49.8932,1,1,70,raión
+BDI,BI,108,Burundi,Burundi,Burundi,Republic of Burundi,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Bujumbura,-3.3784,29.3639,1,1,18,provincia
+BEL,BE,056,Bélgica,Bélgica,Belgium,Kingdom of Belgium,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Brussels,50.8371,4.36761,1,1,3,región
+BEN,BJ,204,Benín,Benin,Benin,Republic of Benin,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Porto-Novo,6.4779,2.6323,1,1,12,departamento
+BFA,BF,854,Burkina Faso,Burkina Faso,Burkina Faso,,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Ouagadougou,12.3605,-1.53395,1,1,13,región
+BGD,BD,050,Bangladés,Bangladesh,Bangladesh,People's Republic of Bangladesh,South Asia,Asia meridional,Lower middle income,Ingreso mediano bajo,Dhaka,23.7055,90.4113,1,1,8,división
+BGR,BG,100,Bulgaria,Bulgaria,Bulgaria,Republic of Bulgaria,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Sofia,42.7105,23.3238,1,1,28,distrito
+BHR,BH,048,Baréin,Bahrein,Bahrain,Kingdom of Bahrain,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",High income,Ingreso alto,Manama,26.1921,50.5354,1,1,4,gobernación
+BHS,BS,044,Bahamas,Bahamas,"Bahamas, The",Commonwealth of the Bahamas,Latin America & Caribbean,América Latina y el Caribe,High income,Ingreso alto,Nassau,25.0661,-77.339,1,1,32,distrito
+BIH,BA,070,Bosnia y Herzegovina,Bosnia y Herzegovina,Bosnia and Herzegovina,Republic of Bosnia and Herzegovina,Europe & Central Asia,Europa y Asia central,Upper middle income,Ingreso mediano alto,Sarajevo,43.8607,18.4214,1,1,3,entidad
+BLR,BY,112,Bielorrusia,Belarús,Belarus,Republic of Belarus,Europe & Central Asia,Europa y Asia central,Upper middle income,Ingreso mediano alto,Minsk,53.9678,27.5766,1,1,7,óblast
+BLZ,BZ,084,Belice,Belice,Belize,,Latin America & Caribbean,América Latina y el Caribe,Upper middle income,Ingreso mediano alto,Belmopan,17.2534,-88.7713,1,1,6,distrito
+BMU,BM,060,Bermudas,Bermudas,Bermuda,,North America,América del Norte,High income,Ingreso alto,Hamilton,32.3293,-64.706,1,1,0,
+BOL,BO,068,Bolivia,Bolivia,Bolivia,Plurinational State of Bolivia,Latin America & Caribbean,América Latina y el Caribe,Lower middle income,Ingreso mediano bajo,La Paz,-13.9908,-66.1936,1,1,9,departamento
+BRA,BR,076,Brasil,Brasil,Brazil,Federative Republic of Brazil,Latin America & Caribbean,América Latina y el Caribe,Upper middle income,Ingreso mediano alto,Brasilia,-15.7801,-47.9292,1,1,27,estado
+BRB,BB,052,Barbados,Barbados,Barbados,,Latin America & Caribbean,América Latina y el Caribe,High income,Ingreso alto,Bridgetown,13.0935,-59.6105,1,1,11,parroquia
+BRN,BN,096,Brunéi,Brunei Darussalam,Brunei Darussalam,,East Asia & Pacific,Asia oriental y el Pacífico,High income,Ingreso alto,Bandar Seri Begawan,4.94199,114.946,1,1,4,distrito
+BTN,BT,064,Bután,Bhután,Bhutan,Kingdom of Bhutan,South Asia,Asia meridional,Lower middle income,Ingreso mediano bajo,Thimphu,27.5768,89.6177,1,1,20,distrito
+BWA,BW,072,Botsuana,Botswana,Botswana,Republic of Botswana,Sub-Saharan Africa,África al sur del Sahara,Upper middle income,Ingreso mediano alto,Gaborone,-24.6544,25.9201,1,1,16,distrito
+CAF,CF,140,República Centroafricana,República Centroafricana,Central African Republic,,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Bangui,5.63056,21.6407,1,1,17,prefectura
+CAN,CA,124,Canadá,Canadá,Canada,,North America,América del Norte,High income,Ingreso alto,Ottawa,45.4215,-75.6919,1,1,13,provincia
+CHE,CH,756,Suiza,Suiza,Switzerland,Swiss Confederation,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Bern,46.948,7.44821,1,1,26,cantón
+CHI,JG,,Islas del Canal,Islas del Canal,Channel Islands,,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,,,,1,0,0,
+CHL,CL,152,Chile,Chile,Chile,Republic of Chile,Latin America & Caribbean,América Latina y el Caribe,High income,Ingreso alto,Santiago,-33.475,-70.6475,1,1,16,región
+CHN,CN,156,China,China,China,People's Republic of China,East Asia & Pacific,Asia oriental y el Pacífico,Upper middle income,Ingreso mediano alto,Beijing,40.0495,116.286,1,1,34,provincia
+CIV,CI,384,Costa de Marfil,Côte d'Ivoire,Cote d'Ivoire,Republic of Côte d'Ivoire,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Yamoussoukro,5.332,-4.0305,1,1,14,distrito
+CMR,CM,120,Camerún,Camerún,Cameroon,Republic of Cameroon,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Yaounde,3.8721,11.5174,1,1,10,región
+COD,CD,180,República Democrática del Congo,"Congo, República Democrática del","Congo, Dem. Rep.",,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Kinshasa,-4.325,15.3222,1,1,26,provincia
+COG,CG,178,Congo,"Congo, República del","Congo, Rep.",Republic of the Congo,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Brazzaville,-4.2767,15.2662,1,1,12,departamento
+COL,CO,170,Colombia,Colombia,Colombia,Republic of Colombia,Latin America & Caribbean,América Latina y el Caribe,Upper middle income,Ingreso mediano alto,Bogota,4.60987,-74.082,1,1,33,departamento
+COM,KM,174,Comoras,Comoras,Comoros,Union of the Comoros,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Moroni,-11.6986,43.2418,1,1,3,isla
+CPV,CV,132,Cabo Verde,Cabo Verde,Cabo Verde,Republic of Cabo Verde,Sub-Saharan Africa,África al sur del Sahara,Upper middle income,Ingreso mediano alto,Praia,14.9218,-23.5087,1,1,2,región geográfica
+CRI,CR,188,Costa Rica,Costa Rica,Costa Rica,Republic of Costa Rica,Latin America & Caribbean,América Latina y el Caribe,High income,Ingreso alto,San Jose,9.63701,-84.0089,1,1,7,provincia
+CUB,CU,192,Cuba,Cuba,Cuba,Republic of Cuba,Latin America & Caribbean,América Latina y el Caribe,Upper middle income,Ingreso mediano alto,Havana,23.1333,-82.3667,1,1,16,provincia
+CUW,CW,531,Curazao,Curacao,Curacao,Curaçao,Latin America & Caribbean,América Latina y el Caribe,High income,Ingreso alto,Willemstad,,,1,1,0,
+CYM,KY,136,Islas Caimán,Islas Caimán,Cayman Islands,,Latin America & Caribbean,América Latina y el Caribe,High income,Ingreso alto,George Town,19.3022,-81.3857,1,1,0,
+CYP,CY,196,Chipre,Chipre,Cyprus,Republic of Cyprus,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Nicosia,35.1676,33.3736,1,1,6,distrito
+CZE,CZ,203,República Checa,República Checa,Czechia,Czech Republic,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Prague,50.0878,14.4205,1,1,14,región
+DEU,DE,276,Alemania,Alemania,Germany,Federal Republic of Germany,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Berlin,52.5235,13.4115,1,1,16,estado federado (Land)
+DJI,DJ,262,Yibuti,Djibouti,Djibouti,Republic of Djibouti,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",Lower middle income,Ingreso mediano bajo,Djibouti,11.5806,43.1425,1,1,6,región
+DMA,DM,212,Dominica,Dominica,Dominica,Commonwealth of Dominica,Latin America & Caribbean,América Latina y el Caribe,Upper middle income,Ingreso mediano alto,Roseau,15.2976,-61.39,1,1,10,parroquia
+DNK,DK,208,Dinamarca,Dinamarca,Denmark,Kingdom of Denmark,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Copenhagen,55.6763,12.5681,1,1,5,región
+DOM,DO,214,República Dominicana,República Dominicana,Dominican Republic,,Latin America & Caribbean,América Latina y el Caribe,Upper middle income,Ingreso mediano alto,Santo Domingo,18.479,-69.8908,1,1,10,región
+DZA,DZ,012,Argelia,Argelia,Algeria,People's Democratic Republic of Algeria,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",Upper middle income,Ingreso mediano alto,Algiers,36.7397,3.05097,1,1,58,provincia
+ECU,EC,218,Ecuador,Ecuador,Ecuador,Republic of Ecuador,Latin America & Caribbean,América Latina y el Caribe,Upper middle income,Ingreso mediano alto,Quito,-0.229498,-78.5243,1,1,24,provincia
+EGY,EG,818,Egipto,"Egipto, República Árabe de","Egypt, Arab Rep.",Arab Republic of Egypt,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",Lower middle income,Ingreso mediano bajo,Cairo,30.0982,31.2461,1,1,27,gobernación
+ERI,ER,232,Eritrea,Eritrea,Eritrea,the State of Eritrea,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Asmara,15.3315,38.9183,1,1,6,región
+ESP,ES,724,España,España,Spain,Kingdom of Spain,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Madrid,40.4167,-3.70327,1,1,19,comunidad autónoma
+EST,EE,233,Estonia,Estonia,Estonia,Republic of Estonia,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Tallinn,59.4392,24.7586,1,1,15,condado
+ETH,ET,231,Etiopía,Etiopía,Ethiopia,Federal Democratic Republic of Ethiopia,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Addis Ababa,9.02274,38.7468,1,1,13,estado regional
+FIN,FI,246,Finlandia,Finlandia,Finland,Republic of Finland,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Helsinki,60.1608,24.9525,1,1,19,región
+FJI,FJ,242,Fiyi,Fiji,Fiji,Republic of Fiji,East Asia & Pacific,Asia oriental y el Pacífico,Upper middle income,Ingreso mediano alto,Suva,-18.1149,178.399,1,1,5,división
+FRA,FR,250,Francia,Francia,France,French Republic,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Paris,48.8566,2.35097,1,1,26,región metropolitana
+FRO,FO,234,Islas Feroe,Islas Feroe,Faroe Islands,,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Torshavn,61.8926,-6.91181,1,1,0,
+FSM,FM,583,Estados Federados de Micronesia,Micronesia (Estados Federados de),"Micronesia, Fed. Sts.",Federated States of Micronesia,East Asia & Pacific,Asia oriental y el Pacífico,Upper middle income,Ingreso mediano alto,Palikir,6.91771,158.185,1,1,4,estado
+GAB,GA,266,Gabón,Gabón,Gabon,Gabonese Republic,Sub-Saharan Africa,África al sur del Sahara,Upper middle income,Ingreso mediano alto,Libreville,0.38832,9.45162,1,1,9,provincia
+GBR,GB,826,Reino Unido,Reino Unido,United Kingdom,United Kingdom of Great Britain and Northern Ireland,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,London,51.5002,-0.126236,1,1,4,país constituyente
+GEO,GE,268,Georgia,Georgia,Georgia,,Europe & Central Asia,Europa y Asia central,Upper middle income,Ingreso mediano alto,Tbilisi,41.71,44.793,1,1,12,región
+GHA,GH,288,Ghana,Ghana,Ghana,Republic of Ghana,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Accra,5.57045,-0.20795,1,1,16,región
+GIB,GI,292,Gibraltar,Gibraltar,Gibraltar,,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,,,,1,1,0,
+GIN,GN,324,Guinea,Guinea,Guinea,Republic of Guinea,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Conakry,9.51667,-13.7,1,1,8,región administrativa
+GMB,GM,270,Gambia,Gambia,"Gambia, The",Republic of the Gambia,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Banjul,13.4495,-16.5885,1,1,6,división
+GNB,GW,624,Guinea-Bisáu,Guinea-Bissau,Guinea-Bissau,Republic of Guinea-Bissau,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Bissau,11.8037,-15.1804,1,1,4,provincia
+GNQ,GQ,226,Guinea Ecuatorial,Guinea Ecuatorial,Equatorial Guinea,Republic of Equatorial Guinea,Sub-Saharan Africa,África al sur del Sahara,Upper middle income,Ingreso mediano alto,Malabo,3.7523,8.7741,1,1,2,región
+GRC,GR,300,Grecia,Grecia,Greece,Hellenic Republic,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Athens,37.9792,23.7166,1,1,14,región administrativa
+GRD,GD,308,Granada,Granada,Grenada,,Latin America & Caribbean,América Latina y el Caribe,Upper middle income,Ingreso mediano alto,Saint George's,12.0653,-61.7449,1,1,7,parroquia
+GRL,GL,304,Groenlandia,Groenlandia,Greenland,,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Nuuk,64.1836,-51.7214,1,1,5,municipio
+GTM,GT,320,Guatemala,Guatemala,Guatemala,Republic of Guatemala,Latin America & Caribbean,América Latina y el Caribe,Upper middle income,Ingreso mediano alto,Guatemala City,14.6248,-90.5328,1,1,22,departamento
+GUM,GU,316,Guam,Guam,Guam,,East Asia & Pacific,Asia oriental y el Pacífico,High income,Ingreso alto,Agana,13.4443,144.794,1,1,0,
+GUY,GY,328,Guyana,Guyana,Guyana,Republic of Guyana,Latin America & Caribbean,América Latina y el Caribe,High income,Ingreso alto,Georgetown,6.80461,-58.1548,1,1,10,región
+HKG,HK,344,Hong Kong,"Hong Kong, Región Administrativa Especial","Hong Kong SAR, China",Hong Kong Special Administrative Region of China,East Asia & Pacific,Asia oriental y el Pacífico,High income,Ingreso alto,,22.3964,114.109,1,1,0,
+HND,HN,340,Honduras,Honduras,Honduras,Republic of Honduras,Latin America & Caribbean,América Latina y el Caribe,Lower middle income,Ingreso mediano bajo,Tegucigalpa,15.1333,-87.4667,1,1,18,departamento
+HRV,HR,191,Croacia,Croacia,Croatia,Republic of Croatia,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Zagreb,45.8069,15.9614,1,1,21,condado
+HTI,HT,332,Haití,Haití,Haiti,Republic of Haiti,Latin America & Caribbean,América Latina y el Caribe,Lower middle income,Ingreso mediano bajo,Port-au-Prince,18.5392,-72.3288,1,1,10,departamento
+HUN,HU,348,Hungría,Hungría,Hungary,Hungary,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Budapest,47.4984,19.0408,1,1,43,ciudad con derechos de condado
+IDN,ID,360,Indonesia,Indonesia,Indonesia,Republic of Indonesia,East Asia & Pacific,Asia oriental y el Pacífico,Upper middle income,Ingreso mediano alto,Jakarta,-6.19752,106.83,1,1,7,unidad geográfica
+IMN,IM,833,Isla de Man,Isla de Man,Isle of Man,,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Douglas,54.1509,-4.47928,1,1,0,
+IND,IN,356,India,India,India,Republic of India,South Asia,Asia meridional,Lower middle income,Ingreso mediano bajo,New Delhi,28.6353,77.225,1,1,36,estado
+IRL,IE,372,Irlanda,Irlanda,Ireland,,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Dublin,53.3441,-6.26749,1,1,4,provincia
+IRN,IR,364,Irán,"Irán, República Islámica del","Iran, Islamic Rep.",Islamic Republic of Iran,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",Upper middle income,Ingreso mediano alto,Tehran,35.6878,51.4447,1,1,31,provincia
+IRQ,IQ,368,Irak,Iraq,Iraq,Republic of Iraq,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",Upper middle income,Ingreso mediano alto,Baghdad,33.3302,44.394,1,1,16,gobernación
+ISL,IS,352,Islandia,Islandia,Iceland,Republic of Iceland,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Reykjavik,64.1353,-21.8952,1,1,8,región
+ISR,IL,376,Israel,Israel,Israel,State of Israel,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",High income,Ingreso alto,,31.7717,35.2035,1,1,6,distrito
+ITA,IT,380,Italia,Italia,Italy,Italian Republic,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Rome,41.8955,12.4823,1,1,20,región
+JAM,JM,388,Jamaica,Jamaica,Jamaica,,Latin America & Caribbean,América Latina y el Caribe,Upper middle income,Ingreso mediano alto,Kingston,17.9927,-76.792,1,1,14,parroquia
+JOR,JO,400,Jordania,Jordania,Jordan,Hashemite Kingdom of Jordan,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",Upper middle income,Ingreso mediano alto,Amman,31.9497,35.9263,1,1,12,gobernación
+JPN,JP,392,Japón,Japón,Japan,,East Asia & Pacific,Asia oriental y el Pacífico,High income,Ingreso alto,Tokyo,35.67,139.77,1,1,47,prefectura
+KAZ,KZ,398,Kazajistán,Kazajstán,Kazakhstan,Republic of Kazakhstan,Europe & Central Asia,Europa y Asia central,Upper middle income,Ingreso mediano alto,Astana,51.1879,71.4382,1,1,20,región
+KEN,KE,404,Kenia,Kenya,Kenya,Republic of Kenya,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Nairobi,-1.27975,36.8126,1,1,47,condado
+KGZ,KG,417,Kirguistán,Kirguistán,Kyrgyz Republic,Kyrgyz Republic,Europe & Central Asia,Europa y Asia central,Lower middle income,Ingreso mediano bajo,Bishkek,42.8851,74.6057,1,1,9,región
+KHM,KH,116,Camboya,Camboya,Cambodia,Kingdom of Cambodia,East Asia & Pacific,Asia oriental y el Pacífico,Lower middle income,Ingreso mediano bajo,Phnom Penh,11.5556,104.874,1,1,25,provincia
+KIR,KI,296,Kiribati,Kiribati,Kiribati,Republic of Kiribati,East Asia & Pacific,Asia oriental y el Pacífico,Lower middle income,Ingreso mediano bajo,Tarawa,1.32905,172.979,1,1,3,grupo de islas
+KNA,KN,659,San Cristóbal y Nieves,Saint Kitts y Nevis,St. Kitts and Nevis,,Latin America & Caribbean,América Latina y el Caribe,High income,Ingreso alto,Basseterre,17.3,-62.7309,1,1,2,estado
+KOR,KR,410,Corea del Sur,"Corea, República de","Korea, Rep.",,East Asia & Pacific,Asia oriental y el Pacífico,High income,Ingreso alto,Seoul,37.5323,126.957,1,1,17,provincia
+KWT,KW,414,Kuwait,Kuwait,Kuwait,State of Kuwait,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",High income,Ingreso alto,Kuwait City,29.3721,47.9824,1,1,6,gobernación
+LAO,LA,418,Laos,República Democrática Popular Lao,Lao PDR,,East Asia & Pacific,Asia oriental y el Pacífico,Lower middle income,Ingreso mediano bajo,Vientiane,18.5826,102.177,1,1,18,provincia
+LBN,LB,422,Líbano,Líbano,Lebanon,Lebanese Republic,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",Lower middle income,Ingreso mediano bajo,Beirut,33.8872,35.5134,1,1,8,gobernación
+LBR,LR,430,Liberia,Liberia,Liberia,Republic of Liberia,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Monrovia,6.30039,-10.7957,1,1,15,condado
+LBY,LY,434,Libia,Libia,Libya,Libya,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",Upper middle income,Ingreso mediano alto,Tripoli,32.8578,13.1072,1,1,22,popularato
+LCA,LC,662,Santa Lucía,Santa Lucía,St. Lucia,,Latin America & Caribbean,América Latina y el Caribe,Upper middle income,Ingreso mediano alto,Castries,14.0,-60.9832,1,1,10,distrito
+LIE,LI,438,Liechtenstein,Liechtenstein,Liechtenstein,Principality of Liechtenstein,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Vaduz,47.1411,9.52148,1,1,11,comuna
+LKA,LK,144,Sri Lanka,Sri Lanka,Sri Lanka,Democratic Socialist Republic of Sri Lanka,South Asia,Asia meridional,Upper middle income,Ingreso mediano alto,Colombo,6.92148,79.8528,1,1,9,provincia
+LSO,LS,426,Lesoto,Lesotho,Lesotho,Kingdom of Lesotho,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Maseru,-29.5208,27.7167,1,1,10,distrito
+LTU,LT,440,Lituania,Lituania,Lithuania,Republic of Lithuania,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Vilnius,54.6896,25.2799,1,1,10,condado
+LUX,LU,442,Luxemburgo,Luxemburgo,Luxembourg,Grand Duchy of Luxembourg,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Luxembourg,49.61,6.1296,1,1,12,cantón
+LVA,LV,428,Letonia,Letonia,Latvia,Republic of Latvia,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Riga,56.9465,24.1048,1,1,43,municipio
+MAC,MO,446,Macao,"Región Administrativa Especial de Macao, China","Macao SAR, China",Macao Special Administrative Region of China,East Asia & Pacific,Asia oriental y el Pacífico,High income,Ingreso alto,,22.1667,113.55,1,1,0,
+MAF,MF,663,San Martín (parte francesa),Isla de San Martín (parte francesa),St. Martin (French part),,Latin America & Caribbean,América Latina y el Caribe,High income,Ingreso alto,Marigot,,,1,1,0,
+MAR,MA,504,Marruecos,Marruecos,Morocco,Kingdom of Morocco,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",Lower middle income,Ingreso mediano bajo,Rabat,33.9905,-6.8704,1,1,12,región
+MCO,MC,492,Mónaco,Mónaco,Monaco,Principality of Monaco,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Monaco,43.7325,7.41891,1,1,17,barrio
+MDA,MD,498,Moldavia,República de Moldova,Moldova,Republic of Moldova,Europe & Central Asia,Europa y Asia central,Upper middle income,Ingreso mediano alto,Chisinau,47.0167,28.8497,1,1,37,distrito
+MDG,MG,450,Madagascar,Madagascar,Madagascar,Republic of Madagascar,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Antananarivo,-20.4667,45.7167,1,1,6,provincia
+MDV,MV,462,Maldivas,Maldivas,Maldives,Republic of Maldives,South Asia,Asia meridional,Upper middle income,Ingreso mediano alto,Male,4.1742,73.5109,1,1,21,atolón administrativo
+MEX,MX,484,México,México,Mexico,United Mexican States,Latin America & Caribbean,América Latina y el Caribe,Upper middle income,Ingreso mediano alto,Mexico City,19.427,-99.1276,1,1,32,estado
+MHL,MH,584,Islas Marshall,Islas Marshall,Marshall Islands,Republic of the Marshall Islands,East Asia & Pacific,Asia oriental y el Pacífico,Upper middle income,Ingreso mediano alto,Majuro,7.11046,171.135,1,1,2,cadena de islas
+MKD,MK,807,Macedonia del Norte,Macedonia del Norte,North Macedonia,Republic of North Macedonia,Europe & Central Asia,Europa y Asia central,Upper middle income,Ingreso mediano alto,Skopje,42.0024,21.4361,1,1,80,municipio
+MLI,ML,466,Mali,Malí,Mali,Republic of Mali,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Bamako,13.5667,-7.50034,1,1,11,región
+MLT,MT,470,Malta,Malta,Malta,Republic of Malta,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",High income,Ingreso alto,Valletta,35.9042,14.5189,1,1,68,consejo local
+MMR,MM,104,Myanmar,Myanmar,Myanmar,Republic of Myanmar,East Asia & Pacific,Asia oriental y el Pacífico,Lower middle income,Ingreso mediano bajo,Naypyidaw,21.914,95.9562,1,1,15,región
+MNE,ME,499,Montenegro,Montenegro,Montenegro,Montenegro,Europe & Central Asia,Europa y Asia central,Upper middle income,Ingreso mediano alto,Podgorica,42.4602,19.2595,1,1,25,municipio
+MNG,MN,496,Mongolia,Mongolia,Mongolia,,East Asia & Pacific,Asia oriental y el Pacífico,Upper middle income,Ingreso mediano alto,Ulaanbaatar,47.9129,106.937,1,1,22,provincia
+MNP,MP,580,Islas Marianas del Norte,Mariana,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,East Asia & Pacific,Asia oriental y el Pacífico,High income,Ingreso alto,Saipan,15.1935,145.765,1,1,0,
+MOZ,MZ,508,Mozambique,Mozambique,Mozambique,Republic of Mozambique,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Maputo,-25.9664,32.5713,1,1,11,provincia
+MRT,MR,478,Mauritania,Mauritania,Mauritania,Islamic Republic of Mauritania,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Nouakchott,18.2367,-15.9824,1,1,15,región
+MUS,MU,480,Mauricio,Mauricio,Mauritius,Republic of Mauritius,Sub-Saharan Africa,África al sur del Sahara,Upper middle income,Ingreso mediano alto,Port Louis,-20.1605,57.4977,1,1,12,distrito
+MWI,MW,454,Malaui,Malawi,Malawi,Republic of Malawi,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Lilongwe,-13.9899,33.7703,1,1,3,región
+MYS,MY,458,Malasia,Malasia,Malaysia,,East Asia & Pacific,Asia oriental y el Pacífico,Upper middle income,Ingreso mediano alto,Kuala Lumpur,3.12433,101.684,1,1,16,estado
+NAM,NA,516,Namibia,Namibia,Namibia,Republic of Namibia,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Windhoek,-22.5648,17.0931,1,1,14,región
+NCL,NC,540,Nueva Caledonia,Nueva Caledonia,New Caledonia,,East Asia & Pacific,Asia oriental y el Pacífico,High income,Ingreso alto,Noum'ea,-22.2677,166.464,1,1,0,
+NER,NE,562,Níger,Níger,Niger,Republic of the Niger,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Niamey,13.514,2.1073,1,1,8,región
+NGA,NG,566,Nigeria,Nigeria,Nigeria,Federal Republic of Nigeria,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Abuja,9.05804,7.48906,1,1,37,estado
+NIC,NI,558,Nicaragua,Nicaragua,Nicaragua,Republic of Nicaragua,Latin America & Caribbean,América Latina y el Caribe,Lower middle income,Ingreso mediano bajo,Managua,12.1475,-86.2734,1,1,17,departamento
+NLD,NL,528,Países Bajos,Países Bajos,Netherlands,Kingdom of the Netherlands,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Amsterdam,52.3738,4.89095,1,1,18,provincia
+NOR,NO,578,Noruega,Noruega,Norway,Kingdom of Norway,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Oslo,59.9138,10.7387,1,1,13,condado
+NPL,NP,524,Nepal,Nepal,Nepal,Federal Democratic Republic of Nepal,South Asia,Asia meridional,Lower middle income,Ingreso mediano bajo,Kathmandu,27.6939,85.3157,1,1,7,provincia
+NRU,NR,520,Nauru,Naoero,Naoero,Republic of Nauru,East Asia & Pacific,Asia oriental y el Pacífico,High income,Ingreso alto,Yaren District,-0.5477,166.920867,1,1,14,distrito
+NZL,NZ,554,Nueva Zelanda,Nueva Zelandia,New Zealand,,East Asia & Pacific,Asia oriental y el Pacífico,High income,Ingreso alto,Wellington,-41.2865,174.776,1,1,17,región
+OMN,OM,512,Omán,Omán,Oman,Sultanate of Oman,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",High income,Ingreso alto,Muscat,23.6105,58.5874,1,1,11,gobernación
+PAK,PK,586,Pakistán,Pakistán,Pakistan,Islamic Republic of Pakistan,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",Lower middle income,Ingreso mediano bajo,Islamabad,30.5167,72.8,1,1,7,provincia
+PAN,PA,591,Panamá,Panamá,Panama,Republic of Panama,Latin America & Caribbean,América Latina y el Caribe,High income,Ingreso alto,Panama City,8.99427,-79.5188,1,1,14,provincia
+PER,PE,604,Perú,Perú,Peru,Republic of Peru,Latin America & Caribbean,América Latina y el Caribe,Upper middle income,Ingreso mediano alto,Lima,-12.0931,-77.0465,1,1,26,región
+PHL,PH,608,Filipinas,Filipinas,Philippines,Republic of the Philippines,East Asia & Pacific,Asia oriental y el Pacífico,Upper middle income,Ingreso mediano alto,Manila,14.5515,121.035,1,1,17,región
+PLW,PW,585,Palaos,Palau,Palau,Republic of Palau,East Asia & Pacific,Asia oriental y el Pacífico,High income,Ingreso alto,Koror,7.34194,134.479,1,1,16,estado
+PNG,PG,598,Papúa Nueva Guinea,Papua Nueva Guinea,Papua New Guinea,Independent State of Papua New Guinea,East Asia & Pacific,Asia oriental y el Pacífico,Lower middle income,Ingreso mediano bajo,Port Moresby,-9.47357,147.194,1,1,22,provincia
+POL,PL,616,Polonia,Polonia,Poland,Republic of Poland,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Warsaw,52.26,21.02,1,1,16,voivodato
+PRI,PR,630,Puerto Rico,Puerto Rico (US),Puerto Rico (US),,Latin America & Caribbean,América Latina y el Caribe,High income,Ingreso alto,San Juan,18.23,-66.0,1,1,0,
+PRK,KP,408,Corea del Norte,"Corea, República Popular Democrática de","Korea, Dem. People's Rep.",Democratic People's Republic of Korea,East Asia & Pacific,Asia oriental y el Pacífico,Low income,Ingreso bajo,Pyongyang,39.0319,125.754,1,1,13,provincia
+PRT,PT,620,Portugal,Portugal,Portugal,Portuguese Republic,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Lisbon,38.7072,-9.13552,1,1,20,distrito
+PRY,PY,600,Paraguay,Paraguay,Paraguay,Republic of Paraguay,Latin America & Caribbean,América Latina y el Caribe,Upper middle income,Ingreso mediano alto,Asuncion,-25.3005,-57.6362,1,1,18,departamento
+PSE,PS,275,Palestina,Ribera Occidental y Gaza,West Bank and Gaza,the State of Palestine,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",Lower middle income,Ingreso mediano bajo,,,,1,1,16,gobernación
+PYF,PF,258,Polinesia Francesa,Polinesia Francesa,French Polynesia,,East Asia & Pacific,Asia oriental y el Pacífico,High income,Ingreso alto,Papeete,-17.535,-149.57,1,1,0,
+QAT,QA,634,Catar,Qatar,Qatar,State of Qatar,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",High income,Ingreso alto,Doha,25.2948,51.5082,1,1,8,municipio
+ROU,RO,642,Rumania,Rumania,Romania,,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Bucharest,44.4479,26.0979,1,1,42,departamento
+RUS,RU,643,Rusia,Federación de Rusia,Russian Federation,,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Moscow,55.7558,37.6176,1,1,83,región administrativa
+RWA,RW,646,Ruanda,Rwanda,Rwanda,Rwandese Republic,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Kigali,-1.95325,30.0587,1,1,5,provincia
+SAU,SA,682,Arabia Saudí,Arabia Saudita,Saudi Arabia,Kingdom of Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",High income,Ingreso alto,Riyadh,24.6748,46.6977,1,1,13,región
+SDN,SD,729,Sudán,Sudán,Sudan,Republic of the Sudan,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Khartoum,15.5932,32.5363,1,1,18,estado
+SEN,SN,686,Senegal,Senegal,Senegal,Republic of Senegal,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Dakar,14.7247,-17.4734,1,1,14,región
+SGP,SG,702,Singapur,Singapur,Singapore,Republic of Singapore,East Asia & Pacific,Asia oriental y el Pacífico,High income,Ingreso alto,Singapore,1.28941,103.85,1,1,5,distrito
+SLB,SB,090,Islas Salomón,Islas Salomón,Solomon Islands,,East Asia & Pacific,Asia oriental y el Pacífico,Lower middle income,Ingreso mediano bajo,Honiara,-9.42676,159.949,1,1,10,provincia
+SLE,SL,694,Sierra Leona,Sierra Leona,Sierra Leone,Republic of Sierra Leone,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Freetown,8.4821,-13.2134,1,1,5,provincia
+SLV,SV,222,El Salvador,El Salvador,El Salvador,Republic of El Salvador,Latin America & Caribbean,América Latina y el Caribe,Upper middle income,Ingreso mediano alto,San Salvador,13.7034,-89.2073,1,1,14,departamento
+SMR,SM,674,San Marino,San Marino,San Marino,Republic of San Marino,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,San Marino,43.9322,12.4486,1,1,9,municipio
+SOM,SO,706,Somalia,República Federal de Somalia,"Somalia, Fed. Rep.",Federal Republic of Somalia,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Mogadishu,2.07515,45.3254,1,1,18,región
+SRB,RS,688,Serbia,Serbia,Serbia,Republic of Serbia,Europe & Central Asia,Europa y Asia central,Upper middle income,Ingreso mediano alto,Belgrade,44.8024,20.4656,1,1,20,distrito
+SSD,SS,728,Sudán del Sur,Sudán del Sur,South Sudan,Republic of South Sudan,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Juba,4.85,31.6,1,1,10,estado
+STP,ST,678,Santo Tomé y Príncipe,Santo Tomé y Príncipe,Sao Tome and Principe,Democratic Republic of Sao Tome and Principe,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Sao Tome,0.20618,6.6071,1,1,7,distrito
+SUR,SR,740,Surinam,Suriname,Suriname,Republic of Suriname,Latin America & Caribbean,América Latina y el Caribe,Upper middle income,Ingreso mediano alto,Paramaribo,5.8232,-55.1679,1,1,10,distrito
+SVK,SK,703,Eslovaquia,República Eslovaca,Slovak Republic,Slovak Republic,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Bratislava,48.1484,17.1073,1,1,8,región
+SVN,SI,705,Eslovenia,Eslovenia,Slovenia,Republic of Slovenia,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Ljubljana,46.0546,14.5044,1,1,212,municipio
+SWE,SE,752,Suecia,Suecia,Sweden,Kingdom of Sweden,Europe & Central Asia,Europa y Asia central,High income,Ingreso alto,Stockholm,59.3327,18.0645,1,1,21,condado
+SWZ,SZ,748,Esuatini,Eswatini,Eswatini,Kingdom of Eswatini,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Mbabane,-26.5225,31.4659,1,1,4,región
+SXM,SX,534,San Martín (parte neerlandesa),Sint Maarten (Dutch part),Sint Maarten (Dutch part),Sint Maarten (Dutch part),Latin America & Caribbean,América Latina y el Caribe,High income,Ingreso alto,Philipsburg,,,1,1,0,
+SYC,SC,690,Seychelles,Seychelles,Seychelles,Republic of Seychelles,Sub-Saharan Africa,África al sur del Sahara,High income,Ingreso alto,Victoria,-4.6309,55.4466,1,1,27,distrito
+SYR,SY,760,Siria,República Árabe Siria,Syrian Arab Republic,,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",Low income,Ingreso bajo,Damascus,33.5146,36.3119,1,1,14,provincia
+TCA,TC,796,Islas Turcas y Caicos,Islas Turcas y Caicos,Turks and Caicos Islands,,Latin America & Caribbean,América Latina y el Caribe,High income,Ingreso alto,Grand Turk,21.4602778,-71.141389,1,1,0,
+TCD,TD,148,Chad,Chad,Chad,Republic of Chad,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,N'Djamena,12.1048,15.0445,1,1,23,provincia
+TGO,TG,768,Togo,Togo,Togo,Togolese Republic,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Lome,6.1228,1.2255,1,1,5,región
+THA,TH,764,Tailandia,Tailandia,Thailand,Kingdom of Thailand,East Asia & Pacific,Asia oriental y el Pacífico,Upper middle income,Ingreso mediano alto,Bangkok,13.7308,100.521,1,1,78,provincia
+TJK,TJ,762,Tayikistán,Tayikistán,Tajikistan,Republic of Tajikistan,Europe & Central Asia,Europa y Asia central,Lower middle income,Ingreso mediano bajo,Dushanbe,38.5878,68.7864,1,1,5,región
+TKM,TM,795,Turkmenistán,Turkmenistán,Turkmenistan,,Europe & Central Asia,Europa y Asia central,Upper middle income,Ingreso mediano alto,Ashgabat,37.9509,58.3794,1,1,6,región
+TLS,TL,626,Timor Oriental,Timor-Leste,Timor-Leste,Democratic Republic of Timor-Leste,East Asia & Pacific,Asia oriental y el Pacífico,Lower middle income,Ingreso mediano bajo,Dili,-8.56667,125.567,1,1,13,municipio
+TON,TO,776,Tonga,Tonga,Tonga,Kingdom of Tonga,East Asia & Pacific,Asia oriental y el Pacífico,Upper middle income,Ingreso mediano alto,Nuku'alofa,-21.136,-175.216,1,1,5,división
+TTO,TT,780,Trinidad y Tobago,Trinidad y Tobago,Trinidad and Tobago,Republic of Trinidad and Tobago,Latin America & Caribbean,América Latina y el Caribe,High income,Ingreso alto,Port-of-Spain,10.6596,-61.4789,1,1,15,región
+TUN,TN,788,Túnez,Túnez,Tunisia,Republic of Tunisia,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",Lower middle income,Ingreso mediano bajo,Tunis,36.7899,10.21,1,1,24,gobernación
+TUR,TR,792,Turquía,Turquía,Turkiye,Republic of Türkiye,Europe & Central Asia,Europa y Asia central,Upper middle income,Ingreso mediano alto,Ankara,39.7153,32.3606,1,1,81,provincia
+TUV,TV,798,Tuvalu,Tuvalu,Tuvalu,,East Asia & Pacific,Asia oriental y el Pacífico,Upper middle income,Ingreso mediano alto,Funafuti,-8.6314877,179.089567,1,1,8,consejo insular
+TZA,TZ,834,Tanzania,Tanzanía,Tanzania,United Republic of Tanzania,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Dodoma,-6.17486,35.7382,1,1,31,región
+UGA,UG,800,Uganda,Uganda,Uganda,Republic of Uganda,Sub-Saharan Africa,África al sur del Sahara,Low income,Ingreso bajo,Kampala,0.314269,32.5729,1,1,4,región geográfica
+UKR,UA,804,Ucrania,Ucrania,Ukraine,,Europe & Central Asia,Europa y Asia central,Upper middle income,Ingreso mediano alto,Kiev,50.4536,30.5038,1,1,27,región
+URY,UY,858,Uruguay,Uruguay,Uruguay,Eastern Republic of Uruguay,Latin America & Caribbean,América Latina y el Caribe,High income,Ingreso alto,Montevideo,-34.8941,-56.0675,1,1,19,departamento
+USA,US,840,Estados Unidos,Estados Unidos,United States,United States of America,North America,América del Norte,High income,Ingreso alto,Washington D.C.,38.8895,-77.032,1,1,57,estado
+UZB,UZ,860,Uzbekistán,Uzbekistán,Uzbekistan,Republic of Uzbekistan,Europe & Central Asia,Europa y Asia central,Lower middle income,Ingreso mediano bajo,Tashkent,41.3052,69.269,1,1,14,región
+VCT,VC,670,San Vicente y las Granadinas,San Vicente y las Granadinas,St. Vincent and the Grenadines,,Latin America & Caribbean,América Latina y el Caribe,Upper middle income,Ingreso mediano alto,Kingstown,13.2035,-61.2653,1,1,6,parroquia
+VEN,VE,862,Venezuela,Venezuela,"Venezuela, RB",Bolivarian Republic of Venezuela,Latin America & Caribbean,América Latina y el Caribe,Lower middle income,Ingreso mediano bajo,Caracas,9.08165,-69.8371,1,1,25,estado
+VGB,VG,092,Islas Vírgenes Británicas,Islas Vírgenes Británicas,British Virgin Islands,British Virgin Islands,Latin America & Caribbean,América Latina y el Caribe,High income,Ingreso alto,Road Town,18.431389,-64.623056,1,1,0,
+VIR,VI,850,Islas Vírgenes de los Estados Unidos,Islas Vírgenes (EE.UU.),Virgin Islands (U.S.),Virgin Islands of the United States,Latin America & Caribbean,América Latina y el Caribe,High income,Ingreso alto,Charlotte Amalie,18.3358,-64.8963,1,1,0,
+VNM,VN,704,Vietnam,Viet Nam,Viet Nam,Socialist Republic of Viet Nam,East Asia & Pacific,Asia oriental y el Pacífico,Upper middle income,Ingreso mediano alto,Hanoi,21.0069,105.825,1,1,63,provincia
+VUT,VU,548,Vanuatu,Vanuatu,Vanuatu,Republic of Vanuatu,East Asia & Pacific,Asia oriental y el Pacífico,Lower middle income,Ingreso mediano bajo,Port-Vila,-17.7404,168.321,1,1,6,provincia
+WSM,WS,882,Samoa,Samoa,Samoa,Independent State of Samoa,East Asia & Pacific,Asia oriental y el Pacífico,Upper middle income,Ingreso mediano alto,Apia,-13.8314,-171.752,1,1,11,distrito
+XKX,XK,,Kosovo,Kosovo,Kosovo,,Europe & Central Asia,Europa y Asia central,Upper middle income,Ingreso mediano alto,Pristina,42.565,20.926,1,0,0,
+YEM,YE,887,Yemen,"Yemen, Rep. del","Yemen, Rep.",Republic of Yemen,"Middle East, North Africa, Afghanistan & Pakistan","Oriente Medio, Norte de África, Afganistán y Pakistán",Low income,Ingreso bajo,Sana'a,15.352,44.2075,1,1,22,gobernación
+ZAF,ZA,710,Sudáfrica,Sudáfrica,South Africa,Republic of South Africa,Sub-Saharan Africa,África al sur del Sahara,Upper middle income,Ingreso mediano alto,Pretoria,-25.746,28.1871,1,1,9,provincia
+ZMB,ZM,894,Zambia,Zambia,Zambia,Republic of Zambia,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Lusaka,-15.3982,28.2937,1,1,10,provincia
+ZWE,ZW,716,Zimbabue,Zimbabwe,Zimbabwe,Republic of Zimbabwe,Sub-Saharan Africa,África al sur del Sahara,Lower middle income,Ingreso mediano bajo,Harare,-17.8312,31.0672,1,1,10,provincia
+AIA,AI,660,Anguila,,Anguilla,,,,,,,,,0,1,0,
+ALA,AX,248,Åland,,Åland Islands,,,,,,,,,0,1,0,
+ATA,AQ,010,Antártida,,Antarctica,,,,,,,,,0,1,0,
+ATF,TF,260,Tierras Australes y Antárticas Francesas,,French Southern Territories,,,,,,,,,0,1,0,
+BES,BQ,535,Caribe neerlandés,,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",,,,,,,,0,1,3,municipio especial
+BLM,BL,652,San Bartolomé,,Saint Barthélemy,,,,,,,,,0,1,0,
+BVT,BV,074,Isla Bouvet,,Bouvet Island,,,,,,,,,0,1,0,
+CCK,CC,166,Islas Cocos,,Cocos (Keeling) Islands,,,,,,,,,0,1,0,
+COK,CK,184,Islas Cook,,Cook Islands,,,,,,,,,0,1,0,
+CXR,CX,162,Isla de Navidad,,Christmas Island,,,,,,,,,0,1,0,
+ESH,EH,732,Sahara Occidental,,Western Sahara,,,,,,,,,0,1,0,
+FLK,FK,238,Islas Malvinas,,Falkland Islands (Malvinas),,,,,,,,,0,1,0,
+GGY,GG,831,Guernsey,,Guernsey,,,,,,,,,0,1,0,
+GLP,GP,312,Guadalupe,,Guadeloupe,,,,,,,,,0,1,0,
+GUF,GF,254,Guayana Francesa,,French Guiana,,,,,,,,,0,1,0,
+HMD,HM,334,Islas Heard y McDonald,,Heard Island and McDonald Islands,,,,,,,,,0,1,0,
+IOT,IO,086,Territorio Británico del Océano Índico,,British Indian Ocean Territory,,,,,,,,,0,1,0,
+JEY,JE,832,Jersey,,Jersey,,,,,,,,,0,1,0,
+MSR,MS,500,Montserrat,,Montserrat,,,,,,,,,0,1,0,
+MTQ,MQ,474,Martinica,,Martinique,,,,,,,,,0,1,0,
+MYT,YT,175,Mayotte,,Mayotte,,,,,,,,,0,1,0,
+NFK,NF,574,Isla Norfolk,,Norfolk Island,,,,,,,,,0,1,0,
+NIU,NU,570,Niue,,Niue,Niue,,,,,,,,0,1,0,
+PCN,PN,612,Islas Pitcairn,,Pitcairn,,,,,,,,,0,1,0,
+REU,RE,638,Reunión,,Réunion,,,,,,,,,0,1,0,
+SGS,GS,239,Islas Georgias del Sur y Sandwich del Sur,,South Georgia and the South Sandwich Islands,,,,,,,,,0,1,0,
+SHN,SH,654,"Santa Elena, Ascensión y Tristán de Acuña",,"Saint Helena, Ascension and Tristan da Cunha",,,,,,,,,0,1,3,entidad geográfica
+SJM,SJ,744,Svalbard y Jan Mayen,,Svalbard and Jan Mayen,,,,,,,,,0,1,0,
+SPM,PM,666,San Pedro y Miquelón,,Saint Pierre and Miquelon,,,,,,,,,0,1,0,
+TKL,TK,772,Tokelau,,Tokelau,,,,,,,,,0,1,0,
+TWN,TW,158,Taiwán,,Taiwan,"Taiwan, Province of China",,,,,,,,0,1,22,condado
+UMI,UM,581,Islas ultramarinas de Estados Unidos,,United States Minor Outlying Islands,,,,,,,,,0,1,9,islas o grupos de islas
+VAT,VA,336,Ciudad del Vaticano,,Holy See (Vatican City State),,,,,,,,,0,1,0,
+WLF,WF,876,Wallis y Futuna,,Wallis and Futuna,,,,,,,,,0,1,3,recinto administrativo

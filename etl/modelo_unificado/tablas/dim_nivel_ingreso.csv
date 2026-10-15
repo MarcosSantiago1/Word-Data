@@ -1,0 +1,5 @@
+nivel_ingreso_codigo,nombre_en,nombre_es,orden
+LIC,Low income,Ingreso bajo,1
+LMC,Lower middle income,Ingreso mediano bajo,2
+UMC,Upper middle income,Ingreso mediano alto,3
+HIC,High income,Ingreso alto,4
