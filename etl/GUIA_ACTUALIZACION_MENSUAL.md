@@ -19,6 +19,7 @@ qué hace, cómo leer el resumen y cómo volver atrás si hiciera falta.
    | Dimensiones nuevas | `fuentes_nuevas/extraer_dimensiones_nuevas.py` |
    | Dimensiones nuevas en el panel de países | `paso3_dimensiones_nuevas.py` |
    | Modelo unificado | `modelo_unificado/construir_master.py` |
+   | Bases Argentina, Latam y mundial | `bases_regionales/construir_bases_regionales.py` |
 
 3. **Si un paso falla** (fuente caída, dominio bloqueado, formato nuevo), ese paso vuelve a
    su versión anterior y los siguientes siguen con ella.

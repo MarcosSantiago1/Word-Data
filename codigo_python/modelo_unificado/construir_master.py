@@ -500,6 +500,12 @@ def leer_paises(pais):
     hechos, extra = {}, {}
 
     panel = pd.read_csv(ETL / "datos_procesados" / "paises_anual.csv")
+    # paso3_dimensiones_nuevas.py copia al panel las columnas de las dimensiones nuevas para quien use el CSV;
+    # en la base viven solo en sus tablas: se apartan acá y se controla abajo que coincidan
+    de_tablas_nuevas = {c for a, (_, clave, _) in TABLAS_PAIS_NUEVAS.items() if clave == ["anio"]
+                        for c in pd.read_csv(NUEVAS / a, nrows=0).columns if c not in ("iso3", "anio")}
+    copias = panel[["iso3", "anio"] + [c for c in panel.columns if c in de_tablas_nuevas]]
+    panel = panel.drop(columns=copias.columns[2:])
     vacias = [c for c in panel.columns if panel[c].isna().all()]  # p. ej. felicidad_fuente
     panel = panel.drop(columns=["pais", "region", "nivel_ingreso"] + vacias)
     panel.insert(0, "pais_id", panel.pop("iso3").map(id_de))
@@ -569,6 +575,19 @@ def leer_paises(pais):
         assert not faltan, (archivo, faltan)
         d.insert(0, "pais_id", d.pop("iso3").map(id_de))
         hechos[tabla] = (d, ["pais_id"] + clave)
+
+    copias = copias.assign(pais_id=copias.iso3.map(id_de)).drop(columns="iso3")
+    for archivo, (tabla, clave, _) in TABLAS_PAIS_NUEVAS.items():
+        d = hechos[tabla][0]
+        cols = [c for c in d.columns if c in copias.columns and c not in ("pais_id", "anio")]
+        if not cols:
+            continue
+        m = copias[["pais_id", "anio"] + cols].merge(d[["pais_id", "anio"] + cols], on=["pais_id", "anio"],
+                                                     how="left", suffixes=("", "_tabla"))
+        for c in cols:
+            a, b = m[c].astype(float), m[f"{c}_tabla"].astype(float)
+            assert ((a.isna() & b.isna()) | ((a - b).abs() <= 1e-9 * (1 + b.abs()))).all(), (tabla, c)
+    extra["columnas_panel_en_tablas_nuevas"] = len(copias.columns) - 2
 
     for tabla, (d, clave) in hechos.items():
         for c in clave:
@@ -984,7 +1003,12 @@ JOIN dim_subdivision s ON s.subdivision_id = f.subdivision_id;
 def vista_pais_anual(hechos):
     cols_h = [c for c in hechos["hecho_pais_anual"][0].columns if c not in ("pais_id", "anio")]
     cols_r = [c for c in hechos["hecho_pais_relaciones_anual"][0].columns if c not in ("pais_id", "anio")]
-    sel = ", ".join([f"h.{c}" for c in cols_h] + [f"r.{c}" for c in cols_r])
+    # las tablas país-año de las dimensiones nuevas también van a la vista ancha (como en paises_anual.csv)
+    nuevas = [t for t, clave, _ in TABLAS_PAIS_NUEVAS.values() if clave == ["anio"]]
+    cols_n = [f"n{i}.{c}" for i, t in enumerate(nuevas) for c in hechos[t][0].columns if c not in ("pais_id", "anio")]
+    joins_n = "".join(f"\nLEFT JOIN {t} n{i} ON n{i}.pais_id = h.pais_id AND n{i}.anio = h.anio"
+                      for i, t in enumerate(nuevas))
+    sel = ", ".join([f"h.{c}" for c in cols_h] + [f"r.{c}" for c in cols_r] + cols_n)
     return f"""
 CREATE VIEW v_pais_anual AS
 SELECT v.iso3, v.nombre_es AS pais, v.continente, v.region_bm, v.nivel_ingreso, h.anio, {sel},
@@ -992,7 +1016,7 @@ SELECT v.iso3, v.nombre_es AS pais, v.continente, v.region_bm, v.nivel_ingreso, 
          WHERE m.pais_id = h.pais_id AND m.anio = h.anio AND m.estado = 'pleno') AS n_organizaciones_clave
 FROM hecho_pais_anual h
 JOIN v_pais v ON v.pais_id = h.pais_id
-LEFT JOIN hecho_pais_relaciones_anual r ON r.pais_id = h.pais_id AND r.anio = h.anio;"""
+LEFT JOIN hecho_pais_relaciones_anual r ON r.pais_id = h.pais_id AND r.anio = h.anio{joins_n};"""
 
 
 def vista_subdivision_anual(hechos):
@@ -1177,6 +1201,8 @@ def main():
     c["regiones_sobre_nacional"] = (c.regiones / c.nacional).round(3)
     print("   emisiones 2022, suma de regiones OCDE / dato nacional BM:",
           dict(zip(c.iso3, c.regiones_sobre_nacional)))
+    print(f"   {extra_p['columnas_panel_en_tablas_nuevas']} columnas de paises_anual.csv (paso 3) coinciden con sus "
+          "tablas de dimensiones nuevas: van solo a esas tablas y a v_pais_anual")
     if extra_p["columnas_vacias_descartadas"]:
         print("   columnas vacías descartadas del panel:", extra_p["columnas_vacias_descartadas"])
 

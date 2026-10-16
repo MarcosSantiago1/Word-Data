@@ -7,7 +7,7 @@ Cómo funciona (paso a paso):
      publicados no se tocan hasta el final.
   2. Corre los scripts en orden, con ETL_REFRESCAR=1 para que vuelvan a bajar las fuentes:
        panel de países (paso 1 + paso 2) -> maestros -> alianzas -> Argentina por provincia
-       -> Latinoamérica por subdivisión -> modelo unificado (SQLite)
+       -> Latinoamérica por subdivisión -> modelo unificado (SQLite) -> bases regionales
   3. Si un paso falla (fuente caída, dominio bloqueado, cambio de formato), ese paso vuelve
      a su versión anterior y los siguientes siguen con ella. Nunca se pisan datos buenos.
   4. Controla cada archivo nuevo contra el anterior: si desaparece un archivo, se pierden
@@ -69,6 +69,8 @@ PASOS = [
      [["indicadores_sociales_digitales/extraer_indicadores_sociales.py"]], ["indicadores_sociales_digitales"]),
     ("modelo_unificado", "Modelo unificado (SQLite)",
      [["modelo_unificado/construir_master.py"]], ["modelo_unificado"]),
+    ("bases_regionales", "Bases Argentina, Latinoamérica y mundial (SQLite)",  # lee el master
+     [["bases_regionales/construir_bases_regionales.py"]], ["bases_regionales"]),
 ]
 
 PISTAS_ERROR = [
