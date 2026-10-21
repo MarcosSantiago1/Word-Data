@@ -7,7 +7,7 @@ Cómo funciona (paso a paso):
      publicados no se tocan hasta el final.
   2. Corre los scripts en orden, con ETL_REFRESCAR=1 para que vuelvan a bajar las fuentes:
        panel de países (paso 1 + paso 2) -> maestros -> alianzas -> Argentina por provincia
-       -> Latinoamérica por subdivisión -> modelo unificado (SQLite) -> bases regionales
+       -> Latinoamérica por subdivisión -> modelo unificado (SQLite) -> bases regionales -> base absoluta
   3. Si un paso falla (fuente caída, dominio bloqueado, cambio de formato), ese paso vuelve
      a su versión anterior y los siguientes siguen con ella. Nunca se pisan datos buenos.
   4. Controla cada archivo nuevo contra el anterior: si desaparece un archivo, se pierden
@@ -22,6 +22,7 @@ Cómo funciona (paso a paso):
 Uso:
     python actualizar_mensual.py            # actualiza y publica
     python actualizar_mensual.py --prueba   # corre y compara, pero no publica nada
+    (--conservar deja la copia de trabajo en /tmp para revisarla)
 """
 
 import hashlib
@@ -45,6 +46,8 @@ BACKUPS_A_CONSERVAR = 3
 CAIDA_MAXIMA_FILAS = 0.05  # más de 5 % menos filas = sospechoso
 # Tablas que salen de Wikidata (editada por voluntarios) varían más de un mes a otro
 CAIDA_MAXIMA_POR_ARCHIVO = {"latam_subnacional/gobernantes_subdivision.csv": 0.20}
+# Una columna que pierde más de 20 % de sus datos = descarga cortada (p. ej. Wikidata con timeout)
+CAIDA_MAXIMA_DATOS = 0.20
 LIMITE_SEGUNDOS_PASO = 3 * 3600
 NO_COPIAR = shutil.ignore_patterns("__pycache__", "historial", "actualizaciones")
 
@@ -71,6 +74,8 @@ PASOS = [
      [["modelo_unificado/construir_master.py"]], ["modelo_unificado"]),
     ("bases_regionales", "Bases Argentina, Latinoamérica y mundial (SQLite)",  # lee el master
      [["bases_regionales/construir_bases_regionales.py"]], ["bases_regionales"]),
+    ("base_absoluta", "Base absoluta: país, provincia, variable y una columna por año",  # lee el master
+     [["base_absoluta/construir_base_absoluta.py"]], ["base_absoluta"]),
 ]
 
 PISTAS_ERROR = [
@@ -155,6 +160,14 @@ def controlar(rel, viejo: Path, nuevo: Path):
                 problemas.append(f"{rel}: se perdieron columnas {perdidas[:8]}")
             if len(b) < len(a) * (1 - CAIDA_MAXIMA_POR_ARCHIVO.get(rel.as_posix(), CAIDA_MAXIMA_FILAS)):
                 problemas.append(f"{rel}: bajó de {len(a):,} a {len(b):,} filas")
+            vacias = []
+            for c in [c for c in a.columns if c in b.columns]:
+                na, nb = int(a[c].notna().sum()), int(b[c].notna().sum())
+                if na >= 50 and nb < na * (1 - CAIDA_MAXIMA_DATOS):
+                    vacias.append(f"{c} ({na:,} → {nb:,})")
+            if vacias:
+                problemas.append(f"{rel}: columnas que perdieron más de {CAIDA_MAXIMA_DATOS:.0%} de sus datos: "
+                                 + ", ".join(vacias[:5]) + ("…" if len(vacias) > 5 else ""))
     elif nuevo.suffix == ".sqlite":
         a, b = filas_sqlite(viejo), filas_sqlite(nuevo)
         for t, n in a.items():
@@ -250,8 +263,16 @@ def main():
     al_empezar = {rel: foto(ETL / rel) for rel in archivos_de(ETL, todas)}
     shutil.copytree(ETL, staging, ignore=NO_COPIAR)
 
+    # Algunas carpetas las escriben dos pasos (datos_procesados: paso 1-2 y paso 3). El control se
+    # hace en el último que la escribe, y si ese falla se vuelve a la versión de antes del primero.
+    def primero_que_escribe(carpeta):
+        return next(n for n, _, _, cs in PASOS if carpeta in cs)
+
+    def escrita_despues(i, carpeta):
+        return any(carpeta in cs for _, _, _, cs in PASOS[i + 1:])
+
     resultados = []
-    for nombre, descripcion, comandos, carpetas in PASOS:
+    for i, (nombre, descripcion, comandos, carpetas) in enumerate(PASOS):
         print(f"\n=== {descripcion} ===", flush=True)
         # Copia del paso antes de correrlo, para volver atrás si falla
         for c in carpetas:
@@ -267,15 +288,21 @@ def main():
             detalle = [f"causa probable: {pista(texto_log[-4000:])}", *ultimas]
         else:
             for rel in archivos_de(ETL, carpetas):
-                if "crudos" not in rel.parts and "datos_crudos" not in rel.parts:
+                if "crudos" not in rel.parts and "datos_crudos" not in rel.parts \
+                        and not escrita_despues(i, rel.parts[0]):
                     detalle += controlar(rel, ETL / rel, staging / rel)
             if detalle:
                 estado = "rechazado"
         if estado != "actualizado":
             for c in carpetas:
                 shutil.rmtree(staging / c, ignore_errors=True)
-                if (resguardo / nombre / c).exists():
-                    shutil.copytree(resguardo / nombre / c, staging / c)
+                origen = resguardo / primero_que_escribe(c) / c
+                if origen.exists():
+                    shutil.copytree(origen, staging / c)
+                for r in resultados:  # pasos anteriores que escribieron esa carpeta vuelven atrás también
+                    if c in r["carpetas"] and r["estado"] == "actualizado":
+                        r["estado"] = "rechazado"
+                        r["detalle"].append(f"se volvió atrás porque «{descripcion}» no se pudo actualizar")
             print(f"   {estado.upper()}: se mantiene la versión anterior", flush=True)
         else:
             print(f"   OK en {segundos / 60:.1f} min", flush=True)
@@ -283,14 +310,15 @@ def main():
                                minutos=round(segundos / 60, 1), detalle=detalle, avisos=avisos, carpetas=carpetas))
 
     # Qué archivos cambiaron, comparados con lo publicado
-    cambios = []
+    cambios, vistos = [], set()
     for res in resultados:
         if res["estado"] != "actualizado":
             continue
         for rel in archivos_de(staging, res["carpetas"]):
             nuevo, viejo = staging / rel, ETL / rel
-            if viejo.exists() and huella(nuevo) == huella(viejo):
+            if rel in vistos or (viejo.exists() and huella(nuevo) == huella(viejo)):
                 continue
+            vistos.add(rel)
             if not viejo.exists():
                 resumen = "archivo nuevo"
             elif es_tabla(rel) and "crudos" not in rel.parts:
@@ -369,7 +397,10 @@ def main():
                            "minutos": r["minutos"], "archivos_cambiados": sum(p == r["paso"] for p, _, _ in cambios),
                            "avisos_fuentes": len(r["avisos"])} for r in resultados])
     filas.to_csv(historial, mode="a", header=not historial.exists(), index=False)
-    shutil.rmtree(trabajo, ignore_errors=True)
+    if "--conservar" in sys.argv:
+        print(f"Copia de trabajo conservada en {trabajo}")
+    else:
+        shutil.rmtree(trabajo, ignore_errors=True)
 
     print("\n" + texto)
     print(f"Resumen: {SALIDA_RESUMEN / f'{fecha}_resumen{sufijo}.md'}")

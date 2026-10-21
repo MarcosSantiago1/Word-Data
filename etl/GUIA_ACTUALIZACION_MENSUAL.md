@@ -20,12 +20,16 @@ qué hace, cómo leer el resumen y cómo volver atrás si hiciera falta.
    | Dimensiones nuevas en el panel de países | `paso3_dimensiones_nuevas.py` |
    | Modelo unificado | `modelo_unificado/construir_master.py` |
    | Bases Argentina, Latam y mundial | `bases_regionales/construir_bases_regionales.py` |
+   | Base absoluta (todo en una tabla) | `base_absoluta/construir_base_absoluta.py` |
 
 3. **Si un paso falla** (fuente caída, dominio bloqueado, formato nuevo), ese paso vuelve a
    su versión anterior y los siguientes siguen con ella.
 4. **Controla** cada archivo contra el anterior. Se rechaza el paso si un archivo desaparece,
    se pierden columnas con datos o tablas, o caen más de 5 % las filas (20 % en
-   `gobernantes_subdivision.csv`, que sale de Wikidata y varía más).
+   `gobernantes_subdivision.csv`, que sale de Wikidata y varía más), o si una columna pierde más
+   de 20 % de sus datos (pasa cuando una fuente corta la respuesta a la mitad, como hizo Wikidata
+   el 16-10-2026). Si dos pasos escriben la misma carpeta (`datos_procesados`: pasos 1-2 y 3),
+   el control se hace en el último y, si falla, la carpeta vuelve entera a la versión anterior.
 5. **Publica solo lo que cambió**, guardando antes la versión vieja en `historial/<fecha>/`
    (quedan las últimas 3).
 6. **Escribe el resumen** en `actualizaciones/<fecha>_resumen.md`, suma una fila por paso a
