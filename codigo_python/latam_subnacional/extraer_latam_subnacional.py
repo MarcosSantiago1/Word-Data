@@ -139,6 +139,9 @@ def consultar_wikidata(consultas, archivo, por_pais=False):
                              headers={"Accept": "text/csv", "User-Agent": "analista-datos/1.0 (proyecto educativo)"},
                              timeout=300)
             r.raise_for_status()
+            # Con timeout, Wikidata responde 200 pero corta el CSV y pega el error de Java al final
+            if "java.lang." in r.text[-20000:]:
+                raise requests.RequestException("respuesta cortada por timeout del servidor")
             partes.append(r.text if not partes else r.text.split("\n", 1)[1])
         destino.write_text("".join(partes))
     except requests.RequestException as error:

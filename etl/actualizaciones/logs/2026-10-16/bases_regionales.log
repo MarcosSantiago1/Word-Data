@@ -1,0 +1,9 @@
+
+$ python bases_regionales/construir_bases_regionales.py
+Construyendo las bases regionales desde modelo_unificado/master_paises_provincias.sqlite
+   base_argentina.sqlite: 1 países, 71 tablas (11 complementos), 5.1 MB
+      tablas sin filas para esta región: hecho_pais_digital_ocio
+   base_latam.sqlite: 52 países, 76 tablas (16 complementos), 29.3 MB
+   base_mundial.sqlite: 251 países, 77 tablas (17 complementos), 38.7 MB
+   control: la base mundial tiene todas las filas del master
+   resumen por tabla en bases_regionales/resumen_bases.csv

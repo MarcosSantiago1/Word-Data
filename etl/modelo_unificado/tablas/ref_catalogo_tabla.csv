@@ -39,7 +39,7 @@ hecho_subdivision_poblacion,hecho,"subdivision_id, anio","INDEC, proyecciones de
 hecho_subdivision_economia,hecho,"subdivision_id, anio",CEPAL-MECON (VAB 52 ramas) y Argendata (PBG per cápita),argentina_provincias/indicadores_provincia_anual.csv,504,2004.0,2024.0
 hecho_subdivision_vab_rama,hecho,"subdivision_id, anio, rama_nro","CEPAL-MECON, VAB por jurisdicción y 52 ramas",argentina_provincias/vab_provincia_sector_largo.csv,26208,2004.0,2024.0
 hecho_subdivision_hidrocarburos,hecho,"subdivision_id, anio",Secretaría de Energía (SESCO + Capítulo IV),argentina_provincias/petroleo_gas_provincia_anual.csv,222,2009.0,2026.0
-hecho_subdivision_agricultura,hecho,"subdivision_id, anio_cosecha, cultivo","MAGyP, estimaciones agrícolas",argentina_provincias/agricultura_provincia_anual.csv,13059,1970.0,2026.0
+hecho_subdivision_agricultura,hecho,"subdivision_id, anio_cosecha, cultivo","MAGyP, estimaciones agrícolas",argentina_provincias/agricultura_provincia_anual.csv,13060,1970.0,2026.0
 hecho_subdivision_ganaderia,hecho,"subdivision_id, anio","MAGyP / SENASA, stock bovino al 31-12",argentina_provincias/ganaderia_bovinos_provincia_anual.csv,437,2007.0,2025.0
 hecho_subdivision_censo,hecho,"subdivision_id, anio_censo","INDEC, censos 2010 y 2022",argentina_provincias/censo_vivienda_servicios_educacion.csv,48,2010.0,2022.0
 hecho_subdivision_turismo,hecho,"subdivision_id, anio","INDEC-Turismo, Encuesta de Ocupación Hotelera (piso, no total provincial)",argentina_provincias/turismo_hoteles_provincia_anual.csv,192,2018.0,2025.0
