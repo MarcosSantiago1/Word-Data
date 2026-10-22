@@ -1,0 +1,5 @@
+variable,odds_ratio,ic95_inf,ic95_sup,p_valor
+Intercept,0.0,0.0,0.002,0.0
+log_pib_pc_ppp,2.283,1.533,3.4,0.0
+gasto_educacion_pct_pib,1.909,1.381,2.638,0.0
+mena,0.073,0.014,0.394,0.002
