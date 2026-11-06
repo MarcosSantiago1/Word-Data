@@ -1,0 +1,77 @@
+
+$ python paso3_dimensiones_nuevas.py
+Panel de los pasos 1 y 2: 5425 filas, 46 columnas
+   + pais_migracion_anual.csv: 5 columnas
+   + pais_emisiones_energia_anual.csv: 9 columnas
+   + pais_capital_social_anual.csv: 7 columnas
+   + pais_diversidad_cultural_anual.csv: 3 columnas
+   + pais_gobernanza_anual.csv: 15 columnas
+   + pais_financiero_deuda_anual.csv: 13 columnas
+   + pais_salud_cronica_anual.csv: 6 columnas
+   + pais_tecnologia_anual.csv: 4 columnas
+
+Listo: 5425 filas x 108 columnas -> /tmp/etl_actualizacion_m453zwz8/etl/datos_procesados/paises_anual.csv
+
+Países con al menos un dato, por variable nueva:
+saldo_migratorio_neto                         217
+stock_migrantes_pct_poblacion                 216
+remesas_recibidas_usd                         193
+remesas_recibidas_pct_pib                     193
+remesas_enviadas_usd                          195
+emisiones_gei_per_capita_tco2e                203
+emisiones_gei_total_mtco2e                    203
+emisiones_co2_per_capita_tco2e                203
+energia_renovable_pct_consumo_final           212
+electricidad_renovable_pct                    202
+electricidad_hidro_pct                        199
+electricidad_solar_eolica_pct                 202
+personas_afectadas_desastres_climaticos       200
+muertes_desastres_climaticos                  200
+confianza_interpersonal_pct                    18
+desconfianza_poder_judicial_pct                18
+desconfianza_partidos_congreso_pct             18
+confianza_policia_pct                          18
+confianza_interpersonal_wvs_pct               112
+indice_sociedad_civil_0_1                     175
+sociedad_civil_participacion_vdem             175
+es_proteccion_lenguas_constitucion            191
+es_derechos_indigenas_constitucion            192
+es_derechos_culturales_constitucion           183
+indice_control_corrupcion                     207
+indice_control_corrupcion_0_100               207
+indice_estado_derecho                         207
+indice_estado_derecho_0_100                   207
+estabilidad_politica_ausencia_violencia       207
+efectividad_gobierno                          205
+calidad_regulatoria                           205
+voz_rendicion_cuentas                         207
+veto_players_count                            171
+indice_democracia_electoral_0_1               175
+indice_democracia_liberal_0_1                 175
+indice_estado_derecho_vdem_0_1                175
+indice_corrupcion_politica_vdem_0_1           175
+restricciones_judiciales_ejecutivo_0_1        175
+restricciones_legislativas_ejecutivo_0_1      175
+pib_usd                                       214
+deuda_externa_ids_usd                         121
+deuda_externa_pct_ingreso_nacional            121
+deuda_externa_corto_plazo_pct                 121
+servicio_deuda_pct_exportaciones              120
+servicio_deuda_pct_ingreso_nacional           121
+deuda_gobierno_central_pct_pib                 87
+intereses_pct_ingresos_fiscales               154
+reservas_internacionales_usd                  178
+reservas_internacionales_meses_importacion    175
+deuda_externa_usd                             128
+spread_embi_pb                                  8
+spread_embi_meses                               8
+diabetes_prevalencia_pct                      209
+mortalidad_ent_30_70_pct                      185
+muertes_ent_pct                               185
+hipertension_prevalencia_pct                  192
+obesidad_adultos_pct                          196
+avad_total                                    192
+banda_ancha_fija_x100                         208
+usuarios_internet_pct                         210
+gasto_en_i_d_pct_pib                          155
+hogares_con_conectividad_pct                   42

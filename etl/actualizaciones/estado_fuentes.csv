@@ -29,3 +29,81 @@ fecha,fuente,script,estado,detalle,url,posible_discontinuada
 2026-10-14 01:30,INDEC canasta básica (CBA/CBT),argentina,ok,200,https://www.indec.gob.ar/ftp/cuadros/sociedad/serie_cba_cbt.xls,0
 2026-10-14 01:30,Canastas regionales (holatam),argentina,ok,200,https://raw.githubusercontent.com/holatam/data/master/eph/canasta/canastas.rds,0
 2026-10-14 01:30,INDEC EPH microdatos,argentina,ok,200,https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2026_txt.zip,0
+2026-10-16 10:14,Banco Mundial API (indicadores),paso1,ok,200,https://api.worldbank.org/v2/country/ARG/indicator/SP.POP.TOTL?format=json,0
+2026-10-16 10:14,Banco Mundial Food Prices for Nutrition,paso2,ok,200,https://api.worldbank.org/v2/sources/88?format=json,0
+2026-10-16 10:14,ILOSTAT salario promedio,paso2,ok,200,https://rplumber.ilo.org/data/indicator/?id=EAR_EMTA_SEX_CUR_NB_A&timefrom=2000&timeto=2024&type=code&format=.csv,0
+2026-10-16 10:14,World Happiness Report,paso2,ok,200,https://files.worldhappiness.report/WHR25_Data_Figure_2.1v3.xlsx,0
+2026-10-16 10:14,Wikidata SPARQL,maestros,ok,200,https://query.wikidata.org/sparql?query=ASK%7B%7D&format=json,0
+2026-10-16 10:14,Banco Mundial países (es/en),maestros/modelo,ok,200,https://api.worldbank.org/v2/country?format=json&per_page=400,0
+2026-10-16 10:14,Regiones M49 (lukes),modelo,ok,200,https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.csv,0
+2026-10-16 10:14,CEPAL VAB por provincia,argentina,ok,200,https://repositorio.cepal.org/server/api/core/bitstreams/539fcce5-8977-4061-a222-fbfd7358a35f/content,0
+2026-10-16 10:14,Energía petróleo por provincia,argentina,ok,200,http://datos.energia.gob.ar/dataset/590d1284-fd6d-4686-afd8-b3da5d90a6e9/resource/86270da2-6292-4719-b7c1-20671ff9ae40/download/produccin-petrleo-sesco-tight-y-shale-captulo-iv-por-provincia.csv,0
+2026-10-16 10:14,Energía gas por provincia,argentina,ok,200,http://datos.energia.gob.ar/dataset/590d1284-fd6d-4686-afd8-b3da5d90a6e9/resource/ad1b9472-a370-47e7-8de3-b742495ec7f1/download/produccin-gas-sesco-tight-y-shale-captulo-iv-por-provincia.csv,0
+2026-10-16 10:14,MAGyP estimaciones agrícolas,argentina,ok,200,https://datosestimaciones.magyp.gob.ar/reportes.php?reporte=Estimaciones,0
+2026-10-16 10:14,MAGyP stock bovino,argentina,ok,200,https://www.magyp.gob.ar/sitio/areas/bovinos/informacion_interes/informes/_archivos/000001=Series%20de%20stock%20bovino%20y%20mapas/000000_Stock/251231_Serie%20stock%20Bovino%20por%20provincia%20al%2031-12%20(2007-2025).xlsx,0
+2026-10-16 10:14,Argendata PBG per cápita,argentina,ok,200,https://raw.githubusercontent.com/argendatafundar/data/main/CRECIM/provincia_pib_pc.csv,0
+2026-10-16 10:14,EOH pernoctes (turismo),argentina,ok,200,https://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/7b6ba47f-4aa9-4743-96be-d0e6157cfc5e/download/pernoctes_por_localidad_segun_residencia.csv,0
+2026-10-16 10:14,EOH viajeros (turismo),argentina,ok,200,https://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/57b5deae-026e-4413-9f90-89a428496bfb/download/viajeros_por_localidad_segun_residencia.csv,0
+2026-10-16 10:14,CCKP temperatura,argentina,ok,200,https://cckpapi.worldbank.org/cckp/v1/era5-x0.25_timeseries_tas_timeseries_annual_1950-2024_mean_historical_era5_x0.25_mean/ARG.12429?_format=json,0
+2026-10-16 10:14,INDEC proyecciones de población,argentina,ok,200,https://www.indec.gob.ar/ftp/cuadros/poblacion/c1_proyecciones_prov_2010_2040.xls,0
+2026-10-16 10:14,HCDN diputados,argentina,ok,200,https://datos.hcdn.gob.ar/dataset/a80e0fa7-d73a-4ed1-9dec-80465e368951/resource/169de2eb-465f-4007-a4c2-39a5ba4c0df3/download/diputados2.1.csv,0
+2026-10-16 10:14,Senado senadores,argentina,ok,200,https://www.senado.gob.ar/micrositios/DatosAbiertos/ExportarListadoSenadoresHistorico/json,0
+2026-10-16 10:14,Salud médicos (API),argentina,ok,200,https://datos.salud.gob.ar/api/3/action/package_show?id=serie-de-profesionales-de-medicina,0
+2026-10-16 10:14,Salud vacuna triple viral,argentina,ok,200,https://datos.salud.gob.ar/dataset/f70b1357-b57e-4077-9746-af8193243207/resource/2e316239-2718-4ee8-b896-9d23f79f104c/download/dicei-vacunas-srp-2009-2024.xls,0
+2026-10-16 10:14,OEDE empresas por rama,argentina,ok,200,https://www.argentina.gob.ar/sites/default/files/provinciales_serie_empresas1_2.xlsx,0
+2026-10-16 10:14,OEDE empresas por tamaño,argentina,ok,200,https://www.argentina.gob.ar/sites/default/files/provinciales_serie_empresas2_2.xlsx,0
+2026-10-16 10:14,OEDE remuneraciones,argentina,ok,200,https://www.argentina.gob.ar/sites/default/files/provinciales_serie_remuneraciones_anual_3.xlsx,0
+2026-10-16 10:14,OEDE empleo,argentina,ok,200,https://www.argentina.gob.ar/sites/default/files/provinciales_serie_empleo_anual_3.xlsx,0
+2026-10-16 10:14,DNAP recaudación provincial,argentina,ok,200,https://www.argentina.gob.ar/sites/default/files/serie_top_1984_2025.csv,0
+2026-10-16 10:14,DNAP alícuotas IIBB,argentina,ok,200,https://www.argentina.gob.ar/sites/default/files/2025_ib.xlsx,0
+2026-10-16 10:14,INDEC canasta básica (CBA/CBT),argentina,ok,200,https://www.indec.gob.ar/ftp/cuadros/sociedad/serie_cba_cbt.xls,0
+2026-10-16 10:14,Canastas regionales (holatam),argentina,ok,200,https://raw.githubusercontent.com/holatam/data/master/eph/canasta/canastas.rds,0
+2026-10-16 10:14,INDEC EPH microdatos,argentina,ok,200,https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2026_txt.zip,0
+2026-10-16 10:14,OCDE estadísticas regionales (SDMX),latam,ok,200,"https://sdmx.oecd.org/public/rest/data/OECD.CFE.EDS,DSD_REG_DEMO@DF_POP_BROAD,/A.TL2.._Z.POP._T._T.PS?startPeriod=2023&format=csvfilewithlabels",0
+2026-10-16 10:14,IBGE SIDRA (Brasil),latam,ok,200,https://apisidra.ibge.gov.br/values/t/6579/n3/all/v/9324/p/last,0
+2026-10-16 10:14,ANP petróleo por estado (Brasil),latam,ok,200,https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/ppgn-el/producao-petroleo-m3.csv,0
+2026-10-16 10:14,ANP gas por estado (Brasil),latam,ok,200,https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/ppgn-el/producao-gas-natural-1000m3.csv,0
+2026-10-16 10:14,datos.gov.co EVA agrícola 2006-2018 (Colombia),latam,ok,200,https://www.datos.gov.co/resource/2pnw-mmge.csv?$limit=1,0
+2026-10-16 10:14,datos.gov.co EVA agrícola 2019+ (Colombia),latam,ok,200,https://www.datos.gov.co/resource/uejq-wxrr.csv?$limit=1,0
+2026-10-16 10:14,datos.gov.co ICA inventario bovino (Colombia),latam,ok,200,https://www.datos.gov.co/resource/cea5-4ctf.csv?$limit=1,0
+2026-10-16 10:14,datos.gov.co ANH crudo (Colombia),latam,ok,200,https://www.datos.gov.co/resource/fdvb-hsrf.csv?$limit=1,0
+2026-10-16 10:14,datos.gov.co ANH gas (Colombia),latam,ok,200,https://www.datos.gov.co/resource/5dux-bfvx.csv?$limit=1,0
+2026-10-16 10:59,Banco Mundial API (indicadores),paso1,ok,200,https://api.worldbank.org/v2/country/ARG/indicator/SP.POP.TOTL?format=json,0
+2026-10-16 10:59,Banco Mundial Food Prices for Nutrition,paso2,ok,200,https://api.worldbank.org/v2/sources/88?format=json,0
+2026-10-16 10:59,ILOSTAT salario promedio,paso2,ok,200,https://rplumber.ilo.org/data/indicator/?id=EAR_EMTA_SEX_CUR_NB_A&timefrom=2000&timeto=2024&type=code&format=.csv,0
+2026-10-16 10:59,World Happiness Report,paso2,ok,200,https://files.worldhappiness.report/WHR25_Data_Figure_2.1v3.xlsx,0
+2026-10-16 10:59,Wikidata SPARQL,maestros,ok,200,https://query.wikidata.org/sparql?query=ASK%7B%7D&format=json,0
+2026-10-16 10:59,Banco Mundial países (es/en),maestros/modelo,ok,200,https://api.worldbank.org/v2/country?format=json&per_page=400,0
+2026-10-16 10:59,Regiones M49 (lukes),modelo,ok,200,https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.csv,0
+2026-10-16 10:59,CEPAL VAB por provincia,argentina,ok,200,https://repositorio.cepal.org/server/api/core/bitstreams/539fcce5-8977-4061-a222-fbfd7358a35f/content,0
+2026-10-16 10:59,Energía petróleo por provincia,argentina,ok,200,http://datos.energia.gob.ar/dataset/590d1284-fd6d-4686-afd8-b3da5d90a6e9/resource/86270da2-6292-4719-b7c1-20671ff9ae40/download/produccin-petrleo-sesco-tight-y-shale-captulo-iv-por-provincia.csv,0
+2026-10-16 10:59,Energía gas por provincia,argentina,ok,200,http://datos.energia.gob.ar/dataset/590d1284-fd6d-4686-afd8-b3da5d90a6e9/resource/ad1b9472-a370-47e7-8de3-b742495ec7f1/download/produccin-gas-sesco-tight-y-shale-captulo-iv-por-provincia.csv,0
+2026-10-16 10:59,MAGyP estimaciones agrícolas,argentina,ok,200,https://datosestimaciones.magyp.gob.ar/reportes.php?reporte=Estimaciones,0
+2026-10-16 10:59,MAGyP stock bovino,argentina,ok,200,https://www.magyp.gob.ar/sitio/areas/bovinos/informacion_interes/informes/_archivos/000001=Series%20de%20stock%20bovino%20y%20mapas/000000_Stock/251231_Serie%20stock%20Bovino%20por%20provincia%20al%2031-12%20(2007-2025).xlsx,0
+2026-10-16 10:59,Argendata PBG per cápita,argentina,ok,200,https://raw.githubusercontent.com/argendatafundar/data/main/CRECIM/provincia_pib_pc.csv,0
+2026-10-16 10:59,EOH pernoctes (turismo),argentina,ok,200,https://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/7b6ba47f-4aa9-4743-96be-d0e6157cfc5e/download/pernoctes_por_localidad_segun_residencia.csv,0
+2026-10-16 10:59,EOH viajeros (turismo),argentina,ok,200,https://datos.yvera.gob.ar/dataset/93db331e-6970-4d74-8589-c1223ac9c282/resource/57b5deae-026e-4413-9f90-89a428496bfb/download/viajeros_por_localidad_segun_residencia.csv,0
+2026-10-16 10:59,CCKP temperatura,argentina,ok,200,https://cckpapi.worldbank.org/cckp/v1/era5-x0.25_timeseries_tas_timeseries_annual_1950-2024_mean_historical_era5_x0.25_mean/ARG.12429?_format=json,0
+2026-10-16 10:59,INDEC proyecciones de población,argentina,ok,200,https://www.indec.gob.ar/ftp/cuadros/poblacion/c1_proyecciones_prov_2010_2040.xls,0
+2026-10-16 10:59,HCDN diputados,argentina,ok,200,https://datos.hcdn.gob.ar/dataset/a80e0fa7-d73a-4ed1-9dec-80465e368951/resource/169de2eb-465f-4007-a4c2-39a5ba4c0df3/download/diputados2.1.csv,0
+2026-10-16 10:59,Senado senadores,argentina,ok,200,https://www.senado.gob.ar/micrositios/DatosAbiertos/ExportarListadoSenadoresHistorico/json,0
+2026-10-16 10:59,Salud médicos (API),argentina,ok,200,https://datos.salud.gob.ar/api/3/action/package_show?id=serie-de-profesionales-de-medicina,0
+2026-10-16 10:59,Salud vacuna triple viral,argentina,ok,200,https://datos.salud.gob.ar/dataset/f70b1357-b57e-4077-9746-af8193243207/resource/2e316239-2718-4ee8-b896-9d23f79f104c/download/dicei-vacunas-srp-2009-2024.xls,0
+2026-10-16 10:59,OEDE empresas por rama,argentina,ok,200,https://www.argentina.gob.ar/sites/default/files/provinciales_serie_empresas1_2.xlsx,0
+2026-10-16 10:59,OEDE empresas por tamaño,argentina,ok,200,https://www.argentina.gob.ar/sites/default/files/provinciales_serie_empresas2_2.xlsx,0
+2026-10-16 10:59,OEDE remuneraciones,argentina,ok,200,https://www.argentina.gob.ar/sites/default/files/provinciales_serie_remuneraciones_anual_3.xlsx,0
+2026-10-16 10:59,OEDE empleo,argentina,ok,200,https://www.argentina.gob.ar/sites/default/files/provinciales_serie_empleo_anual_3.xlsx,0
+2026-10-16 10:59,DNAP recaudación provincial,argentina,ok,200,https://www.argentina.gob.ar/sites/default/files/serie_top_1984_2025.csv,0
+2026-10-16 10:59,DNAP alícuotas IIBB,argentina,ok,200,https://www.argentina.gob.ar/sites/default/files/2025_ib.xlsx,0
+2026-10-16 10:59,INDEC canasta básica (CBA/CBT),argentina,ok,200,https://www.indec.gob.ar/ftp/cuadros/sociedad/serie_cba_cbt.xls,0
+2026-10-16 10:59,Canastas regionales (holatam),argentina,ok,200,https://raw.githubusercontent.com/holatam/data/master/eph/canasta/canastas.rds,0
+2026-10-16 10:59,INDEC EPH microdatos,argentina,ok,200,https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2026_txt.zip,0
+2026-10-16 10:59,OCDE estadísticas regionales (SDMX),latam,ok,200,"https://sdmx.oecd.org/public/rest/data/OECD.CFE.EDS,DSD_REG_DEMO@DF_POP_BROAD,/A.TL2.._Z.POP._T._T.PS?startPeriod=2023&format=csvfilewithlabels",0
+2026-10-16 10:59,IBGE SIDRA (Brasil),latam,ok,200,https://apisidra.ibge.gov.br/values/t/6579/n3/all/v/9324/p/last,0
+2026-10-16 10:59,ANP petróleo por estado (Brasil),latam,ok,200,https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/ppgn-el/producao-petroleo-m3.csv,0
+2026-10-16 10:59,ANP gas por estado (Brasil),latam,ok,200,https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/ppgn-el/producao-gas-natural-1000m3.csv,0
+2026-10-16 10:59,datos.gov.co EVA agrícola 2006-2018 (Colombia),latam,ok,200,https://www.datos.gov.co/resource/2pnw-mmge.csv?$limit=1,0
+2026-10-16 10:59,datos.gov.co EVA agrícola 2019+ (Colombia),latam,ok,200,https://www.datos.gov.co/resource/uejq-wxrr.csv?$limit=1,0
+2026-10-16 10:59,datos.gov.co ICA inventario bovino (Colombia),latam,ok,200,https://www.datos.gov.co/resource/cea5-4ctf.csv?$limit=1,0
+2026-10-16 10:59,datos.gov.co ANH crudo (Colombia),latam,ok,200,https://www.datos.gov.co/resource/fdvb-hsrf.csv?$limit=1,0
+2026-10-16 10:59,datos.gov.co ANH gas (Colombia),latam,ok,200,https://www.datos.gov.co/resource/5dux-bfvx.csv?$limit=1,0

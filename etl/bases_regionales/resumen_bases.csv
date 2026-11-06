@@ -39,7 +39,7 @@ hecho_subdivision_poblacion,744,744,744
 hecho_subdivision_economia,504,504,504
 hecho_subdivision_vab_rama,26208,26208,26208
 hecho_subdivision_hidrocarburos,222,222,222
-hecho_subdivision_agricultura,13059,13059,13059
+hecho_subdivision_agricultura,13060,13060,13060
 hecho_subdivision_ganaderia,437,437,437
 hecho_subdivision_censo,48,48,48
 hecho_subdivision_turismo,192,192,192
@@ -72,7 +72,7 @@ kpi5_prov_rentismo_irfh,24,24,24
 kpi5b_correlacion_rentismo_continuidad,1,1,1
 hecho_subdivision_latam_temperatura,0,24105,24105
 hecho_subdivision_brasil_pib,0,702,702
-hecho_subdivision_latam_agricultura,0,127148,127148
+hecho_subdivision_latam_agricultura,0,127149,127149
 hecho_subdivision_latam_ganaderia,0,14755,14755
 hecho_subdivision_latam_petroleo_gas,0,809,809
 kpi4b_itid_por_cuartil_y_forma_estado,0,0,8
