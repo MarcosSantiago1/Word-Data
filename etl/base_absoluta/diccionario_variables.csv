@@ -138,7 +138,6 @@ pais,kpis,kpi2_cuadrante,,calcular_kpis.py (KPI2_PSI_PARADOJA_IPFS.csv),1,142,0,
 pais,kpis,kpi2_felicidad_0a10,,calcular_kpis.py (KPI2_PSI_PARADOJA_IPFS.csv),1,142,0,,,142
 pais,kpis,kpi2_ipfs,,calcular_kpis.py (KPI2_PSI_PARADOJA_IPFS.csv),1,142,0,,,142
 pais,kpis,kpi2_razon_suicidio_hombres_mujeres,,calcular_kpis.py (KPI2_PSI_PARADOJA_IPFS.csv),1,142,0,,,142
-pais,kpis,kpi2_suicidio_x100k,,calcular_kpis.py (KPI2_PSI_PARADOJA_IPFS.csv),1,142,0,,,142
 pais,kpis,kpi2_z_felicidad,,calcular_kpis.py (KPI2_PSI_PARADOJA_IPFS.csv),1,142,0,,,142
 pais,kpis,kpi2_z_suicidio,,calcular_kpis.py (KPI2_PSI_PARADOJA_IPFS.csv),1,142,0,,,142
 pais,kpis,kpi3_anio_comercio,,calcular_kpis.py (KPI3_GEO_EXPO_IEG.csv),1,213,0,,,213
@@ -241,6 +240,11 @@ pais,salud_cronica,muertes_ent_pct,%,"Banco Mundial, OMS GHO, OMS GHE 2021 vía 
 pais,salud_cronica,obesidad_adultos_pct,%,"Banco Mundial, OMS GHO, OMS GHE 2021 vía OWID (AVAD)",1,199,0,2000,2024,4975
 pais,socios_comerciales,socio_exportacion_pct,%,"CIA World Factbook, foto del 22-01-2026 (5 principales socios)",145,230,0,2017,2023,1162
 pais,socios_comerciales,socio_importacion_pct,%,"CIA World Factbook, foto del 22-01-2026 (5 principales socios)",114,230,0,2017,2023,1155
+pais,suicidio,suicidio_crudo_oms_x100k,por 100.000 hab.,"OMS GHO: MH_12 (tasa estandarizada por edad, con intervalo) y SDGSUICIDE (tasa cruda)",3,185,0,2000,2023,13320
+pais,suicidio,suicidio_estandarizado_ic_alto_x100k,por 100.000 hab.,"OMS GHO: MH_12 (tasa estandarizada por edad, con intervalo) y SDGSUICIDE (tasa cruda)",3,185,0,2000,2023,13320
+pais,suicidio,suicidio_estandarizado_ic_bajo_x100k,por 100.000 hab.,"OMS GHO: MH_12 (tasa estandarizada por edad, con intervalo) y SDGSUICIDE (tasa cruda)",3,185,0,2000,2023,13320
+pais,suicidio,suicidio_estandarizado_x100k,por 100.000 hab.,"OMS GHO: MH_12 (tasa estandarizada por edad, con intervalo) y SDGSUICIDE (tasa cruda)",3,185,0,2000,2023,13320
+pais,suicidio_edad,suicidio_x100k,por 100.000 hab.,OMS GHO: SDGSUICIDE por grupo de edad (solo 2021; los grupos se superponen: 15-29 incluye 15-19),33,185,0,2021,2021,6105
 pais,tecnologia,banda_ancha_fija_x100,por 100 hab.,"Banco Mundial (UIT, UNESCO), OCDE ICT hogares",1,208,0,2000,2024,4306
 pais,tecnologia,gasto_en_i_d_pct_pib,% del PIB,"Banco Mundial (UIT, UNESCO), OCDE ICT hogares",1,155,0,2000,2024,2212
 pais,tecnologia,hogares_con_conectividad_pct,%,"Banco Mundial (UIT, UNESCO), OCDE ICT hogares",1,42,0,2005,2025,766

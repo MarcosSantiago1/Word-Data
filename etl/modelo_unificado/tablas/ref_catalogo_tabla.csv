@@ -35,6 +35,8 @@ hecho_pais_empleo_sectorial,hecho,"pais_id, anio",OIT (estimaciones modeladas; e
 hecho_pais_gasto_cultura,hecho,"pais_id, anio","FMI GFS COFOG; OCDE Government at a Glance (Chile, Colombia y US$ PPA)",indicadores_sociales_digitales/pais_gasto_cultura_anual.csv,1700,2000.0,2025.0
 hecho_pais_deporte_olimpico,hecho,"pais_id, anio","Olympedia: medallero y atletas por edición (verano en años pares de JJ. OO., invierno en los otros; Tokio 2020 se jugó en 2021)",indicadores_sociales_digitales/pais_deporte_olimpico.csv,2016,2000.0,2026.0
 hecho_pais_consolas_comercio,hecho,"pais_id, anio","UN Comtrade, consolas de videojuegos HS 950450 (HS 950410 hasta 2011)",indicadores_sociales_digitales/pais_consolas_comercio_anual.csv,3927,2000.0,2025.0
+hecho_pais_suicidio,hecho,"pais_id, anio, sexo","OMS GHO: MH_12 (tasa estandarizada por edad, con intervalo) y SDGSUICIDE (tasa cruda)",suicidio_estandarizado/suicidio_estandarizado_largo.csv,13320,2000.0,2023.0
+hecho_pais_suicidio_edad,hecho,"pais_id, anio, sexo, grupo_edad",OMS GHO: SDGSUICIDE por grupo de edad (solo 2021; los grupos se superponen: 15-29 incluye 15-19),suicidio_estandarizado/suicidio_por_edad_largo.csv,6105,2021.0,2021.0
 hecho_subdivision_poblacion,hecho,"subdivision_id, anio","INDEC, proyecciones de población base Censo 2010",argentina_provincias/poblacion_provincia_anual.csv,744,2010.0,2040.0
 hecho_subdivision_economia,hecho,"subdivision_id, anio",CEPAL-MECON (VAB 52 ramas) y Argendata (PBG per cápita),argentina_provincias/indicadores_provincia_anual.csv,504,2004.0,2024.0
 hecho_subdivision_vab_rama,hecho,"subdivision_id, anio, rama_nro","CEPAL-MECON, VAB por jurisdicción y 52 ramas",argentina_provincias/vab_provincia_sector_largo.csv,26208,2004.0,2024.0
