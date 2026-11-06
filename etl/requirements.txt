@@ -5,3 +5,5 @@ xlrd>=2.0
 pyreadr>=0.5
 pycountry>=22.3
 lxml>=4.9
+statsmodels>=0.14
+scikit-learn>=1.3

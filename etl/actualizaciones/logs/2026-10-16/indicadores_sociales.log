@@ -1,0 +1,76 @@
+
+$ python indicadores_sociales_digitales/extraer_indicadores_sociales.py
+== educacion
+   pais_educacion_anual.csv: 2727 filas, 203 países, 2000-2025
+      alfabetizacion_adultos_pct                              155 países  2000-2024
+      alfabetizacion_adultos_mujeres_pct                      159 países  2000-2024
+      alfabetizacion_adultos_hombres_pct                      155 países  2000-2024
+      alfabetizacion_jovenes_15_24_pct                        160 países  2000-2024
+      nivel_alcanzado_primaria_pct                            195 países  2000-2025
+      nivel_alcanzado_secundaria_baja_pct                     197 países  2000-2024
+      nivel_alcanzado_secundaria_alta_pct                     195 países  2000-2025
+      nivel_alcanzado_postsecundaria_pct                      177 países  2000-2024
+      nivel_alcanzado_terciaria_ciclo_corto_pct               184 países  2000-2025
+      nivel_alcanzado_licenciatura_pct                        188 países  2000-2024
+      nivel_alcanzado_maestria_pct                            170 países  2000-2024
+      nivel_alcanzado_doctorado_pct                           144 países  2000-2024
+      escolaridad_promedio_25mas_anios                        161 países  2000-2019
+      escolaridad_esperada_anios                              172 países  2010-2020
+      escolaridad_ajustada_aprendizaje_anios                  172 países  2010-2020
+== digital
+   pais_digital_ocio_anual.csv: 741 filas, 43 países, 2005-2025
+      usa_redes_sociales_16_74_pct                             43 países  2005-2025
+      usa_redes_sociales_16_24_pct                             41 países  2005-2025
+      compro_online_videojuegos_software_16_74_pct             38 países  2005-2024
+      compro_online_videojuegos_software_16_24_pct             35 países  2005-2024
+      compro_online_algo_16_74_pct                             43 países  2005-2025
+== empleo
+   pais_empleo_sectorial_anual.csv: 4926 filas, 200 países, 2000-2025
+      empleo_total_modelado_miles_personas                    188 países  2000-2025
+      empleo_construccion_modelado_miles_personas             188 países  2000-2025
+      empleo_total_encuesta_miles_personas                    155 países  2000-2025
+      empleo_artes_espectaculos_miles_personas                139 países  2000-2025
+      empleo_bibliotecas_museos_patrimonio_miles_personas     125 países  2000-2025
+      empleo_juegos_azar_apuestas_miles_personas              117 países  2000-2025
+== cultura
+   FMI vs OCDE, % del PIB en cultura: 583 país-año, diferencia mediana 0.000 pp
+   pais_gasto_cultura_anual.csv: 1700 filas, 101 países, 2000-2025
+      gasto_recreacion_cultura_religion_pct_pib                89 países  2000-2025
+      gasto_recreacion_cultura_religion_pct_gasto_publico      90 países  2000-2025
+      gasto_servicios_culturales_pct_pib                       73 países  2000-2025
+      gasto_servicios_culturales_pct_gasto_publico             74 países  2000-2025
+      gasto_recreacion_cultura_religion_gob_central_pct_pib    93 países  2000-2025
+      gasto_servicios_culturales_gob_central_pct_pib           77 países  2000-2025
+      gasto_recreacion_cultura_religion_usd_ppa_millones       37 países  2007-2025
+      fuente_gobierno_general                                  89 países  2000-2025
+== deporte
+   2000 verano: sin país {'IOA': 0.0} (medallas)
+   2012 verano: sin país {'IOA': 0.0} (medallas)
+   2016 verano: sin país {'EOR': 0.0, 'IOA': 2.0} (medallas)
+   2020 verano: sin país {'EOR': 0.0} (medallas)
+   2024 verano: sin país {'AIN': 5.0, 'EOR': 1.0} (medallas)
+   2014 invierno: sin país {'IOA': 0.0} (medallas)
+   2018 invierno: sin país {'COR': 0.0} (medallas)
+   2026 invierno: sin país {'AIN': 1.0} (medallas)
+   pais_deporte_olimpico.csv: 2016 filas, 206 países, 2000-2026
+      juegos_olimpicos                                        206 países  2000-2026
+      atletas_participantes                                   206 países  2000-2026
+      atletas_mujeres                                         206 países  2000-2026
+      medallas_oro                                            206 países  2000-2026
+      medallas_plata                                          206 países  2000-2026
+      medallas_bronce                                         206 países  2000-2026
+== consolas
+   reintento 1 (HTTPError) https://comtradeapi.un.org/public/v1/preview/C/A/HS
+   reintento 1 (HTTPError) https://comtradeapi.un.org/public/v1/preview/C/A/HS
+   reintento 1 (HTTPError) https://comtradeapi.un.org/public/v1/preview/C/A/HS
+   reintento 1 (HTTPError) https://comtradeapi.un.org/public/v1/preview/C/A/HS
+   reintento 1 (HTTPError) https://comtradeapi.un.org/public/v1/preview/C/A/HS
+   reintento 1 (HTTPError) https://comtradeapi.un.org/public/v1/preview/C/A/HS
+   reintento 1 (HTTPError) https://comtradeapi.un.org/public/v1/preview/C/A/HS
+   reintento 1 (HTTPError) https://comtradeapi.un.org/public/v1/preview/C/A/HS
+   reintento 1 (HTTPError) https://comtradeapi.un.org/public/v1/preview/C/A/HS
+   reintento 1 (HTTPError) https://comtradeapi.un.org/public/v1/preview/C/A/HS
+   reintento 2 (HTTPError) https://comtradeapi.un.org/public/v1/preview/C/A/HS
+   pais_consolas_comercio_anual.csv: 3927 filas, 198 países, 2000-2025
+      importaciones_consolas_usd                              198 países  2000-2025
+      exportaciones_consolas_usd                              170 países  2000-2025

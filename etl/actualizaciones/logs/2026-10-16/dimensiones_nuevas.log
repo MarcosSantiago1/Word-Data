@@ -1,0 +1,36 @@
+
+$ python fuentes_nuevas/extraer_dimensiones_nuevas.py
+== migracion
+   pais_migracion_anual.csv: 5642 filas, 217 unidades, 2000-2025
+== emisiones
+   pais_emisiones_energia_anual.csv: 5665 filas, 230 unidades, 2000-2025
+== capital_social
+   pais_capital_social_anual.csv: 4570 filas, 179 unidades, 2000-2025
+== indigena
+   pais_poblacion_indigena.csv: 30 filas, 17 unidades, 2000-2020
+== constituciones
+   CCP sin código ISO (se descartan): ['Abkhazia', 'Serbia and Montenegro', 'South Ossetia', 'Yugoslavia']
+   pais_diversidad_cultural_anual.csv: 4506 filas, 193 unidades, 2000-2023
+== gobernanza
+/tmp/etl_actualizacion_m453zwz8/etl/fuentes_nuevas/extraer_dimensiones_nuevas.py:344: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  dpi["veto_players_count"] = dpi.checks.where(dpi.checks >= 0).astype("Int64")
+   pais_gobernanza_anual.csv: 5317 filas, 208 unidades, 2000-2025
+== deuda
+   pais_financiero_deuda_anual.csv: 5480 filas, 214 unidades, 2000-2026
+== salud
+   pais_salud_cronica_anual.csv: 5044 filas, 213 unidades, 2000-2024
+== tecnologia
+   pais_tecnologia_anual.csv: 5122 filas, 211 unidades, 2000-2025
+== deuda_provincial
+   falta {'AR-D'} en ev._de_servicios_-_consolidado_2007_-_trim._iv.xls
+   falta {'AR-D'} en ev._de_servicios_-_consolidado_2008_-_trim._iv.xls
+   sin unidad, se asume miles de pesos: ev._de_servicios_-_consolidado_2022_-_trim._iv.xlsx
+   subdivision_deuda_anual.csv: 623 filas, 24 unidades, 2000-2025
+== aif
+   AIF serie_aif-apnf-2025.xlsx: suma de provincias = consolidado (diferencia máxima 0.0000%)
+   subdivision_finanzas_publicas_anual.csv: 504 filas, 24 unidades, 2005-2025
+== emisiones_subdivisiones
+  descargando ocde_regiones_tl2.csv.gz ...
+   subdivision_emisiones_anual.csv: 3720 filas, 155 unidades, 2000-2023
+== internet_provincias
+   subdivision_internet_anual.csv: 312 filas, 24 unidades, 2014-2026

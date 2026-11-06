@@ -1,0 +1,11 @@
+
+$ python alianzas/extraer_alianzas_internacionales.py
+1/4 Membresías en organizaciones (COW + carga manual)
+   986 episodios, 48 organizaciones, 192 países
+2/4 Tratados comerciales (DESTA)
+   4913 filas país-acuerdo, 842 acuerdos
+3/4 Pactos militares (ATOP)
+  ATOP: ccode sin iso3 (desde 1945): [265, 315, 680, 817]
+   128213 filas díada-año, 1945-2018
+4/4 Panel país-año
+   5642 filas (217 países × 26 años), 61 columnas

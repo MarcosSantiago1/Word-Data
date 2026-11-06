@@ -488,6 +488,26 @@ CREATE TABLE hecho_pais_consolas_comercio (
     PRIMARY KEY (pais_id, anio)
 );
 
+CREATE TABLE hecho_pais_suicidio (
+    pais_id INTEGER NOT NULL REFERENCES dim_pais(pais_id),
+    anio INTEGER NOT NULL,
+    sexo TEXT NOT NULL,
+    suicidio_estandarizado_x100k REAL,
+    suicidio_estandarizado_ic_bajo_x100k REAL,
+    suicidio_estandarizado_ic_alto_x100k REAL,
+    suicidio_crudo_oms_x100k REAL,
+    PRIMARY KEY (pais_id, anio, sexo)
+);
+
+CREATE TABLE hecho_pais_suicidio_edad (
+    pais_id INTEGER NOT NULL REFERENCES dim_pais(pais_id),
+    anio INTEGER NOT NULL,
+    sexo TEXT NOT NULL,
+    grupo_edad TEXT NOT NULL,
+    suicidio_x100k REAL,
+    PRIMARY KEY (pais_id, anio, sexo, grupo_edad)
+);
+
 CREATE TABLE hecho_subdivision_poblacion (
     subdivision_id INTEGER NOT NULL REFERENCES dim_subdivision(subdivision_id),
     anio INTEGER NOT NULL,

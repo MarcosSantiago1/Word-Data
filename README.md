@@ -12,6 +12,7 @@ desigualdad, geopolítica y federalismo fiscal.
 | Carpeta o archivo | Qué hay |
 |---|---|
 | `notebooks/explorar_proyecto.ipynb` | Recorrido guiado por los datos y los KPIs. Se abre en Colab con el botón de arriba. |
+| `etl/base_absoluta/base_absoluta.csv` | **Todo en una tabla**: país, provincia/departamento, variable y una columna por año (508 variables, 251 países, 340 provincias, estados y departamentos). Guía en `GUIA_BASE_ABSOLUTA.md`. |
 | `etl/datos_procesados/paises_anual.csv` | Panel país × año: 217 países, 2000-2024. |
 | `etl/modelo_unificado/master_paises_provincias.sqlite` | La base unificada (SQLite), con su guía `GUIA_MODELO_UNIFICADO.md`. |
 | `etl/kpis/` | Los 5 KPIs en SQL, su explicación (`KPIS_MULTIDIMENSIONALES.md`) y sus resultados. |

@@ -56,6 +56,7 @@ ALI = ETL / "alianzas"
 FB = ETL / "factbook"
 NUEVAS = ETL / "fuentes_nuevas"
 SOCIALES = ETL / "indicadores_sociales_digitales"
+SUICIDIO = ETL / "suicidio_estandarizado"
 
 # Reutilizamos los diccionarios que ya viven en los otros scripts (una sola fuente de verdad)
 sys.dont_write_bytecode = True  # no dejar __pycache__ en las carpetas de los otros pasos
@@ -435,6 +436,20 @@ TABLAS_PAIS_SOCIALES = {
     "pais_consolas_comercio_anual.csv": ("hecho_pais_consolas_comercio", ["anio"],
                                          "UN Comtrade, consolas de videojuegos HS 950450 (HS 950410 hasta 2011)"),
 }
+# Suicidio (suicidio_estandarizado/extraer_suicidio_estandarizado.py): archivo -> (tabla, clave extra, fuente, columnas)
+TABLAS_PAIS_SUICIDIO = {
+    "suicidio_estandarizado_largo.csv": (
+        "hecho_pais_suicidio", ["anio", "sexo"],
+        "OMS GHO: MH_12 (tasa estandarizada por edad, con intervalo) y SDGSUICIDE (tasa cruda)",
+        {"tasa_estandarizada_x100k": "suicidio_estandarizado_x100k",
+         "ic_bajo_estandarizada": "suicidio_estandarizado_ic_bajo_x100k",
+         "ic_alto_estandarizada": "suicidio_estandarizado_ic_alto_x100k",
+         "tasa_cruda_x100k": "suicidio_crudo_oms_x100k"}),
+    "suicidio_por_edad_largo.csv": (
+        "hecho_pais_suicidio_edad", ["anio", "sexo", "grupo_edad"],
+        "OMS GHO: SDGSUICIDE por grupo de edad (solo 2021; los grupos se superponen: 15-29 incluye 15-19)",
+        {"tasa_x100k": "suicidio_x100k"}),
+}
 TABLAS_SUBDIVISION_NUEVAS = {
     "subdivision_deuda_anual.csv": ("hecho_subdivision_financiero", ["anio"],
                                     "Coordinación Fiscal Provincial, stock al 31-12 y servicios devengados"),
@@ -506,6 +521,9 @@ def leer_paises(pais):
                         for c in pd.read_csv(NUEVAS / a, nrows=0).columns if c not in ("iso3", "anio")}
     copias = panel[["iso3", "anio"] + [c for c in panel.columns if c in de_tablas_nuevas]]
     panel = panel.drop(columns=copias.columns[2:])
+    # el paso 3 también copia el suicidio de la OMS en formato ancho; en la base vive en hecho_pais_suicidio
+    panel = panel.drop(columns=[c for c in panel.columns
+                                if c.startswith(("suicidio_estandarizado_", "suicidio_crudo_oms_"))])
     vacias = [c for c in panel.columns if panel[c].isna().all()]  # p. ej. felicidad_fuente
     panel = panel.drop(columns=["pais", "region", "nivel_ingreso"] + vacias)
     panel.insert(0, "pais_id", panel.pop("iso3").map(id_de))
@@ -571,6 +589,13 @@ def leer_paises(pais):
     for archivo, (tabla, clave, _) in ({NUEVAS / a: v for a, v in TABLAS_PAIS_NUEVAS.items()}
                                        | {SOCIALES / a: v for a, v in TABLAS_PAIS_SOCIALES.items()}).items():
         d = enteros(pd.read_csv(archivo))
+        faltan = set(d.iso3) - set(id_de)
+        assert not faltan, (archivo, faltan)
+        d.insert(0, "pais_id", d.pop("iso3").map(id_de))
+        hechos[tabla] = (d, ["pais_id"] + clave)
+
+    for archivo, (tabla, clave, _, nombres) in TABLAS_PAIS_SUICIDIO.items():
+        d = pd.read_csv(SUICIDIO / archivo).drop(columns=["nombre_es", "region_bm_es"]).rename(columns=nombres)
         faltan = set(d.iso3) - set(id_de)
         assert not faltan, (archivo, faltan)
         d.insert(0, "pais_id", d.pop("iso3").map(id_de))
@@ -1122,7 +1147,8 @@ def main():
         "rel_pais_composicion": "factbook/factbook_composicion.csv",
         "rel_pais_socio_comercial": "factbook/factbook_socios_comerciales.csv",
     } | {t: f"fuentes_nuevas/{a}" for a, (t, _, _) in (TABLAS_PAIS_NUEVAS | TABLAS_SUBDIVISION_NUEVAS).items()} | {
-        t: f"indicadores_sociales_digitales/{a}" for a, (t, _, _) in TABLAS_PAIS_SOCIALES.items()}
+        t: f"indicadores_sociales_digitales/{a}" for a, (t, _, _) in TABLAS_PAIS_SOCIALES.items()} | {
+        t: f"suicidio_estandarizado/{a}" for a, (t, _, _, _) in TABLAS_PAIS_SUICIDIO.items()}
     fuentes = FUENTE_PROVINCIA | {
         "hecho_pais_anual": "Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",
         "rel_pais_organizacion": "COW IGO v3 + carga manual verificada con Wikidata",
@@ -1143,7 +1169,8 @@ def main():
                              "CIA World Factbook",
         "subdivision_equivalencia": "códigos INDEC y GAUL del script de provincias + nombres en las fuentes",
         "rel_reclamo_territorial": "carga manual",
-    } | {t: f for t, _, f in (TABLAS_PAIS_NUEVAS | TABLAS_SUBDIVISION_NUEVAS | TABLAS_PAIS_SOCIALES).values()}
+    } | {t: f for t, _, f in (TABLAS_PAIS_NUEVAS | TABLAS_SUBDIVISION_NUEVAS | TABLAS_PAIS_SOCIALES).values()} | {
+        t: f for t, _, f, _ in TABLAS_PAIS_SUICIDIO.values()}
     catalogo, diccionario = [], []
     for t in list(dims) + list(hechos):
         d = dims[t] if t in dims else hechos[t][0]

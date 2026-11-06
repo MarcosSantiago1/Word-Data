@@ -1,0 +1,13 @@
+
+$ python maestros/crear_maestros.py --descargar
+Descargando crudos (solo si faltan)...
+  bajando banco_mundial_paises_es.json
+  bajando banco_mundial_paises_en.json
+  bajando wikidata_subdivisiones_p300.csv
+  AVISO_FUENTE wikidata_subdivisiones_p300.csv: falló la descarga (504 Server Error: Gateway Timeout for url: https://query.wikidata.org/sparql?query=%0ASELECT+%3Fitem+%3Fcode+%3Fes+%3Fen+%3Fcoord+%3Ffin+WHERE+%7B%0A++%3Fitem+wdt%3AP300+%3Fcode+.%0A++OPTIONAL+%7B+%3Fitem+rdfs%3Alabel+%3Fes+FILTER%28LANG%28%3Fes%29%3D%22es%22%29+%7D%0A++OPTIONAL+%7B+%3Fitem+rdfs%3Alabel+%3Fen+FILTER%28LANG%28%3Fen%29%3D%22en%22%29+%7D%0A++OPTIONAL+%7B+%3Fitem+wdt%3AP625+%3Fcoord+%7D%0A++OPTIONAL+%7B+%3Fitem+wdt%3AP576+%3Ffin+%7D%0A%7D%0A); se usa la copia anterior
+  bajando wikidata_paises_p298.csv
+Armando subdivisiones...
+Armando países...
+paises_maestro.csv: 251 filas (217 del panel)
+subdivisiones_maestro.csv: 3590 filas de 200 países
+Países del panel sin subdivisiones ISO: ['ABW', 'ASM', 'BMU', 'CHI', 'CUW', 'CYM', 'FRO', 'GIB', 'GUM', 'HKG', 'IMN', 'MAC', 'MAF', 'MNP', 'NCL', 'PRI', 'PYF', 'SXM', 'TCA', 'VGB', 'VIR', 'XKX']

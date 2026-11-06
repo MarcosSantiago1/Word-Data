@@ -330,6 +330,18 @@ hecho_pais_consolas_comercio,pais_id,INTEGER,,0.0
 hecho_pais_consolas_comercio,anio,INTEGER,,0.0
 hecho_pais_consolas_comercio,importaciones_consolas_usd,REAL,US$,0.1
 hecho_pais_consolas_comercio,exportaciones_consolas_usd,REAL,US$,31.1
+hecho_pais_suicidio,pais_id,INTEGER,,0.0
+hecho_pais_suicidio,anio,INTEGER,,0.0
+hecho_pais_suicidio,sexo,TEXT,,0.0
+hecho_pais_suicidio,suicidio_estandarizado_x100k,REAL,por 100.000 hab.,0.0
+hecho_pais_suicidio,suicidio_estandarizado_ic_bajo_x100k,REAL,por 100.000 hab.,0.0
+hecho_pais_suicidio,suicidio_estandarizado_ic_alto_x100k,REAL,por 100.000 hab.,0.0
+hecho_pais_suicidio,suicidio_crudo_oms_x100k,REAL,por 100.000 hab.,0.0
+hecho_pais_suicidio_edad,pais_id,INTEGER,,0.0
+hecho_pais_suicidio_edad,anio,INTEGER,,0.0
+hecho_pais_suicidio_edad,sexo,TEXT,,0.0
+hecho_pais_suicidio_edad,grupo_edad,TEXT,,0.0
+hecho_pais_suicidio_edad,suicidio_x100k,REAL,por 100.000 hab.,0.0
 hecho_subdivision_poblacion,subdivision_id,INTEGER,,0.0
 hecho_subdivision_poblacion,anio,INTEGER,,0.0
 hecho_subdivision_poblacion,habitantes,INTEGER,,0.0
