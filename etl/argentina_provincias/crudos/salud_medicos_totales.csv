@@ -1,4 +1,532 @@
 anio,provincia_residencia,medicos
+1990,Buenos Aires,28521
+1990,Catamarca,466
+1990,Chaco,1430
+1990,Chubut,916
+1990,Ciudad Autónoma de Buenos Aires,35022
+1990,Corrientes,1454
+1990,Córdoba,7957
+1990,Entre Ríos,1965
+1990,Formosa,503
+1990,Jujuy,735
+1990,La Pampa,488
+1990,La Rioja,432
+1990,Mendoza,3865
+1990,Misiones,1001
+1990,Neuquén,1134
+1990,Río Negro,1217
+1990,Salta,1812
+1990,San Juan,1033
+1990,San Luis,326
+1990,Santa Cruz,268
+1990,Santa Fe,7564
+1990,Santiago del Estero,786
+1990,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",253
+1990,Tucumán,1989
+1991,Buenos Aires,29512
+1991,Catamarca,484
+1991,Chaco,1473
+1991,Chubut,957
+1991,Ciudad Autónoma de Buenos Aires,36139
+1991,Corrientes,1529
+1991,Córdoba,8317
+1991,Entre Ríos,2014
+1991,Formosa,535
+1991,Jujuy,767
+1991,La Pampa,509
+1991,La Rioja,455
+1991,Mendoza,3979
+1991,Misiones,1052
+1991,Neuquén,1169
+1991,Río Negro,1274
+1991,Salta,1875
+1991,San Juan,1070
+1991,San Luis,342
+1991,Santa Cruz,283
+1991,Santa Fe,7775
+1991,Santiago del Estero,826
+1991,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",271
+1991,Tucumán,2015
+1992,Buenos Aires,30427
+1992,Catamarca,507
+1992,Chaco,1518
+1992,Chubut,982
+1992,Ciudad Autónoma de Buenos Aires,37131
+1992,Corrientes,1579
+1992,Córdoba,8693
+1992,Entre Ríos,2079
+1992,Formosa,570
+1992,Jujuy,798
+1992,La Pampa,527
+1992,La Rioja,497
+1992,Mendoza,4102
+1992,Misiones,1100
+1992,Neuquén,1205
+1992,Río Negro,1313
+1992,Salta,1935
+1992,San Juan,1123
+1992,San Luis,369
+1992,Santa Cruz,304
+1992,Santa Fe,8009
+1992,Santiago del Estero,858
+1992,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",284
+1992,Tucumán,2058
+1993,Buenos Aires,31460
+1993,Catamarca,537
+1993,Chaco,1606
+1993,Chubut,1003
+1993,Ciudad Autónoma de Buenos Aires,38293
+1993,Corrientes,1657
+1993,Córdoba,9091
+1993,Entre Ríos,2165
+1993,Formosa,592
+1993,Jujuy,839
+1993,La Pampa,556
+1993,La Rioja,526
+1993,Mendoza,4204
+1993,Misiones,1149
+1993,Neuquén,1261
+1993,Río Negro,1379
+1993,Salta,2010
+1993,San Juan,1188
+1993,San Luis,387
+1993,Santa Cruz,344
+1993,Santa Fe,8273
+1993,Santiago del Estero,910
+1993,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",305
+1993,Tucumán,2692
+1994,Buenos Aires,32627
+1994,Catamarca,565
+1994,Chaco,1689
+1994,Chubut,1037
+1994,Ciudad Autónoma de Buenos Aires,39459
+1994,Corrientes,1731
+1994,Córdoba,9499
+1994,Entre Ríos,2240
+1994,Formosa,626
+1994,Jujuy,883
+1994,La Pampa,589
+1994,La Rioja,567
+1994,Mendoza,4361
+1994,Misiones,1203
+1994,Neuquén,1326
+1994,Río Negro,1453
+1994,Salta,2082
+1994,San Juan,1244
+1994,San Luis,413
+1994,Santa Cruz,385
+1994,Santa Fe,8421
+1994,Santiago del Estero,953
+1994,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",329
+1994,Tucumán,2842
+1995,Buenos Aires,33627
+1995,Catamarca,593
+1995,Chaco,1763
+1995,Chubut,1082
+1995,Ciudad Autónoma de Buenos Aires,40479
+1995,Corrientes,1813
+1995,Córdoba,9929
+1995,Entre Ríos,2308
+1995,Formosa,668
+1995,Jujuy,937
+1995,La Pampa,623
+1995,La Rioja,607
+1995,Mendoza,4517
+1995,Misiones,1260
+1995,Neuquén,1407
+1995,Río Negro,1521
+1995,Salta,2137
+1995,San Juan,1313
+1995,San Luis,444
+1995,Santa Cruz,420
+1995,Santa Fe,8714
+1995,Santiago del Estero,999
+1995,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",341
+1995,Tucumán,2970
+1996,Buenos Aires,34522
+1996,Catamarca,647
+1996,Chaco,1809
+1996,Chubut,1136
+1996,Ciudad Autónoma de Buenos Aires,41349
+1996,Corrientes,1889
+1996,Córdoba,10346
+1996,Entre Ríos,2408
+1996,Formosa,702
+1996,Jujuy,976
+1996,La Pampa,645
+1996,La Rioja,667
+1996,Mendoza,4690
+1996,Misiones,1314
+1996,Neuquén,1488
+1996,Río Negro,1599
+1996,Salta,2200
+1996,San Juan,1384
+1996,San Luis,472
+1996,Santa Cruz,464
+1996,Santa Fe,8980
+1996,Santiago del Estero,1049
+1996,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",358
+1996,Tucumán,3131
+1997,Buenos Aires,35470
+1997,Catamarca,676
+1997,Chaco,1873
+1997,Chubut,1176
+1997,Ciudad Autónoma de Buenos Aires,42189
+1997,Corrientes,1983
+1997,Córdoba,10697
+1997,Entre Ríos,2503
+1997,Formosa,721
+1997,Jujuy,1027
+1997,La Pampa,669
+1997,La Rioja,716
+1997,Mendoza,4834
+1997,Misiones,1367
+1997,Neuquén,1546
+1997,Río Negro,1677
+1997,Salta,2262
+1997,San Juan,1444
+1997,San Luis,503
+1997,Santa Cruz,499
+1997,Santa Fe,9263
+1997,Santiago del Estero,1117
+1997,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",377
+1997,Tucumán,3374
+1998,Buenos Aires,36478
+1998,Catamarca,707
+1998,Chaco,1920
+1998,Chubut,1229
+1998,Ciudad Autónoma de Buenos Aires,43070
+1998,Corrientes,2049
+1998,Córdoba,11049
+1998,Entre Ríos,2586
+1998,Formosa,747
+1998,Jujuy,1083
+1998,La Pampa,692
+1998,La Rioja,763
+1998,Mendoza,4983
+1998,Misiones,1410
+1998,Neuquén,1622
+1998,Río Negro,1760
+1998,Salta,2336
+1998,San Juan,1513
+1998,San Luis,532
+1998,Santa Cruz,538
+1998,Santa Fe,9542
+1998,Santiago del Estero,1186
+1998,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",411
+1998,Tucumán,3508
+1999,Buenos Aires,37502
+1999,Catamarca,735
+1999,Chaco,1987
+1999,Chubut,1278
+1999,Ciudad Autónoma de Buenos Aires,43968
+1999,Corrientes,2138
+1999,Córdoba,11487
+1999,Entre Ríos,2710
+1999,Formosa,787
+1999,Jujuy,1128
+1999,La Pampa,725
+1999,La Rioja,823
+1999,Mendoza,5119
+1999,Misiones,1481
+1999,Neuquén,1696
+1999,Río Negro,1849
+1999,Salta,2403
+1999,San Juan,1579
+1999,San Luis,555
+1999,Santa Cruz,585
+1999,Santa Fe,9800
+1999,Santiago del Estero,1247
+1999,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",439
+1999,Tucumán,3659
+2000,Buenos Aires,38409
+2000,Catamarca,763
+2000,Chaco,2057
+2000,Chubut,1330
+2000,Ciudad Autónoma de Buenos Aires,44780
+2000,Corrientes,2217
+2000,Córdoba,11947
+2000,Entre Ríos,2796
+2000,Formosa,819
+2000,Jujuy,1177
+2000,La Pampa,750
+2000,La Rioja,861
+2000,Mendoza,5262
+2000,Misiones,1529
+2000,Neuquén,1770
+2000,Río Negro,1925
+2000,Salta,2488
+2000,San Juan,1653
+2000,San Luis,584
+2000,Santa Cruz,630
+2000,Santa Fe,10054
+2000,Santiago del Estero,1290
+2000,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",470
+2000,Tucumán,3775
+2001,Buenos Aires,39364
+2001,Catamarca,800
+2001,Chaco,2126
+2001,Chubut,1374
+2001,Ciudad Autónoma de Buenos Aires,45512
+2001,Corrientes,2308
+2001,Córdoba,12350
+2001,Entre Ríos,2882
+2001,Formosa,844
+2001,Jujuy,1231
+2001,La Pampa,785
+2001,La Rioja,891
+2001,Mendoza,5391
+2001,Misiones,1609
+2001,Neuquén,1833
+2001,Río Negro,2001
+2001,Salta,2584
+2001,San Juan,1713
+2001,San Luis,618
+2001,Santa Cruz,663
+2001,Santa Fe,10283
+2001,Santiago del Estero,1346
+2001,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",494
+2001,Tucumán,3956
+2002,Buenos Aires,40438
+2002,Catamarca,831
+2002,Chaco,2190
+2002,Chubut,1446
+2002,Ciudad Autónoma de Buenos Aires,46283
+2002,Corrientes,2414
+2002,Córdoba,12754
+2002,Entre Ríos,2983
+2002,Formosa,885
+2002,Jujuy,1280
+2002,La Pampa,808
+2002,La Rioja,942
+2002,Mendoza,5569
+2002,Misiones,1678
+2002,Neuquén,1915
+2002,Río Negro,2090
+2002,Salta,2693
+2002,San Juan,1774
+2002,San Luis,648
+2002,Santa Cruz,685
+2002,Santa Fe,10541
+2002,Santiago del Estero,1400
+2002,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",521
+2002,Tucumán,4126
+2003,Buenos Aires,41595
+2003,Catamarca,867
+2003,Chaco,2294
+2003,Chubut,1497
+2003,Ciudad Autónoma de Buenos Aires,47151
+2003,Corrientes,2521
+2003,Córdoba,13282
+2003,Entre Ríos,3104
+2003,Formosa,937
+2003,Jujuy,1336
+2003,La Pampa,855
+2003,La Rioja,996
+2003,Mendoza,5741
+2003,Misiones,1744
+2003,Neuquén,1990
+2003,Río Negro,2172
+2003,Salta,2789
+2003,San Juan,1835
+2003,San Luis,684
+2003,Santa Cruz,727
+2003,Santa Fe,10867
+2003,Santiago del Estero,1473
+2003,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",548
+2003,Tucumán,4324
+2004,Buenos Aires,42938
+2004,Catamarca,913
+2004,Chaco,2361
+2004,Chubut,1564
+2004,Ciudad Autónoma de Buenos Aires,48114
+2004,Corrientes,2620
+2004,Córdoba,13855
+2004,Entre Ríos,3221
+2004,Formosa,968
+2004,Jujuy,1395
+2004,La Pampa,895
+2004,La Rioja,1050
+2004,Mendoza,5971
+2004,Misiones,1814
+2004,Neuquén,2105
+2004,Río Negro,2281
+2004,Salta,2901
+2004,San Juan,1907
+2004,San Luis,717
+2004,Santa Cruz,768
+2004,Santa Fe,11275
+2004,Santiago del Estero,1530
+2004,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",575
+2004,Tucumán,4539
+2005,Buenos Aires,44024
+2005,Catamarca,943
+2005,Chaco,2445
+2005,Chubut,1634
+2005,Ciudad Autónoma de Buenos Aires,48836
+2005,Corrientes,2733
+2005,Córdoba,14433
+2005,Entre Ríos,3324
+2005,Formosa,1007
+2005,Jujuy,1444
+2005,La Pampa,941
+2005,La Rioja,1107
+2005,Mendoza,6161
+2005,Misiones,1890
+2005,Neuquén,2186
+2005,Río Negro,2373
+2005,Salta,2998
+2005,San Juan,1993
+2005,San Luis,787
+2005,Santa Cruz,803
+2005,Santa Fe,11697
+2005,Santiago del Estero,1588
+2005,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",603
+2005,Tucumán,4713
+2006,Buenos Aires,45153
+2006,Catamarca,975
+2006,Chaco,2548
+2006,Chubut,1711
+2006,Ciudad Autónoma de Buenos Aires,49625
+2006,Corrientes,2863
+2006,Córdoba,15025
+2006,Entre Ríos,3441
+2006,Formosa,1040
+2006,Jujuy,1506
+2006,La Pampa,1005
+2006,La Rioja,1170
+2006,Mendoza,6373
+2006,Misiones,1982
+2006,Neuquén,2274
+2006,Río Negro,2476
+2006,Salta,3104
+2006,San Juan,2092
+2006,San Luis,853
+2006,Santa Cruz,841
+2006,Santa Fe,12090
+2006,Santiago del Estero,1659
+2006,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",626
+2006,Tucumán,4953
+2007,Buenos Aires,46220
+2007,Catamarca,1006
+2007,Chaco,2608
+2007,Chubut,1784
+2007,Ciudad Autónoma de Buenos Aires,50468
+2007,Corrientes,2985
+2007,Córdoba,15628
+2007,Entre Ríos,3567
+2007,Formosa,1071
+2007,Jujuy,1567
+2007,La Pampa,1069
+2007,La Rioja,1192
+2007,Mendoza,6545
+2007,Misiones,2054
+2007,Neuquén,2388
+2007,Río Negro,2581
+2007,Salta,3225
+2007,San Juan,2182
+2007,San Luis,915
+2007,Santa Cruz,887
+2007,Santa Fe,12515
+2007,Santiago del Estero,1732
+2007,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",663
+2007,Tucumán,5130
+2008,Buenos Aires,47276
+2008,Catamarca,1039
+2008,Chaco,2683
+2008,Chubut,1896
+2008,Ciudad Autónoma de Buenos Aires,50934
+2008,Corrientes,3107
+2008,Córdoba,16178
+2008,Entre Ríos,3666
+2008,Formosa,1103
+2008,Jujuy,1621
+2008,La Pampa,1131
+2008,La Rioja,1212
+2008,Mendoza,6753
+2008,Misiones,2126
+2008,Neuquén,2472
+2008,Río Negro,2672
+2008,Salta,3315
+2008,San Juan,2267
+2008,San Luis,1399
+2008,Santa Cruz,940
+2008,Santa Fe,13024
+2008,Santiago del Estero,1787
+2008,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",689
+2008,Tucumán,5355
+2009,Buenos Aires,48547
+2009,Catamarca,1077
+2009,Chaco,2750
+2009,Chubut,1970
+2009,Ciudad Autónoma de Buenos Aires,52146
+2009,Corrientes,3200
+2009,Córdoba,16732
+2009,Entre Ríos,3834
+2009,Formosa,1131
+2009,Jujuy,1681
+2009,La Pampa,1185
+2009,La Rioja,1242
+2009,Mendoza,7017
+2009,Misiones,2199
+2009,Neuquén,2566
+2009,Río Negro,2779
+2009,Salta,3418
+2009,San Juan,2364
+2009,San Luis,1571
+2009,Santa Cruz,966
+2009,Santa Fe,13740
+2009,Santiago del Estero,1840
+2009,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",716
+2009,Tucumán,5531
+2010,Buenos Aires,49755
+2010,Catamarca,1111
+2010,Chaco,2817
+2010,Chubut,2032
+2010,Ciudad Autónoma de Buenos Aires,53382
+2010,Corrientes,3297
+2010,Córdoba,17278
+2010,Entre Ríos,3994
+2010,Formosa,1149
+2010,Jujuy,1740
+2010,La Pampa,1227
+2010,La Rioja,1281
+2010,Mendoza,7207
+2010,Misiones,2271
+2010,Neuquén,2698
+2010,Río Negro,2875
+2010,Salta,3500
+2010,San Juan,2448
+2010,San Luis,1633
+2010,Santa Cruz,1003
+2010,Santa Fe,14331
+2010,Santiago del Estero,1884
+2010,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",751
+2010,Tucumán,5690
+2011,Buenos Aires,50942
+2011,Catamarca,1136
+2011,Chaco,2875
+2011,Chubut,2033
+2011,Ciudad Autónoma de Buenos Aires,54481
+2011,Corrientes,3383
+2011,Córdoba,17791
+2011,Entre Ríos,4147
+2011,Formosa,1172
+2011,Jujuy,1786
+2011,La Pampa,1252
+2011,La Rioja,1309
+2011,Mendoza,7450
+2011,Misiones,2349
+2011,Neuquén,2827
+2011,Río Negro,2964
+2011,Salta,3595
+2011,San Juan,2525
+2011,San Luis,1681
+2011,Santa Cruz,1037
+2011,Santa Fe,14824
+2011,Santiago del Estero,1921
+2011,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",783
+2011,Tucumán,5894
 2012,Buenos Aires,55127
 2012,Catamarca,1190
 2012,Chaco,3006
@@ -287,3 +815,51 @@ anio,provincia_residencia,medicos
 2023,Santiago del Estero,2290
 2023,Tierra del Fuego,921
 2023,Tucumán,7223
+2024,Buenos Aires,62690
+2024,Catamarca,1460
+2024,Chaco,3515
+2024,Chubut,2554
+2024,Ciudad Autónoma de Buenos Aires,64888
+2024,Corrientes,5096
+2024,Córdoba,20365
+2024,Entre Ríos,5996
+2024,Formosa,1542
+2024,Jujuy,2415
+2024,La Pampa,1562
+2024,La Rioja,2102
+2024,Mendoza,10134
+2024,Misiones,3152
+2024,Neuquén,3902
+2024,Río Negro,3978
+2024,Salta,4463
+2024,San Juan,3361
+2024,San Luis,2278
+2024,Santa Cruz,1238
+2024,Santa Fe,19153
+2024,Santiago del Estero,2279
+2024,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",1094
+2024,Tucumán,7243
+2025,Buenos Aires,64887
+2025,Catamarca,1501
+2025,Chaco,3632
+2025,Chubut,2596
+2025,Ciudad Autónoma de Buenos Aires,67880
+2025,Corrientes,5402
+2025,Córdoba,20733
+2025,Entre Ríos,6254
+2025,Formosa,1580
+2025,Jujuy,2470
+2025,La Pampa,1608
+2025,La Rioja,2196
+2025,Mendoza,10237
+2025,Misiones,3317
+2025,Neuquén,3995
+2025,Río Negro,4073
+2025,Salta,4595
+2025,San Juan,3500
+2025,San Luis,2341
+2025,Santa Cruz,1249
+2025,Santa Fe,19720
+2025,Santiago del Estero,2298
+2025,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",1053
+2025,Tucumán,7471

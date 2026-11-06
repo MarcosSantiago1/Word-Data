@@ -23,6 +23,7 @@ Documentación de la API: https://datahelpdesk.worldbank.org/knowledgebase/artic
 """
 
 import time
+from datetime import date
 from pathlib import Path
 
 import pandas as pd
@@ -33,7 +34,7 @@ import requests
 # ---------------------------------------------------------------------------
 
 ANIO_INICIO = 2000
-ANIO_FIN = 2024
+ANIO_FIN = date.today().year
 
 # Código del Banco Mundial  ->  nombre corto de la columna en nuestro dataset.
 # Cada código se puede consultar en https://data.worldbank.org/indicator/<CÓDIGO>

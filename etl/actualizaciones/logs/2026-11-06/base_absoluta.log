@@ -1,0 +1,6 @@
+
+$ python base_absoluta/construir_base_absoluta.py
+Construyendo la base absoluta desde modelo_unificado/master_paises_provincias.sqlite y los CSV complementarios
+   99,294 filas (65,603 de país y 33,691 de subdivisión), 251 países, 340 subdivisiones
+   512 variables, 1,305,286 datos, años 1945-2040
+   salidas: base_absoluta.csv, base_absoluta.sqlite, diccionario_variables.csv

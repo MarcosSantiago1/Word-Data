@@ -388,7 +388,13 @@ BRA,BR-MS,Mato Grosso do Sul,Q10394963,Zeca do PT,Gobernador de Mato Grosso do S
 BRA,BR-MS,Mato Grosso do Sul,Q4760046,André Puccinelli,Gobernador de Mato Grosso do Sul,2007-01-01,2015-01-01
 BRA,BR-MS,Mato Grosso do Sul,Q10358939,Reinaldo Azambuja,Gobernador de Mato Grosso do Sul,2015-01-01,2023-01-01
 BRA,BR-MS,Mato Grosso do Sul,Q112407628,Eduardo Riedel,Gobernador de Mato Grosso do Sul,2023-01-01,
+BRA,BR-MT,Mato Grosso,Q10364096,Rogério Salles,governor of Mato Grosso,2002-04-01,2003-01-01
+BRA,BR-MT,Mato Grosso,Q881193,Blairo Maggi,governor of Mato Grosso,2003-01-01,2010-03-31
+BRA,BR-MT,Mato Grosso,Q7515662,Silval Barbosa,governor of Mato Grosso,2010-03-31,2015-01-01
+BRA,BR-MT,Mato Grosso,Q10347781,Pedro Taques,governor of Mato Grosso,2015-01-01,2019-01-01
 BRA,BR-MT,Mato Grosso,Q7724122,Mauro Mendes,governor of Mato Grosso,2019-01-01,2022-12-31
+BRA,BR-MT,Mato Grosso,Q7724122,Mauro Mendes,governor of Mato Grosso,2023-01-01,2026-03-31
+BRA,BR-MT,Mato Grosso,Q27835874,Otaviano Pivetta,governor of Mato Grosso,2026-03-31,
 BRA,BR-PA,Pará,Q3806086,Jader Barbalho,Gobernadores del Estado de Pará,1983-03-15,1987-03-15
 BRA,BR-PA,Pará,Q3806086,Jader Barbalho,Gobernadores del Estado de Pará,1991-03-15,1994-04-03
 BRA,BR-PA,Pará,Q7521412,Simão Jatene,Gobernadores del Estado de Pará,2011-01-01,2019-01-01
@@ -862,7 +868,7 @@ MEX,MX-CHP,Chiapas,Q16217519,Willy Ochoa,Gobernador de Chiapas,2018-08-29,2018-0
 MEX,MX-CHP,Chiapas,Q5994523,Manuel Velasco Coello,Gobernador de Chiapas,2018-09-04,2018-12-07
 MEX,MX-CHP,Chiapas,Q6114542,Rutilio Escandón Cadenas,Gobernador de Chiapas,2018-12-08,
 MEX,MX-CMX,Ciudad de México,Q104836379,Jorge Prieto-Laurens,Jefe de Gobierno de Ciudad de México,1922-01-01,1922-01-01
-MEX,MX-CMX,Ciudad de México,Q922837,Cuauhtémoc Cárdenas Solórzano,Jefe de Gobierno de Ciudad de México,1997-12-05,1999-09-28
+MEX,MX-CMX,Ciudad de México,Q922837,Cuauhtémoc Cárdenas,Jefe de Gobierno de Ciudad de México,1997-12-05,1999-09-28
 MEX,MX-CMX,Ciudad de México,Q2737753,Rosario Robles,Jefe de Gobierno de Ciudad de México,1999-09-29,2000-12-04
 MEX,MX-CMX,Ciudad de México,Q318508,Q318508,Jefe de Gobierno de Ciudad de México,2000-12-05,2005-07-29
 MEX,MX-CMX,Ciudad de México,Q592222,Alejandro Encinas Rodríguez,Jefe de Gobierno de Ciudad de México,2005-08-01,2006-12-04
@@ -895,12 +901,13 @@ MEX,MX-HID,Hidalgo,Q3186285,Francisco Olvera Ruiz,Gobernador de Hidalgo,2011-04-
 MEX,MX-HID,Hidalgo,Q7089690,Omar Fayad,Gobernador de Hidalgo,2016-09-05,2022-09-04
 MEX,MX-HID,Hidalgo,Q91133261,Julio Menchaca Salazar,Gobernador de Hidalgo,2022-09-05,
 MEX,MX-JAL,Jalisco,Q2172307,Agustín Yáñez,Gobernador de Jalisco,1953-03-01,1959-02-28
-MEX,MX-MEX,México,Q2029883,Arturo Montiel Rojas,Gobernantes del Estado de México,1999-09-16,2005-09-15
-MEX,MX-MEX,México,Q296741,Q296741,Gobernantes del Estado de México,2005-09-16,2011-09-16
-MEX,MX-MEX,México,Q1959611,Eruviel Ávila Villegas,Gobernantes del Estado de México,2011-09-16,2017-09-15
+MEX,MX-MEX,México,Q5668114,Alfredo Zárate Albarrán,Gobernador del Estado de México,1941-09-16,1942-03-08
+MEX,MX-MEX,México,Q2029883,Arturo Montiel Rojas,Gobernador del Estado de México,1999-09-16,2005-09-15
+MEX,MX-MEX,México,Q296741,Q296741,Gobernador del Estado de México,2005-09-16,2011-09-16
+MEX,MX-MEX,México,Q1959611,Eruviel Ávila Villegas,Gobernador del Estado de México,2011-09-16,2017-09-15
 MEX,MX-MIC,Michoacán de Ocampo,Q296718,Lázaro Cárdenas,Gobernador de Michoacán,1928-01-01,1932-01-01
 MEX,MX-MIC,Michoacán de Ocampo,Q515129,Gildardo Magaña Cerda,Gobernador de Michoacán,1936-01-01,1939-01-01
-MEX,MX-MIC,Michoacán de Ocampo,Q922837,Cuauhtémoc Cárdenas Solórzano,Gobernador de Michoacán,1980-09-15,1986-09-14
+MEX,MX-MIC,Michoacán de Ocampo,Q922837,Cuauhtémoc Cárdenas,Gobernador de Michoacán,1980-09-15,1986-09-14
 MEX,MX-MIC,Michoacán de Ocampo,Q9095324,Víctor Manuel Tinoco Rubí,Gobernador de Michoacán,1996-02-15,2002-02-14
 MEX,MX-MIC,Michoacán de Ocampo,Q106645142,Alfredo Ramírez Bedolla,Gobernador de Michoacán,2021-10-01,2027-09-30
 MEX,MX-MOR,Morelos,Q5750708,Carlos Lavín,Gobernador de Morelos,1930-03-06,1930-05-17
@@ -961,13 +968,13 @@ MEX,MX-YUC,Yucatán,Q2665337,Ivonne Ortega Pacheco,gobernador de Yucatán,2007-0
 MEX,MX-YUC,Yucatán,Q6111256,Rolando Zapata Bello,gobernador de Yucatán,2012-10-01,2018-09-30
 MEX,MX-YUC,Yucatán,Q19548254,Mauricio Vila Dosal,gobernador de Yucatán,2018-10-01,2024-05-07
 PER,PE-AMA,Amazonas,Q6015020,Miguel Reyes Contreras,gobernador regional de Amazonas,2003-01-01,2006-12-31
-PER,PE-AMA,Amazonas,Q58262587,Oscar Ramiro Altamirano Quispe,gobernador regional de Amazonas,2007-01-01,2010-12-31
+PER,PE-AMA,Amazonas,Q58262587,Oscar Altamirano Quispe,gobernador regional de Amazonas,2007-01-01,2010-12-31
 PER,PE-AMA,Amazonas,Q47450715,José Arista,gobernador regional de Amazonas,2011-01-01,2014-12-31
-PER,PE-AMA,Amazonas,Q18223393,Gilmer Horna,gobernador regional de Amazonas,2015-01-01,2018-12-31
-PER,PE-AMA,Amazonas,Q58262587,Oscar Ramiro Altamirano Quispe,gobernador regional de Amazonas,2019-01-01,2022-12-31
-PER,PE-AMA,Amazonas,Q18223393,Gilmer Horna,gobernador regional de Amazonas,2023-01-01,
+PER,PE-AMA,Amazonas,Q18223393,Gilmer Horna Corrales,gobernador regional de Amazonas,2015-01-01,2018-12-31
+PER,PE-AMA,Amazonas,Q58262587,Oscar Altamirano Quispe,gobernador regional de Amazonas,2019-01-01,2022-12-31
+PER,PE-AMA,Amazonas,Q18223393,Gilmer Horna Corrales,gobernador regional de Amazonas,2023-01-01,
 PER,PE-ANC,Ancash,Q101248984,Freddy Ghilardi,gobernador regional de Áncash,2003-01-01,2003-11-28
-PER,PE-ANC,Ancash,Q18419003,Ricardo Narváez,gobernador regional de Áncash,2003-11-29,2006-12-31
+PER,PE-ANC,Ancash,Q18419003,Ricardo Narváez Soto,gobernador regional de Áncash,2003-11-29,2006-12-31
 PER,PE-ANC,Ancash,Q5796470,César Álvarez Aguilar,gobernador regional de Áncash,2007-01-01,2014-05-16
 PER,PE-ANC,Ancash,Q102398238,Florencio Román Reyna,gobernador regional de Áncash,2014-05-20,2014-06-12
 PER,PE-ANC,Ancash,Q102406093,Zenón Ayala López,gobernador regional de Áncash,2014-06-13,2014-12-31
@@ -980,8 +987,8 @@ PER,PE-ANC,Ancash,Q124656236,Henry Borja,gobernador regional de Áncash,2021-01-
 PER,PE-ANC,Ancash,Q111424871,Koki Noriega,gobernador regional de Áncash,2023-01-01,
 PER,PE-APU,Apurímac,Q104283962,Luis Barra Pacheco,gobernador regional de Apurímac,2003-01-01,2004-09-24
 PER,PE-APU,Apurímac,Q104283938,Rosa Suárez Aliaga,gobernador regional de Apurímac,2004-09-24,2006-12-31
-PER,PE-APU,Apurímac,Q25189534,David Salazar,gobernador regional de Apurímac,2007-01-01,2010-12-31
-PER,PE-APU,Apurímac,Q5830247,Elías Segovia,gobernador regional de Apurímac,2011-01-01,2014-12-31
+PER,PE-APU,Apurímac,Q25189534,David Salazar Morote,gobernador regional de Apurímac,2007-01-01,2010-12-31
+PER,PE-APU,Apurímac,Q5830247,Elías Segovia Ruiz,gobernador regional de Apurímac,2011-01-01,2014-12-31
 PER,PE-APU,Apurímac,Q18649799,Wilber Venegas,gobernador regional de Apurímac,2015-01-01,2018-12-31
 PER,PE-APU,Apurímac,Q58337590,Baltazar Lantarón,gobernador regional de Apurímac,2019-01-01,2022-12-31
 PER,PE-APU,Apurímac,Q116414163,Percy Godoy Medina,gobernador regional de Apurímac,2023-01-01,
@@ -1000,37 +1007,37 @@ PER,PE-AYA,Ayacucho,Q18719985,Wilfredo Oscorima,gobernador regional de Ayacucho,
 PER,PE-AYA,Ayacucho,Q5751647,Carlos Rúa,gobernador regional de Ayacucho,2019-01-01,2022-12-31
 PER,PE-AYA,Ayacucho,Q18719985,Wilfredo Oscorima,gobernador regional de Ayacucho,2023-01-01,
 PER,PE-CAJ,Cajamarca,Q79364221,Felipe Pita Gastelumendi,gobernador regional de Cajamarca,2003-01-01,2006-12-31
-PER,PE-CAJ,Cajamarca,Q5930022,Jesús Coronel,gobernador regional de Cajamarca,2007-01-01,2010-12-31
-PER,PE-CAJ,Cajamarca,Q18223427,Gregorio Santos Guerrero,gobernador regional de Cajamarca,2011-01-01,2014-12-31
+PER,PE-CAJ,Cajamarca,Q5930022,Jesús Coronel Salirrosas,gobernador regional de Cajamarca,2007-01-01,2010-12-31
+PER,PE-CAJ,Cajamarca,Q18223427,Gregorio Santos,gobernador regional de Cajamarca,2011-01-01,2014-12-31
 PER,PE-CAJ,Cajamarca,Q56876680,Porfirio Medina,gobernador regional de Cajamarca,2015-01-01,2018-12-31
 PER,PE-CAJ,Cajamarca,Q6011542,Mesías Guevara,gobernador regional de Cajamarca,2019-01-01,2022-12-31
 PER,PE-CAJ,Cajamarca,Q116430510,Roger Guevara,gobernador regional de Cajamarca,2023-01-01,
 PER,PE-CAL,El Callao,Q6110942,Rogelio Canches,gobernador regional del Callao,2003-01-01,2006-12-31
 PER,PE-CAL,El Callao,Q4717323,Álex Kouri,gobernador regional del Callao,2007-01-01,2010-12-31
-PER,PE-CAL,El Callao,Q5677457,Félix Moreno,gobernador regional del Callao,2011-01-01,2017-04-09
+PER,PE-CAL,El Callao,Q5677457,Félix Moreno Caballero,gobernador regional del Callao,2011-01-01,2017-04-09
 PER,PE-CAL,El Callao,Q124668663,Walter Mori Ramírez,gobernador regional del Callao,2017-04-10,2017-06-21
-PER,PE-CAL,El Callao,Q5677457,Félix Moreno,gobernador regional del Callao,2017-06-21,2018-12-31
+PER,PE-CAL,El Callao,Q5677457,Félix Moreno Caballero,gobernador regional del Callao,2017-06-21,2018-12-31
 PER,PE-CAL,El Callao,Q57411168,Dante Mandriotti,gobernador regional del Callao,2019-01-01,2022-12-31
 PER,PE-CAL,El Callao,Q115943929,Ciro Castillo Rojo,gobernador regional del Callao,2023-01-01,
 PER,PE-CUS,Cusco,Q5750105,Carlos Cuaresma,gobernador regional de Cuzco,2003-01-01,2006-12-31
-PER,PE-CUS,Cusco,Q65941573,Hugo Gonzáles Sayán,gobernador regional de Cuzco,2007-01-01,2010-12-31
-PER,PE-CUS,Cusco,Q57659830,Jorge Acurio,gobernador regional de Cuzco,2011-01-01,2013-12-26
+PER,PE-CUS,Cusco,Q65941573,Hugo Gonzales Sayán,gobernador regional de Cuzco,2007-01-01,2010-12-31
+PER,PE-CUS,Cusco,Q57659830,Jorge Acurio Tito,gobernador regional de Cuzco,2011-01-01,2013-12-26
 PER,PE-CUS,Cusco,Q65950992,René Concha Lezama,gobernador regional de Cuzco,2014-01-03,2014-12-31
-PER,PE-CUS,Cusco,Q18419975,Edwin Licona,gobernador regional de Cuzco,2015-01-01,2018-12-31
-PER,PE-CUS,Cusco,Q58337854,Jean Paul Benavente García,gobernador regional de Cuzco,2019-01-01,2022-12-31
+PER,PE-CUS,Cusco,Q18419975,Edwin Licona Licona,gobernador regional de Cuzco,2015-01-01,2018-12-31
+PER,PE-CUS,Cusco,Q58337854,Jean Paul Benavente,gobernador regional de Cuzco,2019-01-01,2022-12-31
 PER,PE-CUS,Cusco,Q115997919,Werner Salcedo,gobernador regional de Cuzco,2023-01-01,
-PER,PE-HUC,Huánuco,Q5985058,Luzmila Templo,gobernador regional de Huánuco,2003-01-01,2006-12-31
+PER,PE-HUC,Huánuco,Q5985058,Luzmila Templo Condeso,gobernador regional de Huánuco,2003-01-01,2006-12-31
 PER,PE-HUC,Huánuco,Q105217187,Jorge Espinoza Egoávil,gobernador regional de Huánuco,2007-01-01,2010-12-31
 PER,PE-HUC,Huánuco,Q18397903,Luis Picón,gobernador regional de Huánuco,2011-01-01,2014-12-31
-PER,PE-HUC,Huánuco,Q18649801,Rubén Alva,gobernador regional de Huánuco,2015-01-01,2018-12-31
+PER,PE-HUC,Huánuco,Q18649801,Rubén Alva Ochoa,gobernador regional de Huánuco,2015-01-01,2018-12-31
 PER,PE-HUC,Huánuco,Q59774363,Juan Alvarado Cornelio,gobernador regional de Huánuco,2019-01-01,2022-03-30
 PER,PE-HUC,Huánuco,Q116432710,Erasmo Fernández,gobernador regional de Huánuco,2022-03-30,2022-12-31
 PER,PE-HUC,Huánuco,Q105235290,Antonio Pulgar Lucas,gobernador regional de Huánuco,2023-01-01,
 PER,PE-HUV,Huancavelica,Q87422214,Salvador Crisanto Espinoza Huarocc,gobernador regional de Huancavelica,2003-01-01,2006-12-31
 PER,PE-HUV,Huancavelica,Q5441062,Federico Salas-Guevara,gobernador regional de Huancavelica,2007-01-01,2010-12-31
-PER,PE-HUV,Huancavelica,Q5988842,Maciste Díaz,gobernador regional de Huancavelica,2011-01-01,2014-12-31
-PER,PE-HUV,Huancavelica,Q18417847,Glodoaldo Álvarez,gobernador regional de Huancavelica,2015-01-01,2018-12-31
-PER,PE-HUV,Huancavelica,Q5988842,Maciste Díaz,gobernador regional de Huancavelica,2019-01-01,2022-12-31
+PER,PE-HUV,Huancavelica,Q5988842,Maciste Díaz Abad,gobernador regional de Huancavelica,2011-01-01,2014-12-31
+PER,PE-HUV,Huancavelica,Q18417847,Glodoaldo Álvarez Oré,gobernador regional de Huancavelica,2015-01-01,2018-12-31
+PER,PE-HUV,Huancavelica,Q5988842,Maciste Díaz Abad,gobernador regional de Huancavelica,2019-01-01,2022-12-31
 PER,PE-HUV,Huancavelica,Q105105052,Leoncio Huayllani Taype,gobernador regional de Huancavelica,2023-01-01,
 PER,PE-ICA,Ica,Q105458463,Manuel Tello Céspedes,gobernador regional de Ica,2003-01-01,2006-12-31
 PER,PE-ICA,Ica,Q105453012,Rómulo Triveño,gobernador regional de Ica,2007-01-01,2010-12-31
@@ -1042,31 +1049,34 @@ PER,PE-JUN,Junín,Q5992763,Manuel Duarte Velarde,gobernador regional de Junín,2
 PER,PE-JUN,Junín,Q9094675,Vladimiro Huaroc,gobernador regional de Junín,2007-01-01,2010-01-11
 PER,PE-JUN,Junín,Q124660746,Raúl Robles Echegaray,gobernador regional de Junín,2010-10-12,2010-12-31
 PER,PE-JUN,Junín,Q6164474,Vladimir Cerrón,gobernador regional de Junín,2011-01-01,2014-12-31
-PER,PE-JUN,Junín,Q18397968,Ángel Unchupaico,gobernador regional de Junín,2015-01-01,2018-12-31
+PER,PE-JUN,Junín,Q18397968,Ángel Unchupaico Canchumani,gobernador regional de Junín,2015-01-01,2018-12-31
 PER,PE-JUN,Junín,Q6164474,Vladimir Cerrón,gobernador regional de Junín,2019-01-01,2019-08-20
 PER,PE-JUN,Junín,Q82126725,Fernando Orihuela Rojas,gobernador regional de Junín,2019-08-20,2022-12-31
-PER,PE-JUN,Junín,Q105396598,Zósimo Cárdenas Muje,gobernador regional de Junín,2023-01-01,
+PER,PE-JUN,Junín,Q105396598,Zósimo Cárdenas,gobernador regional de Junín,2023-01-01,
 PER,PE-LAL,La Libertad,Q105549027,Homero Burgos Oliveros,gobernador regional de La Libertad,2003-01-01,2006-12-31
-PER,PE-LAL,La Libertad,Q5944191,José Murgia Zannier,gobernador regional de La Libertad,2007-01-01,2014-12-31
+PER,PE-LAL,La Libertad,Q5944191,José Murgia,gobernador regional de La Libertad,2007-01-01,2014-12-31
 PER,PE-LAL,La Libertad,Q5065409,César Acuña,gobernador regional de La Libertad,2015-01-01,2015-10-12
 PER,PE-LAL,La Libertad,Q56876718,Luis Valdez Farías,gobernador regional de La Libertad,2015-10-12,2018-12-31
-PER,PE-LAL,La Libertad,Q57231115,Manuel Llempén,gobernador regional de La Libertad,2019-01-01,2022-12-31
-PER,PE-LAL,La Libertad,Q5065409,César Acuña,gobernador regional de La Libertad,2023-01-01,
+PER,PE-LAL,La Libertad,Q57231115,Manuel Llempén Coronel,gobernador regional de La Libertad,2019-01-01,2022-12-31
+PER,PE-LAL,La Libertad,Q5065409,César Acuña,gobernador regional de La Libertad,2023-01-01,2025-10-13
+PER,PE-LAL,La Libertad,Q141752484,Joana Cabrera Pimentel,gobernador regional de La Libertad,2025-10-13,
 PER,PE-LAM,Lambayeque,Q470923,Yehude Simon,gobernador regional de Lambayeque,2003-01-01,2009-03-09
-PER,PE-LAM,Lambayeque,Q105644838,Nery Saldarriaga de Kroll,gobernador regional de Lambayeque,2009-04-27,2010-12-31
-PER,PE-LAM,Lambayeque,Q16941560,Humberto Acuña Peralta,gobernador regional de Lambayeque,2011-01-01,2018-12-31
+PER,PE-LAM,Lambayeque,Q105644838,Nery Saldarriaga de Kroll,gobernador regional de Lambayeque,2009-04-27,2010-10-09
+PER,PE-LAM,Lambayeque,Q141752525,Luis Becerra Arribasplata,gobernador regional de Lambayeque,2009-11-05,2010-12-31
+PER,PE-LAM,Lambayeque,Q16941560,Humberto Acuña,gobernador regional de Lambayeque,2011-01-01,2018-12-31
 PER,PE-LAM,Lambayeque,Q57304494,Anselmo Lozano Centurión,gobernador regional de Lambayeque,2019-01-01,2021-01-27
 PER,PE-LAM,Lambayeque,Q116433243,Luis Díaz Bravo,gobernador regional de Lambayeque,2021-05-13,2022-09-01
 PER,PE-LAM,Lambayeque,Q57304494,Anselmo Lozano Centurión,gobernador regional de Lambayeque,2022-09-02,2022-12-31
 PER,PE-LAM,Lambayeque,Q87999104,Jorge Pérez Flores,gobernador regional de Lambayeque,2023-01-01,
 PER,PE-LIM,Lima,Q97014579,Miguel Ángel Mufarech,gobernador regional de Lima,2003-01-01,2006-12-31
 PER,PE-LIM,Lima,Q6990673,Nelson Chui Mejía,gobernador regional de Lima,2007-01-01,2010-12-31
-PER,PE-LIM,Lima,Q5927380,Javier Alvarado,gobernador regional de Lima,2011-01-01,2014-12-31
+PER,PE-LIM,Lima,Q5927380,Javier Alvarado Gonzáles,gobernador regional de Lima,2011-01-01,2014-12-31
 PER,PE-LIM,Lima,Q6990673,Nelson Chui Mejía,gobernador regional de Lima,2015-01-01,2018-12-31
 PER,PE-LIM,Lima,Q58337923,Ricardo Chavarría Oría,gobernador regional de Lima,2019-01-01,2022-12-31
-PER,PE-LIM,Lima,Q5390709,Rosa Vásquez Cuadrado,gobernador regional de Lima,2023-01-01,
+PER,PE-LIM,Lima,Q5390709,Rosa Vásquez Cuadrado,gobernador regional de Lima,2023-01-01,2026-06-04
+PER,PE-LIM,Lima,Q141752738,Nicolás Barrera Morán,gobernador regional de Lima,2026-06-05,
 PER,PE-LOR,Loreto,Q6110116,Robinson Rivadeneyra Reátegui,gobernador regional de Loreto,2003-01-01,2006-12-31
-PER,PE-LOR,Loreto,Q105750627,Yván Vásquez Valera,gobernador regional de Loreto,2007-01-01,2014-12-31
+PER,PE-LOR,Loreto,Q105750627,Yván Vásquez,gobernador regional de Loreto,2007-01-01,2014-12-31
 PER,PE-LOR,Loreto,Q18223214,Fernando Meléndez,gobernador regional de Loreto,2015-01-01,2018-12-31
 PER,PE-LOR,Loreto,Q57304498,Elisbán Ochoa,gobernador regional de Loreto,2019-01-01,2022-12-31
 PER,PE-LOR,Loreto,Q105801955,René Chávez,gobernador regional de Loreto,2023-01-01,
@@ -1077,7 +1087,8 @@ PER,PE-MDD,Madre de Dios,Q105870621,José Aguirre Pastor,gobernador regional de 
 PER,PE-MDD,Madre de Dios,Q105873041,Jorge Aldazabal Soto,gobernador regional de Madre de Dios,2013-08-15,2014-12-31
 PER,PE-MDD,Madre de Dios,Q18419881,Luis Otsuka Salazar,gobernador regional de Madre de Dios,2015-01-01,2018-12-31
 PER,PE-MDD,Madre de Dios,Q58338006,Luis Hidalgo Okimura,gobernador regional de Madre de Dios,2019-01-01,2022-12-31
-PER,PE-MDD,Madre de Dios,Q18419881,Luis Otsuka Salazar,gobernador regional de Madre de Dios,2023-01-01,
+PER,PE-MDD,Madre de Dios,Q18419881,Luis Otsuka Salazar,gobernador regional de Madre de Dios,2023-01-01,2026-04-15
+PER,PE-MDD,Madre de Dios,Q141753493,Sharon Revollar Cáceres,gobernador regional de Madre de Dios,2026-04-15,
 PER,PE-MOQ,Moquegua,Q5791199,Cristala Constantinides,gobernador regional de Moquegua,2003-01-01,2006-12-31
 PER,PE-MOQ,Moquegua,Q18223679,Jaime Rodríguez Villanueva,gobernador regional de Moquegua,2007-01-01,2010-12-31
 PER,PE-MOQ,Moquegua,Q24030720,Martín Vizcarra,gobernador regional de Moquegua,2011-01-01,2014-12-31
@@ -1087,12 +1098,12 @@ PER,PE-MOQ,Moquegua,Q116442859,Gilia Gutiérrez,gobernador regional de Moquegua,
 PER,PE-PAS,Pasco,Q106024842,Víctor Espinoza Soto,gobernador regional de Pasco,2003-01-01,2006-12-31
 PER,PE-PAS,Pasco,Q106036013,Félix Rivera Serrano,gobernador regional de Pasco,2007-01-01,2010-12-31
 PER,PE-PAS,Pasco,Q18419266,Kléver Meléndez Gamarra,gobernador regional de Pasco,2011-01-01,2014-12-31
-PER,PE-PAS,Pasco,Q18719961,Teódulo Quispe,gobernador regional de Pasco,2015-01-01,2018-12-31
+PER,PE-PAS,Pasco,Q18719961,Teódulo Quispe Huertas,gobernador regional de Pasco,2015-01-01,2018-12-31
 PER,PE-PAS,Pasco,Q58338231,Pedro Ubaldo Polinar,gobernador regional de Pasco,2019-01-01,2022-12-31
 PER,PE-PAS,Pasco,Q116446223,Luis Chombo,gobernador regional de Pasco,2023-01-01,
 PER,PE-PIU,Piura,Q90025577,César Trelles Lara,gobernador regional de Piura,2003-01-01,2010-12-31
 PER,PE-PIU,Piura,Q77374777,Javier Atkins Lerggios,gobernador regional de Piura,2011-01-01,2014-12-31
-PER,PE-PIU,Piura,Q18418984,Reynaldo Hilbck,gobernador regional de Piura,2015-01-01,2018-12-31
+PER,PE-PIU,Piura,Q18418984,Reynaldo Hilbck Guzmán,gobernador regional de Piura,2015-01-01,2018-12-31
 PER,PE-PIU,Piura,Q58338965,Servando García Correa,gobernador regional de Piura,2019-01-01,2022-12-31
 PER,PE-PIU,Piura,Q116265501,Luis Neyra León,gobernador regional de Piura,2023-01-01,
 PER,PE-PUN,Puno,Q106401264,David Jiménez Sardón,gobernador regional de Puno,2003-01-01,2006-12-31
@@ -1112,8 +1123,8 @@ PER,PE-SAM,San Martín,Q18417938,Pedro Bogarín,gobernador regional de San Mart�
 PER,PE-SAM,San Martín,Q58339013,Walter Grundel Jiménez,gobernador regional de San Martín,2023-01-01,
 PER,PE-TAC,Tacna,Q106629571,Julio Alva Centurión,gobernador regional de Tacna,2003-01-01,2006-12-31
 PER,PE-TAC,Tacna,Q124669849,Hugo Froilán Ordóñez Salazar,gobernador regional de Tacna,2007-01-01,2010-12-31
-PER,PE-TAC,Tacna,Q6147523,Tito Chocano,gobernador regional de Tacna,2011-01-01,2014-12-31
-PER,PE-TAC,Tacna,Q18649805,Omar Jiménez,gobernador regional de Tacna,2015-01-01,2018-12-31
+PER,PE-TAC,Tacna,Q6147523,Tito Chocano Olivera,gobernador regional de Tacna,2011-01-01,2014-12-31
+PER,PE-TAC,Tacna,Q18649805,Omar Jiménez Flores,gobernador regional de Tacna,2015-01-01,2018-12-31
 PER,PE-TAC,Tacna,Q58339043,Juan Tonconi,gobernador regional de Tacna,2019-01-01,2022-12-31
 PER,PE-TAC,Tacna,Q5984402,Luis Torres Robledo,gobernador regional de Tacna,2023-01-01,2023-06-14
 PER,PE-TAC,Tacna,Q124670083,Liliana del Carmen Velazco Cornejo,gobernador regional de Tacna,2023-06-14,2023-08-24
