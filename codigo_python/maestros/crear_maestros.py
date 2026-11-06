@@ -198,9 +198,18 @@ def bajar(url, destino, params=None, cabecera_extra=None):
     if destino.exists() and "--descargar" not in sys.argv:
         return
     print(f"  bajando {destino.name}")
-    r = requests.get(url, params=params, timeout=180,
-                     headers={**CABECERA, **(cabecera_extra or {})})
-    r.raise_for_status()
+    try:
+        r = requests.get(url, params=params, timeout=180,
+                         headers={**CABECERA, **(cabecera_extra or {})})
+        r.raise_for_status()
+        # Si Wikidata se pasa de tiempo, responde 200 pero corta el CSV y pega el error de Java al final
+        if b"java.lang." in r.content[-20000:] or b"TimeoutException" in r.content[-20000:]:
+            raise requests.RequestException("respuesta cortada por timeout del servidor")
+    except requests.RequestException as error:
+        if not destino.exists():
+            raise
+        print(f"  AVISO_FUENTE {destino.name}: falló la descarga ({error}); se usa la copia anterior")
+        return
     destino.write_bytes(r.content)
 
 

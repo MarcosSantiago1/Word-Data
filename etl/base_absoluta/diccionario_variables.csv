@@ -1,0 +1,509 @@
+nivel,tema,variable,unidad,fuente,aperturas,paises,subdivisiones,anio_min,anio_max,datos
+pais,acuerdos_comerciales,acuerdo_anio_entrada_vigor,,DESTA 2.0,689,219,0,,,4401
+pais,acuerdos_comerciales,acuerdo_anio_firma,,DESTA 2.0,842,219,0,,,4913
+pais,acuerdos_comerciales,acuerdo_anio_salida,,DESTA 2.0,19,22,0,,,43
+pais,capital_social,confianza_interpersonal_pct,%,"CEPALSTAT (Latinobarómetro), OWID (World Values Survey), V-Dem v16",1,18,0,2000,2024,354
+pais,capital_social,confianza_interpersonal_wvs_pct,%,"CEPALSTAT (Latinobarómetro), OWID (World Values Survey), V-Dem v16",1,113,0,2004,2022,299
+pais,capital_social,confianza_policia_pct,%,"CEPALSTAT (Latinobarómetro), OWID (World Values Survey), V-Dem v16",1,18,0,2000,2024,354
+pais,capital_social,desconfianza_instituciones_pct,,cálculo propio (vista v_pais_capital_social del master),1,18,0,2000,2024,354
+pais,capital_social,desconfianza_partidos_congreso_pct,%,"CEPALSTAT (Latinobarómetro), OWID (World Values Survey), V-Dem v16",1,18,0,2000,2024,354
+pais,capital_social,desconfianza_poder_judicial_pct,%,"CEPALSTAT (Latinobarómetro), OWID (World Values Survey), V-Dem v16",1,18,0,2000,2024,354
+pais,capital_social,indice_sociedad_civil_0_1,índice 0-1,"CEPALSTAT (Latinobarómetro), OWID (World Values Survey), V-Dem v16",1,176,0,2000,2025,4565
+pais,capital_social,sociedad_civil_participacion_vdem,,"CEPALSTAT (Latinobarómetro), OWID (World Values Survey), V-Dem v16",1,176,0,2000,2025,4565
+pais,composicion_poblacion,etnia_pct_poblacion,% de la población,"CIA World Factbook, foto del 22-01-2026 (religiones, etnias, idiomas)",649,201,0,2000,2024,1235
+pais,composicion_poblacion,idioma_pct_poblacion,% de la población,"CIA World Factbook, foto del 22-01-2026 (religiones, etnias, idiomas)",327,113,0,1994,2023,669
+pais,composicion_poblacion,religion_pct_poblacion,% de la población,"CIA World Factbook, foto del 22-01-2026 (religiones, etnias, idiomas)",204,220,0,2005,2024,1229
+pais,consolas_comercio,exportaciones_consolas_usd,US$,"UN Comtrade, consolas de videojuegos HS 950450 (HS 950410 hasta 2011)",1,170,0,2000,2025,2706
+pais,consolas_comercio,importaciones_consolas_usd,US$,"UN Comtrade, consolas de videojuegos HS 950450 (HS 950410 hasta 2011)",1,198,0,2000,2025,3925
+pais,deporte_olimpico,atletas_mujeres,,"Olympedia: medallero y atletas por edición (verano en años pares de JJ. OO., invierno en los otros; Tokio 2020 se jugó en 2021)",1,206,0,2000,2026,2016
+pais,deporte_olimpico,atletas_participantes,,"Olympedia: medallero y atletas por edición (verano en años pares de JJ. OO., invierno en los otros; Tokio 2020 se jugó en 2021)",1,206,0,2000,2026,2016
+pais,deporte_olimpico,juegos_olimpicos,,"Olympedia: medallero y atletas por edición (verano en años pares de JJ. OO., invierno en los otros; Tokio 2020 se jugó en 2021)",1,206,0,2000,2026,2016
+pais,deporte_olimpico,medallas_bronce,,"Olympedia: medallero y atletas por edición (verano en años pares de JJ. OO., invierno en los otros; Tokio 2020 se jugó en 2021)",1,206,0,2000,2026,2016
+pais,deporte_olimpico,medallas_oro,,"Olympedia: medallero y atletas por edición (verano en años pares de JJ. OO., invierno en los otros; Tokio 2020 se jugó en 2021)",1,206,0,2000,2026,2016
+pais,deporte_olimpico,medallas_plata,,"Olympedia: medallero y atletas por edición (verano en años pares de JJ. OO., invierno en los otros; Tokio 2020 se jugó en 2021)",1,206,0,2000,2026,2016
+pais,digital_ocio,compro_online_algo_16_74_pct,%,"OCDE, ICT Access and Usage by Individuals (16-74 y 16-24 años)",1,43,0,2005,2025,737
+pais,digital_ocio,compro_online_videojuegos_software_16_24_pct,%,"OCDE, ICT Access and Usage by Individuals (16-74 y 16-24 años)",1,35,0,2005,2024,561
+pais,digital_ocio,compro_online_videojuegos_software_16_74_pct,%,"OCDE, ICT Access and Usage by Individuals (16-74 y 16-24 años)",1,38,0,2005,2024,579
+pais,digital_ocio,usa_redes_sociales_16_24_pct,%,"OCDE, ICT Access and Usage by Individuals (16-74 y 16-24 años)",1,41,0,2005,2025,491
+pais,digital_ocio,usa_redes_sociales_16_74_pct,%,"OCDE, ICT Access and Usage by Individuals (16-74 y 16-24 años)",1,43,0,2005,2025,516
+pais,diversidad_cultural,anio_constitucion_ccp,,cálculo propio (vista v_pais_diversidad_cultural),1,193,0,,,193
+pais,diversidad_cultural,es_derechos_culturales_constitucion,0/1,Comparative Constitutions Project v5,1,184,0,2000,2023,4249
+pais,diversidad_cultural,es_derechos_indigenas_constitucion,0/1,Comparative Constitutions Project v5,1,193,0,2000,2023,4506
+pais,diversidad_cultural,es_proteccion_lenguas_constitucion,0/1,Comparative Constitutions Project v5,1,192,0,2000,2023,4449
+pais,diversidad_cultural,indice_fragmentacion_etnica_0_1,,cálculo propio (vista v_pais_diversidad_cultural),1,194,0,,,194
+pais,diversidad_cultural,indice_fragmentacion_linguistica_0_1,,cálculo propio (vista v_pais_diversidad_cultural),1,96,0,,,96
+pais,diversidad_cultural,indice_fragmentacion_religiosa_0_1,,cálculo propio (vista v_pais_diversidad_cultural),1,209,0,,,209
+pais,diversidad_cultural,pct_composicion_etnica_cubierta,,cálculo propio (vista v_pais_diversidad_cultural),1,201,0,,,201
+pais,diversidad_cultural,pct_composicion_linguistica_cubierta,,cálculo propio (vista v_pais_diversidad_cultural),1,113,0,,,113
+pais,educacion,alfabetizacion_adultos_hombres_pct,%,"Banco Mundial (UNESCO-UIS: alfabetización, nivel alcanzado; Índice de Capital Humano)",1,155,0,2000,2024,925
+pais,educacion,alfabetizacion_adultos_mujeres_pct,%,"Banco Mundial (UNESCO-UIS: alfabetización, nivel alcanzado; Índice de Capital Humano)",1,159,0,2000,2024,934
+pais,educacion,alfabetizacion_adultos_pct,%,"Banco Mundial (UNESCO-UIS: alfabetización, nivel alcanzado; Índice de Capital Humano)",1,155,0,2000,2024,921
+pais,educacion,alfabetizacion_jovenes_15_24_pct,%,"Banco Mundial (UNESCO-UIS: alfabetización, nivel alcanzado; Índice de Capital Humano)",1,160,0,2000,2024,1071
+pais,educacion,escolaridad_ajustada_aprendizaje_anios,años,"Banco Mundial (UNESCO-UIS: alfabetización, nivel alcanzado; Índice de Capital Humano)",1,172,0,2010,2020,597
+pais,educacion,escolaridad_esperada_anios,años,"Banco Mundial (UNESCO-UIS: alfabetización, nivel alcanzado; Índice de Capital Humano)",1,172,0,2010,2020,619
+pais,educacion,escolaridad_promedio_25mas_anios,años,"Banco Mundial (UNESCO-UIS: alfabetización, nivel alcanzado; Índice de Capital Humano)",1,161,0,2000,2019,948
+pais,educacion,nivel_alcanzado_doctorado_pct,%,"Banco Mundial (UNESCO-UIS: alfabetización, nivel alcanzado; Índice de Capital Humano)",1,144,0,2000,2024,812
+pais,educacion,nivel_alcanzado_licenciatura_pct,%,"Banco Mundial (UNESCO-UIS: alfabetización, nivel alcanzado; Índice de Capital Humano)",1,188,0,2000,2024,1358
+pais,educacion,nivel_alcanzado_maestria_pct,%,"Banco Mundial (UNESCO-UIS: alfabetización, nivel alcanzado; Índice de Capital Humano)",1,170,0,2000,2024,1076
+pais,educacion,nivel_alcanzado_postsecundaria_pct,%,"Banco Mundial (UNESCO-UIS: alfabetización, nivel alcanzado; Índice de Capital Humano)",1,177,0,2000,2024,1345
+pais,educacion,nivel_alcanzado_primaria_pct,%,"Banco Mundial (UNESCO-UIS: alfabetización, nivel alcanzado; Índice de Capital Humano)",1,195,0,2000,2025,2133
+pais,educacion,nivel_alcanzado_secundaria_alta_pct,%,"Banco Mundial (UNESCO-UIS: alfabetización, nivel alcanzado; Índice de Capital Humano)",1,195,0,2000,2025,2168
+pais,educacion,nivel_alcanzado_secundaria_baja_pct,%,"Banco Mundial (UNESCO-UIS: alfabetización, nivel alcanzado; Índice de Capital Humano)",1,197,0,2000,2024,1793
+pais,educacion,nivel_alcanzado_terciaria_ciclo_corto_pct,%,"Banco Mundial (UNESCO-UIS: alfabetización, nivel alcanzado; Índice de Capital Humano)",1,184,0,2000,2025,1985
+pais,emisiones,electricidad_hidro_pct,%,"Banco Mundial (EDGAR, SE4All), OWID (Ember/Energy Institute, EM-DAT)",1,210,0,2000,2025,5266
+pais,emisiones,electricidad_renovable_pct,%,"Banco Mundial (EDGAR, SE4All), OWID (Ember/Energy Institute, EM-DAT)",1,213,0,2000,2025,5361
+pais,emisiones,electricidad_solar_eolica_pct,%,"Banco Mundial (EDGAR, SE4All), OWID (Ember/Energy Institute, EM-DAT)",1,213,0,2000,2025,5361
+pais,emisiones,emisiones_co2_per_capita_tco2e,t de CO2 equivalente por habitante,"Banco Mundial (EDGAR, SE4All), OWID (Ember/Energy Institute, EM-DAT)",1,203,0,2000,2024,5075
+pais,emisiones,emisiones_gei_per_capita_tco2e,t de CO2 equivalente por habitante,"Banco Mundial (EDGAR, SE4All), OWID (Ember/Energy Institute, EM-DAT)",1,203,0,2000,2024,5075
+pais,emisiones,emisiones_gei_total_mtco2e,millones de t de CO2 equivalente,"Banco Mundial (EDGAR, SE4All), OWID (Ember/Energy Institute, EM-DAT)",1,203,0,2000,2024,5075
+pais,emisiones,energia_renovable_pct_consumo_final,%,"Banco Mundial (EDGAR, SE4All), OWID (Ember/Energy Institute, EM-DAT)",1,212,0,2000,2022,4702
+pais,emisiones,muertes_desastres_climaticos,,"Banco Mundial (EDGAR, SE4All), OWID (Ember/Energy Institute, EM-DAT)",1,214,0,2000,2025,3070
+pais,emisiones,personas_afectadas_desastres_climaticos,,"Banco Mundial (EDGAR, SE4All), OWID (Ember/Energy Institute, EM-DAT)",1,214,0,2000,2025,3070
+pais,empleo_sectorial,empleo_artes_espectaculos_miles_personas,miles de personas,OIT (estimaciones modeladas; encuestas de hogares a 2 dígitos CIIU rev. 4),1,139,0,2000,2025,1308
+pais,empleo_sectorial,empleo_bibliotecas_museos_patrimonio_miles_personas,miles de personas,OIT (estimaciones modeladas; encuestas de hogares a 2 dígitos CIIU rev. 4),1,125,0,2000,2025,1190
+pais,empleo_sectorial,empleo_construccion_modelado_miles_personas,miles de personas,OIT (estimaciones modeladas; encuestas de hogares a 2 dígitos CIIU rev. 4),1,188,0,2000,2025,4874
+pais,empleo_sectorial,empleo_juegos_azar_apuestas_miles_personas,miles de personas,OIT (estimaciones modeladas; encuestas de hogares a 2 dígitos CIIU rev. 4),1,117,0,2000,2025,1018
+pais,empleo_sectorial,empleo_total_encuesta_miles_personas,miles de personas,OIT (estimaciones modeladas; encuestas de hogares a 2 dígitos CIIU rev. 4),1,155,0,2000,2025,1404
+pais,empleo_sectorial,empleo_total_modelado_miles_personas,miles de personas,OIT (estimaciones modeladas; encuestas de hogares a 2 dígitos CIIU rev. 4),1,188,0,2000,2025,4874
+pais,financiero_deuda,deuda_externa_corto_plazo_pct,%,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,121,0,2000,2024,2970
+pais,financiero_deuda,deuda_externa_ids_usd,US$,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,121,0,2000,2024,2958
+pais,financiero_deuda,deuda_externa_pct_ingreso_nacional,%,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,121,0,2000,2024,2916
+pais,financiero_deuda,deuda_externa_pct_pib,,cálculo propio (vista v_pais_financiero_deuda del master),1,175,0,2000,2025,4112
+pais,financiero_deuda,deuda_externa_usd,US$,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,128,0,2000,2025,2283
+pais,financiero_deuda,deuda_gobierno_central_pct_pib,% del PIB,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,87,0,2000,2024,1142
+pais,financiero_deuda,intereses_pct_ingresos_fiscales,%,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,154,0,2000,2024,2942
+pais,financiero_deuda,pib_usd,US$,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,214,0,2000,2025,5428
+pais,financiero_deuda,reservas_internacionales_meses_importacion,,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,175,0,2000,2025,4116
+pais,financiero_deuda,reservas_internacionales_usd,US$,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,178,0,2000,2025,4450
+pais,financiero_deuda,reservas_pct_deuda_externa,,cálculo propio (vista v_pais_financiero_deuda del master),1,161,0,2000,2025,3755
+pais,financiero_deuda,servicio_deuda_pct_exportaciones,%,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,120,0,2000,2024,2748
+pais,financiero_deuda,servicio_deuda_pct_ingreso_nacional,%,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,121,0,2000,2024,2925
+pais,financiero_deuda,spread_embi_meses,,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,8,0,2006,2026,157
+pais,financiero_deuda,spread_embi_pb,puntos básicos,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,8,0,2006,2026,157
+pais,fronteras,frontera_km,km,"CIA World Factbook, foto del 22-01-2026",167,162,0,,,646
+pais,gasto_cultura,fuente_gobierno_general,,"FMI GFS COFOG; OCDE Government at a Glance (Chile, Colombia y US$ PPA)",1,89,0,2000,2025,1574
+pais,gasto_cultura,gasto_recreacion_cultura_religion_gob_central_pct_pib,% del PIB,"FMI GFS COFOG; OCDE Government at a Glance (Chile, Colombia y US$ PPA)",1,93,0,2000,2025,1524
+pais,gasto_cultura,gasto_recreacion_cultura_religion_pct_gasto_publico,% del gasto público,"FMI GFS COFOG; OCDE Government at a Glance (Chile, Colombia y US$ PPA)",1,90,0,2000,2025,1579
+pais,gasto_cultura,gasto_recreacion_cultura_religion_pct_pib,% del PIB,"FMI GFS COFOG; OCDE Government at a Glance (Chile, Colombia y US$ PPA)",1,89,0,2000,2025,1574
+pais,gasto_cultura,gasto_recreacion_cultura_religion_usd_ppa_millones,millones de US$ PPA,"FMI GFS COFOG; OCDE Government at a Glance (Chile, Colombia y US$ PPA)",1,37,0,2007,2025,651
+pais,gasto_cultura,gasto_servicios_culturales_gob_central_pct_pib,% del PIB,"FMI GFS COFOG; OCDE Government at a Glance (Chile, Colombia y US$ PPA)",1,77,0,2000,2025,1087
+pais,gasto_cultura,gasto_servicios_culturales_pct_gasto_publico,% del gasto público,"FMI GFS COFOG; OCDE Government at a Glance (Chile, Colombia y US$ PPA)",1,74,0,2000,2025,1153
+pais,gasto_cultura,gasto_servicios_culturales_pct_pib,% del PIB,"FMI GFS COFOG; OCDE Government at a Glance (Chile, Colombia y US$ PPA)",1,73,0,2000,2025,1150
+pais,identificacion,capital,,"maestros/paises_maestro.csv (ISO 3166-1, Banco Mundial, Wikidata) + dependencias a mano",1,211,0,,,211
+pais,identificacion,continente,,"maestros/paises_maestro.csv (ISO 3166-1, Banco Mundial, Wikidata) + dependencias a mano",1,250,0,,,250
+pais,identificacion,es_miembro_onu,0/1,"maestros/paises_maestro.csv (ISO 3166-1, Banco Mundial, Wikidata) + dependencias a mano",1,251,0,,,251
+pais,identificacion,latitud_capital,grados decimales,"maestros/paises_maestro.csv (ISO 3166-1, Banco Mundial, Wikidata) + dependencias a mano",1,211,0,,,211
+pais,identificacion,longitud_capital,grados decimales,"maestros/paises_maestro.csv (ISO 3166-1, Banco Mundial, Wikidata) + dependencias a mano",1,211,0,,,211
+pais,identificacion,n_subdivisiones_nivel1,,"maestros/paises_maestro.csv (ISO 3166-1, Banco Mundial, Wikidata) + dependencias a mano",1,251,0,,,251
+pais,identificacion,nivel_ingreso,,"maestros/paises_maestro.csv (ISO 3166-1, Banco Mundial, Wikidata) + dependencias a mano",1,217,0,,,217
+pais,identificacion,nombre_en,,"maestros/paises_maestro.csv (ISO 3166-1, Banco Mundial, Wikidata) + dependencias a mano",1,251,0,,,251
+pais,identificacion,nombre_oficial_en,,"maestros/paises_maestro.csv (ISO 3166-1, Banco Mundial, Wikidata) + dependencias a mano",1,251,0,,,251
+pais,identificacion,region_bm,,"maestros/paises_maestro.csv (ISO 3166-1, Banco Mundial, Wikidata) + dependencias a mano",1,217,0,,,217
+pais,identificacion,region_intermedia,,"maestros/paises_maestro.csv (ISO 3166-1, Banco Mundial, Wikidata) + dependencias a mano",1,105,0,,,105
+pais,identificacion,soberano_iso3,,"maestros/paises_maestro.csv (ISO 3166-1, Banco Mundial, Wikidata) + dependencias a mano",1,52,0,,,52
+pais,identificacion,subregion,,"maestros/paises_maestro.csv (ISO 3166-1, Banco Mundial, Wikidata) + dependencias a mano",1,250,0,,,250
+pais,identificacion,tipo_entidad,,"maestros/paises_maestro.csv (ISO 3166-1, Banco Mundial, Wikidata) + dependencias a mano",1,251,0,,,251
+pais,indicadores_sociales,atletas_mujeres_pct,,cálculo propio (vista v_pais_indicadores_sociales del master),1,206,0,2000,2026,2016
+pais,indicadores_sociales,brecha_alfabetizacion_hombres_menos_mujeres_pp,,cálculo propio (vista v_pais_indicadores_sociales del master),1,155,0,2000,2024,916
+pais,indicadores_sociales,empleo_construccion_pct,,cálculo propio (vista v_pais_indicadores_sociales del master),1,188,0,2000,2025,4874
+pais,indicadores_sociales,empleo_cultura_pct,,cálculo propio (vista v_pais_indicadores_sociales del master),1,147,0,2000,2025,1353
+pais,indicadores_sociales,empleo_juegos_azar_apuestas_pct,,cálculo propio (vista v_pais_indicadores_sociales del master),1,117,0,2000,2025,1018
+pais,indicadores_sociales,importaciones_consolas_usd_por_hab,,cálculo propio (vista v_pais_indicadores_sociales del master),1,194,0,2000,2024,3768
+pais,indicadores_sociales,importaciones_netas_consolas_usd,,cálculo propio (vista v_pais_indicadores_sociales del master),1,198,0,2000,2025,3925
+pais,indicadores_sociales,medallas_por_millon_hab,,cálculo propio (vista v_pais_indicadores_sociales del master),1,204,0,2000,2024,1904
+pais,indicadores_sociales,medallas_total,,cálculo propio (vista v_pais_indicadores_sociales del master),1,206,0,2000,2026,2016
+pais,institucional_gobernanza,calidad_regulatoria,,"Banco Mundial WGI, V-Dem v16, BID DPI 2020",1,205,0,2000,2025,5010
+pais,institucional_gobernanza,efectividad_gobierno,,"Banco Mundial WGI, V-Dem v16, BID DPI 2020",1,205,0,2000,2025,5011
+pais,institucional_gobernanza,estabilidad_politica_ausencia_violencia,,"Banco Mundial WGI, V-Dem v16, BID DPI 2020",1,207,0,2000,2025,5089
+pais,institucional_gobernanza,indice_control_corrupcion,,"Banco Mundial WGI, V-Dem v16, BID DPI 2020",1,207,0,2000,2025,5039
+pais,institucional_gobernanza,indice_control_corrupcion_0_100,índice 0-100,"Banco Mundial WGI, V-Dem v16, BID DPI 2020",1,207,0,2000,2025,5039
+pais,institucional_gobernanza,indice_corrupcion_politica_vdem_0_1,índice 0-1,"Banco Mundial WGI, V-Dem v16, BID DPI 2020",1,176,0,2000,2025,4559
+pais,institucional_gobernanza,indice_democracia_electoral_0_1,índice 0-1,"Banco Mundial WGI, V-Dem v16, BID DPI 2020",1,176,0,2000,2025,4565
+pais,institucional_gobernanza,indice_democracia_liberal_0_1,índice 0-1,"Banco Mundial WGI, V-Dem v16, BID DPI 2020",1,176,0,2000,2025,4563
+pais,institucional_gobernanza,indice_estado_derecho,,"Banco Mundial WGI, V-Dem v16, BID DPI 2020",1,207,0,2000,2025,5110
+pais,institucional_gobernanza,indice_estado_derecho_0_100,índice 0-100,"Banco Mundial WGI, V-Dem v16, BID DPI 2020",1,207,0,2000,2025,5110
+pais,institucional_gobernanza,indice_estado_derecho_vdem_0_1,índice 0-1,"Banco Mundial WGI, V-Dem v16, BID DPI 2020",1,176,0,2000,2025,4565
+pais,institucional_gobernanza,restricciones_judiciales_ejecutivo_0_1,índice 0-1,"Banco Mundial WGI, V-Dem v16, BID DPI 2020",1,176,0,2000,2025,4563
+pais,institucional_gobernanza,restricciones_legislativas_ejecutivo_0_1,índice 0-1,"Banco Mundial WGI, V-Dem v16, BID DPI 2020",1,176,0,2000,2025,4525
+pais,institucional_gobernanza,veto_players_count,,"Banco Mundial WGI, V-Dem v16, BID DPI 2020",1,172,0,2000,2020,3507
+pais,institucional_gobernanza,voz_rendicion_cuentas,,"Banco Mundial WGI, V-Dem v16, BID DPI 2020",1,207,0,2000,2025,5091
+pais,kpis,kpi1_anio_gini,,calcular_kpis.py (KPI1_SAL_EFI_IESE.csv),1,145,0,,,145
+pais,kpis,kpi1_anios_sobre_curva_preston,,calcular_kpis.py (KPI1_SAL_EFI_IESE.csv),1,186,0,,,186
+pais,kpis,kpi1_cuadrante,,calcular_kpis.py (KPI1_SAL_EFI_IESE.csv),1,186,0,,,186
+pais,kpis,kpi1_filtro_equidad,,calcular_kpis.py (KPI1_SAL_EFI_IESE.csv),1,186,0,,,186
+pais,kpis,kpi1_gasto_salud_publico_pct_pib,,calcular_kpis.py (KPI1_SAL_EFI_IESE.csv),1,186,0,,,186
+pais,kpis,kpi1_iese,,calcular_kpis.py (KPI1_SAL_EFI_IESE.csv),1,186,0,,,186
+pais,kpis,kpi1_resultado_sanitario_z,,calcular_kpis.py (KPI1_SAL_EFI_IESE.csv),1,186,0,,,186
+pais,kpis,kpi2_cuadrante,,calcular_kpis.py (KPI2_PSI_PARADOJA_IPFS.csv),1,142,0,,,142
+pais,kpis,kpi2_felicidad_0a10,,calcular_kpis.py (KPI2_PSI_PARADOJA_IPFS.csv),1,142,0,,,142
+pais,kpis,kpi2_ipfs,,calcular_kpis.py (KPI2_PSI_PARADOJA_IPFS.csv),1,142,0,,,142
+pais,kpis,kpi2_razon_suicidio_hombres_mujeres,,calcular_kpis.py (KPI2_PSI_PARADOJA_IPFS.csv),1,142,0,,,142
+pais,kpis,kpi2_suicidio_x100k,,calcular_kpis.py (KPI2_PSI_PARADOJA_IPFS.csv),1,142,0,,,142
+pais,kpis,kpi2_z_felicidad,,calcular_kpis.py (KPI2_PSI_PARADOJA_IPFS.csv),1,142,0,,,142
+pais,kpis,kpi2_z_suicidio,,calcular_kpis.py (KPI2_PSI_PARADOJA_IPFS.csv),1,142,0,,,142
+pais,kpis,kpi3_anio_comercio,,calcular_kpis.py (KPI3_GEO_EXPO_IEG.csv),1,213,0,,,213
+pais,kpis,kpi3_hhi_top5,,calcular_kpis.py (KPI3_GEO_EXPO_IEG.csv),1,213,0,,,213
+pais,kpis,kpi3_ieg,,calcular_kpis.py (KPI3_GEO_EXPO_IEG.csv),1,213,0,,,213
+pais,kpis,kpi3_nivel,,calcular_kpis.py (KPI3_GEO_EXPO_IEG.csv),1,213,0,,,213
+pais,kpis,kpi3_pct_export_top5,,calcular_kpis.py (KPI3_GEO_EXPO_IEG.csv),1,213,0,,,213
+pais,kpis,kpi3_pct_top5_a_aliados_defensa,,calcular_kpis.py (KPI3_GEO_EXPO_IEG.csv),1,213,0,,,213
+pais,kpis,kpi3_pct_top5_con_respaldo,,calcular_kpis.py (KPI3_GEO_EXPO_IEG.csv),1,213,0,,,213
+pais,kpis,kpi4_forma_estado,,calcular_kpis.py (KPI4_SOC_TENSION_ITID.csv),1,130,0,,,130
+pais,kpis,kpi4_fracc_etnica,,calcular_kpis.py (KPI4_SOC_TENSION_ITID.csv),1,130,0,,,130
+pais,kpis,kpi4_fracc_religiosa,,calcular_kpis.py (KPI4_SOC_TENSION_ITID.csv),1,130,0,,,130
+pais,kpis,kpi4_itid,,calcular_kpis.py (KPI4_SOC_TENSION_ITID.csv),1,130,0,,,130
+pais,kpis,kpi4_tipo_regimen,,calcular_kpis.py (KPI4_SOC_TENSION_ITID.csv),1,130,0,,,130
+pais,migracion,remesas_enviadas_pct_pib,,cálculo propio (vista v_pais_migracion_anual del master),1,195,0,2000,2025,4408
+pais,migracion,remesas_enviadas_usd,US$,Banco Mundial (ONU WPP 2024; remesas de balanza de pagos FMI),1,195,0,2000,2025,4423
+pais,migracion,remesas_netas_usd,,cálculo propio (vista v_pais_migracion_anual del master),1,191,0,2000,2025,4307
+pais,migracion,remesas_recibidas_pct_pib,% del PIB,Banco Mundial (ONU WPP 2024; remesas de balanza de pagos FMI),1,193,0,2000,2025,4425
+pais,migracion,remesas_recibidas_usd,US$,Banco Mundial (ONU WPP 2024; remesas de balanza de pagos FMI),1,193,0,2000,2025,4439
+pais,migracion,saldo_migratorio_neto,,Banco Mundial (ONU WPP 2024; remesas de balanza de pagos FMI),1,217,0,2000,2025,5642
+pais,migracion,stock_migrantes_pct_poblacion,%,Banco Mundial (ONU WPP 2024; remesas de balanza de pagos FMI),1,216,0,2000,2024,1296
+pais,migracion,tasa_migracion_neta_x1000,,cálculo propio (vista v_pais_migracion_anual del master),1,217,0,2000,2024,5425
+pais,panel_base,camas_hospital_x1000,por 1.000 hab.,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,191,0,2000,2023,2945
+pais,panel_base,dieta_saludable_lcu_dia,moneda local por día,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,174,0,2017,2024,1385
+pais,panel_base,dieta_saludable_lcu_mes,moneda local por mes,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,174,0,2017,2024,1385
+pais,panel_base,dieta_saludable_ppa_dia,US$ PPA por día,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,167,0,2017,2024,1329
+pais,panel_base,dieta_saludable_usd_mes,US$ por mes,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,172,0,2017,2024,1342
+pais,panel_base,esperanza_vida,,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,217,0,2000,2024,5425
+pais,panel_base,felicidad,,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,164,0,2011,2024,1943
+pais,panel_base,felicidad_ranking,,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,164,0,2011,2024,1943
+pais,panel_base,gasto_educacion_pct_pib,% del PIB,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,200,0,2000,2024,3365
+pais,panel_base,gasto_salud_pct_gasto_pub,%,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,193,0,2000,2024,4547
+pais,panel_base,gasto_salud_pct_pib,% del PIB,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,193,0,2000,2024,4547
+pais,panel_base,gini,,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,168,0,2000,2024,1862
+pais,panel_base,gini_aprox_desde_lorenz,,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,168,0,2000,2024,1862
+pais,panel_base,ingreso_decil10_pct,%,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,168,0,2000,2024,1862
+pais,panel_base,ingreso_decil1_pct,%,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,168,0,2000,2024,1862
+pais,panel_base,ingreso_quintil1_pct,%,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,168,0,2000,2024,1862
+pais,panel_base,ingreso_quintil2_pct,%,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,168,0,2000,2024,1862
+pais,panel_base,ingreso_quintil3_pct,%,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,168,0,2000,2024,1862
+pais,panel_base,ingreso_quintil4_pct,%,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,168,0,2000,2024,1862
+pais,panel_base,ingreso_quintil5_pct,%,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,168,0,2000,2024,1862
+pais,panel_base,lorenz_acum_10,,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,168,0,2000,2024,1862
+pais,panel_base,lorenz_acum_20,,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,168,0,2000,2024,1862
+pais,panel_base,lorenz_acum_40,,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,168,0,2000,2024,1862
+pais,panel_base,lorenz_acum_60,,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,168,0,2000,2024,1862
+pais,panel_base,lorenz_acum_80,,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,168,0,2000,2024,1862
+pais,panel_base,lorenz_acum_90,,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,168,0,2000,2024,1862
+pais,panel_base,medicos_x1000,por 1.000 hab.,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,195,0,2000,2023,2858
+pais,panel_base,mortalidad_infantil,,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,196,0,2000,2024,4900
+pais,panel_base,pct_no_puede_pagar_dieta_saludable,%,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,146,0,2017,2024,1168
+pais,panel_base,pib_pc_ppp,,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,199,0,2000,2024,4916
+pais,panel_base,poblacion,,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,217,0,2000,2024,5425
+pais,panel_base,ppa_lcu_por_usd_intl,moneda local por US$ internacional,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,205,0,2000,2024,4968
+pais,panel_base,ratio_palma,,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,168,0,2000,2024,1862
+pais,panel_base,ratio_quintil5_quintil1,,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,168,0,2000,2024,1862
+pais,panel_base,salario_promedio_mensual_lcu,moneda local,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,183,0,2000,2024,2287
+pais,panel_base,salario_promedio_mensual_ppa,US$ PPA,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,169,0,2000,2024,2146
+pais,panel_base,salario_promedio_mensual_usd,US$,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,175,0,2000,2024,2211
+pais,panel_base,suicidio_hombres_x100k,por 100.000 hab.,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,185,0,2000,2021,4070
+pais,panel_base,suicidio_mujeres_x100k,por 100.000 hab.,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,185,0,2000,2021,4070
+pais,panel_base,suicidio_total_x100k,por 100.000 hab.,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,185,0,2000,2021,4070
+pais,panel_base,tipo_cambio_lcu_por_usd,moneda local por US$,"Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",1,213,0,2000,2024,5171
+pais,perfil_factbook,anio_independencia,,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",1,193,0,,,193
+pais,perfil_factbook,clima,,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",3,243,0,,,244
+pais,perfil_factbook,costa_km,km,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",3,241,0,,,242
+pais,perfil_factbook,edad_minima_voto,,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",1,231,0,,,231
+pais,perfil_factbook,elevacion_maxima_m,metros,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",3,240,0,,,241
+pais,perfil_factbook,elevacion_media_m,metros,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",1,168,0,,,168
+pais,perfil_factbook,elevacion_minima_m,metros,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",3,243,0,,,244
+pais,perfil_factbook,es_voto_obligatorio,0/1,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",1,234,0,,,234
+pais,perfil_factbook,exportaciones_productos,,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",3,236,0,,,237
+pais,perfil_factbook,fronteras_terrestres_km,km,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",3,242,0,,,243
+pais,perfil_factbook,importaciones_productos,,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",3,236,0,,,237
+pais,perfil_factbook,independencia,,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",1,233,0,,,233
+pais,perfil_factbook,n_paises_limitrofes,,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",3,243,0,,,244
+pais,perfil_factbook,punto_mas_alto,,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",3,242,0,,,243
+pais,perfil_factbook,recursos_naturales,,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",3,243,0,,,244
+pais,perfil_factbook,servicio_militar,,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",1,177,0,,,177
+pais,perfil_factbook,sistema_legal,,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",1,240,0,,,240
+pais,perfil_factbook,sufragio,,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",1,234,0,,,234
+pais,perfil_factbook,superficie_agua_km2,km²,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",3,235,0,,,236
+pais,perfil_factbook,superficie_tierra_km2,km²,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",3,241,0,,,242
+pais,perfil_factbook,superficie_total_km2,km²,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",3,241,0,,,242
+pais,perfil_factbook,terreno,,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",3,242,0,,,243
+pais,perfil_factbook,tipo_gobierno,,"CIA World Factbook, foto del 22-01-2026 (factbook/factbook.json en GitHub)",1,236,0,,,236
+pais,poblacion_indigena,poblacion_indigena_pct,%,"CEPALSTAT / CELADE, censos de población",1,17,0,2000,2020,30
+pais,relaciones,membresia_organizacion,,COW IGO v3 + carga manual verificada con Wikidata,48,192,0,1945,2025,33541
+pais,relaciones,n_acuerdos_comerciales_en_vigor,,"COW IGO, DESTA, ATOP (conteos)",1,217,0,2000,2020,4557
+pais,relaciones,n_aliados_cualquier_pacto,,"COW IGO, DESTA, ATOP (conteos)",1,217,0,2000,2018,4123
+pais,relaciones,n_aliados_defensa,,"COW IGO, DESTA, ATOP (conteos)",1,217,0,2000,2018,4123
+pais,relaciones,n_igos_cow_total,,"COW IGO, DESTA, ATOP (conteos)",1,194,0,2000,2014,2910
+pais,relaciones,n_organizaciones_clave,,cálculo propio (vista v_pais_anual del master),1,217,0,2000,2024,5425
+pais,salud_cronica,avad_total,,"Banco Mundial, OMS GHO, OMS GHE 2021 vía OWID (AVAD)",1,194,0,2000,2021,4263
+pais,salud_cronica,avad_x100k,,cálculo propio (vista v_pais_salud_cronica del master),1,192,0,2000,2021,4219
+pais,salud_cronica,diabetes_prevalencia_pct,%,"Banco Mundial, OMS GHO, OMS GHE 2021 vía OWID (AVAD)",1,209,0,2000,2024,429
+pais,salud_cronica,hipertension_prevalencia_pct,%,"Banco Mundial, OMS GHO, OMS GHE 2021 vía OWID (AVAD)",1,194,0,2000,2019,3880
+pais,salud_cronica,mortalidad_ent_30_70_pct,%,"Banco Mundial, OMS GHO, OMS GHE 2021 vía OWID (AVAD)",1,185,0,2000,2021,4070
+pais,salud_cronica,muertes_ent_pct,%,"Banco Mundial, OMS GHO, OMS GHE 2021 vía OWID (AVAD)",1,185,0,2000,2021,1110
+pais,salud_cronica,obesidad_adultos_pct,%,"Banco Mundial, OMS GHO, OMS GHE 2021 vía OWID (AVAD)",1,199,0,2000,2024,4975
+pais,socios_comerciales,socio_exportacion_pct,%,"CIA World Factbook, foto del 22-01-2026 (5 principales socios)",145,230,0,2017,2023,1162
+pais,socios_comerciales,socio_importacion_pct,%,"CIA World Factbook, foto del 22-01-2026 (5 principales socios)",114,230,0,2017,2023,1155
+pais,tecnologia,banda_ancha_fija_x100,por 100 hab.,"Banco Mundial (UIT, UNESCO), OCDE ICT hogares",1,208,0,2000,2024,4306
+pais,tecnologia,gasto_en_i_d_pct_pib,% del PIB,"Banco Mundial (UIT, UNESCO), OCDE ICT hogares",1,155,0,2000,2024,2212
+pais,tecnologia,hogares_con_conectividad_pct,%,"Banco Mundial (UIT, UNESCO), OCDE ICT hogares",1,42,0,2005,2025,766
+pais,tecnologia,usuarios_internet_pct,%,"Banco Mundial (UIT, UNESCO), OCDE ICT hogares",1,210,0,2000,2025,4900
+subdivision,agricultura,produccion_tn,toneladas,"MAGyP, estimaciones agrícolas",358,3,82,1970,2026,127149
+subdivision,agricultura,rendimiento_kg_ha,kg por hectárea,"MAGyP, estimaciones agrícolas",41,1,23,1970,2026,11914
+subdivision,agricultura,sup_cosechada_ha,hectáreas,"MAGyP, estimaciones agrícolas",358,3,82,1970,2026,127149
+subdivision,agricultura,sup_sembrada_ha,hectáreas,"MAGyP, estimaciones agrícolas",354,3,82,1970,2026,106494
+subdivision,agricultura,valor_produccion_miles_moneda_local,,"MAGyP, IBGE, DANE y otros (formato común)",81,1,27,1994,2025,55917
+subdivision,alicuota_iibb,alicuota_pct,%,"DNAP, alícuotas teóricas de Ingresos Brutos",21,1,24,2024,2025,730
+subdivision,alicuota_iibb,alicuota_texto,,"DNAP, alícuotas teóricas de Ingresos Brutos",18,1,15,2024,2025,73
+subdivision,ambiental,emisiones_gei_agro_tco2e,t de CO2 equivalente,"OCDE, emisiones regionales (TL2) de 6 países de América Latina",1,6,155,2000,2023,3720
+subdivision,ambiental,emisiones_gei_edificios_tco2e,t de CO2 equivalente,"OCDE, emisiones regionales (TL2) de 6 países de América Latina",1,6,155,2000,2023,3720
+subdivision,ambiental,emisiones_gei_electricidad_tco2e,t de CO2 equivalente,"OCDE, emisiones regionales (TL2) de 6 países de América Latina",1,6,155,2000,2023,3720
+subdivision,ambiental,emisiones_gei_industria_tco2e,t de CO2 equivalente,"OCDE, emisiones regionales (TL2) de 6 países de América Latina",1,6,155,2000,2023,3720
+subdivision,ambiental,emisiones_gei_per_capita_tco2e,t de CO2 equivalente por habitante,"OCDE, emisiones regionales (TL2) de 6 países de América Latina",1,3,81,2000,2023,1944
+subdivision,ambiental,emisiones_gei_residuos_tco2e,t de CO2 equivalente,"OCDE, emisiones regionales (TL2) de 6 países de América Latina",1,6,155,2000,2023,3720
+subdivision,ambiental,emisiones_gei_total_tco2e,t de CO2 equivalente,"OCDE, emisiones regionales (TL2) de 6 países de América Latina",1,6,155,2000,2023,3720
+subdivision,ambiental,emisiones_gei_transporte_tco2e,t de CO2 equivalente,"OCDE, emisiones regionales (TL2) de 6 países de América Latina",1,6,155,2000,2023,3720
+subdivision,brasil_pib,impuestos_netos_miles_reales,,IBGE (SIDRA),1,1,27,2002,2021,540
+subdivision,brasil_pib,pct_vab_administracion_publica,,IBGE (SIDRA),1,1,27,2002,2021,540
+subdivision,brasil_pib,pct_vab_agropecuaria,,IBGE (SIDRA),1,1,27,2002,2021,540
+subdivision,brasil_pib,pct_vab_industria,,IBGE (SIDRA),1,1,27,2002,2021,540
+subdivision,brasil_pib,pct_vab_servicios_privados,,IBGE (SIDRA),1,1,27,2002,2021,540
+subdivision,brasil_pib,pib_miles_reales,,IBGE (SIDRA),1,1,27,2002,2023,594
+subdivision,brasil_pib,pib_per_capita_reales,,IBGE (SIDRA),1,1,27,2002,2023,594
+subdivision,brasil_pib,poblacion_ibge,,IBGE (SIDRA),1,1,27,2001,2026,702
+subdivision,brasil_pib,poblacion_ibge_fuente,,IBGE (SIDRA),1,1,27,2001,2026,702
+subdivision,brasil_pib,vab_administracion_publica_miles_reales,,IBGE (SIDRA),1,1,27,2002,2021,540
+subdivision,brasil_pib,vab_agropecuaria_miles_reales,,IBGE (SIDRA),1,1,27,2002,2021,540
+subdivision,brasil_pib,vab_industria_miles_reales,,IBGE (SIDRA),1,1,27,2002,2021,540
+subdivision,brasil_pib,vab_servicios_privados_miles_reales,,IBGE (SIDRA),1,1,27,2002,2021,540
+subdivision,brasil_pib,vab_total_miles_reales,,IBGE (SIDRA),1,1,27,2002,2021,540
+subdivision,canastas,canastas_meses_con_dato,,INDEC CBA/CBT por región EPH (estimado por región),1,1,24,2016,2026,264
+subdivision,canastas,cba_adulto_equivalente_pesos_estimado_por_region,$ corrientes,INDEC CBA/CBT por región EPH (estimado por región),1,1,24,2016,2026,264
+subdivision,canastas,cbt_adulto_equivalente_pesos_estimado_por_region,$ corrientes,INDEC CBA/CBT por región EPH (estimado por región),1,1,24,2016,2026,264
+subdivision,canastas,cbt_hogar_tipo_4_personas_pesos_estimado_por_region,$ corrientes,INDEC CBA/CBT por región EPH (estimado por región),1,1,24,2016,2026,264
+subdivision,censo,censo_habitantes,,"INDEC, censos 2010 y 2022",1,1,24,2010,2022,48
+subdivision,censo,hogares,,"INDEC, censos 2010 y 2022",1,1,24,2010,2022,48
+subdivision,censo,pct_hogares_agua_de_red,%,"INDEC, censos 2010 y 2022",1,1,24,2010,2022,48
+subdivision,censo,pct_hogares_cloaca,%,"INDEC, censos 2010 y 2022",1,1,24,2010,2022,48
+subdivision,censo,pct_hogares_con_nbi,%,"INDEC, censos 2010 y 2022",1,1,24,2010,2022,48
+subdivision,censo,pct_hogares_gas_de_red,%,"INDEC, censos 2010 y 2022",1,1,24,2010,2022,48
+subdivision,censo,pct_hogares_inquilino,%,"INDEC, censos 2010 y 2022",1,1,24,2010,2022,48
+subdivision,censo,pct_hogares_otra_tenencia,%,"INDEC, censos 2010 y 2022",1,1,24,2010,2022,48
+subdivision,censo,pct_hogares_prestada_o_cedida,%,"INDEC, censos 2010 y 2022",1,1,24,2010,2022,48
+subdivision,censo,pct_hogares_propietario,%,"INDEC, censos 2010 y 2022",1,1,24,2010,2022,48
+subdivision,censo,pct_personas_escuela_asiste,%,"INDEC, censos 2010 y 2022",1,1,24,2010,2022,48
+subdivision,censo,pct_personas_escuela_asistio,%,"INDEC, censos 2010 y 2022",1,1,24,2010,2022,48
+subdivision,censo,pct_personas_escuela_nunca_asistio,%,"INDEC, censos 2010 y 2022",1,1,24,2010,2022,48
+subdivision,censo,pct_personas_max_nivel_primario,%,"INDEC, censos 2010 y 2022",1,1,24,2022,2022,24
+subdivision,censo,pct_personas_max_nivel_secundario,%,"INDEC, censos 2010 y 2022",1,1,24,2022,2022,24
+subdivision,censo,pct_personas_max_nivel_sin_primario,%,"INDEC, censos 2010 y 2022",1,1,24,2022,2022,24
+subdivision,censo,pct_personas_max_nivel_superior,%,"INDEC, censos 2010 y 2022",1,1,24,2022,2022,24
+subdivision,censo,pct_personas_salud_obra_social_o_prepaga,%,"INDEC, censos 2010 y 2022",1,1,24,2022,2022,24
+subdivision,censo,pct_personas_salud_sin_cobertura,%,"INDEC, censos 2010 y 2022",1,1,24,2022,2022,24
+subdivision,censo,pct_personas_salud_solo_plan_estatal,%,"INDEC, censos 2010 y 2022",1,1,24,2022,2022,24
+subdivision,clima,temperatura_media_c,°C,"Banco Mundial CCKP, ERA5",1,17,339,1950,2024,24105
+subdivision,cultura_festivales,asistentes_aprox_suma,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,cantidad_aniversarios,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,cantidad_carnavales,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,cantidad_fiestas_festivales,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,entrada_gratuita,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,entrada_mixta,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,entrada_paga,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,festivales_cada_100_mil_habitantes,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,festivales_con_asistentes_informados,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,festivales_total,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,gestion_mixta,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,gestion_privada,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,gestion_publica,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,tematica_artistica,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,tematica_carnaval,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,tematica_civico_historica,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,tematica_folclorica,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,tematica_gastronomica,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,tematica_otra,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,tematica_productiva,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,tematica_pueblos_originarios,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,tematica_religiosa,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,cultura_festivales,tematica_tradicional,,Festivales Argentinos 2023 y relevamientos provinciales,1,1,24,,,24
+subdivision,economia,estado_dato_vab,,CEPAL-MECON (VAB 52 ramas) y Argendata (PBG per cápita),1,1,24,2004,2024,504
+subdivision,economia,pbg_per_capita_pesos_2004,$ de 2004,CEPAL-MECON (VAB 52 ramas) y Argendata (PBG per cápita),1,1,24,2004,2023,480
+subdivision,economia,pct_vab_adm_publica,%,CEPAL-MECON (VAB 52 ramas) y Argendata (PBG per cápita),1,1,24,2004,2024,504
+subdivision,economia,pct_vab_ensenanza_publica,%,CEPAL-MECON (VAB 52 ramas) y Argendata (PBG per cápita),1,1,24,2004,2024,504
+subdivision,economia,pct_vab_hoteles,%,CEPAL-MECON (VAB 52 ramas) y Argendata (PBG per cápita),1,1,24,2004,2024,504
+subdivision,economia,pct_vab_restaurantes,%,CEPAL-MECON (VAB 52 ramas) y Argendata (PBG per cápita),1,1,24,2004,2024,504
+subdivision,economia,pct_vab_salud_publica,%,CEPAL-MECON (VAB 52 ramas) y Argendata (PBG per cápita),1,1,24,2004,2024,504
+subdivision,economia,pct_vab_sector_publico,%,CEPAL-MECON (VAB 52 ramas) y Argendata (PBG per cápita),1,1,24,2004,2024,504
+subdivision,economia,pct_vab_turismo,%,CEPAL-MECON (VAB 52 ramas) y Argendata (PBG per cápita),1,1,24,2004,2024,504
+subdivision,economia,poblacion_implicita_vab,,CEPAL-MECON (VAB 52 ramas) y Argendata (PBG per cápita),1,1,24,2004,2023,480
+subdivision,economia,vab_total_mill_pesos_2004,millones de $ de 2004,CEPAL-MECON (VAB 52 ramas) y Argendata (PBG per cápita),1,1,24,2004,2024,504
+subdivision,eleccion_gobernador,aclaracion,,electorAr (Atlas Electoral) + carga manual,1,1,5,1987,2023,7
+subdivision,eleccion_gobernador,familia_politica,,electorAr (Atlas Electoral) + carga manual,1,1,24,1983,2025,262
+subdivision,eleccion_gobernador,lista_ganadora,,electorAr (Atlas Electoral) + carga manual,1,1,24,1983,2025,262
+subdivision,eleccion_gobernador,pct_votos_ganador,%,electorAr (Atlas Electoral) + carga manual,1,1,24,1983,2019,228
+subdivision,eleccion_gobernador,segunda_vuelta,,electorAr (Atlas Electoral) + carga manual,1,1,24,1983,2025,262
+subdivision,empresas,cep_empresas_con_empleados,,OEDE Ministerio de Trabajo y CEP XXI,1,1,24,2021,2022,48
+subdivision,empresas,cep_locales_10_a_49_empleados,,OEDE Ministerio de Trabajo y CEP XXI,1,1,24,2021,2022,48
+subdivision,empresas,cep_locales_1_a_9_empleados,,OEDE Ministerio de Trabajo y CEP XXI,1,1,24,2021,2022,48
+subdivision,empresas,cep_locales_200_a_499_empleados,,OEDE Ministerio de Trabajo y CEP XXI,1,1,24,2021,2022,48
+subdivision,empresas,cep_locales_500_o_mas_empleados,,OEDE Ministerio de Trabajo y CEP XXI,1,1,24,2021,2022,48
+subdivision,empresas,cep_locales_50_a_199_empleados,,OEDE Ministerio de Trabajo y CEP XXI,1,1,24,2021,2022,48
+subdivision,empresas,empresas_cada_1000_hab,por 1.000 hab.,OEDE Ministerio de Trabajo y CEP XXI,1,1,24,2010,2024,360
+subdivision,empresas,empresas_con_empleados,,OEDE Ministerio de Trabajo y CEP XXI,1,1,24,1996,2024,696
+subdivision,empresas,empresas_grandes_ind_com_serv,,OEDE Ministerio de Trabajo y CEP XXI,1,1,24,2024,2024,24
+subdivision,empresas,empresas_medianas_ind_com_serv,,OEDE Ministerio de Trabajo y CEP XXI,1,1,24,2024,2024,24
+subdivision,empresas,empresas_micro_ind_com_serv,,OEDE Ministerio de Trabajo y CEP XXI,1,1,24,2024,2024,24
+subdivision,empresas,empresas_pequenas_ind_com_serv,,OEDE Ministerio de Trabajo y CEP XXI,1,1,24,2024,2024,24
+subdivision,federalismo_fiscal,indice_autonomia_financiera_subnacional,,cálculo propio (vista v_subdivision_federalismo_fiscal del master),1,1,24,2005,2025,503
+subdivision,federalismo_fiscal,pct_ingresos_por_transferencias_automaticas,,cálculo propio (vista v_subdivision_federalismo_fiscal del master),1,1,24,2005,2025,503
+subdivision,federalismo_fiscal,regalias_pct_ingresos,,cálculo propio (vista v_subdivision_federalismo_fiscal del master),1,1,24,2005,2025,503
+subdivision,federalismo_fiscal,resultado_financiero_pct_ingresos,,cálculo propio (vista v_subdivision_federalismo_fiscal del master),1,1,24,2005,2025,503
+subdivision,federalismo_fiscal,transferencias_discrecionales_pct_gasto,,cálculo propio (vista v_subdivision_federalismo_fiscal del master),1,1,24,2005,2025,503
+subdivision,financiero,deuda_bancos_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, stock al 31-12 y servicios devengados",1,1,24,2000,2025,623
+subdivision,financiero,deuda_bonos_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, stock al 31-12 y servicios devengados",1,1,24,2000,2025,623
+subdivision,financiero,deuda_consolidada_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, stock al 31-12 y servicios devengados",1,1,24,2000,2025,623
+subdivision,financiero,deuda_ffdp_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, stock al 31-12 y servicios devengados",1,1,24,2000,2025,623
+subdivision,financiero,deuda_fffir_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, stock al 31-12 y servicios devengados",1,1,24,2000,2025,623
+subdivision,financiero,deuda_gobierno_nacional_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, stock al 31-12 y servicios devengados",1,1,24,2000,2025,623
+subdivision,financiero,deuda_organismos_internacionales_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, stock al 31-12 y servicios devengados",1,1,24,2000,2025,623
+subdivision,financiero,deuda_pct_ingresos_totales,,cálculo propio (vista v_subdivision_financiero del master),1,1,24,2005,2025,503
+subdivision,financiero,deuda_stock_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, stock al 31-12 y servicios devengados",1,1,24,2000,2025,623
+subdivision,financiero,intereses_pct_ingresos_corrientes,,cálculo propio (vista v_subdivision_financiero del master),1,1,24,2005,2025,503
+subdivision,financiero,servicio_deuda_amortizacion_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, stock al 31-12 y servicios devengados",1,1,24,2005,2025,500
+subdivision,financiero,servicio_deuda_intereses_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, stock al 31-12 y servicios devengados",1,1,24,2005,2025,500
+subdivision,financiero,servicio_deuda_pct_ingresos_corrientes,,cálculo propio (vista v_subdivision_financiero del master),1,1,24,2005,2025,500
+subdivision,finanzas_publicas,contribuciones_seguridad_social_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, esquema Ahorro-Inversión-Financiamiento",1,1,24,2005,2025,504
+subdivision,finanzas_publicas,coparticipacion_neta_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, esquema Ahorro-Inversión-Financiamiento",1,1,24,2005,2025,504
+subdivision,finanzas_publicas,gasto_corriente_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, esquema Ahorro-Inversión-Financiamiento",1,1,24,2005,2025,504
+subdivision,finanzas_publicas,gasto_personal_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, esquema Ahorro-Inversión-Financiamiento",1,1,24,2005,2025,504
+subdivision,finanzas_publicas,gasto_total_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, esquema Ahorro-Inversión-Financiamiento",1,1,24,2005,2025,504
+subdivision,finanzas_publicas,ingresos_corrientes_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, esquema Ahorro-Inversión-Financiamiento",1,1,24,2005,2025,504
+subdivision,finanzas_publicas,ingresos_totales_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, esquema Ahorro-Inversión-Financiamiento",1,1,24,2005,2025,504
+subdivision,finanzas_publicas,intereses_deuda_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, esquema Ahorro-Inversión-Financiamiento",1,1,24,2005,2025,504
+subdivision,finanzas_publicas,inversion_real_directa_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, esquema Ahorro-Inversión-Financiamiento",1,1,24,2005,2025,504
+subdivision,finanzas_publicas,regalias_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, esquema Ahorro-Inversión-Financiamiento",1,1,24,2005,2025,504
+subdivision,finanzas_publicas,resultado_financiero_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, esquema Ahorro-Inversión-Financiamiento",1,1,24,2005,2025,504
+subdivision,finanzas_publicas,transferencias_capital_recibidas_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, esquema Ahorro-Inversión-Financiamiento",1,1,24,2005,2025,504
+subdivision,finanzas_publicas,transferencias_corrientes_recibidas_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, esquema Ahorro-Inversión-Financiamiento",1,1,24,2005,2025,504
+subdivision,finanzas_publicas,tributarios_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, esquema Ahorro-Inversión-Financiamiento",1,1,24,2005,2025,504
+subdivision,finanzas_publicas,tributarios_origen_nacional_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, esquema Ahorro-Inversión-Financiamiento",1,1,24,2005,2025,504
+subdivision,finanzas_publicas,tributarios_origen_provincial_mill_pesos,millones de $ corrientes,"Coordinación Fiscal Provincial, esquema Ahorro-Inversión-Financiamiento",1,1,24,2005,2025,504
+subdivision,fiscal,alicuota_iibb_comercio_pct,%,DNAP Ministerio de Economía (recaudación propia) + cálculo propio,1,1,17,2024,2025,33
+subdivision,fiscal,alicuota_iibb_industria_pct,%,DNAP Ministerio de Economía (recaudación propia) + cálculo propio,1,1,23,2024,2025,45
+subdivision,fiscal,pct_ingresos_brutos_en_total,%,DNAP Ministerio de Economía (recaudación propia) + cálculo propio,1,1,24,1991,2025,839
+subdivision,fiscal,presion_tributaria_pct_pbg_estimado,% del PBG (estimado),DNAP Ministerio de Economía (recaudación propia) + cálculo propio,1,1,24,2004,2024,504
+subdivision,fiscal,recaudacion_automotores_mill_pesos,millones de $ corrientes,DNAP Ministerio de Economía (recaudación propia) + cálculo propio,1,1,24,1991,2025,839
+subdivision,fiscal,recaudacion_ingresos_brutos_mill_pesos,millones de $ corrientes,DNAP Ministerio de Economía (recaudación propia) + cálculo propio,1,1,24,1991,2025,839
+subdivision,fiscal,recaudacion_inmobiliario_mill_pesos,millones de $ corrientes,DNAP Ministerio de Economía (recaudación propia) + cálculo propio,1,1,24,1991,2025,839
+subdivision,fiscal,recaudacion_otros_mill_pesos,millones de $ corrientes,DNAP Ministerio de Economía (recaudación propia) + cálculo propio,1,1,24,1991,2025,839
+subdivision,fiscal,recaudacion_por_habitante_pesos_2024,$ de 2024,DNAP Ministerio de Economía (recaudación propia) + cálculo propio,1,1,24,2010,2025,383
+subdivision,fiscal,recaudacion_propia_mill_pesos,millones de $ corrientes,DNAP Ministerio de Economía (recaudación propia) + cálculo propio,1,1,24,1991,2025,839
+subdivision,fiscal,recaudacion_sellos_mill_pesos,millones de $ corrientes,DNAP Ministerio de Economía (recaudación propia) + cálculo propio,1,1,24,1991,2025,839
+subdivision,ganaderia,bueyes,,"MAGyP / SENASA, stock bovino al 31-12",1,1,23,2007,2025,437
+subdivision,ganaderia,cabezas,,"MAGyP/SENASA, IBGE y otros (formato común)",12,2,59,1974,2026,14318
+subdivision,ganaderia,novillitos,,"MAGyP / SENASA, stock bovino al 31-12",1,1,23,2007,2025,437
+subdivision,ganaderia,novillos,,"MAGyP / SENASA, stock bovino al 31-12",1,1,23,2007,2025,437
+subdivision,ganaderia,terneras,,"MAGyP / SENASA, stock bovino al 31-12",1,1,23,2007,2025,437
+subdivision,ganaderia,terneros,,"MAGyP / SENASA, stock bovino al 31-12",1,1,23,2007,2025,437
+subdivision,ganaderia,toritos,,"MAGyP / SENASA, stock bovino al 31-12",1,1,23,2007,2025,437
+subdivision,ganaderia,toros,,"MAGyP / SENASA, stock bovino al 31-12",1,1,23,2007,2025,437
+subdivision,ganaderia,total_cabezas,,"MAGyP / SENASA, stock bovino al 31-12",1,1,23,2007,2025,437
+subdivision,ganaderia,vacas,,"MAGyP / SENASA, stock bovino al 31-12",1,1,23,2007,2025,437
+subdivision,ganaderia,vaquillonas,,"MAGyP / SENASA, stock bovino al 31-12",1,1,23,2007,2025,437
+subdivision,gobierno,anio_ultima_eleccion,,electorAr + carga manual,1,1,24,1984,2026,1011
+subdivision,gobierno,familia_politica_gobierno,,electorAr + carga manual,1,1,24,1984,2026,1011
+subdivision,gobierno,ganador_ultima_eleccion,,electorAr + carga manual,1,1,24,1984,2026,1011
+subdivision,gobierno,gobernante,,Wikidata (gobernante al cierre de cada año),1,11,163,1980,2026,3236
+subdivision,hidrocarburos,gas_miles_m3_convencional,miles de m³,Secretaría de Energía (SESCO + Capítulo IV),1,1,15,2009,2026,219
+subdivision,hidrocarburos,gas_miles_m3_no_convencional,miles de m³,Secretaría de Energía (SESCO + Capítulo IV),1,1,15,2009,2026,219
+subdivision,hidrocarburos,gas_miles_m3_total,miles de m³,Secretaría de Energía (SESCO + Capítulo IV),1,3,49,1997,2026,820
+subdivision,hidrocarburos,hidrocarburos_meses_con_dato,,Secretaría de Energía (SESCO + Capítulo IV),1,3,49,1997,2026,827
+subdivision,hidrocarburos,pct_petroleo_en_el_mar,,"Secretaría de Energía, ANP y otros",1,1,11,1997,2026,299
+subdivision,hidrocarburos,petroleo_m3_convencional,m³,Secretaría de Energía (SESCO + Capítulo IV),1,1,15,2009,2026,222
+subdivision,hidrocarburos,petroleo_m3_no_convencional,m³,Secretaría de Energía (SESCO + Capítulo IV),1,1,15,2009,2026,222
+subdivision,hidrocarburos,petroleo_m3_total,m³,Secretaría de Energía (SESCO + Capítulo IV),1,3,48,1997,2026,798
+subdivision,identificacion,latitud,,"maestros/subdivisiones_maestro.csv (ISO 3166-2, Wikidata)",1,16,328,,,328
+subdivision,identificacion,longitud,,"maestros/subdivisiones_maestro.csv (ISO 3166-2, Wikidata)",1,16,328,,,328
+subdivision,identificacion,nivel_subdivision,,"maestros/subdivisiones_maestro.csv (ISO 3166-2, Wikidata)",1,17,340,,,340
+subdivision,identificacion,nombre_oficial,,"maestros/subdivisiones_maestro.csv (ISO 3166-2, Wikidata)",1,17,339,,,339
+subdivision,identificacion,region_subnacional,,"maestros/subdivisiones_maestro.csv (ISO 3166-2, Wikidata)",1,1,24,,,24
+subdivision,identificacion,tipo_subdivision,,"maestros/subdivisiones_maestro.csv (ISO 3166-2, Wikidata)",1,17,340,,,340
+subdivision,kpis,kpi5_anios_misma_familia,,calcular_kpis.py (KPI5_PROV_RENTISMO_IRFH.csv),1,1,24,,,24
+subdivision,kpis,kpi5_familia_gobierno,,calcular_kpis.py (KPI5_PROV_RENTISMO_IRFH.csv),1,1,24,,,24
+subdivision,kpis,kpi5_irfh,,calcular_kpis.py (KPI5_PROV_RENTISMO_IRFH.csv),1,1,24,,,24
+subdivision,kpis,kpi5_pbg_pc_pesos_2004,,calcular_kpis.py (KPI5_PROV_RENTISMO_IRFH.csv),1,1,24,,,24
+subdivision,kpis,kpi5_pct_personas_pobres,,calcular_kpis.py (KPI5_PROV_RENTISMO_IRFH.csv),1,1,24,,,24
+subdivision,kpis,kpi5_petroleo_m3_por_hab,,calcular_kpis.py (KPI5_PROV_RENTISMO_IRFH.csv),1,1,10,,,10
+subdivision,kpis,kpi5_presion_tributaria_propia_pct_pbg,,calcular_kpis.py (KPI5_PROV_RENTISMO_IRFH.csv),1,1,24,,,24
+subdivision,kpis,kpi5_rentismo_fiscal_z,,calcular_kpis.py (KPI5_PROV_RENTISMO_IRFH.csv),1,1,24,,,24
+subdivision,legisladores,bancas,,HCDN (diputados) y Senado de la Nación,2,1,24,1984,2026,1432
+subdivision,legisladores,bancas_izquierda,,HCDN (diputados) y Senado de la Nación,2,1,24,1984,2026,1432
+subdivision,legisladores,bancas_la_libertad_avanza,,HCDN (diputados) y Senado de la Nación,2,1,24,1984,2026,1432
+subdivision,legisladores,bancas_otros,,HCDN (diputados) y Senado de la Nación,2,1,24,1984,2026,1432
+subdivision,legisladores,bancas_partido_provincial,,HCDN (diputados) y Senado de la Nación,2,1,24,1984,2026,1432
+subdivision,legisladores,bancas_peronismo,,HCDN (diputados) y Senado de la Nación,2,1,24,1984,2026,1432
+subdivision,legisladores,bancas_pro_juntos_por_el_cambio,,HCDN (diputados) y Senado de la Nación,2,1,24,1984,2026,1432
+subdivision,legisladores,bancas_radicalismo,,HCDN (diputados) y Senado de la Nación,2,1,24,1984,2026,1432
+subdivision,legisladores,bloque_o_partido_mayoritario,,HCDN (diputados) y Senado de la Nación,2,1,24,1984,2026,1432
+subdivision,legisladores,familia_mayoritaria,,HCDN (diputados) y Senado de la Nación,2,1,24,1984,2026,1432
+subdivision,ocde_regional,camas_hospital_x1000,,"OCDE, Regional Database (TL2)",1,4,108,1995,2025,2015
+subdivision,ocde_regional,esperanza_vida_anios,,"OCDE, Regional Database (TL2)",1,5,129,1990,2024,2770
+subdivision,ocde_regional,homicidios_x100mil,,"OCDE, Regional Database (TL2)",1,4,106,1995,2024,2061
+subdivision,ocde_regional,medicos_x1000,,"OCDE, Regional Database (TL2)",1,4,106,1995,2024,1914
+subdivision,ocde_regional,mortalidad_infantil_x1000,,"OCDE, Regional Database (TL2)",1,5,133,1990,2024,2825
+subdivision,ocde_regional,participacion_electoral_pct,,"OCDE, Regional Database (TL2)",1,4,106,1996,2024,1098
+subdivision,ocde_regional,pct_25_64_con_terciaria,,"OCDE, Regional Database (TL2)",1,4,99,2001,2025,1459
+subdivision,ocde_regional,pct_vab_agro_pesca,,"OCDE, Regional Database (TL2)",1,5,132,2002,2024,2398
+subdivision,ocde_regional,pct_vab_comercio_transporte_turismo,,"OCDE, Regional Database (TL2)",1,5,132,2002,2024,2398
+subdivision,ocde_regional,pct_vab_construccion,,"OCDE, Regional Database (TL2)",1,5,132,2002,2024,2398
+subdivision,ocde_regional,pct_vab_estado_educacion_salud,,"OCDE, Regional Database (TL2)",1,5,132,2002,2024,2397
+subdivision,ocde_regional,pct_vab_finanzas,,"OCDE, Regional Database (TL2)",1,4,116,2002,2024,2125
+subdivision,ocde_regional,pct_vab_industria_mineria_energia,,"OCDE, Regional Database (TL2)",1,5,132,2002,2024,2398
+subdivision,ocde_regional,pct_vab_informacion_comunicaciones,,"OCDE, Regional Database (TL2)",1,4,116,2002,2024,2125
+subdivision,ocde_regional,pct_vab_inmobiliarias,,"OCDE, Regional Database (TL2)",1,5,132,2002,2024,2397
+subdivision,ocde_regional,pct_vab_manufactura,,"OCDE, Regional Database (TL2)",1,5,132,2002,2024,2398
+subdivision,ocde_regional,pct_vab_otros_servicios,,"OCDE, Regional Database (TL2)",1,5,132,2002,2024,2397
+subdivision,ocde_regional,pct_vab_servicios_profesionales,,"OCDE, Regional Database (TL2)",1,5,132,2002,2024,2204
+subdivision,ocde_regional,pib_millones_moneda_nacional_corriente,,"OCDE, Regional Database (TL2)",1,5,133,2002,2024,2680
+subdivision,ocde_regional,pib_pc_usd_ppa_constante,,"OCDE, Regional Database (TL2)",1,5,133,2002,2024,2680
+subdivision,ocde_regional,pib_pc_usd_ppa_corriente,,"OCDE, Regional Database (TL2)",1,5,133,2002,2024,2680
+subdivision,ocde_regional,poblacion,,"OCDE, Regional Database (TL2)",1,6,156,1990,2025,4770
+subdivision,ocde_regional,superficie_km2,,"OCDE, Regional Database (TL2)",1,5,133,1990,2025,4788
+subdivision,ocde_regional,tasa_desempleo_pct,,"OCDE, Regional Database (TL2)",1,6,147,1995,2024,2023
+subdivision,ocde_regional,tasa_fecundidad,,"OCDE, Regional Database (TL2)",1,2,48,2000,2024,768
+subdivision,ocde_regional,tasa_participacion_laboral_pct,,"OCDE, Regional Database (TL2)",1,6,147,1995,2024,2071
+subdivision,ocde_regional,temperatura_media_c_ocde,,"OCDE, Regional Database (TL2)",1,6,154,1990,2024,5390
+subdivision,ocde_regional,vehiculos_x1000,,"OCDE, Regional Database (TL2)",1,4,104,1995,2024,2318
+subdivision,poblacion,habitantes,,"INDEC, proyecciones de población base Censo 2010",1,1,24,2010,2040,744
+subdivision,poblacion,mujeres,,"INDEC, proyecciones de población base Censo 2010",1,1,24,2010,2040,744
+subdivision,poblacion,varones,,"INDEC, proyecciones de población base Censo 2010",1,1,24,2010,2040,744
+subdivision,pobreza,casos_encuestados,,Cálculo propio con microdatos EPH-INDEC (31 aglomerados),1,1,24,2016,2026,264
+subdivision,pobreza,gini_ingreso_per_capita_familiar_estimado_grandes_ciudades,,Cálculo propio con microdatos EPH-INDEC (31 aglomerados),1,1,24,2016,2026,264
+subdivision,pobreza,pct_personas_indigentes_estimado,%,Cálculo propio con microdatos EPH-INDEC (31 aglomerados),1,1,24,2016,2026,264
+subdivision,pobreza,pct_personas_pobres_estimado,%,Cálculo propio con microdatos EPH-INDEC (31 aglomerados),1,1,24,2016,2026,264
+subdivision,pobreza,trimestres_con_dato,,Cálculo propio con microdatos EPH-INDEC (31 aglomerados),1,1,24,2016,2026,264
+subdivision,pymes,fecha_corte,,Registro MiPyME (foto al 23-12-2024),1,1,24,2024,2024,24
+subdivision,pymes,pymes_cada_1000_hab,por 1.000 hab.,Registro MiPyME (foto al 23-12-2024),1,1,24,2024,2024,24
+subdivision,pymes,pymes_medianas_tramo1,,Registro MiPyME (foto al 23-12-2024),1,1,24,2024,2024,24
+subdivision,pymes,pymes_medianas_tramo2,,Registro MiPyME (foto al 23-12-2024),1,1,24,2024,2024,24
+subdivision,pymes,pymes_micro,,Registro MiPyME (foto al 23-12-2024),1,1,24,2024,2024,24
+subdivision,pymes,pymes_pequenas,,Registro MiPyME (foto al 23-12-2024),1,1,24,2024,2024,24
+subdivision,pymes,pymes_total,,Registro MiPyME (foto al 23-12-2024),1,1,24,2024,2024,24
+subdivision,salarios,puestos_asalariados_privados_registrados,,"OEDE Ministerio de Trabajo (SIPA, privados registrados)",1,1,24,1996,2025,720
+subdivision,salarios,salario_promedio_mensual_pesos,$ corrientes,"OEDE Ministerio de Trabajo (SIPA, privados registrados)",1,1,24,1995,2025,744
+subdivision,salarios,salario_promedio_mensual_pesos_2024,$ de 2024,"OEDE Ministerio de Trabajo (SIPA, privados registrados)",1,1,24,1995,2025,744
+subdivision,salud,medicos,,"Ministerio de Salud (vacunación SRP, médicos matriculados)",1,1,24,2012,2023,288
+subdivision,salud,medicos_cada_10000_hab,por 10.000 hab.,"Ministerio de Salud (vacunación SRP, médicos matriculados)",1,1,24,2012,2023,288
+subdivision,salud,pct_vacuna_srp_1ra_dosis_12_meses,%,"Ministerio de Salud (vacunación SRP, médicos matriculados)",1,1,24,2009,2024,384
+subdivision,salud,pct_vacuna_srp_2da_dosis_ingreso_escolar,%,"Ministerio de Salud (vacunación SRP, médicos matriculados)",1,1,24,2009,2024,384
+subdivision,tecnologia,internet_fijo_accesos_x100_hab,por 100 hab.,"ENACOM, accesos a internet fijo (último trimestre del año)",1,1,24,2014,2026,312
+subdivision,tecnologia,internet_fijo_accesos_x100_hogares,por 100 hogares,"ENACOM, accesos a internet fijo (último trimestre del año)",1,1,24,2014,2026,312
+subdivision,tecnologia,internet_fijo_trimestre,,"ENACOM, accesos a internet fijo (último trimestre del año)",1,1,24,2014,2026,312
+subdivision,turismo,localidades_relevadas,,"INDEC-Turismo, Encuesta de Ocupación Hotelera (piso, no total provincial)",1,1,24,2018,2025,192
+subdivision,turismo,pernoctes_no_residentes,,"INDEC-Turismo, Encuesta de Ocupación Hotelera (piso, no total provincial)",1,1,24,2018,2025,192
+subdivision,turismo,pernoctes_residentes,,"INDEC-Turismo, Encuesta de Ocupación Hotelera (piso, no total provincial)",1,1,24,2018,2025,192
+subdivision,turismo,pernoctes_total,,"INDEC-Turismo, Encuesta de Ocupación Hotelera (piso, no total provincial)",1,1,24,2018,2025,192
+subdivision,turismo,turismo_meses_con_dato,,"INDEC-Turismo, Encuesta de Ocupación Hotelera (piso, no total provincial)",1,1,24,2018,2025,192
+subdivision,turismo,viajeros_no_residentes,,"INDEC-Turismo, Encuesta de Ocupación Hotelera (piso, no total provincial)",1,1,24,2018,2025,192
+subdivision,turismo,viajeros_residentes,,"INDEC-Turismo, Encuesta de Ocupación Hotelera (piso, no total provincial)",1,1,24,2018,2025,192
+subdivision,turismo,viajeros_total,,"INDEC-Turismo, Encuesta de Ocupación Hotelera (piso, no total provincial)",1,1,24,2018,2025,192
+subdivision,vab_grupo,participacion_grupo_en_provincia,,cálculo propio (vista v_vab_provincia_grupo),8,1,24,2004,2024,4032
+subdivision,vab_grupo,vab_grupo_mill_pesos_2004,,cálculo propio (vista v_vab_provincia_grupo),8,1,24,2004,2024,4032
+subdivision,vab_rama,participacion_en_provincia,proporción (0-1),"CEPAL-MECON, VAB por jurisdicción y 52 ramas",52,1,24,2004,2024,26208
+subdivision,vab_rama,vab_mill_pesos_2004,millones de $ de 2004,"CEPAL-MECON, VAB por jurisdicción y 52 ramas",52,1,24,2004,2024,26208

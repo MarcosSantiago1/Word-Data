@@ -19,6 +19,8 @@ Cómo funciona (paso a paso):
      fuentes posiblemente discontinuadas.
   7. Escribe el resumen en etl/actualizaciones/<fecha>_resumen.md y suma una fila por paso
      a etl/actualizaciones/historial.csv.
+  8. Guarda un respaldo propio de todos los datos en respaldos/respaldo_<fecha>.zip
+     (respaldar_datos.py): si una fuente desaparece, la copia queda.
 
 Uso:
     python actualizar_mensual.py            # actualiza y publica
@@ -358,6 +360,17 @@ def main():
     except Exception as error:
         lineas_fuentes = ["## Estado de las fuentes", f"- No se pudo hacer el chequeo: {error!r}"]
 
+    # Respaldo propio de todos los datos ya publicados. Si falla, no frena nada.
+    lineas_respaldo = []
+    if not prueba:
+        try:
+            from respaldar_datos import respaldar
+            zip_respaldo = respaldar()
+            lineas_respaldo = ["", f"Respaldo completo de los datos: respaldos/{zip_respaldo.name} "
+                                   f"({zip_respaldo.stat().st_size / 1e6:,.0f} MB)"]
+        except Exception as error:
+            lineas_respaldo = ["", f"**No se pudo hacer el respaldo de los datos: {error!r}**"]
+
     # Resumen
     fallos = [r for r in resultados if r["estado"] != "actualizado"]
     lineas = [f"# Actualización mensual {hora}" + (" (PRUEBA: no se publicó nada)" if prueba else ""), ""]
@@ -368,7 +381,7 @@ def main():
         lineas.append(f"Todos los pasos se actualizaron. {len(cambios)} archivos cambiaron.")
     lineas += ["", "| Paso | Estado | Minutos |", "|---|---|---|"]
     lineas += [f"| {r['descripcion']} | {r['estado']} | {r['minutos']} |" for r in resultados]
-    lineas += ["", *lineas_fuentes]
+    lineas += ["", *lineas_fuentes, *lineas_respaldo]
     for r in resultados:
         if r["detalle"]:
             lineas += ["", f"## {r['descripcion']}: {r['estado']}", *[f"- {d}" for d in r["detalle"]],
