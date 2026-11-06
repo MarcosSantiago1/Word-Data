@@ -140,7 +140,7 @@ AT-9,AT,AUT,Wien,Wien,Viena,Vienna,State,estado,,48.2083,16.3725,Q1741
 AZ-ABS,AZ,AZE,Abşeron,Abşeron,Abşeron,Absheron District,Rayon,raión,,40.4572,49.7383,Q179538
 AZ-AGA,AZ,AZE,Ağstafa,Ağstafa,Ağstafa,Aghstafa District,Rayon,raión,,41.1189,45.4539,Q275744
 AZ-AGC,AZ,AZE,Ağcabədi,Ağcabədi,Ağcabədi,Aghjabadi District,Rayon,raión,,40.0528,47.4614,Q330818
-AZ-AGM,AZ,AZE,Ağdam,Ağdam,Ağdam,Aghdam,Rayon,raión,,39.9833,46.9167,Q540844
+AZ-AGM,AZ,AZE,Ağdam,Ağdam,Ağdam,Aghdam,Rayon,raión,,39.9836,46.9286,Q201647
 AZ-AGS,AZ,AZE,Ağdaş,Ağdaş,Ağdaş,Aghdash District,Rayon,raión,,40.6333,47.4667,Q275784
 AZ-AGU,AZ,AZE,Ağsu,Ağsu,Ağsu,Agsu District,Rayon,raión,,40.5694,48.3999,Q330800
 AZ-AST,AZ,AZE,Astara,Astara,Astara,Astara District,Rayon,raión,,38.5,48.6667,Q269680
@@ -320,7 +320,7 @@ BS-NE,BS,BHS,North Eleuthera,North Eleuthera,Eleuthera Norte,North Eleuthera,Dis
 BS-NO,BS,BHS,North Abaco,North Abaco,Ábaco Norte,North Abaco,District,distrito,,26.7833,-77.4333,Q623327
 BS-NP,BS,BHS,New Providence,New Providence,Nueva Providencia,New Providence,Island,isla,,25.0333,-77.2833,Q3339000
 BS-NS,BS,BHS,North Andros,North Andros,Andros Norte,North Andros,District,distrito,,24.7669,-78.0961,Q2699411
-BS-RC,BS,BHS,Rum Cay,Rum Cay,Cayo Rum,Rum Cay,District,distrito,,23.6739,-74.8711,Q1859950
+BS-RC,BS,BHS,Rum Cay,Rum Cay,Rum Cay District,Rum Cay District,District,distrito,,23.6822,-74.8689,Q21713441
 BS-RI,BS,BHS,Ragged Island,Ragged Island,Isla Ragged,Ragged Island,District,distrito,,22.2167,-75.7333,Q1532634
 BS-SA,BS,BHS,South Andros,South Andros,Andros Sur,South Andros,District,distrito,,23.9,-77.6,Q2408672
 BS-SE,BS,BHS,South Eleuthera,South Eleuthera,Eleuthera Sur,South Eleuthera,District,distrito,,24.8,-76.1833,Q2699715
@@ -593,7 +593,7 @@ CG-13,CG,COG,Sangha,Sangha,Departamento de Sangha,Sangha Department,Department,d
 CG-14,CG,COG,Plateaux,Plateaux,Plateaux,Plateaux Department,Department,departamento,,-2.5358,14.7525,Q765370
 CG-15,CG,COG,Cuvette-Ouest,Cuvette-Ouest,Cuvette-Oeste,Cuvette-Ouest Department,Department,departamento,,-0.8667,14.8167,Q125711
 CG-16,CG,COG,Pointe-Noire,Pointe-Noire,Pointe-Noire District,Pointe-Noire District,Department,departamento,,-4.624,12.004,Q7208306
-CG-2,CG,COG,Lékoumou,Lékoumou,Lékoumou,Lékoumou Department,Department,departamento,,-0.8667,14.8167,Q862753
+CG-2,CG,COG,Lékoumou,Lékoumou,Lékoumou,Lékoumou Department,Department,departamento,,-3.1957,13.5646,Q862753
 CG-5,CG,COG,Kouilou,Kouilou,Kouilou,Kouilou Department,Department,departamento,,-4.2333,11.9333,Q855327
 CG-7,CG,COG,Likouala,Likouala,Likouala,Likouala Department,Department,departamento,,1.6333,18.0667,Q863554
 CG-8,CG,COG,Cuvette,Cuvette,Departamento de Cuvette,Cuvette Department,Department,departamento,,-0.4833,15.8975,Q780884
@@ -867,7 +867,7 @@ EE-45,EE,EST,Ida-Virumaa,Ida-Virumaa,Condado de Ida-Viru,Ida-Viru County,County,
 EE-50,EE,EST,Jõgevamaa,Jõgevamaa,Condado de Jõgeva,Jõgeva County,County,condado,,58.7,26.4,Q189974
 EE-52,EE,EST,Järvamaa,Järvamaa,Condado de Järva,Järva County,County,condado,,58.8833,25.55,Q188068
 EE-56,EE,EST,Läänemaa,Läänemaa,Condado de Lääne,Lääne County,County,condado,,58.9167,23.75,Q189968
-EE-60,EE,EST,Lääne-Virumaa,Lääne-Virumaa,Condado de Lääne-Viru,Lääne-Viru County,County,condado,,59.25,26.3333,Q189952
+EE-60,EE,EST,Lääne-Virumaa,Lääne-Virumaa,Condado de Lääne-Viru,Lääne-Viru County,County,condado,,59.3494,26.3481,Q189952
 EE-64,EE,EST,Põlvamaa,Põlvamaa,Condado de Põlva,Põlva County,County,condado,,58.0833,27.0833,Q191813
 EE-68,EE,EST,Pärnumaa,Pärnumaa,Condado de Pärnu,Pärnu County,County,condado,,58.4167,24.5833,Q185036
 EE-71,EE,EST,Raplamaa,Raplamaa,Condado de Rapla,Rapla County,County,condado,,58.9167,24.75,Q192352
@@ -1265,7 +1265,7 @@ IL-Z,IL,ISR,Ash Shamālī,Ash Shamālī,Distrito Norte,Northern District,Distric
 IT-21,IT,ITA,Piemonte,Piemonte,Piamonte,Piedmont,Region,región,,45.25,7.9167,Q1216
 IT-23,IT,ITA,Valle d'Aosta,Valle d'Aosta,Valle de Aosta,Aosta Valley,Autonomous region,región autónoma,,45.7167,7.3667,Q1222
 IT-25,IT,ITA,Lombardia,Lombardia,Lombardía,Lombardy,Region,región,,45.65,9.95,Q1210
-IT-32,IT,ITA,Trentino-Alto Adige,Trentino-Alto Adige,Trentino-Alto Adigio,Trentino-South Tyrol,Autonomous region,región autónoma,,46.3833,11.4167,Q1237
+IT-32,IT,ITA,Trentino-Alto Adige,Trentino-Alto Adige,Trentino-Alto Adigio/Südtirol,Trentino-South Tyrol,Autonomous region,región autónoma,,46.3833,11.4167,Q1237
 IT-34,IT,ITA,Veneto,Veneto,Véneto,Veneto,Region,región,,45.7333,11.85,Q1243
 IT-36,IT,ITA,Friuli Venezia Giulia,Friuli Venezia Giulia,Friul-Venecia Julia,Friuli Venezia Giulia,Autonomous region,región autónoma,,46.1,13.1167,Q1250
 IT-42,IT,ITA,Liguria,Liguria,Liguria,Liguria,Region,región,,44.45,8.7667,Q1256
@@ -1357,7 +1357,7 @@ JP-46,JP,JPN,Kagoshima,Kagoshima,prefectura de Kagoshima,Kagoshima Prefecture,Pr
 JP-47,JP,JPN,Okinawa,Okinawa,prefectura de Okinawa,Okinawa Prefecture,Prefecture,prefectura,,26.2122,127.6808,Q766445
 KZ-10,KZ,KAZ,Abay oblysy,Abay oblysy,provincia de Abai,Abai Region,Region,región,,50.4056,80.25,Q111279364
 KZ-11,KZ,KAZ,Aqmola oblysy,Aqmola oblysy,provincia de Akmolá,Akmola Region,Region,región,,52.0,69.0,Q485056
-KZ-15,KZ,KAZ,Aqtöbe oblysy,Aqtöbe oblysy,provincia de Aktobé,Aktobe Region,Region,región,,48.6329,58.5571,Q485437
+KZ-15,KZ,KAZ,Aqtöbe oblysy,Aqtöbe oblysy,provincia de Aktobé,Aktöbe Region,Region,región,,48.6329,58.5571,Q485437
 KZ-19,KZ,KAZ,Almaty oblysy,Almaty oblysy,provincia de Almatý,Almaty Region,Region,región,,45.0,78.0,Q186466
 KZ-23,KZ,KAZ,Atyraū oblysy,Atyraū oblysy,provincia de Atirau,Atyrau Region,Region,región,,47.5558,51.988,Q427658
 KZ-27,KZ,KAZ,Batys Qazaqstan oblysy,Batys Qazaqstan oblysy,provincia de Kazajistán Occidental,West Kazakhstan Region,Region,región,,49.7955,50.5811,Q486007
@@ -1456,7 +1456,7 @@ KH-6,KH,KHM,Kampong Thum,Kampong Thum,Provincia de Kompung Thom,Kampong Thom Pro
 KH-7,KH,KHM,Kampot,Kampot,Provincia de Kampot,Kampot Province,Province,provincia,,10.6,104.1667,Q748470
 KH-8,KH,KHM,Kandaal,Kandaal,Provincia de Kandal,Kandal Province,Province,provincia,,11.4667,104.9333,Q466031
 KH-9,KH,KHM,Kaoh Kong,Kaoh Kong,Provincia de Koh Kong,Koh Kong Province,Province,provincia,,11.3992,103.4947,Q466000
-KI-G,KI,KIR,Gilbert Islands,Gilbert Islands,Islas Gilbert,Gilbert Islands,Group of islands (20 inhabited islands),grupo de islas,,0.0,174.0,Q271876
+KI-G,KI,KIR,Gilbert Islands,Gilbert Islands,Islas Gilbert,Gilbert Islands,Group of islands (20 inhabited islands),grupo de islas,,0.5816,173.5086,Q271876
 KI-L,KI,KIR,Line Islands,Line Islands,Line Islands,Line Islands,Group of islands (20 inhabited islands),grupo de islas,,-2.0,-156.5,Q31866835
 KI-P,KI,KIR,Phoenix Islands,Phoenix Islands,Islas Fénix,Phoenix Islands,Group of islands (20 inhabited islands),grupo de islas,,-3.6667,-172.3333,Q271674
 KN-K,KN,KNA,Saint Kitts,Saint Kitts,Isla de San Cristóbal,Saint Kitts,State,estado,,17.3197,-62.7472,Q204989
@@ -1535,7 +1535,7 @@ LY-JI,LY,LBY,Al Jafārah,Al Jafārah,Al Jfara,Jafara,Popularate,popularato,,32.1
 LY-JU,LY,LBY,Al Jufrah,Al Jufrah,Al Jufrah,Jufra,Popularate,popularato,,28.0,17.0,Q48247
 LY-KF,LY,LBY,Al Kufrah,Al Kufrah,Al Kufrah,Kufra District,Popularate,popularato,,24.0,23.0,Q48200
 LY-MB,LY,LBY,Al Marqab,Al Marqab,Al Murgub,Murqub,Popularate,popularato,,32.65,14.2667,Q209778
-LY-MI,LY,LBY,Mişrātah,Mişrātah,Misurata,Misrata District,Popularate,popularato,,32.3667,15.0833,Q32845
+LY-MI,LY,LBY,Mişrātah,Mişrātah,Misurata,Misurata Municipality,Popularate,popularato,,32.3667,15.0833,Q32845
 LY-MJ,LY,LBY,Al Marj,Al Marj,Al Marj,Marj District,Popularate,popularato,,32.5,20.8333,Q26023
 LY-MQ,LY,LBY,Murzuq,Murzuq,Murzuk,Murzuq District,Popularate,popularato,,25.9,13.9,Q48239
 LY-NL,LY,LBY,Nālūt,Nālūt,Nalut,Nalut District,Popularate,popularato,,31.8333,11.3333,Q27659
@@ -1816,7 +1816,7 @@ MK-405,MK,MKD,Gevgelija,Gevgelija,Municipalidad de Gevgelija,Gevgelija Municipal
 MK-406,MK,MKD,Dojran,Dojran,Municipalidad de Dojran,Dojran Municipality,Municipality,municipio,,41.18,22.73,Q1996413
 MK-407,MK,MKD,Konče,Konče,Municipalidad de Konče,Konče Municipality,Municipality,municipio,,41.49,22.41,Q1992728
 MK-408,MK,MKD,Novo Selo,Novo Selo,Municipalidad de Novo Selo,Novo Selo Municipality,Municipality,municipio,,41.42,22.87,Q1946579
-MK-409,MK,MKD,Radoviš,Radoviš,Municipalidad de Radoviš,Radoviš Municipality,Municipality,municipio,,41.0889,21.0122,Q2738284
+MK-409,MK,MKD,Radoviš,Radoviš,Municipalidad de Radoviš,Radoviš Municipality,Municipality,municipio,,41.6385,22.459,Q2738284
 MK-410,MK,MKD,Strumica,Strumica,Municipalidad de Strumica,Strumica Municipality,Municipality,municipio,,41.43,22.66,Q2308287
 MK-501,MK,MKD,Bitola,Bitola,Municipalidad de Bitola,Bitola Municipality,Municipality,municipio,,41.0333,21.3333,Q159380
 MK-502,MK,MKD,Demir Hisar,Demir Hisar,Municipalidad de Demir Hisar,Demir Hisar Municipality,Municipality,municipio,,41.2239,21.204,Q856278
@@ -1972,7 +1972,7 @@ ME-16,ME,MNE,Podgorica,Podgorica,Municipio de Podgorica,Podgorica Capital City,M
 ME-17,ME,MNE,Rožaje,Rožaje,Municipio de Rožaje,Rožaje Municipality,Municipality,municipio,,42.8333,20.1667,Q3296677
 ME-18,ME,MNE,Šavnik,Šavnik,Municipio de Šavnik,Šavnik Municipality,Municipality,municipio,,42.9564,19.0939,Q13365880
 ME-19,ME,MNE,Tivat,Tivat,Municipio de Tivat,Tivat Municipality,Municipality,municipio,,42.43,18.7,Q3738564
-ME-20,ME,MNE,Ulcinj,Ulcinj,Ulcinj,Ulcinj,Municipality,municipio,,41.9236,19.2056,Q189969
+ME-20,ME,MNE,Ulcinj,Ulcinj,Municipio de Ulcinj,Ulcinj Municipality,Municipality,municipio,,41.9333,19.2167,Q3305169
 ME-21,ME,MNE,Žabljak,Žabljak,Municipio de Žabljak,Žabljak Municipality,Municipality,municipio,,43.15,19.1167,Q3304454
 ME-22,ME,MNE,Gusinje,Gusinje,Municipio de Gusinje,Gusinje Municipality,Municipality,municipio,,42.55,19.8333,Q16085370
 ME-23,ME,MNE,Petnjica,Petnjica,Municipio de Petnjica,Petnjica Municipality,Municipality,municipio,,42.947,20.014,Q15630696
@@ -2183,7 +2183,7 @@ NR-09,NR,NRU,Ewa,Ewa,Ewa,Ewa District,District,distrito,,-0.5047,166.9356,Q27438
 NR-10,NR,NRU,Ijuw,Ijuw,Ijuw,Ijuw District,District,distrito,,-0.5192,166.9567,Q328738
 NR-11,NR,NRU,Meneng,Meneng,Meneng,Meneng District,District,distrito,,-0.5481,166.9394,Q327788
 NR-12,NR,NRU,Nibok,Nibok,Nibok,Nibok District,District,distrito,,-0.5172,166.9208,Q378780
-NR-13,NR,NRU,Uaboe,Uaboe,Uaboe,Uaboe District,District,distrito,,-0.5167,166.9167,Q473764
+NR-13,NR,NRU,Uaboe,Uaboe,Uaboe,Uaboe District,District,distrito,,-0.5131,166.9253,Q473764
 NR-14,NR,NRU,Yaren,Yaren,Yaren,Yaren District,District,distrito,,-0.5477,166.9209,Q31026
 NZ-AUK,NZ,NZL,Auckland,Auckland,Región de Auckland,Auckland Region,Region,región,,-36.9,174.7833,Q726917
 NZ-BOP,NZ,NZL,Bay of Plenty,Bay of Plenty,Bay of Plenty,Bay of Plenty Region,Region,región,,-38.2,176.9,Q2192924
@@ -2239,18 +2239,18 @@ PE-ANC,PE,PER,Ancash,Ancash,Departamento de Áncash,Áncash Department,Region,re
 PE-APU,PE,PER,Apurímac,Apurímac,departamento de Apurímac,Apurímac Department,Region,región,,-14.1667,-72.7556,Q208185
 PE-ARE,PE,PER,Arequipa,Arequipa,departamento de Arequipa,Arequipa Department,Region,región,,-15.86,-72.25,Q205068
 PE-AYA,PE,PER,Ayacucho,Ayacucho,departamento de Ayacucho,Ayacucho Department,Region,región,,-13.1631,-74.2244,Q205112
-PE-CAJ,PE,PER,Cajamarca,Cajamarca,Departamento de Cajamarca,Cajamarca Department,Region,región,,-6.61,-78.78,Q205078
+PE-CAJ,PE,PER,Cajamarca,Cajamarca,departamento de Cajamarca,Cajamarca Department,Region,región,,-6.61,-78.78,Q205078
 PE-CAL,PE,PER,El Callao,El Callao,Provincia Constitucional del Callao,Constitutional Province of Callao,Region,región,,-12.0597,-77.1278,Q2634400
 PE-CUS,PE,PER,Cusco,Cusco,departamento de Cusco,Cusco Department,Region,región,,-13.26,-72.11,Q205057
-PE-HUC,PE,PER,Huánuco,Huánuco,Departamento de Huánuco,Huanuco Department,Region,región,,-9.9294,-76.2397,Q215221
+PE-HUC,PE,PER,Huánuco,Huánuco,departamento de Huánuco,Huanuco Department,Region,región,,-9.9294,-76.2397,Q215221
 PE-HUV,PE,PER,Huancavelica,Huancavelica,Departamento de Huancavelica,Huancavelica Department,Region,región,,-13.02,-75.09,Q505220
-PE-ICA,PE,PER,Ica,Ica,Departamento de Ica,Ica Department,Region,región,,-14.07,-75.73,Q208186
+PE-ICA,PE,PER,Ica,Ica,departamento de Ica,Ica Department,Region,región,,-14.07,-75.73,Q208186
 PE-JUN,PE,PER,Junín,Junín,departamento de Junín,Junín Department,Region,región,,-11.48,-74.98,Q207973
-PE-LAL,PE,PER,La Libertad,La Libertad,Departamento de La Libertad,La Libertad Department,Region,región,,-8.0,-78.5,Q205126
+PE-LAL,PE,PER,La Libertad,La Libertad,departamento de La Libertad,La Libertad Department,Region,región,,-8.0,-78.5,Q205126
 PE-LAM,PE,PER,Lambayeque,Lambayeque,Departamento de Lambayeque,Lambayeque Department,Region,región,,-6.4333,-79.8667,Q210061
 PE-LIM,PE,PER,Lima,Lima,Departamento de Lima,Lima Department,Region,región,,-11.85,-76.45,Q211795
-PE-LMA,PE,PER,Municipalidad Metropolitana de Lima,Municipalidad Metropolitana de Lima,Provincia de Lima,Lima,Municipality,municipio,,-12.042,-76.9105,Q579240
-PE-LOR,PE,PER,Loreto,Loreto,Departamento de Loreto,Loreto Department,Region,región,,-4.0,-74.32,Q200938
+PE-LMA,PE,PER,Municipalidad Metropolitana de Lima,Municipalidad Metropolitana de Lima,provincia de Lima,Lima,Municipality,municipio,,-12.042,-76.9105,Q579240
+PE-LOR,PE,PER,Loreto,Loreto,departamento de Loreto,Loreto Department,Region,región,,-4.0,-74.32,Q200938
 PE-MDD,PE,PER,Madre de Dios,Madre de Dios,departamento de Madre de Dios,Madre de Dios Department,Region,región,,-11.99,-70.59,Q210896
 PE-MOQ,PE,PER,Moquegua,Moquegua,Departamento de Moquegua,Moquegua Department,Region,región,,-16.8,-70.8,Q208182
 PE-PAS,PE,PER,Pasco,Pasco,Departamento de Pasco,Pasco Department,Region,región,,-10.5,-75.3,Q211208
@@ -2356,7 +2356,7 @@ PT-09,PT,PRT,Guarda,Guarda,Guarda,Guarda,District,distrito,,40.5369,-7.2681,Q273
 PT-10,PT,PRT,Leiria,Leiria,Leiría,Leiria,District,distrito,,39.7439,-8.8069,Q244512
 PT-11,PT,PRT,Lisboa,Lisboa,Distrito de Lisboa,Lisbon,District,distrito,,38.7,-9.1833,Q207199
 PT-12,PT,PRT,Portalegre,Portalegre,Portalegre,Portalegre,District,distrito,,39.2911,-7.4319,Q225189
-PT-13,PT,PRT,Porto,Porto,Oporto,Porto,District,distrito,,41.15,-8.61,Q322792
+PT-13,PT,PRT,Porto,Porto,Oporto,Oporto,District,distrito,,41.15,-8.61,Q322792
 PT-14,PT,PRT,Santarém,Santarém,Santarém,Santarém,District,distrito,,39.2333,-8.6833,Q244510
 PT-15,PT,PRT,Setúbal,Setúbal,Setúbal,Setúbal,District,distrito,,38.5243,-8.8926,Q274109
 PT-16,PT,PRT,Viana do Castelo,Viana do Castelo,Viana do Castelo,Viana do Castelo,District,distrito,,41.695,-8.83,Q326214
@@ -2391,7 +2391,7 @@ PS-JEN,PS,PSE,Jenin,Jenin,Gobernación de Yenín,Jenin Governorate,Governorate,g
 PS-JRH,PS,PSE,Jericho and Al Aghwar,Jericho and Al Aghwar,Gobernación de Jericó,Jericho Governorate,Governorate,gobernación,,32.0249,35.4455,Q658527
 PS-KYS,PS,PSE,Khan Yunis,Khan Yunis,Gobernación de Jan Yunis,Khan Yunis Governorate,Governorate,gobernación,,31.35,34.3,Q948026
 PS-NBS,PS,PSE,Nablus,Nablus,Gobernación de Naplusa,Nablus Governorate,Governorate,gobernación,,32.2406,35.2871,Q1074138
-PS-NGZ,PS,PSE,North Gaza,North Gaza,Gobernación de Gaza del Norte,North Gaza Governorate,Governorate,gobernación,,31.5247,34.5358,Q181636
+PS-NGZ,PS,PSE,North Gaza,North Gaza,Gobernación de Gaza del Norte,North Gaza Governorate,Governorate,gobernación,,31.55,34.5,Q181636
 PS-QQA,PS,PSE,Qalqilya,Qalqilya,Gobernación de Calquelia,Qalqilya Governorate,Governorate,gobernación,,32.1858,35.0658,Q1074443
 PS-RBH,PS,PSE,Ramallah,Ramallah,Gobernación de Ramala y Al Bireh,Ramallah and al-Bireh Governorate,Governorate,gobernación,,31.933,35.205,Q1093166
 PS-RFH,PS,PSE,Rafah,Rafah,Gobernación de Rafah,Rafah Governorate,Governorate,gobernación,,31.3,34.25,Q1074341
@@ -2474,7 +2474,7 @@ RU-KEM,RU,RUS,Kemerovskaya oblast',Kemerovskaya oblast',Kémerovo,Kemerovo Oblas
 RU-KGD,RU,RUS,Kaliningradskaya oblast',Kaliningradskaya oblast',Óblast de Kaliningrado,Kaliningrad Oblast,Administrative region,región administrativa,,54.8,21.4167,Q1749
 RU-KGN,RU,RUS,Kurganskaya oblast',Kurganskaya oblast',Kurgán,Kurgan Oblast,Administrative region,región administrativa,,55.5667,64.75,Q5741
 RU-KHA,RU,RUS,Khabarovskiy kray,Khabarovskiy kray,Jabárovsk,Khabarovsk Krai,Administrative territory,territorio administrativo (krai),,54.8,136.8333,Q7788
-RU-KHM,RU,RUS,Khanty-Mansiyskiy avtonomnyy okrug,Khanty-Mansiyskiy avtonomnyy okrug,Janti-Mansi,Khanty-Mansi Autonomous District,Autonomous district,distrito autónomo,,62.25,70.1667,Q6320
+RU-KHM,RU,RUS,Khanty-Mansiyskiy avtonomnyy okrug,Khanty-Mansiyskiy avtonomnyy okrug,Janti-Mansi,Khanty-Mansi Autonomous Okrug,Autonomous district,distrito autónomo,,62.25,70.1667,Q6320
 RU-KIR,RU,RUS,Kirovskaya oblast',Kirovskaya oblast',Óblast de Kírov,Kirov Oblast,Administrative region,región administrativa,,58.7667,49.8333,Q5387
 RU-KK,RU,RUS,Respublika Khakasiya,"Khakasiya, Respublika",Jakasia,Khakassia,Republic,república,,53.5,90.0,Q6543
 RU-KL,RU,RUS,Respublika Kalmykiya,"Kalmykiya, Respublika",Kalmukia,Kalmykia,Republic,república,,46.5667,45.3167,Q3953
@@ -2597,7 +2597,7 @@ SB-IS,SB,SLB,Isabel,Isabel,Isabel,Isabel Province,Province,provincia,,-8.0,159.0
 SB-MK,SB,SLB,Makira-Ulawa,Makira-Ulawa,Makira,Makira-Ulawa Province,Province,provincia,,-10.5575,161.7852,Q1116700
 SB-ML,SB,SLB,Malaita,Malaita,Malaita,Malaita Province,Province,provincia,,-9.0,160.9833,Q1190896
 SB-RB,SB,SLB,Rennell and Bellona,Rennell and Bellona,Rennell y Bellona,Rennell and Bellona Province,Province,provincia,,-11.55,160.0833,Q1051475
-SB-TE,SB,SLB,Temotu,Temotu,Temotu,Temotu Province,Province,provincia,,-10.75,167.0,Q936088
+SB-TE,SB,SLB,Temotu,Temotu,Temotu,Temotu Province,Province,provincia,,-10.7248,165.7974,Q936088
 SB-WE,SB,SLB,Western,Western,Provincia Occidental,Western Province,Province,provincia,,-8.0,157.0,Q150325
 SL-E,SL,SLE,Eastern,Eastern,Provincia del Este,Eastern Province,Province,provincia,,8.25,-11.0,Q1050497
 SL-N,SL,SLE,Northern,Northern,Provincia del Norte,Northern Province,Province,provincia,,9.25,-11.75,Q912359
@@ -2639,7 +2639,7 @@ SO-JD,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,Jubbada Dhexe,Middle Juba,Region,regió
 SO-JH,SO,SOM,Jubbada Hoose,Jubbada Hoose,Jubbada Hoose,Lower Juba,Region,región,,0.4333,41.6,Q877042
 SO-MU,SO,SOM,Mudug,Mudug,Mudug,Mudug,Region,región,,6.1131,47.9881,Q877034
 SO-NU,SO,SOM,Nugaal,Nugaal,Nugaal,Nugal,Region,región,,8.35,48.7167,Q1046329
-SO-SA,SO,SOM,Sanaag,Sanaag,Sanaag,Sanaag,Region,región,,,,
+SO-SA,SO,SOM,Sanaag,Sanaag,Sanaag,Sanaag Region,Region,región,,10.7792,48.1858,Q751387
 SO-SD,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,Shabeellaha Dhexe,Middle Shebelle,Region,región,,2.8167,46.1,Q678435
 SO-SH,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,Shabeellaha Hoose,Lower Shebelle,Region,región,,1.7683,44.39,Q877028
 SO-SO,SO,SOM,Sool,Sool,Sool,Sool,Region,región,,8.3961,47.6914,Q848864
@@ -2732,18 +2732,18 @@ SI-029,SI,SVN,Gornja Radgona,Gornja Radgona,Municipality of Gornja Radgona,Munic
 SI-030,SI,SVN,Gornji Grad,Gornji Grad,Municipalidad del Gornji Grad,Municipality of Gornji Grad,Municipality,municipio,,46.2961,14.8052,Q726548
 SI-031,SI,SVN,Gornji Petrovci,Gornji Petrovci,Municipalidad del Gornji Petrovci,Municipality of Gornji Petrovci,Municipality,municipio,,46.8,16.2167,Q3435689
 SI-032,SI,SVN,Grosuplje,Grosuplje,Municipalidad del Grosuplje,Municipality of Grosuplje,Municipality,municipio,,45.9364,14.6653,Q13377778
-SI-033,SI,SVN,Šalovci,Šalovci,Šalovci,Šalovci,Municipality,municipio,,46.825,16.2981,Q241462
+SI-033,SI,SVN,Šalovci,Šalovci,Municipality of Šalovci,Municipality of Šalovci,Municipality,municipio,,46.825,16.2981,Q13378373
 SI-034,SI,SVN,Hrastnik,Hrastnik,Municipalidad del Hrastnik,Hrastnik Municipality,Municipality,municipio,,46.1333,15.1,Q13377780
 SI-035,SI,SVN,Hrpelje-Kozina,Hrpelje-Kozina,Municipalidad del Hrpelje-Kozina,Municipality of Hrpelje-Kozina,Municipality,municipio,,45.5833,13.9833,Q556206
 SI-036,SI,SVN,Idrija,Idrija,Municipality of Idrija,Municipality of Idrija,Municipality,municipio,,46.0013,14.0221,Q3441842
 SI-037,SI,SVN,Ig,Ig,Municipalidad del Ig,Ig Municipality,Municipality,municipio,,45.9358,14.5144,Q917397
 SI-038,SI,SVN,Ilirska Bistrica,Ilirska Bistrica,municipio de Ilirska Bistrica,Municipality of Ilirska Bistrica,Municipality,municipio,,45.5667,14.2333,Q13377784
 SI-039,SI,SVN,Ivančna Gorica,Ivančna Gorica,Municipalidad del Ivančna Gorica,Municipality of Ivančna Gorica,Municipality,municipio,,45.9385,14.804,Q1008048
-SI-040,SI,SVN,Izola,Izola,Izola,Izola,Municipality,municipio,,45.5395,13.6604,Q15877
+SI-040,SI,SVN,Izola,Izola,Municipality of Izola,Municipality of Izola,Municipality,municipio,,45.5112,13.6565,Q12042076
 SI-041,SI,SVN,Jesenice,Jesenice,Jesenice,Municipality of Jesenice,Municipality,municipio,,46.4333,14.05,Q15881
 SI-042,SI,SVN,Juršinci,Juršinci,Juršinci,Municipality of Juršinci,Municipality,municipio,,46.4833,15.9667,Q1003984
 SI-043,SI,SVN,Kamnik,Kamnik,Municipalidad Kamnik,Municipality of Kamnik,Municipality,municipio,,46.225,14.6167,Q3503153
-SI-044,SI,SVN,Kanal ob Soči,Kanal ob Soči,Kanal ob Soči,Kanal ob Soči,Municipality,municipio,,46.0851,13.6344,Q1012996
+SI-044,SI,SVN,Kanal ob Soči,Kanal ob Soči,Municipality of Kanal ob Soči,Municipality of Kanal ob Soči,Municipality,municipio,,46.0858,13.6347,Q3435496
 SI-045,SI,SVN,Kidričevo,Kidričevo,Municipalidad del Kidričevo,Municipality of Kidričevo,Municipality,municipio,,46.4036,15.7911,Q776770
 SI-046,SI,SVN,Kobarid,Kobarid,Kobarid,Kobarid Municipality,Municipality,municipio,,46.2464,13.5786,Q688287
 SI-047,SI,SVN,Kobilje,Kobilje,Kobilje,Municipality of Kobilje,Municipality,municipio,,46.6833,16.4,Q927718
@@ -2751,7 +2751,7 @@ SI-048,SI,SVN,Kočevje,Kočevje,Kočevje,Municipality of Kočevje,Municipality,m
 SI-049,SI,SVN,Komen,Komen,Komen,Komen Municipality,Municipality,municipio,,45.8153,13.7483,Q15283322
 SI-050,SI,SVN,Koper,Koper,Municipio de Koper,City Municipality of Koper,Urban municipality,municipio urbano,,45.548,13.7301,Q556203
 SI-051,SI,SVN,Kozje,Kozje,Kozje,Municipality of Kozje,Municipality,municipio,,46.1,15.5167,Q1009421
-SI-052,SI,SVN,Kranj,Kranj,Kranj,Kranj,Urban municipality,municipio urbano,,46.2389,14.3556,Q1021
+SI-052,SI,SVN,Kranj,Kranj,Municipalidad Ciudad de Kranj,City Municipality of Kranj,Urban municipality,municipio urbano,,46.2422,14.3577,Q3441893
 SI-053,SI,SVN,Kranjska Gora,Kranjska Gora,Kranjska Gora,Municipality of Kranjska Gora,Municipality,municipio,,46.4833,13.7833,Q507051
 SI-054,SI,SVN,Krško,Krško,Municipalidad del Krško,City Municipality of Krško,Urban municipality,municipio urbano,,45.95,15.4833,Q3484655
 SI-055,SI,SVN,Kungota,Kungota,Kungota,Municipality of Kungota,Municipality,municipio,,46.6389,15.6142,Q998566
@@ -2775,7 +2775,7 @@ SI-072,SI,SVN,Mengeš,Mengeš,Mengeš,Municipality of Mengeš,Municipality,munic
 SI-073,SI,SVN,Metlika,Metlika,Municipality of Metlika,Municipality of Metlika,Municipality,municipio,,45.6474,15.3177,Q3441856
 SI-074,SI,SVN,Mežica,Mežica,Municipality of Mežica,Municipality of Mežica,Municipality,municipio,,46.5206,14.8536,Q678147
 SI-075,SI,SVN,Miren-Kostanjevica,Miren-Kostanjevica,Miren-Kostanjevica,Miren–Kostanjevica Municipality,Municipality,municipio,,45.85,13.6333,Q658076
-SI-076,SI,SVN,Mislinja,Mislinja,Mislinja,Mislinja,Municipality,municipio,,46.4414,15.2003,Q1917707
+SI-076,SI,SVN,Mislinja,Mislinja,Mislinja Municipality,Mislinja Municipality,Municipality,municipio,,46.4444,15.1947,Q999584
 SI-077,SI,SVN,Moravče,Moravče,Municipalidad del Moravče,Municipality of Moravče,Municipality,municipio,,46.1333,14.75,Q1012761
 SI-078,SI,SVN,Moravske Toplice,Moravske Toplice,Municipalidad del Moravske Toplice,Municipality of Moravske Toplice,Municipality,municipio,,46.6851,16.219,Q3494723
 SI-079,SI,SVN,Mozirje,Mozirje,Mozirje,Municipality of Mozirje,Municipality,municipio,,46.3333,14.9667,Q670975
@@ -2789,13 +2789,13 @@ SI-086,SI,SVN,Odranci,Odranci,Municipality of Odranci,Municipality of Odranci,Mu
 SI-087,SI,SVN,Ormož,Ormož,Ormož,Ormož Municipality,Municipality,municipio,,46.4167,16.15,Q15900
 SI-088,SI,SVN,Osilnica,Osilnica,Municipio de Osilnica,Municipality of Osilnica,Municipality,municipio,,45.5289,14.6981,Q778147
 SI-089,SI,SVN,Pesnica,Pesnica,Pesnica,Municipality of Pesnica,Municipality,municipio,,46.6097,15.6714,Q995048
-SI-090,SI,SVN,Piran,Piran,Piran,Piran,Municipality,municipio,,45.5271,13.5685,Q1382
+SI-090,SI,SVN,Piran,Piran,municipio de Piran,Piran Municipality,Municipality,municipio,,45.5283,13.5682,Q565170
 SI-091,SI,SVN,Pivka,Pivka,Municipalidad del Pivka,Municipality of Pivka,Municipality,municipio,,45.6833,14.2,Q252154
 SI-092,SI,SVN,Podčetrtek,Podčetrtek,Podčetrtek,Municipality of Podčetrtek,Municipality,municipio,,46.15,15.6,Q999540
 SI-093,SI,SVN,Podvelka,Podvelka,Podvelka,Municipality of Podvelka,Municipality,municipio,,46.5833,15.3333,Q1016800
 SI-094,SI,SVN,Postojna,Postojna,Municipalidad del Postojina,Municipality of Postojna,Municipality,municipio,,45.7833,14.2167,Q2242799
 SI-095,SI,SVN,Preddvor,Preddvor,Preddvor,Municipality of Preddvor,Municipality,municipio,,46.3,14.4167,Q539864
-SI-096,SI,SVN,Ptuj,Ptuj,Ptuj,Ptuj,Urban municipality,municipio urbano,,46.4186,15.8714,Q15906
+SI-096,SI,SVN,Ptuj,Ptuj,Urban Municipality of Ptuj,Urban Municipality of Ptuj,Urban municipality,municipio urbano,,46.4196,15.8697,Q3441808
 SI-097,SI,SVN,Puconci,Puconci,Municipality of Puconci,Municipality of Puconci,Municipality,municipio,,46.7052,16.1587,Q921092
 SI-098,SI,SVN,Rače-Fram,Rače-Fram,Rače-Fram,Municipality of Rače–Fram,Municipality,municipio,,46.45,15.65,Q731093
 SI-099,SI,SVN,Radeče,Radeče,Radeče Municipality,Radeče Municipality,Municipality,municipio,,46.0667,15.1833,Q13377986
@@ -2805,15 +2805,15 @@ SI-102,SI,SVN,Radovljica,Radovljica,Radovljica,Municipality of Radovljica,Munici
 SI-103,SI,SVN,Ravne na Koroškem,Ravne na Koroškem,Municipality of Ravne na Koroškem,Municipality of Ravne na Koroškem,Municipality,municipio,,46.5437,14.9809,Q13378051
 SI-104,SI,SVN,Ribnica,Ribnica,Ribnica,Municipality of Ribnica,Municipality,municipio,,45.74,14.7308,Q15912
 SI-105,SI,SVN,Rogašovci,Rogašovci,Rogašovci,Municipality of Rogašovci,Municipality,municipio,,46.8,16.0333,Q599480
-SI-106,SI,SVN,Rogaška Slatina,Rogaška Slatina,Rogaška Slatina,Rogaška Slatina,Municipality,municipio,,46.2315,15.638,Q3502521
+SI-106,SI,SVN,Rogaška Slatina,Rogaška Slatina,Rogaška Slatina,Municipality of Rogaška Slatina,Municipality,municipio,,46.2314,15.6378,Q15913
 SI-107,SI,SVN,Rogatec,Rogatec,Municipalidad del Rogatec,Municipality of Rogatec,Municipality,municipio,,46.2167,15.7,Q1027245
 SI-108,SI,SVN,Ruše,Ruše,Ruše,Ruše Municipality,Municipality,municipio,,46.5383,15.5153,Q3346841
 SI-109,SI,SVN,Semič,Semič,Municipalidad Semič,Municipality of Semič,Municipality,municipio,,45.6544,15.1783,Q1587704
 SI-110,SI,SVN,Sevnica,Sevnica,Municipalidad del Sevnica,Sevnica Municipality,Municipality,municipio,,46.0,15.3,Q11214302
 SI-111,SI,SVN,Sežana,Sežana,Municipalidad del Sežana,Municipality of Sežana,Municipality,municipio,,45.7,13.8667,Q554854
 SI-112,SI,SVN,Slovenj Gradec,Slovenj Gradec,Slovenj Gradec,City Municipality of Slovenj Gradec,Urban municipality,municipio urbano,,46.5167,15.0833,Q3441817
-SI-113,SI,SVN,Slovenska Bistrica,Slovenska Bistrica,Slovenska Bistrica,Slovenska Bistrica,Municipality,municipio,,46.3941,15.5707,Q15917
-SI-114,SI,SVN,Slovenske Konjice,Slovenske Konjice,Slovenske Konjice,Slovenske Konjice,Municipality,municipio,,46.3362,15.421,Q15919
+SI-113,SI,SVN,Slovenska Bistrica,Slovenska Bistrica,Municipio de Slovenska Bistrica,Municipality of Slovenska Bistrica,Municipality,municipio,,46.4,15.5667,Q11211457
+SI-114,SI,SVN,Slovenske Konjice,Slovenske Konjice,Slovenske Konjice Municipality,Slovenske Konjice Municipality,Municipality,municipio,,46.3372,15.4244,Q13378155
 SI-115,SI,SVN,Starše,Starše,Starše,Municipality of Starše,Municipality,municipio,,46.4667,15.7667,Q1016826
 SI-116,SI,SVN,Sveti Jurij ob Ščavnici,Sveti Jurij ob Ščavnici,Municipality of Sveti Jurij ob Ščavnici,Municipality of Sveti Jurij ob Ščavnici,Municipality,municipio,,46.5685,16.0241,Q920353
 SI-117,SI,SVN,Šenčur,Šenčur,Municipalidad del Šenčur,Municipality of Šenčur,Municipality,municipio,,46.25,14.4167,Q2346638
@@ -2836,8 +2836,8 @@ SI-133,SI,SVN,Velenje,Velenje,City Municipality of Velenje,City Municipality of 
 SI-134,SI,SVN,Velike Lašče,Velike Lašče,Velike Lašče,Municipality of Velike Lašče,Municipality,municipio,,45.8333,14.6333,Q13378281
 SI-135,SI,SVN,Videm,Videm,municipality of Videm,municipality of Videm,Municipality,municipio,,46.3667,15.9,Q1002863
 SI-136,SI,SVN,Vipava,Vipava,Municipalidad del Vipava,Municipality of Vipava,Municipality,municipio,,45.8236,13.9844,Q1002229
-SI-137,SI,SVN,Vitanje,Vitanje,Vitanje,Vitanje,Municipality,municipio,,46.3816,15.2957,Q1809612
-SI-138,SI,SVN,Vodice,Vodice,Vodice,Vodice,Municipality,municipio,,46.1833,14.4833,Q2068600
+SI-137,SI,SVN,Vitanje,Vitanje,Municipality of Vitanje,Municipality of Vitanje,Municipality,municipio,,46.3833,15.3,Q13378288
+SI-138,SI,SVN,Vodice,Vodice,Municipality of Vodice,Municipality of Vodice,Municipality,municipio,,46.1667,14.5,Q13378292
 SI-139,SI,SVN,Vojnik,Vojnik,Municipalidad del Vojnik,Municipality of Vojnik,Municipality,municipio,,46.3,15.3,Q2134561
 SI-140,SI,SVN,Vrhnika,Vrhnika,Municipalidad del Vrhnika,Municipality of Vrhnika,Municipality,municipio,,45.9667,14.3,Q9014817
 SI-141,SI,SVN,Vuzenica,Vuzenica,Vuzenica,Municipality of Vuzenica,Municipality,municipio,,46.6,15.1667,Q370390
@@ -2887,7 +2887,7 @@ SI-185,SI,SVN,Trnovska Vas,Trnovska Vas,Trnovska vas,Municipality of Trnovska Va
 SI-186,SI,SVN,Trzin,Trzin,Municipality of Trzin,Municipality of Trzin,Municipality,municipio,,46.125,14.55,Q773160
 SI-187,SI,SVN,Velika Polana,Velika Polana,Municipalidad de Vekila Polana,Municipality of Velika Polana,Municipality,municipio,,46.5667,16.35,Q995101
 SI-188,SI,SVN,Veržej,Veržej,Veržej,Municipality of Veržej,Municipality,municipio,,46.5818,16.1623,Q1008086
-SI-189,SI,SVN,Vransko,Vransko,Vransko,Vransko,Municipality,municipio,,46.2437,14.951,Q510040
+SI-189,SI,SVN,Vransko,Vransko,Municipality of Vransko,Municipality of Vransko,Municipality,municipio,,46.25,14.95,Q13378299
 SI-190,SI,SVN,Žalec,Žalec,Žalec,Municipality of Žalec,Municipality,municipio,,46.2508,15.1639,Q15931
 SI-191,SI,SVN,Žetale,Žetale,Minicipalidad del Žetale,Municipality of Žetale,Municipality,municipio,,46.2833,15.8,Q393910
 SI-192,SI,SVN,Žirovnica,Žirovnica,Žirovnica,Municipality of Žirovnica,Municipality,municipio,,46.4,14.1333,Q394103
@@ -2900,7 +2900,7 @@ SI-198,SI,SVN,Makole,Makole,Municipality of Makole,Municipality of Makole,Munici
 SI-199,SI,SVN,Mokronog-Trebelno,Mokronog-Trebelno,Mokronog-Trebelno,Mokronog-Trebelno Municipality,Municipality,municipio,,45.9333,15.1333,Q1027078
 SI-200,SI,SVN,Poljčane,Poljčane,Municipality of Poljčane,Municipality of Poljčane,Municipality,municipio,,46.3167,15.5833,Q594852
 SI-201,SI,SVN,Renče-Vogrsko,Renče-Vogrsko,Municipality of Renče–Vogrsko,Municipality of Renče–Vogrsko,Municipality,municipio,,45.8833,13.6667,Q612216
-SI-202,SI,SVN,Središče ob Dravi,Središče ob Dravi,Središče ob Dravi,Središče ob Dravi,Municipality,municipio,,46.3937,16.2691,Q1015849
+SI-202,SI,SVN,Središče ob Dravi,Središče ob Dravi,Municipality of Središče ob Dravi,Municipality of Središče ob Dravi,Municipality,municipio,,46.3961,16.2703,Q3441796
 SI-203,SI,SVN,Straža,Straža,Municipality of Straža,Municipality of Straža,Municipality,municipio,,45.7864,15.0745,Q1784972
 SI-204,SI,SVN,Sveta Trojica v Slovenskih goricah,Sveta Trojica v Slovenskih goricah,Municipality of Sveta Trojica v Slovenskih Goricah,Municipality of Sveta Trojica v Slovenskih Goricah,Municipality,municipio,,46.5756,15.8769,Q1016820
 SI-205,SI,SVN,Sveti Tomaž,Sveti Tomaž,Municipality of Sveti Tomaž,Municipality of Sveti Tomaž,Municipality,municipio,,46.4833,16.0794,Q1016831
@@ -2983,7 +2983,7 @@ TD-BG,TD,TCD,Bahr el Ghazal,Bahr el Ghazal,Región de Barh El Gazel,Bahr el Gaze
 TD-BO,TD,TCD,Borkou,Borkou,Región de Borkou,Borkou,Province,provincia,,17.9167,19.1167,Q1139666
 TD-CB,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,Región de Chari-Baguirmi,Chari-Baguirmi Region,Province,provincia,,11.2631,16.2222,Q843975
 TD-EE,TD,TCD,Ennedi-Est,Ennedi-Est,Ennedi Est,Ennedi-Est,Province,provincia,,17.7645,22.8698,Q16632169
-TD-EO,TD,TCD,Ennedi-Ouest,Ennedi-Ouest,Ennedi Ouest,Ennedi-Ouest,Province,provincia,,17.7541,22.9879,Q16632172
+TD-EO,TD,TCD,Ennedi-Ouest,Ennedi-Ouest,Ennedi Ouest,Ennedi-Ouest,Province,provincia,,18.6601,21.2467,Q16632172
 TD-GR,TD,TCD,Guéra,Guéra,Región de Guéra,Guéra Region,Province,provincia,,12.1828,18.6847,Q175706
 TD-HL,TD,TCD,Hadjer Lamis,Hadjer Lamis,Región de Hadjer-Lamis,Hadjer-Lamis,Province,provincia,,12.4564,16.7446,Q1042437
 TD-KA,TD,TCD,Kanem,Kanem,Región de Kanem,Kanem Region,Province,provincia,,14.1194,15.3133,Q849841
@@ -3404,7 +3404,7 @@ US-TX,US,USA,Texas,Texas,Texas,Texas,State,estado,,31.0,-100.0,Q1439
 US-UM,US,USA,United States Minor Outlying Islands,United States Minor Outlying Islands,Islas ultramarinas de Estados Unidos,United States Minor Outlying Islands,Outlying area,área periférica (ultramar),UMI,19.3,166.6333,Q16645
 US-UT,US,USA,Utah,Utah,Utah,Utah,State,estado,,39.5,-111.5,Q829
 US-VA,US,USA,Virginia,Virginia,Virginia,Virginia,State,estado,,37.5,-79.0,Q1370
-US-VI,US,USA,"Virgin Islands, U.S.","Virgin Islands, U.S.","Virgin Islands, U.S.","Virgin Islands, U.S.",Outlying area,área periférica (ultramar),VIR,,,
+US-VI,US,USA,"Virgin Islands, U.S.","Virgin Islands, U.S.",Islas Vírgenes de los Estados Unidos,United States Virgin Islands,Outlying area,área periférica (ultramar),VIR,18.3333,-64.8333,Q11703
 US-VT,US,USA,Vermont,Vermont,Vermont,Vermont,State,estado,,44.0,-72.7,Q16551
 US-WA,US,USA,Washington,Washington,Washington,Washington,State,estado,,47.5,-120.5,Q1223
 US-WI,US,USA,Wisconsin,Wisconsin,Wisconsin,Wisconsin,State,estado,,44.5,-89.5,Q1537

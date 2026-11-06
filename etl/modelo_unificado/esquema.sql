@@ -637,7 +637,7 @@ CREATE TABLE hecho_subdivision_salud (
     anio INTEGER NOT NULL,
     pct_vacuna_srp_1ra_dosis_12_meses REAL,
     pct_vacuna_srp_2da_dosis_ingreso_escolar REAL,
-    medicos REAL,
+    medicos INTEGER,
     medicos_cada_10000_hab REAL,
     PRIMARY KEY (subdivision_id, anio)
 );
@@ -855,7 +855,7 @@ LEFT JOIN dim_region_subnacional r ON r.region_subnacional_id = d.region_subnaci
 LEFT JOIN dim_pais eq ON eq.pais_id = d.pais_equivalente_id;
 
 CREATE VIEW v_pais_membresia_anual AS
-WITH RECURSIVE anios(anio) AS (SELECT 1945 UNION ALL SELECT anio + 1 FROM anios WHERE anio < 2025)
+WITH RECURSIVE anios(anio) AS (SELECT 1945 UNION ALL SELECT anio + 1 FROM anios WHERE anio < CAST(strftime('%Y', 'now') AS INTEGER))
 SELECT m.pais_id, a.anio, m.organizacion_codigo, o.tipo, m.estado
 FROM rel_pais_organizacion m
 JOIN dim_organizacion o ON o.organizacion_codigo = m.organizacion_codigo

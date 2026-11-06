@@ -858,7 +858,7 @@ LEFT JOIN dim_pais eq ON eq.pais_id = d.pais_equivalente_id;
 
 -- Membresía por año (formato largo) recalculada desde los episodios: reemplaza las 48 columnas miembro_*
 CREATE VIEW v_pais_membresia_anual AS
-WITH RECURSIVE anios(anio) AS (SELECT 1945 UNION ALL SELECT anio + 1 FROM anios WHERE anio < 2025)
+WITH RECURSIVE anios(anio) AS (SELECT 1945 UNION ALL SELECT anio + 1 FROM anios WHERE anio < CAST(strftime('%Y', 'now') AS INTEGER))
 SELECT m.pais_id, a.anio, m.organizacion_codigo, o.tipo, m.estado
 FROM rel_pais_organizacion m
 JOIN dim_organizacion o ON o.organizacion_codigo = m.organizacion_codigo

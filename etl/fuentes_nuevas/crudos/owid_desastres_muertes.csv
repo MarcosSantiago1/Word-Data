@@ -102,7 +102,7 @@ Africa,OWID_AFR,1980,0,2633,,,10,25,,,2668
 Africa,OWID_AFR,1981,20109,,,177,,107,,,20393
 Africa,OWID_AFR,1982,20708,,,229,47,95,,,21079
 Africa,OWID_AFR,1983,182505,443,,0,,86,,,183034
-Africa,OWID_AFR,1984,254837,,37,54,,383,0,,255311
+Africa,OWID_AFR,1984,254837,,37,54,,384,0,,255312
 Africa,OWID_AFR,1985,75341,30,,104,,2,4,,75481
 Africa,OWID_AFR,1986,0,,1746,23,,99,,,1868
 Africa,OWID_AFR,1987,1017,1,,524,,65,,,1607
@@ -118,7 +118,7 @@ Africa,OWID_AFR,1996,0,,,374,34,37,,52,497
 Africa,OWID_AFR,1997,0,15,,3022,20,192,0,,3249
 Africa,OWID_AFR,1998,12,,,272,87,18,75,,464
 Africa,OWID_AFR,1999,21,22,0,395,,327,4,,769
-Africa,OWID_AFR,2000,86,1,,1168,49,188,0,3,1495
+Africa,OWID_AFR,2000,86,1,,1168,49,190,0,3,1497
 Africa,OWID_AFR,2001,149,0,,1579,36,18,31,,1813
 Africa,OWID_AFR,2002,617,47,200,466,16,88,4,60,1498
 Africa,OWID_AFR,2003,9,2275,,420,20,152,,40,2916
@@ -143,7 +143,7 @@ Africa,OWID_AFR,2021,0,,32,369,,66,90,,557
 Africa,OWID_AFR,2022,2465,,,2113,38,384,44,,5044
 Africa,OWID_AFR,2023,0,2946,,4059,188,14688,34,,21915
 Africa,OWID_AFR,2024,0,,,2873,581,277,0,21,3752
-Africa,OWID_AFR,2025,0,3,,2243,503,122,0,,2871
+Africa,OWID_AFR,2025,0,3,,2289,503,76,0,,2871
 Albania,ALB,1905,,120,,,,,,,120
 Albania,ALB,1920,,200,,,,,,,200
 Albania,ALB,1930,,60,,,,,,,60
@@ -178,7 +178,7 @@ Albania,ALB,2019,,51,,,,,,,51
 Albania,ALB,2021,,,,0,,,,,0
 Albania,ALB,2022,,,,,,,,352,352
 Albania,ALB,2023,,,,,,,,363,363
-Albania,ALB,2025,,,,,,2,,,2
+Albania,ALB,2025,,,,,,2,,0,2
 Algeria,DZA,1910,,12,,,,,,,12
 Algeria,DZA,1927,,,,3000,,,,,3000
 Algeria,DZA,1946,,276,,,,,,,276
@@ -232,9 +232,9 @@ Algeria,DZA,2024,,,,5,,,,,5
 Algeria,DZA,2025,,,,5,,,,,5
 American Samoa,ASM,1966,,,,,,90,,,90
 American Samoa,ASM,1989,,,,,,0,,,0
+American Samoa,ASM,1991,,,,,,1,,,1
 American Samoa,ASM,2003,,,,6,,,,,6
 American Samoa,ASM,2004,,,,,,0,,,0
-American Samoa,ASM,2005,,,,,,0,,,0
 American Samoa,ASM,2009,,34,,,,,,,34
 Angola,AGO,1981,0,,,,,,,,0
 Angola,AGO,1985,0,,,,,,,,0
@@ -326,7 +326,7 @@ Argentina,ARG,2001,,,,1,,20,0,14,35
 Argentina,ARG,2002,,0,,4,,3,,0,7
 Argentina,ARG,2003,0,,,27,,12,,,39
 Argentina,ARG,2004,,,,5,,,,5,10
-Argentina,ARG,2005,,,,,,11,,,11
+Argentina,ARG,2005,,,,,,13,,,13
 Argentina,ARG,2006,,,,0,,,,,0
 Argentina,ARG,2007,,,,10,,,,9,19
 Argentina,ARG,2008,,,0,0,,,,,0
@@ -346,7 +346,7 @@ Argentina,ARG,2021,4,0,,0,,,15,,19
 Argentina,ARG,2022,,,,,,,0,,0
 Argentina,ARG,2023,,,,0,,13,0,,13
 Argentina,ARG,2024,,,,0,,1,,,1
-Argentina,ARG,2025,,,,125,,9,1,,135
+Argentina,ARG,2025,,,,129,,9,1,,139
 Armenia,ARM,1931,,2890,,,,,,,2890
 Armenia,ARM,1997,,0,,4,,,,,4
 Armenia,ARM,1998,,,,0,,,,,0
@@ -439,32 +439,32 @@ Asia,OWID_ASI,1976,0,253038,40,738,242,936,,,254994
 Asia,OWID_ASI,1977,0,1332,3,1835,27,15155,,,18352
 Asia,OWID_ASI,1978,63,25098,0,5639,86,3310,,150,34346
 Asia,OWID_ASI,1979,0,1245,257,453,295,1008,0,470,3728
-Asia,OWID_ASI,1980,0,165,0,10101,340,1064,,129,11799
-Asia,OWID_ASI,1981,0,3912,192,4606,240,3528,8,300,12786
-Asia,OWID_ASI,1982,280,2140,30,2457,394,1681,0,400,7382
-Asia,OWID_ASI,1983,0,1549,0,1450,688,3052,0,,6739
-Asia,OWID_ASI,1984,230,53,0,2548,161,3437,0,290,6719
-Asia,OWID_ASI,1985,0,107,0,3216,360,16687,13,328,20711
+Asia,OWID_ASI,1980,0,165,0,10101,340,1028,,129,11763
+Asia,OWID_ASI,1981,0,3912,192,4606,240,3636,8,300,12894
+Asia,OWID_ASI,1982,280,2140,30,2457,394,1683,0,400,7384
+Asia,OWID_ASI,1983,0,1549,0,1450,688,3062,0,,6749
+Asia,OWID_ASI,1984,230,53,0,2548,161,3456,0,290,6738
+Asia,OWID_ASI,1985,0,107,0,3216,360,16696,13,328,20720
 Asia,OWID_ASI,1986,84,35,0,1334,200,1685,0,2,3340
-Asia,OWID_ASI,1987,300,131,0,5468,266,2489,191,140,8985
-Asia,OWID_ASI,1988,1400,2033,7,7006,899,2524,,450,14319
-Asia,OWID_ASI,1989,0,263,0,4272,262,3964,,297,9058
-Asia,OWID_ASI,1990,0,42593,33,1685,124,4148,0,583,49166
-Asia,OWID_ASI,1991,2000,2021,683,5114,258,146055,57,707,156895
-Asia,OWID_ASI,1992,0,3280,0,4990,956,1174,56,368,10824
-Asia,OWID_ASI,1993,0,10013,83,4901,834,2454,,,18285
+Asia,OWID_ASI,1987,300,131,0,5468,266,2516,191,140,9012
+Asia,OWID_ASI,1988,1400,2033,7,7006,899,2999,,450,14794
+Asia,OWID_ASI,1989,0,263,0,4272,262,4211,,297,9305
+Asia,OWID_ASI,1990,0,42593,33,1685,124,4477,0,583,49495
+Asia,OWID_ASI,1991,2000,2021,683,5114,258,146143,57,707,156983
+Asia,OWID_ASI,1992,0,3280,0,4990,956,1177,56,368,10827
+Asia,OWID_ASI,1993,0,10013,83,5337,778,2455,,,18666
 Asia,OWID_ASI,1994,0,717,96,5117,267,2383,0,294,8874
-Asia,OWID_ASI,1995,0,5561,0,6415,1305,3162,29,678,17150
-Asia,OWID_ASI,1996,0,528,,7537,774,4006,25,232,13102
-Asia,OWID_ASI,1997,672,2941,1,4036,421,4791,240,173,13275
-Asia,OWID_ASI,1998,8,7283,0,9664,600,5016,5,2761,25337
-Asia,OWID_ASI,1999,5,20456,,3438,236,11402,61,151,35749
+Asia,OWID_ASI,1995,0,5561,0,6415,1305,3195,29,678,17183
+Asia,OWID_ASI,1996,0,528,,7149,774,4514,25,232,13222
+Asia,OWID_ASI,1997,672,2941,1,4036,421,4812,240,173,13296
+Asia,OWID_ASI,1998,8,7283,0,9664,600,4992,5,2761,25313
+Asia,OWID_ASI,1999,5,20456,,3438,236,11542,61,151,35889
 Asia,OWID_ASI,2000,51,205,0,4218,780,929,2,370,6555
-Asia,OWID_ASI,2001,59,20031,0,3004,636,1625,,538,25893
-Asia,OWID_ASI,2002,49,1554,0,3010,697,832,0,2357,8499
-Asia,OWID_ASI,2003,36,27300,,2847,432,612,0,2137,33364
-Asia,OWID_ASI,2004,,226336,2,3092,405,2996,0,448,233279
-Asia,OWID_ASI,2005,0,76213,0,4557,585,1310,0,598,83263
+Asia,OWID_ASI,2001,59,20031,0,3004,636,2168,,538,26436
+Asia,OWID_ASI,2002,49,1554,0,3010,697,845,0,2357,8512
+Asia,OWID_ASI,2003,36,27300,,2847,356,710,0,2137,33386
+Asia,OWID_ASI,2004,,226336,2,3092,405,3082,0,448,233365
+Asia,OWID_ASI,2005,0,76213,0,4557,585,1377,0,598,83330
 Asia,OWID_ASI,2006,134,6684,0,4012,1585,4200,0,286,16901
 Asia,OWID_ASI,2007,0,119,6,7001,235,4925,1,356,12643
 Asia,OWID_ASI,2008,0,87842,0,2758,418,139788,2,1568,232376
@@ -484,7 +484,7 @@ Asia,OWID_ASI,2021,0,163,71,3447,181,1265,9,,5136
 Asia,OWID_ASI,2022,0,1732,0,4947,159,736,4,111,7689
 Asia,OWID_ASI,2023,0,60504,23,2880,227,432,15,380,64461
 Asia,OWID_ASI,2024,0,731,10,2669,904,1668,4,4065,10051
-Asia,OWID_ASI,2025,0,6330,0,2332,322,3066,44,0,12094
+Asia,OWID_ASI,2025,0,6330,0,2440,322,3194,44,101,12431
 Australia,AUS,1939,,,,,,,71,,71
 Australia,AUS,1944,,,,,,,49,,49
 Australia,AUS,1955,,,,25,,,,,25
@@ -507,16 +507,16 @@ Australia,AUS,1984,,,,36,,,,,36
 Australia,AUS,1985,,,,,,27,11,,38
 Australia,AUS,1986,,,,8,,7,,,15
 Australia,AUS,1988,,,,16,,1,,,17
-Australia,AUS,1989,,12,,9,,12,,,33
+Australia,AUS,1989,,12,,9,,15,,,36
 Australia,AUS,1990,,,,7,,0,0,,7
 Australia,AUS,1991,0,,,5,,0,,,5
 Australia,AUS,1992,0,,,,,2,,,2
-Australia,AUS,1993,0,,,1,,0,,17,18
-Australia,AUS,1994,0,0,,,,27,4,5,36
+Australia,AUS,1993,0,,,1,,0,1,17,19
+Australia,AUS,1994,0,0,,,,27,3,5,35
 Australia,AUS,1995,0,,,,,8,,1,9
 Australia,AUS,1996,,,,5,9,7,,,21
-Australia,AUS,1997,,,,0,19,,2,,21
-Australia,AUS,1998,,,,20,,,,,20
+Australia,AUS,1997,,,,0,19,7,2,,28
+Australia,AUS,1998,,,,18,,2,,,20
 Australia,AUS,1999,,,,,,7,1,,8
 Australia,AUS,2000,,,,0,,1,0,,1
 Australia,AUS,2001,,,,4,,2,0,,6
@@ -578,6 +578,7 @@ Austria,AUT,2021,,,,1,,,,,1
 Austria,AUT,2022,,,,,,5,,419,424
 Austria,AUT,2023,,,,,8,,,486,494
 Austria,AUT,2024,,,,,,5,,1055,1060
+Austria,AUT,2025,,,,,,,,180,180
 Azerbaijan,AZE,1995,,,,5,,,,,5
 Azerbaijan,AZE,1997,,,,11,,,,,11
 Azerbaijan,AZE,1998,,1,,,,,,,1
@@ -599,14 +600,15 @@ Bahamas,BHS,1988,,,,0,,,,,0
 Bahamas,BHS,1990,,,,,,0,,,0
 Bahamas,BHS,1992,,,,,,4,,,4
 Bahamas,BHS,1995,,,,,,0,,,0
-Bahamas,BHS,1999,,,,,,1,,,1
+Bahamas,BHS,1998,,,,,,1,,,1
+Bahamas,BHS,1999,,,,,,6,,,6
 Bahamas,BHS,2001,,,,,,0,,,0
 Bahamas,BHS,2004,,,,,,12,,,12
 Bahamas,BHS,2005,,,,,,1,,,1
 Bahamas,BHS,2007,,,,,,1,,,1
 Bahamas,BHS,2008,,,,,,0,,,0
 Bahamas,BHS,2011,,,,,,0,,,0
-Bahamas,BHS,2012,,,,,,1,,,1
+Bahamas,BHS,2012,,,,,,2,,,2
 Bahamas,BHS,2013,,,,0,,,,,0
 Bahamas,BHS,2015,,,,,,33,,,33
 Bahamas,BHS,2016,,,,,,0,,,0
@@ -758,6 +760,7 @@ Belgium,BEL,2021,,,,39,,0,,,39
 Belgium,BEL,2022,,,,,,2,,434,436
 Belgium,BEL,2023,,,,0,,2,,324,326
 Belgium,BEL,2024,,,,,,,,249,249
+Belgium,BEL,2025,,,,,,,,269,269
 Belize,BLZ,1931,,,,,,1500,,,1500
 Belize,BLZ,1955,,,,,,16,,,16
 Belize,BLZ,1961,,,,,,275,,,275
@@ -769,6 +772,7 @@ Belize,BLZ,1995,,,,0,,,,,0
 Belize,BLZ,1998,,,,,,9,,,9
 Belize,BLZ,2000,,,,,,14,,,14
 Belize,BLZ,2001,,,,,,30,,,30
+Belize,BLZ,2004,,,,,,0,,,0
 Belize,BLZ,2005,,,,,,3,,,3
 Belize,BLZ,2007,,,,,,0,,,0
 Belize,BLZ,2008,,,,1,,7,,,8
@@ -886,7 +890,7 @@ Bosnia and Herzegovina,BIH,2021,,,,0,,,,,0
 Bosnia and Herzegovina,BIH,2022,,1,,1,,,,,2
 Bosnia and Herzegovina,BIH,2023,,,,0,,1,,,1
 Bosnia and Herzegovina,BIH,2024,,,,27,,,,909,936
-Bosnia and Herzegovina,BIH,2025,,,,0,,,,,0
+Bosnia and Herzegovina,BIH,2025,,,,0,,,,0,0
 Botswana,BWA,1965,0,,,,,,,,0
 Botswana,BWA,1968,0,,,,,,,,0
 Botswana,BWA,1970,0,,,,,,,,0
@@ -976,7 +980,10 @@ Brazil,BRA,2022,0,,,541,,,,,541
 Brazil,BRA,2023,0,,,124,,47,,,171
 Brazil,BRA,2024,0,,,271,,4,,,275
 Brazil,BRA,2025,0,,,0,27,16,,,43
+British Virgin Islands,VGB,1989,,,,,,0,,,0
 British Virgin Islands,VGB,1996,,,,,,0,,,0
+British Virgin Islands,VGB,1998,,,,,,0,,,0
+British Virgin Islands,VGB,1999,,,,,,0,,,0
 British Virgin Islands,VGB,2017,,,,,,9,,,9
 Brunei,BRN,1998,,,,,,,0,,0
 Bulgaria,BGR,1928,,107,,,,,,,107
@@ -1006,7 +1013,7 @@ Bulgaria,BGR,2021,,,,0,,,0,,0
 Bulgaria,BGR,2022,,,,0,,,,1277,1277
 Bulgaria,BGR,2023,,,,4,,4,,1670,1678
 Bulgaria,BGR,2024,,,,,,,,3414,3414
-Bulgaria,BGR,2025,,,,4,,,,,4
+Bulgaria,BGR,2025,,,,4,,,,866,870
 Burkina Faso,BFA,1910,0,,,,,,,,0
 Burkina Faso,BFA,1911,0,,,,,,,,0
 Burkina Faso,BFA,1912,0,,,,,,,,0
@@ -1181,9 +1188,9 @@ Canada,CAN,1985,0,,,,,12,0,,12
 Canada,CAN,1986,,,,0,,0,0,,0
 Canada,CAN,1987,,,,1,,26,,,27
 Canada,CAN,1988,0,,,2,,,,,2
-Canada,CAN,1989,,,,,,0,1,,1
+Canada,CAN,1989,,,,,,,1,,1
 Canada,CAN,1990,,,,8,,,,,8
-Canada,CAN,1991,,,,,,0,,,0
+Canada,CAN,1991,,,,,,2,,,2
 Canada,CAN,1992,,,,,,,0,0,0
 Canada,CAN,1993,,,,0,,,,0,0
 Canada,CAN,1994,,,,,,0,0,,0
@@ -1195,7 +1202,7 @@ Canada,CAN,1999,,,,,,7,0,,7
 Canada,CAN,2000,,,,,,11,,,11
 Canada,CAN,2001,,,,,,11,0,,11
 Canada,CAN,2002,,,,0,,,0,,0
-Canada,CAN,2003,,,,4,,2,1,,7
+Canada,CAN,2003,,,,4,,3,1,,8
 Canada,CAN,2004,,,,0,,0,,,0
 Canada,CAN,2005,,,,4,,0,0,,4
 Canada,CAN,2006,,,,1,,,,,1
@@ -1203,7 +1210,7 @@ Canada,CAN,2007,,,,0,,6,,,6
 Canada,CAN,2008,,,,0,,,,,0
 Canada,CAN,2009,,,,0,,2,,,2
 Canada,CAN,2011,,,,5,,1,1,,7
-Canada,CAN,2012,,,,0,,0,,,0
+Canada,CAN,2012,,,,0,,2,,,2
 Canada,CAN,2013,,,,4,,0,,10,14
 Canada,CAN,2014,,,,0,,,,0,0
 Canada,CAN,2015,,,,,,,0,,0
@@ -1255,6 +1262,7 @@ Cayman Islands,CYM,2001,,,,,,0,,,0
 Cayman Islands,CYM,2002,,,,,,0,,,0
 Cayman Islands,CYM,2004,,,,,,2,,,2
 Cayman Islands,CYM,2008,,,,,,0,,,0
+Cayman Islands,CYM,2024,,,,,,0,,,0
 Central African Republic,CAF,1973,,,,0,,,,,0
 Central African Republic,CAF,1981,,,,,,0,,,0
 Central African Republic,CAF,1983,0,,,,,,,,0
@@ -1447,31 +1455,31 @@ China,CHN,1977,,,,,,9,,,9
 China,CHN,1978,0,,,,,,,,0
 China,CHN,1979,0,42,,,,100,,,142
 China,CHN,1980,0,,,6303,,188,,,6491
-China,CHN,1981,0,150,,2315,,0,0,,2465
+China,CHN,1981,0,150,,2315,,76,0,,2541
 China,CHN,1982,0,10,,447,94,,,,551
 China,CHN,1983,0,34,,100,277,510,,,921
 China,CHN,1984,,,,31,100,13,,,144
-China,CHN,1985,0,89,,1216,60,296,,,1661
+China,CHN,1985,0,89,,1216,60,298,,,1663
 China,CHN,1986,0,0,,313,,368,,2,683
 China,CHN,1987,,0,,219,65,406,191,,881
-China,CHN,1988,1400,939,,1243,52,335,,,3969
-China,CHN,1989,,42,,2000,4,1115,,,3161
-China,CHN,1990,,127,,495,73,629,,,1324
-China,CHN,1991,2000,1,,1861,200,255,,,4317
+China,CHN,1988,1400,939,,1243,52,352,,,3986
+China,CHN,1989,,42,,2000,4,1324,,,3370
+China,CHN,1990,,127,,495,73,921,,,1616
+China,CHN,1991,2000,1,,1861,200,298,,,4360
 China,CHN,1992,0,0,,540,49,860,,,1449
 China,CHN,1993,,0,,1231,120,214,,,1565
 China,CHN,1994,0,1,,1564,48,1486,,104,3203
-China,CHN,1995,0,71,,1618,37,681,29,,2436
+China,CHN,1995,0,71,,1618,37,651,29,,2406
 China,CHN,1996,,353,,4091,531,637,,,5612
 China,CHN,1997,0,32,,1090,189,282,,40,1633
 China,CHN,1998,,55,,4250,100,96,,,4501
-China,CHN,1999,0,0,,1185,23,496,23,,1727
+China,CHN,1999,0,0,,1185,23,512,23,,1743
 China,CHN,2000,0,9,,396,85,173,,,663
 China,CHN,2001,0,8,,402,168,344,,,922
 China,CHN,2002,0,2,,1246,63,108,,7,1426
-China,CHN,2003,0,317,,662,52,61,0,,1092
+China,CHN,2003,0,317,,662,52,63,0,,1094
 China,CHN,2004,,4,,450,65,249,,39,807
-China,CHN,2005,0,16,,578,,426,,0,1020
+China,CHN,2005,0,16,,578,,493,,0,1087
 China,CHN,2006,134,23,,430,22,1500,,,2109
 China,CHN,2007,,3,,1010,33,95,,,1141
 China,CHN,2008,0,87564,,352,323,66,,145,88450
@@ -1527,7 +1535,7 @@ Colombia,COL,1989,,,,16,,,,,16
 Colombia,COL,1990,,,,10,,,,,10
 Colombia,COL,1991,,2,,,105,,0,,107
 Colombia,COL,1992,,11,,,,,,,11
-Colombia,COL,1993,,2,10,63,95,,,,170
+Colombia,COL,1993,,2,10,63,95,1,,,171
 Colombia,COL,1994,,271,,37,,,,,308
 Colombia,COL,1995,,55,,69,17,,,,141
 Colombia,COL,1996,,,,12,5,,,,17
@@ -1564,6 +1572,7 @@ Comoros,COM,1903,,,17,,,,,,17
 Comoros,COM,1951,,,,,,500,,,500
 Comoros,COM,1977,,,1,,,,,,1
 Comoros,COM,1983,,,,,,33,,,33
+Comoros,COM,1984,,,,,,1,,,1
 Comoros,COM,1985,,,,,,2,,,2
 Comoros,COM,1987,,,,,,24,,,24
 Comoros,COM,1989,,,,,,0,,,0
@@ -1621,14 +1630,14 @@ Costa Rica,CRI,1988,,,,7,,28,,,35
 Costa Rica,CRI,1990,,1,,,,,,,1
 Costa Rica,CRI,1991,,47,0,1,,,,,48
 Costa Rica,CRI,1992,,,,,,,0,,0
-Costa Rica,CRI,1993,,3,,9,,,,,12
-Costa Rica,CRI,1994,0,,,2,,,,,2
+Costa Rica,CRI,1993,,3,,9,,1,,,13
+Costa Rica,CRI,1994,0,,,2,,6,,,8
 Costa Rica,CRI,1995,,,,,,0,,,0
 Costa Rica,CRI,1996,,,,6,,54,,,60
 Costa Rica,CRI,1998,0,,0,,,8,,,8
 Costa Rica,CRI,1999,,,,9,,,,,9
 Costa Rica,CRI,2000,,,,,7,,,,7
-Costa Rica,CRI,2001,,,,0,,,,,0
+Costa Rica,CRI,2001,,,,0,,0,,,0
 Costa Rica,CRI,2002,,,,10,,,,,10
 Costa Rica,CRI,2003,,2,,1,,,,,3
 Costa Rica,CRI,2004,,8,,2,,,,,10
@@ -1685,7 +1694,7 @@ Croatia,HRV,2020,,9,,,,,,,9
 Croatia,HRV,2022,,,,0,,,,731,731
 Croatia,HRV,2023,,,,0,,1,,561,562
 Croatia,HRV,2024,,,,,,,,1255,1255
-Croatia,HRV,2025,,,,0,,,,,0
+Croatia,HRV,2025,,,,0,,,,394,394
 Cuba,CUB,1909,,,,,,29,,,29
 Cuba,CUB,1912,,,,,,5,,,5
 Cuba,CUB,1926,,,,,,600,,,600
@@ -1714,7 +1723,7 @@ Cuba,CUB,1988,,,,23,,0,,,23
 Cuba,CUB,1990,,,,4,,,,,4
 Cuba,CUB,1992,,0,,0,,,,,0
 Cuba,CUB,1993,,,,46,,5,,,51
-Cuba,CUB,1994,,,,12,,2,,,14
+Cuba,CUB,1994,,,,12,,4,,,16
 Cuba,CUB,1995,,,,0,,2,,,2
 Cuba,CUB,1996,,,,3,,0,,,3
 Cuba,CUB,1997,,,,0,,,,,0
@@ -1755,7 +1764,7 @@ Cyprus,CYP,2021,,,,,,,4,,4
 Cyprus,CYP,2022,,,,,,,,101,101
 Cyprus,CYP,2023,,,,,,,,151,151
 Cyprus,CYP,2024,,,,0,,,,218,218
-Cyprus,CYP,2025,,,,,,,2,,2
+Cyprus,CYP,2025,,,,,,,2,49,51
 Czechia,CZE,1996,,,,1,,,,,1
 Czechia,CZE,1997,,,,29,,,,,29
 Czechia,CZE,1998,,,,6,,,,,6
@@ -1777,6 +1786,7 @@ Czechia,CZE,2021,,,,0,,6,,,6
 Czechia,CZE,2022,,,,,,1,,279,280
 Czechia,CZE,2023,,,,0,,,,361,361
 Czechia,CZE,2024,,,,,,13,,544,557
+Czechia,CZE,2025,,,,,,,,144,144
 Czechoslovakia,OWID_CZS,1974,,,,,14,,,,14
 Czechoslovakia,OWID_CZS,1981,,,,4,,,,0,4
 Czechoslovakia,OWID_CZS,1985,,,,,10,,,0,10
@@ -1832,6 +1842,7 @@ Denmark,DNK,2013,,,,,,2,,,2
 Denmark,DNK,2022,,,,,,1,,252,253
 Denmark,DNK,2023,,,,,,,,189,189
 Denmark,DNK,2024,,,,,,,,174,174
+Denmark,DNK,2025,,,,,,,,22,22
 Djibouti,DJI,1977,,,,0,,,,,0
 Djibouti,DJI,1978,,,,0,,,,,0
 Djibouti,DJI,1980,0,,,,,,,,0
@@ -1887,12 +1898,13 @@ Dominican Republic,DOM,1983,,,,,,,0,,0
 Dominican Republic,DOM,1985,,,,12,,,,,12
 Dominican Republic,DOM,1986,,,,,,12,,,12
 Dominican Republic,DOM,1987,,,,,,3,,,3
-Dominican Republic,DOM,1988,,,,0,,,,,0
+Dominican Republic,DOM,1988,,,,0,,5,,,5
 Dominican Republic,DOM,1989,,,,,,0,,,0
 Dominican Republic,DOM,1991,,,,10,,,,,10
 Dominican Republic,DOM,1993,,,,30,,,,,30
+Dominican Republic,DOM,1994,,,,,,5,,,5
 Dominican Republic,DOM,1995,,,,,,11,,,11
-Dominican Republic,DOM,1996,,,,3,,24,,,27
+Dominican Republic,DOM,1996,,,,3,,27,,,30
 Dominican Republic,DOM,1998,,,,,,347,,,347
 Dominican Republic,DOM,2001,,,,,,3,,,3
 Dominican Republic,DOM,2002,,,,3,,,,,3
@@ -2007,12 +2019,12 @@ El Salvador,SLV,1951,,1100,,,,,,,1100
 El Salvador,SLV,1965,,125,,,,,,,125
 El Salvador,SLV,1969,,,,,,2,,,2
 El Salvador,SLV,1974,,,,,,10,,,10
-El Salvador,SLV,1982,,20,,500,,,,,520
+El Salvador,SLV,1982,,20,,,,500,,,520
 El Salvador,SLV,1986,,1100,,,,,,,1100
 El Salvador,SLV,1988,,,,33,22,,,,55
 El Salvador,SLV,1989,,,,10,,,,,10
 El Salvador,SLV,1992,,,,2,,,,,2
-El Salvador,SLV,1993,,,,,22,,,,22
+El Salvador,SLV,1993,,,,9,22,,,,31
 El Salvador,SLV,1994,0,,,,,,,,0
 El Salvador,SLV,1995,,,,8,,,,,8
 El Salvador,SLV,1996,,,,,,12,,,12
@@ -2058,6 +2070,7 @@ Estonia,EST,2018,,,,,,,,7,7
 Estonia,EST,2022,,,,,,,,167,167
 Estonia,EST,2023,,,,,,,,103,103
 Estonia,EST,2024,,,,,,,,85,85
+Estonia,EST,2025,,,,,,,,24,24
 Eswatini,SWZ,1983,500,,,,,,,,500
 Eswatini,SWZ,1984,,,,,,53,,,53
 Eswatini,SWZ,1990,0,,,,,,,,0
@@ -2081,6 +2094,8 @@ Eswatini,SWZ,2017,0,,,,,,,,0
 Eswatini,SWZ,2019,0,,,,,,,,0
 Eswatini,SWZ,2021,,,,,,0,,,0
 Eswatini,SWZ,2022,,,,,,0,,,0
+Eswatini,SWZ,2023,0,,,,,,,,0
+Eswatini,SWZ,2024,0,,,,,,,,0
 Ethiopia,ETH,1961,,30,,,,,,,30
 Ethiopia,ETH,1965,2000,,,,,,,,2000
 Ethiopia,ETH,1968,,,,1,,,,,1
@@ -2209,9 +2224,9 @@ Europe,OWID_EUR,1986,0,26,,3,,11,20,,60
 Europe,OWID_EUR,1987,,,,142,135,135,0,1000,1412
 Europe,OWID_EUR,1988,,25000,,16,0,,,94,25110
 Europe,OWID_EUR,1989,0,274,,29,98,55,,,456
-Europe,OWID_EUR,1990,0,37,,19,57,257,0,5,375
+Europe,OWID_EUR,1990,0,37,,19,57,269,0,5,387
 Europe,OWID_EUR,1991,0,274,0,120,50,89,0,25,558
-Europe,OWID_EUR,1992,0,1,,23,0,48,66,,138
+Europe,OWID_EUR,1992,0,1,,23,0,51,66,,141
 Europe,OWID_EUR,1993,0,1,,163,299,38,,41,542
 Europe,OWID_EUR,1994,0,11,,211,,45,21,42,330
 Europe,OWID_EUR,1995,0,2043,,6,51,182,0,258,2540
@@ -2219,7 +2234,7 @@ Europe,OWID_EUR,1996,,0,0,53,87,8,19,16,183
 Europe,OWID_EUR,1997,0,14,,135,29,113,14,139,444
 Europe,OWID_EUR,1998,0,10,,141,169,54,17,278,669
 Europe,OWID_EUR,1999,0,144,,108,97,252,0,348,949
-Europe,OWID_EUR,2000,2,0,,93,62,61,23,417,658
+Europe,OWID_EUR,2000,2,0,,93,62,64,23,417,661
 Europe,OWID_EUR,2001,0,0,0,108,,32,0,1117,1257
 Europe,OWID_EUR,2002,0,33,,316,123,83,0,441,996
 Europe,OWID_EUR,2003,0,3,,24,,22,24,72272,72345
@@ -2244,7 +2259,7 @@ Europe,OWID_EUR,2021,,1,1,282,23,18,7,0,332
 Europe,OWID_EUR,2022,0,1,,25,12,48,19,61671,61776
 Europe,OWID_EUR,2023,0,0,,49,11,63,44,47688,47855
 Europe,OWID_EUR,2024,0,,,276,,62,10,62775,63123
-Europe,OWID_EUR,2025,,0,,17,,5,5,,27
+Europe,OWID_EUR,2025,,0,,17,,5,13,24306,24341
 European Union (27),OWID_EU27,1904,,4,,,,,,,4
 European Union (27),OWID_EU27,1905,,557,,,,,,,557
 European Union (27),OWID_EU27,1906,,,700,,,,,,700
@@ -2311,7 +2326,7 @@ European Union (27),OWID_EU27,1986,0,23,,2,,11,20,,56
 European Union (27),OWID_EU27,1987,,,,32,57,114,0,1000,1203
 European Union (27),OWID_EU27,1988,,0,,10,,,,56,66
 European Union (27),OWID_EU27,1989,0,,,12,,42,,,54
-European Union (27),OWID_EU27,1990,0,32,,,14,169,0,5,220
+European Union (27),OWID_EU27,1990,0,32,,,14,181,0,5,232
 European Union (27),OWID_EU27,1991,0,0,0,118,,0,0,25,143
 European Union (27),OWID_EU27,1992,0,1,,11,,48,35,,95
 European Union (27),OWID_EU27,1993,0,1,,12,,36,,,49
@@ -2321,7 +2336,7 @@ European Union (27),OWID_EU27,1996,,0,,49,87,3,,16,155
 European Union (27),OWID_EU27,1997,0,14,,123,29,97,0,103,366
 European Union (27),OWID_EU27,1998,,10,,105,169,11,14,209,518
 European Union (27),OWID_EU27,1999,0,143,,92,67,217,0,186,705
-European Union (27),OWID_EU27,2000,0,0,,87,13,26,23,169,318
+European Union (27),OWID_EU27,2000,0,0,,87,13,29,23,169,321
 European Union (27),OWID_EU27,2001,0,0,0,62,,24,0,349,435
 European Union (27),OWID_EU27,2002,0,32,,111,,54,,199,396
 European Union (27),OWID_EU27,2003,0,0,,22,,21,24,70932,70999
@@ -2346,7 +2361,7 @@ European Union (27),OWID_EU27,2021,,1,1,274,,16,6,0,298
 European Union (27),OWID_EU27,2022,0,,,23,12,36,3,56894,56968
 European Union (27),OWID_EU27,2023,0,0,,47,9,28,23,44645,44752
 European Union (27),OWID_EU27,2024,0,,,246,,51,10,58262,58569
-European Union (27),OWID_EU27,2025,,,,7,,3,5,,15
+European Union (27),OWID_EU27,2025,,,,7,,3,13,22287,22310
 Fiji,FJI,1931,,,,,,200,,,200
 Fiji,FJI,1941,,,,,,6,,,6
 Fiji,FJI,1952,,,,,,23,,,23
@@ -2364,6 +2379,7 @@ Fiji,FJI,1983,0,,,,,9,,,9
 Fiji,FJI,1985,,,,,,32,,,32
 Fiji,FJI,1986,,,,19,,1,,,20
 Fiji,FJI,1987,,,,,,1,,,1
+Fiji,FJI,1988,,,,,,6,,,6
 Fiji,FJI,1989,,,,10,,,,,10
 Fiji,FJI,1990,,0,,,,0,,,0
 Fiji,FJI,1992,,,,,,1,,,1
@@ -2392,6 +2408,7 @@ Finland,FIN,2005,,,,0,,,,,0
 Finland,FIN,2022,,,,,,,,225,225
 Finland,FIN,2023,,,,,,,,138,138
 Finland,FIN,2024,,,,,,,,152,152
+Finland,FIN,2025,,,,,,,,105,105
 France,FRA,1909,,46,,,,,,,46
 France,FRA,1910,,,,16,,,,,16
 France,FRA,1926,,,,,28,,,,28
@@ -2417,7 +2434,7 @@ France,FRA,1986,,,,,,,5,,5
 France,FRA,1987,,,,23,,4,,,27
 France,FRA,1988,,,,10,,,,,10
 France,FRA,1989,0,,,,,9,,,9
-France,FRA,1990,,,,,14,43,,5,62
+France,FRA,1990,,,,,14,55,,5,74
 France,FRA,1991,,,,,,,,20,20
 France,FRA,1992,,,,6,,48,,,54
 France,FRA,1993,,,,4,,12,,,16
@@ -2427,7 +2444,7 @@ France,FRA,1996,,,,4,,1,,,5
 France,FRA,1997,0,,,,,,0,23,23
 France,FRA,1998,,,,,9,6,,,15
 France,FRA,1999,,,,36,11,122,0,,169
-France,FRA,2000,,,,3,,6,,,9
+France,FRA,2000,,,,3,,9,,,12
 France,FRA,2001,,,,3,,14,,,17
 France,FRA,2002,,,,25,,5,,,30
 France,FRA,2003,,,,10,,6,5,19490,19511
@@ -2452,7 +2469,7 @@ France,FRA,2021,,,,2,,0,,0,2
 France,FRA,2022,0,,,,,6,,4807,4813
 France,FRA,2023,,0,,0,,2,0,2734,2736
 France,FRA,2024,,,,2,,8,,2451,2461
-France,FRA,2025,,,,,,0,0,,0
+France,FRA,2025,,,,,,0,1,2062,2063
 French Guiana,GUF,1996,,,,0,,,,,0
 French Guiana,GUF,2000,,,,,10,,,,10
 French Guiana,GUF,2020,,,,0,,,,,0
@@ -2544,6 +2561,7 @@ Germany,DEU,1996,,,,,,0,,,0
 Germany,DEU,1997,,,,1,,,,30,31
 Germany,DEU,1998,,,,,,3,,,3
 Germany,DEU,1999,,,,7,5,18,,,30
+Germany,DEU,2000,,,,,,0,,,0
 Germany,DEU,2002,,,,27,,22,,,49
 Germany,DEU,2003,,,,,,15,,9355,9370
 Germany,DEU,2004,,0,,,,2,,,2
@@ -2565,6 +2583,7 @@ Germany,DEU,2021,,,,226,,1,,,227
 Germany,DEU,2022,,,,,,7,,8173,8180
 Germany,DEU,2023,,,,,,4,,6376,6380
 Germany,DEU,2024,,,,12,,,,6282,6294
+Germany,DEU,2025,,,,,,,,2445,2445
 Ghana,GHA,1939,,22,,,,,,,22
 Ghana,GHA,1968,,,,0,,,,,0
 Ghana,GHA,1971,0,,,,,,,,0
@@ -2655,7 +2674,7 @@ Greece,GRC,2021,,1,,,,,2,,3
 Greece,GRC,2022,,,,,,,0,3092,3092
 Greece,GRC,2023,,,,17,,0,23,4339,4379
 Greece,GRC,2024,,,,0,,,1,5980,5981
-Greece,GRC,2025,,,,,,0,,,0
+Greece,GRC,2025,,,,,,0,0,1372,1372
 Grenada,GRD,1963,,,,,,6,,,6
 Grenada,GRD,1975,,,,0,,,,,0
 Grenada,GRD,1980,,,,,,0,,,0
@@ -2676,7 +2695,7 @@ Guadeloupe,GLP,1979,,,,,,0,,,0
 Guadeloupe,GLP,1988,,,,0,,,,,0
 Guadeloupe,GLP,1989,,,,,,5,,,5
 Guadeloupe,GLP,1990,,,,,,0,,,0
-Guadeloupe,GLP,1995,,,,,,0,,,0
+Guadeloupe,GLP,1995,,,,,,1,,,1
 Guadeloupe,GLP,1998,,,,,,0,,,0
 Guadeloupe,GLP,1999,,,,,,4,,,4
 Guadeloupe,GLP,2004,,1,,,,,,,1
@@ -2690,7 +2709,7 @@ Guam,GUM,1992,,,,,,1,,,1
 Guam,GUM,1993,,0,,,,,,,0
 Guam,GUM,1997,,,,,,0,,,0
 Guam,GUM,2002,,,,,,1,,,1
-Guam,GUM,2004,,,,,,1,,,1
+Guam,GUM,2004,,,,,,11,,,11
 Guam,GUM,2023,,,,,,2,,,2
 Guatemala,GTM,1902,,2000,7000,,,,,,9000
 Guatemala,GTM,1917,,2650,,,,,,,2650
@@ -2701,13 +2720,13 @@ Guatemala,GTM,1973,,,,5,,,,,5
 Guatemala,GTM,1974,,,,,,200,,,200
 Guatemala,GTM,1976,,23000,,,,,,,23000
 Guatemala,GTM,1979,,0,,,,,,,0
-Guatemala,GTM,1982,,,,620,,,,,620
+Guatemala,GTM,1982,,,,,,620,,,620
 Guatemala,GTM,1983,,,0,,,,,,0
 Guatemala,GTM,1984,,,0,,,,,,0
 Guatemala,GTM,1985,,0,,,,,,,0
 Guatemala,GTM,1986,,0,,,,,,,0
 Guatemala,GTM,1987,0,,0,84,,,0,,84
-Guatemala,GTM,1988,0,5,,0,,,,,5
+Guatemala,GTM,1988,0,5,,0,,12,,,17
 Guatemala,GTM,1989,,,,10,,,,,10
 Guatemala,GTM,1991,,14,,,23,,,,37
 Guatemala,GTM,1992,,,0,,,,,,0
@@ -2716,7 +2735,7 @@ Guatemala,GTM,1995,,,,31,,,,,31
 Guatemala,GTM,1996,,,0,,,0,,,0
 Guatemala,GTM,1998,,,0,,51,384,,,435
 Guatemala,GTM,1999,,2,,12,,,,,14
-Guatemala,GTM,2000,,,0,36,,,,,36
+Guatemala,GTM,2000,,,0,36,,1,,,37
 Guatemala,GTM,2001,41,6,,,,8,,0,55
 Guatemala,GTM,2002,,,,0,68,2,,,70
 Guatemala,GTM,2003,,,,,22,,0,,22
@@ -2940,39 +2959,39 @@ High-income countries,OWID_HIC,1976,0,946,0,144,25,247,0,,1362
 High-income countries,OWID_HIC,1977,0,1661,3,590,13,307,3,126,2703
 High-income countries,OWID_HIC,1978,0,108,,108,,273,,,489
 High-income countries,OWID_HIC,1979,0,5,9,82,30,396,,,522
-High-income countries,OWID_HIC,1980,0,4761,90,64,,186,0,1260,6361
-High-income countries,OWID_HIC,1981,0,36,,62,66,383,,,547
-High-income countries,OWID_HIC,1982,0,110,,414,53,809,2,0,1388
-High-income countries,OWID_HIC,1983,0,123,0,93,222,380,106,188,1112
-High-income countries,OWID_HIC,1984,0,27,0,262,91,772,17,,1169
-High-income countries,OWID_HIC,1985,0,180,,900,100,510,34,60,1784
-High-income countries,OWID_HIC,1986,0,36,0,63,47,155,20,48,369
+High-income countries,OWID_HIC,1980,0,4761,90,64,,193,0,1260,6368
+High-income countries,OWID_HIC,1981,0,36,,62,66,415,,,579
+High-income countries,OWID_HIC,1982,0,110,,444,53,774,2,0,1383
+High-income countries,OWID_HIC,1983,0,123,0,93,222,397,106,188,1129
+High-income countries,OWID_HIC,1984,0,27,0,262,91,775,17,,1172
+High-income countries,OWID_HIC,1985,0,180,,900,100,377,34,205,1796
+High-income countries,OWID_HIC,1986,0,36,0,53,47,155,20,48,359
 High-income countries,OWID_HIC,1987,,16,,210,99,1000,0,1090,2415
 High-income countries,OWID_HIC,1988,0,0,0,63,25,92,,56,236
-High-income countries,OWID_HIC,1989,0,79,,55,18,346,1,84,583
-High-income countries,OWID_HIC,1990,0,33,,207,14,491,0,56,801
-High-income countries,OWID_HIC,1991,0,79,43,198,141,368,28,25,882
-High-income countries,OWID_HIC,1992,0,2,0,46,0,185,66,0,299
-High-income countries,OWID_HIC,1993,0,247,7,376,394,563,3,106,1696
-High-income countries,OWID_HIC,1994,0,78,,204,0,310,38,47,677
-High-income countries,OWID_HIC,1995,0,7343,0,42,51,430,0,971,8837
-High-income countries,OWID_HIC,1996,,0,0,220,129,446,20,16,831
-High-income countries,OWID_HIC,1997,0,22,0,362,69,338,26,139,956
-High-income countries,OWID_HIC,1998,0,10,0,600,182,457,19,408,1676
-High-income countries,OWID_HIC,1999,0,2409,,229,97,533,2,605,3875
-High-income countries,OWID_HIC,2000,0,1,0,156,73,320,39,456,1045
-High-income countries,OWID_HIC,2001,0,3,0,188,,356,2,1158,1707
-High-income countries,OWID_HIC,2002,0,36,,412,123,482,2,455,1510
-High-income countries,OWID_HIC,2003,0,11,0,95,15,393,47,72272,72833
-High-income countries,OWID_HIC,2004,0,52,,96,2,570,14,79,813
-High-income countries,OWID_HIC,2005,0,12,,360,9,2137,42,671,3231
-High-income countries,OWID_HIC,2006,0,2,,215,4,160,28,3987,4396
+High-income countries,OWID_HIC,1989,0,79,,55,18,409,1,84,646
+High-income countries,OWID_HIC,1990,0,33,,207,14,549,0,56,859
+High-income countries,OWID_HIC,1991,0,79,43,198,141,414,27,25,927
+High-income countries,OWID_HIC,1992,0,2,0,46,0,191,66,0,305
+High-income countries,OWID_HIC,1993,0,247,7,447,338,571,4,106,1720
+High-income countries,OWID_HIC,1994,0,78,,204,0,318,38,47,685
+High-income countries,OWID_HIC,1995,0,7343,0,42,51,432,0,971,8839
+High-income countries,OWID_HIC,1996,,0,0,220,129,479,20,16,864
+High-income countries,OWID_HIC,1997,0,22,0,362,69,362,26,139,980
+High-income countries,OWID_HIC,1998,0,10,0,598,182,513,19,408,1730
+High-income countries,OWID_HIC,1999,0,2409,,229,97,556,2,605,3898
+High-income countries,OWID_HIC,2000,0,1,0,156,73,323,39,456,1048
+High-income countries,OWID_HIC,2001,0,3,0,188,,358,2,1158,1709
+High-income countries,OWID_HIC,2002,0,36,,412,123,495,8,455,1529
+High-income countries,OWID_HIC,2003,0,11,0,95,15,397,48,72272,72838
+High-income countries,OWID_HIC,2004,0,52,,96,2,581,14,79,824
+High-income countries,OWID_HIC,2005,0,12,,360,9,2140,51,671,3243
+High-income countries,OWID_HIC,2006,0,2,,215,4,160,26,3987,4394
 High-income countries,OWID_HIC,2007,0,24,,166,,482,99,634,1405
 High-income countries,OWID_HIC,2008,0,39,0,134,,342,1,182,698
 High-income countries,OWID_HIC,2009,0,366,,244,44,764,190,712,2320
 High-income countries,OWID_HIC,2010,0,562,0,272,,247,105,56272,57458
 High-income countries,OWID_HIC,2011,0,20040,0,160,59,874,9,253,21395
-High-income countries,OWID_HIC,2012,0,27,,284,,374,17,938,1640
+High-income countries,OWID_HIC,2012,0,27,,284,,481,17,938,1747
 High-income countries,OWID_HIC,2013,0,5,,137,,248,34,1152,1576
 High-income countries,OWID_HIC,2014,0,10,63,90,125,323,16,279,906
 High-income countries,OWID_HIC,2015,0,19,0,358,,296,45,3801,4519
@@ -2985,7 +3004,7 @@ High-income countries,OWID_HIC,2021,0,2,1,366,49,577,12,1044,2051
 High-income countries,OWID_HIC,2022,136,6,,113,12,434,29,60777,61507
 High-income countries,OWID_HIC,2023,247,1,,141,11,226,203,46846,47675
 High-income countries,OWID_HIC,2024,0,719,,307,,557,150,61668,63401
-High-income countries,OWID_HIC,2025,89,1,0,210,,242,83,,625
+High-income countries,OWID_HIC,2025,89,1,0,210,,242,91,24306,24939
 Honduras,HND,1931,,,,,,1500,,,1500
 Honduras,HND,1934,,,,,,468,,,468
 Honduras,HND,1961,,,,,,1,,,1
@@ -3002,17 +3021,17 @@ Honduras,HND,1981,,,,0,,,,,0
 Honduras,HND,1982,,0,,,,130,,,130
 Honduras,HND,1984,,,,0,,,,,0
 Honduras,HND,1986,,,,0,,,,,0
-Honduras,HND,1988,,,,19,,0,,,19
+Honduras,HND,1988,,,,19,,12,,,31
 Honduras,HND,1989,,,,,10,,,,10
 Honduras,HND,1990,,,,5,,,,,5
-Honduras,HND,1993,,,,413,,,,,413
+Honduras,HND,1993,,,,413,,7,,,420
 Honduras,HND,1994,0,,,151,,,,,151
 Honduras,HND,1995,,,,14,,18,,,32
-Honduras,HND,1996,,,,7,,1,,,8
+Honduras,HND,1996,,,,7,,9,,,16
 Honduras,HND,1997,0,,,,,,,,0
 Honduras,HND,1998,0,,,,,14600,,,14600
 Honduras,HND,1999,,,,34,,,,,34
-Honduras,HND,2000,0,,,,,,0,,0
+Honduras,HND,2000,0,,,,,6,0,,6
 Honduras,HND,2001,0,,,,,21,,,21
 Honduras,HND,2002,0,,,10,,,,,10
 Honduras,HND,2003,0,,,10,,,,,10
@@ -3076,8 +3095,8 @@ Hong Kong,HKG,1992,,,,5,,2,,,7
 Hong Kong,HKG,1993,,,,,1,89,,,90
 Hong Kong,HKG,1994,,,,1,,,,,1
 Hong Kong,HKG,1997,,,,80,,1,,,81
-Hong Kong,HKG,1999,,,,,,2,,,2
-Hong Kong,HKG,2003,,,,,,4,,,4
+Hong Kong,HKG,1999,,,,,,3,,,3
+Hong Kong,HKG,2003,,,,,,5,,,5
 Hong Kong,HKG,2008,,,,,,2,,,2
 Hong Kong,HKG,2009,,,,,,0,,,0
 Hong Kong,HKG,2010,,,,,,1,,,1
@@ -3113,6 +3132,7 @@ Hungary,HUN,2019,,,,,,0,,118,118
 Hungary,HUN,2022,,,,,,,,513,513
 Hungary,HUN,2023,,,,,,,,294,294
 Hungary,HUN,2024,,,,,,,,1443,1443
+Hungary,HUN,2025,,,,,,,,362,362
 Iceland,ISL,1973,,,0,,,,,,0
 Iceland,ISL,1974,,,,,12,,,,12
 Iceland,ISL,1976,,1,,,,,,,1
@@ -3178,20 +3198,20 @@ India,IND,1984,,20,,740,,524,0,290,1574
 India,IND,1985,,,,1656,,178,,328,2162
 India,IND,1986,,6,,251,153,390,,,800
 India,IND,1987,300,,,1314,,166,,100,1880
-India,IND,1988,,382,,2100,505,74,,450,3511
+India,IND,1988,,382,,2100,505,532,,450,3969
 India,IND,1989,,,,1609,86,93,,127,1915
 India,IND,1990,,,,224,30,1843,,264,2361
 India,IND,1991,,1500,,1016,,125,,,2641
 India,IND,1992,,,,746,60,85,,275,1166
-India,IND,1993,0,9748,,1264,20,186,,,11218
+India,IND,1993,0,9748,,1629,20,186,,,11583
 India,IND,1994,,,,2015,,219,,161,2395
 India,IND,1995,,,,1514,640,222,,558,2934
-India,IND,1996,0,,,1291,48,1537,,,2876
+India,IND,1996,0,,,903,48,2017,,,2968
 India,IND,1997,,43,,2357,51,25,,,2476
 India,IND,1998,,,,2131,374,3471,,2641,8617
 India,IND,1999,,100,,554,,10378,6,140,11178
 India,IND,2000,8,,,2086,187,0,,275,2556
-India,IND,2001,12,20005,,581,98,99,,173,20968
+India,IND,2001,12,20005,,581,98,609,,173,21478
 India,IND,2002,0,2,,735,,144,,1930,2811
 India,IND,2003,,,,452,25,164,,1351,1992
 India,IND,2004,,16389,,1348,,,,259,17996
@@ -3215,7 +3235,7 @@ India,IND,2021,,2,,1807,68,249,,,2126
 India,IND,2022,,,,2098,67,20,,25,2210
 India,IND,2023,,,,1802,64,79,,190,2135
 India,IND,2024,,,,285,388,101,,733,1507
-India,IND,2025,,,,405,154,158,,,717
+India,IND,2025,,,,405,154,158,,84,801
 Indonesia,IDN,1913,,138,,,,,,,138
 Indonesia,IDN,1914,,20,,,,,,,20
 Indonesia,IDN,1917,,15000,,,,,,,15000
@@ -3274,7 +3294,7 @@ Indonesia,IDN,1999,,5,,12,89,,0,,106
 Indonesia,IDN,2000,,149,,264,126,,0,,539
 Indonesia,IDN,2001,,0,,399,185,,,,584
 Indonesia,IDN,2002,,11,0,233,32,,0,,276
-Indonesia,IDN,2003,0,1,,386,119,,,,506
+Indonesia,IDN,2003,0,1,,386,43,76,,,506
 Indonesia,IDN,2004,,165816,2,33,119,4,,,165974
 Indonesia,IDN,2005,,916,0,94,168,,0,,1178
 Indonesia,IDN,2006,,6592,0,637,184,,0,,7413
@@ -3296,7 +3316,7 @@ Indonesia,IDN,2021,,122,71,58,32,226,,,509
 Indonesia,IDN,2022,,349,0,57,,,,,406
 Indonesia,IDN,2023,0,6,23,6,60,1,,,96
 Indonesia,IDN,2024,,2,10,154,124,,,,290
-Indonesia,IDN,2025,,2,0,85,77,1109,,,1273
+Indonesia,IDN,2025,,2,0,85,77,1345,,,1509
 Iran,IRN,1903,,350,,,,,,,350
 Iran,IRN,1909,,5000,,,,,,,5000
 Iran,IRN,1911,,700,,,,,,,700
@@ -3429,6 +3449,7 @@ Ireland,IRL,2020,,,,,,0,,,0
 Ireland,IRL,2022,,,,,,1,,26,27
 Ireland,IRL,2023,,,,,,,,60,60
 Ireland,IRL,2024,,,,,,0,,37,37
+Ireland,IRL,2025,,,,,,,,13,13
 Israel,ISR,1903,,20,,,,,,,20
 Israel,ISR,1970,,,,,20,,,,20
 Israel,ISR,1983,,,,,,,0,,0
@@ -3516,7 +3537,7 @@ Italy,ITA,2021,,,,1,,,0,,1
 Italy,ITA,2022,0,,,23,12,2,,18010,18047
 Italy,ITA,2023,0,,,17,1,10,,12743,12771
 Italy,ITA,2024,0,,,,,4,,19038,19042
-Italy,ITA,2025,,,,0,,2,,,2
+Italy,ITA,2025,,,,0,,2,,6710,6712
 Jamaica,JAM,1900,,,,300,,,,,300
 Jamaica,JAM,1903,,,,,,65,,,65
 Jamaica,JAM,1907,,1200,,,,,,,1200
@@ -3542,8 +3563,10 @@ Jamaica,JAM,1987,,,,9,,,,,9
 Jamaica,JAM,1988,,,,0,,49,,,49
 Jamaica,JAM,1991,,,,15,,,,,15
 Jamaica,JAM,1993,,,,9,,,,,9
-Jamaica,JAM,1994,,,,,,4,,,4
+Jamaica,JAM,1994,,,,,,8,,,8
+Jamaica,JAM,1995,,,,,,7,,,7
 Jamaica,JAM,1996,,,,,,0,,,0
+Jamaica,JAM,1998,,,,,,3,,,3
 Jamaica,JAM,2000,0,,,,,,,,0
 Jamaica,JAM,2001,,,,,,1,,,1
 Jamaica,JAM,2002,,,,9,,4,,,13
@@ -3553,11 +3576,11 @@ Jamaica,JAM,2006,,,,1,,,,,1
 Jamaica,JAM,2007,,,,,,5,,,5
 Jamaica,JAM,2008,,,,,,13,,,13
 Jamaica,JAM,2010,,,,,,15,,,15
-Jamaica,JAM,2012,,,,,,1,,,1
+Jamaica,JAM,2012,,,,,,2,,,2
 Jamaica,JAM,2014,0,,,,,,,,0
 Jamaica,JAM,2016,,,,,,0,,,0
 Jamaica,JAM,2017,,,,,,0,,,0
-Jamaica,JAM,2024,,,,,,5,,,5
+Jamaica,JAM,2024,,,,,,6,,,6
 Jamaica,JAM,2025,,,,,,62,,,62
 Japan,JPN,1900,,,30,,,,,,30
 Japan,JPN,1901,,18,,,,,,,18
@@ -3617,28 +3640,28 @@ Japan,JPN,1978,,53,,8,,6,,,67
 Japan,JPN,1979,,,,23,,71,,,94
 Japan,JPN,1980,,2,,20,,7,,,29
 Japan,JPN,1981,,,,,40,163,,,203
-Japan,JPN,1982,,110,,345,,218,,,673
+Japan,JPN,1982,,110,,345,,220,,,675
 Japan,JPN,1983,,103,0,,187,109,,,399
 Japan,JPN,1984,,20,,,14,66,,,100
 Japan,JPN,1985,,,,,,49,,,49
 Japan,JPN,1986,,,0,14,33,17,,,64
 Japan,JPN,1987,,2,,,,8,,,10
 Japan,JPN,1988,,,,27,,,,,27
-Japan,JPN,1989,,,,10,18,15,,,43
-Japan,JPN,1990,,,,27,,40,,,67
-Japan,JPN,1991,,,43,,,101,,,144
+Japan,JPN,1989,,,,10,18,47,,,75
+Japan,JPN,1990,,,,27,,41,,,68
+Japan,JPN,1991,,,43,,,118,,,161
 Japan,JPN,1992,,0,0,,,11,,,11
-Japan,JPN,1993,,241,1,0,83,113,,,438
+Japan,JPN,1993,,241,1,71,27,75,,,415
 Japan,JPN,1994,,7,,,,3,,,10
 Japan,JPN,1995,,5297,,0,,3,,,5300
 Japan,JPN,1996,,,,,14,6,,,20
-Japan,JPN,1997,,,,,21,7,,,28
+Japan,JPN,1997,,,,,21,15,,,36
 Japan,JPN,1998,,,,16,0,41,,,57
 Japan,JPN,1999,,,,60,,26,,,86
 Japan,JPN,2000,,1,0,18,,13,,,32
 Japan,JPN,2001,,2,,1,,22,,,25
-Japan,JPN,2002,,,,,,7,0,,7
-Japan,JPN,2003,,2,,23,,21,,,46
+Japan,JPN,2002,,,,,,13,0,,13
+Japan,JPN,2003,,2,,23,,23,,,48
 Japan,JPN,2004,,40,,22,,199,,10,271
 Japan,JPN,2005,,1,,0,,117,,,118
 Japan,JPN,2006,,,,42,,38,,,80
@@ -3817,6 +3840,7 @@ Latvia,LVA,2018,,,,,,,0,,0
 Latvia,LVA,2022,,,,,,,,105,105
 Latvia,LVA,2023,,,,0,,,,58,58
 Latvia,LVA,2024,,,,,,,,71,71
+Latvia,LVA,2025,,,,,,,,73,73
 Lebanon,LBN,1955,,,,440,,,,,440
 Lebanon,LBN,1956,,136,,,,,,,136
 Lebanon,LBN,1983,,,,,20,,,,20
@@ -3878,6 +3902,7 @@ Libya,LBY,2013,,,,16,,,,,16
 Libya,LBY,2019,,,,4,,,,,4
 Libya,LBY,2023,,,,,,13200,,,13200
 Libya,LBY,2024,,,,5,,,,,5
+Liechtenstein,LIE,2022,,,,,,,,0,0
 Liechtenstein,LIE,2023,,,,,,,,1,1
 Lithuania,LTU,1992,0,,,,,,,,0
 Lithuania,LTU,1993,,,,,,6,,,6
@@ -3891,6 +3916,7 @@ Lithuania,LTU,2018,0,,,,,,,5,5
 Lithuania,LTU,2022,,,,,,,,381,381
 Lithuania,LTU,2023,,,,,,,,247,247
 Lithuania,LTU,2024,,,,,,,,329,329
+Lithuania,LTU,2025,,,,,,,,74,74
 Low-income countries,OWID_LIC,1903,0,,,,,,,,0
 Low-income countries,OWID_LIC,1906,0,,,,,,,,0
 Low-income countries,OWID_LIC,1907,0,,,,,,,,0
@@ -3937,14 +3963,14 @@ Low-income countries,OWID_LIC,1989,279,9,,62,0,46,,,396
 Low-income countries,OWID_LIC,1990,42,0,,23,,,,144,209
 Low-income countries,OWID_LIC,1991,42,164,,1704,13,36,,80,2039
 Low-income countries,OWID_LIC,1992,43,23,,600,,,,,666
-Low-income countries,OWID_LIC,1993,0,3,,54,215,19,,,291
+Low-income countries,OWID_LIC,1993,0,3,,54,215,13,,,285
 Low-income countries,OWID_LIC,1994,0,167,,233,22,482,,,904
 Low-income countries,OWID_LIC,1995,0,,,145,354,0,0,,499
 Low-income countries,OWID_LIC,1996,0,0,,745,,20,,,765
 Low-income countries,OWID_LIC,1997,0,5,,2850,120,174,,,3149
 Low-income countries,OWID_LIC,1998,0,7023,,270,157,,50,,7500
 Low-income countries,OWID_LIC,1999,19,70,,228,,13,0,,330
-Low-income countries,OWID_LIC,2000,68,,,886,4,231,0,,1189
+Low-income countries,OWID_LIC,2000,68,,,886,4,233,0,,1191
 Low-income countries,OWID_LIC,2001,77,4,,473,23,60,,327,964
 Low-income countries,OWID_LIC,2002,603,1245,200,293,85,65,1,,2492
 Low-income countries,OWID_LIC,2003,9,1,,390,,131,,,531
@@ -3969,7 +3995,7 @@ Low-income countries,OWID_LIC,2021,0,,32,623,20,36,,,711
 Low-income countries,OWID_LIC,2022,2465,1191,,1186,38,378,0,,5258
 Low-income countries,OWID_LIC,2023,0,7156,,3795,72,1484,0,166,12673
 Low-income countries,OWID_LIC,2024,0,,,2614,584,183,0,1197,4578
-Low-income countries,OWID_LIC,2025,0,2229,,765,440,80,0,,3514
+Low-income countries,OWID_LIC,2025,0,2229,,789,440,56,0,,3514
 Lower-middle-income countries,OWID_LMC,1900,1250000,,,,,,,,1250000
 Lower-middle-income countries,OWID_LMC,1902,,,,,,600,,,600
 Lower-middle-income countries,OWID_LMC,1903,,,17,,,,,,17
@@ -3991,6 +4017,7 @@ Lower-middle-income countries,OWID_LMC,1925,,,,,,80,,,80
 Lower-middle-income countries,OWID_LMC,1926,,12,,0,,2700,,,2712
 Lower-middle-income countries,OWID_LMC,1927,,,,,,685,,,685
 Lower-middle-income countries,OWID_LMC,1928,,,,36,,,,,36
+Lower-middle-income countries,OWID_LMC,1929,,50,,,,,,,50
 Lower-middle-income countries,OWID_LMC,1930,,1586,,,,,,,1586
 Lower-middle-income countries,OWID_LMC,1931,,1050,,,,1500,,,2550
 Lower-middle-income countries,OWID_LMC,1933,,,,,,0,,,0
@@ -4042,24 +4069,24 @@ Lower-middle-income countries,OWID_LMC,1980,0,113,,3141,150,402,,129,3935
 Lower-middle-income countries,OWID_LMC,1981,0,256,,1410,20,1946,8,300,3940
 Lower-middle-income countries,OWID_LMC,1982,0,0,,1284,1,956,,400,2641
 Lower-middle-income countries,OWID_LMC,1983,500,453,0,1561,203,1500,,,4217
-Lower-middle-income countries,OWID_LMC,1984,0,24,37,2193,,577,0,290,3121
+Lower-middle-income countries,OWID_LMC,1984,0,24,37,2193,,578,0,290,3122
 Lower-middle-income countries,OWID_LMC,1985,0,5,,1835,,15310,4,328,17482
 Lower-middle-income countries,OWID_LMC,1986,,9,1746,503,153,687,,,3098
 Lower-middle-income countries,OWID_LMC,1987,300,1,,3898,96,280,,100,4675
-Lower-middle-income countries,OWID_LMC,1988,0,1094,,5007,769,1489,,450,8809
+Lower-middle-income countries,OWID_LMC,1988,0,1094,,5007,769,1964,,450,9284
 Lower-middle-income countries,OWID_LMC,1989,0,1,,1836,145,908,,297,3187
 Lower-middle-income countries,OWID_LMC,1990,0,22,,786,30,2536,,399,3773
 Lower-middle-income countries,OWID_LMC,1991,0,1800,0,1490,225,139122,0,627,143264
 Lower-middle-income countries,OWID_LMC,1992,0,838,1,3575,420,157,56,371,5418
-Lower-middle-income countries,OWID_LMC,1993,0,9801,,3001,145,1415,,,14362
+Lower-middle-income countries,OWID_LMC,1993,0,9801,,3366,145,1422,,,14734
 Lower-middle-income countries,OWID_LMC,1994,0,5,5,3964,180,1620,,190,5964
-Lower-middle-income countries,OWID_LMC,1995,0,10,0,4492,820,1057,,710,7089
-Lower-middle-income countries,OWID_LMC,1996,0,,4,2435,170,2308,,254,5171
-Lower-middle-income countries,OWID_LMC,1997,15,196,,2967,111,566,0,133,3988
+Lower-middle-income countries,OWID_LMC,1995,0,10,0,4492,820,1120,,710,7152
+Lower-middle-income countries,OWID_LMC,1996,0,,4,2047,170,2796,,254,5271
+Lower-middle-income countries,OWID_LMC,1997,15,196,,2967,111,568,0,133,3990
 Lower-middle-income countries,OWID_LMC,1998,57,2278,,4695,458,21926,,2761,32175
-Lower-middle-income countries,OWID_LMC,1999,7,118,0,31256,24,11084,41,151,42681
-Lower-middle-income countries,OWID_LMC,2000,69,10,,3057,232,101,0,371,3840
-Lower-middle-income countries,OWID_LMC,2001,131,20017,0,1312,287,381,,179,22307
+Lower-middle-income countries,OWID_LMC,1999,7,118,0,31256,24,11197,41,151,42794
+Lower-middle-income countries,OWID_LMC,2000,69,10,,3057,232,118,0,371,3857
+Lower-middle-income countries,OWID_LMC,2001,131,20017,0,1312,287,891,,179,22817
 Lower-middle-income countries,OWID_LMC,2002,63,52,0,1238,524,306,0,2410,4593
 Lower-middle-income countries,OWID_LMC,2003,36,2,,1456,178,300,,2137,4109
 Lower-middle-income countries,OWID_LMC,2004,80,17125,0,5276,78,3254,0,389,26202
@@ -4083,7 +4110,7 @@ Lower-middle-income countries,OWID_LMC,2021,0,2603,0,2540,103,320,0,,5566
 Lower-middle-income countries,OWID_LMC,2022,0,58,,4949,217,131,4,29,5388
 Lower-middle-income countries,OWID_LMC,2023,5,3120,,2839,230,261,12,212,6679
 Lower-middle-income countries,OWID_LMC,2024,5,19,,2282,1215,719,2,1382,5624
-Lower-middle-income countries,OWID_LMC,2025,0,3831,,3140,252,350,0,,7573
+Lower-middle-income countries,OWID_LMC,2025,0,3831,,3140,252,350,0,84,7657
 Luxembourg,LUX,1983,,,,0,,,,,0
 Luxembourg,LUX,1990,,,,,,0,,,0
 Luxembourg,LUX,1993,,,,0,,,,,0
@@ -4095,6 +4122,9 @@ Luxembourg,LUX,2021,,,,0,,,,,0
 Luxembourg,LUX,2022,,,,,,,,44,44
 Luxembourg,LUX,2023,,,,,,,,33,33
 Luxembourg,LUX,2024,,,,,,,,15,15
+Luxembourg,LUX,2025,,,,,,,,7,7
+Macao,MAC,1983,,,,,,10,,,10
+Macao,MAC,1991,,,,,,2,,,2
 Macao,MAC,1993,,,,,,0,,,0
 Macao,MAC,2017,,,,,,10,,,10
 Macao,MAC,2025,,,,,,0,,,0
@@ -4274,6 +4304,7 @@ Mali,MLI,2022,0,,,10,,,,,10
 Mali,MLI,2024,,,,92,,,,,92
 Malta,MLT,2022,,,,,,,,76,76
 Malta,MLT,2023,,,,,,,,70,70
+Malta,MLT,2025,,,,,,,,36,36
 Marshall Islands,MHL,1991,,,,,,0,,,0
 Marshall Islands,MHL,2008,,,,0,,,,,0
 Marshall Islands,MHL,2013,0,,,,,,,,0
@@ -4296,7 +4327,7 @@ Martinique,MTQ,1990,,,,,,8,,,8
 Martinique,MTQ,1993,,,,,,2,,,2
 Martinique,MTQ,1995,,,,,,0,,,0
 Martinique,MTQ,1996,,,,,,0,,,0
-Martinique,MTQ,1999,,,,,,0,,,0
+Martinique,MTQ,1999,,,,,,1,,,1
 Martinique,MTQ,2007,,1,,,,1,,,2
 Martinique,MTQ,2011,,,,,,1,,,1
 Martinique,MTQ,2017,,,,,,0,,,0
@@ -4407,26 +4438,26 @@ Mexico,MEX,1980,,67,,104,,,,,171
 Mexico,MEX,1981,,3,,,,100,,,103
 Mexico,MEX,1982,,19,100,25,,225,,,369
 Mexico,MEX,1983,,,,,50,275,,,325
-Mexico,MEX,1984,,,,0,,4,,,4
+Mexico,MEX,1984,,,,0,,21,,,21
 Mexico,MEX,1985,,9500,,,,,,,9500
 Mexico,MEX,1986,,,,20,,,,,20
 Mexico,MEX,1987,,2,,16,,,,,18
 Mexico,MEX,1988,0,,,,,288,,23,311
 Mexico,MEX,1989,,3,,40,,,0,,43
 Mexico,MEX,1990,,,,45,,38,,380,463
-Mexico,MEX,1991,,,,23,,13,,,36
+Mexico,MEX,1991,,,,23,,23,,,46
 Mexico,MEX,1992,,,,,,3,,80,83
-Mexico,MEX,1993,,0,,65,,38,,,103
+Mexico,MEX,1993,,0,,65,,44,,,109
 Mexico,MEX,1994,,,0,,,,,,0
 Mexico,MEX,1995,0,64,,,,170,,49,283
 Mexico,MEX,1996,0,,,0,,16,,,16
 Mexico,MEX,1997,,1,20,,12,242,,292,567
-Mexico,MEX,1998,,,0,432,12,255,50,100,849
+Mexico,MEX,1998,,,0,432,12,34,50,100,628
 Mexico,MEX,1999,0,46,0,654,,9,,15,724
 Mexico,MEX,2000,0,,0,139,,31,,66,236
 Mexico,MEX,2001,,,,21,,5,,,26
 Mexico,MEX,2002,0,,0,37,,16,,50,103
-Mexico,MEX,2003,,29,,6,10,4,0,21,70
+Mexico,MEX,2003,,29,,6,10,4,2,21,72
 Mexico,MEX,2004,,,,38,,,,14,52
 Mexico,MEX,2005,,,,41,,47,,,88
 Mexico,MEX,2006,,,,0,21,15,,5,41
@@ -4577,10 +4608,11 @@ Mozambique,MOZ,1996,,,,,,11,,,11
 Mozambique,MOZ,1997,,,,35,,0,,,35
 Mozambique,MOZ,1998,0,,,,87,,,,87
 Mozambique,MOZ,1999,0,,,23,,,,,23
-Mozambique,MOZ,2000,,,,800,,32,,,832
+Mozambique,MOZ,2000,,,,800,,34,,,834
 Mozambique,MOZ,2001,0,,,79,,,,,79
 Mozambique,MOZ,2002,9,,,0,,3,,,12
 Mozambique,MOZ,2003,9,,,38,,11,,,58
+Mozambique,MOZ,2004,,,,,,0,,,0
 Mozambique,MOZ,2005,0,,,3,,,,,3
 Mozambique,MOZ,2006,0,4,,13,,,,,17
 Mozambique,MOZ,2007,0,,,51,,10,,,61
@@ -4601,7 +4633,7 @@ Mozambique,MOZ,2021,0,,,0,,11,,,11
 Mozambique,MOZ,2022,0,,,53,,115,,,168
 Mozambique,MOZ,2023,0,,,49,,183,,,232
 Mozambique,MOZ,2024,0,,,,,122,,,122
-Mozambique,MOZ,2025,,,,,,46,,,46
+Mozambique,MOZ,2025,,,,24,,22,,,46
 Myanmar,MMR,1902,,,,,,600,,,600
 Myanmar,MMR,1923,,,,,,6,,,6
 Myanmar,MMR,1926,,,,,,2700,,,2700
@@ -4711,7 +4743,7 @@ Nepal,NPL,1990,,,,30,,,,,30
 Nepal,NPL,1991,,,,51,,6,,,57
 Nepal,NPL,1992,,,,,,,56,,56
 Nepal,NPL,1993,,0,,1048,28,,,,1076
-Nepal,NPL,1995,,,,140,180,,,,320
+Nepal,NPL,1995,,,,140,180,63,,,383
 Nepal,NPL,1996,,,,788,,20,,,808
 Nepal,NPL,1997,,,,,20,,,,20
 Nepal,NPL,1998,,,,310,,,,,310
@@ -4772,6 +4804,7 @@ Netherlands,NLD,2021,,,,0,,0,,,0
 Netherlands,NLD,2022,,,,,,4,,469,473
 Netherlands,NLD,2023,,,,,,1,,368,369
 Netherlands,NLD,2024,,,,,,1,,234,235
+Netherlands,NLD,2025,,,,,,,,411,411
 Netherlands Antilles,ANT,1954,,,,,,0,,,0
 Netherlands Antilles,ANT,1960,,,,,,0,,,0
 Netherlands Antilles,ANT,1989,,,,,,11,,,11
@@ -4854,14 +4887,14 @@ Nicaragua,NIC,1988,,,,,,130,,,130
 Nicaragua,NIC,1990,,0,,4,,,,,4
 Nicaragua,NIC,1991,,,,,,,0,,0
 Nicaragua,NIC,1992,,179,1,,,,,,180
-Nicaragua,NIC,1993,,,,,,37,,,37
+Nicaragua,NIC,1993,,,,0,,37,,,37
 Nicaragua,NIC,1994,0,,,,,,,,0
 Nicaragua,NIC,1995,,,0,,,38,,,38
 Nicaragua,NIC,1996,,,,,,44,,,44
-Nicaragua,NIC,1997,0,,,,,,,,0
+Nicaragua,NIC,1997,0,,,,,2,,,2
 Nicaragua,NIC,1998,,0,,,,3332,,,3332
 Nicaragua,NIC,1999,,,0,11,,,0,,11
-Nicaragua,NIC,2000,0,7,,0,,2,,,9
+Nicaragua,NIC,2000,0,7,,0,,13,,,20
 Nicaragua,NIC,2001,0,,,,,16,,,16
 Nicaragua,NIC,2002,,,,0,,2,0,,2
 Nicaragua,NIC,2004,,,,,29,0,,,29
@@ -5048,39 +5081,39 @@ North America,OWID_NAM,1976,,23001,0,180,,720,0,,23901
 North America,OWID_NAM,1977,0,,,147,,101,,126,374
 North America,OWID_NAM,1978,0,9,,52,,261,,,322
 North America,OWID_NAM,1979,0,5,2,77,,1630,,,1714
-North America,OWID_NAM,1980,0,67,90,141,,257,0,1260,1815
+North America,OWID_NAM,1980,0,67,90,141,,264,0,1260,1822
 North America,OWID_NAM,1981,0,3,,50,26,130,,,209
-North America,OWID_NAM,1982,0,39,100,1156,,953,,0,2248
-North America,OWID_NAM,1983,0,14,0,25,50,407,0,188,684
-North America,OWID_NAM,1984,0,,0,29,,523,,,552
-North America,OWID_NAM,1985,0,9500,,524,100,386,0,,10510
-North America,OWID_NAM,1986,,1100,,237,,13,0,48,1398
+North America,OWID_NAM,1982,0,39,100,66,,2036,,0,2241
+North America,OWID_NAM,1983,0,14,0,25,50,414,0,188,691
+North America,OWID_NAM,1984,0,,0,29,,543,,,572
+North America,OWID_NAM,1985,0,9500,,524,100,246,0,145,10515
+North America,OWID_NAM,1986,,1100,,227,,13,0,48,1388
 North America,OWID_NAM,1987,0,10,0,143,,180,0,80,413
-North America,OWID_NAM,1988,0,5,,111,22,606,,23,767
-North America,OWID_NAM,1989,,70,,60,10,149,1,84,374
-North America,OWID_NAM,1990,,1,,104,,208,,391,704
-North America,OWID_NAM,1991,0,93,0,69,23,100,28,,313
+North America,OWID_NAM,1988,0,5,,111,22,635,,23,796
+North America,OWID_NAM,1989,,70,,60,10,171,1,84,396
+North America,OWID_NAM,1990,,1,,104,,217,,391,713
+North America,OWID_NAM,1991,0,93,0,69,23,110,27,,322
 North America,OWID_NAM,1992,0,180,1,30,,116,0,80,407
-North America,OWID_NAM,1993,0,5,,688,22,373,3,48,1139
-North America,OWID_NAM,1994,0,60,0,212,0,1297,13,,1582
-North America,OWID_NAM,1995,0,64,0,65,,405,0,759,1293
-North America,OWID_NAM,1996,0,,0,108,0,522,1,,631
-North America,OWID_NAM,1997,0,1,52,87,12,427,0,292,871
-North America,OWID_NAM,1998,0,0,0,466,63,19847,52,230,20658
-North America,OWID_NAM,1999,0,48,0,741,,258,1,272,1320
-North America,OWID_NAM,2000,0,7,0,200,7,164,14,101,493
-North America,OWID_NAM,2001,41,1166,,61,,182,2,56,1508
-North America,OWID_NAM,2002,0,,0,132,68,225,0,64,489
-North America,OWID_NAM,2003,0,38,,119,47,216,19,21,460
+North America,OWID_NAM,1993,0,5,,697,22,387,3,48,1162
+North America,OWID_NAM,1994,0,60,0,212,0,1316,14,,1602
+North America,OWID_NAM,1995,0,64,0,65,,415,0,759,1303
+North America,OWID_NAM,1996,0,,0,108,0,538,1,,647
+North America,OWID_NAM,1997,0,1,52,87,12,438,0,292,882
+North America,OWID_NAM,1998,0,0,0,466,63,19663,52,230,20474
+North America,OWID_NAM,1999,0,48,0,741,,274,1,272,1336
+North America,OWID_NAM,2000,0,7,0,200,7,182,14,101,511
+North America,OWID_NAM,2001,41,1166,,61,,184,2,56,1510
+North America,OWID_NAM,2002,0,,0,132,68,225,6,64,495
+North America,OWID_NAM,2003,0,38,,119,47,217,22,21,464
 North America,OWID_NAM,2004,0,9,,3410,31,3064,0,17,6531
-North America,OWID_NAM,2005,,1,2,179,70,3683,2,33,3970
-North America,OWID_NAM,2006,,0,0,73,21,113,20,200,427
+North America,OWID_NAM,2005,,1,2,179,70,3685,11,33,3981
+North America,OWID_NAM,2006,,0,0,73,21,113,18,200,425
 North America,OWID_NAM,2007,0,1,,225,16,745,8,,995
 North America,OWID_NAM,2008,0,0,,236,49,1036,1,0,1322
 North America,OWID_NAM,2009,0,38,,67,36,355,2,58,556
 North America,OWID_NAM,2010,0,222572,0,367,124,432,,,223495
 North America,OWID_NAM,2011,0,5,,287,16,821,9,25,1163
-North America,OWID_NAM,2012,0,48,0,67,,319,3,123,560
+North America,OWID_NAM,2012,0,48,0,67,,427,3,123,668
 North America,OWID_NAM,2013,0,1,0,101,,350,22,29,503
 North America,OWID_NAM,2014,0,7,,35,43,160,2,21,268
 North America,OWID_NAM,2015,0,,0,111,350,340,12,0,813
@@ -5092,10 +5125,9 @@ North America,OWID_NAM,2020,45,14,,49,42,692,32,,874
 North America,OWID_NAM,2021,0,2578,0,110,,530,6,1044,4268
 North America,OWID_NAM,2022,136,12,,122,,419,7,,696
 North America,OWID_NAM,2023,247,,0,229,86,238,132,26,958
-North America,OWID_NAM,2024,0,0,,63,28,570,5,1161,1827
+North America,OWID_NAM,2024,0,0,,63,28,571,5,1161,1828
 North America,OWID_NAM,2025,89,18,0,283,,330,35,,755
 North Korea,PRK,1987,,,,315,,,,,315
-North Korea,PRK,1993,,,,,,6,,,6
 North Korea,PRK,1995,,,,68,,,,,68
 North Korea,PRK,1996,,,,116,,,,,116
 North Korea,PRK,1997,,,,0,,0,,,0
@@ -5136,14 +5168,17 @@ North Macedonia,MKD,2015,,,,7,,,,0,7
 North Macedonia,MKD,2016,,0,,22,,,,,22
 North Macedonia,MKD,2017,,,,,,,,3,3
 North Macedonia,MKD,2021,,,,,,,1,,1
+North Macedonia,MKD,2025,,,,,,,,0,0
 Northern Mariana Islands,MNP,2002,,,,,,0,,,0
 Northern Mariana Islands,MNP,2003,,,0,,,,,,0
-Northern Mariana Islands,MNP,2004,,,,,,3,,,3
+Northern Mariana Islands,MNP,2004,,,,,,4,,,4
+Northern Mariana Islands,MNP,2005,,,,,,0,,,0
 Northern Mariana Islands,MNP,2015,,,,,,0,,,0
 Northern Mariana Islands,MNP,2018,,,,,,2,,,2
 Norway,NOR,1936,,,,,73,,,,73
 Norway,NOR,1990,,,,,,0,,,0
-Norway,NOR,1992,,,,,,0,,,0
+Norway,NOR,1991,,,,,,0,,,0
+Norway,NOR,1992,,,,,,1,,,1
 Norway,NOR,1993,,,,,,0,,,0
 Norway,NOR,1995,,,,1,,,,,1
 Norway,NOR,2000,,,,0,,,,,0
@@ -5158,6 +5193,7 @@ Norway,NOR,2020,,,,,10,,,,10
 Norway,NOR,2022,,,,,,0,,30,30
 Norway,NOR,2023,,,,,,,,29,29
 Norway,NOR,2024,,,,,,,,18,18
+Norway,NOR,2025,,,,,,,,52,52
 Oceania,OWID_OCE,1914,,,,,,0,,,0
 Oceania,OWID_OCE,1925,,,,,,0,,,0
 Oceania,OWID_OCE,1929,,17,,,,,,,17
@@ -5207,24 +5243,24 @@ Oceania,OWID_OCE,1984,,,,36,,0,,,36
 Oceania,OWID_OCE,1985,,0,,4,,68,11,,83
 Oceania,OWID_OCE,1986,,0,,28,,110,,,138
 Oceania,OWID_OCE,1987,,2,,0,10,59,0,,71
-Oceania,OWID_OCE,1988,,1,,17,77,7,,,102
-Oceania,OWID_OCE,1989,,12,,19,,12,,,43
+Oceania,OWID_OCE,1988,,1,,17,77,13,,,108
+Oceania,OWID_OCE,1989,,12,,19,,15,,,46
 Oceania,OWID_OCE,1990,,0,,7,,10,0,,17
-Oceania,OWID_OCE,1991,0,,,5,200,13,,,218
+Oceania,OWID_OCE,1991,0,,,5,200,14,,,219
 Oceania,OWID_OCE,1992,0,,0,0,,6,,,6
-Oceania,OWID_OCE,1993,0,58,,1,,44,,17,120
-Oceania,OWID_OCE,1994,0,0,5,0,,27,4,5,41
+Oceania,OWID_OCE,1993,0,58,,1,,47,1,17,124
+Oceania,OWID_OCE,1994,0,0,5,0,,27,3,5,40
 Oceania,OWID_OCE,1995,0,,0,,,8,,1,9
 Oceania,OWID_OCE,1996,,,4,5,47,8,,,64
-Oceania,OWID_OCE,1997,15,,,0,19,79,2,,115
-Oceania,OWID_OCE,1998,45,2182,,20,13,0,,,2260
+Oceania,OWID_OCE,1997,15,,,0,19,86,2,,122
+Oceania,OWID_OCE,1998,45,2182,,18,13,2,,,2260
 Oceania,OWID_OCE,1999,0,12,,2,,51,1,,66
 Oceania,OWID_OCE,2000,,2,,0,,1,0,,3
 Oceania,OWID_OCE,2001,,0,0,4,,4,0,0,8
 Oceania,OWID_OCE,2002,0,5,0,0,36,48,2,,91
 Oceania,OWID_OCE,2003,,,0,7,13,22,4,,46
-Oceania,OWID_OCE,2004,,,0,7,,28,,,35
-Oceania,OWID_OCE,2005,,1,0,4,,10,12,,27
+Oceania,OWID_OCE,2004,,,0,7,,39,,,46
+Oceania,OWID_OCE,2005,,1,0,4,,1,12,,18
 Oceania,OWID_OCE,2006,0,,0,5,15,0,4,,24
 Oceania,OWID_OCE,2007,,52,,15,,175,,,242
 Oceania,OWID_OCE,2008,,,0,7,10,8,,,25
@@ -5247,6 +5283,7 @@ Oceania,OWID_OCE,2024,0,19,,1,693,1,,,714
 Oceania,OWID_OCE,2025,,,,1,21,6,1,,29
 Oman,OMN,1977,,,,,,107,,,107
 Oman,OMN,1981,,,,,,26,,,26
+Oman,OMN,2002,,,,,,7,,,7
 Oman,OMN,2003,,,,,,30,,,30
 Oman,OMN,2007,,,,,,76,,,76
 Oman,OMN,2010,,,,,,16,,,16
@@ -5301,7 +5338,7 @@ Pakistan,PAK,1995,,,,1063,,,,,1063
 Pakistan,PAK,1996,,,,111,44,,,32,187
 Pakistan,PAK,1997,,50,,171,,41,,100,362
 Pakistan,PAK,1998,,1,,1000,13,12,,,1026
-Pakistan,PAK,1999,5,,,34,,258,,11,308
+Pakistan,PAK,1999,5,,,34,,371,,11,421
 Pakistan,PAK,2000,34,,,,,,,24,58
 Pakistan,PAK,2001,34,12,,210,31,4,,,291
 Pakistan,PAK,2002,34,39,,37,,14,,113,237
@@ -5327,7 +5364,7 @@ Pakistan,PAK,2021,,21,,220,,23,,,264
 Pakistan,PAK,2022,,43,,1739,,22,4,0,1808
 Pakistan,PAK,2023,,11,,335,11,1,,22,380
 Pakistan,PAK,2024,,,,408,,106,,568,1082
-Pakistan,PAK,2025,,,,1037,,30,,,1067
+Pakistan,PAK,2025,,,,1037,,30,,0,1067
 Palau,PLW,2012,,,,,,0,,,0
 Palau,PLW,2013,,,,,,0,,,0
 Palau,PLW,2015,0,,,,,,,,0
@@ -5352,6 +5389,7 @@ Panama,PAN,1986,,,,2,,,,,2
 Panama,PAN,1988,,,,,,30,,,30
 Panama,PAN,1991,,30,,12,,,,,42
 Panama,PAN,1992,,,,,,12,,,12
+Panama,PAN,1994,,,,,,2,,,2
 Panama,PAN,1995,,,,1,,,,,1
 Panama,PAN,1998,,,,,,3,,,3
 Panama,PAN,1999,,,,1,,,,,1
@@ -5577,11 +5615,11 @@ Philippines,PHL,1976,,6000,0,18,,387,,,6405
 Philippines,PHL,1977,,1,,24,,104,,,129
 Philippines,PHL,1978,0,,0,53,22,662,,,737
 Philippines,PHL,1979,,,,0,,62,,,62
-Philippines,PHL,1980,0,,,2,50,212,,,264
+Philippines,PHL,1980,0,,,2,50,176,,,228
 Philippines,PHL,1981,,,,322,200,999,,,1521
 Philippines,PHL,1982,,,,33,,563,,,596
 Philippines,PHL,1983,0,19,,11,,128,,,158
-Philippines,PHL,1984,,,0,,,2679,,,2679
+Philippines,PHL,1984,,,0,,,2689,,,2689
 Philippines,PHL,1985,,2,,79,300,186,,,567
 Philippines,PHL,1986,,,,3,,176,,,179
 Philippines,PHL,1987,0,,,,,1094,,,1094
@@ -5594,14 +5632,14 @@ Philippines,PHL,1993,,,79,53,21,518,,,671
 Philippines,PHL,1994,,81,,62,27,248,,,418
 Philippines,PHL,1995,,0,0,476,,1249,,,1725
 Philippines,PHL,1996,,,,0,45,38,,,83
-Philippines,PHL,1997,,,,18,,49,,,67
-Philippines,PHL,1998,8,,,,,594,2,,604
-Philippines,PHL,1999,,6,,164,100,100,,,370
+Philippines,PHL,1997,,,,18,,62,,,80
+Philippines,PHL,1998,8,,,,,550,2,,560
+Philippines,PHL,1999,,6,,164,100,103,,,373
 Philippines,PHL,2000,,,0,55,298,394,,,747
-Philippines,PHL,2001,,,0,43,,587,,,630
+Philippines,PHL,2001,,,0,43,,620,,,663
 Philippines,PHL,2002,0,15,,90,,215,,,320
-Philippines,PHL,2003,,,,0,165,95,,,260
-Philippines,PHL,2004,,,,49,98,1861,,,2008
+Philippines,PHL,2003,,,,0,165,108,,,273
+Philippines,PHL,2004,,,,49,98,1923,,,2070
 Philippines,PHL,2005,,,,5,,34,,,39
 Philippines,PHL,2006,,,0,36,1143,1805,,,2984
 Philippines,PHL,2007,0,,0,40,,78,,,118
@@ -5661,6 +5699,7 @@ Poland,POL,2021,,,,0,,4,,,4
 Poland,POL,2022,,,,,,7,,763,770
 Poland,POL,2023,,,,,,,,616,616
 Poland,POL,2024,,,,,,9,,1780,1789
+Poland,POL,2025,,,,,,,,694,694
 Portugal,PRT,1909,,30,,,,,,,30
 Portugal,PRT,1941,,,,,,120,,,120
 Portugal,PRT,1946,,,,,,27,,,27
@@ -5698,7 +5737,7 @@ Portugal,PRT,2019,,,,,,3,,,3
 Portugal,PRT,2022,0,,,,,,3,2212,2215
 Portugal,PRT,2023,0,,,,,,0,1432,1432
 Portugal,PRT,2024,,,,,,,9,938,947
-Portugal,PRT,2025,,,,,,0,3,,3
+Portugal,PRT,2025,,,,,,0,3,386,389
 Puerto Rico,PRI,1918,,116,,,,,,,116
 Puerto Rico,PRI,1926,,,,,,25,,,25
 Puerto Rico,PRI,1928,,,,,,300,,,300
@@ -5710,12 +5749,12 @@ Puerto Rico,PRI,1975,,,,,,26,,,26
 Puerto Rico,PRI,1979,,,,,,7,,,7
 Puerto Rico,PRI,1981,,,,,26,,,,26
 Puerto Rico,PRI,1985,,,,500,100,,,,600
-Puerto Rico,PRI,1989,,,,,,0,,,0
+Puerto Rico,PRI,1989,,,,,,8,,,8
 Puerto Rico,PRI,1992,,,,18,,,,,18
 Puerto Rico,PRI,1994,0,,,,,,,,0
 Puerto Rico,PRI,1995,,,,,,1,,,1
 Puerto Rico,PRI,1996,,,,,,18,,,18
-Puerto Rico,PRI,1998,,,,,,0,,,0
+Puerto Rico,PRI,1998,,,,,,7,,,7
 Puerto Rico,PRI,1999,,,,,,1,,,1
 Puerto Rico,PRI,2001,,,,2,,,,,2
 Puerto Rico,PRI,2003,,,,2,,0,,,2
@@ -5790,7 +5829,7 @@ Romania,ROU,2021,,,,1,,,,,1
 Romania,ROU,2022,,,,,,,,2455,2455
 Romania,ROU,2023,,,,,,2,,2585,2587
 Romania,ROU,2024,,,,,,7,,4943,4950
-Romania,ROU,2025,,,,3,,,,,3
+Romania,ROU,2025,,,,3,,,,1487,1490
 Russia,RUS,1992,,,,0,0,,31,,31
 Russia,RUS,1993,,,,138,299,,,41,478
 Russia,RUS,1994,,11,,46,,12,,42,111
@@ -5864,7 +5903,7 @@ Saint Kitts and Nevis,KNA,1989,,,,,,1,,,1
 Saint Kitts and Nevis,KNA,1990,,,,,,0,,,0
 Saint Kitts and Nevis,KNA,1995,,,,,,0,,,0
 Saint Kitts and Nevis,KNA,1998,,,,,,5,,,5
-Saint Kitts and Nevis,KNA,1999,,,,,,0,,,0
+Saint Kitts and Nevis,KNA,1999,,,,,,1,,,1
 Saint Kitts and Nevis,KNA,2008,,,,,,0,,,0
 Saint Kitts and Nevis,KNA,2017,,,,,,0,,,0
 Saint Lucia,LCA,1960,,,,,,0,,,0
@@ -5875,6 +5914,7 @@ Saint Lucia,LCA,1983,,,,,,0,,,0
 Saint Lucia,LCA,1986,,,,,,0,,,0
 Saint Lucia,LCA,1987,,,,,,0,,,0
 Saint Lucia,LCA,1988,,,,,,0,,,0
+Saint Lucia,LCA,1990,,,,,,0,,,0
 Saint Lucia,LCA,1994,,,,,,4,,,4
 Saint Lucia,LCA,1996,,,,,0,,,,0
 Saint Lucia,LCA,1999,,,,,,0,,,0
@@ -5885,6 +5925,9 @@ Saint Lucia,LCA,2013,,,,6,,,,,6
 Saint Lucia,LCA,2016,,,,,,0,,,0
 Saint Lucia,LCA,2021,,,,,,1,,,1
 Saint Lucia,LCA,2022,,,,0,,,,,0
+Saint Lucia,LCA,2024,,,,,,0,,,0
+Saint Martin (French part),MAF,1995,,,,,,1,,,1
+Saint Martin (French part),MAF,1999,,,,,,3,,,3
 Saint Martin (French part),MAF,2017,,,,,,12,,,12
 Saint Vincent and the Grenadines,VCT,1902,,,1565,,,,,,1565
 Saint Vincent and the Grenadines,VCT,1955,,,,,,122,,,122
@@ -5899,7 +5942,7 @@ Saint Vincent and the Grenadines,VCT,1992,,,,3,,,,,3
 Saint Vincent and the Grenadines,VCT,1999,,,,,,0,,,0
 Saint Vincent and the Grenadines,VCT,2002,,,,,,4,,,4
 Saint Vincent and the Grenadines,VCT,2004,,,,,,0,,,0
-Saint Vincent and the Grenadines,VCT,2005,,,,,,0,,,0
+Saint Vincent and the Grenadines,VCT,2005,,,,,,2,,,2
 Saint Vincent and the Grenadines,VCT,2010,0,,,,,0,,,0
 Saint Vincent and the Grenadines,VCT,2011,,,,0,,,,,0
 Saint Vincent and the Grenadines,VCT,2013,,,,12,,,,,12
@@ -5916,7 +5959,6 @@ Samoa,WSM,1990,,,,,,8,,,8
 Samoa,WSM,1991,,,,,,13,,,13
 Samoa,WSM,2001,,,,0,,,,,0
 Samoa,WSM,2004,,,,,,1,,,1
-Samoa,WSM,2005,,,,,,9,,,9
 Samoa,WSM,2009,,148,,,,,,,148
 Samoa,WSM,2012,,,,,,12,,,12
 Samoa,WSM,2015,0,,,,,,,,0
@@ -6011,6 +6053,7 @@ Serbia,SRB,2021,,,,0,,,,,0
 Serbia,SRB,2022,,,,,,,,574,574
 Serbia,SRB,2023,,,,2,,1,,464,467
 Serbia,SRB,2024,,,,,,,,2515,2515
+Serbia,SRB,2025,,,,,,,,0,0
 Serbia and Montenegro,OWID_SRM,1992,,,,1,,,,,1
 Serbia and Montenegro,OWID_SRM,1999,,,,11,,,,,11
 Serbia and Montenegro,OWID_SRM,2000,,,,0,,,,3,3
@@ -6041,6 +6084,8 @@ Sierra Leone,SLE,2022,,,,12,,,,,12
 Sierra Leone,SLE,2023,,,,,,15,,,15
 Sierra Leone,SLE,2024,,,,0,,,,,0
 Sierra Leone,SLE,2025,,,,0,,,0,,0
+Sint Maarten (Dutch part),SXM,1995,,,,,,8,,,8
+Sint Maarten (Dutch part),SXM,1999,,,,,,1,,,1
 Sint Maarten (Dutch part),SXM,2017,,,,,,4,,,4
 Slovakia,SVK,1997,,,,1,,,,,1
 Slovakia,SVK,1998,,,,54,,,,,54
@@ -6064,6 +6109,7 @@ Slovakia,SVK,2021,,,,1,,,,,1
 Slovakia,SVK,2022,,,,,,,,365,365
 Slovakia,SVK,2023,,,,,,0,,247,247
 Slovakia,SVK,2024,,,,,,1,,522,523
+Slovakia,SVK,2025,,,,,,,,62,62
 Slovenia,SVN,1998,,0,,,,,,,0
 Slovenia,SVN,2003,,,,,,,,289,289
 Slovenia,SVN,2004,,1,,,,,,,1
@@ -6077,7 +6123,7 @@ Slovenia,SVN,2021,,,,0,,,,,0
 Slovenia,SVN,2022,,,,,,,,154,154
 Slovenia,SVN,2023,,,,6,,1,,95,102
 Slovenia,SVN,2024,,,,,,,,280,280
-Slovenia,SVN,2025,,,,,,0,,,0
+Slovenia,SVN,2025,,,,,,0,,65,65
 Solomon Islands,SLB,1931,,50,,,,,,,50
 Solomon Islands,SLB,1956,,,,,,200,,,200
 Solomon Islands,SLB,1966,,,,,,3,,,3
@@ -6201,7 +6247,7 @@ South Africa,ZAF,2021,0,,,31,,27,,,58
 South Africa,ZAF,2022,,,,579,,,,,579
 South Africa,ZAF,2023,,,,65,,6,,,71
 South Africa,ZAF,2024,,,,44,,47,0,,91
-South Africa,ZAF,2025,,,,88,,22,,,110
+South Africa,ZAF,2025,,,,110,,,,,110
 South America,OWID_SAM,1906,,20400,,,,,,,20400
 South America,OWID_SAM,1913,,150,,,,,,,150
 South America,OWID_SAM,1914,,34,,,,,,,34
@@ -6211,6 +6257,7 @@ South America,OWID_SAM,1923,,300,,,,,,,300
 South America,OWID_SAM,1924,,40,,,,,,,40
 South America,OWID_SAM,1926,,,,,100,,,,100
 South America,OWID_SAM,1928,,220,,,,,,,220
+South America,OWID_SAM,1929,,50,,,,,,,50
 South America,OWID_SAM,1931,,,,,190,,,,190
 South America,OWID_SAM,1933,,,,,,0,,,0
 South America,OWID_SAM,1936,,18,,,,,,,18
@@ -6258,12 +6305,12 @@ South America,OWID_SAM,1984,,,,313,37,137,,,487
 South America,OWID_SAM,1985,0,186,21800,176,150,22,0,,22334
 South America,OWID_SAM,1986,,20,,158,301,21,,,500
 South America,OWID_SAM,1987,0,5007,,493,976,1,0,,6477
-South America,OWID_SAM,1988,0,,0,904,80,37,,77,1098
+South America,OWID_SAM,1988,0,,0,904,80,42,,77,1103
 South America,OWID_SAM,1989,,0,,247,130,36,,,413
 South America,OWID_SAM,1990,0,204,0,116,33,,,,353
 South America,OWID_SAM,1991,0,66,0,20,270,,0,25,381
 South America,OWID_SAM,1992,0,11,,178,79,0,0,,268
-South America,OWID_SAM,1993,,8,16,252,555,115,0,,946
+South America,OWID_SAM,1993,,8,16,252,555,116,0,,947
 South America,OWID_SAM,1994,0,276,,148,18,0,24,0,466
 South America,OWID_SAM,1995,,61,,207,165,6,,2,441
 South America,OWID_SAM,1996,,48,,27,216,,,,291
@@ -6275,7 +6322,7 @@ South America,OWID_SAM,2001,3,151,0,200,114,40,0,14,522
 South America,OWID_SAM,2002,5,0,0,239,217,84,0,0,545
 South America,OWID_SAM,2003,0,,0,307,104,12,0,339,762
 South America,OWID_SAM,2004,0,1,,345,11,9,,95,461
-South America,OWID_SAM,2005,0,16,0,363,,65,0,,444
+South America,OWID_SAM,2005,0,16,0,363,,70,0,,449
 South America,OWID_SAM,2006,0,,5,232,,,,,237
 South America,OWID_SAM,2007,0,606,0,374,0,,8,82,1070
 South America,OWID_SAM,2008,4,11,16,436,39,3,,,509
@@ -6295,7 +6342,7 @@ South America,OWID_SAM,2021,4,0,0,202,20,0,15,,241
 South America,OWID_SAM,2022,0,1,2,796,194,0,3,,996
 South America,OWID_SAM,2023,5,15,,298,142,70,38,,568
 South America,OWID_SAM,2024,5,0,0,282,53,16,151,,507
-South America,OWID_SAM,2025,0,2,,360,112,112,11,,597
+South America,OWID_SAM,2025,0,2,,364,112,112,11,,601
 South Korea,KOR,1936,,,,,,1104,,,1104
 South Korea,KOR,1954,,,,,,15,,,15
 South Korea,KOR,1956,,,,,103,,,,103
@@ -6328,9 +6375,9 @@ South Korea,KOR,1987,,,,50,,619,,,669
 South Korea,KOR,1988,,,,,25,,,,25
 South Korea,KOR,1989,,,,,,109,,,109
 South Korea,KOR,1990,,,,127,,27,,40,194
-South Korea,KOR,1991,,,,54,,72,,,126
+South Korea,KOR,1991,,,,54,,98,,,152
 South Korea,KOR,1992,,,,5,,0,,,5
-South Korea,KOR,1993,,,,,11,32,,,43
+South Korea,KOR,1993,,,,,11,77,,,88
 South Korea,KOR,1994,,,,,,28,,,28
 South Korea,KOR,1995,,,,,,73,,,73
 South Korea,KOR,1996,,,,85,19,,,,104
@@ -6426,7 +6473,7 @@ Spain,ESP,2021,,,1,3,,5,,,9
 Spain,ESP,2022,,,,,,,0,11324,11324
 Spain,ESP,2023,0,,,3,,1,0,8352,8356
 Spain,ESP,2024,0,,,232,,3,,6743,6978
-Spain,ESP,2025,,,,,,1,,,1
+Spain,ESP,2025,,,,,,1,7,3893,3901
 Sri Lanka,LKA,1957,,,,,,200,,,200
 Sri Lanka,LKA,1964,,,,,,206,,,206
 Sri Lanka,LKA,1966,,,,23,,,,,23
@@ -6540,6 +6587,7 @@ Sweden,SWE,2021,,,,0,,,,,0
 Sweden,SWE,2022,,,,,,,,40,40
 Sweden,SWE,2023,,,,,,,,13,13
 Sweden,SWE,2024,,,,,,,,30,30
+Sweden,SWE,2025,,,,,,,,82,82
 Switzerland,CHE,1951,,,,,92,,,,92
 Switzerland,CHE,1965,,,,,90,,,,90
 Switzerland,CHE,1968,,,,,20,,,,20
@@ -6579,7 +6627,7 @@ Switzerland,CHE,2021,,,,0,17,0,,,17
 Switzerland,CHE,2022,,,,,,,,302,302
 Switzerland,CHE,2023,,,,,2,2,,294,298
 Switzerland,CHE,2024,,,,,,6,,363,369
-Switzerland,CHE,2025,,,,1,,,,,1
+Switzerland,CHE,2025,,,,1,,,,280,281
 Syria,SYR,1967,,,,0,,,,,0
 Syria,SYR,1974,,,,0,,,,,0
 Syria,SYR,1999,0,,,,,,,,0
@@ -6629,20 +6677,21 @@ Taiwan,TWN,1969,,,,,,269,,,269
 Taiwan,TWN,1973,,,,,,40,,,40
 Taiwan,TWN,1975,,,,,,0,,,0
 Taiwan,TWN,1977,,,,45,,61,,,106
-Taiwan,TWN,1981,,,,,,26,,,26
+Taiwan,TWN,1981,,,,,,58,,,58
 Taiwan,TWN,1983,,,,,,82,,,82
 Taiwan,TWN,1984,,,,31,,,,,31
+Taiwan,TWN,1985,,,,,,7,,,7
 Taiwan,TWN,1986,,13,,,14,65,,,92
 Taiwan,TWN,1987,,,,,,61,,,61
-Taiwan,TWN,1989,,,,,,13,,,13
-Taiwan,TWN,1990,,,,,,5,,,5
+Taiwan,TWN,1989,,,,,,19,,,19
+Taiwan,TWN,1990,,,,,,41,,,41
 Taiwan,TWN,1991,,,,,,33,,,33
-Taiwan,TWN,1992,,,,,,8,,,8
+Taiwan,TWN,1992,,,,,,11,,,11
 Taiwan,TWN,1994,,,,,,45,,,45
-Taiwan,TWN,1996,,,,,,65,,,65
+Taiwan,TWN,1996,,,,,,93,,,93
 Taiwan,TWN,1997,,,,10,,44,,,54
-Taiwan,TWN,1998,,,,3,,13,,,16
-Taiwan,TWN,1999,,2265,,,,,,,2265
+Taiwan,TWN,1998,,,,3,,33,,,36
+Taiwan,TWN,1999,,2265,,,,7,,,2272
 Taiwan,TWN,2000,,,,,,103,,,103
 Taiwan,TWN,2001,,,,,,194,,,194
 Taiwan,TWN,2002,,4,,,,1,,,5
@@ -6753,10 +6802,10 @@ Thailand,THA,1978,,,,96,,50,,,146
 Thailand,THA,1980,,,,57,,,,,57
 Thailand,THA,1981,,,,,,55,,,55
 Thailand,THA,1983,,,,50,,,,,50
-Thailand,THA,1984,,,,17,,,,,17
+Thailand,THA,1984,,,,17,,9,,,26
 Thailand,THA,1985,,,,18,,,,,18
 Thailand,THA,1986,,,,42,,,,,42
-Thailand,THA,1987,,,,24,,,,,24
+Thailand,THA,1987,,,,24,,1,,,25
 Thailand,THA,1988,,,,664,,,,,664
 Thailand,THA,1989,,,,,,458,,,458
 Thailand,THA,1990,,,,,,36,,,36
@@ -6815,6 +6864,7 @@ Tokelau,TKL,1925,,,,,,0,,,0
 Tokelau,TKL,1966,,,,,,0,,,0
 Tokelau,TKL,1987,,,,,,0,,,0
 Tokelau,TKL,1990,,,,,,0,,,0
+Tokelau,TKL,1991,,,,,,0,,,0
 Tokelau,TKL,2005,,,,,,0,,,0
 Tonga,TON,1946,,,0,,,,,,0
 Tonga,TON,1961,,,,,,2,,,2
@@ -6822,6 +6872,7 @@ Tonga,TON,1973,,,,,,3,,,3
 Tonga,TON,1977,,1,,,,0,,,1
 Tonga,TON,1982,,,,,,7,,,7
 Tonga,TON,1990,,,,,,1,,,1
+Tonga,TON,1993,,,,,,3,,,3
 Tonga,TON,1997,,,,,,0,,,0
 Tonga,TON,1998,,,,,,0,,,0
 Tonga,TON,2001,,,,,,0,,,0
@@ -6841,6 +6892,7 @@ Trinidad and Tobago,TTO,1990,,,,,,0,,,0
 Trinidad and Tobago,TTO,1993,,,,5,,,,,5
 Trinidad and Tobago,TTO,1996,,,,0,,,,,0
 Trinidad and Tobago,TTO,1997,,0,0,,,,,,0
+Trinidad and Tobago,TTO,2001,,,,,,2,,,2
 Trinidad and Tobago,TTO,2004,,,,,2,1,,,3
 Trinidad and Tobago,TTO,2005,,,,,,0,,,0
 Trinidad and Tobago,TTO,2010,0,,,,,,,,0
@@ -6945,7 +6997,7 @@ Turkey,TUR,2021,,,,73,,,9,,82
 Turkey,TUR,2022,,2,,3,,,,,5
 Turkey,TUR,2023,,53007,,27,,23,,,53057
 Turkey,TUR,2024,,0,,10,,,0,,10
-Turkey,TUR,2025,,1,,,,,12,0,13
+Turkey,TUR,2025,,1,,,,,12,17,30
 Turkmenistan,TKM,1993,,,,0,,,,,0
 Turkmenistan,TKM,2000,,11,,,,,,,11
 Turks and Caicos Islands,TCA,1985,,,,,,0,,,0
@@ -7062,6 +7114,7 @@ United Kingdom,GBR,1987,,,,,,20,,,20
 United Kingdom,GBR,1989,,,,,,13,,,13
 United Kingdom,GBR,1990,,0,,,,83,,,83
 United Kingdom,GBR,1991,,,,,,48,,0,48
+United Kingdom,GBR,1992,,,,,,2,,,2
 United Kingdom,GBR,1993,,,,4,,,,,4
 United Kingdom,GBR,1994,,,,7,,,,,7
 United Kingdom,GBR,1995,,,,,,9,,,9
@@ -7093,7 +7146,7 @@ United Kingdom,GBR,2021,,,,,,1,,,1
 United Kingdom,GBR,2022,0,,,,,6,,3469,3475
 United Kingdom,GBR,2023,,,,,,0,,1851,1851
 United Kingdom,GBR,2024,,,,,,5,,573,578
-United Kingdom,GBR,2025,,,,,,0,,,0
+United Kingdom,GBR,2025,,,,,,0,,1687,1687
 United States,USA,1900,,,,,,6000,,,6000
 United States,USA,1903,,,,250,,98,,,348
 United States,USA,1906,,700,,,,298,,,998
@@ -7153,39 +7206,39 @@ United States,USA,1976,,,,144,,,,,144
 United States,USA,1977,,,,140,,91,,126,357
 United States,USA,1978,,,,27,,250,,,277
 United States,USA,1979,,,,,,175,,,175
-United States,USA,1980,,,90,36,,12,,1260,1398
+United States,USA,1980,,,90,36,,19,,1260,1405
 United States,USA,1981,,,,30,,30,,,60
-United States,USA,1982,,,,11,,503,,,514
-United States,USA,1983,,2,,10,,132,,188,332
-United States,USA,1984,,,,28,,517,,,545
-United States,USA,1985,,,,12,,363,,,375
-United States,USA,1986,,0,,13,,1,,48,62
+United States,USA,1982,,,,41,,466,,,507
+United States,USA,1983,,2,,10,,139,,188,339
+United States,USA,1984,,,,28,,520,,,548
+United States,USA,1985,,,,12,,223,,145,380
+United States,USA,1986,,0,,3,,1,,48,52
 United States,USA,1987,,8,,,,151,,80,239
 United States,USA,1988,0,,,0,,27,,,27
-United States,USA,1989,,67,,,,119,,84,270
-United States,USA,1990,,0,,38,,162,,11,211
-United States,USA,1991,0,2,,8,,87,28,,125
+United States,USA,1989,,67,,,,133,,84,284
+United States,USA,1990,,0,,38,,171,,11,220
+United States,USA,1991,0,2,,8,,85,27,,122
 United States,USA,1992,,1,,7,,97,0,,105
 United States,USA,1993,,2,,98,,291,3,48,442
-United States,USA,1994,,60,,37,0,165,13,,275
-United States,USA,1995,,,,11,,150,,710,871
-United States,USA,1996,,,,61,,287,1,,349
-United States,USA,1997,,,,83,,180,0,,263
-United States,USA,1998,,,,31,,203,2,130,366
-United States,USA,1999,0,,,0,,227,1,257,485
+United States,USA,1994,,60,,37,0,165,14,,276
+United States,USA,1995,,,,11,,143,,710,864
+United States,USA,1996,,,,61,,292,1,,354
+United States,USA,1997,,,,83,,189,0,,272
+United States,USA,1998,,,,31,,229,2,130,392
+United States,USA,1999,0,,,0,,232,1,257,490
 United States,USA,2000,0,0,,8,,105,14,35,162
 United States,USA,2001,0,1,,12,,82,2,56,153
-United States,USA,2002,0,,,26,,190,0,14,230
-United States,USA,2003,,2,,24,15,172,18,,231
+United States,USA,2002,0,,,26,,190,6,14,236
+United States,USA,2003,,2,,24,15,172,19,,232
 United States,USA,2004,,,,1,,215,0,3,219
-United States,USA,2005,,,,50,,1882,2,33,1967
-United States,USA,2006,,0,,43,,93,20,188,344
+United States,USA,2005,,,,50,,1882,11,33,1976
+United States,USA,2006,,0,,43,,93,18,188,342
 United States,USA,2007,0,,,80,,264,8,,352
 United States,USA,2008,0,0,,44,,258,1,0,303
 United States,USA,2009,0,,,11,,74,2,58,145
 United States,USA,2010,,0,,20,,114,,,134
 United States,USA,2011,0,,,17,,760,8,22,807
-United States,USA,2012,0,,,2,,190,3,123,318
+United States,USA,2012,0,,,2,,294,3,123,422
 United States,USA,2013,,,,31,,140,22,19,212
 United States,USA,2014,0,1,,2,43,136,2,21,205
 United States,USA,2015,0,,,89,,218,12,,319
@@ -7282,39 +7335,39 @@ Upper-middle-income countries,OWID_UMC,1976,,276009,41,228,140,1132,,,277550
 Upper-middle-income countries,OWID_UMC,1977,0,1403,,140,27,134,,,1704
 Upper-middle-income countries,OWID_UMC,1978,63,25054,0,363,22,1468,,,26970
 Upper-middle-income countries,OWID_UMC,1979,0,2058,259,624,23,1660,,,4624
-Upper-middle-income countries,OWID_UMC,1980,0,2765,0,7262,190,766,,,10983
-Upper-middle-income countries,OWID_UMC,1981,0,3687,192,3752,335,1354,0,0,9320
-Upper-middle-income countries,OWID_UMC,1982,280,66,130,2209,599,927,,,4211
+Upper-middle-income countries,OWID_UMC,1980,0,2765,0,7262,190,730,,,10947
+Upper-middle-income countries,OWID_UMC,1981,0,3687,192,3752,335,1430,0,0,9396
+Upper-middle-income countries,OWID_UMC,1982,280,66,130,1089,599,2047,,,4211
 Upper-middle-income countries,OWID_UMC,1983,20,1706,0,667,1217,1668,0,17,5295
-Upper-middle-income countries,OWID_UMC,1984,230,8,0,525,137,3356,,,4256
-Upper-middle-income countries,OWID_UMC,1985,0,9667,21800,1624,577,1345,13,68,35094
+Upper-middle-income countries,OWID_UMC,1984,230,8,0,525,137,3392,,,4292
+Upper-middle-income countries,OWID_UMC,1985,0,9667,21800,1624,577,1347,13,68,35096
 Upper-middle-income countries,OWID_UMC,1986,84,1136,,1217,301,997,0,2,3737
-Upper-middle-income countries,OWID_UMC,1987,0,5134,0,2347,1122,1633,191,30,10457
-Upper-middle-income countries,OWID_UMC,1988,1400,25945,7,3143,315,1643,,138,32591
-Upper-middle-income countries,OWID_UMC,1989,0,561,0,2700,337,2947,0,,6545
-Upper-middle-income countries,OWID_UMC,1990,0,42790,33,1230,170,1589,0,380,46192
-Upper-middle-income countries,OWID_UMC,1991,2000,411,640,2458,435,6771,62,25,12802
+Upper-middle-income countries,OWID_UMC,1987,0,5134,0,2347,1122,1660,191,30,10484
+Upper-middle-income countries,OWID_UMC,1988,1400,25945,7,3143,315,1683,,138,32631
+Upper-middle-income countries,OWID_UMC,1989,0,561,0,2700,337,3156,0,,6754
+Upper-middle-income countries,OWID_UMC,1990,0,42790,33,1230,170,1881,0,380,46484
+Upper-middle-income countries,OWID_UMC,1991,2000,411,640,2458,435,6824,62,25,12855
 Upper-middle-income countries,OWID_UMC,1992,0,3170,0,1021,615,1002,,95,5903
-Upper-middle-income countries,OWID_UMC,1993,0,32,92,2685,1005,1035,,,4849
-Upper-middle-income countries,OWID_UMC,1994,0,992,96,2372,105,1830,46,104,5545
-Upper-middle-income countries,OWID_UMC,1995,0,386,0,3214,296,2276,29,49,6250
-Upper-middle-income countries,OWID_UMC,1996,0,576,0,4704,859,1807,25,30,8001
-Upper-middle-income countries,OWID_UMC,1997,672,2836,21,1411,501,4588,240,332,10601
-Upper-middle-income countries,OWID_UMC,1998,8,262,0,5194,344,3028,81,100,9017
-Upper-middle-income countries,OWID_UMC,1999,1,19272,0,3098,324,659,27,15,23396
-Upper-middle-income countries,OWID_UMC,2000,5,206,0,1871,714,690,8,100,3594
-Upper-middle-income countries,OWID_UMC,2001,44,1324,0,2983,476,1104,31,61,6023
+Upper-middle-income countries,OWID_UMC,1993,0,32,92,2694,1005,1045,,,4868
+Upper-middle-income countries,OWID_UMC,1994,0,992,96,2372,105,1841,46,104,5556
+Upper-middle-income countries,OWID_UMC,1995,0,386,0,3214,296,2253,29,49,6227
+Upper-middle-income countries,OWID_UMC,1996,0,576,0,4704,859,1810,25,30,8004
+Upper-middle-income countries,OWID_UMC,1997,672,2836,21,1411,501,4601,240,332,10614
+Upper-middle-income countries,OWID_UMC,1998,8,262,0,5194,344,2766,81,100,8755
+Upper-middle-income countries,OWID_UMC,1999,1,19272,0,3098,324,678,27,15,23415
+Upper-middle-income countries,OWID_UMC,2000,5,206,0,1871,714,691,8,100,3595
+Upper-middle-income countries,OWID_UMC,2001,44,1324,0,2983,476,1137,31,61,6056
 Upper-middle-income countries,OWID_UMC,2002,5,306,0,2220,425,507,3,57,3523
-Upper-middle-income countries,OWID_UMC,2003,0,29602,0,1783,423,212,0,400,32420
-Upper-middle-income countries,OWID_UMC,2004,0,209809,2,1723,367,2320,,176,214397
-Upper-middle-income countries,OWID_UMC,2005,0,1567,2,1398,253,2295,0,2,5517
+Upper-middle-income countries,OWID_UMC,2003,0,29602,0,1783,347,307,2,400,32441
+Upper-middle-income countries,OWID_UMC,2004,0,209809,2,1723,367,2406,,176,214483
+Upper-middle-income countries,OWID_UMC,2005,0,1567,2,1398,253,2357,0,2,5579
 Upper-middle-income countries,OWID_UMC,2006,134,6682,5,1912,1370,3721,0,846,14670
 Upper-middle-income countries,OWID_UMC,2007,0,692,0,2395,92,476,43,101,3799
 Upper-middle-income countries,OWID_UMC,2008,4,87589,16,1411,456,1302,36,145,90959
 Upper-middle-income countries,OWID_UMC,2009,0,1488,0,825,483,2030,,307,5133
 Upper-middle-income countries,OWID_UMC,2010,0,3581,323,3849,2604,675,53,444,11529
 Upper-middle-income countries,OWID_UMC,2011,0,697,3,3527,201,1979,0,84,6491
-Upper-middle-income countries,OWID_UMC,2012,0,571,0,1258,148,2251,5,498,4731
+Upper-middle-income countries,OWID_UMC,2012,0,571,0,1258,148,2252,5,498,4732
 Upper-middle-income countries,OWID_UMC,2013,0,622,0,1488,215,7980,,45,10350
 Upper-middle-income countries,OWID_UMC,2014,0,759,39,1023,427,729,,570,3547
 Upper-middle-income countries,OWID_UMC,2015,11,58,0,671,541,398,30,21,1730
@@ -7326,8 +7379,8 @@ Upper-middle-income countries,OWID_UMC,2020,2,181,1,1017,153,838,35,,2227
 Upper-middle-income countries,OWID_UMC,2021,4,137,71,887,52,954,115,,2220
 Upper-middle-income countries,OWID_UMC,2022,0,498,6,1786,136,644,44,976,4090
 Upper-middle-income countries,OWID_UMC,2023,0,53196,23,744,341,13543,48,870,68765
-Upper-middle-income countries,OWID_UMC,2024,0,12,10,961,460,1131,18,3775,6367
-Upper-middle-income countries,OWID_UMC,2025,0,292,0,1121,266,2964,13,0,4656
+Upper-middle-income countries,OWID_UMC,2024,0,12,10,961,460,1132,18,3775,6368
+Upper-middle-income countries,OWID_UMC,2025,0,292,0,1255,266,3070,13,17,4913
 Uruguay,URY,1967,,,,8,,,,,8
 Uruguay,URY,1986,,,,0,,,,,0
 Uruguay,URY,1991,,,,0,,,,,0
@@ -7341,7 +7394,7 @@ Uruguay,URY,2001,,,,0,,,,,0
 Uruguay,URY,2002,,,,0,,2,,,2
 Uruguay,URY,2003,,,,0,,,,,0
 Uruguay,URY,2004,,,,,,,,0,0
-Uruguay,URY,2005,,,,,,7,,,7
+Uruguay,URY,2005,,,,,,10,,,10
 Uruguay,URY,2007,,,,2,,,,0,2
 Uruguay,URY,2009,,,,1,,,,,1
 Uruguay,URY,2010,,,,,,,,4,4
@@ -7398,6 +7451,7 @@ Vanuatu,VUT,2020,,,,,,3,,,3
 Vanuatu,VUT,2021,,,0,,,,,,0
 Vanuatu,VUT,2023,,,,,,0,,,0
 Vanuatu,VUT,2024,,14,,,,,,,14
+Venezuela,VEN,1929,,50,,,,,,,50
 Venezuela,VEN,1933,,,,,,0,,,0
 Venezuela,VEN,1950,,100,,,,,,,100
 Venezuela,VEN,1962,,,,,30,,,,30
@@ -7407,7 +7461,7 @@ Venezuela,VEN,1981,,,,,20,,,,20
 Venezuela,VEN,1985,,,,38,,,,,38
 Venezuela,VEN,1986,,3,,,,,,,3
 Venezuela,VEN,1987,,,,40,96,,,,136
-Venezuela,VEN,1988,,,,66,,11,,,77
+Venezuela,VEN,1988,,,,66,,16,,,82
 Venezuela,VEN,1989,,0,,,,,,,0
 Venezuela,VEN,1993,,,,,,100,,,100
 Venezuela,VEN,1994,,,,26,18,,,,44
@@ -7451,7 +7505,7 @@ Vietnam,VNM,1983,,,,,,734,,,734
 Vietnam,VNM,1984,,,,33,,155,,,188
 Vietnam,VNM,1985,,,,93,,798,,,891
 Vietnam,VNM,1986,,,,165,,435,,,600
-Vietnam,VNM,1987,0,,,,,123,,,123
+Vietnam,VNM,1987,0,,,,,149,,,149
 Vietnam,VNM,1988,,,,,,157,,,157
 Vietnam,VNM,1989,,,,,,959,,,959
 Vietnam,VNM,1990,,,,82,,102,,,184
@@ -7467,8 +7521,8 @@ Vietnam,VNM,1999,0,,,789,,10,,,799
 Vietnam,VNM,2000,,,,496,73,23,,,592
 Vietnam,VNM,2001,,,,339,,53,,,392
 Vietnam,VNM,2002,0,,,147,,0,0,,147
-Vietnam,VNM,2003,,,,128,,0,,,128
-Vietnam,VNM,2004,,,,96,23,70,,,189
+Vietnam,VNM,2003,,,,128,,4,,,132
+Vietnam,VNM,2004,,,,96,23,94,,,213
 Vietnam,VNM,2005,0,,,192,,116,,,308
 Vietnam,VNM,2006,,,,178,,401,,,579
 Vietnam,VNM,2007,,,,230,,96,,,326
@@ -7489,10 +7543,11 @@ Vietnam,VNM,2021,,,,24,,11,,,35
 Vietnam,VNM,2022,,,,30,,30,,,60
 Vietnam,VNM,2023,,,,24,,6,,,30
 Vietnam,VNM,2024,0,,,3,11,365,,0,379
-Vietnam,VNM,2025,,,,17,,241,,,258
+Vietnam,VNM,2025,,,,125,,133,,,258
 Wallis and Futuna,WLF,1965,,,,,,0,,,0
 Wallis and Futuna,WLF,1966,,,,,,0,,,0
 Wallis and Futuna,WLF,1986,,,,,,1,,,1
+Wallis and Futuna,WLF,1992,,,,,,0,,,0
 Wallis and Futuna,WLF,1993,,5,,,,,,,5
 Wallis and Futuna,WLF,2012,,,,,,0,,,0
 West Germany,OWID_GFR,1920,,,,0,,,,,0
@@ -7540,7 +7595,7 @@ World,OWID_WRL,1925,,6140,,13,,819,,,6972
 World,OWID_WRL,1926,,12,144,1000,128,4029,,,5313
 World,OWID_WRL,1927,,44252,,3246,,5772,,,53270
 World,OWID_WRL,1928,3000000,635,,36,,4224,,,3004895
-World,OWID_WRL,1929,,3270,,,,48,60,,3378
+World,OWID_WRL,1929,,3320,,,,48,60,,3428
 World,OWID_WRL,1930,,5563,1369,230,40,2082,,,9284
 World,OWID_WRL,1931,0,14286,1300,3700000,190,3200,,,3718976
 World,OWID_WRL,1932,0,1627,,,30,3401,,,5058
@@ -7591,39 +7646,39 @@ World,OWID_WRL,1976,28782,277005,41,965,315,1794,0,,308902
 World,OWID_WRL,1977,19655,3098,215,2571,40,15307,3,126,41015
 World,OWID_WRL,1978,19774,25162,0,5909,86,3756,2,150,54839
 World,OWID_WRL,1979,0,2063,268,1039,338,2716,0,470,6894
-World,OWID_WRL,1980,0,7639,90,10467,350,1379,0,1389,21314
-World,OWID_WRL,1981,20109,3979,192,5229,421,3790,8,300,34028
-World,OWID_WRL,1982,20988,2183,130,4389,699,2784,2,400,31575
-World,OWID_WRL,1983,182525,2294,0,2333,1642,3591,106,205,192696
-World,OWID_WRL,1984,255067,60,37,2980,228,4945,17,290,263624
-World,OWID_WRL,1985,75341,9852,21800,4376,677,17168,51,456,129721
-World,OWID_WRL,1986,84,1181,1746,1783,501,1939,20,50,7304
-World,OWID_WRL,1987,1317,5151,0,6770,1387,2929,191,1220,18965
-World,OWID_WRL,1988,1431,27039,7,8504,1109,3335,,644,42069
-World,OWID_WRL,1989,279,650,0,4716,500,4273,1,381,10800
-World,OWID_WRL,1990,42,42845,33,2246,214,4625,0,979,50984
-World,OWID_WRL,1991,2042,2454,683,5850,814,146297,90,757,158987
-World,OWID_WRL,1992,43,4033,1,5242,1035,1344,122,466,12286
-World,OWID_WRL,1993,0,10088,99,6116,1759,3048,3,106,21219
-World,OWID_WRL,1994,0,1242,101,6773,307,4242,84,341,13090
-World,OWID_WRL,1995,0,7739,0,7893,1521,3763,29,1730,22675
-World,OWID_WRL,1996,0,576,4,8104,1158,4581,45,300,14768
-World,OWID_WRL,1997,687,3059,53,7590,801,5685,266,604,18745
-World,OWID_WRL,1998,65,9573,0,10759,1141,25411,150,3269,50368
-World,OWID_WRL,1999,27,21869,0,34811,445,12293,70,771,70286
-World,OWID_WRL,2000,142,217,0,5970,1023,1344,47,927,9670
-World,OWID_WRL,2001,252,21348,0,4956,786,1901,33,1725,31001
-World,OWID_WRL,2002,671,1639,200,4163,1157,1360,6,2922,12118
-World,OWID_WRL,2003,45,29616,0,3724,616,1036,47,74809,109893
-World,OWID_WRL,2004,80,227290,2,7151,447,6547,14,644,242175
-World,OWID_WRL,2005,114,76241,3,5650,664,5238,42,1269,89221
-World,OWID_WRL,2006,169,6692,5,5855,1649,4347,28,5107,23852
+World,OWID_WRL,1980,0,7639,90,10467,350,1350,0,1389,21285
+World,OWID_WRL,1981,20109,3979,192,5229,421,3898,8,300,34136
+World,OWID_WRL,1982,20988,2183,130,3299,699,3869,2,400,31570
+World,OWID_WRL,1983,182525,2294,0,2333,1642,3608,106,205,192713
+World,OWID_WRL,1984,255067,60,37,2980,228,4985,17,290,263664
+World,OWID_WRL,1985,75341,9852,21800,4376,677,17037,51,601,129735
+World,OWID_WRL,1986,84,1181,1746,1773,501,1939,20,50,7294
+World,OWID_WRL,1987,1317,5151,0,6770,1387,2956,191,1220,18992
+World,OWID_WRL,1988,1431,27039,7,8504,1109,3850,,644,42584
+World,OWID_WRL,1989,279,650,0,4716,500,4545,1,381,11072
+World,OWID_WRL,1990,42,42845,33,2246,214,4975,0,979,51334
+World,OWID_WRL,1991,2042,2454,683,5850,814,146396,89,757,159085
+World,OWID_WRL,1992,43,4033,1,5242,1035,1350,122,466,12292
+World,OWID_WRL,1993,0,10088,99,6561,1703,3067,4,106,21628
+World,OWID_WRL,1994,0,1242,101,6773,307,4261,84,341,13109
+World,OWID_WRL,1995,0,7739,0,7893,1521,3806,29,1730,22718
+World,OWID_WRL,1996,0,576,4,7716,1158,5105,45,300,14904
+World,OWID_WRL,1997,687,3059,53,7590,801,5724,266,604,18784
+World,OWID_WRL,1998,65,9573,0,10757,1141,25205,150,3269,50160
+World,OWID_WRL,1999,27,21869,0,34811,445,12449,70,771,70442
+World,OWID_WRL,2000,142,217,0,5970,1023,1367,47,927,9693
+World,OWID_WRL,2001,252,21348,0,4956,786,2446,33,1725,31546
+World,OWID_WRL,2002,671,1639,200,4163,1157,1373,12,2922,12137
+World,OWID_WRL,2003,45,29616,0,3724,540,1135,50,74809,109919
+World,OWID_WRL,2004,80,227290,2,7151,447,6644,14,644,242272
+World,OWID_WRL,2005,114,76241,3,5650,664,5303,51,1269,89295
+World,OWID_WRL,2006,169,6692,5,5855,1649,4347,26,5107,23850
 World,OWID_WRL,2007,0,780,11,8583,271,6035,145,1026,16851
 World,OWID_WRL,2008,5,87915,16,4023,624,140983,86,1703,235355
 World,OWID_WRL,2009,3,1898,0,3523,683,3286,190,1230,10813
 World,OWID_WRL,2010,10000,226724,323,8304,3499,1545,166,57427,307988
 World,OWID_WRL,2011,10000,20946,3,6267,306,3121,9,653,41305
-World,OWID_WRL,2012,0,713,0,3637,517,3105,22,1620,9614
+World,OWID_WRL,2012,0,713,0,3637,517,3213,22,1620,9722
 World,OWID_WRL,2013,0,1120,0,9779,274,8598,35,2035,21841
 World,OWID_WRL,2014,0,771,102,3528,960,1432,16,1168,7977
 World,OWID_WRL,2015,35,9551,0,3468,1028,1282,78,7425,22867
@@ -7635,8 +7690,8 @@ World,OWID_WRL,2020,47,196,1,6398,514,1795,86,6570,15607
 World,OWID_WRL,2021,4,2742,104,4416,224,1887,127,1044,10548
 World,OWID_WRL,2022,2601,1753,6,8034,403,1588,77,61782,76244
 World,OWID_WRL,2023,252,63473,23,7519,654,15514,263,48094,135792
-World,OWID_WRL,2024,5,750,10,6164,2259,2594,170,68022,79974
-World,OWID_WRL,2025,89,6353,0,5236,958,3641,96,0,16373
+World,OWID_WRL,2024,5,750,10,6164,2259,2595,170,68022,79975
+World,OWID_WRL,2025,89,6353,0,5394,958,3723,104,24407,41028
 Yemen,YEM,1991,,10,,0,,,,,10
 Yemen,YEM,1993,,,,31,,,,,31
 Yemen,YEM,1996,,,,345,,,,,345

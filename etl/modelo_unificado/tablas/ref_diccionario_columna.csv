@@ -48,7 +48,7 @@ dim_subdivision,subdivision_padre_id,INTEGER,,100.0
 dim_subdivision,region_subnacional_id,INTEGER,,99.3
 dim_subdivision,latitud,REAL,grados decimales,0.9
 dim_subdivision,longitud,REAL,grados decimales,0.9
-dim_subdivision,wikidata_id,TEXT,,0.5
+dim_subdivision,wikidata_id,TEXT,,0.4
 dim_subdivision,es_iso_3166_2,INTEGER,0/1,0.0
 dim_subdivision,pais_equivalente_id,INTEGER,,99.2
 pais_equivalencia,pais_id,INTEGER,,0.0
@@ -77,46 +77,46 @@ dim_rama_cepal,grupo_sector,TEXT,,0.0
 hecho_pais_anual,pais_id,INTEGER,,0.0
 hecho_pais_anual,anio,INTEGER,,0.0
 hecho_pais_anual,poblacion,INTEGER,,0.0
-hecho_pais_anual,pib_pc_ppp,REAL,,9.4
-hecho_pais_anual,esperanza_vida,REAL,,0.0
-hecho_pais_anual,mortalidad_infantil,REAL,,9.7
-hecho_pais_anual,camas_hospital_x1000,REAL,por 1.000 hab.,45.7
-hecho_pais_anual,medicos_x1000,REAL,por 1.000 hab.,47.3
-hecho_pais_anual,suicidio_total_x100k,REAL,por 100.000 hab.,25.0
-hecho_pais_anual,suicidio_hombres_x100k,REAL,por 100.000 hab.,25.0
-hecho_pais_anual,suicidio_mujeres_x100k,REAL,por 100.000 hab.,25.0
-hecho_pais_anual,gasto_salud_pct_pib,REAL,% del PIB,16.2
-hecho_pais_anual,gasto_salud_pct_gasto_pub,REAL,%,16.2
-hecho_pais_anual,gasto_educacion_pct_pib,REAL,% del PIB,38.0
-hecho_pais_anual,tipo_cambio_lcu_por_usd,REAL,US$,4.7
-hecho_pais_anual,ppa_lcu_por_usd_intl,REAL,US$,8.4
-hecho_pais_anual,gini,REAL,,65.7
-hecho_pais_anual,ingreso_decil1_pct,REAL,%,65.7
-hecho_pais_anual,ingreso_quintil1_pct,REAL,%,65.7
-hecho_pais_anual,ingreso_quintil2_pct,REAL,%,65.7
-hecho_pais_anual,ingreso_quintil3_pct,REAL,%,65.7
-hecho_pais_anual,ingreso_quintil4_pct,REAL,%,65.7
-hecho_pais_anual,ingreso_quintil5_pct,REAL,%,65.7
-hecho_pais_anual,ingreso_decil10_pct,REAL,%,65.7
-hecho_pais_anual,lorenz_acum_10,REAL,,65.7
-hecho_pais_anual,lorenz_acum_20,REAL,,65.7
-hecho_pais_anual,lorenz_acum_40,REAL,,65.7
-hecho_pais_anual,lorenz_acum_60,REAL,,65.7
-hecho_pais_anual,lorenz_acum_80,REAL,,65.7
-hecho_pais_anual,lorenz_acum_90,REAL,,65.7
-hecho_pais_anual,gini_aprox_desde_lorenz,REAL,,65.7
-hecho_pais_anual,ratio_quintil5_quintil1,REAL,,65.7
-hecho_pais_anual,ratio_palma,REAL,,65.7
-hecho_pais_anual,dieta_saludable_lcu_dia,REAL,moneda local por día,74.5
-hecho_pais_anual,dieta_saludable_ppa_dia,REAL,US$ PPA por día,75.5
-hecho_pais_anual,pct_no_puede_pagar_dieta_saludable,REAL,%,78.5
-hecho_pais_anual,dieta_saludable_usd_mes,REAL,US$ por mes,75.3
-hecho_pais_anual,dieta_saludable_lcu_mes,REAL,moneda local por mes,74.5
-hecho_pais_anual,salario_promedio_mensual_lcu,REAL,moneda local,57.8
-hecho_pais_anual,salario_promedio_mensual_usd,REAL,US$,59.2
-hecho_pais_anual,salario_promedio_mensual_ppa,REAL,US$ PPA,60.4
-hecho_pais_anual,felicidad,REAL,,64.2
-hecho_pais_anual,felicidad_ranking,REAL,,64.2
+hecho_pais_anual,pib_pc_ppp,REAL,,9.6
+hecho_pais_anual,esperanza_vida,REAL,,3.8
+hecho_pais_anual,mortalidad_infantil,REAL,,13.2
+hecho_pais_anual,camas_hospital_x1000,REAL,por 1.000 hab.,47.8
+hecho_pais_anual,medicos_x1000,REAL,por 1.000 hab.,49.3
+hecho_pais_anual,suicidio_total_x100k,REAL,por 100.000 hab.,27.9
+hecho_pais_anual,suicidio_hombres_x100k,REAL,por 100.000 hab.,27.9
+hecho_pais_anual,suicidio_mujeres_x100k,REAL,por 100.000 hab.,27.9
+hecho_pais_anual,gasto_salud_pct_pib,REAL,% del PIB,19.4
+hecho_pais_anual,gasto_salud_pct_gasto_pub,REAL,%,19.4
+hecho_pais_anual,gasto_educacion_pct_pib,REAL,% del PIB,40.3
+hecho_pais_anual,tipo_cambio_lcu_por_usd,REAL,US$,4.9
+hecho_pais_anual,ppa_lcu_por_usd_intl,REAL,US$,8.7
+hecho_pais_anual,gini,REAL,,66.9
+hecho_pais_anual,ingreso_decil1_pct,REAL,%,66.9
+hecho_pais_anual,ingreso_quintil1_pct,REAL,%,66.9
+hecho_pais_anual,ingreso_quintil2_pct,REAL,%,66.9
+hecho_pais_anual,ingreso_quintil3_pct,REAL,%,66.9
+hecho_pais_anual,ingreso_quintil4_pct,REAL,%,66.9
+hecho_pais_anual,ingreso_quintil5_pct,REAL,%,66.9
+hecho_pais_anual,ingreso_decil10_pct,REAL,%,66.9
+hecho_pais_anual,lorenz_acum_10,REAL,,66.9
+hecho_pais_anual,lorenz_acum_20,REAL,,66.9
+hecho_pais_anual,lorenz_acum_40,REAL,,66.9
+hecho_pais_anual,lorenz_acum_60,REAL,,66.9
+hecho_pais_anual,lorenz_acum_80,REAL,,66.9
+hecho_pais_anual,lorenz_acum_90,REAL,,66.9
+hecho_pais_anual,gini_aprox_desde_lorenz,REAL,,66.9
+hecho_pais_anual,ratio_quintil5_quintil1,REAL,,66.9
+hecho_pais_anual,ratio_palma,REAL,,66.9
+hecho_pais_anual,dieta_saludable_lcu_dia,REAL,moneda local por día,72.4
+hecho_pais_anual,dieta_saludable_ppa_dia,REAL,US$ PPA por día,73.5
+hecho_pais_anual,pct_no_puede_pagar_dieta_saludable,REAL,%,76.7
+hecho_pais_anual,dieta_saludable_usd_mes,REAL,US$ por mes,73.4
+hecho_pais_anual,dieta_saludable_lcu_mes,REAL,moneda local por mes,72.4
+hecho_pais_anual,salario_promedio_mensual_lcu,REAL,moneda local,58.3
+hecho_pais_anual,salario_promedio_mensual_usd,REAL,US$,59.7
+hecho_pais_anual,salario_promedio_mensual_ppa,REAL,US$ PPA,60.9
+hecho_pais_anual,felicidad,REAL,,63.0
+hecho_pais_anual,felicidad_ranking,REAL,,63.0
 rel_pais_organizacion,pais_id,INTEGER,,0.0
 rel_pais_organizacion,organizacion_codigo,TEXT,,0.0
 rel_pais_organizacion,estado,TEXT,,0.0
@@ -140,10 +140,10 @@ rel_alianza_militar_anual,no_agresion,INTEGER,,0.0
 rel_alianza_militar_anual,consulta,INTEGER,,0.0
 hecho_pais_relaciones_anual,pais_id,INTEGER,,0.0
 hecho_pais_relaciones_anual,anio,INTEGER,,0.0
-hecho_pais_relaciones_anual,n_igos_cow_total,INTEGER,,48.4
-hecho_pais_relaciones_anual,n_acuerdos_comerciales_en_vigor,INTEGER,,19.2
-hecho_pais_relaciones_anual,n_aliados_defensa,INTEGER,,26.9
-hecho_pais_relaciones_anual,n_aliados_cualquier_pacto,INTEGER,,26.9
+hecho_pais_relaciones_anual,n_igos_cow_total,INTEGER,,50.3
+hecho_pais_relaciones_anual,n_acuerdos_comerciales_en_vigor,INTEGER,,22.2
+hecho_pais_relaciones_anual,n_aliados_defensa,INTEGER,,29.6
+hecho_pais_relaciones_anual,n_aliados_cualquier_pacto,INTEGER,,29.6
 hecho_pais_perfil_factbook,pais_id,INTEGER,,0.0
 hecho_pais_perfil_factbook,codigo_gec,TEXT,,0.0
 hecho_pais_perfil_factbook,fecha_snapshot,TEXT,,0.0
@@ -211,8 +211,8 @@ hecho_pais_emisiones,energia_renovable_pct_consumo_final,REAL,%,17.0
 hecho_pais_emisiones,electricidad_renovable_pct,REAL,%,5.4
 hecho_pais_emisiones,electricidad_hidro_pct,REAL,%,7.0
 hecho_pais_emisiones,electricidad_solar_eolica_pct,REAL,%,5.4
-hecho_pais_emisiones,personas_afectadas_desastres_climaticos,INTEGER,,45.8
-hecho_pais_emisiones,muertes_desastres_climaticos,INTEGER,,45.8
+hecho_pais_emisiones,personas_afectadas_desastres_climaticos,INTEGER,,45.3
+hecho_pais_emisiones,muertes_desastres_climaticos,INTEGER,,45.3
 hecho_pais_capital_social,pais_id,INTEGER,,0.0
 hecho_pais_capital_social,anio,INTEGER,,0.0
 hecho_pais_capital_social,confianza_interpersonal_pct,REAL,%,92.3
@@ -295,11 +295,11 @@ hecho_pais_educacion,escolaridad_esperada_anios,REAL,años,77.3
 hecho_pais_educacion,escolaridad_ajustada_aprendizaje_anios,REAL,años,78.1
 hecho_pais_digital_ocio,pais_id,INTEGER,,0.0
 hecho_pais_digital_ocio,anio,INTEGER,,0.0
-hecho_pais_digital_ocio,usa_redes_sociales_16_74_pct,REAL,%,30.4
-hecho_pais_digital_ocio,usa_redes_sociales_16_24_pct,REAL,%,33.7
-hecho_pais_digital_ocio,compro_online_videojuegos_software_16_74_pct,REAL,%,21.9
-hecho_pais_digital_ocio,compro_online_videojuegos_software_16_24_pct,REAL,%,24.3
-hecho_pais_digital_ocio,compro_online_algo_16_74_pct,REAL,%,0.5
+hecho_pais_digital_ocio,usa_redes_sociales_16_74_pct,REAL,%,30.0
+hecho_pais_digital_ocio,usa_redes_sociales_16_24_pct,REAL,%,33.6
+hecho_pais_digital_ocio,compro_online_videojuegos_software_16_74_pct,REAL,%,22.3
+hecho_pais_digital_ocio,compro_online_videojuegos_software_16_24_pct,REAL,%,24.8
+hecho_pais_digital_ocio,compro_online_algo_16_74_pct,REAL,%,0.9
 hecho_pais_empleo_sectorial,pais_id,INTEGER,,0.0
 hecho_pais_empleo_sectorial,anio,INTEGER,,0.0
 hecho_pais_empleo_sectorial,empleo_total_modelado_miles_personas,REAL,miles de personas,1.1
@@ -310,14 +310,14 @@ hecho_pais_empleo_sectorial,empleo_bibliotecas_museos_patrimonio_miles_personas,
 hecho_pais_empleo_sectorial,empleo_juegos_azar_apuestas_miles_personas,REAL,miles de personas,79.3
 hecho_pais_gasto_cultura,pais_id,INTEGER,,0.0
 hecho_pais_gasto_cultura,anio,INTEGER,,0.0
-hecho_pais_gasto_cultura,gasto_recreacion_cultura_religion_pct_pib,REAL,% del PIB,7.4
+hecho_pais_gasto_cultura,gasto_recreacion_cultura_religion_pct_pib,REAL,% del PIB,7.3
 hecho_pais_gasto_cultura,gasto_recreacion_cultura_religion_pct_gasto_publico,REAL,% del gasto público,7.1
-hecho_pais_gasto_cultura,gasto_servicios_culturales_pct_pib,REAL,% del PIB,32.4
-hecho_pais_gasto_cultura,gasto_servicios_culturales_pct_gasto_publico,REAL,% del gasto público,32.2
-hecho_pais_gasto_cultura,gasto_recreacion_cultura_religion_gob_central_pct_pib,REAL,% del PIB,10.4
-hecho_pais_gasto_cultura,gasto_servicios_culturales_gob_central_pct_pib,REAL,% del PIB,36.1
-hecho_pais_gasto_cultura,gasto_recreacion_cultura_religion_usd_ppa_millones,REAL,millones de US$ PPA,61.7
-hecho_pais_gasto_cultura,fuente_gobierno_general,TEXT,,7.4
+hecho_pais_gasto_cultura,gasto_servicios_culturales_pct_pib,REAL,% del PIB,32.3
+hecho_pais_gasto_cultura,gasto_servicios_culturales_pct_gasto_publico,REAL,% del gasto público,32.1
+hecho_pais_gasto_cultura,gasto_recreacion_cultura_religion_gob_central_pct_pib,REAL,% del PIB,10.3
+hecho_pais_gasto_cultura,gasto_servicios_culturales_gob_central_pct_pib,REAL,% del PIB,36.0
+hecho_pais_gasto_cultura,gasto_recreacion_cultura_religion_usd_ppa_millones,REAL,millones de US$ PPA,61.8
+hecho_pais_gasto_cultura,fuente_gobierno_general,TEXT,,7.3
 hecho_pais_deporte_olimpico,pais_id,INTEGER,,0.0
 hecho_pais_deporte_olimpico,anio,INTEGER,,0.0
 hecho_pais_deporte_olimpico,juegos_olimpicos,TEXT,,0.0
@@ -329,7 +329,7 @@ hecho_pais_deporte_olimpico,medallas_bronce,INTEGER,,0.0
 hecho_pais_consolas_comercio,pais_id,INTEGER,,0.0
 hecho_pais_consolas_comercio,anio,INTEGER,,0.0
 hecho_pais_consolas_comercio,importaciones_consolas_usd,REAL,US$,0.1
-hecho_pais_consolas_comercio,exportaciones_consolas_usd,REAL,US$,31.1
+hecho_pais_consolas_comercio,exportaciones_consolas_usd,REAL,US$,31.2
 hecho_pais_suicidio,pais_id,INTEGER,,0.0
 hecho_pais_suicidio,anio,INTEGER,,0.0
 hecho_pais_suicidio,sexo,TEXT,,0.0
@@ -382,7 +382,7 @@ hecho_subdivision_agricultura,cultivo,TEXT,,0.0
 hecho_subdivision_agricultura,sup_sembrada_ha,INTEGER,hectáreas,0.0
 hecho_subdivision_agricultura,sup_cosechada_ha,INTEGER,hectáreas,0.0
 hecho_subdivision_agricultura,produccion_tn,INTEGER,toneladas,0.0
-hecho_subdivision_agricultura,rendimiento_kg_ha,REAL,hectáreas,8.8
+hecho_subdivision_agricultura,rendimiento_kg_ha,REAL,hectáreas,8.7
 hecho_subdivision_ganaderia,subdivision_id,INTEGER,,0.0
 hecho_subdivision_ganaderia,anio,INTEGER,,0.0
 hecho_subdivision_ganaderia,vacas,REAL,,0.0
@@ -432,10 +432,10 @@ hecho_subdivision_clima,anio,INTEGER,,0.0
 hecho_subdivision_clima,temperatura_media_c,REAL,°C,0.0
 hecho_subdivision_salud,subdivision_id,INTEGER,,0.0
 hecho_subdivision_salud,anio,INTEGER,,0.0
-hecho_subdivision_salud,pct_vacuna_srp_1ra_dosis_12_meses,REAL,%,0.0
-hecho_subdivision_salud,pct_vacuna_srp_2da_dosis_ingreso_escolar,REAL,%,0.0
-hecho_subdivision_salud,medicos,REAL,,25.0
-hecho_subdivision_salud,medicos_cada_10000_hab,REAL,por 10.000 hab.,25.0
+hecho_subdivision_salud,pct_vacuna_srp_1ra_dosis_12_meses,REAL,%,55.6
+hecho_subdivision_salud,pct_vacuna_srp_2da_dosis_ingreso_escolar,REAL,%,55.6
+hecho_subdivision_salud,medicos,INTEGER,,0.0
+hecho_subdivision_salud,medicos_cada_10000_hab,REAL,por 10.000 hab.,55.6
 hecho_subdivision_empresas,subdivision_id,INTEGER,,0.0
 hecho_subdivision_empresas,anio,INTEGER,,0.0
 hecho_subdivision_empresas,empresas_con_empleados,INTEGER,,0.0
