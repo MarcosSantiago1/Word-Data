@@ -37,6 +37,7 @@ import extraer_argentina_provincias as ar  # noqa: E402
 import extraer_latam_subnacional as la  # noqa: E402
 import paso2_distribucion_precios_bienestar as p2  # noqa: E402
 from paso1_extraer_banco_mundial import URL_BASE  # noqa: E402
+from suicidio_estandarizado import extraer_suicidio_estandarizado as su  # noqa: E402
 
 HISTORIAL = ETL / "actualizaciones" / "estado_fuentes.csv"
 CA_SALUD = ETL / "argentina_provincias" / "crudos" / "certificados_salud.pem"
@@ -54,6 +55,7 @@ def fuentes():
         ("Banco Mundial Food Prices for Nutrition", "paso2", [f"{URL_BASE}/sources/88?format=json"], {}),
         ("ILOSTAT salario promedio", "paso2", [p2.URL_ILOSTAT], {"headers": p2.CABECERAS}),
         ("World Happiness Report", "paso2", [p2.URL_FELICIDAD], {}),
+        ("OMS GHO suicidio estandarizado (MH_12)", "suicidio", [f"{su.URL_BASE}/MH_12?$top=1"], {}),
         ("Wikidata SPARQL", "maestros", [ma.WIKIDATA + "?query=ASK%7B%7D&format=json"], {"headers": ma.CABECERA}),
         ("Banco Mundial países (es/en)", "maestros/modelo", [mu.URL_BM_PAISES], {}),
         ("Regiones M49 (lukes)", "modelo", [mu.URL_M49], {}),
