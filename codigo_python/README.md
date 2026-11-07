@@ -17,7 +17,7 @@ Por eso:
 
   Borra las copias anteriores, vuelve a copiar cada `.py` y `requirements.txt`, y no toca este README.
 
-Librerías necesarias: `pip install -r requirements.txt` (requests, pandas, openpyxl, xlrd, pyreadr, pycountry, lxml).
+Librerías necesarias: `pip install -r requirements.txt` (requests, pandas, openpyxl, xlrd, pyreadr, pycountry, lxml; statsmodels y scikit-learn solo para las regresiones).
 
 ## Orden de ejecución
 
