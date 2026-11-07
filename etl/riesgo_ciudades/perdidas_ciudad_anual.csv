@@ -1,0 +1,1134 @@
+ciudad_id,ciudad,iso3,anio,tipo,fuente,eventos,muertos,heridos,desaparecidos,damnificados,afectados,viv_destruidas,viv_afectadas
+belo_horizonte,Belo Horizonte,BRA,1997,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+belo_horizonte,Belo Horizonte,BRA,2003,socionatural,Atlas Digital de Desastres (S2iD),1,17.0,0.0,0.0,0.0,0.0,500.0,0.0
+belo_horizonte,Belo Horizonte,BRA,2008,socionatural,Atlas Digital de Desastres (S2iD),1,6.0,0.0,0.0,10090.0,189200.0,90.0,2006.0
+belo_horizonte,Belo Horizonte,BRA,2009,socionatural,Atlas Digital de Desastres (S2iD),2,0.0,0.0,0.0,537.0,110000.0,0.0,0.0
+belo_horizonte,Belo Horizonte,BRA,2010,socionatural,Atlas Digital de Desastres (S2iD),3,1.0,0.0,0.0,20.0,200000.0,0.0,17.0
+belo_horizonte,Belo Horizonte,BRA,2011,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,6222.0,2000000.0,0.0,405.0
+belo_horizonte,Belo Horizonte,BRA,2012,socionatural,Atlas Digital de Desastres (S2iD),2,2.0,0.0,0.0,0.0,11.0,0.0,0.0
+belo_horizonte,Belo Horizonte,BRA,2013,otro,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,1000000.0,0.0,0.0
+belo_horizonte,Belo Horizonte,BRA,2015,socionatural,Atlas Digital de Desastres (S2iD),3,0.0,0.0,0.0,0.0,0.0,0.0,13.0
+belo_horizonte,Belo Horizonte,BRA,2016,otro,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+belo_horizonte,Belo Horizonte,BRA,2016,socionatural,Atlas Digital de Desastres (S2iD),1,1.0,1.0,0.0,1020.0,0.0,0.0,0.0
+belo_horizonte,Belo Horizonte,BRA,2017,otro,Atlas Digital de Desastres (S2iD),2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+belo_horizonte,Belo Horizonte,BRA,2017,socionatural,Atlas Digital de Desastres (S2iD),4,1.0,2.0,0.0,0.0,3.0,0.0,0.0
+belo_horizonte,Belo Horizonte,BRA,2018,otro,Atlas Digital de Desastres (S2iD),1,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+belo_horizonte,Belo Horizonte,BRA,2018,socionatural,Atlas Digital de Desastres (S2iD),3,6.0,15.0,0.0,1156.0,850000.0,0.0,1876.0
+belo_horizonte,Belo Horizonte,BRA,2019,otro,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+belo_horizonte,Belo Horizonte,BRA,2020,socionatural,Atlas Digital de Desastres (S2iD),2,12.0,0.0,0.0,0.0,0.0,0.0,103.0
+belo_horizonte,Belo Horizonte,BRA,2021,socionatural,Atlas Digital de Desastres (S2iD),2,0.0,0.0,0.0,191.0,1854.0,627.0,11.0
+belo_horizonte,Belo Horizonte,BRA,2022,otro,Atlas Digital de Desastres (S2iD),1,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+belo_horizonte,Belo Horizonte,BRA,2022,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,92.0,1003.0,0.0,0.0
+belo_horizonte,Belo Horizonte,BRA,2024,otro,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,2375444.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1912,otro,DesInventar,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1914,otro,DesInventar,3,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+bogota,Bogotá D.C.,COL,1914,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1916,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1917,socionatural,DesInventar,3,9.0,25.0,0.0,0.0,15000.0,50.0,589.0
+bogota,Bogotá D.C.,COL,1920,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1921,socionatural,DesInventar,1,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1923,socionatural,DesInventar,2,3.0,5.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1924,socionatural,DesInventar,2,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+bogota,Bogotá D.C.,COL,1926,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1927,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1928,socionatural,DesInventar,4,5.0,0.0,0.0,0.0,0.0,40.0,0.0
+bogota,Bogotá D.C.,COL,1929,socionatural,DesInventar,1,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1930,socionatural,DesInventar,3,1.0,0.0,0.0,0.0,2500.0,10.0,0.0
+bogota,Bogotá D.C.,COL,1931,socionatural,DesInventar,3,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1932,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1932,socionatural,DesInventar,1,0.0,6.0,0.0,300.0,100.0,60.0,0.0
+bogota,Bogotá D.C.,COL,1933,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1934,socionatural,DesInventar,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1935,socionatural,DesInventar,5,6.0,0.0,0.0,0.0,50.0,2.0,12.0
+bogota,Bogotá D.C.,COL,1937,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,410.0,101.0,0.0
+bogota,Bogotá D.C.,COL,1938,socionatural,DesInventar,8,4.0,6.0,0.0,0.0,740.0,100.0,0.0
+bogota,Bogotá D.C.,COL,1939,socionatural,DesInventar,3,0.0,0.0,0.0,0.0,50.0,12.0,0.0
+bogota,Bogotá D.C.,COL,1940,socionatural,DesInventar,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1941,socionatural,DesInventar,2,1.0,3.0,0.0,0.0,3.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1942,socionatural,DesInventar,6,5.0,14.0,0.0,0.0,480.0,50.0,0.0
+bogota,Bogotá D.C.,COL,1943,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1944,socionatural,DesInventar,6,1.0,1.0,0.0,0.0,290.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1945,socionatural,DesInventar,6,3.0,0.0,0.0,0.0,450.0,17.0,0.0
+bogota,Bogotá D.C.,COL,1946,socionatural,DesInventar,3,0.0,0.0,0.0,0.0,200.0,8.0,0.0
+bogota,Bogotá D.C.,COL,1947,socionatural,DesInventar,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1948,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1948,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1949,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,360.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1950,socionatural,DesInventar,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1951,socionatural,DesInventar,5,3.0,0.0,0.0,0.0,20.0,2.0,0.0
+bogota,Bogotá D.C.,COL,1952,socionatural,DesInventar,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1953,socionatural,DesInventar,4,1.0,0.0,0.0,0.0,6000.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1954,socionatural,DesInventar,3,1.0,0.0,0.0,0.0,300.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1955,socionatural,DesInventar,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1956,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,0.0,12.0,0.0
+bogota,Bogotá D.C.,COL,1957,socionatural,DesInventar,8,0.0,0.0,0.0,0.0,0.0,3.0,0.0
+bogota,Bogotá D.C.,COL,1958,socionatural,DesInventar,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1959,socionatural,DesInventar,9,11.0,2.0,0.0,0.0,150.0,10.0,0.0
+bogota,Bogotá D.C.,COL,1960,socionatural,DesInventar,3,4.0,0.0,0.0,0.0,6800.0,200.0,0.0
+bogota,Bogotá D.C.,COL,1961,socionatural,DesInventar,13,1.0,14.0,0.0,0.0,245.0,17.0,0.0
+bogota,Bogotá D.C.,COL,1962,socionatural,DesInventar,4,1.0,2.0,0.0,0.0,10.0,36.0,0.0
+bogota,Bogotá D.C.,COL,1963,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1963,socionatural,DesInventar,6,0.0,0.0,0.0,0.0,123.0,5.0,0.0
+bogota,Bogotá D.C.,COL,1964,otro,DesInventar,1,0.0,0.0,0.0,30.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1964,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1965,socionatural,DesInventar,7,2.0,0.0,0.0,0.0,6163.0,27.0,0.0
+bogota,Bogotá D.C.,COL,1966,socionatural,DesInventar,11,12.0,27.0,0.0,0.0,2000.0,130.0,0.0
+bogota,Bogotá D.C.,COL,1967,socionatural,DesInventar,8,30.0,0.0,0.0,0.0,2510.0,10.0,0.0
+bogota,Bogotá D.C.,COL,1968,socionatural,DesInventar,5,0.0,0.0,0.0,0.0,100.0,10.0,0.0
+bogota,Bogotá D.C.,COL,1969,socionatural,DesInventar,7,0.0,0.0,0.0,0.0,3300.0,10.0,0.0
+bogota,Bogotá D.C.,COL,1970,otro,DesInventar,27,22.0,96.0,0.0,187.0,0.0,5.0,2.0
+bogota,Bogotá D.C.,COL,1970,socionatural,DesInventar,21,4.0,3.0,0.0,76.0,1642.0,10.0,100.0
+bogota,Bogotá D.C.,COL,1971,otro,DesInventar,15,5.0,7.0,0.0,14.0,0.0,4.0,22.0
+bogota,Bogotá D.C.,COL,1971,socionatural,DesInventar,11,17.0,0.0,0.0,0.0,150.0,1.0,0.0
+bogota,Bogotá D.C.,COL,1972,otro,DesInventar,13,7.0,10.0,0.0,31.0,5000.0,5.0,0.0
+bogota,Bogotá D.C.,COL,1972,socionatural,DesInventar,8,3.0,21.0,0.0,0.0,18.0,3.0,0.0
+bogota,Bogotá D.C.,COL,1973,otro,DesInventar,8,10.0,271.0,0.0,0.0,0.0,3.0,0.0
+bogota,Bogotá D.C.,COL,1973,socionatural,DesInventar,8,7.0,9.0,0.0,0.0,418.0,12.0,0.0
+bogota,Bogotá D.C.,COL,1974,otro,DesInventar,6,21.0,31.0,0.0,23.0,0.0,3.0,0.0
+bogota,Bogotá D.C.,COL,1974,socionatural,DesInventar,7,3.0,3.0,0.0,0.0,1140.0,25.0,0.0
+bogota,Bogotá D.C.,COL,1975,otro,DesInventar,8,0.0,132.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1975,socionatural,DesInventar,15,13.0,8.0,0.0,0.0,1300.0,11.0,53.0
+bogota,Bogotá D.C.,COL,1976,otro,DesInventar,4,6.0,7.0,0.0,15.0,0.0,1.0,2.0
+bogota,Bogotá D.C.,COL,1976,socionatural,DesInventar,10,3.0,0.0,0.0,0.0,1810.0,1.0,0.0
+bogota,Bogotá D.C.,COL,1977,otro,DesInventar,11,2.0,126.0,0.0,0.0,11000.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1977,socionatural,DesInventar,18,6.0,1.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1978,otro,DesInventar,7,9.0,64.0,0.0,20.0,0.0,3.0,4.0
+bogota,Bogotá D.C.,COL,1978,socionatural,DesInventar,9,0.0,0.0,0.0,0.0,90.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1979,otro,DesInventar,12,17.0,48.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1979,socionatural,DesInventar,16,0.0,0.0,0.0,0.0,10355.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1980,otro,DesInventar,11,3.0,12.0,0.0,0.0,0.0,1.0,1.0
+bogota,Bogotá D.C.,COL,1980,socionatural,DesInventar,4,4.0,1.0,0.0,0.0,0.0,1.0,0.0
+bogota,Bogotá D.C.,COL,1981,otro,DesInventar,4,3.0,0.0,0.0,0.0,10.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1981,socionatural,DesInventar,16,2.0,1.0,0.0,0.0,950.0,38.0,0.0
+bogota,Bogotá D.C.,COL,1982,otro,DesInventar,21,20.0,62.0,5.0,0.0,0.0,4.0,0.0
+bogota,Bogotá D.C.,COL,1982,socionatural,DesInventar,13,2.0,2.0,0.0,0.0,240.0,1.0,0.0
+bogota,Bogotá D.C.,COL,1983,otro,DesInventar,7,3.0,32.0,1.0,0.0,0.0,0.0,103.0
+bogota,Bogotá D.C.,COL,1983,socionatural,DesInventar,9,0.0,15.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1984,otro,DesInventar,6,5.0,47.0,0.0,0.0,0.0,5.0,1.0
+bogota,Bogotá D.C.,COL,1984,socionatural,DesInventar,8,3.0,2.0,0.0,0.0,500.0,51.0,0.0
+bogota,Bogotá D.C.,COL,1985,otro,DesInventar,7,0.0,1.0,0.0,120.0,0.0,12.0,0.0
+bogota,Bogotá D.C.,COL,1985,socionatural,DesInventar,8,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1986,otro,DesInventar,2,0.0,9.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1986,socionatural,DesInventar,19,9.0,6.0,0.0,0.0,25983.0,127.0,200.0
+bogota,Bogotá D.C.,COL,1987,otro,DesInventar,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1987,socionatural,DesInventar,9,3.0,0.0,0.0,0.0,1550.0,10.0,40.0
+bogota,Bogotá D.C.,COL,1988,otro,DesInventar,2,0.0,6.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1988,socionatural,DesInventar,14,5.0,5.0,0.0,1000.0,160.0,0.0,1000.0
+bogota,Bogotá D.C.,COL,1989,otro,DesInventar,7,15.0,180.0,0.0,0.0,0.0,2.0,0.0
+bogota,Bogotá D.C.,COL,1989,socionatural,DesInventar,11,0.0,0.0,0.0,0.0,176.0,4.0,0.0
+bogota,Bogotá D.C.,COL,1990,socionatural,DesInventar,7,1.0,0.0,2.0,0.0,120.0,28.0,0.0
+bogota,Bogotá D.C.,COL,1991,otro,DesInventar,2,2.0,40.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1991,socionatural,DesInventar,13,1.0,0.0,0.0,18.0,2622.0,4.0,0.0
+bogota,Bogotá D.C.,COL,1992,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1992,socionatural,DesInventar,5,1.0,0.0,0.0,52.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1993,socionatural,DesInventar,3,2.0,1.0,0.0,0.0,316.0,64.0,0.0
+bogota,Bogotá D.C.,COL,1994,otro,DesInventar,6,0.0,41.0,3.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1994,socionatural,DesInventar,12,6.0,0.0,0.0,0.0,2482.0,185.0,0.0
+bogota,Bogotá D.C.,COL,1995,otro,DesInventar,4,3.0,133.0,0.0,150.0,0.0,30.0,0.0
+bogota,Bogotá D.C.,COL,1995,socionatural,DesInventar,10,10.0,24.0,0.0,109.0,0.0,2.0,27.0
+bogota,Bogotá D.C.,COL,1996,otro,DesInventar,5,4.0,1.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1996,socionatural,DesInventar,5,0.0,34.0,0.0,0.0,2520.0,1.0,404.0
+bogota,Bogotá D.C.,COL,1997,otro,DesInventar,1,0.0,69.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1997,socionatural,DesInventar,10,1.0,0.0,0.0,0.0,2704.0,1.0,0.0
+bogota,Bogotá D.C.,COL,1998,otro,DesInventar,1,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,1998,socionatural,DesInventar,7,0.0,4.0,0.0,0.0,192.0,1.0,18.0
+bogota,Bogotá D.C.,COL,1999,socionatural,DesInventar,6,0.0,0.0,0.0,0.0,200.0,0.0,0.0
+bogota,Bogotá D.C.,COL,2000,otro,DesInventar,3,5.0,19.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,2000,socionatural,DesInventar,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,2001,otro,DesInventar,1,0.0,22.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,2001,socionatural,DesInventar,8,0.0,2.0,0.0,221.0,28.0,2.0,20.0
+bogota,Bogotá D.C.,COL,2002,otro,DesInventar,8,8.0,62.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,2002,socionatural,DesInventar,16,0.0,0.0,0.0,6800.0,3660.0,0.0,804.0
+bogota,Bogotá D.C.,COL,2003,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,2003,socionatural,DesInventar,11,12.0,0.0,0.0,5.0,2804.0,545.0,22.0
+bogota,Bogotá D.C.,COL,2004,otro,DesInventar,3,3.0,1.0,0.0,0.0,50.0,0.0,10.0
+bogota,Bogotá D.C.,COL,2004,socionatural,DesInventar,13,0.0,0.0,0.0,0.0,4477.0,4.0,886.0
+bogota,Bogotá D.C.,COL,2005,otro,DesInventar,5,1.0,3.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,2005,socionatural,DesInventar,17,3.0,9.0,2.0,0.0,1831.0,5.0,328.0
+bogota,Bogotá D.C.,COL,2006,otro,DesInventar,5,9.0,0.0,0.0,0.0,72.0,1.0,15.0
+bogota,Bogotá D.C.,COL,2006,socionatural,DesInventar,27,8.0,11.0,0.0,0.0,3492.0,13.0,767.0
+bogota,Bogotá D.C.,COL,2007,otro,DesInventar,4,1.0,10.0,0.0,0.0,0.0,0.0,0.0
+bogota,Bogotá D.C.,COL,2007,socionatural,DesInventar,16,3.0,6.0,0.0,0.0,2765.0,11.0,444.0
+bogota,Bogotá D.C.,COL,2008,otro,DesInventar,6,5.0,4.0,0.0,0.0,665.0,1.0,0.0
+bogota,Bogotá D.C.,COL,2008,socionatural,DesInventar,19,4.0,3.0,0.0,45.0,1235.0,3.0,85.0
+bogota,Bogotá D.C.,COL,2009,otro,DesInventar,14,56.0,44.0,0.0,80.0,1992.0,3.0,274.0
+bogota,Bogotá D.C.,COL,2009,socionatural,DesInventar,21,3.0,1.0,0.0,0.0,8580.0,3.0,13340.0
+bogota,Bogotá D.C.,COL,2010,otro,DesInventar,7,0.0,2.0,0.0,0.0,44.0,7.0,2.0
+bogota,Bogotá D.C.,COL,2010,socionatural,DesInventar,71,9.0,35.0,0.0,5.0,15026.0,12.0,2282.0
+bogota,Bogotá D.C.,COL,2011,otro,DesInventar,14,5.0,28.0,0.0,0.0,43.0,3.0,8.0
+bogota,Bogotá D.C.,COL,2011,socionatural,DesInventar,43,1.0,8.0,0.0,450.0,65116.0,30.0,13020.0
+bogota,Bogotá D.C.,COL,2012,otro,DesInventar,26,5.0,42.0,0.0,70.0,407.0,14.0,58.0
+bogota,Bogotá D.C.,COL,2012,socionatural,DesInventar,27,1.0,1.0,0.0,30.0,2360.0,6.0,514.0
+bogota,Bogotá D.C.,COL,2013,otro,DesInventar,30,2.0,61.0,0.0,97.0,309.0,18.0,33.0
+bogota,Bogotá D.C.,COL,2013,socionatural,DesInventar,30,2.0,0.0,0.0,0.0,428.0,0.0,95.0
+bogota,Bogotá D.C.,COL,2014,otro,DesInventar,25,4.0,149.0,0.0,6.0,24276.0,47.0,8.0
+bogota,Bogotá D.C.,COL,2014,socionatural,DesInventar,29,0.0,8.0,0.0,0.0,658.0,5.0,24.0
+bogota,Bogotá D.C.,COL,2015,otro,DesInventar,26,8.0,97.0,0.0,0.0,536.0,5.0,110.0
+bogota,Bogotá D.C.,COL,2015,socionatural,DesInventar,29,0.0,3.0,0.0,0.0,1537.0,2.0,312.0
+bogota,Bogotá D.C.,COL,2016,otro,DesInventar,14,1.0,22.0,0.0,0.0,50.0,5.0,3.0
+bogota,Bogotá D.C.,COL,2016,socionatural,DesInventar,25,0.0,6.0,0.0,0.0,683.0,0.0,76.0
+bogota,Bogotá D.C.,COL,2017,otro,DesInventar,32,8.0,78.0,0.0,1.0,328.0,3.0,48.0
+bogota,Bogotá D.C.,COL,2017,socionatural,DesInventar,22,1.0,0.0,0.0,0.0,1522.0,0.0,175.0
+bogota,Bogotá D.C.,COL,2019,otro,UNGRD (datos.gov.co),26,23.0,251.0,0.0,0.0,427.0,2.0,31.0
+bogota,Bogotá D.C.,COL,2019,socionatural,UNGRD (datos.gov.co),47,0.0,0.0,0.0,0.0,546.0,0.0,116.0
+bogota,Bogotá D.C.,COL,2020,otro,UNGRD (datos.gov.co),24,6.0,50.0,0.0,0.0,171.0,19.0,9.0
+bogota,Bogotá D.C.,COL,2020,socionatural,UNGRD (datos.gov.co),14,0.0,10.0,0.0,0.0,377.0,1.0,118.0
+bogota,Bogotá D.C.,COL,2021,otro,UNGRD (datos.gov.co),11,1.0,29.0,0.0,0.0,126.0,4.0,27.0
+bogota,Bogotá D.C.,COL,2021,socionatural,UNGRD (datos.gov.co),10,0.0,0.0,0.0,0.0,293.0,0.0,23.0
+bogota,Bogotá D.C.,COL,2022,otro,UNGRD (datos.gov.co),30,0.0,72.0,0.0,0.0,3567.0,93.0,3.0
+bogota,Bogotá D.C.,COL,2022,socionatural,UNGRD (datos.gov.co),30,3.0,0.0,0.0,0.0,10110.0,24.0,1890.0
+bogota,Bogotá D.C.,COL,2023,otro,UNGRD (datos.gov.co),14,2.0,34.0,0.0,0.0,338.0,9.0,79.0
+bogota,Bogotá D.C.,COL,2023,socionatural,UNGRD (datos.gov.co),13,0.0,1.0,0.0,0.0,161.0,0.0,40.0
+bogota,Bogotá D.C.,COL,2024,otro,UNGRD (datos.gov.co),17,0.0,36.0,0.0,0.0,479.0,16.0,107.0
+bogota,Bogotá D.C.,COL,2024,socionatural,UNGRD (datos.gov.co),213,0.0,6.0,0.0,0.0,2125.0,1.0,642.0
+bogota,Bogotá D.C.,COL,2025,otro,UNGRD (datos.gov.co),10,0.0,45.0,0.0,0.0,98.0,5.0,2.0
+bogota,Bogotá D.C.,COL,2025,socionatural,UNGRD (datos.gov.co),3,0.0,0.0,0.0,0.0,59.0,0.0,17.0
+brasilia,Brasília (Distrito Federal),BRA,2013,socionatural,Atlas Digital de Desastres (S2iD),2,2.0,1.0,0.0,24.0,382.0,3.0,99.0
+brasilia,Brasília (Distrito Federal),BRA,2016,socionatural,Atlas Digital de Desastres (S2iD),1,1.0,12.0,0.0,18.0,5120.0,1280.0,0.0
+brasilia,Brasília (Distrito Federal),BRA,2017,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,2100000.0,0.0,0.0
+brasilia,Brasília (Distrito Federal),BRA,2019,otro,Atlas Digital de Desastres (S2iD),1,21.0,0.0,0.0,0.0,0.0,0.0,0.0
+brasilia,Brasília (Distrito Federal),BRA,2021,otro,Atlas Digital de Desastres (S2iD),2,0.0,0.0,0.0,0.0,0.0,3.0,0.0
+brasilia,Brasília (Distrito Federal),BRA,2021,socionatural,Atlas Digital de Desastres (S2iD),5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+brasilia,Brasília (Distrito Federal),BRA,2024,socionatural,Atlas Digital de Desastres (S2iD),4,0.0,0.0,0.0,80.0,5965636.0,0.0,60.0
+brasilia,Brasília (Distrito Federal),BRA,2025,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,20000.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1970,otro,DesInventar,152,58.0,138.0,0.0,1516.0,800.0,710.0,37.0
+caba,Buenos Aires (CABA),ARG,1970,socionatural,DesInventar,39,0.0,0.0,0.0,0.0,16600.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1971,otro,DesInventar,31,5.0,18.0,0.0,400.0,0.0,148.0,0.0
+caba,Buenos Aires (CABA),ARG,1971,socionatural,DesInventar,24,0.0,1.0,0.0,0.0,600.0,1.0,0.0
+caba,Buenos Aires (CABA),ARG,1972,otro,DesInventar,24,8.0,28.0,0.0,321.0,0.0,136.0,1.0
+caba,Buenos Aires (CABA),ARG,1972,socionatural,DesInventar,6,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1973,otro,DesInventar,69,12.0,128.0,0.0,680.0,0.0,77.0,133.0
+caba,Buenos Aires (CABA),ARG,1973,socionatural,DesInventar,36,2.0,4.0,0.0,0.0,0.0,0.0,25.0
+caba,Buenos Aires (CABA),ARG,1974,otro,DesInventar,26,12.0,95.0,0.0,632.0,12000.0,116.0,9.0
+caba,Buenos Aires (CABA),ARG,1974,socionatural,DesInventar,14,2.0,0.0,0.0,0.0,0.0,2.0,0.0
+caba,Buenos Aires (CABA),ARG,1975,otro,DesInventar,19,15.0,139.0,0.0,0.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1975,socionatural,DesInventar,13,0.0,0.0,0.0,30.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1976,otro,DesInventar,14,4.0,10.0,0.0,0.0,0.0,9.0,0.0
+caba,Buenos Aires (CABA),ARG,1976,socionatural,DesInventar,34,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+caba,Buenos Aires (CABA),ARG,1977,otro,DesInventar,13,6.0,128.0,0.0,0.0,0.0,84.0,0.0
+caba,Buenos Aires (CABA),ARG,1977,socionatural,DesInventar,21,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1978,otro,DesInventar,15,1.0,24.0,0.0,0.0,0.0,6.0,0.0
+caba,Buenos Aires (CABA),ARG,1978,socionatural,DesInventar,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1979,otro,DesInventar,37,21.0,133.0,2.0,165.0,620.0,43.0,5.0
+caba,Buenos Aires (CABA),ARG,1979,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1980,otro,DesInventar,32,27.0,74.0,0.0,0.0,1000.0,3.0,0.0
+caba,Buenos Aires (CABA),ARG,1980,socionatural,DesInventar,19,4.0,513.0,0.0,0.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1981,otro,DesInventar,43,5.0,54.0,0.0,0.0,700.0,0.0,11.0
+caba,Buenos Aires (CABA),ARG,1981,socionatural,DesInventar,23,2.0,15.0,0.0,0.0,0.0,0.0,1.0
+caba,Buenos Aires (CABA),ARG,1982,otro,DesInventar,4,1.0,10.0,0.0,0.0,0.0,1.0,1.0
+caba,Buenos Aires (CABA),ARG,1982,socionatural,DesInventar,9,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1983,otro,DesInventar,4,2.0,9.0,0.0,0.0,0.0,0.0,1.0
+caba,Buenos Aires (CABA),ARG,1983,socionatural,DesInventar,16,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1984,otro,DesInventar,6,2.0,3702.0,0.0,0.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1984,socionatural,DesInventar,12,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1985,otro,DesInventar,13,4.0,12.0,0.0,0.0,0.0,1.0,0.0
+caba,Buenos Aires (CABA),ARG,1985,socionatural,DesInventar,30,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1986,otro,DesInventar,32,9.0,38.0,10.0,0.0,192.0,1.0,0.0
+caba,Buenos Aires (CABA),ARG,1986,socionatural,DesInventar,11,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1987,otro,DesInventar,34,7.0,38.0,0.0,0.0,0.0,3.0,8.0
+caba,Buenos Aires (CABA),ARG,1987,socionatural,DesInventar,27,2.0,0.0,0.0,0.0,140000.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1988,otro,DesInventar,10,1.0,54.0,0.0,0.0,0.0,1.0,4.0
+caba,Buenos Aires (CABA),ARG,1988,socionatural,DesInventar,16,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1989,otro,DesInventar,5,0.0,0.0,0.0,0.0,3000000.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1989,socionatural,DesInventar,45,0.0,0.0,0.0,611.0,80000.0,0.0,60.0
+caba,Buenos Aires (CABA),ARG,1990,otro,DesInventar,6,0.0,2.0,0.0,0.0,144000.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1990,socionatural,DesInventar,47,3.0,0.0,0.0,7200.0,162000.0,0.0,1.0
+caba,Buenos Aires (CABA),ARG,1991,otro,DesInventar,11,12.0,19.0,0.0,0.0,0.0,2.0,1.0
+caba,Buenos Aires (CABA),ARG,1991,socionatural,DesInventar,37,5.0,0.0,0.0,0.0,200400.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1992,otro,DesInventar,7,7.0,17.0,0.0,130.0,1010936.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1992,socionatural,DesInventar,55,1.0,0.0,0.0,0.0,229116.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1993,otro,DesInventar,5,0.0,20.0,0.0,0.0,351000.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1993,socionatural,DesInventar,53,0.0,14.0,0.0,12000.0,832780.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1994,otro,DesInventar,13,0.0,4.0,0.0,137.0,728264.0,0.0,119.0
+caba,Buenos Aires (CABA),ARG,1994,socionatural,DesInventar,48,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1995,otro,DesInventar,10,1.0,2.0,0.0,0.0,1196000.0,1.0,0.0
+caba,Buenos Aires (CABA),ARG,1995,socionatural,DesInventar,11,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1996,otro,DesInventar,13,0.0,14.0,0.0,0.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1996,socionatural,DesInventar,21,1.0,0.0,0.0,0.0,18000.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1997,otro,DesInventar,13,0.0,1600.0,0.0,0.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1997,socionatural,DesInventar,33,1.0,2.0,0.0,0.0,12500.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,1998,otro,DesInventar,35,11.0,3422.0,0.0,28.0,303503.0,9.0,4.0
+caba,Buenos Aires (CABA),ARG,1998,socionatural,DesInventar,68,6.0,2.0,0.0,0.0,100.0,0.0,1.0
+caba,Buenos Aires (CABA),ARG,1999,otro,DesInventar,29,3.0,202.0,0.0,300.0,85.0,79.0,10.0
+caba,Buenos Aires (CABA),ARG,1999,socionatural,DesInventar,58,0.0,73.0,0.0,0.0,16500.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,2000,otro,DesInventar,46,19.0,36.0,2.0,900.0,300.0,2.0,1.0
+caba,Buenos Aires (CABA),ARG,2000,socionatural,DesInventar,52,1.0,3.0,0.0,0.0,29420.0,0.0,2.0
+caba,Buenos Aires (CABA),ARG,2001,otro,DesInventar,25,14.0,24.0,0.0,650.0,202000.0,2.0,7.0
+caba,Buenos Aires (CABA),ARG,2001,socionatural,DesInventar,33,5.0,16.0,0.0,0.0,303000.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,2002,otro,DesInventar,52,10.0,6413.0,0.0,0.0,6229.0,3.0,0.0
+caba,Buenos Aires (CABA),ARG,2002,socionatural,DesInventar,38,0.0,86.0,0.0,0.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,2003,otro,DesInventar,74,10.0,777.0,0.0,0.0,2705400.0,1.0,1.0
+caba,Buenos Aires (CABA),ARG,2003,socionatural,DesInventar,50,0.0,990.0,0.0,0.0,5419.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,2004,otro,DesInventar,84,207.0,1451.0,0.0,0.0,10890.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,2004,socionatural,DesInventar,28,3.0,4.0,0.0,0.0,4000.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,2005,otro,DesInventar,104,16.0,114.0,0.0,152.0,26780.0,31.0,10.0
+caba,Buenos Aires (CABA),ARG,2005,socionatural,DesInventar,68,2.0,8.0,0.0,31.0,1900.0,0.0,1.0
+caba,Buenos Aires (CABA),ARG,2006,otro,DesInventar,139,39.0,177.0,0.0,0.0,809680.0,6.0,25.0
+caba,Buenos Aires (CABA),ARG,2006,socionatural,DesInventar,54,3.0,18.0,0.0,0.0,46000.0,0.0,1.0
+caba,Buenos Aires (CABA),ARG,2007,otro,DesInventar,199,23.0,7983.0,0.0,24388.0,18530.0,433.0,28.0
+caba,Buenos Aires (CABA),ARG,2007,socionatural,DesInventar,131,2.0,48.0,0.0,80.0,670462.0,0.0,1.0
+caba,Buenos Aires (CABA),ARG,2008,otro,DesInventar,144,25.0,199.0,0.0,136.0,24813.0,21.0,17.0
+caba,Buenos Aires (CABA),ARG,2008,socionatural,DesInventar,58,0.0,1002.0,0.0,0.0,915200.0,0.0,1.0
+caba,Buenos Aires (CABA),ARG,2009,otro,DesInventar,47,52.0,1373.0,0.0,7800.0,239.0,216.0,638.0
+caba,Buenos Aires (CABA),ARG,2009,socionatural,DesInventar,62,0.0,22.0,0.0,1000.0,1400.0,1.0,1.0
+caba,Buenos Aires (CABA),ARG,2010,otro,DesInventar,12,6.0,66.0,0.0,0.0,480000.0,2.0,1.0
+caba,Buenos Aires (CABA),ARG,2010,socionatural,DesInventar,31,13.0,11.0,0.0,0.0,247000.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,2011,otro,DesInventar,27,11.0,34.0,0.0,2.0,3.0,1.0,0.0
+caba,Buenos Aires (CABA),ARG,2011,socionatural,DesInventar,46,0.0,21.0,0.0,0.0,2.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,2012,otro,DesInventar,24,5.0,22.0,0.0,0.0,911.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,2012,socionatural,DesInventar,92,4.0,5.0,0.0,0.0,2.0,1.0,0.0
+caba,Buenos Aires (CABA),ARG,2013,otro,DesInventar,34,11.0,136.0,0.0,0.0,3.0,1.0,2.0
+caba,Buenos Aires (CABA),ARG,2013,socionatural,DesInventar,46,8.0,3.0,0.0,0.0,350000.0,3.0,0.0
+caba,Buenos Aires (CABA),ARG,2014,otro,DesInventar,21,11.0,74.0,0.0,0.0,0.0,0.0,5.0
+caba,Buenos Aires (CABA),ARG,2014,socionatural,DesInventar,28,1.0,10.0,0.0,0.0,0.0,0.0,0.0
+caba,Buenos Aires (CABA),ARG,2015,otro,DesInventar,21,11.0,56.0,0.0,24.0,35104.0,1.0,0.0
+caba,Buenos Aires (CABA),ARG,2015,socionatural,DesInventar,57,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1921,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,5.0,0.0
+cali,Santiago de Cali,COL,1922,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+cali,Santiago de Cali,COL,1934,socionatural,DesInventar,5,2.0,1.0,0.0,0.0,0.0,51.0,0.0
+cali,Santiago de Cali,COL,1935,socionatural,DesInventar,4,0.0,0.0,0.0,0.0,0.0,3.0,0.0
+cali,Santiago de Cali,COL,1938,socionatural,DesInventar,3,0.0,30.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1939,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1940,socionatural,DesInventar,3,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+cali,Santiago de Cali,COL,1941,socionatural,DesInventar,3,4.0,20.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1942,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1943,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+cali,Santiago de Cali,COL,1946,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,0.0,12.0,0.0
+cali,Santiago de Cali,COL,1947,socionatural,DesInventar,4,0.0,0.0,0.0,0.0,120.0,401.0,0.0
+cali,Santiago de Cali,COL,1948,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1949,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,1500.0,100.0,0.0
+cali,Santiago de Cali,COL,1950,socionatural,DesInventar,14,2.0,0.0,0.0,900.0,38500.0,402.0,0.0
+cali,Santiago de Cali,COL,1951,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1952,socionatural,DesInventar,5,1.0,0.0,0.0,0.0,0.0,4.0,0.0
+cali,Santiago de Cali,COL,1953,socionatural,DesInventar,6,5.0,1.0,0.0,0.0,3500.0,2.0,0.0
+cali,Santiago de Cali,COL,1955,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1956,otro,DesInventar,1,1300.0,4000.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1957,socionatural,DesInventar,1,3.0,0.0,0.0,0.0,0.0,1.0,0.0
+cali,Santiago de Cali,COL,1960,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,100.0,0.0
+cali,Santiago de Cali,COL,1961,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,100.0,0.0
+cali,Santiago de Cali,COL,1962,socionatural,DesInventar,8,9.0,18.0,0.0,0.0,4750.0,2.0,0.0
+cali,Santiago de Cali,COL,1963,socionatural,DesInventar,4,0.0,0.0,0.0,0.0,2000.0,51.0,0.0
+cali,Santiago de Cali,COL,1964,socionatural,DesInventar,5,6.0,0.0,0.0,0.0,0.0,1.0,0.0
+cali,Santiago de Cali,COL,1965,socionatural,DesInventar,2,1.0,0.0,0.0,0.0,1500.0,0.0,0.0
+cali,Santiago de Cali,COL,1966,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,1500.0,50.0,0.0
+cali,Santiago de Cali,COL,1967,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1968,socionatural,DesInventar,3,0.0,0.0,0.0,0.0,600.0,51.0,0.0
+cali,Santiago de Cali,COL,1969,socionatural,DesInventar,4,1.0,0.0,0.0,0.0,2400.0,0.0,0.0
+cali,Santiago de Cali,COL,1970,otro,DesInventar,7,5.0,2.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1970,socionatural,DesInventar,14,8.0,1.0,0.0,261.0,500.0,75.0,4.0
+cali,Santiago de Cali,COL,1971,otro,DesInventar,8,2.0,33.0,0.0,34.0,0.0,2.0,1.0
+cali,Santiago de Cali,COL,1971,socionatural,DesInventar,27,10.0,0.0,0.0,1580.0,21620.0,146.0,151.0
+cali,Santiago de Cali,COL,1972,otro,DesInventar,9,0.0,19.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1972,socionatural,DesInventar,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1973,otro,DesInventar,10,2.0,16.0,0.0,0.0,0.0,1.0,2.0
+cali,Santiago de Cali,COL,1973,socionatural,DesInventar,11,4.0,1.0,0.0,20.0,170.0,12.0,0.0
+cali,Santiago de Cali,COL,1974,otro,DesInventar,7,3.0,15.0,0.0,0.0,0.0,1.0,0.0
+cali,Santiago de Cali,COL,1974,socionatural,DesInventar,13,0.0,0.0,0.0,680.0,600.0,3.0,0.0
+cali,Santiago de Cali,COL,1975,otro,DesInventar,6,1.0,5.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1975,socionatural,DesInventar,15,3.0,0.0,0.0,136.0,4540.0,21.0,440.0
+cali,Santiago de Cali,COL,1976,otro,DesInventar,12,0.0,18.0,0.0,41.0,0.0,7.0,0.0
+cali,Santiago de Cali,COL,1976,socionatural,DesInventar,7,1.0,2.0,0.0,200.0,20000.0,20.0,0.0
+cali,Santiago de Cali,COL,1977,otro,DesInventar,8,8.0,85.0,1.0,0.0,1000.0,0.0,0.0
+cali,Santiago de Cali,COL,1977,socionatural,DesInventar,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1978,otro,DesInventar,8,2.0,39.0,0.0,0.0,0.0,2.0,0.0
+cali,Santiago de Cali,COL,1978,socionatural,DesInventar,8,1.0,0.0,0.0,27.0,500.0,4.0,0.0
+cali,Santiago de Cali,COL,1979,otro,DesInventar,3,0.0,37.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1979,socionatural,DesInventar,8,4.0,77.0,0.0,680.0,300.0,35.0,0.0
+cali,Santiago de Cali,COL,1980,otro,DesInventar,8,0.0,63.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1980,socionatural,DesInventar,2,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1981,otro,DesInventar,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1981,socionatural,DesInventar,12,2.0,0.0,0.0,0.0,5000.0,0.0,0.0
+cali,Santiago de Cali,COL,1982,otro,DesInventar,2,22.0,100.0,0.0,19.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1982,socionatural,DesInventar,12,0.0,0.0,0.0,0.0,1800.0,0.0,0.0
+cali,Santiago de Cali,COL,1983,otro,DesInventar,8,8.0,15.0,0.0,0.0,0.0,3.0,10.0
+cali,Santiago de Cali,COL,1983,socionatural,DesInventar,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1984,otro,DesInventar,4,3.0,74.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1984,socionatural,DesInventar,17,7.0,0.0,0.0,979.0,44760.0,9.0,0.0
+cali,Santiago de Cali,COL,1985,otro,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1985,socionatural,DesInventar,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1986,otro,DesInventar,5,7.0,0.0,0.0,60.0,0.0,31.0,0.0
+cali,Santiago de Cali,COL,1986,socionatural,DesInventar,16,1.0,11.0,0.0,1098.0,2480.0,11.0,0.0
+cali,Santiago de Cali,COL,1987,otro,DesInventar,3,4.0,0.0,0.0,0.0,0.0,29.0,0.0
+cali,Santiago de Cali,COL,1987,socionatural,DesInventar,6,2.0,0.0,0.0,0.0,15.0,0.0,0.0
+cali,Santiago de Cali,COL,1988,otro,DesInventar,3,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+cali,Santiago de Cali,COL,1988,socionatural,DesInventar,21,24.0,0.0,11.0,165.0,1114.0,2.0,100.0
+cali,Santiago de Cali,COL,1989,otro,DesInventar,3,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1989,socionatural,DesInventar,8,33.0,1.0,1.0,87.0,1708.0,10.0,50.0
+cali,Santiago de Cali,COL,1990,otro,DesInventar,1,0.0,41.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1990,socionatural,DesInventar,11,1.0,1.0,0.0,1488.0,4000.0,22.0,80.0
+cali,Santiago de Cali,COL,1991,otro,DesInventar,5,19.0,5.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1991,socionatural,DesInventar,4,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1992,otro,DesInventar,5,3.0,12.0,0.0,270.0,0.0,53.0,0.0
+cali,Santiago de Cali,COL,1992,socionatural,DesInventar,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1993,otro,DesInventar,4,3.0,5.0,0.0,200.0,66.0,62.0,4.0
+cali,Santiago de Cali,COL,1993,socionatural,DesInventar,9,1.0,1.0,0.0,72.0,800.0,91.0,0.0
+cali,Santiago de Cali,COL,1994,otro,DesInventar,6,1.0,1641.0,0.0,1296.0,0.0,146.0,0.0
+cali,Santiago de Cali,COL,1994,socionatural,DesInventar,12,4.0,0.0,0.0,0.0,1300.0,0.0,0.0
+cali,Santiago de Cali,COL,1995,otro,DesInventar,11,11.0,47.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1995,socionatural,DesInventar,4,0.0,37.0,0.0,647.0,0.0,0.0,28.0
+cali,Santiago de Cali,COL,1996,otro,DesInventar,12,4.0,117.0,1.0,0.0,350.0,0.0,0.0
+cali,Santiago de Cali,COL,1996,socionatural,DesInventar,15,1.0,3.0,0.0,0.0,540.0,7.0,60.0
+cali,Santiago de Cali,COL,1997,otro,DesInventar,5,1.0,20.0,0.0,100.0,151.0,76.0,0.0
+cali,Santiago de Cali,COL,1997,socionatural,DesInventar,16,3.0,4.0,0.0,3206.0,4926.0,29.0,70.0
+cali,Santiago de Cali,COL,1998,otro,DesInventar,2,0.0,19.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1998,socionatural,DesInventar,20,3.0,1.0,0.0,1810.0,363.0,5.0,21.0
+cali,Santiago de Cali,COL,1999,otro,DesInventar,6,1.0,46.0,0.0,0.0,0.0,0.0,0.0
+cali,Santiago de Cali,COL,1999,socionatural,DesInventar,15,4.0,1.0,0.0,271.0,845.0,15.0,20.0
+cali,Santiago de Cali,COL,2000,otro,DesInventar,14,8.0,186.0,0.0,1062.0,0.0,213.0,1.0
+cali,Santiago de Cali,COL,2000,socionatural,DesInventar,11,1.0,5.0,2.0,0.0,7.0,0.0,76.0
+cali,Santiago de Cali,COL,2001,otro,DesInventar,24,10.0,35.0,0.0,174.0,908.0,27.0,2.0
+cali,Santiago de Cali,COL,2001,socionatural,DesInventar,75,2.0,12.0,0.0,139.0,347.0,0.0,47.0
+cali,Santiago de Cali,COL,2002,otro,DesInventar,17,1.0,114.0,0.0,320.0,0.0,53.0,0.0
+cali,Santiago de Cali,COL,2002,socionatural,DesInventar,48,2.0,4.0,0.0,5.0,20001.0,1.0,4502.0
+cali,Santiago de Cali,COL,2003,otro,DesInventar,1,0.0,0.0,0.0,0.0,360.0,48.0,0.0
+cali,Santiago de Cali,COL,2003,socionatural,DesInventar,3,2.0,4.0,0.0,0.0,230.0,11.0,14.0
+cali,Santiago de Cali,COL,2004,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,5070.0,0.0,1014.0
+cali,Santiago de Cali,COL,2005,otro,DesInventar,2,0.0,0.0,0.0,0.0,120.0,32.0,0.0
+cali,Santiago de Cali,COL,2005,socionatural,DesInventar,4,0.0,7.0,0.0,0.0,60.0,1.0,11.0
+cali,Santiago de Cali,COL,2006,otro,DesInventar,4,0.0,5.0,0.0,0.0,925.0,140.0,72.0
+cali,Santiago de Cali,COL,2006,socionatural,DesInventar,4,3.0,1.0,0.0,0.0,600.0,8.0,61.0
+cali,Santiago de Cali,COL,2007,otro,DesInventar,4,0.0,0.0,0.0,0.0,40000.0,0.0,0.0
+cali,Santiago de Cali,COL,2007,socionatural,DesInventar,3,1.0,0.0,0.0,0.0,225.0,1.0,44.0
+cali,Santiago de Cali,COL,2008,otro,DesInventar,6,2.0,11.0,0.0,0.0,757.0,117.0,23.0
+cali,Santiago de Cali,COL,2008,socionatural,DesInventar,14,3.0,5.0,0.0,0.0,6305.0,6.0,1370.0
+cali,Santiago de Cali,COL,2009,otro,DesInventar,6,0.0,2.0,0.0,0.0,65.0,13.0,0.0
+cali,Santiago de Cali,COL,2009,socionatural,DesInventar,8,2.0,3.0,0.0,0.0,415.0,3.0,89.0
+cali,Santiago de Cali,COL,2010,otro,DesInventar,8,1.0,24.0,0.0,0.0,150.0,0.0,8.0
+cali,Santiago de Cali,COL,2010,socionatural,DesInventar,12,2.0,0.0,0.0,0.0,11990.0,0.0,3222.0
+cali,Santiago de Cali,COL,2011,otro,DesInventar,9,1.0,19.0,0.0,75.0,235.0,50.0,4.0
+cali,Santiago de Cali,COL,2011,socionatural,DesInventar,16,6.0,7.0,3.0,5.0,12143.0,49.0,2686.0
+cali,Santiago de Cali,COL,2012,otro,DesInventar,10,2.0,7.0,0.0,779.0,463.0,141.0,2.0
+cali,Santiago de Cali,COL,2012,socionatural,DesInventar,34,2.0,1.0,0.0,95.0,6258.0,19.0,1218.0
+cali,Santiago de Cali,COL,2013,otro,DesInventar,23,9.0,31.0,0.0,25.0,42.0,8.0,0.0
+cali,Santiago de Cali,COL,2013,socionatural,DesInventar,31,0.0,1.0,0.0,10.0,265.0,2.0,59.0
+cali,Santiago de Cali,COL,2014,otro,DesInventar,22,16.0,37.0,0.0,310.0,69.0,64.0,8.0
+cali,Santiago de Cali,COL,2014,socionatural,DesInventar,39,4.0,16.0,0.0,4.0,6.0,1.0,2.0
+cali,Santiago de Cali,COL,2015,otro,DesInventar,17,3.0,15.0,0.0,20.0,968.0,150.0,18.0
+cali,Santiago de Cali,COL,2015,socionatural,DesInventar,43,1.0,18.0,0.0,85.0,60.0,17.0,12.0
+cali,Santiago de Cali,COL,2016,otro,DesInventar,8,0.0,6.0,0.0,20.0,218.0,37.0,7.0
+cali,Santiago de Cali,COL,2016,socionatural,DesInventar,22,7.0,7.0,1.0,0.0,44594.0,2.0,7.0
+cali,Santiago de Cali,COL,2017,otro,DesInventar,3,1.0,3.0,0.0,0.0,7.0,100.0,1.0
+cali,Santiago de Cali,COL,2017,socionatural,DesInventar,9,1.0,8.0,0.0,0.0,16832.0,0.0,5.0
+cali,Santiago de Cali,COL,2019,otro,UNGRD (datos.gov.co),17,1.0,15.0,0.0,0.0,48.0,8.0,4.0
+cali,Santiago de Cali,COL,2019,socionatural,UNGRD (datos.gov.co),20,0.0,0.0,0.0,0.0,35.0,0.0,7.0
+cali,Santiago de Cali,COL,2020,otro,UNGRD (datos.gov.co),4,0.0,8.0,0.0,0.0,60.0,11.0,2.0
+cali,Santiago de Cali,COL,2020,socionatural,UNGRD (datos.gov.co),4,0.0,0.0,0.0,0.0,10.0,0.0,2.0
+cali,Santiago de Cali,COL,2021,otro,UNGRD (datos.gov.co),9,1.0,12.0,0.0,0.0,19.0,0.0,2.0
+cali,Santiago de Cali,COL,2021,socionatural,UNGRD (datos.gov.co),4,4.0,0.0,0.0,0.0,4.0,2.0,0.0
+cali,Santiago de Cali,COL,2022,otro,UNGRD (datos.gov.co),18,6.0,0.0,0.0,0.0,192.0,6.0,6.0
+cali,Santiago de Cali,COL,2022,socionatural,UNGRD (datos.gov.co),24,9.0,0.0,9.0,0.0,138.0,0.0,30.0
+cali,Santiago de Cali,COL,2023,otro,UNGRD (datos.gov.co),4,1.0,4.0,0.0,0.0,5.0,0.0,0.0
+cali,Santiago de Cali,COL,2023,socionatural,UNGRD (datos.gov.co),16,0.0,4.0,0.0,0.0,4.0,0.0,0.0
+cali,Santiago de Cali,COL,2024,otro,UNGRD (datos.gov.co),20,7.0,21.0,0.0,0.0,222.0,0.0,51.0
+cali,Santiago de Cali,COL,2024,socionatural,UNGRD (datos.gov.co),29,0.0,0.0,0.0,0.0,2353.0,0.0,590.0
+cali,Santiago de Cali,COL,2025,otro,UNGRD (datos.gov.co),6,0.0,4.0,0.0,0.0,8.0,0.0,3.0
+cali,Santiago de Cali,COL,2025,socionatural,UNGRD (datos.gov.co),11,0.0,0.0,0.0,0.0,13.0,0.0,3.0
+caracas,Caracas (Municipio Libertador),VEN,1573,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1580,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1598,otro,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1621,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1623,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1624,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1626,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1641,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1694,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1703,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1724,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1726,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1728,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1732,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1733,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1763,otro,DesInventar,1,1000.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1764,otro,DesInventar,2,10000.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1781,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1812,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1830,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1837,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1842,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1847,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1865,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1900,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1912,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1951,socionatural,DesInventar,1,1.0,12.0,0.0,18.0,18.0,5.0,5.0
+caracas,Caracas (Municipio Libertador),VEN,1958,socionatural,DesInventar,1,74.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1960,otro,DesInventar,2,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1967,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1970,otro,DesInventar,12,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+caracas,Caracas (Municipio Libertador),VEN,1970,socionatural,DesInventar,13,4.0,0.0,0.0,299.0,0.0,54.0,15.0
+caracas,Caracas (Municipio Libertador),VEN,1971,otro,DesInventar,8,0.0,0.0,0.0,36.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1971,socionatural,DesInventar,4,3.0,0.0,0.0,153.0,0.0,13.0,1.0
+caracas,Caracas (Municipio Libertador),VEN,1972,otro,DesInventar,5,0.0,0.0,0.0,0.0,0.0,0.0,4.0
+caracas,Caracas (Municipio Libertador),VEN,1972,socionatural,DesInventar,9,3.0,0.0,0.0,0.0,0.0,84.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1973,otro,DesInventar,10,18.0,0.0,0.0,53.0,0.0,0.0,15.0
+caracas,Caracas (Municipio Libertador),VEN,1973,socionatural,DesInventar,13,7.0,0.0,17.0,1000.0,2061.0,17.0,101.0
+caracas,Caracas (Municipio Libertador),VEN,1974,otro,DesInventar,7,0.0,0.0,0.0,0.0,0.0,3.0,12.0
+caracas,Caracas (Municipio Libertador),VEN,1974,socionatural,DesInventar,16,8.0,0.0,0.0,1937.0,0.0,34.0,169.0
+caracas,Caracas (Municipio Libertador),VEN,1975,otro,DesInventar,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1975,socionatural,DesInventar,13,9.0,0.0,0.0,305.0,0.0,68.0,1.0
+caracas,Caracas (Municipio Libertador),VEN,1976,otro,DesInventar,7,5.0,0.0,0.0,0.0,0.0,8.0,4.0
+caracas,Caracas (Municipio Libertador),VEN,1976,socionatural,DesInventar,3,0.0,0.0,0.0,0.0,5.0,0.0,200.0
+caracas,Caracas (Municipio Libertador),VEN,1977,otro,DesInventar,10,7.0,0.0,0.0,0.0,0.0,6.0,23.0
+caracas,Caracas (Municipio Libertador),VEN,1977,socionatural,DesInventar,9,9.0,0.0,0.0,2541.0,0.0,2.0,89.0
+caracas,Caracas (Municipio Libertador),VEN,1978,otro,DesInventar,8,2.0,0.0,0.0,48.0,0.0,17.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1978,socionatural,DesInventar,11,5.0,0.0,0.0,15.0,0.0,10.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1979,otro,DesInventar,9,2.0,0.0,0.0,0.0,0.0,0.0,1.0
+caracas,Caracas (Municipio Libertador),VEN,1979,socionatural,DesInventar,21,4.0,0.0,0.0,375.0,0.0,147.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1980,otro,DesInventar,10,3.0,0.0,0.0,0.0,0.0,11.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1980,socionatural,DesInventar,16,24.0,0.0,14.0,3645.0,0.0,155.0,600.0
+caracas,Caracas (Municipio Libertador),VEN,1981,otro,DesInventar,6,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1981,socionatural,DesInventar,17,11.0,0.0,8.0,5500.0,0.0,170.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1982,otro,DesInventar,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1982,socionatural,DesInventar,10,2.0,0.0,0.0,230.0,0.0,27.0,28.0
+caracas,Caracas (Municipio Libertador),VEN,1983,otro,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1983,socionatural,DesInventar,9,0.0,0.0,0.0,443.0,0.0,61.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1984,otro,DesInventar,24,3.0,0.0,0.0,300.0,16.0,50.0,1.0
+caracas,Caracas (Municipio Libertador),VEN,1984,socionatural,DesInventar,19,9.0,0.0,0.0,8.0,0.0,21.0,4.0
+caracas,Caracas (Municipio Libertador),VEN,1985,otro,DesInventar,11,6.0,0.0,0.0,0.0,0.0,1.0,792.0
+caracas,Caracas (Municipio Libertador),VEN,1985,socionatural,DesInventar,25,5.0,0.0,2.0,1395.0,9.0,25.0,46.0
+caracas,Caracas (Municipio Libertador),VEN,1986,otro,DesInventar,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1986,socionatural,DesInventar,4,7.0,0.0,0.0,314.0,0.0,10.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1987,otro,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1987,socionatural,DesInventar,22,23.0,0.0,2.0,1156.0,405.0,235.0,101.0
+caracas,Caracas (Municipio Libertador),VEN,1988,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1988,socionatural,DesInventar,12,15.0,0.0,3.0,1188.0,0.0,34.0,265.0
+caracas,Caracas (Municipio Libertador),VEN,1989,otro,DesInventar,6,0.0,0.0,0.0,0.0,225.0,0.0,30.0
+caracas,Caracas (Municipio Libertador),VEN,1989,socionatural,DesInventar,5,1.0,0.0,0.0,369.0,85.0,14.0,560.0
+caracas,Caracas (Municipio Libertador),VEN,1990,otro,DesInventar,11,4.0,0.0,0.0,0.0,0.0,10.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1990,socionatural,DesInventar,13,4.0,0.0,1.0,777.0,900.0,200.0,84.0
+caracas,Caracas (Municipio Libertador),VEN,1991,otro,DesInventar,5,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1991,socionatural,DesInventar,4,0.0,0.0,0.0,34.0,0.0,5.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1992,otro,DesInventar,6,2.0,0.0,0.0,0.0,2500.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1992,socionatural,DesInventar,4,2.0,0.0,0.0,0.0,0.0,8.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1993,otro,DesInventar,10,3.0,0.0,0.0,0.0,0.0,1.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1993,socionatural,DesInventar,8,86.0,0.0,4.0,6627.0,0.0,190.0,860.0
+caracas,Caracas (Municipio Libertador),VEN,1994,otro,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1994,socionatural,DesInventar,8,2.0,0.0,0.0,10.0,0.0,5.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1995,otro,DesInventar,3,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1995,socionatural,DesInventar,15,3.0,0.0,0.0,826.0,191.0,84.0,76.0
+caracas,Caracas (Municipio Libertador),VEN,1996,otro,DesInventar,4,1.0,0.0,0.0,0.0,0.0,0.0,3.0
+caracas,Caracas (Municipio Libertador),VEN,1996,socionatural,DesInventar,23,6.0,0.0,0.0,5549.0,35.0,16.0,283.0
+caracas,Caracas (Municipio Libertador),VEN,1997,otro,DesInventar,3,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,1997,socionatural,DesInventar,12,6.0,0.0,0.0,241.0,0.0,4.0,9.0
+caracas,Caracas (Municipio Libertador),VEN,1998,otro,DesInventar,10,11.0,0.0,0.0,0.0,0.0,1.0,2.0
+caracas,Caracas (Municipio Libertador),VEN,1998,socionatural,DesInventar,8,0.0,0.0,0.0,152.0,12805.0,13.0,246.0
+caracas,Caracas (Municipio Libertador),VEN,1999,otro,DesInventar,6,0.0,0.0,0.0,30012.0,0.0,1201.0,2.0
+caracas,Caracas (Municipio Libertador),VEN,1999,socionatural,DesInventar,37,584.0,0.0,193.0,1061137.0,141582.0,14782.0,10122.0
+caracas,Caracas (Municipio Libertador),VEN,2000,otro,DesInventar,4,2.0,0.0,0.0,0.0,0.0,0.0,1.0
+caracas,Caracas (Municipio Libertador),VEN,2000,socionatural,DesInventar,14,85.0,0.0,220.0,15257.0,18022.0,2918.0,4558.0
+caracas,Caracas (Municipio Libertador),VEN,2001,otro,DesInventar,7,1.0,0.0,0.0,360.0,35.0,70.0,1.0
+caracas,Caracas (Municipio Libertador),VEN,2001,socionatural,DesInventar,15,0.0,0.0,0.0,1776.0,358.0,95.0,316.0
+caracas,Caracas (Municipio Libertador),VEN,2002,otro,DesInventar,6,3.0,0.0,0.0,0.0,306.0,0.0,5.0
+caracas,Caracas (Municipio Libertador),VEN,2002,socionatural,DesInventar,9,0.0,0.0,0.0,447.0,123.0,84.0,12.0
+caracas,Caracas (Municipio Libertador),VEN,2003,otro,DesInventar,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,2003,socionatural,DesInventar,50,6.0,0.0,0.0,143.0,355.0,45.0,263.0
+caracas,Caracas (Municipio Libertador),VEN,2004,otro,DesInventar,23,7.0,0.0,0.0,0.0,43.0,1.0,4.0
+caracas,Caracas (Municipio Libertador),VEN,2004,socionatural,DesInventar,65,12.0,0.0,0.0,660.0,1134.0,68.0,209.0
+caracas,Caracas (Municipio Libertador),VEN,2005,otro,DesInventar,18,8.0,0.0,0.0,0.0,0.0,1.0,2.0
+caracas,Caracas (Municipio Libertador),VEN,2005,socionatural,DesInventar,74,10.0,0.0,1.0,612.0,3023.0,402.0,864.0
+caracas,Caracas (Municipio Libertador),VEN,2006,otro,DesInventar,17,1.0,0.0,0.0,0.0,20000.0,1.0,2.0
+caracas,Caracas (Municipio Libertador),VEN,2006,socionatural,DesInventar,51,8.0,0.0,0.0,1336.0,488.0,49.0,210.0
+caracas,Caracas (Municipio Libertador),VEN,2007,otro,DesInventar,48,4.0,0.0,0.0,0.0,0.0,4.0,26.0
+caracas,Caracas (Municipio Libertador),VEN,2007,socionatural,DesInventar,92,4.0,0.0,2.0,120.0,3225.0,103.0,341.0
+caracas,Caracas (Municipio Libertador),VEN,2008,otro,DesInventar,8,2.0,12.0,0.0,0.0,240.0,2.0,4.0
+caracas,Caracas (Municipio Libertador),VEN,2008,socionatural,DesInventar,15,1.0,7.0,0.0,18.0,900.0,7.0,29.0
+caracas,Caracas (Municipio Libertador),VEN,2009,otro,DesInventar,5,5.0,3.0,0.0,0.0,0.0,1.0,11.0
+caracas,Caracas (Municipio Libertador),VEN,2009,socionatural,DesInventar,8,2.0,2.0,1.0,0.0,0.0,0.0,3.0
+caracas,Caracas (Municipio Libertador),VEN,2010,otro,DesInventar,13,3.0,27.0,0.0,0.0,20.0,0.0,0.0
+caracas,Caracas (Municipio Libertador),VEN,2010,socionatural,DesInventar,45,6.0,5.0,0.0,529.0,1848.0,38.0,713.0
+caracas,Caracas (Municipio Libertador),VEN,2011,otro,DesInventar,7,0.0,2073.0,0.0,0.0,0.0,0.0,1.0
+caracas,Caracas (Municipio Libertador),VEN,2011,socionatural,DesInventar,35,0.0,0.0,0.0,123.0,306.0,46.0,619.0
+caracas,Caracas (Municipio Libertador),VEN,2012,otro,DesInventar,15,33.0,71.0,0.0,54.0,20.0,59.0,49.0
+caracas,Caracas (Municipio Libertador),VEN,2012,socionatural,DesInventar,23,1.0,1.0,0.0,20.0,160.0,18.0,169.0
+caracas,Caracas (Municipio Libertador),VEN,2013,otro,DesInventar,21,5.0,9.0,0.0,0.0,0.0,1.0,25.0
+caracas,Caracas (Municipio Libertador),VEN,2013,socionatural,DesInventar,28,0.0,0.0,0.0,0.0,96.0,1.0,75.0
+caracas,Caracas (Municipio Libertador),VEN,2014,otro,DesInventar,19,2.0,2.0,0.0,0.0,111.0,0.0,38.0
+caracas,Caracas (Municipio Libertador),VEN,2014,socionatural,DesInventar,23,0.0,0.0,0.0,3.0,84.0,3.0,23.0
+caracas,Caracas (Municipio Libertador),VEN,2015,otro,DesInventar,15,0.0,1.0,0.0,0.0,20.0,2.0,3.0
+caracas,Caracas (Municipio Libertador),VEN,2015,socionatural,DesInventar,18,0.0,0.0,0.0,0.0,64.0,0.0,16.0
+cdmx,Ciudad de México,MEX,1970,otro,DesInventar,124,493.0,114546.0,1.0,625.0,174.0,164.0,41.0
+cdmx,Ciudad de México,MEX,1970,socionatural,DesInventar,26,0.0,1600.0,0.0,0.0,0.0,0.0,0.0
+cdmx,Ciudad de México,MEX,1971,otro,DesInventar,80,24.0,105.0,0.0,507.0,64.0,178.0,12.0
+cdmx,Ciudad de México,MEX,1971,socionatural,DesInventar,18,4.0,8.0,0.0,1250.0,0.0,251.0,0.0
+cdmx,Ciudad de México,MEX,1972,otro,DesInventar,71,29.0,434.0,0.0,600.0,200.0,276.0,5.0
+cdmx,Ciudad de México,MEX,1972,socionatural,DesInventar,20,34.0,79.0,0.0,80.0,0.0,521.0,4400.0
+cdmx,Ciudad de México,MEX,1973,otro,DesInventar,9,4.0,16.0,0.0,0.0,0.0,1.0,5.0
+cdmx,Ciudad de México,MEX,1973,socionatural,DesInventar,41,28.0,88.0,0.0,432.0,0.0,18.0,107.0
+cdmx,Ciudad de México,MEX,1974,otro,DesInventar,105,75.0,60487.0,0.0,3156.0,280.0,709.0,15.0
+cdmx,Ciudad de México,MEX,1974,socionatural,DesInventar,27,4.0,50.0,4.0,400.0,10000020.0,5.0,135.0
+cdmx,Ciudad de México,MEX,1975,otro,DesInventar,88,31.0,123.0,0.0,680.0,200.0,62.0,128.0
+cdmx,Ciudad de México,MEX,1975,socionatural,DesInventar,52,33.0,122.0,0.0,0.0,39.0,305.0,0.0
+cdmx,Ciudad de México,MEX,1976,otro,DesInventar,35,13.0,112.0,0.0,80.0,45000.0,273.0,85.0
+cdmx,Ciudad de México,MEX,1976,socionatural,DesInventar,50,17.0,49.0,0.0,270.0,0.0,55.0,0.0
+cdmx,Ciudad de México,MEX,1977,otro,DesInventar,76,16.0,342.0,0.0,0.0,34.0,29.0,42.0
+cdmx,Ciudad de México,MEX,1977,socionatural,DesInventar,32,26.0,38.0,0.0,70.0,1500080.0,13.0,20.0
+cdmx,Ciudad de México,MEX,1978,otro,DesInventar,60,24.0,14664.0,0.0,4.0,1700.0,120.0,28.0
+cdmx,Ciudad de México,MEX,1978,socionatural,DesInventar,32,28.0,38.0,0.0,23160.0,8000.0,19.0,180.0
+cdmx,Ciudad de México,MEX,1979,otro,DesInventar,66,111.0,331.0,21.0,440.0,3328.0,58.0,8.0
+cdmx,Ciudad de México,MEX,1979,socionatural,DesInventar,24,34.0,88.0,0.0,51.0,40012.0,27.0,600.0
+cdmx,Ciudad de México,MEX,1980,otro,DesInventar,57,30.0,105.0,0.0,0.0,526.0,67.0,7.0
+cdmx,Ciudad de México,MEX,1980,socionatural,DesInventar,16,20.0,47.0,0.0,0.0,0.0,2.0,0.0
+cdmx,Ciudad de México,MEX,1981,otro,DesInventar,34,9.0,126.0,0.0,0.0,397.0,54.0,3.0
+cdmx,Ciudad de México,MEX,1981,socionatural,DesInventar,27,8.0,84.0,0.0,1000000.0,642.0,3101.0,40.0
+cdmx,Ciudad de México,MEX,1982,otro,DesInventar,65,29.0,292.0,18.0,0.0,0.0,6.0,5.0
+cdmx,Ciudad de México,MEX,1982,socionatural,DesInventar,47,6.0,41.0,0.0,0.0,0.0,2.0,0.0
+cdmx,Ciudad de México,MEX,1983,otro,DesInventar,48,39.0,270.0,0.0,500.0,19.0,110.0,39.0
+cdmx,Ciudad de México,MEX,1983,socionatural,DesInventar,36,15.0,58.0,0.0,0.0,29.0,15.0,5.0
+cdmx,Ciudad de México,MEX,1984,otro,DesInventar,57,27.0,1678.0,0.0,9000.0,23.0,608.0,13.0
+cdmx,Ciudad de México,MEX,1984,socionatural,DesInventar,33,19.0,24.0,0.0,12.0,0.0,3.0,2128.0
+cdmx,Ciudad de México,MEX,1985,otro,DesInventar,28,22.0,179.0,0.0,80.0,1220.0,50.0,1.0
+cdmx,Ciudad de México,MEX,1985,socionatural,DesInventar,29,10011.0,40761.0,1500.0,80600.0,162000.0,44502.0,120321.0
+cdmx,Ciudad de México,MEX,1986,otro,DesInventar,64,25.0,486.0,0.0,0.0,1.0,67.0,18.0
+cdmx,Ciudad de México,MEX,1986,socionatural,DesInventar,29,32.0,43.0,15.0,0.0,0.0,5.0,1451.0
+cdmx,Ciudad de México,MEX,1987,otro,DesInventar,32,68.0,623.0,0.0,0.0,0.0,7.0,11.0
+cdmx,Ciudad de México,MEX,1987,socionatural,DesInventar,21,31.0,66.0,40.0,2400.0,1504.0,3.0,601.0
+cdmx,Ciudad de México,MEX,1988,otro,DesInventar,22,60.0,255.0,0.0,0.0,85.0,6.0,29.0
+cdmx,Ciudad de México,MEX,1988,socionatural,DesInventar,13,2.0,0.0,0.0,246.0,12000.0,36.0,4548.0
+cdmx,Ciudad de México,MEX,1989,otro,DesInventar,36,16.0,550.0,0.0,0.0,9.0,26.0,13.0
+cdmx,Ciudad de México,MEX,1989,socionatural,DesInventar,20,11.0,132.0,6.0,2517.0,200.0,607.0,538.0
+cdmx,Ciudad de México,MEX,1990,otro,DesInventar,56,94.0,665.0,0.0,445.0,0.0,563.0,14.0
+cdmx,Ciudad de México,MEX,1990,socionatural,DesInventar,26,14.0,39.0,3.0,464.0,384000.0,23.0,397.0
+cdmx,Ciudad de México,MEX,1991,otro,DesInventar,143,39.0,582.0,31.0,256.0,1304.0,64.0,3.0
+cdmx,Ciudad de México,MEX,1991,socionatural,DesInventar,52,13.0,25.0,0.0,200.0,0.0,3.0,124.0
+cdmx,Ciudad de México,MEX,1992,otro,DesInventar,20,6.0,153.0,0.0,0.0,1094.0,187.0,58.0
+cdmx,Ciudad de México,MEX,1992,socionatural,DesInventar,33,20.0,37.0,0.0,357.0,1000.0,13.0,372.0
+cdmx,Ciudad de México,MEX,1993,otro,DesInventar,26,27.0,1472.0,0.0,2524.0,30000.0,396.0,301.0
+cdmx,Ciudad de México,MEX,1993,socionatural,DesInventar,11,4.0,5.0,0.0,216.0,0.0,14.0,12.0
+cdmx,Ciudad de México,MEX,1994,otro,DesInventar,22,20.0,398.0,1.0,1665.0,0.0,262.0,1.0
+cdmx,Ciudad de México,MEX,1994,socionatural,DesInventar,18,8.0,16.0,0.0,65.0,0.0,38.0,0.0
+cdmx,Ciudad de México,MEX,1995,otro,DesInventar,9,2.0,106.0,0.0,0.0,26.0,7.0,1.0
+cdmx,Ciudad de México,MEX,1995,socionatural,DesInventar,6,1.0,21.0,0.0,0.0,25050.0,27.0,0.0
+cdmx,Ciudad de México,MEX,1996,otro,DesInventar,19,7.0,258.0,0.0,1500.0,60.0,303.0,0.0
+cdmx,Ciudad de México,MEX,1996,socionatural,DesInventar,9,14.0,6.0,0.0,0.0,0.0,3.0,0.0
+cdmx,Ciudad de México,MEX,1997,otro,DesInventar,24,3.0,13.0,0.0,0.0,0.0,3.0,1.0
+cdmx,Ciudad de México,MEX,1997,socionatural,DesInventar,21,4.0,0.0,0.0,115.0,500.0,41.0,200.0
+cdmx,Ciudad de México,MEX,1998,otro,DesInventar,49,0.0,11804.0,0.0,0.0,0.0,0.0,0.0
+cdmx,Ciudad de México,MEX,1998,socionatural,DesInventar,45,7.0,2.0,6.0,80.0,0.0,32.0,405.0
+cdmx,Ciudad de México,MEX,1999,otro,DesInventar,34,0.0,223097.0,0.0,3200.0,152.0,901.0,27.0
+cdmx,Ciudad de México,MEX,1999,socionatural,DesInventar,31,7.0,43.0,0.0,0.0,0.0,5.0,1252.0
+cdmx,Ciudad de México,MEX,2000,otro,DesInventar,37,27.0,500151.0,0.0,30.0,0.0,80.0,14.0
+cdmx,Ciudad de México,MEX,2000,socionatural,DesInventar,20,2.0,11.0,0.0,0.0,225480.0,0.0,159.0
+cdmx,Ciudad de México,MEX,2001,otro,DesInventar,25,4.0,66.0,5.0,0.0,0.0,124.0,14.0
+cdmx,Ciudad de México,MEX,2001,socionatural,DesInventar,17,9.0,6.0,0.0,6.0,0.0,6.0,179.0
+cdmx,Ciudad de México,MEX,2002,otro,DesInventar,75,24.0,962248.0,0.0,340.0,220.0,216.0,13.0
+cdmx,Ciudad de México,MEX,2002,socionatural,DesInventar,52,4.0,4.0,0.0,0.0,428924.0,1.0,1730.0
+cdmx,Ciudad de México,MEX,2003,otro,DesInventar,9,2.0,92.0,0.0,946.0,90.0,281.0,17.0
+cdmx,Ciudad de México,MEX,2003,socionatural,DesInventar,18,4.0,12.0,0.0,0.0,1500.0,2.0,214.0
+cdmx,Ciudad de México,MEX,2004,otro,DesInventar,42,15.0,3287.0,1.0,0.0,10000.0,3.0,32.0
+cdmx,Ciudad de México,MEX,2004,socionatural,DesInventar,43,6.0,30.0,39.0,0.0,1400.0,9.0,707.0
+cdmx,Ciudad de México,MEX,2005,otro,DesInventar,102,36.0,760.0,0.0,0.0,450440.0,0.0,120.0
+cdmx,Ciudad de México,MEX,2005,socionatural,DesInventar,80,4.0,30.0,5.0,17.0,380100.0,3.0,100.0
+cdmx,Ciudad de México,MEX,2006,otro,DesInventar,172,69.0,372.0,0.0,24.0,20676.0,9.0,293.0
+cdmx,Ciudad de México,MEX,2006,socionatural,DesInventar,114,48.0,9.0,0.0,0.0,189000.0,14.0,176.0
+cdmx,Ciudad de México,MEX,2007,otro,DesInventar,53,17.0,410.0,0.0,7.0,0.0,35.0,31.0
+cdmx,Ciudad de México,MEX,2007,socionatural,DesInventar,128,5.0,8.0,0.0,27.0,53178.0,6.0,2588.0
+cdmx,Ciudad de México,MEX,2008,otro,DesInventar,38,43.0,87.0,0.0,0.0,0.0,0.0,9.0
+cdmx,Ciudad de México,MEX,2008,socionatural,DesInventar,113,8.0,26.0,0.0,66.0,201022.0,23.0,10374.0
+cdmx,Ciudad de México,MEX,2009,otro,DesInventar,151,158.0,16246.0,0.0,250.0,34135000.0,51.0,3.0
+cdmx,Ciudad de México,MEX,2009,socionatural,DesInventar,121,10.0,17.0,0.0,600.0,3020.0,87.0,3476.0
+cdmx,Ciudad de México,MEX,2010,otro,DesInventar,84,41.0,335.0,2.0,0.0,870.0,39.0,124.0
+cdmx,Ciudad de México,MEX,2010,socionatural,DesInventar,213,6.0,736.0,0.0,16500.0,66381.0,30.0,7387.0
+cdmx,Ciudad de México,MEX,2011,otro,DesInventar,66,12.0,123.0,3.0,0.0,29000.0,41.0,8.0
+cdmx,Ciudad de México,MEX,2011,socionatural,DesInventar,200,7.0,10.0,0.0,0.0,122850.0,2.0,4821.0
+cdmx,Ciudad de México,MEX,2012,otro,DesInventar,51,11.0,152.0,0.0,0.0,0.0,1.0,102.0
+cdmx,Ciudad de México,MEX,2012,socionatural,DesInventar,184,2.0,52.0,0.0,0.0,300160.0,12.0,86.0
+cdmx,Ciudad de México,MEX,2013,otro,DesInventar,34,47.0,175.0,0.0,0.0,0.0,0.0,5.0
+cdmx,Ciudad de México,MEX,2013,socionatural,DesInventar,171,2.0,5.0,0.0,600.0,20000.0,20.0,4416.0
+fortaleza,Fortaleza,BRA,2001,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+fortaleza,Fortaleza,BRA,2002,socionatural,Atlas Digital de Desastres (S2iD),2,6.0,1023.0,0.0,58412.0,79828.0,610.0,3651.0
+fortaleza,Fortaleza,BRA,2004,socionatural,Atlas Digital de Desastres (S2iD),1,5.0,48.0,0.0,11900.0,100502.0,343.0,1858.0
+fortaleza,Fortaleza,BRA,2017,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,1110405.0,0.0,0.0
+fortaleza,Fortaleza,BRA,2022,socionatural,Atlas Digital de Desastres (S2iD),2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+fortaleza,Fortaleza,BRA,2023,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+guayaquil,Guayaquil,ECU,1970,otro,DesInventar,15,21.0,286.0,2.0,0.0,30.0,21.0,11.0
+guayaquil,Guayaquil,ECU,1970,socionatural,DesInventar,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+guayaquil,Guayaquil,ECU,1971,otro,DesInventar,6,2.0,48.0,1.0,115.0,3.0,10.0,13.0
+guayaquil,Guayaquil,ECU,1971,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+guayaquil,Guayaquil,ECU,1972,otro,DesInventar,7,24.0,153.0,0.0,0.0,0.0,11.0,0.0
+guayaquil,Guayaquil,ECU,1973,otro,DesInventar,9,157.0,101.0,60.0,60.0,0.0,4.0,0.0
+guayaquil,Guayaquil,ECU,1973,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+guayaquil,Guayaquil,ECU,1974,otro,DesInventar,3,16.0,22.0,0.0,60.0,0.0,1.0,0.0
+guayaquil,Guayaquil,ECU,1975,otro,DesInventar,2,32.0,21.0,0.0,0.0,0.0,1.0,0.0
+guayaquil,Guayaquil,ECU,1976,otro,DesInventar,3,18.0,50.0,0.0,0.0,0.0,8.0,0.0
+guayaquil,Guayaquil,ECU,1977,otro,DesInventar,8,26.0,11.0,1.0,0.0,80.0,17.0,0.0
+guayaquil,Guayaquil,ECU,1978,otro,DesInventar,5,4.0,6.0,0.0,0.0,0.0,10.0,0.0
+guayaquil,Guayaquil,ECU,1979,otro,DesInventar,1,0.0,5.0,0.0,0.0,0.0,3.0,0.0
+guayaquil,Guayaquil,ECU,1979,socionatural,DesInventar,1,3.0,300.0,0.0,0.0,0.0,0.0,0.0
+guayaquil,Guayaquil,ECU,1980,otro,DesInventar,12,23.0,148.0,1.0,60.0,0.0,64.0,151.0
+guayaquil,Guayaquil,ECU,1980,socionatural,DesInventar,2,19.0,160.0,0.0,0.0,0.0,0.0,0.0
+guayaquil,Guayaquil,ECU,1981,otro,DesInventar,8,19.0,38.0,0.0,331.0,0.0,48.0,14.0
+guayaquil,Guayaquil,ECU,1981,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+guayaquil,Guayaquil,ECU,1982,otro,DesInventar,7,17.0,26.0,0.0,100.0,0.0,16.0,3.0
+guayaquil,Guayaquil,ECU,1982,socionatural,DesInventar,9,0.0,0.0,0.0,0.0,0.0,30.0,0.0
+guayaquil,Guayaquil,ECU,1983,otro,DesInventar,9,19.0,6.0,0.0,0.0,0.0,11.0,0.0
+guayaquil,Guayaquil,ECU,1983,socionatural,DesInventar,6,8.0,14.0,0.0,0.0,0.0,15.0,9.0
+guayaquil,Guayaquil,ECU,1984,otro,DesInventar,11,24.0,15.0,4.0,30.0,0.0,10.0,5.0
+guayaquil,Guayaquil,ECU,1984,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+guayaquil,Guayaquil,ECU,1985,otro,DesInventar,28,39.0,2528.0,5.0,132.0,0.0,63.0,11.0
+guayaquil,Guayaquil,ECU,1985,socionatural,DesInventar,1,0.0,0.0,0.0,40.0,0.0,10.0,0.0
+guayaquil,Guayaquil,ECU,1986,otro,DesInventar,13,6.0,35.0,0.0,14.0,0.0,15.0,1.0
+guayaquil,Guayaquil,ECU,1986,socionatural,DesInventar,1,0.0,0.0,2.0,0.0,0.0,2.0,0.0
+guayaquil,Guayaquil,ECU,1987,otro,DesInventar,2,1.0,6.0,0.0,500.0,0.0,0.0,0.0
+guayaquil,Guayaquil,ECU,1987,socionatural,DesInventar,12,143.0,20.0,0.0,0.0,0.0,0.0,0.0
+guayaquil,Guayaquil,ECU,1988,otro,DesInventar,24,47.0,8.0,1.0,93.0,0.0,18.0,8.0
+guayaquil,Guayaquil,ECU,1988,socionatural,DesInventar,10,0.0,0.0,0.0,0.0,20.0,0.0,0.0
+guayaquil,Guayaquil,ECU,1989,otro,DesInventar,17,26.0,23.0,0.0,0.0,0.0,17.0,5.0
+guayaquil,Guayaquil,ECU,1989,socionatural,DesInventar,7,4.0,0.0,2.0,36.0,0.0,9.0,0.0
+guayaquil,Guayaquil,ECU,1990,otro,DesInventar,23,16.0,24.0,0.0,0.0,0.0,17.0,5.0
+guayaquil,Guayaquil,ECU,1990,socionatural,DesInventar,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+guayaquil,Guayaquil,ECU,1991,otro,DesInventar,28,7.0,101.0,0.0,30.0,70.0,38.0,9.0
+guayaquil,Guayaquil,ECU,1991,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+guayaquil,Guayaquil,ECU,1992,otro,DesInventar,24,50.0,195.0,0.0,36.0,0.0,4.0,1.0
+guayaquil,Guayaquil,ECU,1992,socionatural,DesInventar,14,24.0,0.0,13.0,0.0,509.0,80.0,0.0
+guayaquil,Guayaquil,ECU,1993,otro,DesInventar,27,15.0,43.0,0.0,115.0,36.0,36.0,2.0
+guayaquil,Guayaquil,ECU,1993,socionatural,DesInventar,9,4.0,1.0,0.0,0.0,0.0,0.0,0.0
+guayaquil,Guayaquil,ECU,1994,otro,DesInventar,27,7.0,6.0,0.0,590.0,0.0,55.0,1.0
+guayaquil,Guayaquil,ECU,1994,socionatural,DesInventar,7,5.0,0.0,0.0,0.0,0.0,5.0,0.0
+guayaquil,Guayaquil,ECU,1995,otro,DesInventar,22,6.0,11.0,0.0,0.0,0.0,18.0,1.0
+guayaquil,Guayaquil,ECU,1995,socionatural,DesInventar,7,4.0,0.0,0.0,5.0,0.0,15.0,0.0
+guayaquil,Guayaquil,ECU,1996,otro,DesInventar,23,51.0,40.0,0.0,20.0,0.0,30.0,1.0
+guayaquil,Guayaquil,ECU,1996,socionatural,DesInventar,16,0.0,0.0,0.0,60.0,1000.0,17.0,60.0
+guayaquil,Guayaquil,ECU,1997,otro,DesInventar,15,16.0,97.0,0.0,15.0,0.0,14.0,0.0
+guayaquil,Guayaquil,ECU,1997,socionatural,DesInventar,31,34.0,5.0,8.0,50965.0,903.0,108.0,184.0
+guayaquil,Guayaquil,ECU,1998,otro,DesInventar,25,19.0,80.0,0.0,12.0,25.0,6.0,0.0
+guayaquil,Guayaquil,ECU,1998,socionatural,DesInventar,10,7.0,0.0,1.0,11.0,2750.0,26.0,194.0
+guayaquil,Guayaquil,ECU,1999,otro,DesInventar,35,22.0,156.0,0.0,20.0,0.0,20.0,2.0
+guayaquil,Guayaquil,ECU,1999,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+guayaquil,Guayaquil,ECU,2000,otro,DesInventar,20,22.0,960.0,0.0,67.0,0.0,45.0,5.0
+guayaquil,Guayaquil,ECU,2000,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+guayaquil,Guayaquil,ECU,2001,otro,DesInventar,7,18.0,2.0,0.0,1.0,0.0,1.0,0.0
+guayaquil,Guayaquil,ECU,2001,socionatural,DesInventar,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+guayaquil,Guayaquil,ECU,2002,otro,DesInventar,30,28.0,122.0,0.0,3.0,4.0,26.0,3.0
+guayaquil,Guayaquil,ECU,2002,socionatural,DesInventar,10,8.0,3.0,0.0,476.0,750.0,11.0,47.0
+guayaquil,Guayaquil,ECU,2003,otro,DesInventar,30,19.0,2490.0,0.0,193.0,0.0,22.0,1.0
+guayaquil,Guayaquil,ECU,2003,socionatural,DesInventar,10,2.0,0.0,0.0,74.0,40.0,0.0,6.0
+guayaquil,Guayaquil,ECU,2004,otro,DesInventar,58,9.0,0.0,0.0,330.0,78.0,66.0,16.0
+guayaquil,Guayaquil,ECU,2004,socionatural,DesInventar,6,0.0,0.0,0.0,13.0,0.0,2.0,0.0
+guayaquil,Guayaquil,ECU,2005,otro,DesInventar,35,15.0,0.0,0.0,210.0,0.0,26.0,16.0
+guayaquil,Guayaquil,ECU,2005,socionatural,DesInventar,11,0.0,0.0,0.0,55.0,500.0,2.0,109.0
+guayaquil,Guayaquil,ECU,2006,otro,DesInventar,44,8.0,0.0,0.0,110.0,77.0,18.0,14.0
+guayaquil,Guayaquil,ECU,2006,socionatural,DesInventar,10,0.0,0.0,0.0,5.0,150.0,1.0,30.0
+guayaquil,Guayaquil,ECU,2007,otro,DesInventar,49,4.0,23.0,0.0,272.0,24.0,63.0,10.0
+guayaquil,Guayaquil,ECU,2007,socionatural,DesInventar,22,0.0,0.0,0.0,89.0,37.0,22.0,11.0
+guayaquil,Guayaquil,ECU,2008,otro,DesInventar,13,1.0,3.0,0.0,31.0,106.0,15.0,1.0
+guayaquil,Guayaquil,ECU,2008,socionatural,DesInventar,18,0.0,0.0,0.0,93.0,312.0,12.0,54.0
+guayaquil,Guayaquil,ECU,2009,otro,DesInventar,24,1.0,15.0,0.0,0.0,3.0,8.0,1.0
+guayaquil,Guayaquil,ECU,2009,socionatural,DesInventar,19,0.0,0.0,0.0,0.0,4.0,12.0,11.0
+guayaquil,Guayaquil,ECU,2010,otro,DesInventar,27,11.0,16.0,0.0,32.0,177.0,36.0,22.0
+guayaquil,Guayaquil,ECU,2010,socionatural,DesInventar,10,0.0,0.0,0.0,0.0,4.0,0.0,1.0
+guayaquil,Guayaquil,ECU,2011,otro,DesInventar,108,15.0,29.0,0.0,12.0,1172.0,85.0,100.0
+guayaquil,Guayaquil,ECU,2011,socionatural,DesInventar,20,2.0,0.0,0.0,0.0,1217.0,18.0,119.0
+guayaquil,Guayaquil,ECU,2012,otro,DesInventar,136,7.0,68.0,0.0,288.0,1996.0,91.0,166.0
+guayaquil,Guayaquil,ECU,2012,socionatural,DesInventar,35,2.0,1.0,0.0,0.0,2070.0,3.0,660.0
+guayaquil,Guayaquil,ECU,2013,otro,DesInventar,161,15.0,62.0,0.0,92.0,402.0,115.0,110.0
+guayaquil,Guayaquil,ECU,2013,socionatural,DesInventar,53,3.0,0.0,0.0,164.0,2790.0,61.0,718.0
+guayaquil,Guayaquil,ECU,2014,otro,DesInventar,199,10.0,70.0,2.0,128.0,573.0,153.0,96.0
+guayaquil,Guayaquil,ECU,2014,socionatural,DesInventar,58,2.0,0.0,0.0,24.0,608.0,11.0,212.0
+guayaquil,Guayaquil,ECU,2015,otro,DesInventar,198,11.0,56.0,0.0,28.0,388.0,104.0,111.0
+guayaquil,Guayaquil,ECU,2015,socionatural,DesInventar,40,0.0,2.0,0.0,4.0,986.0,1.0,211.0
+guayaquil,Guayaquil,ECU,2016,otro,DesInventar,186,8.0,44.0,0.0,44.0,411.0,128.0,101.0
+guayaquil,Guayaquil,ECU,2016,socionatural,DesInventar,71,3.0,5.0,0.0,120.0,434.0,32.0,101.0
+guayaquil,Guayaquil,ECU,2017,otro,DesInventar,204,6.0,37.0,0.0,44.0,804.0,115.0,131.0
+guayaquil,Guayaquil,ECU,2017,socionatural,DesInventar,271,1.0,0.0,0.0,12.0,2120.0,4.0,503.0
+guayaquil,Guayaquil,ECU,2018,otro,DesInventar,184,5.0,23.0,0.0,252.0,534.0,72.0,121.0
+guayaquil,Guayaquil,ECU,2018,socionatural,DesInventar,422,0.0,0.0,0.0,0.0,32.0,1.0,9.0
+guayaquil,Guayaquil,ECU,2019,otro,DesInventar,211,25.0,45.0,0.0,404.0,804.0,89.0,133.0
+guayaquil,Guayaquil,ECU,2019,socionatural,DesInventar,254,2.0,0.0,0.0,0.0,96.0,0.0,75.0
+guayaquil,Guayaquil,ECU,2020,otro,DesInventar,150,8.0,31.0,0.0,292.0,407.0,68.0,91.0
+guayaquil,Guayaquil,ECU,2020,socionatural,DesInventar,355,0.0,0.0,0.0,0.0,301.0,0.0,38.0
+guayaquil,Guayaquil,ECU,2021,otro,DesInventar,129,4.0,27.0,0.0,240.0,404.0,53.0,87.0
+guayaquil,Guayaquil,ECU,2021,socionatural,DesInventar,323,0.0,0.0,0.0,8.0,301.0,2.0,77.0
+guayaquil,Guayaquil,ECU,2022,otro,DesInventar,208,26.0,52.0,0.0,284.0,715.0,65.0,156.0
+guayaquil,Guayaquil,ECU,2022,socionatural,DesInventar,365,0.0,2.0,0.0,12.0,113.0,3.0,27.0
+guayaquil,Guayaquil,ECU,2023,otro,DesInventar,165,4.0,24.0,0.0,256.0,456.0,50.0,112.0
+guayaquil,Guayaquil,ECU,2023,socionatural,DesInventar,559,1.0,20.0,0.0,220.0,2006.0,48.0,415.0
+lima,Lima Metropolitana,PER,1970,otro,DesInventar,89,63.0,0.0,0.0,15.0,7501.0,18.0,2.0
+lima,Lima Metropolitana,PER,1970,socionatural,DesInventar,26,2.0,0.0,9.0,30150.0,37000.0,66.0,347.0
+lima,Lima Metropolitana,PER,1971,otro,DesInventar,39,16.0,0.0,0.0,55.0,0.0,19.0,1.0
+lima,Lima Metropolitana,PER,1971,socionatural,DesInventar,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lima,Lima Metropolitana,PER,1972,otro,DesInventar,81,17.0,0.0,6.0,139.0,0.0,18.0,10.0
+lima,Lima Metropolitana,PER,1972,socionatural,DesInventar,24,0.0,0.0,0.0,15.0,0.0,3.0,0.0
+lima,Lima Metropolitana,PER,1973,otro,DesInventar,73,25.0,0.0,1.0,10.0,381.0,5.0,14.0
+lima,Lima Metropolitana,PER,1973,socionatural,DesInventar,12,1.0,0.0,0.0,750.0,0.0,90.0,0.0
+lima,Lima Metropolitana,PER,1974,otro,DesInventar,85,21.0,0.0,0.0,320.0,5003.0,19.0,35.0
+lima,Lima Metropolitana,PER,1974,socionatural,DesInventar,15,14.0,0.0,0.0,4690.0,1000.0,80.0,0.0
+lima,Lima Metropolitana,PER,1975,otro,DesInventar,28,2.0,0.0,0.0,61.0,2.0,13.0,0.0
+lima,Lima Metropolitana,PER,1975,socionatural,DesInventar,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lima,Lima Metropolitana,PER,1976,otro,DesInventar,64,2.0,3.0,0.0,481.0,0.0,47.0,6.0
+lima,Lima Metropolitana,PER,1976,socionatural,DesInventar,13,0.0,0.0,0.0,10.0,98.0,0.0,0.0
+lima,Lima Metropolitana,PER,1977,otro,DesInventar,51,14.0,40.0,0.0,328.0,4624.0,79.0,11.0
+lima,Lima Metropolitana,PER,1977,socionatural,DesInventar,6,0.0,0.0,0.0,40.0,0.0,8.0,0.0
+lima,Lima Metropolitana,PER,1978,otro,DesInventar,35,7.0,0.0,0.0,442.0,0.0,90.0,2.0
+lima,Lima Metropolitana,PER,1978,socionatural,DesInventar,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lima,Lima Metropolitana,PER,1979,otro,DesInventar,33,13.0,0.0,0.0,20.0,15.0,11.0,3.0
+lima,Lima Metropolitana,PER,1979,socionatural,DesInventar,5,2.0,0.0,0.0,5.0,0.0,1.0,0.0
+lima,Lima Metropolitana,PER,1980,otro,DesInventar,109,614.0,0.0,0.0,0.0,7862.0,11.0,0.0
+lima,Lima Metropolitana,PER,1980,socionatural,DesInventar,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lima,Lima Metropolitana,PER,1981,otro,DesInventar,81,16.0,0.0,0.0,80.0,161.0,16.0,23.0
+lima,Lima Metropolitana,PER,1981,socionatural,DesInventar,26,2.0,0.0,0.0,7280.0,0.0,217.0,24.0
+lima,Lima Metropolitana,PER,1982,otro,DesInventar,157,30.0,2.0,0.0,400.0,156787.0,330.0,20.0
+lima,Lima Metropolitana,PER,1982,socionatural,DesInventar,10,0.0,0.0,0.0,10250.0,0.0,50.0,2000.0
+lima,Lima Metropolitana,PER,1983,otro,DesInventar,35,16.0,0.0,0.0,30.0,25.0,6.0,17.0
+lima,Lima Metropolitana,PER,1983,socionatural,DesInventar,32,4.0,0.0,7.0,3245.0,25000.0,253.0,600.0
+lima,Lima Metropolitana,PER,1984,otro,DesInventar,51,39.0,3.0,0.0,111.0,120.0,56.0,61.0
+lima,Lima Metropolitana,PER,1984,socionatural,DesInventar,32,1.0,0.0,0.0,1130.0,30.0,88.0,120.0
+lima,Lima Metropolitana,PER,1985,otro,DesInventar,118,58.0,0.0,0.0,393.0,1425.0,50.0,18.0
+lima,Lima Metropolitana,PER,1985,socionatural,DesInventar,4,1.0,0.0,0.0,210.0,0.0,20.0,70.0
+lima,Lima Metropolitana,PER,1986,otro,DesInventar,128,27.0,3.0,0.0,108.0,1000.0,17.0,4.0
+lima,Lima Metropolitana,PER,1986,socionatural,DesInventar,11,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+lima,Lima Metropolitana,PER,1987,otro,DesInventar,138,29.0,1.0,0.0,330.0,100645.0,133.0,54.0
+lima,Lima Metropolitana,PER,1987,socionatural,DesInventar,17,78.0,12414.0,105.0,30229.0,39.0,1200.0,534.0
+lima,Lima Metropolitana,PER,1988,otro,DesInventar,98,23.0,0.0,0.0,210.0,105420.0,32.0,14.0
+lima,Lima Metropolitana,PER,1988,socionatural,DesInventar,12,0.0,0.0,0.0,30.0,5012.0,6.0,0.0
+lima,Lima Metropolitana,PER,1989,otro,DesInventar,69,28.0,0.0,5.0,27.0,3043.0,7.0,9.0
+lima,Lima Metropolitana,PER,1989,socionatural,DesInventar,21,4.0,0.0,0.0,0.0,30100.0,0.0,20.0
+lima,Lima Metropolitana,PER,1990,otro,DesInventar,4,4.0,0.0,0.0,0.0,0.0,5.0,0.0
+lima,Lima Metropolitana,PER,1991,otro,DesInventar,6,17.0,0.0,0.0,0.0,6.0,0.0,0.0
+lima,Lima Metropolitana,PER,1991,socionatural,DesInventar,11,0.0,0.0,0.0,0.0,10000.0,6.0,15.0
+lima,Lima Metropolitana,PER,1992,otro,DesInventar,10,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+lima,Lima Metropolitana,PER,1992,socionatural,DesInventar,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+lima,Lima Metropolitana,PER,1993,otro,DesInventar,10,3.0,0.0,0.0,14.0,0.0,0.0,1.0
+lima,Lima Metropolitana,PER,1993,socionatural,DesInventar,36,3.0,0.0,0.0,827.0,0.0,21.0,157.0
+lima,Lima Metropolitana,PER,1994,otro,DesInventar,41,18.0,200.0,0.0,227.0,200.0,43.0,2.0
+lima,Lima Metropolitana,PER,1994,socionatural,DesInventar,25,2.0,0.0,0.0,283.0,0.0,10.0,133.0
+lima,Lima Metropolitana,PER,1995,otro,DesInventar,158,23.0,0.0,0.0,1689.0,27300.0,232.0,122.0
+lima,Lima Metropolitana,PER,1995,socionatural,DesInventar,10,0.0,0.0,0.0,20.0,0.0,0.0,5.0
+lima,Lima Metropolitana,PER,1996,otro,DesInventar,91,45.0,0.0,0.0,1653.0,80005.0,158.0,113.0
+lima,Lima Metropolitana,PER,1996,socionatural,DesInventar,15,0.0,0.0,24.0,396.0,0.0,1.0,42.0
+lima,Lima Metropolitana,PER,1997,otro,DesInventar,21,0.0,0.0,0.0,10.0,500.0,0.0,2.0
+lima,Lima Metropolitana,PER,1997,socionatural,DesInventar,14,2.0,0.0,0.0,45.0,0.0,0.0,0.0
+lima,Lima Metropolitana,PER,1998,otro,DesInventar,61,13.0,1.0,1.0,307.0,0.0,45.0,3.0
+lima,Lima Metropolitana,PER,1998,socionatural,DesInventar,51,7.0,0.0,0.0,3390.0,683.0,87.0,1657.0
+lima,Lima Metropolitana,PER,1999,socionatural,DesInventar,4,0.0,0.0,0.0,125.0,0.0,56.0,0.0
+lima,Lima Metropolitana,PER,2000,otro,DesInventar,49,3470.0,20.0,0.0,67.0,395.0,106.0,123.0
+lima,Lima Metropolitana,PER,2000,socionatural,DesInventar,38,0.0,0.0,0.0,144.0,420.0,0.0,42.0
+lima,Lima Metropolitana,PER,2001,otro,DesInventar,47,299.0,0.0,1.0,0.0,71.0,9.0,8.0
+lima,Lima Metropolitana,PER,2001,socionatural,DesInventar,20,0.0,0.0,0.0,1500.0,1151.0,300.0,560.0
+lima,Lima Metropolitana,PER,2002,otro,DesInventar,54,35.0,0.0,0.0,27.0,179.0,73.0,12.0
+lima,Lima Metropolitana,PER,2002,socionatural,DesInventar,27,7.0,0.0,0.0,13248.0,72.0,47.0,1393.0
+lima,Lima Metropolitana,PER,2003,otro,DesInventar,16,4.0,36019.0,0.0,0.0,0.0,5.0,83.0
+lima,Lima Metropolitana,PER,2003,socionatural,DesInventar,12,3.0,5.0,1.0,0.0,450.0,4.0,0.0
+lima,Lima Metropolitana,PER,2004,otro,DesInventar,49,11.0,140.0,0.0,0.0,13.0,4.0,35.0
+lima,Lima Metropolitana,PER,2004,socionatural,DesInventar,24,8.0,3.0,0.0,0.0,514.0,9.0,39.0
+lima,Lima Metropolitana,PER,2005,otro,DesInventar,30,12.0,44.0,0.0,15.0,0.0,1.0,17.0
+lima,Lima Metropolitana,PER,2005,socionatural,DesInventar,9,7.0,1.0,0.0,0.0,0.0,0.0,0.0
+lima,Lima Metropolitana,PER,2006,otro,DesInventar,27,14.0,59.0,0.0,0.0,110.0,5.0,15.0
+lima,Lima Metropolitana,PER,2006,socionatural,DesInventar,5,1.0,5.0,0.0,0.0,0.0,0.0,1.0
+lima,Lima Metropolitana,PER,2007,otro,DesInventar,36,8.0,43.0,0.0,20.0,1132.0,5.0,205.0
+lima,Lima Metropolitana,PER,2007,socionatural,DesInventar,8,0.0,0.0,0.0,5.0,95.0,0.0,15.0
+lima,Lima Metropolitana,PER,2008,otro,DesInventar,22,7.0,20.0,0.0,40.0,34.0,13.0,12.0
+lima,Lima Metropolitana,PER,2008,socionatural,DesInventar,16,3.0,1.0,0.0,0.0,105.0,0.0,46.0
+lima,Lima Metropolitana,PER,2009,otro,DesInventar,38,11.0,48.0,0.0,25.0,21.0,5.0,3.0
+lima,Lima Metropolitana,PER,2009,socionatural,DesInventar,17,5.0,0.0,0.0,47.0,275.0,17.0,155.0
+lima,Lima Metropolitana,PER,2010,otro,DesInventar,8,0.0,7.0,5.0,90.0,0.0,6.0,9.0
+lima,Lima Metropolitana,PER,2010,socionatural,DesInventar,20,0.0,0.0,0.0,600.0,0.0,0.0,0.0
+lima,Lima Metropolitana,PER,2011,otro,DesInventar,6,0.0,27.0,0.0,0.0,300.0,1.0,0.0
+lima,Lima Metropolitana,PER,2011,socionatural,DesInventar,5,0.0,0.0,0.0,0.0,1000.0,0.0,0.0
+lima,Lima Metropolitana,PER,2012,otro,DesInventar,18,0.0,8.0,0.0,1637.0,68.0,556.0,8.0
+lima,Lima Metropolitana,PER,2012,socionatural,DesInventar,9,1.0,62.0,0.0,1949.0,3010.0,379.0,791.0
+lima,Lima Metropolitana,PER,2013,otro,DesInventar,148,60.0,471.0,3.0,254.0,897.0,21.0,155.0
+lima,Lima Metropolitana,PER,2013,socionatural,DesInventar,22,0.0,0.0,0.0,0.0,1280.0,45.0,435.0
+lima,Lima Metropolitana,PER,2015,socionatural,DesInventar,11,5.0,4.0,3.0,322.0,1225.0,0.0,10.0
+manaus,Manaus,BRA,2007,socionatural,Atlas Digital de Desastres (S2iD),1,1.0,33.0,3.0,3825.0,991.0,1317.0,2540.0
+manaus,Manaus,BRA,2009,socionatural,Atlas Digital de Desastres (S2iD),4,0.0,0.0,0.0,10725.0,6619.0,25.0,377.0
+manaus,Manaus,BRA,2011,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,0.0,0.0,330.0
+manaus,Manaus,BRA,2012,socionatural,Atlas Digital de Desastres (S2iD),1,2.0,0.0,0.0,0.0,18345.0,0.0,3688.0
+manaus,Manaus,BRA,2013,socionatural,Atlas Digital de Desastres (S2iD),3,0.0,52.0,0.0,1525.0,26752.0,18.0,241.0
+manaus,Manaus,BRA,2014,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,50.0,0.0,19345.0,10605.0,20.0,3468.0
+manaus,Manaus,BRA,2015,socionatural,Atlas Digital de Desastres (S2iD),2,0.0,0.0,0.0,13920.0,75840.0,20.0,3468.0
+manaus,Manaus,BRA,2016,socionatural,Atlas Digital de Desastres (S2iD),1,5.0,6.0,0.0,133.0,2925.0,0.0,0.0
+manaus,Manaus,BRA,2017,socionatural,Atlas Digital de Desastres (S2iD),2,2.0,1.0,0.0,9883.0,39520.0,0.0,2471.0
+manaus,Manaus,BRA,2018,otro,Atlas Digital de Desastres (S2iD),1,0.0,4.0,0.0,2995.0,800.0,368.0,102.0
+manaus,Manaus,BRA,2019,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,10165.0,1853.0,0.0,0.0
+manaus,Manaus,BRA,2021,socionatural,Atlas Digital de Desastres (S2iD),4,0.0,0.0,0.0,65.0,24160.0,3015.0,0.0
+manaus,Manaus,BRA,2022,socionatural,Atlas Digital de Desastres (S2iD),4,2.0,0.0,0.0,0.0,150189.0,1.0,500.0
+manaus,Manaus,BRA,2023,socionatural,Atlas Digital de Desastres (S2iD),3,8.0,7.0,0.0,9184.0,15546.0,0.0,0.0
+manaus,Manaus,BRA,2024,otro,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,816.0,0.0,141.0,63.0
+manaus,Manaus,BRA,2024,socionatural,Atlas Digital de Desastres (S2iD),2,0.0,0.0,0.0,0.0,2088736.0,0.0,0.0
+medellin,Medellín,COL,1921,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1924,socionatural,DesInventar,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1927,socionatural,DesInventar,1,30.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1928,socionatural,DesInventar,2,5.0,10.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1930,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+medellin,Medellín,COL,1933,socionatural,DesInventar,1,3.0,8.0,0.0,0.0,0.0,2.0,0.0
+medellin,Medellín,COL,1934,socionatural,DesInventar,1,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1935,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1937,socionatural,DesInventar,2,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1938,socionatural,DesInventar,2,0.0,3.0,0.0,0.0,0.0,6.0,0.0
+medellin,Medellín,COL,1940,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,500.0,75.0,0.0
+medellin,Medellín,COL,1942,socionatural,DesInventar,4,5.0,0.0,0.0,0.0,0.0,8.0,0.0
+medellin,Medellín,COL,1943,socionatural,DesInventar,2,2.0,0.0,0.0,0.0,0.0,1.0,0.0
+medellin,Medellín,COL,1944,socionatural,DesInventar,6,0.0,0.0,0.0,0.0,0.0,1002.0,0.0
+medellin,Medellín,COL,1946,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1947,socionatural,DesInventar,2,30.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1948,socionatural,DesInventar,5,1.0,0.0,0.0,0.0,0.0,30.0,0.0
+medellin,Medellín,COL,1949,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1950,socionatural,DesInventar,2,2.0,4.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1951,socionatural,DesInventar,2,2.0,0.0,0.0,0.0,0.0,2.0,0.0
+medellin,Medellín,COL,1952,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1954,socionatural,DesInventar,2,70.0,60.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1955,socionatural,DesInventar,2,2.0,0.0,0.0,0.0,0.0,1.0,0.0
+medellin,Medellín,COL,1956,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1957,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1962,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1963,socionatural,DesInventar,2,15.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1964,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1966,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,1000.0,0.0
+medellin,Medellín,COL,1967,socionatural,DesInventar,4,19.0,6.0,0.0,0.0,0.0,600.0,0.0
+medellin,Medellín,COL,1968,socionatural,DesInventar,1,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1969,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,10.0,0.0
+medellin,Medellín,COL,1970,otro,DesInventar,6,7.0,19.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1970,socionatural,DesInventar,23,12.0,2.0,4.0,1651.0,1147.0,313.0,68.0
+medellin,Medellín,COL,1971,otro,DesInventar,5,11.0,42.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1971,socionatural,DesInventar,18,6.0,20.0,1.0,252.0,0.0,56.0,4.0
+medellin,Medellín,COL,1972,otro,DesInventar,9,1.0,50.0,0.0,0.0,0.0,1.0,0.0
+medellin,Medellín,COL,1972,socionatural,DesInventar,6,8.0,3.0,0.0,3.0,0.0,3.0,0.0
+medellin,Medellín,COL,1973,otro,DesInventar,8,1.0,5.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1973,socionatural,DesInventar,12,14.0,0.0,6.0,13.0,0.0,9.0,3.0
+medellin,Medellín,COL,1974,otro,DesInventar,2,4.0,4.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1974,socionatural,DesInventar,7,55.0,3.0,0.0,25.0,0.0,36.0,0.0
+medellin,Medellín,COL,1975,otro,DesInventar,8,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1975,socionatural,DesInventar,8,24.0,10.0,2.0,6.0,0.0,2.0,0.0
+medellin,Medellín,COL,1976,otro,DesInventar,8,5.0,158.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1976,socionatural,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1977,otro,DesInventar,8,26.0,0.0,0.0,0.0,0.0,7.0,10.0
+medellin,Medellín,COL,1977,socionatural,DesInventar,4,4.0,70.0,0.0,0.0,0.0,1.0,0.0
+medellin,Medellín,COL,1978,otro,DesInventar,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1978,socionatural,DesInventar,4,1.0,0.0,0.0,0.0,0.0,3.0,50.0
+medellin,Medellín,COL,1979,otro,DesInventar,5,3.0,5.0,0.0,100.0,0.0,15.0,0.0
+medellin,Medellín,COL,1979,socionatural,DesInventar,19,14.0,10.0,0.0,189.0,1000.0,31.0,0.0
+medellin,Medellín,COL,1980,otro,DesInventar,2,0.0,15.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1980,socionatural,DesInventar,9,49.0,1.0,1.0,0.0,295.0,50.0,0.0
+medellin,Medellín,COL,1981,otro,DesInventar,5,0.0,12.0,0.0,6.0,0.0,0.0,0.0
+medellin,Medellín,COL,1981,socionatural,DesInventar,8,3.0,5.0,0.0,0.0,0.0,7.0,65.0
+medellin,Medellín,COL,1982,otro,DesInventar,13,29.0,1065.0,2.0,0.0,0.0,62.0,0.0
+medellin,Medellín,COL,1982,socionatural,DesInventar,7,1.0,1.0,0.0,0.0,0.0,13.0,10.0
+medellin,Medellín,COL,1983,otro,DesInventar,7,1.0,46.0,0.0,30.0,20500.0,30.0,630.0
+medellin,Medellín,COL,1983,socionatural,DesInventar,5,3.0,5.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1984,otro,DesInventar,4,6.0,9.0,0.0,0.0,0.0,0.0,1.0
+medellin,Medellín,COL,1984,socionatural,DesInventar,20,4.0,3.0,0.0,91.0,30.0,34.0,18.0
+medellin,Medellín,COL,1985,otro,DesInventar,4,1.0,9.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1985,socionatural,DesInventar,13,15.0,7.0,0.0,0.0,22.0,12.0,2.0
+medellin,Medellín,COL,1986,otro,DesInventar,3,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1986,socionatural,DesInventar,14,3.0,0.0,0.0,782.0,25.0,83.0,0.0
+medellin,Medellín,COL,1987,otro,DesInventar,6,2.0,4.0,0.0,203.0,0.0,36.0,0.0
+medellin,Medellín,COL,1987,socionatural,DesInventar,4,501.0,150.0,0.0,1700.0,0.0,69.0,0.0
+medellin,Medellín,COL,1988,otro,DesInventar,2,0.0,1.0,0.0,0.0,490.0,0.0,0.0
+medellin,Medellín,COL,1988,socionatural,DesInventar,32,50.0,2.0,17.0,4383.0,6300.0,305.0,355.0
+medellin,Medellín,COL,1989,otro,DesInventar,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1989,socionatural,DesInventar,4,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1990,otro,DesInventar,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1990,socionatural,DesInventar,4,25.0,3.0,0.0,260.0,948.0,17.0,0.0
+medellin,Medellín,COL,1991,otro,DesInventar,3,8.0,20.0,0.0,0.0,0.0,12.0,0.0
+medellin,Medellín,COL,1991,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1992,otro,DesInventar,3,0.0,20.0,0.0,0.0,300.0,0.0,20.0
+medellin,Medellín,COL,1992,socionatural,DesInventar,2,0.0,50.0,0.0,0.0,100.0,5.0,75.0
+medellin,Medellín,COL,1993,otro,DesInventar,1,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1993,socionatural,DesInventar,4,1.0,2.0,0.0,0.0,902.0,0.0,1.0
+medellin,Medellín,COL,1994,otro,DesInventar,3,0.0,42.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1994,socionatural,DesInventar,2,8.0,5.0,0.0,0.0,7.0,1.0,0.0
+medellin,Medellín,COL,1995,otro,DesInventar,1,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1995,socionatural,DesInventar,10,0.0,0.0,0.0,473.0,0.0,1.0,35.0
+medellin,Medellín,COL,1996,otro,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1996,socionatural,DesInventar,7,9.0,22.0,0.0,5252.0,15.0,9.0,58.0
+medellin,Medellín,COL,1997,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,45.0,1.0,8.0
+medellin,Medellín,COL,1998,otro,DesInventar,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,1998,socionatural,DesInventar,5,2.0,4.0,0.0,0.0,5.0,1.0,0.0
+medellin,Medellín,COL,1999,socionatural,DesInventar,7,0.0,4.0,0.0,0.0,0.0,1.0,0.0
+medellin,Medellín,COL,2000,otro,DesInventar,1,0.0,0.0,0.0,787.0,0.0,161.0,0.0
+medellin,Medellín,COL,2000,socionatural,DesInventar,5,11.0,4.0,0.0,5.0,225.0,4.0,15.0
+medellin,Medellín,COL,2001,otro,DesInventar,2,2.0,82.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,2001,socionatural,DesInventar,4,2.0,0.0,0.0,0.0,750.0,3.0,0.0
+medellin,Medellín,COL,2002,otro,DesInventar,3,0.0,0.0,0.0,399.0,207.0,92.0,0.0
+medellin,Medellín,COL,2002,socionatural,DesInventar,5,2.0,3.0,0.0,10.0,45.0,6.0,6.0
+medellin,Medellín,COL,2003,otro,DesInventar,7,5.0,2.0,4.0,39.0,4343.0,686.0,7.0
+medellin,Medellín,COL,2003,socionatural,DesInventar,6,14.0,11.0,4.0,0.0,2420.0,4.0,0.0
+medellin,Medellín,COL,2004,otro,DesInventar,2,0.0,2.0,0.0,0.0,221.0,33.0,0.0
+medellin,Medellín,COL,2004,socionatural,DesInventar,8,1.0,0.0,0.0,0.0,300.0,9.0,75.0
+medellin,Medellín,COL,2005,otro,DesInventar,1,0.0,0.0,0.0,0.0,330.0,35.0,0.0
+medellin,Medellín,COL,2005,socionatural,DesInventar,8,4.0,1.0,0.0,0.0,370.0,7.0,42.0
+medellin,Medellín,COL,2006,otro,DesInventar,2,0.0,0.0,0.0,0.0,410.0,82.0,0.0
+medellin,Medellín,COL,2006,socionatural,DesInventar,9,9.0,4.0,0.0,0.0,440.0,25.0,55.0
+medellin,Medellín,COL,2007,otro,DesInventar,3,1.0,0.0,0.0,0.0,1500.0,250.0,0.0
+medellin,Medellín,COL,2007,socionatural,DesInventar,15,14.0,1.0,1.0,0.0,1632.0,59.0,306.0
+medellin,Medellín,COL,2008,otro,DesInventar,5,1.0,0.0,0.0,0.0,187.0,33.0,5.0
+medellin,Medellín,COL,2008,socionatural,DesInventar,18,47.0,30.0,2.0,100.0,3162.0,39.0,348.0
+medellin,Medellín,COL,2009,otro,DesInventar,10,17.0,1.0,0.0,0.0,198.0,10.0,4.0
+medellin,Medellín,COL,2009,socionatural,DesInventar,17,5.0,2.0,1.0,0.0,10916.0,9.0,146.0
+medellin,Medellín,COL,2010,otro,DesInventar,2,0.0,0.0,0.0,0.0,546.0,147.0,0.0
+medellin,Medellín,COL,2010,socionatural,DesInventar,13,5.0,1.0,0.0,0.0,530.0,14.0,92.0
+medellin,Medellín,COL,2011,otro,DesInventar,4,1.0,1.0,0.0,0.0,95.0,16.0,8.0
+medellin,Medellín,COL,2011,socionatural,DesInventar,20,8.0,3.0,2.0,0.0,11934.0,45.0,276.0
+medellin,Medellín,COL,2012,otro,DesInventar,3,0.0,1.0,0.0,0.0,1.0,0.0,2.0
+medellin,Medellín,COL,2012,socionatural,DesInventar,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+medellin,Medellín,COL,2013,otro,DesInventar,9,12.0,53.0,0.0,10.0,555.0,2.0,4.0
+medellin,Medellín,COL,2013,socionatural,DesInventar,23,3.0,1.0,0.0,95.0,425.0,19.0,85.0
+medellin,Medellín,COL,2014,otro,DesInventar,11,3.0,33.0,0.0,0.0,26.0,4.0,1.0
+medellin,Medellín,COL,2014,socionatural,DesInventar,19,0.0,0.0,0.0,0.0,93.0,8.0,30.0
+medellin,Medellín,COL,2015,otro,DesInventar,3,2.0,0.0,0.0,0.0,12.0,1.0,2.0
+medellin,Medellín,COL,2015,socionatural,DesInventar,16,1.0,2.0,0.0,0.0,58.0,4.0,7.0
+medellin,Medellín,COL,2016,otro,DesInventar,7,3.0,12.0,0.0,75.0,305.0,60.0,16.0
+medellin,Medellín,COL,2016,socionatural,DesInventar,11,1.0,1.0,0.0,0.0,157.0,3.0,31.0
+medellin,Medellín,COL,2017,otro,DesInventar,7,2.0,7.0,0.0,0.0,1469.0,1.0,6.0
+medellin,Medellín,COL,2017,socionatural,DesInventar,7,0.0,0.0,0.0,58.0,102.0,11.0,29.0
+medellin,Medellín,COL,2019,otro,UNGRD (datos.gov.co),14,11.0,109.0,0.0,0.0,920.0,2.0,248.0
+medellin,Medellín,COL,2019,socionatural,UNGRD (datos.gov.co),13,3.0,3.0,0.0,0.0,116.0,6.0,28.0
+medellin,Medellín,COL,2020,otro,UNGRD (datos.gov.co),3,1.0,5.0,0.0,0.0,18.0,0.0,4.0
+medellin,Medellín,COL,2020,socionatural,UNGRD (datos.gov.co),19,2.0,5.0,0.0,0.0,232.0,0.0,56.0
+medellin,Medellín,COL,2021,otro,UNGRD (datos.gov.co),13,0.0,17.0,0.0,0.0,92.0,3.0,19.0
+medellin,Medellín,COL,2021,socionatural,UNGRD (datos.gov.co),19,4.0,6.0,0.0,0.0,903.0,13.0,237.0
+medellin,Medellín,COL,2022,otro,UNGRD (datos.gov.co),15,24.0,9.0,0.0,0.0,1116.0,0.0,462.0
+medellin,Medellín,COL,2022,socionatural,UNGRD (datos.gov.co),36,6.0,3.0,0.0,0.0,2286.0,108.0,705.0
+medellin,Medellín,COL,2023,otro,UNGRD (datos.gov.co),12,1.0,80.0,0.0,0.0,143.0,22.0,2.0
+medellin,Medellín,COL,2023,socionatural,UNGRD (datos.gov.co),26,2.0,14.0,0.0,0.0,81.0,0.0,16.0
+medellin,Medellín,COL,2024,otro,UNGRD (datos.gov.co),9,1.0,39.0,0.0,0.0,24092.0,12.0,5.0
+medellin,Medellín,COL,2024,socionatural,UNGRD (datos.gov.co),20,1.0,6.0,0.0,0.0,1196.0,2.0,344.0
+medellin,Medellín,COL,2025,otro,UNGRD (datos.gov.co),6,1.0,20.0,0.0,0.0,12.0,0.0,3.0
+medellin,Medellín,COL,2025,socionatural,UNGRD (datos.gov.co),3,2.0,8.0,0.0,0.0,902.0,14.0,3.0
+quito,Quito (Distrito Metropolitano),ECU,1970,otro,DesInventar,2,10.0,10.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1971,otro,DesInventar,3,12.0,117.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1972,otro,DesInventar,1,3.0,10.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1973,otro,DesInventar,2,29.0,23.0,0.0,0.0,0.0,1.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1973,socionatural,DesInventar,1,30.0,0.0,0.0,0.0,0.0,7.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1974,otro,DesInventar,2,6.0,37.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1975,otro,DesInventar,2,9.0,23.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1975,socionatural,DesInventar,1,4.0,6.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1977,otro,DesInventar,3,10.0,14.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1977,socionatural,DesInventar,1,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1978,otro,DesInventar,3,10.0,10.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1978,socionatural,DesInventar,6,4.0,6.0,0.0,40.0,0.0,6.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1980,otro,DesInventar,7,17.0,21.0,0.0,0.0,0.0,4.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1980,socionatural,DesInventar,8,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1981,otro,DesInventar,3,3.0,5.0,0.0,0.0,0.0,8.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1981,socionatural,DesInventar,3,2.0,2.0,0.0,0.0,0.0,3.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1982,otro,DesInventar,9,24.0,45.0,0.0,0.0,0.0,0.0,1.0
+quito,Quito (Distrito Metropolitano),ECU,1982,socionatural,DesInventar,20,12.0,10.0,0.0,0.0,0.0,2.0,1.0
+quito,Quito (Distrito Metropolitano),ECU,1983,otro,DesInventar,3,3.0,30.0,0.0,0.0,0.0,0.0,10.0
+quito,Quito (Distrito Metropolitano),ECU,1983,socionatural,DesInventar,21,19.0,9.0,0.0,0.0,0.0,8.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1984,otro,DesInventar,6,71.0,23.0,0.0,147.0,40.0,13.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1984,socionatural,DesInventar,6,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1985,otro,DesInventar,9,15.0,91.0,0.0,0.0,0.0,0.0,1.0
+quito,Quito (Distrito Metropolitano),ECU,1985,socionatural,DesInventar,4,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1986,otro,DesInventar,9,16.0,53.0,0.0,0.0,0.0,1.0,1.0
+quito,Quito (Distrito Metropolitano),ECU,1986,socionatural,DesInventar,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1987,otro,DesInventar,12,61.0,98.0,0.0,50.0,50.0,10.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1987,socionatural,DesInventar,9,9.0,1.0,0.0,35.0,147879.0,2.0,1000.0
+quito,Quito (Distrito Metropolitano),ECU,1988,otro,DesInventar,9,24.0,6.0,0.0,85.0,85.0,18.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1988,socionatural,DesInventar,12,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1989,otro,DesInventar,6,1.0,32.0,0.0,0.0,0.0,0.0,17.0
+quito,Quito (Distrito Metropolitano),ECU,1989,socionatural,DesInventar,9,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1990,otro,DesInventar,6,40.0,43.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1990,socionatural,DesInventar,12,6.0,0.0,0.0,0.0,8.0,102.0,900.0
+quito,Quito (Distrito Metropolitano),ECU,1991,otro,DesInventar,1,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1991,socionatural,DesInventar,2,1.0,20.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1992,otro,DesInventar,4,4.0,199.0,0.0,0.0,0.0,2.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1992,socionatural,DesInventar,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1993,socionatural,DesInventar,5,14.0,0.0,4.0,0.0,0.0,2.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1994,otro,DesInventar,3,59.0,58.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1994,socionatural,DesInventar,4,4.0,1.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1995,otro,DesInventar,2,2.0,19.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1995,socionatural,DesInventar,3,0.0,0.0,0.0,0.0,3000.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1996,otro,DesInventar,4,8.0,22.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1996,socionatural,DesInventar,4,0.0,0.0,0.0,0.0,0.0,48.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1997,otro,DesInventar,5,4.0,47.0,0.0,0.0,0.0,7.0,15.0
+quito,Quito (Distrito Metropolitano),ECU,1997,socionatural,DesInventar,14,10.0,14.0,1.0,100.0,5007.0,23.0,20.0
+quito,Quito (Distrito Metropolitano),ECU,1998,otro,DesInventar,14,130.0,129.0,0.0,0.0,2.0,0.0,1.0
+quito,Quito (Distrito Metropolitano),ECU,1998,socionatural,DesInventar,8,4.0,3.0,0.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1999,otro,DesInventar,14,31.0,128.0,10.0,0.0,0.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,1999,socionatural,DesInventar,21,7.0,9.0,0.0,193.0,0.0,10.0,14.0
+quito,Quito (Distrito Metropolitano),ECU,2000,otro,DesInventar,5,37.0,48.0,0.0,0.0,0.0,1.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,2000,socionatural,DesInventar,12,28.0,8.0,2.0,294.0,0.0,23.0,6.0
+quito,Quito (Distrito Metropolitano),ECU,2001,otro,DesInventar,9,17.0,100.0,0.0,31.0,8.0,1.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,2001,socionatural,DesInventar,14,41.0,0.0,0.0,0.0,250.0,1.0,1.0
+quito,Quito (Distrito Metropolitano),ECU,2002,otro,DesInventar,18,38.0,100.0,0.0,79.0,0.0,4.0,2.0
+quito,Quito (Distrito Metropolitano),ECU,2002,socionatural,DesInventar,29,2.0,11.0,0.0,185.0,2506.0,31.0,19.0
+quito,Quito (Distrito Metropolitano),ECU,2003,otro,DesInventar,17,11.0,98.0,0.0,45.0,0.0,3.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,2003,socionatural,DesInventar,14,3.0,0.0,0.0,0.0,0.0,1.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,2004,otro,DesInventar,7,1.0,0.0,0.0,5.0,14.0,1.0,3.0
+quito,Quito (Distrito Metropolitano),ECU,2004,socionatural,DesInventar,10,2.0,0.0,0.0,0.0,142.0,0.0,30.0
+quito,Quito (Distrito Metropolitano),ECU,2005,otro,DesInventar,6,1.0,0.0,0.0,5.0,0.0,0.0,2.0
+quito,Quito (Distrito Metropolitano),ECU,2005,socionatural,DesInventar,17,4.0,0.0,0.0,20.0,0.0,0.0,4.0
+quito,Quito (Distrito Metropolitano),ECU,2006,otro,DesInventar,10,4.0,0.0,0.0,0.0,5.0,0.0,1.0
+quito,Quito (Distrito Metropolitano),ECU,2006,socionatural,DesInventar,27,10.0,0.0,0.0,30.0,629.0,5.0,101.0
+quito,Quito (Distrito Metropolitano),ECU,2007,otro,DesInventar,12,6.0,27.0,0.0,0.0,0.0,1.0,5.0
+quito,Quito (Distrito Metropolitano),ECU,2007,socionatural,DesInventar,18,2.0,0.0,0.0,29.0,90.0,8.0,31.0
+quito,Quito (Distrito Metropolitano),ECU,2008,otro,DesInventar,11,3.0,17.0,0.0,0.0,0.0,0.0,2.0
+quito,Quito (Distrito Metropolitano),ECU,2008,socionatural,DesInventar,18,6.0,2.0,0.0,4.0,332.0,2.0,2.0
+quito,Quito (Distrito Metropolitano),ECU,2009,otro,DesInventar,18,14.0,29.0,0.0,0.0,45.0,1.0,10.0
+quito,Quito (Distrito Metropolitano),ECU,2009,socionatural,DesInventar,20,5.0,1.0,1.0,4.0,119.0,1.0,10.0
+quito,Quito (Distrito Metropolitano),ECU,2010,otro,DesInventar,21,4.0,4.0,0.0,0.0,75.0,0.0,14.0
+quito,Quito (Distrito Metropolitano),ECU,2010,socionatural,DesInventar,30,5.0,3.0,0.0,0.0,66.0,2.0,16.0
+quito,Quito (Distrito Metropolitano),ECU,2011,otro,DesInventar,29,9.0,37.0,0.0,0.0,99.0,7.0,31.0
+quito,Quito (Distrito Metropolitano),ECU,2011,socionatural,DesInventar,50,8.0,11.0,0.0,0.0,1025.0,9.0,225.0
+quito,Quito (Distrito Metropolitano),ECU,2012,socionatural,DesInventar,2616,0.0,47.0,0.0,0.0,47.0,0.0,0.0
+quito,Quito (Distrito Metropolitano),ECU,2013,otro,DesInventar,64,13.0,48.0,0.0,0.0,147.0,2.0,40.0
+quito,Quito (Distrito Metropolitano),ECU,2013,socionatural,DesInventar,116,2.0,3.0,0.0,28.0,137.0,7.0,53.0
+quito,Quito (Distrito Metropolitano),ECU,2014,otro,DesInventar,98,16.0,66.0,0.0,0.0,273.0,9.0,49.0
+quito,Quito (Distrito Metropolitano),ECU,2014,socionatural,DesInventar,149,4.0,16.0,0.0,0.0,416.0,2.0,158.0
+quito,Quito (Distrito Metropolitano),ECU,2015,otro,DesInventar,71,11.0,57.0,0.0,0.0,91.0,1.0,37.0
+quito,Quito (Distrito Metropolitano),ECU,2015,socionatural,DesInventar,61,3.0,30.0,1.0,0.0,66.0,1.0,28.0
+quito,Quito (Distrito Metropolitano),ECU,2016,otro,DesInventar,45,4.0,24.0,0.0,0.0,98.0,10.0,79.0
+quito,Quito (Distrito Metropolitano),ECU,2016,socionatural,DesInventar,57,4.0,4.0,0.0,0.0,48.0,2.0,29.0
+quito,Quito (Distrito Metropolitano),ECU,2017,otro,DesInventar,91,33.0,49.0,0.0,0.0,471.0,17.0,53.0
+quito,Quito (Distrito Metropolitano),ECU,2017,socionatural,DesInventar,327,2.0,11.0,0.0,4.0,147.0,0.0,41.0
+quito,Quito (Distrito Metropolitano),ECU,2018,otro,DesInventar,93,14.0,65.0,0.0,20.0,206.0,13.0,65.0
+quito,Quito (Distrito Metropolitano),ECU,2018,socionatural,DesInventar,624,13.0,22.0,0.0,8.0,73.0,1.0,29.0
+quito,Quito (Distrito Metropolitano),ECU,2019,otro,DesInventar,139,23.0,109.0,0.0,72.0,321.0,12.0,73.0
+quito,Quito (Distrito Metropolitano),ECU,2019,socionatural,DesInventar,454,1.0,18.0,0.0,60.0,321.0,4.0,84.0
+quito,Quito (Distrito Metropolitano),ECU,2020,otro,DesInventar,144,17.0,62.0,0.0,76.0,350.0,18.0,104.0
+quito,Quito (Distrito Metropolitano),ECU,2020,socionatural,DesInventar,315,1.0,32.0,0.0,16.0,550.0,4.0,130.0
+quito,Quito (Distrito Metropolitano),ECU,2021,otro,DesInventar,247,23.0,101.0,0.0,32.0,488.0,10.0,146.0
+quito,Quito (Distrito Metropolitano),ECU,2021,socionatural,DesInventar,464,3.0,18.0,0.0,16.0,520.0,10.0,144.0
+quito,Quito (Distrito Metropolitano),ECU,2022,otro,DesInventar,178,17.0,82.0,0.0,16.0,331.0,6.0,101.0
+quito,Quito (Distrito Metropolitano),ECU,2022,socionatural,DesInventar,503,29.0,66.0,1.0,416.0,1000.0,7.0,137.0
+quito,Quito (Distrito Metropolitano),ECU,2023,otro,DesInventar,245,19.0,130.0,8.0,4.0,430.0,3.0,140.0
+quito,Quito (Distrito Metropolitano),ECU,2023,socionatural,DesInventar,960,2.0,20.0,1.0,56.0,516.0,2.0,160.0
+rio,Rio de Janeiro,BRA,1996,socionatural,Atlas Digital de Desastres (S2iD),1,2.0,90.0,0.0,451.0,0.0,0.0,0.0
+rio,Rio de Janeiro,BRA,2007,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+rio,Rio de Janeiro,BRA,2010,socionatural,Atlas Digital de Desastres (S2iD),2,61.0,30.0,16.0,5056.0,642.0,0.0,0.0
+rio,Rio de Janeiro,BRA,2014,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+rio,Rio de Janeiro,BRA,2016,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+rio,Rio de Janeiro,BRA,2019,socionatural,Atlas Digital de Desastres (S2iD),1,10.0,0.0,0.0,3245.0,75835.0,192.0,0.0
+rio,Rio de Janeiro,BRA,2020,otro,Atlas Digital de Desastres (S2iD),1,8.0,0.0,0.0,0.0,800.0,0.0,0.0
+rio,Rio de Janeiro,BRA,2020,socionatural,Atlas Digital de Desastres (S2iD),8,3.0,4.0,1.0,35.0,25095.0,0.0,24.0
+rio,Rio de Janeiro,BRA,2021,otro,Atlas Digital de Desastres (S2iD),4,2.0,7.0,0.0,933.0,8.0,0.0,0.0
+rio,Rio de Janeiro,BRA,2021,socionatural,Atlas Digital de Desastres (S2iD),5,0.0,0.0,0.0,61.0,0.0,0.0,0.0
+rio,Rio de Janeiro,BRA,2022,socionatural,Atlas Digital de Desastres (S2iD),2,0.0,0.0,0.0,466.0,3256.0,0.0,0.0
+rio,Rio de Janeiro,BRA,2023,socionatural,Atlas Digital de Desastres (S2iD),1,2.0,1.0,0.0,279.0,15137.0,0.0,0.0
+rio,Rio de Janeiro,BRA,2024,socionatural,Atlas Digital de Desastres (S2iD),1,3.0,7.0,1.0,3069.0,252974.0,112.0,0.0
+salvador,Salvador,BRA,1995,socionatural,Atlas Digital de Desastres (S2iD),2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+salvador,Salvador,BRA,1996,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+salvador,Salvador,BRA,1999,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+salvador,Salvador,BRA,2003,socionatural,Atlas Digital de Desastres (S2iD),1,2.0,13.0,0.0,2100.0,5765.0,87.0,40.0
+salvador,Salvador,BRA,2005,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,1962.0,6692.0,124.0,323.0
+salvador,Salvador,BRA,2006,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,142.0,1603993.0,23.0,100.0
+salvador,Salvador,BRA,2009,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,143.0,3410.0,0.0,0.0
+salvador,Salvador,BRA,2010,socionatural,Atlas Digital de Desastres (S2iD),1,2.0,2.0,1.0,961.0,1431793.0,1.0,405.0
+salvador,Salvador,BRA,2011,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,0.0,228.0,153.0
+salvador,Salvador,BRA,2015,socionatural,Atlas Digital de Desastres (S2iD),1,15.0,4.0,0.0,3146.0,2260.0,43.0,561.0
+salvador,Salvador,BRA,2017,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+salvador,Salvador,BRA,2018,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,10248.0,0.0,0.0
+salvador,Salvador,BRA,2021,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,12240.0,0.0,20.0
+salvador,Salvador,BRA,2022,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+sao_paulo,São Paulo,BRA,1993,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,12.0,0.0,0.0,0.0
+sao_paulo,São Paulo,BRA,1994,socionatural,Atlas Digital de Desastres (S2iD),2,4.0,0.0,2.0,460.0,0.0,0.0,0.0
+sao_paulo,São Paulo,BRA,1995,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,430.0,8000.0,0.0,0.0
+sao_paulo,São Paulo,BRA,1996,socionatural,Atlas Digital de Desastres (S2iD),1,4.0,0.0,0.0,334.0,0.0,0.0,0.0
+sao_paulo,São Paulo,BRA,1998,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,2200.0,0.0,0.0,0.0
+sao_paulo,São Paulo,BRA,1999,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,8.0,0.0,1100.0,0.0,0.0,0.0
+sao_paulo,São Paulo,BRA,2000,socionatural,Atlas Digital de Desastres (S2iD),2,1.0,3.0,0.0,10.0,0.0,0.0,0.0
+sao_paulo,São Paulo,BRA,2001,socionatural,Atlas Digital de Desastres (S2iD),1,1.0,0.0,0.0,0.0,0.0,0.0,6.0
+sao_paulo,São Paulo,BRA,2002,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,0.0,0.0,250.0
+sao_paulo,São Paulo,BRA,2003,socionatural,Atlas Digital de Desastres (S2iD),2,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+sao_paulo,São Paulo,BRA,2004,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+sao_paulo,São Paulo,BRA,2005,socionatural,Atlas Digital de Desastres (S2iD),4,0.0,3.0,12.0,271.0,1.0,1.0,1.0
+sao_paulo,São Paulo,BRA,2006,socionatural,Atlas Digital de Desastres (S2iD),8,9.0,6.0,0.0,9.0,0.0,4.0,1.0
+sao_paulo,São Paulo,BRA,2007,socionatural,Atlas Digital de Desastres (S2iD),5,0.0,3.0,8.0,153.0,3.0,1.0,2.0
+sao_paulo,São Paulo,BRA,2008,socionatural,Atlas Digital de Desastres (S2iD),7,0.0,7.0,0.0,70.0,5.0,2.0,0.0
+sao_paulo,São Paulo,BRA,2009,socionatural,Atlas Digital de Desastres (S2iD),10,21.0,12.0,0.0,2758.0,6.0,5.0,1.0
+sao_paulo,São Paulo,BRA,2010,socionatural,Atlas Digital de Desastres (S2iD),5,8.0,110.0,0.0,8055.0,5234.0,816.0,2098.0
+sao_paulo,São Paulo,BRA,2011,socionatural,Atlas Digital de Desastres (S2iD),2,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+sao_paulo,São Paulo,BRA,2012,socionatural,Atlas Digital de Desastres (S2iD),3,2.0,1.0,0.0,16.0,0.0,1.0,0.0
+sao_paulo,São Paulo,BRA,2013,socionatural,Atlas Digital de Desastres (S2iD),6,3.0,6.0,0.0,201.0,1.0,1.0,2.0
+sao_paulo,São Paulo,BRA,2018,socionatural,Atlas Digital de Desastres (S2iD),2,0.0,0.0,0.0,2.0,1056.0,2.0,0.0
+sao_paulo,São Paulo,BRA,2019,socionatural,Atlas Digital de Desastres (S2iD),1,1.0,0.0,0.0,12220.0,6998.0,0.0,6050.0
+sao_paulo,São Paulo,BRA,2020,socionatural,Atlas Digital de Desastres (S2iD),1,0.0,0.0,0.0,0.0,16000.0,0.0,5000.0

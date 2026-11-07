@@ -4,6 +4,10 @@
 # etl/fuentes_nuevas/extraer_dimensiones_nuevas.py
 etl/fuentes_nuevas/crudos/ccpcnc_v5.zip
 
+# Descargas grandes de DesInventar y del atlas de Brasil (más de 180 MB). Se vuelven a bajar
+# corriendo etl/riesgo_ciudades/extraer_riesgo_ciudades.py
+etl/riesgo_ciudades/crudos/
+
 # Copias de seguridad de la actualización mensual (versiones viejas)
 etl/historial/
 

@@ -18,6 +18,7 @@ qué hace, cómo leer el resumen y cómo volver atrás si hiciera falta.
    | Latinoamérica por subdivisión | `latam_subnacional/extraer_latam_subnacional.py` |
    | Dimensiones nuevas | `fuentes_nuevas/extraer_dimensiones_nuevas.py` |
    | Dimensiones nuevas en el panel de países | `paso3_dimensiones_nuevas.py` |
+   | Riesgo de desastres en 16 ciudades | `riesgo_ciudades/extraer_riesgo_ciudades.py` + `riesgo_ciudades/cruce_scorecard.py` |
    | Modelo unificado | `modelo_unificado/construir_master.py` |
    | Bases Argentina, Latam y mundial | `bases_regionales/construir_bases_regionales.py` |
    | Base absoluta (todo en una tabla) | `base_absoluta/construir_base_absoluta.py` |
