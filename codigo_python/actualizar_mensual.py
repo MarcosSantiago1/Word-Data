@@ -72,6 +72,8 @@ PASOS = [
      [["indicadores_sociales_digitales/extraer_indicadores_sociales.py"]], ["indicadores_sociales_digitales"]),
     ("riesgo_ciudades", "Pérdidas por desastres y gasto en gestión del riesgo de 16 ciudades (DesInventar, S2iD, UNGRD, SICONFI, CUIPO)",
      [["riesgo_ciudades/extraer_riesgo_ciudades.py"], ["riesgo_ciudades/cruce_scorecard.py"]], ["riesgo_ciudades"]),
+    ("riesgo_ciudades_mundo", "Scorecard UNDRR de las 375 ciudades del mundo de +2 millones: GHSL, sismos USGS y puntajes (sin rehacer los .xlsm)",
+     [["riesgo_ciudades_mundo/actualizar_mundo.py"]], ["riesgo_ciudades_mundo"]),  # lee datos_procesados/ y maestros/
     ("modelo_unificado", "Modelo unificado (SQLite)",
      [["modelo_unificado/construir_master.py"]], ["modelo_unificado"]),
     ("bases_regionales", "Bases Argentina, Latinoamérica y mundial (SQLite)",  # lee el master

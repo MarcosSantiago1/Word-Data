@@ -25,3 +25,11 @@ notebooks/proyecto_github/
 
 # Archivos adjuntados en el chat del proyecto
 uploads/
+
+# Temas del GHSL (227 MB). Se vuelven a bajar corriendo etl/riesgo_ciudades_mundo/bajar_ghsl.py
+etl/riesgo_ciudades_mundo/crudos/ghsl/
+
+# Los scorecards .xlsm (cerca de 1 GB) y sus zips quedan en los archivos del proyecto, no en GitHub
+consultas/**/*.xlsm
+consultas/**/*.zip
+consultas/**/trabajo/

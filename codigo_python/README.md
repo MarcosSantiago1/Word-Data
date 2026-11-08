@@ -40,12 +40,13 @@ Cada paso usa lo que dejaron los anteriores. Es el mismo orden que sigue `actual
 | 13 | `bases_regionales/construir_bases_regionales.py` | Separa todo en tres bases SQLite: Argentina (país + provincias), Latinoamérica (países + subdivisiones) y mundial. No baja nada: filtra el master y suma las tablas de Latam, festivales y KPIs. | 6, 10, 11 |
 | 14 | `base_absoluta/construir_base_absoluta.py` | Pone toda la información en una sola tabla: país, provincia/departamento, variable y una columna por año (`base_absoluta.csv` y `.sqlite`, más `diccionario_variables.csv`). No baja nada. | 5, 6, 10, 11 |
 | 15 | `riesgo_ciudades/extraer_riesgo_ciudades.py` + `riesgo_ciudades/cruce_scorecard.py` | Pérdidas por desastres (DesInventar, atlas S2iD de Brasil, UNGRD) y gasto municipal en gestión del riesgo (SICONFI, CUIPO) de las 16 ciudades de los scorecards UNDRR, y el cruce con sus puntajes. Explicación en `riesgo_ciudades/GUIA_RIESGO_CIUDADES.md`. | — |
+| 16 | `riesgo_ciudades_mundo/actualizar_mundo.py` | Scorecard UNDRR de las 375 ciudades del mundo de más de 2 millones (gobierno local): baja el GHSL de la Comisión Europea y los sismos del USGS, arma los indicadores del país y recalcula los puntajes del modelo y el resumen. El código del modelo está en `consultas/scorecard_undrr/mundo/herramientas/`; explicación en `consultas/scorecard_undrr/mundo/GUIA_SCORECARD_MUNDO.md`. | 1, 2, 3 |
 
 ## Scripts de mantenimiento
 
 | Script | Qué hace |
 |---|---|
-| `actualizar_mensual.py` | Corre los pasos 1 a 8, el 10, el 13, el 14 y el 15 con datos frescos en una carpeta temporal, compara con la versión anterior y publica solo lo que salió bien (guarda la versión vieja en `etl/historial/`). `--prueba` corre sin publicar. |
+| `actualizar_mensual.py` | Corre los pasos 1 a 8, el 10, el 13, el 14, el 15 y el 16 con datos frescos en una carpeta temporal, compara con la versión anterior y publica solo lo que salió bien (guarda la versión vieja en `etl/historial/`). `--prueba` corre sin publicar. |
 | `chequear_fuentes.py` | Prueba si cada una de las 39 fuentes que se renuevan sigue respondiendo y avisa cuáles podrían estar discontinuadas. Lo llama la actualización mensual; también se corre solo. |
 | `actualizar_copia.py` | Rehace esta carpeta (solo existe acá, no en `etl/`). |
 

@@ -1,0 +1,376 @@
+id,sismos_m6_150km_desde1900,sismos_m5_100km_desde1975,sismo_max_mag,sismo_max_fecha,sismo_max_lugar
+sao_paulo,0,0,,,
+cdmx,4,0,7.1,2017-09-19,"1 km S of Matzaco, Mexico"
+lima,9,31,8.2,1940-05-24,"21 km SE of Huacho, Peru"
+bogota,7,7,7.05,1917-08-31,"5 km SE of Castilla La Nueva, Colombia"
+rio,0,0,,,
+brasilia,0,0,,,
+guayaquil,13,34,6.8,2023-03-18,"14 km NNW of Baláo, Ecuador"
+quito,14,22,7.2,1987-03-06,"29 km SSE of Pimampiro, Ecuador"
+medellin,5,6,6.6,1995-08-19,"7 km WSW of Neira, Colombia"
+fortaleza,0,1,5.1,1980-11-20,"32 km SE of Chorozinho, Brazil"
+salvador,0,0,,,
+belo_horizonte,0,0,,,
+cali,8,19,6.8,1994-06-06,"23 km E of Toribío, Colombia"
+caracas,4,3,7.7,1900-10-29,Near the coast of Venezuela
+manaus,0,0,5.27,1963-12-14,"110 km NNW of Manacapuru, Brazil"
+caba,0,0,,,
+nueva_york,0,0,,,
+los_angeles,9,21,7.5,1952-07-21,"The 1952 Kern County, California Earthquake"
+chicago,0,0,5.0,1909-05-26,"Near Aurora, Illinois"
+houston,0,0,,,
+toronto,0,0,,,
+londres,0,0,,,
+berlin,0,0,,,
+madrid,0,0,,,
+roma,6,9,6.69,1915-01-13,"4 km WNW of San Benedetto dei Marsi, Italy"
+paris,0,0,,,
+viena,0,3,5.62,1906-01-09,"5 km SW of Brezová pod Bradlom, Slovakia"
+moscu,0,0,,,
+san_petersburgo,0,0,,,
+kiev,0,0,,,
+minsk,0,0,,,
+estambul,9,15,7.6,1999-08-17,"4 km ESE of Derince, Turkey"
+ankara,7,5,7.6,1944-02-01,"10 km WNW of Orta, Turkey"
+esmirna,17,29,7.16,1949-07-23,"9 km NNW of Karaburun, Turkey"
+bursa,17,12,7.6,1999-08-17,"4 km ESE of Derince, Turkey"
+antalya,5,15,7.06,1914-10-03,"15 km WSW of Burdur, Turkey"
+konya,5,1,6.5,2002-02-03,"5 km NE of Sultanda??, Turkey"
+adana,4,11,6.7,2023-02-06,"14 km E of Nurda??, Turkey"
+sanliurfa,5,5,6.8,1905-12-04,"13 km NNE of Sincik, Turkey"
+gaziantep,7,14,7.8,2023-02-06,"Pazarcik earthquake, Kahramanmaras earthquake sequence"
+kocaeli,11,15,7.6,1999-08-17,"4 km ESE of Derince, Turkey"
+teheran,4,5,7.0,1962-09-01,"47 km SSE of T?kest?n, Iran"
+mashhad,2,4,6.45,1940-05-04,"57 km SW of Neysh?b?r, Iran"
+bagdad,1,0,6.1,1967-01-11,"36 km NNE of Mandalī, Iraq"
+mosul,0,2,5.99,1944-07-17,"28 km SSW of Al-Hamdaniya, Iraq"
+riad,0,0,,,
+yeda,0,0,,,
+la_meca,0,0,,,
+dubai,1,1,6.14,1945-01-11,"72 km E of Bandar-e Lengeh, Iran"
+aman,1,2,6.13,1927-07-11,Dead Sea region
+damasco,0,2,5.5,1956-03-16,"11 km WSW of Aanjar, Lebanon"
+sana,1,2,6.3,1982-12-13,"17 km N of Dham?r, Yemen"
+kabul,4,11,6.51,1956-09-16,"19 km S of ?uk?mat? Azrah, Afghanistan"
+taskent,1,4,6.01,1959-10-24,"13 km NNE of G‘azalkent, Uzbekistan"
+almaty,4,7,8.02,1911-01-03,"The 1911 Kemin Earthquake, Kyrgyzstan"
+baku,4,8,6.8,2000-11-25,"15 km SSE of Baku, Azerbaijan"
+bombay,0,0,,,
+delhi,1,1,6.7,1956-10-10,"6 km SE of Jahāngīrpur, India"
+bangalore,0,0,,,
+hyderabad_ind,0,0,5.0,1993-10-29,"11 km SSE of Chincholi, India"
+chennai,0,0,5.2,2001-09-25,"39 km SE of Marakkanam, India"
+ahmedabad,0,0,,,
+calcuta,0,1,5.3,1976-06-23,"67 km SE of Kultali, India"
+surat,0,0,5.36,1970-03-23,"6 km E of Ankleshwar, India"
+pune,1,0,6.54,1967-12-10,"6 km WSW of Pātan, India"
+jaipur,0,0,,,
+lucknow,0,0,,,
+kanpur,0,0,,,
+nagpur,0,0,,,
+karachi,1,1,6.27,1942-07-03,"37 km NNE of Uthal, Pakistan"
+lahore,0,1,5.2,1996-04-01,Pakistan
+faisalabad,0,4,5.36,1928-08-19,"15 km NNW of Khush?b, Pakistan"
+rawalpindi,2,15,7.6,2005-10-08,"21 km NNE of Muzaffar?b?d, Pakistan"
+gujranwala,0,1,5.4,2019-09-24,"8 km SSE of New Mirpur, Pakistan"
+multan,0,0,5.96,1927-01-30,"45 km SW of Taunsa, Pakistan"
+islamabad,2,23,7.6,2005-10-08,"21 km NNE of Muzaffar?b?d, Pakistan"
+dhaka_norte,2,4,7.14,1918-07-08,"24 km N of Kishorganj, Bangladesh"
+dhaka_sur,3,4,7.14,1918-07-08,"24 km N of Kishorganj, Bangladesh"
+chittagong,3,5,6.4,1921-03-30,"9 km WNW of L?lmohan, Bangladesh"
+gazipur,2,3,7.14,1918-07-08,"24 km N of Kishorganj, Bangladesh"
+tokio,56,198,7.96,1923-09-01,"5 km SSE of ?iso, Japan"
+yokohama,56,212,7.96,1923-09-01,"5 km SSE of ?iso, Japan"
+osaka,21,26,8.1,1944-12-07,1944 Toankai Earthquake
+nagoya,17,22,6.91,1909-08-14,"23 km SSE of Ono, Japan"
+seul,0,0,5.1,1982-02-14,"8 km WNW of Ayang-ni, North Korea"
+busan,0,1,5.5,2017-11-15,"7 km SW of Heunghae, South Korea"
+incheon,0,0,5.1,1982-02-14,"8 km WNW of Ayang-ni, North Korea"
+daegu,0,2,5.5,2017-11-15,"7 km SW of Heunghae, South Korea"
+pyongyang,1,1,6.27,1952-03-19,"3 km ENE of Chunghwa, North Korea"
+hong_kong,0,0,,,
+nuevo_taipei,149,117,7.7,1999-09-20,"21 km S of Puli, Taiwan"
+taichung,135,91,8.23,1920-06-05,"1920 Hualien, Taiwan Earthquake"
+kaohsiung,74,62,7.81,1951-11-24,Taiwan
+taipei,148,120,7.69,1922-09-01,"50 km SSE of Yilan, Taiwan"
+taoyuan,131,83,7.7,1999-09-20,"21 km S of Puli, Taiwan"
+ho_chi_minh,0,0,,,
+hanoi,0,0,5.68,1961-06-12,"23 km ESE of Thái Nguyên, Vietnam"
+can_tho,0,0,,,
+da_nang,0,0,5.1,2024-07-28,"53 km NNE of Kon Tum, Vietnam"
+hai_phong,0,0,5.68,1961-06-12,"23 km ESE of Thái Nguyên, Vietnam"
+bangkok,0,0,,,
+quezon,31,67,7.7,1990-07-16,"4 km E of Macapsing, Philippines"
+yakarta,8,40,7.5,2007-08-08,"35 km NNE of Rengasdengklok, Indonesia"
+surabaya,8,7,6.7,1992-09-02,"94 km N of Tuban, Indonesia"
+bekasi,5,36,7.5,2007-08-08,"35 km NNE of Rengasdengklok, Indonesia"
+bandung,15,50,7.5,2007-08-08,"35 km NNE of Rengasdengklok, Indonesia"
+medan,12,13,7.06,1936-09-19,"86 km WSW of Pangkalan Brandan, Indonesia"
+depok,11,51,7.5,2007-08-08,"35 km NNE of Rengasdengklok, Indonesia"
+singapur,0,0,,,
+rangun,4,5,7.52,1930-12-03,"36 km SSW of Pyu, Myanmar"
+phnom_penh,0,0,,,
+el_cairo,0,1,5.8,1992-10-12,"10 km ESE of Mad?nat Sittah Ukt?bar, Egypt"
+alejandria,1,0,6.23,1955-09-12,"129 km NNW of Rosetta, Egypt"
+giza,0,1,5.8,1992-10-12,"10 km ESE of Mad?nat Sittah Ukt?bar, Egypt"
+jartum,0,1,5.5,1993-08-01,"89 km WSW of Omdurman, Sudan"
+omdurman,0,1,5.5,1993-08-01,"89 km WSW of Omdurman, Sudan"
+addis_abeba,0,1,5.9,2025-02-14,"5 km NNW of Metahāra, Ethiopia"
+nairobi,0,0,,,
+dar_es_salaam,1,3,6.0,2020-08-12,"66 km NNE of Kilindoni, Tanzania"
+kinsasa,0,0,,,
+mbuji_mayi,0,0,,,
+luanda,0,0,,,
+lagos,0,0,,,
+abuja,0,0,,,
+abiyan,0,0,,,
+bamako,0,0,,,
+uagadugu,0,0,,,
+conakri,0,0,5.0,2021-02-03,"41 km NNW of Kindia, Guinea"
+duala,0,0,,,
+yaunde,0,0,,,
+brazzaville,0,0,,,
+lome,0,0,,,
+mogadiscio,0,0,,,
+lusaka,0,0,5.7,1963-09-23,"32 km WSW of Siavonga, Zambia"
+johannesburgo,0,1,5.7,1974-05-14,"12 km WNW of Westonaria, South Africa"
+ciudad_del_cabo,1,0,6.3,1969-09-29,"15 km NNE of Ceres, South Africa"
+durban,0,0,,,
+ekurhuleni,0,1,5.7,1974-05-14,"12 km WNW of Westonaria, South Africa"
+tshwane,0,0,5.7,1974-05-14,"12 km WNW of Westonaria, South Africa"
+casablanca,0,0,,,
+argel,5,16,6.8,2003-05-21,"25 km WNW of Dellys, Algeria"
+chongqing,0,1,5.4,2021-09-15,"52 km SE of Neijiang, China"
+shanghai,0,1,5.47,1971-12-30,"50 km ESE of Shanghai, China"
+pekin,2,0,7.5,1976-07-27,"17 km NE of Penguanzhuang, China"
+tianjin,4,13,7.5,1976-07-27,"17 km NE of Penguanzhuang, China"
+harbin,1,0,6.32,1941-05-05,"29 km ENE of Suihua, China"
+chengdu,4,30,7.9,2008-05-12,"58 km W of Tianpeng, China"
+guangzhou,0,0,5.6,1989-11-25,"10 km W of Heyuan, China"
+shenzhen,0,0,5.6,1989-11-25,"10 km W of Heyuan, China"
+xi_an,0,0,,,
+suzhou,1,1,6.62,1921-12-01,"20 km WNW of Zhicheng, China"
+zhengzhou,1,0,6.74,1937-08-01,"28 km W of Heze, China"
+wuhan,1,1,6.09,1932-04-06,"24 km NE of Macheng, China"
+hangzhou,1,0,6.62,1921-12-01,"20 km WNW of Zhicheng, China"
+baoding,3,0,6.8,1966-03-22,"34 km NW of Nangong, China"
+shijiazhuang,5,1,6.8,1966-03-22,"34 km NW of Nangong, China"
+linyi,0,1,5.1,1995-09-20,"9 km NNE of Bianzhuang, China"
+dongguan,1,0,6.0,1962-03-18,"10 km NNW of Heyuan, China"
+qingdao,2,0,6.31,1932-08-22,"104 km ESE of Qingshancun, China"
+changsha,0,0,,,
+nanyang,0,0,,,
+wenzhou,0,0,,,
+foshan,0,0,,,
+handan,5,1,6.8,1966-03-22,"34 km NW of Nangong, China"
+ningbo,0,0,5.47,1971-12-30,"50 km ESE of Shanghai, China"
+weifang,1,0,6.18,1907-01-10,"5 km ESE of Laizhou, China"
+hefei,1,0,6.41,1917-01-24,"61 km SSW of Wuyang, China"
+nanjing,1,1,6.62,1921-12-01,"20 km WNW of Zhicheng, China"
+jinan,0,1,5.4,2023-08-05,"24 km S of Dezhou, China"
+xuzhou,0,0,5.1,1995-09-20,"9 km NNE of Bianzhuang, China"
+shenyang,1,1,7.0,1975-02-04,"6 km E of Dashiqiao, China"
+changchun,0,0,5.51,1966-10-02,"25 km SW of Changchun, China"
+zhoukou,0,0,,,
+ganzhou,1,0,6.02,1917-01-27,"71 km ESE of Ji’an, China"
+heze,2,1,6.99,1937-07-31,"24 km W of Heze, China"
+quanzhou,0,0,,,
+nanning,0,1,5.1,1977-10-19,"87 km WNW of Nanning, China"
+kunming,5,5,7.1,1970-01-04,"22 km SSW of Yuxi, China"
+jining,2,0,6.99,1937-07-31,"24 km W of Heze, China"
+fuzhou,0,0,,,
+fuyang,0,0,,,
+shangqiu,2,1,6.99,1937-07-31,"24 km W of Heze, China"
+nantong,2,4,6.62,1921-12-01,"20 km WNW of Zhicheng, China"
+tangshan,4,29,7.5,1976-07-27,"17 km NE of Penguanzhuang, China"
+wuxi,1,2,6.62,1921-12-01,"20 km WNW of Zhicheng, China"
+dalian,3,0,6.3,1945-10-02,"35 km SSE of Pulandian, China"
+cangzhou,2,0,6.3,1976-11-15,"5 km ENE of Gaojingzhuang, China"
+xingtai,5,1,6.8,1966-03-22,"34 km NW of Nangong, China"
+yantai,2,0,6.18,1907-01-10,"5 km ESE of Laizhou, China"
+luoyang,0,0,5.28,1965-01-15,"17 km WNW of Yima, China"
+jinhua,0,0,,,
+zhumadian,0,0,,,
+zhanjiang,0,0,5.3,1994-12-31,"77 km NNW of Lincheng, China"
+bijie,1,2,6.06,1948-10-08,"35 km SSE of Zhaotong, China"
+yancheng,3,3,6.64,1927-02-03,"89 km E of Dazhong, China"
+hengyang,0,0,,,
+taizhou,0,0,,,
+zunyi,0,0,,,
+shaoyang,0,0,,,
+shangrao,0,0,,,
+nanchang,0,0,5.2,2005-11-26,"23 km SSE of Wuxue, China"
+xinxiang,2,0,6.99,1937-07-31,"24 km W of Heze, China"
+xinyang,1,0,6.09,1932-04-06,"24 km NE of Macheng, China"
+maoming,0,0,5.7,1969-07-25,"17 km SW of Yangjiang, China"
+huizhou,1,2,6.0,1962-03-18,"10 km NNW of Heyuan, China"
+guiyang,0,0,,,
+liaocheng,4,1,6.8,1966-03-22,"34 km NW of Nangong, China"
+huanggang,1,0,6.09,1932-04-06,"24 km NE of Macheng, China"
+yulin,0,0,,,
+qujing,1,0,6.05,1966-02-05,"104 km NW of Qujing, China"
+dezhou,6,1,6.8,1966-03-22,"34 km NW of Nangong, China"
+nanchong,0,1,5.7,2008-05-12,"13 km S of Mianyang, China"
+jieyang,1,0,7.37,1918-02-13,"7 km S of Huanggang, China"
+shantou,1,0,7.37,1918-02-13,"7 km S of Huanggang, China"
+anyang,3,0,6.99,1937-07-31,"24 km W of Heze, China"
+tai_an,0,0,5.4,2023-08-05,"24 km S of Dezhou, China"
+langfang,4,4,7.5,1976-07-27,"17 km NE of Penguanzhuang, China"
+jiaxing,1,0,6.62,1921-12-01,"20 km WNW of Zhicheng, China"
+dazhou,0,0,5.52,1931-07-01,"43 km SW of Wanxian, China"
+suzhou_anhui,0,0,,,
+taiyuan,0,3,5.8,1952-10-08,"3 km ESE of Yuanping, China"
+yongzhou,0,0,,,
+changde,0,0,,,
+changzhou,1,1,6.62,1921-12-01,"20 km WNW of Zhicheng, China"
+shaoxing,1,0,6.62,1921-12-01,"20 km WNW of Zhicheng, China"
+xiangyang,0,0,,,
+jingzhou,0,0,5.1,2014-03-29,"49 km WNW of Yichang, China"
+xiamen,1,0,7.37,1918-02-13,"7 km S of Huanggang, China"
+zhaotong,7,16,6.96,1917-07-30,"42 km W of Xunchang, China"
+zhangzhou,1,0,7.37,1918-02-13,"7 km S of Huanggang, China"
+yueyang,0,0,,,
+yichun,0,0,,,
+bozhou,0,0,5.95,1948-05-29,"12 km W of Dingtao, China"
+pingdingshan,0,0,,,
+suqian,0,0,5.1,1995-09-20,"9 km NNE of Bianzhuang, China"
+xianyang,0,0,,,
+guilin,0,0,5.1,2026-05-18,"20 km NW of Liuzhou, China"
+mianyang,7,38,7.9,2008-05-12,"58 km W of Tianpeng, China"
+kaifeng,2,1,6.99,1937-07-31,"24 km W of Heze, China"
+jiangmen,0,0,,,
+yuncheng,0,1,5.56,1967-12-18,"17 km NNW of Linfen, China"
+zibo,0,0,,,
+weinan,0,0,5.47,1959-08-10,"23 km ESE of Hancheng, China"
+chenzhou,0,0,,,
+jiujiang,0,1,5.81,1917-02-22,"26 km W of Huangmei, China"
+lianyungang,0,1,5.1,1995-09-20,"9 km NNE of Bianzhuang, China"
+yibin,5,29,6.96,1917-07-30,"42 km W of Xunchang, China"
+huaihua,0,0,5.4,2015-03-30,"Guizhou, China"
+yangzhou,1,0,6.62,1921-12-01,"20 km WNW of Zhicheng, China"
+huai_an,0,0,,,
+taizhou_jiangsu,0,1,5.5,1979-07-09,"23 km W of Licheng, China"
+ji_an,1,0,6.02,1917-01-27,"71 km ESE of Ji’an, China"
+zhongshan,0,0,,,
+lu_an,2,0,6.41,1917-01-24,"61 km SSW of Wuyang, China"
+xuchang,0,0,,,
+lanzhou,1,2,6.8,1936-02-07,"24 km SSW of Linxia Chengguanzhen, China"
+guigang,0,0,,,
+xiaogan,1,1,6.09,1932-04-06,"24 km NE of Macheng, China"
+luzhou,1,23,6.96,1917-07-30,"42 km W of Xunchang, China"
+hengshui,6,2,6.8,1966-03-22,"34 km NW of Nangong, China"
+anqing,0,0,5.81,1917-02-22,"26 km W of Huangmei, China"
+liuzhou,0,2,5.1,2026-05-18,"20 km NW of Liuzhou, China"
+zhangjiakou,0,2,5.7,1998-01-10,"44 km NW of Zhangjiakou, China"
+zhaoqing,0,0,,,
+qiqihar,0,0,5.0,2005-07-25,"25 km NE of Fendou, China"
+urumqi,5,14,6.54,1922-09-29,"116 km E of Baluntaicun, China"
+chifeng,0,0,,,
+yichang,0,3,5.1,2013-12-16,"92 km WNW of Yichang, China"
+chuzhou,0,0,5.5,1974-04-22,"32 km WNW of Hutang, China"
+linfen,0,1,5.56,1967-12-18,"17 km NNW of Linfen, China"
+qingyuan,0,0,5.02,1981-05-04,"18 km WNW of Heyuan, China"
+binzhou,0,0,5.69,1969-07-18,"97 km WNW of Longgang, China"
+zhuzhou,0,0,,,
+meizhou,1,0,7.37,1918-02-13,"7 km S of Huanggang, China"
+zaozhuang,0,1,5.1,1995-09-20,"9 km NNE of Bianzhuang, China"
+yiyang,0,0,,,
+loudi,0,0,,,
+puyang,2,1,6.99,1937-07-31,"24 km W of Heze, China"
+suihua,1,0,6.32,1941-05-05,"29 km ENE of Suihua, China"
+wuhu,1,1,6.62,1921-12-01,"20 km WNW of Zhicheng, China"
+yulin_shaanxi,0,0,,,
+jilin,0,0,5.72,1960-04-13,"26 km N of Shulan, China"
+fuzhou_jiangxi,1,0,6.02,1917-01-27,"71 km ESE of Ji’an, China"
+baise,0,1,5.2,1982-10-27,"57 km W of Baise City, China"
+jiaozuo,0,0,5.28,1965-01-15,"17 km WNW of Yima, China"
+deyang,4,46,7.9,2008-05-12,"58 km W of Tianpeng, China"
+hohhot,1,1,6.01,1929-01-13,"28 km WSW of Hohhot, China"
+hechi,0,0,5.1,2026-05-18,"20 km NW of Liuzhou, China"
+luliang,0,2,5.56,1967-12-18,"17 km NNW of Linfen, China"
+jinzhong,0,3,5.8,1952-10-08,"3 km ESE of Yuanping, China"
+huzhou,1,0,6.62,1921-12-01,"20 km WNW of Zhicheng, China"
+chengde,0,0,5.4,1976-07-30,"9 km NW of Zhaogezhuang, China"
+anshan,2,10,7.0,1975-02-04,"6 km E of Dashiqiao, China"
+baoji,1,0,6.16,1936-08-01,"61 km S of Tianshui, China"
+qinzhou,0,0,,,
+tongren,0,0,5.4,2015-03-30,"Guizhou, China"
+bengbu,0,0,,,
+guang_an,0,2,5.52,1931-07-01,"43 km SW of Wanxian, China"
+hanzhong,1,0,6.0,2008-08-05,"46 km NW of Guangyuan, China"
+putian,0,0,,,
+zhenjiang,1,1,6.62,1921-12-01,"20 km WNW of Zhicheng, China"
+shiyan,0,0,,,
+changzhi,0,0,5.56,1967-12-18,"17 km NNW of Linfen, China"
+leshan,6,4,6.96,1917-07-30,"42 km W of Xunchang, China"
+ningde,0,0,,,
+neijiang,0,5,5.86,1967-01-24,"42 km SSE of Chengdu, China"
+qinhuangdao,3,13,7.5,1976-07-27,"17 km NE of Penguanzhuang, China"
+datong,0,7,5.7,1998-01-10,"44 km NW of Zhangjiakou, China"
+huainan,1,0,6.41,1917-01-24,"61 km SSW of Wuyang, China"
+liupanshui,1,2,6.06,1948-10-08,"35 km SSE of Zhaotong, China"
+tianshui,1,0,6.16,1936-08-01,"61 km S of Tianshui, China"
+rizhao,0,1,5.1,1995-09-20,"9 km NNE of Bianzhuang, China"
+meishan,4,12,7.9,2008-05-12,"58 km W of Tianpeng, China"
+weihai,1,0,6.16,1948-05-23,"24 km NNW of Weihai, China"
+haikou,0,0,5.5,1995-01-10,"64 km WNW of Lincheng, China"
+tongliao,2,1,6.22,1940-01-19,"63 km SW of Tongliao, China"
+chaoyang,0,1,5.03,1977-06-05,"29 km ENE of Beipiao, China"
+yinchuan,1,5,6.08,1920-12-28,"138 km SSW of Yinchuan, China"
+shaoguan,0,0,5.02,1981-05-04,"18 km WNW of Heyuan, China"
+heyuan,1,2,6.0,1962-03-18,"10 km NNW of Heyuan, China"
+wuzhou,0,0,,,
+suining,0,1,5.86,1967-01-24,"42 km SSE of Chengdu, China"
+daqing,0,1,5.0,2005-07-25,"25 km NE of Fendou, China"
+shanwei,1,0,6.0,1962-03-18,"10 km NNW of Heyuan, China"
+xiangtan,0,0,,,
+longyan,0,0,,,
+bazhong,1,0,6.1,2008-05-25,"39 km WNW of Guangyuan, China"
+baotou,3,1,6.35,1934-01-20,"western Nei Mongol, China"
+jinzhou,2,1,7.0,1975-02-04,"6 km E of Dashiqiao, China"
+xinzhou,0,1,5.8,1952-10-08,"3 km ESE of Yuanping, China"
+nanping,0,0,,,
+xianning,0,0,5.81,1917-02-22,"26 km W of Huangmei, China"
+yangjiang,0,0,5.7,1969-07-25,"17 km SW of Yangjiang, China"
+jingmen,0,0,5.1,2014-03-29,"49 km WNW of Yichang, China"
+chaozhou,1,0,7.37,1918-02-13,"7 km S of Huanggang, China"
+dingxi,2,1,7.94,1920-12-16,"125 km E of Baiyin, China"
+lishui,0,0,,,
+xuancheng,1,1,6.62,1921-12-01,"20 km WNW of Zhicheng, China"
+ankang,0,0,,,
+zigong,5,15,6.96,1917-07-30,"42 km W of Xunchang, China"
+sanming,0,0,,,
+anshun,0,0,5.3,1971-06-26,"46 km NE of Zhelou, China"
+huangshi,1,1,6.09,1932-04-06,"24 km NE of Macheng, China"
+xining,7,0,7.7,1927-05-22,"31 km SSW of Wuwei, China"
+zhuhai,0,0,,,
+huludao,2,0,7.0,1975-02-04,"6 km E of Dashiqiao, China"
+baoshan,16,19,7.0,1976-05-29,"152 km ENE of Bhamo, Myanmar"
+longnan,7,10,6.9,1976-08-16,"121 km NNW of Jiangyou, China"
+pu_er,16,15,7.7,1988-11-06,"145 km NW of Jinghong, China"
+tieling,0,1,5.02,1975-02-24,"23 km NNE of Xinmin, China"
+yunfu,0,0,5.7,1969-07-25,"17 km SW of Yangjiang, China"
+luohe,0,0,,,
+yingkou,2,10,7.0,1975-02-04,"6 km E of Dashiqiao, China"
+ziyang,0,2,5.86,1967-01-24,"42 km SSE of Chengdu, China"
+guangyuan,3,28,6.4,1976-08-21,"99 km NNW of Jiangyou, China"
+mudanjiang,6,3,7.3,2002-06-28,"50 km SW of Dongning, China"
+yan_an,0,0,,,
+quzhou,0,0,,,
+lincang,14,12,7.7,1988-11-06,"145 km NW of Jinghong, China"
+songyuan,0,3,5.3,2013-11-22,"39 km NNE of Changling, China"
+yuxi,4,4,7.1,1970-01-04,"22 km SSW of Yuxi, China"
+hulunbuir,0,0,,,
+jincheng,0,0,5.56,1967-12-18,"17 km NNW of Linfen, China"
+dongying,2,0,6.9,1969-07-18,"106 km NW of Longgang, China"
+dandong,1,1,6.64,1944-12-19,"27 km WSW of Langtoucun, China"
+qingyang,0,0,5.61,1930-07-23,"84 km NE of Pingliang, China"
+ma_anshan,1,1,6.62,1921-12-01,"20 km WNW of Zhicheng, China"
+jiamusi,0,0,5.88,1963-06-21,"29 km NW of Fengxiang, China"
+ordos,1,0,6.0,1996-05-03,"36 km NW of Baotou, China"
+chongzuo,0,3,5.1,1977-10-19,"87 km WNW of Nanning, China"
+laibin,0,2,5.1,2026-05-18,"20 km NW of Liuzhou, China"
+suizhou,0,1,5.0,2019-12-26,"11 km W of Chengzhong, China"
+shangluo,0,0,,,
+sanmenxia,0,1,5.47,1959-08-10,"23 km ESE of Hancheng, China"
+hezhou,0,0,,,
