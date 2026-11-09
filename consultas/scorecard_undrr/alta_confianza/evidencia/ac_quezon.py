@@ -64,3 +64,22 @@ ES = {
     'A2.2': (3, C, 'La ciudad identifica efectos de tifones, inundación y calor en la salud, y declara falta de capacidad financiera y técnica para abordarlos (CDP 2023).',
              'cdp', 'Fortalecer la vigilancia sanitaria.', 'Departamento de Salud', MED),
 }
+
+# Plan oficial leído completo (nov-2026): QC DRRM Plan 2021-2027, Volumen 1.
+F['drrmp'] = ('https://quezoncity.gov.ph/wp-content/uploads/2021/10/QCDRRMP-2021-2027_Volume-1-8Sept2021.pdf', 'Quezon City DRRM Council: Plan de Reducción y Gestión del Riesgo de Desastres 2021-2027, Volumen 1', '2021')
+EN.update({
+    '2.2.2': (4, C, 'La evaluación de riesgo climático y de desastres del plan DRRM 2021-2027 estima por barangay víctimas, edificios dañados, población desplazada a largo plazo y pérdidas económicas por sismo e inundación.',
+              'drrmp', 'Sumar empleo y producción en riesgo.', 'QC DRRMO', MED),
+    '6.1.2': (2, M, 'El diagnóstico del plan DRRM 2021-2027 destaca vínculos con el sector privado, pero los acuerdos formales de ayuda mutua con supermercados, farmacias y empresas figuran como metas a firmar.',
+              'drrmp', 'Firmar los acuerdos de ayuda mutua previstos.', 'QC DRRMO', CORTO),
+    '6.1.3': (1, M, 'El plan DRRM 2021-2027 prevé un programa de transferencia de riesgo con acuerdos con entidades financieras para 2021-2024; no se hallaron acuerdos firmados.',
+              'drrmp', 'Firmar los acuerdos con aseguradoras y entidades financieras.', 'QC DRRMO / SBCDPO', MED),
+    '9.4.1': (2, M, 'El diagnóstico del plan DRRM 2021-2027 señala que no hay inventario de recursos y logística; el plan lista suministros a preposicionar sin ligarlos a escenarios.',
+              'drrmp', 'Inventario de recursos ligado al escenario sísmico.', 'QC DRRMO', CORTO),
+    '9.5.2': (3, M, 'Hay centros de evacuación, raciones y carpas (CDP 2023), pero el plan DRRM 2021-2027 reconoce que son insuficientes (escuelas y canchas saturadas) y prevé un centro permanente por distrito; no publica el tamaño de la brecha, así que se marca la brecha mínima.',
+              'cdp,drrmp', 'Calcular la brecha de refugio para el escenario sísmico.', 'QC DRRMO', MED),
+    '10.1.1': (2, M, 'El plan DRRM 2021-2027 tiene un área de rehabilitación y recuperación (con capacitación en evaluación de necesidades posdesastre), pero no se publicó un plan completo de recuperación económica.',
+               'drrmp', 'Plan de recuperación económica para el escenario sísmico.', 'QC DRRMO / CPDD', MED),
+    '10.2.1': (3, C, 'El plan DRRM 2021-2027 incluye la evaluación del plan 2014-2020 (anexo C) y un capítulo de monitoreo y evaluación, pero no hay un proceso posevento sistemático publicado.',
+               'drrmp', 'Revisión posevento publicada tras cada tifón.', 'QC DRRMO', CORTO),
+})

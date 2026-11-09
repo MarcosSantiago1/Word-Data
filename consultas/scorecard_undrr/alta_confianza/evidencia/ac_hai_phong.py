@@ -25,3 +25,12 @@ EN = {
                'ld_danos', 'Protocolo de evaluación de daños y revisión posevento.', 'Comité Popular', CORTO),
 }
 ES = {}
+
+# Plan oficial leído completo (nov-2026): plan 2025 de la zona especial Cát Hải (Hai Phong), según la Directiva 07/CT-UBND de la ciudad.
+F['cathai25'] = ('https://cdn.haiphong.gov.vn/gov-hpg/5889/tintuc/2025/7/kh-pctt-tkcnptds-2025.signed638883603045827967.pdf', 'Comité Popular de Cát Hải (Hai Phong): Plan 2025 de prevención de desastres, búsqueda y rescate y defensa civil', '2025')
+EN.update({
+    '9.2.1': (2, M, 'Por directiva de la ciudad, cada distrito prepara su plan anual: el de Cát Hải fija la evacuación al menos 5 horas antes de la llegada del tifón, la seguridad de embarcaciones y los cuatro "en el lugar" (mando, fuerzas, medios y logística); solo se publicó este distrito y no hay escenarios.',
+              'cathai25', 'Plan de la ciudad por escenario.', 'Comando de Prevención de Desastres de Hai Phong', MED),
+    '6.2.1': (4, M, 'El plan de Cát Hải difunde avisos y conocimientos por diario, radio, TV, sitios web, Facebook, correo y SMS, y los jefes de aldea movilizan a los vecinos; es un solo distrito.',
+              'cathai25', 'Campaña de toda la ciudad con escuelas.', 'Comité Popular de Hai Phong', CORTO),
+})

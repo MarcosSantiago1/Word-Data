@@ -69,3 +69,10 @@ ES = {
     'A9.3': (3, C, 'Identifica como más expuestos a niños, mujeres, adultos mayores, trabajadores al aire libre y hogares de bajos ingresos (CDP 2023).',
              'cdp', 'Registro de personas dependientes.', 'BMC, Departamento de Salud', MED),
 }
+
+# Plan oficial leído completo (nov-2026): Mumbai Climate Action Plan 2022.
+F['mcap22'] = ('https://portal.mcgm.gov.in/irj/go/km/docs/documents/Environment/Climate/Mumbai%20Climate%20Action%20Plan.pdf', 'BMC: Mumbai Climate Action Plan 2022', '2022')
+EN['2.2.1'] = (3, C, 'La ciudad estima que el 30-40% de la población está expuesta a inundación urbana (35% vive a menos de 250 m de puntos críticos) y el 20-30% al calor extremo (CDP 2023); el plan climático 2022 mapea la población alrededor de cada punto de anegamiento y los asentamientos informales en zonas de deslizamiento.',
+               'cdp,mcap22', 'Escenarios por intensidad de lluvia y marea.', 'BMC', CORTO)
+ES['A9.1'] = (2, M, 'Hay alerta de inundación (iFLOWS) y avisos meteorológicos, pero el plan de acción de calor que el plan climático 2022 preveía para 2022-2023 sigue pendiente: en 2026 se licitaron los protocolos de calor y salud.',
+              'mcap22,iflows,calor_rfp', 'Aprobar el plan de calor y salud.', 'BMC: Disaster Management Cell / Salud Pública', CORTO)

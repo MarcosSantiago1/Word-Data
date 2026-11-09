@@ -56,3 +56,17 @@ ES = {
     'A9.2': (3, M, 'El Departamento de Salud participa en la respuesta al calor con protocolos y en las emergencias por smog.',
              'calor_sop,smog_salud', 'Salud en el centro de operaciones distrital.', 'Departamento de Salud', MED),
 }
+
+# Plan oficial leído completo (nov-2026): Heatwave Management Plan of Lahore 2025-2028.
+EN.update({
+    '2.2.1': (2, C, 'El plan de calor 2025-2028 evalúa el riesgo de calor en toda la ciudad (amenaza, exposición y vulnerabilidad con adultos mayores, niños, asentamientos informales y acceso a salud); no hay escenarios equivalentes publicados para inundación ni sismo.',
+              'hwmp_lhr', 'Escenarios de inundación del Ravi y lluvia urbana.', 'DDMA Lahore', MED),
+    '6.2.1': (4, M, 'El plan de calor prevé una campaña antes y durante la temporada con folletos, redes sociales, carteles, SMS, TV, radio, app y anuncios en mezquitas, con concejales de barrio que difunden la información.',
+              'hwmp_lhr', 'Sumar la difusión en escuelas y medir el alcance.', 'Departamento de Información / EPD', CORTO),
+})
+ES.update({
+    'A9.1': (3, C, 'El plan de calor fija una alerta en tres niveles (40 °C, 42 °C, y 42 °C con noches de 30 °C por dos días), con pronóstico a 7 días y vigilancia de casos y muertes en hospitales; Punyab además declara emergencias por smog.',
+             'hwmp_lhr,smog24', 'Alertas sanitarias por inundación.', 'Departamento de Salud / PMD', MED),
+    'A10.2': (3, M, 'Tras el aviso de fin de temporada, el coordinador de emergencias reúne a los actores para evaluar el desempeño y las recomendaciones se incorporan al plan revisado; todavía no se publicó una evaluación.',
+              'hwmp_lhr', 'Publicar la evaluación de cada temporada.', 'EPD / Departamento de Salud', CORTO),
+})

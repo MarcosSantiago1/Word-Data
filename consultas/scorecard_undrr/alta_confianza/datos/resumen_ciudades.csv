@@ -2,7 +2,7 @@ id,ciudad,iso3,preguntas,con_evidencia,alta,media,sin_evidencia,cobertura_pct,pu
 bagdad,Bagdad,IRQ,141,2,1,1,139,1,1,5,1.0,1,1.0,3
 bandung,Bandung,IDN,141,7,1,6,134,5,20,35,2.86,0,,9
 bekasi,Bekasi,IDN,141,12,10,2,129,9,22,55,2.0,2,2.0,10
-bombay,Bombay,IND,141,28,26,2,113,20,78,130,3.0,5,2.5,18
+bombay,Bombay,IND,141,29,26,3,112,21,78,130,3.0,7,2.33,19
 brazzaville,Brazzaville,COG,141,3,3,0,138,2,4,15,1.33,0,,6
 calcuta,Calcuta,IND,141,16,14,2,125,11,30,75,2.0,2,2.0,14
 chittagong,Chittagong,BGD,141,13,12,1,128,9,28,65,2.15,0,,18
@@ -12,20 +12,20 @@ depok,Depok,IDN,141,5,1,4,136,4,11,25,2.2,0,,6
 dhaka_norte,Daca Norte,BGD,141,15,14,1,126,11,26,70,1.86,2,2.0,21
 dhaka_sur,Daca Sur,BGD,141,15,13,2,126,11,26,70,1.86,2,2.0,21
 gazipur,Gazipur,BGD,141,7,4,3,134,5,15,35,2.14,0,,15
-hai_phong,Hai Phong,VNM,141,6,4,2,135,4,16,30,2.67,0,,9
+hai_phong,Hai Phong,VNM,141,8,4,4,133,6,22,40,2.75,0,,10
 islamabad,Islamabad (Territorio Capital),PAK,141,13,6,7,128,9,29,65,2.23,0,,16
 jartum,Jartum,SDN,141,4,4,0,137,3,0,15,0.0,1,1.0,3
 kabul,Kabul,AFG,141,2,0,2,139,1,3,10,1.5,0,,3
 karachi,Karachi,PAK,141,52,23,29,89,37,74,220,1.68,18,2.25,44
 kinsasa,Kinsasa,COD,141,8,8,0,133,6,11,35,1.57,2,2.0,4
-lahore,Lahore,PAK,141,27,17,10,114,19,55,115,2.39,11,2.75,27
+lahore,Lahore,PAK,141,30,18,12,111,21,61,125,2.44,14,2.8,27
 mbuji_mayi,Mbuji-Mayi,COD,141,3,3,0,138,2,3,15,1.0,0,,4
 mosul,Mosul,IRQ,141,3,0,3,138,2,7,15,2.33,0,,5
 multan,Multán,PAK,141,16,9,7,125,11,35,70,2.5,5,2.5,22
 omdurman,Omdurmán,SDN,141,4,4,0,137,3,0,15,0.0,1,1.0,3
 pyongyang,Pionyang,PRK,141,2,0,2,139,1,6,10,3.0,0,,3
-quezon,Quezón,PHL,141,25,24,1,116,18,85,120,3.54,3,3.0,13
+quezon,Quezón,PHL,141,31,25,6,110,22,99,150,3.3,3,3.0,14
 rangun,Rangún,MMR,141,2,1,1,139,1,5,10,2.5,0,,4
 rawalpindi,Rawalpindi,PAK,141,19,11,8,122,13,42,90,2.33,3,3.0,24
-surabaya,Surabaya,IDN,141,11,7,4,130,8,30,50,3.0,2,2.0,11
+surabaya,Surabaya,IDN,141,19,13,6,122,13,49,90,2.72,2,2.0,12
 zhangzhou,Zhangzhou,CHN,141,3,1,2,138,2,11,15,3.67,0,,5

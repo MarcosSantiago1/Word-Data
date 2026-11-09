@@ -34,3 +34,24 @@ ES = {
     'A8.1': (2, M, 'La BPBD tiene un programa de puskesmas y hospitales seguros desde 2017; no se halló su grado de avance.',
              'ss_4prog', 'Publicar evaluación de seguridad de centros de salud.', 'Dinas Kesehatan', MED),
 }
+
+# Plan oficial leído completo (nov-2026): Kajian Risiko Bencana Kota Surabaya 2024-2028 (Perwali 119/2024).
+F['krb24'] = ('https://jdih.surabaya.go.id/peraturan/download/4591', 'Perwali Surabaya 119/2024: Evaluación de Riesgo de Desastres de Surabaya 2024-2028 (Kajian Risiko Bencana)', '2024')
+EN.update({
+    '2.1.1': (4, C, 'La evaluación de riesgo 2024-2028, adoptada por decreto del alcalde, estima amenaza, vulnerabilidad, capacidad y riesgo para inundación, marea alta, licuefacción, sequía, sismo, clima extremo e incendio; no distingue escenario más probable y más severo.',
+              'krb24', 'Definir escenarios más probable y más severo.', 'BPBD Surabaya', MED),
+    '2.2.1': (3, C, 'La evaluación 2024-2028 calcula población expuesta por amenaza y barrio, con grupos vulnerables (edad, pobreza, discapacidad), pero sin escenarios por intensidad.',
+              'krb24', 'Escenarios por intensidad de sismo e inundación.', 'BPBD Surabaya', MED),
+    '2.2.2': (4, C, 'La evaluación 2024-2028 estima población expuesta, pérdidas físicas y económicas y daño ambiental por amenaza.',
+              'krb24', 'Sumar empleo y producción en riesgo.', 'BPBD Surabaya', MED),
+    '2.4.1': (3, C, 'Hay mapas de amenaza, vulnerabilidad, capacidad y riesgo por amenaza; la evaluación recomienda todavía un plan territorial basado en el riesgo.',
+              'krb24', 'Plan territorial y de detalle basados en el riesgo.', 'Bappedalitbang / BPBD', MED),
+    '2.5.1': (3, M, 'La evaluación rige 2024-2028 y se renueva por decreto en ciclos de cinco años, más largos de lo que pide la herramienta.',
+              'krb24', 'Actualización intermedia de escenarios.', 'BPBD Surabaya', MED),
+    '9.2.1': (1, C, 'La evaluación 2024-2028 dice que Surabaya no tiene plan de contingencia para inundación ni para sismo; la respuesta se apoya en procedimientos generales y el Command Center 112.',
+              'krb24', 'Planes de contingencia de inundación y sismo.', 'BPBD Surabaya', CORTO),
+    '9.6.3': (1, M, 'La evaluación 2024-2028 recomienda crear mecanismos de recuperación de infraestructura y vivienda con gobierno, comunidad y sector privado; todavía no existen.',
+              'krb24', 'Mecanismo de coordinación de la recuperación.', 'BPBD Surabaya', MED),
+    '10.1.1': (0, C, 'La evaluación 2024-2028 dice que Surabaya no tiene plan de rehabilitación ni de recuperación de medios de vida, ni plan para restablecer los servicios básicos del gobierno tras un desastre.',
+               'krb24', 'Plan de recuperación posdesastre.', 'BPBD Surabaya', MED),
+})

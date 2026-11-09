@@ -39,6 +39,7 @@ bombay,c1_25,https://www.freepressjournal.in/mumbai/mumbai-news-bmc-identifies-1
 bombay,presup25,https://data.opencity.in/dataset/bmc-budget-2025-26,OpenCity: presupuesto de la BMC 2025-26 (documentos oficiales),2025
 bombay,clima25,https://www.freepressjournal.in/mumbai/mumbai-news-bmc-unveils-17066-crore-climate-action-plan-amid-staffing-challenges-in-environment-department,Free Press Journal: la BMC presenta un presupuesto climático de 17.066 crore de rupias para 2025-26,2025
 bombay,calor_rfp,https://www.c40.org/wp-content/uploads/2026/07/RfP-Heat-Health-protocols-for-Mumbai.pdf,C40: licitación para protocolos de calor y salud de Bombay,2026
+bombay,mcap22,https://portal.mcgm.gov.in/irj/go/km/docs/documents/Environment/Climate/Mumbai%20Climate%20Action%20Plan.pdf,BMC: Mumbai Climate Action Plan 2022,2022
 brazzaville,ifrc25,https://go-api.ifrc.org/api/DownloadFile/93845/MDRCG026do,"IFRC: DREF Congo, inundaciones del 18-19 de noviembre de 2025 en Brazzaville y Pointe-Noire (más de 61.500 personas afectadas)",2025
 brazzaville,afd_drenaje,https://www.afd.fr/fr/projets/ameliorer-le-drainage-des-eaux-de-pluie-pour-limiter-les-risques-lies-aux-inondations,AFD: mejorar el drenaje pluvial para limitar el riesgo de inundación en Brazzaville (62 millones de euros),s/f
 brazzaville,afd_desechos,https://www.afd.fr/fr/projets/limiter-les-inondations-et-ameliorer-la-gestion-des-dechets-brazzaville,"AFD: limitar las inundaciones y mejorar la gestión de residuos en Brazzaville (24 millones de euros, en curso)",s/f
@@ -158,6 +159,7 @@ hai_phong,vnn_yagi,https://vietnamnet.vn/en/power-outages-and-disruptions-as-typ
 hai_phong,dique_ndv,https://en.haiphong.gov.vn/news/progress-of-nam-dinh-vu-sea-dike-project-668862,"Portal de Hai Phong: avance del dique marítimo de Nam Dinh Vu (12,8 km, 2.284.000 millones de VND)",s/f
 hai_phong,resol24,https://haiphongnews.gov.vn/news/hai-phong-evaluating-and-summarizing-over-13-years-of-implementing-resolution-no-24-nqtw-on-climate-change-response-and-environmental-protection-ct12971.html,Hai Phong News: balance de 13 años de aplicación de la Resolución 24 sobre cambio climático (incluye refuerzo del dique de Cat Hai),2025
 hai_phong,wv_diques,https://www.wvi.org/vietnam/article/preparing-natural-disasters,World Vision: proyecto Hai Phong resiliente al cambio climático; capacitación en mantenimiento de diques con la autoridad de diques,s/f
+hai_phong,cathai25,https://cdn.haiphong.gov.vn/gov-hpg/5889/tintuc/2025/7/kh-pctt-tkcnptds-2025.signed638883603045827967.pdf,"Comité Popular de Cát Hải (Hai Phong): Plan 2025 de prevención de desastres, búsqueda y rescate y defensa civil",2025
 islamabad,undp_seguro24,https://www.undp.org/node/481706,"PNUD: Inclusive Insurance and Risk Financing in Pakistan, Snapshot 2024",2024
 islamabad,bm_drf,https://www.financialprotectionforum.org/sites/default/files/PakistanWorkshop.pdf,Banco Mundial / Ministerio de Finanzas: taller de financiamiento del riesgo de desastres en Pakistán,s/f
 islamabad,adb_fondos,https://tribune.com.pk/story/2375328/adb-points-to-insufficient-funds,Express Tribune: el BAsD señala fondos de contingencia insuficientes,2022
@@ -305,6 +307,7 @@ quezon,mt_eoc,https://www.pressreader.com/philippines/manila-times/20170323/2818
 quezon,ord_sismo,https://www.gmanetwork.com/news/news/metro/654894/qc-imposes-quake-drills-in-all-buildings/story/,"GMA News: Quezon City impone simulacros de sismo en todos los edificios (Ordenanza 2674-2018, dos veces al año)",2018
 quezon,nsed25,https://quezoncity.gov.ph/2nd-quarter-nationwide-simultaneous-earthquake-drill-nsed-2,"Quezon City: segundo simulacro nacional simultáneo de sismo en la municipalidad (escenario de magnitud 7,2)",2025
 quezon,falla,https://quezoncity.gov.ph/walk-the-fault-activity/,Quezon City: recorrido y marcado de la Falla del Valle Oeste (QC DRRMO),s/f
+quezon,drrmp,https://quezoncity.gov.ph/wp-content/uploads/2021/10/QCDRRMP-2021-2027_Volume-1-8Sept2021.pdf,"Quezon City DRRM Council: Plan de Reducción y Gestión del Riesgo de Desastres 2021-2027, Volumen 1",2021
 rangun,dvb_ff,https://english.dvb.no/overflowing-dams-and-rising-creeks-trigger-flash-flood-warnings-across-yangon/,DVB: represas desbordadas y arroyos crecidos activan alertas de crecida repentina en nueve municipios de Rangún,2026
 rangun,dmh,https://www.moezala.gov.mm/en?page=7,"Departamento de Meteorología e Hidrología de Myanmar: avisos de inundación, boletines y guía de crecidas repentinas",2026
 rangun,tohoku,https://irides.tohoku.ac.jp/media/files/myanmar-session_20250425_KyawSwarMyintThein_rev.pdf,"IRIDeS, Universidad de Tohoku: sesión sobre el sismo de Myanmar 2025 (Rangún a unos 35 km de la falla activa de Sagaing)",2025
@@ -344,6 +347,7 @@ surabaya,jp_bombas,https://www.thejakartapost.com/news/2020/01/24/from-culverts-
 surabaya,voi_75,https://voi.id/en/amp/336306,VOI: el gobierno de la ciudad optimiza 75 casas de bombas ante inundaciones,2023
 surabaya,ant_bozem,https://jatim.antaranews.com/berita/980809/pemkot-surabaya-percepat-pembangunan-bozem-guna-antisipasi-banjir,Antara: Surabaya acelera la construcción de lagunas de retención (bozem),2024
 surabaya,r112_cyber,https://news.republika.co.id/berita/r3hleq485/pusat-data-cyber-terbakar-surabaya-alihkan-layanan-112,Republika: se incendia el centro de datos; Surabaya desvía el servicio 112,2021
+surabaya,krb24,https://jdih.surabaya.go.id/peraturan/download/4591,Perwali Surabaya 119/2024: Evaluación de Riesgo de Desastres de Surabaya 2024-2028 (Kajian Risiko Bencana),2024
 zhangzhou,gb18306,https://www.codeofchina.com/standard/GB18306-2015.html,"GB 18306-2015: mapa de zonificación de parámetros de movimiento sísmico de China (norma nacional obligatoria, vigente desde 2016)",2015
 zhangzhou,saudel_gt,https://globaltimes.cn/page/202609/1369862.shtml,Global Times: el tifón Saudel toca tierra en Zhangpu (Zhangzhou); el cuartel provincial activa respuesta de nivel III,2026
 zhangzhou,saudel_cgtn,https://news.cgtn.com/news/2026-09-05/599-300-evacuated-over-rainstorms-in-southeast-China-province-1QbKjhI466Q/p.html,CGTN: 599.300 evacuados por las lluvias en Fujian,2026
