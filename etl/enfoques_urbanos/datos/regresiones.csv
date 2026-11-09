@@ -1,11 +1,11 @@
 dependiente,variable,beta_estandarizado,error_estandar,t,r2,n,muestra
-puntaje_pct,z_epu,-0.001,0.028,-0.03,0.766,369,todas
-puntaje_pct,z_vse,-0.501,0.03,-16.92,0.766,369,todas
-puntaje_pct,z_mu,-0.004,0.026,-0.14,0.766,369,todas
-puntaje_pct,z_pg,-0.509,0.03,-16.85,0.766,369,todas
-puntaje_pct,indice_amenaza,0.004,0.027,0.14,0.766,369,todas
+puntaje_pct,z_epu,0.001,0.028,0.03,0.768,369,todas
+puntaje_pct,z_vse,-0.502,0.029,-17.08,0.768,369,todas
+puntaje_pct,z_mu,-0.006,0.026,-0.22,0.768,369,todas
+puntaje_pct,z_pg,-0.51,0.03,-16.97,0.768,369,todas
+puntaje_pct,indice_amenaza,0.003,0.027,0.11,0.768,369,todas
 con_evidencia_log,z_epu,-0.056,0.088,-0.63,0.488,86,base con evidencia (90)
-con_evidencia_log,z_vse,0.646,0.101,6.41,0.488,86,base con evidencia (90)
+con_evidencia_log,z_vse,0.646,0.101,6.4,0.488,86,base con evidencia (90)
 con_evidencia_log,z_mu,0.011,0.084,0.14,0.488,86,base con evidencia (90)
-con_evidencia_log,z_pg,-0.507,0.11,-4.59,0.488,86,base con evidencia (90)
+con_evidencia_log,z_pg,-0.506,0.11,-4.59,0.488,86,base con evidencia (90)
 con_evidencia_log,indice_amenaza,0.332,0.103,3.23,0.488,86,base con evidencia (90)

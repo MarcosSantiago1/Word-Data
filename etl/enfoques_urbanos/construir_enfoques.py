@@ -28,10 +28,13 @@ uso (desde etl/): python enfoques_urbanos/construir_enfoques.py
 """
 import os
 import shutil
+import sys
 import numpy as np
 import pandas as pd
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, AQUI)
+import vivienda_municipal   # noqa: E402  vivienda informal por municipio (Brasil, Colombia, CABA)
 ETL = os.path.dirname(AQUI)
 MUNDO = os.path.join(ETL, 'riesgo_ciudades_mundo')
 GHSL = os.path.join(MUNDO, 'crudos', 'ghsl', 'csv')
@@ -99,8 +102,8 @@ DICC = [
      G + 'SOCIOECONOMIC', 'Distancia del índice de desarrollo de género a la paridad (2020). Las desigualdades de género agravan la vulnerabilidad.', 'par'),
     ('sin_hospital', 'vse', 'Población sin acceso a hospital', +1, '%',
      G + 'HEALTH', 'Parte de la población sin acceso a un hospital (2025): capacidad de respuesta sanitaria en el territorio.', 'par'),
-    ('tugurios', 'vse', 'Población urbana en tugurios o asentamientos informales (país)', +1, '% de la población urbana',
-     'ONU-Hábitat vía Banco Mundial (EN.POP.SLUM.UR.ZS), dato más reciente', 'Hogares urbanos sin al menos una de estas condiciones: agua mejorada, saneamiento mejorado, espacio suficiente, vivienda durable o tenencia segura (ODS 11.1.1). La vivienda informal concentra exposición y dificulta la recuperación.', 'hab'),
+    ('tugurios', 'vse', 'Población en tugurios o asentamientos informales (municipio donde hay censo; si no, país)', +1, '%',
+     'Censos municipales (IBGE 2022, DANE 2018, RENABAP 2023 + INDEC 2022) o, si no hay, ONU-Hábitat vía Banco Mundial (EN.POP.SLUM.UR.ZS)', 'Hogares sin al menos una de estas condiciones: agua mejorada, saneamiento mejorado, espacio suficiente, vivienda durable o tenencia segura (ODS 11.1.1). En 11 ciudades latinoamericanas se usa el dato oficial del municipio (favelas, déficit habitacional o barrios populares; ver vivienda_municipal.csv), que no es comparable entre países. La vivienda informal concentra exposición y dificulta la recuperación.', 'hab'),
     ('sin_saneamiento', 'vse', 'Población urbana sin saneamiento básico (país)', +1, '% de la población urbana',
      'OMS/UNICEF JMP vía Banco Mundial (SH.STA.BASS.UR.ZS), dato más reciente', 'Parte de la población urbana sin un baño mejorado propio: uno de los criterios de tugurio y un factor de riesgo sanitario tras inundaciones.', 'hab'),
     ('hacinamiento', 'vse', 'Volumen residencial construido por habitante', -1, 'm3 por habitante',
@@ -255,7 +258,12 @@ def indicadores():
     o['pib_pc_log'] = np.log10(x.SC_GDP_AVG_2020.where(x.SC_GDP_AVG_2020 > 0))
     o['brecha_genero'] = (1 - x.SC_SEC_GDI_2020).abs()
     o['sin_hospital'] = 100 - x.HL_SHP_HOS_2025
-    o['tugurios'] = x.tugurios_pct_urbana
+    # tugurios: dato del municipio (censo oficial del país) donde existe; si no, el de ONU-Hábitat para el país
+    mun = vivienda_municipal.por_ciudad()
+    o = o.merge(mun[['id', 'tugurios_municipal']], on='id', how='left')
+    o['tugurios'] = o.tugurios_municipal.fillna(pd.Series(x.tugurios_pct_urbana.values, index=o.index))
+    o['tugurios_origen'] = np.where(o.tugurios_municipal.notna(), 'municipio', np.where(o.tugurios.notna(), 'país', ''))
+    o = o.drop(columns='tugurios_municipal')
     o['sin_saneamiento'] = 100 - x.saneamiento_basico_urbano_pct
     o['hacinamiento'] = x.GH_BUV_RES_2020 / x.GH_POP_TOT_2020
     o['vivienda_baja'] = 100 * x.GH_BUT_P11_2020 / x.GH_POP_TOT_2020
