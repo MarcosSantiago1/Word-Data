@@ -1,0 +1,304 @@
+# CDP Cities 2023 - City of Mumbai (org 31178) https://www.cdp.net/en/responses/31178
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: City/Municipality
+  - Next highest level of government: State/regional
+  - Next lowest level of government: No lower level of government
+  - Land area of the jurisdiction boundary (in square km)^: 603
+  - Percentage range of land area that is green space: 11-20%
+  - Current (or most recent) population size^: 12875213
+  - Population year^: 2020
+  - Projected population size: 13346302
+  - Projected population year: 2030
+  - Select the currency used for all financial information reported throug: INR Indian Rupee
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking plans and/or strategies
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking budgeting and/or major capital expenditures
+  - Select the processes that reflect your jurisdiction's oversight of cli: Relevant departments, committees and/or subcommittees are informed by management about climate-related issues
+  - Select the processes that reflect your jurisdiction's oversight of cli: Council (or equivalent) is informed by relevant departments, committees and/or subcommittees about climate-related issues
+  - Provide further details on your jurisdiction's oversight of climate-re: Mumbai is the most populous city in India and, globally, the 7th largest in terms of population. Projected to be the 6th largest by 2030 (UNDESA, 2018), it comprises of two districts — Mumbai City and Mumbai Suburban. Surrounded by the sea on three sides, Mumbai is separated from the mainland by the Thane Creek and Harbour Bay and divided for administrative purposes into six zones comprising 24 wards. According to the 2011 Census, population density in these two districts exceeds 20,000 persons/km2, whereas the national average is 382 persons/km2 and the state average is 365 persons/km2 (TERI, 2014, p. 40). According to the Slum Rehabilitation Authority (SRA), around 55% of Mumbai’s population lives in slums and about 65% are employed in the informal sector (Bhowmik, 2010). This makes the impact and experience of climate risks highly varied across the city and across different socio-econ
+  - Describe how climate-related issues have impacted your jurisdiction's : Mumbai city faces two major climate challenges – rising temperatures and increasing number of extreme rainfall events. The city has been routinely experiencing higher temperatures and variable heat stress in areas with higher urban heat island  effects. The total rainfall per season has also increased, with a fewer number of rain days.  Climate-related issues like extreme floods have pushed the city's development trajectory a few years back. Since Mumbai receives heavy torrential rainfall during the four months of monsoon, the pace of all development activities is greatly reduced during these months. Moreover, every development project has to take into account the increasing impact of climate hazards in the planning phase itself. In recent years, there has been an upward trend of cyclonic events in the Arabian Sea due to warming seas, thereby increasing coastal risks for the city. Coasta
+  - Describe how climate-related issues have impacted your jurisdiction's : Recurrent flooding due to localised extreme rainfall has been a major climate hazard in Mumbai for many years. A provision of ₹2570.65 crore (Rs. 25.7 billion) is proposed in budget estimate 2023-24 for various stormwater drainage capital works.In its 2022-23 Budget, the BMC has provided a total outlay of Rs 1.5 billion specifically to reduce flooding in the city. In the recent past, BMC has spent a total of Rs.13.91 billion to tackle flooding in the city. A study conducted by the United States Trade and Development Agency (USTDA) and KPMG has revealed that Mumbai incurred a loss of Rs 140 billion due to floods between 2005 and 2015. Thus, it is evident that climate-related issues, specifically flooding, adversely impact financial planning in the city by diverting funds away from other developmental activities.
+  - Describe the risks to your jurisdiction related to the transition to a: A low-carbon economy essentially requires lowering of consumption at many levels. Reducing consumption may lead to the loss of jobs in the informal sector in the city.
+
+[0.4 fila 1] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate action plan
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Outline the purpose of this engagement: To collect data and/or feedback from other levels of government to inform its development
+  - Outline the purpose of this engagement: To facilitate information sharing across different levels of government
+  - Comment: The Department of Environment is the nodal coordinating agency for the MCAP, alongside other related projects and initiatives such as MVA, Women for Climate, Cities4Forests, NCAP and sustainable development projects under the 15th Finance Commission fund. It is, therefore, important to create a climate action cell within the Environment Department. However, the Environment Department is currently not empowered to mediate/ coordinate across other departments, advise on key amendments to statutory regulations and liaise with parastatal agencies as per the city’s needs. The existing department is an environment protection and enforcement body to control pollution, rather than a planning department to implement the MCAP. The Department of Environment will be expanded and strengthened and renamed as the Department of Environment and Climate Change following official protocol. It will continue
+
+[0.5 fila 1] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Government/Public body
+  - Primary entity collaborated with (selection mandatory): Neighboring local government
+  - Mechanisms used to collaborate: Climate action plan implementation
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Areas collaboration focused on: Transport (Mobility)
+  - Areas collaboration focused on: Resilience
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Waste
+  - Description of collaboration: When Mumbai secured C40 membership in December 2020, the Minister for Environment & Climate Change, Tourism and Protocol in the Government of Maharashtra, Aaditya Thackeray, announced the government’s commitment to draft a CAP for the city. The MCAP process has received support from the State government. In the project inception stage, a core team of officers within BMC was created to lead the planning process in collaboration with partners and other consultants. The Additional Municipal Commissioner - City, Dr. Sanjeev Kumar, IAS was designated the leading Nodal Officer, in the project, and Deputy Municipal Commissioner Sunil Godse and his team were assigned the Environment Department. The core team was supported by the Department of Environment & Climate Change, Government of Maharashtra, which assigned Fellows from the Climate Fellows program to coordinate data needs and support inter
+  - Other entities collaborated with: NGO and associations
+  - Other entities collaborated with: Neighboring local government
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: Yes, a climate risk and vulnerability assessment has been undertaken
+
+[1.1a fila 1] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: https://drive.google.com/file/d/1fItAQZ3qPsNEFe4bsq24orbWqRHPp6d3/view
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2022
+  - Factors considered in assessment: Assessment considers transition risks
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: Assessment includes a high-emissions scenario (i.e., RCP 8.5)
+  - Factors considered in assessment: A process has been established to update the assessment at least every five years
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Primary author(s) of assessment^: Dedicated team within jurisdiction
+  - Primary author(s) of assessment^: Regional/ state/ provincial government
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Primary author(s) of assessment^: Consultant
+  - Primary author(s) of assessment^: Community group
+  - Please explain: Climate change risk assessment is integral part of Mumbai's climate action plan. Based on the analysis city has formulated resilience strategies and action.
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Urban flooding
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Frontline workers
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Vulnerable population groups most exposed: Other, please specify: Coastal communities
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Manufacturing
+  - Sectors most exposed^: Fishing
+  - Describe the impacts on vulnerable populations and sectors^: Around 35% of Mumbai’s population lives within 250 m of flood hotspots exposing them to the high flood risk.  Most of the informal settlements are located along the low-lying areas. Therefore, communities living in these settlements are more exposed to the risks associated with flood hazards. With frequent spells of heavy rainfall, the city has been witnessing extensive waterlogging. These recurrent waterlogging events also limit the means to access business centers impacting the daily wage/ industrial jobs the most. Based on Directory of Establishments’ 2015 data, 73% of Mumbai’s small & large industrial and commercial establishments are located within 500m of flood hotspots, exasperating their risk level. And 69% of the employees who work at these establishments have experienced hindered access due to physical disconnect caused by waterlogging in the area.Based on a 2013 study that ran
+  - Proportion of the population exposed to the hazard: 30-40%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium High
+  - Current magnitude of impact of hazard^: Medium High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 2] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Extreme heat
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Frontline workers
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Vulnerable population groups most exposed: Low-income households
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Fishing
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Manufacturing
+  - Describe the impacts on vulnerable populations and sectors^: Increase in frequency of warmer years observed, with three out of the last five years showing a departure of more than 1°C from the baseline average air temperature (1973-2020). Between 1973 and 2020, 24 years were warmer than the baseline average air temperature (27.3°C). Except for 1999, 2001 and 2005, every year post-1998 has been a warm year with 2015, 2018, and 2020 being the warmest (departure of above 1°C) Urban heat not only in summer but also post monsoon is another big challenge for Mumbai owing to the rise in relative humidity post monsoon, increasing built density, choice of building materials, reducing green cover in the city. Ward M/E is the most vulnerable to heat stress with over 38% of its population exposed to a surface temperature greater than 35°C. This ward is also one of the three in the city with the highest number of houses with temporary roofing such as polythene
+  - Proportion of the population exposed to the hazard: 20-30%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium High
+  - Current magnitude of impact of hazard^: Medium High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Community engagement
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Waste recovery in the city is low despite the presence of Advanced Local Management Committees, guidelines for bulk generators and the Swach Mumbai Prabodhan Abhiyan (SMPA) scheme. According to SWM rules 2016, at least 80% of the waste generated by local bodies needs to be recovered. However, Mumbai has only been able to recover 35%, over the last five years (Praja, 2021). There is a need for community engagement to promote  recycling and waste recovery and integrate informal waste pickers with the system.
+
+[3.8 fila 1] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: Health outcomes
+  - Identify the climate hazard(s) that most significantly impact the sele: Soil degradation/erosion
+  - Identify the climate hazard(s) that most significantly impact the sele: Coastal flooding (incl. sea level rise)
+  - Identify the climate hazard(s) that most significantly impact the sele: Hurricanes, cyclones, and/or typhoons
+  - Identify the climate hazard(s) that most significantly impact the sele: Heavy precipitation
+  - Identify the climate hazard(s) that most significantly impact the sele: Urban flooding
+  - Identify the climate hazard(s) that most significantly impact the sele: Heat stress
+  - Identify the health issues driven by the selected climate hazard(s): Direct physical injuries and deaths due to extreme weather events
+  - Identify the health issues driven by the selected climate hazard(s): Vector-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Heat-related illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Disruption to health service provision
+  - Identify the health issues driven by the selected climate hazard(s): Exacerbation of non-communicable disease symptoms - respiratory disease
+  - Identify the health issues driven by the selected climate hazard(s): Mental health impacts
+  - Identify the health issues driven by the selected climate hazard(s): Water-borne infections and illnesses
+  - Timeframe of impact: Medium-term (2026-2050)
+  - Identify which vulnerable populations are affected by the selected hea: Children and youth
+  - Identify which vulnerable populations are affected by the selected hea: Outdoor workers
+  - Identify which vulnerable populations are affected by the selected hea: Women and girls
+  - Identify which vulnerable populations are affected by the selected hea: Elderly
+  - Identify which vulnerable populations are affected by the selected hea: Marginalized / minority communities
+  - Identify which vulnerable populations are affected by the selected hea: Low-income households
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of expertise/technical capacity
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Data availability: Data is available for the average household water consumption in litres per capita per day
+  - Data availability: Data is available for the percentage of households with access to safely managed drinking water services
+  - Data availability: Data is available for the percentage of households with access to safely managed sanitation services
+  - Percentage of households with access to safely managed drinking water : 90
+  - Percentage of households with access to safely managed sanitation serv: 56
+  - Household water consumption (litres/capita/day): 150
+
+[3.13 fila 1] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Fresh surface water, including rainwater, water from wetlands, rivers and lakes
+  - Are you able to report volumetric data for this source?: Yes
+  - Annual volume of water withdrawn per source (in megalitres) : 195.5
+  - Projected level of change over next 5-10 years: Much less volume projected to be withdrawn
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: Yes, our jurisdiction has an adaptation goal(s)
+
+[4.1a fila 1] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 1
+  - Adaptation goal^: Passive design guidelines for buildings
+  - Climate hazards that goal addresses^: Heat stress
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2030
+
+[4.1a fila 2] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 2
+  - Adaptation goal^: Increasing Green cover
+  - Climate hazards that goal addresses^: Soil degradation/erosion
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Climate hazards that goal addresses^: Loss of green space/green cover
+  - Base year of goal (or year goal was established if no base year)^: 2020
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Increase vegetation cover and permeable surface to 30-40% of the city surface area by 2030 to tackle flood- and heat-related disaster risk
+
+[4.1a fila 3] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 3
+  - Adaptation goal^: Reduce heating effect and increase permeable surface
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: Other forms of climate-induced landscape shift/degradation
+  - Climate hazards that goal addresses^: Heat stress
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2050
+  - Description of metric / indicator used to track goal^: Reduce heating effect and increase permeable surface to 100% by 2050 along the city streetscape
+
+[4.1a fila 4] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 4
+  - Adaptation goal^: Equitable distribution of open spaces
+  - Climate hazards that goal addresses^: Heat stress
+  - Climate hazards that goal addresses^: Other forms of climate-induced landscape shift/degradation
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2040
+  - Description of metric / indicator used to track goal^: Equitable distribution of open spaces and increase per capita open space to 6 square meters by 2040
+
+[4.1a fila 5] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 5
+  - Adaptation goal^: Ensure that up to 50% of the city’s water demand is met through localized water conservation and efficient use initiatives
+  - Climate hazards that goal addresses^: Increased water demand
+  - Climate hazards that goal addresses^: Heat stress
+  - Climate hazards that goal addresses^: Water stress
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Ensure that up to 50% of the city’s water demand is met through localized water conservation and efficient use initiatives by 2030
+
+[4.1a fila 6] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 6
+  - Adaptation goal^: Access to safe and affordable drinking water for all
+  - Climate hazards that goal addresses^: Increased water demand
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: Heat stress
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Access to safe and affordable drinking water for all by 2030
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: Yes, our jurisdiction has a climate action plan or strategy
+
+[7.1a fila 1] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Integrated climate plan (addressing mitigation, adaptation and energy-related issues)
+  - Attachment/link and name of plan^: Mumbai climate action plan- https://drive.google.com/file/d/1gU3Bnhk3UJ_wCFaMC1ognZBdsdDkQBY1/view
+  - Confirm attachment/link provided to plan (selection mandatory): The plan can be accessed (unrestricted) on the link provided
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Update: Updates to the plan are published annually
+  - Processes for monitoring evaluation and updates of plan^: Evaluation: Evaluation of plan takes place annually
+  - Processes for monitoring evaluation and updates of plan^: Monitoring:  Information on progress of plan is monitored and publicly reported annually
+  - Funding sources and financial instruments to finance plan: Jurisdiction's own resources
+  - Funding sources and financial instruments to finance plan: Public-private partnerships
+  - Communities and organizations engaged^: Local government (s) and/or agencies
+  - Communities and organizations engaged^: Business and private sector
+  - Communities and organizations engaged^: Citizens
+  - Communities and organizations engaged^: State/regional government(s) and/or agencies
+  - Communities and organizations engaged^: Non-governmental organisations
+  - Primary author(s) of plan^: Consultant
+  - Primary author(s) of plan^: Relevant department within jurisdiction
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses co-benefits of actions
+  - Year of formal approval of plan^: 2022
+  - End year of plan: 2050
+  - Sectors covered by action plan: Administrative and support service activities
+  - Sectors covered by action plan: Transportation and storage
+  - Sectors covered by action plan: Waste management
+  - Sectors covered by action plan: Forestry
+  - Sectors covered by action plan: Construction
+  - Sectors covered by action plan: Water supply
+  - Sectors covered by action plan: Manufacturing
+  - Sectors covered by action plan: Sewerage, wastewater management and remediation activities
+  - Sectors covered by action plan: Fishing
+  - Sectors covered by action plan: Conservation
+  - Sectors covered by action plan: Electricity, gas, steam and air conditioning supply
+
+[7.2 fila 1] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Air quality
+  - Current status of plan: In implementation
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2021
+  - End of year plan: 2050
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Renewable energy
+  - Project title: Decarbonizing energy grid
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Grants
+  - Project description and attach project proposal: Decarbonizing Mumbai’s energy grid and building energy-efficient and climate resilient infrastructure. The city will work to decarbonize the energy grid, increase proportion of renewable  energy and improve climate-resilient buildings in Mumbai. This priority directly aligns with the Paris Agreement. To tackle Mumbai’s energy sector emissions, the approach  addresses both the supply side – increasing RE– and the demand side – improving  energy efficiency (EE). The impact of this action will reduce the overall carbon  emissions and heat effects, enabling good health for all residents of the city. Achieving  this priority implies increasing the availability of RE mix-energy generation, improving  energy efficiency in new and existing infrastructure, promoting green buildings,  integrating passive design strategies for thermal comfort in all affordable housing  projects and ensuring equity 
+
+[7.6 fila 1] Report the factors that support climate-related investment and financial planning in your jurisdiction.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction accesses finance from public-private partnerships
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction accesses finance from national government funds, grants etc.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction’s own funds and budgetary means
+  - Credit rating of jurisdiction: Jurisdiction is taking steps to attain an international or domestic credit rating
+  - Decarbonising jurisdiction's investments: Jurisdiction has taken steps to decarbonise the investments held by the jurisdiction retirement funds by divesting from fossil fuels
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Flood defence, such as flood levees and culverts
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Action description and web link to further information^: Increasing resilience by reducing water-sanitation inequity and adopting nature solutions for water conservation and flood risk managementThe city will work to reduce flood risk and losses to its economy, infrastructure and ecosystem and increase water security for all citizens. Mumbai faces extreme precipitation, resulting in water logging at various low-lying areas. In addition, increasing coastal risks due to storm surge, sea level rise and an increasing trend of tropical cyclones in the Arabian Sea are increasing incidents of coastal inundations in the city.The city will work to build flood-resilient infrastructure to protect physical and economic assets by introducing nature-based solutions to strengthen the drainage network and increase the percolation and holding capacity of the existing flood management infrastructure. Efforts will be made towards disaster risk reduction through 
+  - Sectors adaptation action applies to^: Sewerage, wastewater management and remediation activities
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Co-benefits realized^: Improved mobility and access
+  - Co-benefits realized^: Improved road safety
+  - Co-benefits realized^: Reduced congestion
+  - Co-benefits realized^: Reduced disruption of energy, transport, water or communications networks
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 20-30%
+  - Funding source(s): Public-private partnerships
+  - Funding source(s): Jurisdiction's own resources
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+
+[8.1 fila 2] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Action (selections mandatory)^: Conservation and replanting mangrove forest
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Action description and web link to further information^: Owing to the low per capita green cover of 1.8sq.m vs URDPFI prescribed 10-12 sq.m, and the reduction in the vegetation cover from 46.42% in 1988 to 26.67% in 2018, only 3.7% open space is accessible for the citizens. The MCAP, with WRI as a knowledge partner, has initiated the planting of 3,77,416 trees across 100 locations along with Mithi river restoration under the Cities4forest and C40 Urban Nature’s Declaration commitment for its restoration. Mumbai has ensured the construction of 10 feet walls for mangrove protection across 6 locations — Charkop; Malad; along the Eastern Express Highway, Vikhroli; Colaba; Wadala, Mankhurd.The ‘Mangrove Conservation and Livelihood Generation’ scheme (2017) has supported indigenous communities through sustainable livelihood activities such as mud crab and oyster farming, fish cage culture, ornamental fish culture and ecotourism initiatives.The city 
+  - Sectors adaptation action applies to^: Conservation
+  - Sectors adaptation action applies to^: Forestry
+  - Co-benefits realized^: Protected/improved biodiversity and ecosystem services
+  - Co-benefits realized^: Reduced natural resource depletion
+  - Co-benefits realized^: Increased/improved green space
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 20-30%
+  - Funding source(s): Public-private partnerships
+  - Funding source(s): Jurisdiction's own resources
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+
+[10.1 fila 0] Use this field to provide any additional information or context that you feel is relevant to your jurisdiction's respons
+  - nan: Work is going on for the transition of Mumbai towards low carbon economy.

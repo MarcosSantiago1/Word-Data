@@ -1,0 +1,438 @@
+# CDP Cities 2023 - City of Dar es Salaam (org 35893) https://www.cdp.net/en/responses/35893
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: City/Municipality
+  - Next highest level of government: State/regional
+  - Next lowest level of government: Town
+  - Land area of the jurisdiction boundary (in square km)^: 1493
+  - Percentage range of land area that is green space: 5-10%
+  - Current (or most recent) population size^: 5383728
+  - Population year^: 2022
+  - Projected population size: 13383000
+  - Projected population year: 2050
+  - Select the currency used for all financial information reported throug: TZS Tanzanian Shilling
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking plans and/or strategies
+  - Select the processes that reflect your jurisdiction's oversight of cli: Relevant departments, committees and/or subcommittees are informed by management about climate-related issues
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking budgeting and/or major capital expenditures
+  - Provide further details on your jurisdiction's oversight of climate-re: During budget allocation of the City activities, issue of Climate issues takes into consideration in some of the activities like trees planting, roads and bridges construction (E.g Bus Rapid Transit Phase 2 and 3), restriction of the vehicles to enter into the City Centre.  The city plan and implement to address various sectors related challenges that have a direct link to climate risks, hazards and impacts.  This is highly implemented considering to improve peoples affairs and well being while unknowingly addressing climate related issues. In a year 2021, Dar es salaam city launched its first climate action plan which aimed at prioritizing some climate mitigation and adaptation action in the city context. The city is currently striving at putting actions into implementations however facing with  limited financial resources to implement them.
+  - Describe how climate-related issues have impacted your jurisdiction's : Dar es saalam city faces frequent flooding and with elevating high temperatures above obvious. Splash flooding become more tense even under normal rainfall seasons due to blockage of drainages from randomly dumped waste in the streets. Increasing temperatures are resulting into heat stress related side effects and illness. To ensure limited blockage of drainage systems much of the budget is directed into solid and liquid waste management especially on waste collection from residential areas. To overcome increased temperature exposure, the city allocate some funds to improve green open spaces however investment demand trends keep outcompeting open space improvements over open spaces.  Furthermore, Climate issues restructure the plan of the in such a way that people get to be relocated to  the peripheral areas instead of concentrating at the City Centre to reduce pollution level resulted f
+  - Describe how climate-related issues have impacted your jurisdiction's : The costs incurred to resolve impacts emanating from climate change keep dragging behind city strides to socioeconomic development. Taking an example of the Msimbazi river basin and the Bus Rapid Transport (BRT) infrastructures; The buses were highly destructed by floods and roads being highly silted with floods occurring frequently. The city government keep allocating funds for desilting purposes of the BRT roads and drainages. The government is pushed to purchase more buses in demand to replace the ones destructed by flooding. The government is currently looking into options of reconstructing better BRT infrastructures in response to the experienced flooding and blockage of drainages in place. all these significantly costs a huge percent of city planning.
+  - Describe the risks to your jurisdiction related to the transition to a: Dar es salaam city has identified a lot of opportunities and areas of potential actions towards adapting and mitigating to climate change. However the extraordinary challenge to implementing them lies on:(i) The limited financial resources to invest and amplify the use of low carbon technologies. Most of the population suffice their living on a base to mouth in a day. That way, much of the acquired money is spent for living and leaves no room to (ii) Limited knowledge and awareness on the necessity to transitioning to low carbon technologies. The large population including the public leading group remain unaware on the linkages between poverty and climate change. The big push remain on addressing poverty without highly considering the synergy that exist between the two.(iii) Fear to venturing into the new economy.  Most of the technologies that accompany low carbon technologies are still
+
+[0.4 fila 1] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate action plan
+  - Level of governments engaged in the development, implementation and/or: Lower level of government
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into assessments and policy developed across different levels of government
+  - Outline the purpose of this engagement: To facilitate capacity building across different levels of government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the Nationally Determined Contribution (NDC)
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the National Adaptation Plan (NAP)
+  - Outline the purpose of this engagement: To facilitate information sharing across different levels of government
+  - Outline the purpose of this engagement: To collect data and/or feedback from other levels of government to inform its development
+  - Comment: Engaging the National and regional government was critical as it could provide the room to aligning national priorities and the ones targeted at the city area. The lower level government was highly involved to ensure inclusive and participatory planning of climate actions. this was intending to amplify action ownership and viability to implement targeted actions.
+
+[0.4 fila 2] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate risk and vulnerability assessment
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Level of governments engaged in the development, implementation and/or: Lower level of government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the Nationally Determined Contribution (NDC)
+  - Outline the purpose of this engagement: To collect data and/or feedback from other levels of government to inform its development
+  - Outline the purpose of this engagement: To facilitate capacity building across different levels of government
+  - Outline the purpose of this engagement: To facilitate information sharing across different levels of government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into assessments and policy developed across different levels of government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the National Adaptation Plan (NAP)
+  - Comment: Engaging the national and regional government was critical as it could aid aligning priorities at the central government level with the city priorities. Linked to that this aided a coordinated efforts in resource mobilization as well as implementing potential actions to address identified climate risks and vulnerabilities. Of more important lower level government were highly of use to ensure the key data and information are becoming available for identifying rio climate risks and vulnerabilities in the city.
+
+[0.4 fila 3] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Community-wide GHG emissions inventory
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Level of governments engaged in the development, implementation and/or: Lower level of government
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Outline the purpose of this engagement: To facilitate information sharing across different levels of government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the Nationally Determined Contribution (NDC)
+  - Outline the purpose of this engagement: To facilitate capacity building across different levels of government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the National Adaptation Plan (NAP)
+  - Outline the purpose of this engagement: To collect data and/or feedback from other levels of government to inform its development
+  - Outline the purpose of this engagement: To facilitate the integration of this component into assessments and policy developed across different levels of government
+  - Comment: Engaging the national and regional government was critical as it could aid aligning priorities at the central government level with the city priorities. Linked to that this aided a pathway to prioritizing highly emitting sectors in Tanzania and the associated cities including Dar es salaam.  Of more important lower level government were highly of use to ensure the key data and information are becoming available for identifying highly emitting sectors in the city.
+
+[0.5 fila 1] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): National government
+  - Primary entity collaborated with (selection mandatory)_G: Government/Public body
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Reporting of climate and/or environmental data
+  - Areas collaboration focused on: Emissions reduction
+  - Description of collaboration: The city collaborated with National Carbon Monitoring Centre (NCMC) on building the capacity of city staff on GHGs emission monitoring and reductions.
+  - Other entities collaborated with: Academia
+  - Other entities collaborated with: Regional government
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: Yes, a climate risk and vulnerability assessment has been undertaken
+
+[1.1a fila 1] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: http://www.cluva.eu/CLUVA_publications/CLUVA_Climate-change-and-vulnerability-of-African-cities-DarEsSalaam.pdf
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2010
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Primary author(s) of assessment^: Consultant
+  - Primary author(s) of assessment^: International organization
+  - Please explain: Reports covers climate resilience and reflection of adaptation initiatives in the water sector.
+
+[1.1a fila 2] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: http://reliefweb.int/sites/reliefweb.int/files/resources/MCR%20resilience%20assessment%20report%20Dar%20Es%20Salaam.pdf
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2012
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Assessment includes a high-emissions scenario (i.e., RCP 8.5)
+  - Factors considered in assessment: Assessment considers nature
+  - Primary author(s) of assessment^: Consultant
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Please explain: Reports covers climate resilience and reflection of adaptation initiatives in the water sector.
+
+[1.1a fila 3] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: https://www.preventionweb.net/files/20179_csdaressalaam1.pdf
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Larger - covers the whole jurisdiction and adjoining areas, please explain additions: The assessment cover the entire region
+  - Year of publication or approval^: 2007
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Assessment considers nature
+  - Primary author(s) of assessment^: International organization
+  - Primary author(s) of assessment^: Consultant
+  - Please explain: The assessment tried to explain about the livelihood of the people living in Dar es SalaamAlso Infrastructure pattern and how assist in combating the issues of climate change
+
+[1.1a fila 4] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: https://unfccc.int/sites/default/files/resource/tzanc2.pdf
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Larger - covers the whole jurisdiction and adjoining areas, please explain additions: Assessment cover the entire region
+  - Year of publication or approval^: 2014
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+
+[1.1a fila 5] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: https://www.climatelearningplatform.org/sites/default/files/resources/tanzania_country_climate_risk_assessment_report_-final_version.pdf
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Larger - covers the whole jurisdiction and adjoining areas, please explain additions: Assessment cover the entire region
+  - Year of publication or approval^: 2018
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: Assessment considers nature
+  - Primary author(s) of assessment^: Dedicated team within jurisdiction
+  - Please explain: Assessment report attached
+
+[1.1a fila 6] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: https://pubs.iied.org/sites/default/files/pdfs/migrate/G02388.pdf?
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2007
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Assessment considers nature
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Please explain: Presentation with important details attached
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Urban flooding
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Indigenous peoples
+  - Sectors most exposed^: Conservation
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Information and communication
+  - Sectors most exposed^: Forestry
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Fishing
+  - Sectors most exposed^: Wholesale and retail trade; repair of motor vehicles and motorcycles
+  - Sectors most exposed^: Real estate activities
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Waste management
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Accommodation and food service activities
+  - Sectors most exposed^: Human health and social work activities
+  - Describe the impacts on vulnerable populations and sectors^: Calamities to peoples live (fatal), Reduced hygiene and sanitation, water borne diseases,  housing destruction, bridge and roads damage and drainage blockage, traffic/congestion,
+  - Proportion of the population exposed to the hazard: 20-30%
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.2 fila 2] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Extreme heat
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Indigenous peoples
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Women and girls
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Fishing
+  - Describe the impacts on vulnerable populations and sectors^: Destruction of of community routine livelihood.
+  - Proportion of the population exposed to the hazard: 60-70%
+  - Current probability of hazard^: Medium High
+  - Current magnitude of impact of hazard^: Medium
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 3] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Drought
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Indigenous peoples
+  - Vulnerable population groups most exposed: Women and girls
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Conservation
+  - Sectors most exposed^: Fishing
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Forestry
+  - Describe the impacts on vulnerable populations and sectors^: The drought of 2006 damaged agricultural production, necessitated electricity cuts/breakouts (and thus drops in industrial production) and drop GDP growth by 1%.
+  - Proportion of the population exposed to the hazard: 40-50%
+  - Current probability of hazard^: Medium Low
+  - Current magnitude of impact of hazard^: Medium High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Public health
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: There have been some epidemics of diarrhea diseases like cholera, these diseases have been occurring especially during heavy rainfall that causes flooding resulting to damaged WASH infrastructures. The factor challenge with the 100% in the adaptive capacity of the City. In addition, the national health security system still remain to be expensive to all the citizen in the city and therefore a large population remains insecure to more increasing climate related diseases such as Malaria and dengue in Dar es saalam.
+
+[1.3 fila 2] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Access to quality / relevant data
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: It has been very difficult now that you want to set up a project aimed at adapting or mitigating the effects of climate change because there are limited data  to support various climate actions. Various development and livelihood sectors such as agriculture, fishing, livestock keeping, transport and manufacturing lacks insufficient aggregated data under one database. Our national Statistics beaureu still incapable of updating all relevant statics at the required pace. The factor challenge with the 100%in the adaptive capacity of the City.
+
+[1.3 fila 3] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Housing
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: At the moment the City Council is implementing a project aimed at improving the housing and road infrastructure by improving the sewerage systems and drainage system that lead to proper management of rain water and not causing flooding. Currently the project is in at the implementation phase implemented in all Municipalities in Dar es Salaam City with funding secured from the World Bank.
+
+[1.3 fila 4] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Political stability
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Dar es Salaam City Mayor has been in the forefront of ensuring that the people of Dar es Salaam are living in a  good conditions. He has been promoting the proper use of resources that do not generate GHGs in the environments such use of Natural Gas as energy consumption in cars (private and Public Buses), households and industries, as well as activities such as cycling. He has also been involved in various workshops aimed at improving and regulating climate change including signing of various agreements /declaration. Climate change has become  common an agenda for councillors from the wards level to City level to discuss the best way for people to get rid from  the problems that arise from climate change, as well as to mobilize citizens to clean and attend social activities aimed at eliminating the effects of climate change.
+
+[1.3 fila 5] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Budgetary capacity
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: The finance incapability somewhat limited the implementation of projects aimed at addressing climate change. At the same time the City is making an effort to find stakeholders who can finance some projects, there are projects that use own source but its implementation has been limited as it has been implemented in phases because it depends on own sources that lead to incomplete projects in time and result in not having positive results.
+
+[3.8 fila 1] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: Health systems
+  - Identify the climate hazard(s) that most significantly impact the sele: River flooding
+  - Identify the climate hazard(s) that most significantly impact the sele: Infectious disease
+  - Identify the health issues driven by the selected climate hazard(s): Exacerbation of non-communicable disease symptoms - respiratory disease
+  - Identify the health issues driven by the selected climate hazard(s): Water-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Lack of climate-informed surveillance, preparedness, early warning and response
+  - Identify the health issues driven by the selected climate hazard(s): Vector-borne infections and illnesses
+  - Timeframe of impact: Short-term (by 2025)
+  - Identify which vulnerable populations are affected by the selected hea: Women and girls
+  - Identify which vulnerable populations are affected by the selected hea: Elderly
+  - Identify which vulnerable populations are affected by the selected hea: Low-income households
+  - Identify which vulnerable populations are affected by the selected hea: Children and youth
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of financial capacity
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of expertise/technical capacity
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of financial capacity and expertise/technical capacity
+  - Comment: Effort has been made to ensure the service provided in the health facility not disturbed by the climate-related health effects that exist in Dar es Salaam. The effort are like increase awareness on health education, increase employment opportunities in the health sector and increase budget in the health sector.
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Data availability: Data is available for the percentage of households with access to safely managed drinking water services
+  - Percentage of households with access to safely managed drinking water : 75
+  - Percentage of households with access to safely managed sanitation serv: Question not applicable
+  - Household water consumption (litres/capita/day): Question not applicable
+  - Comment: Only 25% of the population in Dar es Salaam use well (Shallow and Deep) water for their daily useand 75% are connected to pipe water which managed by from DAWASA (Dar es Salaam Water and Sanitation Authority)  which pass into treatment procedures
+
+[3.13 fila 1] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Ground water (non-renewable)
+  - Are you able to report volumetric data for this source?: Yes
+  - Annual volume of water withdrawn per source (in megalitres) : 1130000
+  - Projected level of change over next 5-10 years: Higher volume projected to be withdrawn
+  - Comment: DAWASA plans to extend and increase the capacity of their domain, this is seen as the “standard”simulation of the supply for the years 2018-2030. The aim is to increase the water productionfrom 5.811 m3/s to 11.297 m3/s until 2032, this is done mainly from drilling new deep boreholes,contributing to a total of 4.757 m3/s, but also to extend the capacity of the Lower Ruvu treatment plant to 4.167 m3/s comparing with todays 3.125 m3/s. Also, the Kidunda Dam will be installed, upstream from Upper Ruvu intake and will have a storage capacity of 1 M m3
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: Yes, our jurisdiction has an adaptation goal(s)
+
+[4.1a fila 1] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 1
+  - Adaptation goal^: Establish and strengthen community awareness programmes to address major preventable health hazards
+  - Climate hazards that goal addresses^: Infectious disease
+  - Climate hazards that goal addresses^: River flooding
+  - Climate hazards that goal addresses^: Urban flooding
+  - Base year of goal (or year goal was established if no base year)^: 2019
+  - Target year of goal^: 2019
+  - Description of metric / indicator used to track goal^: Number of meeting and minutes conducted to the community.Number of residents shifted from hazards flood  prone areas to safe areas (Designated area)
+
+[4.1a fila 2] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 1
+  - Adaptation goal^: Construct artificial  structures, e.g., sea walls, artificially placing sand on the beaches and coastal drains, beach management system
+  - Climate hazards that goal addresses^: Coastal flooding (incl. sea level rise)
+  - Base year of goal (or year goal was established if no base year)^: 2018
+  - Target year of goal^: 2018
+  - Description of metric / indicator used to track goal^: Management of water sea levelPresence of coastal recreational areasConstructed see wall at designated
+  - Comment: The Wall has already constructed that prevent waves action at the coastal areas
+
+[4.1a fila 3] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 2
+  - Adaptation goal^: Implement sustainable Transportation activities
+  - Base year of goal (or year goal was established if no base year)^: 2020
+  - Target year of goal^: 2020
+  - Description of metric / indicator used to track goal^: Cultural and Arts preservationCommunity awareness increasedHistorical sites preservation
+  - Comment: Current City continue with the Construction of Rapid Bas Transit lanes and Interchanges roads
+
+[4.1a fila 4] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 3
+  - Adaptation goal^: Enhance wildlife extension services and assistance to rural communities in managing wildlife resources
+  - Climate hazards that goal addresses^: Drought
+  - Climate hazards that goal addresses^: Infectious disease
+  - Base year of goal (or year goal was established if no base year)^: 2019
+  - Target year of goal^: 1991
+  - Description of metric / indicator used to track goal^: Wildlife conservation
+
+[4.1a fila 5] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 4
+  - Adaptation goal^: Reduce hazardous areas into opportunity
+  - Climate hazards that goal addresses^: River flooding
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: Coastal flooding (incl. sea level rise)
+  - Base year of goal (or year goal was established if no base year)^: 2019
+  - Target year of goal^: 2019
+  - Description of metric / indicator used to track goal^: Reduction of the areas from prone to opportunities
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: Yes, our jurisdiction has a climate action plan or strategy
+
+[7.1a fila 1] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Integrated climate plan (addressing mitigation and adaptation)
+  - Attachment/link and name of plan^: Dar es Salaam Climate Action plan 2020-2050
+  - Confirm attachment/link provided to plan (selection mandatory): The plan has been attached
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Monitoring:  Information on progress of plan is monitored and publicly reported annually
+  - Funding sources and financial instruments to finance plan: Regional funds and programmes
+  - Communities and organizations engaged^: State/regional government(s) and/or agencies
+  - Communities and organizations engaged^: National government and/or agencies
+  - Communities and organizations engaged^: Local government (s) and/or agencies
+  - Communities and organizations engaged^: Academia
+  - Communities and organizations engaged^: Non-governmental organisations
+  - Communities and organizations engaged^: Vulnerable population groups
+  - Communities and organizations engaged^: Business and private sector
+  - Describe if and how climate-related scenarios have informed the plan: The city is currently designing and implementing climate action related projects based through a very clear pathways highlighted in the climate action plan.
+  - Primary author(s) of plan^: International organization
+  - Primary author(s) of plan^: Dedicated team within jurisdiction
+  - Primary author(s) of plan^: Consultant
+  - Primary author(s) of plan^: Relevant department within jurisdiction
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses synergies of actions
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses trade-offs of actions
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses co-benefits of actions
+  - Year of formal approval of plan^: 2020
+  - End year of plan: 2050
+  - Sectors covered by action plan: Waste management
+  - Sectors covered by action plan: Fishing
+  - Sectors covered by action plan: Electricity, gas, steam and air conditioning supply
+  - Sectors covered by action plan: Forestry
+  - Sectors covered by action plan: Financial and insurance activities
+  - Sectors covered by action plan: Construction
+  - Sectors covered by action plan: Manufacturing
+  - Sectors covered by action plan: Sewerage, wastewater management and remediation activities
+  - Sectors covered by action plan: Conservation
+  - Sectors covered by action plan: Water supply
+  - Sectors covered by action plan: Transportation and storage
+  - Sectors covered by action plan: Mining and quarrying
+  - Sectors covered by action plan: Agriculture
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Waste management (including waste recycling)
+  - Project title: Dar es Salaam Integrated Waste Management System
+  - Stage of project development: Pre-feasibility/impact assessment
+  - Status of financing: Project partially funded and seeking additional funding
+  - Project description and attach project proposal: Project aiming into improving waste management  by introducing integrated waste management system through construction of the sanitary landfill at Pugu dumpsite which current operate as the open dumpsiteAlso aiming into the introduction of the integrated waste management system which will increase efficiency in waste fee collection. the project is funded by the dutch government through its embassy in Tanzania with the partial funded of 50% and the remaining percentage will be carryout by the city.
+  - Total cost of project (in currency specified in 0.1): 75000000000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 150000000000
+
+[7.5 fila 2] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Transport
+  - Project title: Dar es Salaam Rapid Transit Buses
+  - Stage of project development: Post-implementation
+  - Status of financing: Project partially funded and seeking additional funding
+  - Identified financing model: Public-private partnership
+  - Identified financing model: Loans from International Financial Institutions
+  - Project description and attach project proposal: The project aiming into construction of a modern buses station/terminal that will be receiving passenger buses enters into the city, currently the existing Bus terminal is in the center of the city so expected to be transferred to the outskirts of the city in which will be able to receive passenger buses from all over the country taking into consideration that  Dar es Salaam is the center of the bourgeoisie in the country. The project is fully funded by the central government on an estimated cost of 50 billions by providing project operating costs while other costs about 12 billions will be deducted by the City.
+  - Total cost of project (in currency specified in 0.1): 50000000000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 62000000000
+
+[7.6 fila 1] Report the factors that support climate-related investment and financial planning in your jurisdiction.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction accesses finance from national government funds, grants etc.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction borrows from national government
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction’s own funds and budgetary means
+  - Comment: The Institution budgeted its own fund and also receive fund from the national level to implement different activities with such direct or indirect relation with the Climate projects.
+  - Credit rating of jurisdiction: Jurisdiction has a domestic credit rating
+  - Decarbonising jurisdiction's investments: Jurisdiction has taken steps to decarbonise the investments held by the jurisdiction retirement funds by investing in the low-carbon economy
+  - Comment: The jurisdiction has planning for decarbonizing though little supported by the National level strategies and this is because of the priorities set by the government at the moment
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Action (selections mandatory)^: Sea walls and coastal protection structures
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Action description and web link to further information^: Dar es Salaam has constructed a concrete sea-retaining wall to prevent beach erosion from sea waves. This project fits within the scope of the National Climate Change Strategy of 2012. A total of 1180 meters of sea wall were constructed in the city’s effort to adapt to climate change, and it has enabled the beach to recover within its erected area. As a result, no more coastal erosion is happening. Dar es Salaam residents now use the area for recreation, and small businesses in the area are now in-place, providing new sources of income for youth and women. The wall has added to the beautification of the area, and new trees will add to the green environment of the city. From the mitigation side, the presence of a beautiful beach that is easily accessible from the city centre now allows city residents to spend their time in a naturally breezy area, thus reducing their use of air conditioni
+  - Sectors adaptation action applies to^: Waste management
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Sectors adaptation action applies to^: Construction
+  - Sectors adaptation action applies to^: Fishing
+  - Co-benefits realized^: Reduced GHG emissions
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 60-70%
+  - Proportion of natural systems with increased resilience due to adaptat: <10%
+  - Funding source(s): Public-private partnerships
+  - Funding source(s): National funds and programmes
+  - Funding source(s): International (including ODA)
+  - Status of action in the reporting year^: Pre-feasibility study
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 5.8
+  - Does this action contribute to your jurisdiction’s energy access and/o: Yes
+  - Select the related energy access and/or poverty indicator(s) for this : Energy consumption from renewable energy sources (increase)
+  - Select the related energy access and/or poverty indicator(s) for this : Installed capacity of renewable energy sources within local boundary (increase)
+  - Select the related energy access and/or poverty indicator(s) for this : Average yearly energy consumption per capita (increase)
+  - Select the related energy access and/or poverty indicator(s) for this : Percentage of municipality population or households with access to electricity (increase)
+
+[8.1 fila 2] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Ecological restoration (including wetland and floodplain conservation and restoration)
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Action description and web link to further information^: Among the activities carried by the Dar es Salaam City Council that relates to NBS are:- Mangrove restoration which is implemented along the coastal place like Mbweni and Kunduchi beach, Also City Greening through plantation of trees which reduce pollution and rehabilitation of the Msimbazi River basin by transforming it from reliability to opportunityWeb: https://www.worldbank.org/en/news/feature/2019/08/12/transforming-tanzanias-msimbazi-river-from-a-liability-into-an-opportunity
+  - Sectors adaptation action applies to^: Construction
+  - Sectors adaptation action applies to^: Water supply
+  - Sectors adaptation action applies to^: Conservation
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Co-benefits realized^: Job creation
+  - Timeframe for which increased resilience is expected to last: Long-term (after 2050)
+  - Proportion of the total jurisdiction population with increased resilie: 70-80%
+  - Proportion of natural systems with increased resilience due to adaptat: I do not have this data
+  - Funding source(s): National funds and programmes
+  - Funding source(s): Regional funds and programmes
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): International (including ODA)
+  - Status of action in the reporting year^: Implementation underway with completion expected in more than one year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 13364400000
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
