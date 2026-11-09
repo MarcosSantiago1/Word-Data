@@ -1,0 +1,1453 @@
+# CDP Cities 2023 - Can Tho City (org 54396) https://www.cdp.net/en/responses/54396
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: City/Municipality
+  - Next highest level of government: City/Municipality
+  - Next lowest level of government: Sub-municipal district
+  - Land area of the jurisdiction boundary (in square km)^: 1439
+  - Percentage range of land area that is green space: 11-20%
+  - Current (or most recent) population size^: 1253893
+  - Population year^: 2022
+  - Projected population size: 1281640
+  - Projected population year: 2030
+  - Select the currency used for all financial information reported throug: USD US Dollar
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related responsibilities are assigned to a committee(s) or a subcommittee(s) in the government
+  - Select the processes that reflect your jurisdiction's oversight of cli: Council (or equivalent) is informed by relevant departments, committees and/or subcommittees about climate-related issues
+  - Select the processes that reflect your jurisdiction's oversight of cli: Relevant departments, committees and/or subcommittees are informed by management about climate-related issues
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking plans and/or strategies
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking budgeting and/or major capital expenditures
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related responsibilities are assigned to management-level positions in the government
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking risk management policies
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when setting performance objectives
+  - Provide further details on your jurisdiction's oversight of climate-re: Can Tho City is well-known for its proactive approach to addressing climate-related issues? As a city situated in the Mekong Delta region, Can Tho is particularly vulnerable to the impacts of climate change, such as sea-level rise, flooding, and salinization. Consequently, the city has made significant efforts to enhance its oversight of climate-related issues and implement sustainable practices. Here are some key aspects of Can Tho City's oversight:1. Climate Change Coordination Board: Can Tho City has established a Climate Change Coordination Board to facilitate collaboration and coordination among various government agencies, departments, and organizations. This board plays a vital role in formulating strategies, policies, and action plans to address climate change challenges in the city.2. Climate Change Adaptation and Mitigation Plan: The city has developed a comprehensive Climate C
+  - Describe how climate-related issues have impacted your jurisdiction's : Can Tho City, located in the Mekong Delta region of Vietnam, has been significantly affected by climate-related issues, particularly due to its vulnerability to sea-level rise, flooding, and saltwater intrusion. These impacts have had a notable influence on the city's master and development planning. Here are some key ways in which climate-related issues have impacted Can Tho City's planning:Infrastructure and Urban Planning: Climate change has necessitated changes in the city's infrastructure and urban planning to address flood risks. Can Tho City has been implementing measures such as building embankments, dykes, and drainage systems to mitigate the impacts of increased flooding. Urban planning efforts have focused on designing resilient infrastructure, elevated roads, and flood-resistant buildings.Water Management: Can Tho City's water management strategies have been significantly inf
+  - Describe how climate-related issues have impacted your jurisdiction's : Can Tho City has experienced significant impacts from climate-related issues, which have had implications for its financial planning. Here are some ways in which climate-related issues have affected Can Tho City's financial planning:Infrastructure costs: Climate change has led to increased risks of flooding and sea-level rise in Can Tho City. As a result, the city has had to invest significant funds in building and maintaining infrastructure to manage these risks. This includes constructing flood protection systems, upgrading drainage systems, and strengthening river embankments. These infrastructure investments require substantial financial resources and impact the city's budgetary planning.Agricultural sector: Can Tho City is known for its agriculture, particularly rice production and aquaculture. Climate change has brought about challenges to the agricultural sector, such as altered r
+  - Describe the risks to your jurisdiction related to the transition to a: The transition to a low-carbon economy in Can Tho City presents both opportunities and risks. While the transition is essential for mitigating climate change and reducing GHG emissions, it can also pose challenges and risks to the city. Here are some potential risks associated with the transition to a low-carbon economy in Can Tho City:Economic impacts: Can Tho City's economy is currently dependent on sectors that contribute to greenhouse gas emissions, such as agriculture, manufacturing, and energy-intensive industries. A rapid transition to a low-carbon economy may result in disruptions to these sectors and the potential loss of jobs. It is crucial to manage this transition carefully, ensuring that alternative economic opportunities are created and affected workers are supported through retraining programs and social safety nets.Technological and infrastructure challenges: The transiti
+
+[0.4 fila 1] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate action plan
+  - Level of governments engaged in the development, implementation and/or: Lower level of government
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Outline the purpose of this engagement: Progress tracking and/or updates associated with this component are shared with a higher-level of government (e.g., via a digital platform)
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the Nationally Determined Contribution (NDC)
+  - Outline the purpose of this engagement: The development of this component is required by the national government (e.g., by law, regulation and/or agreement)
+  - Outline the purpose of this engagement: To collect data and/or feedback from other levels of government to inform its development
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the National Adaptation Plan (NAP)
+  - Outline the purpose of this engagement: To facilitate information sharing across different levels of government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into assessments and policy developed across different levels of government
+  - Outline the purpose of this engagement: To facilitate capacity building across different levels of government
+  - Outline the purpose of this engagement: The method used to develop this component was required or recommended by a higher-level of government
+  - Comment: Can Tho City coordinates with the national government, particularly through relevant ministries and agencies responsible for climate change, environment, and urban development. The city participates in national climate change forums, conferences, and working groups to contribute to policy discussions and share experiences and best practices. It also aligns its climate action plans and strategies with national frameworks, targets, and priorities, ensuring coherence and complementarity.
+
+[0.4 fila 2] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate adaptation goal
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Level of governments engaged in the development, implementation and/or: Lower level of government
+  - Outline the purpose of this engagement: To collect data and/or feedback from other levels of government to inform its development
+  - Outline the purpose of this engagement: Progress tracking and/or updates associated with this component are shared with a higher-level of government (e.g., via a digital platform)
+  - Outline the purpose of this engagement: To facilitate information sharing across different levels of government
+  - Outline the purpose of this engagement: The method used to develop this component was required or recommended by a higher-level of government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into assessments and policy developed across different levels of government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the Nationally Determined Contribution (NDC)
+  - Outline the purpose of this engagement: The development of this component is required by the national government (e.g., by law, regulation and/or agreement)
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the National Adaptation Plan (NAP)
+  - Outline the purpose of this engagement: To facilitate capacity building across different levels of government
+  - Comment: By engaging with other levels of government, Can Tho City strengthens its climate adaptation efforts, promotes collaboration, and ensures that its adaptation goals align with higher-level policies and plans. This coordination and cooperation enable a more integrated and effective approach to climate adaptation at all levels of governance.
+
+[0.4 fila 3] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate risk and vulnerability assessment
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Level of governments engaged in the development, implementation and/or: Lower level of government
+  - Level of governments engaged in the development, implementation and/or: Indigenous peoples with overlapping or neighboring territory
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Outline the purpose of this engagement: The development of this component is required by the national government (e.g., by law, regulation and/or agreement)
+  - Outline the purpose of this engagement: To facilitate capacity building across different levels of government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the Nationally Determined Contribution (NDC)
+  - Outline the purpose of this engagement: To facilitate information sharing across different levels of government
+  - Outline the purpose of this engagement: Progress tracking and/or updates associated with this component are shared with a higher-level of government (e.g., via a digital platform)
+  - Outline the purpose of this engagement: The method used to develop this component was required or recommended by a higher-level of government
+  - Outline the purpose of this engagement: To collect data and/or feedback from other levels of government to inform its development
+  - Outline the purpose of this engagement: To facilitate the integration of this component into assessments and policy developed across different levels of government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the National Adaptation Plan (NAP)
+  - Comment: The city aligns its climate risk and vulnerability assessment methodologies and approaches with national guidelines and frameworks. Can Tho City participates in national forums, workshops, and working groups related to climate risk assessment to contribute to the development of standardized methodologies and data collection techniques.
+
+[0.5 fila 1] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): National government
+  - Primary entity collaborated with (selection mandatory)_G: Government/Public body
+  - Mechanisms used to collaborate: Procurement
+  - Mechanisms used to collaborate: Project delivery - Public Private Partnership
+  - Mechanisms used to collaborate: Technical assistance
+  - Mechanisms used to collaborate: Entrepreneurship support programmes
+  - Mechanisms used to collaborate: City business partnership platform
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Engineering and consulting procurement
+  - Mechanisms used to collaborate: Nationally Determined Contribution (NDC) development/ implementation
+  - Mechanisms used to collaborate: Reporting of climate and/or environmental data
+  - Mechanisms used to collaborate: Cleaner production industry support
+  - Mechanisms used to collaborate: Project delivery - Build Operate Own Transfer
+  - Mechanisms used to collaborate: Project implementation and management
+  - Mechanisms used to collaborate: Convening industry groups
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Mechanisms used to collaborate: Policy and regulation development/ implementation
+  - Mechanisms used to collaborate: Multi-jurisdictional regional collaboratives
+  - Mechanisms used to collaborate: Circular economy business model support
+  - Mechanisms used to collaborate: Economic development
+  - Mechanisms used to collaborate: Climate action plan implementation
+  - Mechanisms used to collaborate: Project delivery - Build Operate Transfer
+  - Mechanisms used to collaborate: Development of local/regional adaptation plans, National Adaptation Plans and/or National Adaptation Programmes of Action (NAPAs)
+  - Mechanisms used to collaborate: Financing (investment)
+  - Mechanisms used to collaborate: Requirement to develop and implement emissions reduction target
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Funding (grants)
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Agriculture
+  - Areas collaboration focused on: Social Services
+  - Areas collaboration focused on: Waste
+  - Areas collaboration focused on: Food
+  - Areas collaboration focused on: Forestry
+  - Areas collaboration focused on: Inclusive climate action and/or equity
+  - Areas collaboration focused on: Finance
+  - Areas collaboration focused on: Public health
+  - Areas collaboration focused on: Resilience
+  - Areas collaboration focused on: Building and Infrastructure
+  - Areas collaboration focused on: Water
+  - Areas collaboration focused on: Industry
+  - Areas collaboration focused on: Adaptation
+  - Areas collaboration focused on: Natural environment
+  - Areas collaboration focused on: Landscape and jurisdictional approaches
+  - Areas collaboration focused on: Education
+  - Areas collaboration focused on: Ecosystem restoration
+  - Areas collaboration focused on: Emissions reduction
+  - Areas collaboration focused on: Transport (Mobility)
+  - Description of collaboration: Can Tho City coordinates with the national government, particularly through relevant ministries and agencies responsible for climate change, environment, and urban development. The city participates in national climate change forums, conferences, and working groups to contribute to policy discussions and share experiences and best practices. Can Tho City aligns its climate action plans and strategies with national frameworks, targets, and priorities, ensuring coherence and complementarity.
+  - Other entities collaborated with: National government
+  - Other entities collaborated with: Energy
+  - Other entities collaborated with: Local government outside of country/area
+  - Other entities collaborated with: Industry trade group
+  - Other entities collaborated with: Trade/labor unions
+  - Other entities collaborated with: Regional government
+  - Other entities collaborated with: Health Care
+  - Other entities collaborated with: Waste
+  - Other entities collaborated with: Vulnerable population groups
+  - Other entities collaborated with: Local government within country/area
+  - Other entities collaborated with: Food & Beverage
+  - Other entities collaborated with: Public authority
+  - Other entities collaborated with: Communication Services
+  - Other entities collaborated with: Utilities
+  - Other entities collaborated with: Consumer Staples
+  - Other entities collaborated with: Information Technology
+  - Other entities collaborated with: Academia
+  - Other entities collaborated with: Construction
+  - Other entities collaborated with: Materials
+  - Other entities collaborated with: Climate initiatives/networks
+  - Other entities collaborated with: Residents/community groups
+  - Other entities collaborated with: Industrials
+  - Other entities collaborated with: Financials
+  - Other entities collaborated with: Neighboring local government
+  - Other entities collaborated with: Agriculture
+  - Other entities collaborated with: Transport
+  - Other entities collaborated with: Education sector
+  - Other entities collaborated with: NGO and associations
+
+[0.5 fila 2] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Government/Public body
+  - Primary entity collaborated with (selection mandatory): Neighboring local government
+  - Mechanisms used to collaborate: Trade union engagement
+  - Mechanisms used to collaborate: Convening industry groups
+  - Mechanisms used to collaborate: Procurement
+  - Mechanisms used to collaborate: City business partnership platform
+  - Mechanisms used to collaborate: Project delivery - Public Private Partnership
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Multi-jurisdictional regional collaboratives
+  - Mechanisms used to collaborate: Reporting of climate and/or environmental data
+  - Mechanisms used to collaborate: Climate action plan implementation
+  - Mechanisms used to collaborate: Nationally Determined Contribution (NDC) development/ implementation
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Technical assistance
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Mechanisms used to collaborate: Development of local/regional adaptation plans, National Adaptation Plans and/or National Adaptation Programmes of Action (NAPAs)
+  - Mechanisms used to collaborate: Circular economy business model support
+  - Mechanisms used to collaborate: Economic development
+  - Areas collaboration focused on: Food
+  - Areas collaboration focused on: Resilience
+  - Areas collaboration focused on: Inclusive climate action and/or equity
+  - Areas collaboration focused on: Forestry
+  - Areas collaboration focused on: Waste
+  - Areas collaboration focused on: Ecosystem restoration
+  - Areas collaboration focused on: Natural environment
+  - Areas collaboration focused on: Industry
+  - Areas collaboration focused on: Agriculture
+  - Areas collaboration focused on: Finance
+  - Areas collaboration focused on: Education
+  - Areas collaboration focused on: Transport (Mobility)
+  - Areas collaboration focused on: Landscape and jurisdictional approaches
+  - Areas collaboration focused on: Building and Infrastructure
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Adaptation
+  - Areas collaboration focused on: Public health
+  - Areas collaboration focused on: Social Services
+  - Areas collaboration focused on: Water
+  - Description of collaboration: Can Tho City collaborates with neighboring provinces and regions to address climate change challenges that extend beyond city boundaries. Joint initiatives, projects, and programs are developed with neighboring provinces to enhance regional resilience, promote sustainable land and water management, and tackle shared climate risks. Information exchange and coordination mechanisms are established to share lessons learned, experiences, and innovative solutions with provincial counterparts.
+  - Other entities collaborated with: Agriculture
+  - Other entities collaborated with: Communication Services
+  - Other entities collaborated with: Food & Beverage
+  - Other entities collaborated with: Industry trade group
+  - Other entities collaborated with: Residents/community groups
+  - Other entities collaborated with: Indigenous peoples with overlapping or neighboring territory
+  - Other entities collaborated with: Academia
+  - Other entities collaborated with: NGO and associations
+  - Other entities collaborated with: Information Technology
+  - Other entities collaborated with: Health Care
+  - Other entities collaborated with: Neighboring local government
+  - Other entities collaborated with: Construction
+  - Other entities collaborated with: Local government outside of country/area
+  - Other entities collaborated with: Public authority
+  - Other entities collaborated with: Materials
+  - Other entities collaborated with: Industrials
+  - Other entities collaborated with: Regional government
+  - Other entities collaborated with: Faith-based organizations
+  - Other entities collaborated with: Local government within country/area
+  - Other entities collaborated with: Energy
+  - Other entities collaborated with: Waste
+  - Other entities collaborated with: Transport
+  - Other entities collaborated with: Utilities
+  - Other entities collaborated with: Education sector
+  - Other entities collaborated with: Financials
+  - Other entities collaborated with: National government
+  - Other entities collaborated with: Trade/labor unions
+  - Other entities collaborated with: Climate initiatives/networks
+  - Other entities collaborated with: Vulnerable population groups
+
+[0.5 fila 3] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Business
+  - Primary entity collaborated with (selection mandatory): Energy
+  - Mechanisms used to collaborate: Requirement to develop and implement emissions reduction target
+  - Mechanisms used to collaborate: Engineering and consulting procurement
+  - Mechanisms used to collaborate: Project delivery - Build Operate Transfer
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Project delivery - Build Operate Own Transfer
+  - Mechanisms used to collaborate: Funding (grants)
+  - Mechanisms used to collaborate: Procurement
+  - Mechanisms used to collaborate: Trade union engagement
+  - Mechanisms used to collaborate: Project delivery - Public Private Partnership
+  - Mechanisms used to collaborate: Climate action plan implementation
+  - Mechanisms used to collaborate: Requirement to develop emissions inventory
+  - Mechanisms used to collaborate: Circular economy business model support
+  - Mechanisms used to collaborate: Economic development
+  - Mechanisms used to collaborate: Reporting of climate and/or environmental data
+  - Mechanisms used to collaborate: Cleaner production industry support
+  - Mechanisms used to collaborate: Development of local/regional adaptation plans, National Adaptation Plans and/or National Adaptation Programmes of Action (NAPAs)
+  - Mechanisms used to collaborate: Nationally Determined Contribution (NDC) development/ implementation
+  - Mechanisms used to collaborate: Multi-jurisdictional regional collaboratives
+  - Mechanisms used to collaborate: Technical assistance
+  - Mechanisms used to collaborate: City business partnership platform
+  - Mechanisms used to collaborate: Entrepreneurship support programmes
+  - Mechanisms used to collaborate: Labour market training initiatives
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Financing (investment)
+  - Mechanisms used to collaborate: Project implementation and management
+  - Mechanisms used to collaborate: Convening industry groups
+  - Mechanisms used to collaborate: Policy and regulation development/ implementation
+  - Areas collaboration focused on: Emissions reduction
+  - Areas collaboration focused on: Education
+  - Areas collaboration focused on: Food
+  - Areas collaboration focused on: Adaptation
+  - Areas collaboration focused on: Waste
+  - Areas collaboration focused on: Natural environment
+  - Areas collaboration focused on: Landscape and jurisdictional approaches
+  - Areas collaboration focused on: Social Services
+  - Areas collaboration focused on: Water
+  - Areas collaboration focused on: Transport (Mobility)
+  - Areas collaboration focused on: Forestry
+  - Areas collaboration focused on: Resilience
+  - Areas collaboration focused on: Industry
+  - Areas collaboration focused on: Public health
+  - Areas collaboration focused on: Agriculture
+  - Areas collaboration focused on: Inclusive climate action and/or equity
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Building and Infrastructure
+  - Areas collaboration focused on: Finance
+  - Description of collaboration: Can Tho City collaborates with private companies to develop renewable energy projects, such as solar power, waste-to-energy and hydrogen to reduce reliance on fossil fuels and reduce greenhouse gas emissions. This collaboration involves joint investments, technology transfer, and knowledge sharing, with businesses bringing expertise and financial resources, and the government providing regulatory support and incentives.
+  - Other entities collaborated with: Materials
+  - Other entities collaborated with: Faith-based organizations
+  - Other entities collaborated with: Financials
+  - Other entities collaborated with: Transport
+  - Other entities collaborated with: Local government within country/area
+  - Other entities collaborated with: Neighboring local government
+  - Other entities collaborated with: Residents/community groups
+  - Other entities collaborated with: Energy
+  - Other entities collaborated with: Academia
+  - Other entities collaborated with: Education sector
+  - Other entities collaborated with: Utilities
+  - Other entities collaborated with: Climate initiatives/networks
+  - Other entities collaborated with: Waste
+  - Other entities collaborated with: Communication Services
+  - Other entities collaborated with: Consumer Staples
+  - Other entities collaborated with: Construction
+  - Other entities collaborated with: Industry trade group
+  - Other entities collaborated with: Local government outside of country/area
+  - Other entities collaborated with: National government
+  - Other entities collaborated with: Public authority
+  - Other entities collaborated with: Vulnerable population groups
+  - Other entities collaborated with: Information Technology
+  - Other entities collaborated with: Real Estate
+  - Other entities collaborated with: Agriculture
+  - Other entities collaborated with: NGO and associations
+  - Other entities collaborated with: Health Care
+  - Other entities collaborated with: Industrials
+  - Other entities collaborated with: Trade/labor unions
+  - Other entities collaborated with: Food & Beverage
+  - Other entities collaborated with: Regional government
+
+[0.5 fila 4] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Primary entity collaborated with (selection mandatory): Residents/community groups
+  - Mechanisms used to collaborate: Project implementation and management
+  - Mechanisms used to collaborate: Reporting of climate and/or environmental data
+  - Mechanisms used to collaborate: Circular economy business model support
+  - Mechanisms used to collaborate: Economic development
+  - Mechanisms used to collaborate: Multi-jurisdictional regional collaboratives
+  - Mechanisms used to collaborate: Convening industry groups
+  - Mechanisms used to collaborate: Project delivery - Build Operate Transfer
+  - Mechanisms used to collaborate: Trade union engagement
+  - Mechanisms used to collaborate: Funding (grants)
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Mechanisms used to collaborate: Project delivery - Build Operate Own Transfer
+  - Mechanisms used to collaborate: Project delivery - Public Private Partnership
+  - Mechanisms used to collaborate: Climate action plan implementation
+  - Mechanisms used to collaborate: Labour market training initiatives
+  - Mechanisms used to collaborate: Financing (investment)
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Entrepreneurship support programmes
+  - Mechanisms used to collaborate: City business partnership platform
+  - Mechanisms used to collaborate: Policy and regulation development/ implementation
+  - Areas collaboration focused on: Ecosystem restoration
+  - Areas collaboration focused on: Adaptation
+  - Areas collaboration focused on: Food
+  - Areas collaboration focused on: Social Services
+  - Areas collaboration focused on: Resilience
+  - Areas collaboration focused on: Transport (Mobility)
+  - Areas collaboration focused on: Finance
+  - Areas collaboration focused on: Public health
+  - Areas collaboration focused on: Water
+  - Areas collaboration focused on: Forestry
+  - Areas collaboration focused on: Landscape and jurisdictional approaches
+  - Areas collaboration focused on: Inclusive climate action and/or equity
+  - Areas collaboration focused on: Natural environment
+  - Areas collaboration focused on: Waste
+  - Areas collaboration focused on: Agriculture
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Industry
+  - Areas collaboration focused on: Emissions reduction
+  - Areas collaboration focused on: Education
+  - Areas collaboration focused on: Building and Infrastructure
+  - Description of collaboration: Can Tho City collaborates with civil society organizations and community groups to implement community-based adaptation programs that address climate risks and build local resilience. These collaborations involve capacity-building activities, knowledge sharing, and resource mobilization, with civil society organizations bringing grassroots expertise and community engagement, while the government provides policy support and access to resources.
+  - Other entities collaborated with: Industrials
+  - Other entities collaborated with: Neighboring local government
+  - Other entities collaborated with: Education sector
+  - Other entities collaborated with: Transport
+  - Other entities collaborated with: Industry trade group
+  - Other entities collaborated with: Consumer Staples
+  - Other entities collaborated with: Construction
+  - Other entities collaborated with: Financials
+  - Other entities collaborated with: Faith-based organizations
+  - Other entities collaborated with: Consumer Discretionary
+  - Other entities collaborated with: Trade/labor unions
+  - Other entities collaborated with: NGO and associations
+  - Other entities collaborated with: Energy
+  - Other entities collaborated with: Food & Beverage
+  - Other entities collaborated with: Communication Services
+  - Other entities collaborated with: Materials
+  - Other entities collaborated with: Local government within country/area
+  - Other entities collaborated with: Health Care
+  - Other entities collaborated with: Waste
+  - Other entities collaborated with: Academia
+  - Other entities collaborated with: Information Technology
+  - Other entities collaborated with: Agriculture
+  - Other entities collaborated with: Public authority
+  - Other entities collaborated with: Residents/community groups
+  - Other entities collaborated with: Real Estate
+  - Other entities collaborated with: Vulnerable population groups
+  - Other entities collaborated with: Utilities
+  - Other entities collaborated with: Climate initiatives/networks
+
+[0.5 fila 5] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): Academia
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Requirement to develop emissions inventory
+  - Mechanisms used to collaborate: Climate action plan implementation
+  - Mechanisms used to collaborate: Technical assistance
+  - Mechanisms used to collaborate: Policy and regulation development/ implementation
+  - Mechanisms used to collaborate: Convening industry groups
+  - Mechanisms used to collaborate: Circular economy business model support
+  - Mechanisms used to collaborate: Multi-jurisdictional regional collaboratives
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Mechanisms used to collaborate: Entrepreneurship support programmes
+  - Mechanisms used to collaborate: Project implementation and management
+  - Mechanisms used to collaborate: City business partnership platform
+  - Mechanisms used to collaborate: Requirement to develop and implement emissions reduction target
+  - Areas collaboration focused on: Inclusive climate action and/or equity
+  - Areas collaboration focused on: Emissions reduction
+  - Areas collaboration focused on: Adaptation
+  - Areas collaboration focused on: Ecosystem restoration
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Forestry
+  - Areas collaboration focused on: Natural environment
+  - Areas collaboration focused on: Finance
+  - Areas collaboration focused on: Social Services
+  - Areas collaboration focused on: Resilience
+  - Areas collaboration focused on: Landscape and jurisdictional approaches
+  - Areas collaboration focused on: Water
+  - Areas collaboration focused on: Agriculture
+  - Areas collaboration focused on: Food
+  - Areas collaboration focused on: Waste
+  - Areas collaboration focused on: Education
+  - Description of collaboration: Can Tho City collaborates with research institutions and universities, more specifically Can Tho University and Dragon Research Institute for Climate Change to conduct research, innovation, and knowledge exchange on climate-related issues. These partnerships support the development of climate solutions, technologies, and practices through joint research projects, innovation hubs, and knowledge-sharing platforms.
+  - Other entities collaborated with: Information Technology
+  - Other entities collaborated with: Food & Beverage
+  - Other entities collaborated with: Agriculture
+  - Other entities collaborated with: Financials
+  - Other entities collaborated with: Climate initiatives/networks
+  - Other entities collaborated with: Local government within country/area
+  - Other entities collaborated with: Residents/community groups
+  - Other entities collaborated with: Communication Services
+  - Other entities collaborated with: Trade/labor unions
+  - Other entities collaborated with: Utilities
+  - Other entities collaborated with: Real Estate
+  - Other entities collaborated with: NGO and associations
+  - Other entities collaborated with: Local government outside of country/area
+  - Other entities collaborated with: Public authority
+  - Other entities collaborated with: Vulnerable population groups
+  - Other entities collaborated with: Consumer Staples
+  - Other entities collaborated with: Consumer Discretionary
+  - Other entities collaborated with: Construction
+  - Other entities collaborated with: Transport
+  - Other entities collaborated with: Materials
+  - Other entities collaborated with: Industry trade group
+  - Other entities collaborated with: Education sector
+  - Other entities collaborated with: Faith-based organizations
+  - Other entities collaborated with: Energy
+  - Other entities collaborated with: Industrials
+  - Other entities collaborated with: Academia
+  - Other entities collaborated with: Health Care
+  - Other entities collaborated with: Waste
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: Yes, a climate risk and vulnerability assessment has been undertaken
+
+[1.1a fila 1] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: https://www.emerald.com/insight/content/doi/10.1108/IJCCSM-01-2018-0003/full/html
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment can be accessed (unrestricted) on the link provided
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2019
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Please explain: Women and children, ethnic minorities, and the elderly are the most vulnerable to these effects. O Mon, Co Do, Phong Dien, and Thoi Lai districts are predicted to have the highest vulnerability to climate change impacts among the nine districts and should therefore be prioritized for adaptive investments, such as increasing the area of green spaces, building water-storage areas, combining floodplains and wetland parks, preserving biodiversity and planning for biodiversity conservation to improve environmental resilience. In summary, the pilot calculations described here show that the indicator set used provides an intuitive view, facilitating managers to easily delineate those areas with the highest vulnerability and in greatest need of investment. The set of indicators used is also highly applicable because most of the input data are collected from the local Statistical Yearbook publish
+
+[1.1a fila 2] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: Climate Vulnerability and Risk Assessment (CVRA) in Can Tho City . This report is included in the section IV of Can Tho's Action Plan for Climate Response till 2030 (pages from 14 to 22) based on GCoM guideline framework).
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2021
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: Assessment considers transition risks
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: A process has been established to update the assessment at least every five years
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Assessment considers water security
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Primary author(s) of assessment^: Consultant
+  - Primary author(s) of assessment^: Dedicated team within jurisdiction
+  - Primary author(s) of assessment^: Community group
+  - Primary author(s) of assessment^: Regional/ state/ provincial government
+  - Primary author(s) of assessment^: International organization
+  - Please explain: The Climate Vulnerability and Risk Assessment (CVRA) is conducted using the method outlined in the 5th Assessment Report of the Intergovernmental Panel on Climate Change (IPCC AR-5), which considers:Hazards: Identifying and examining the potential hazards associated with climate change, such as flooding, landslides, saline intrusion, and tidal surges.Exposure: Assessing the level of exposure to these hazards for different groups, including the population, infrastructure, and land use.Vulnerability: Determining the vulnerability of these groups to climate change impacts, considering factors such as social and economic conditions, access to resources, and adaptive capacity.The CVRA for Can Tho City focuses on analyzing the impacts of the identified hazards, namely floods, landslides, saline intrusion, and tidal surges. These hazards are considered for three main target groups: the populati
+
+[1.1a fila 3] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: https://eca-network.org/wp-content/uploads/2021/11/ExSummary_ECA_VIETNAM_FINAL.pdf
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment can be accessed (unrestricted) on the link provided
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2021
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Assessment includes sectors and/or urban systems
+  - Factors considered in assessment: Assessment considers transition risks
+  - Factors considered in assessment: Assessment includes consultation with partners
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Primary author(s) of assessment^: Community group
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Primary author(s) of assessment^: Dedicated team within jurisdiction
+  - Primary author(s) of assessment^: Consultant
+  - Primary author(s) of assessment^: International organization
+  - Please explain: In this report, flood and heat wave adaptation measures were analyzed for the city of Can Tho (in selected districts) with respect to their cost-efficiency and effectiveness on adaptation and risk reduction. 17 measures (10 measures for flood, 4 measures for heat waves and 3 measures for both, flood and heat waves) were successfully assessed using the modelling platform CLIMADA. The Economics of Climate Adaptation (ECA) framework is set out to develop practical recommendations that enable national and local decision-makers to build a comprehensive assessment of the climate risk that their economies are facing while minimizing the cost of adaptation through cost-efficient strategies. A particular emphasis is made on a robust and integrated approach based on sound scientific facts. The ECA as applied here contains three elements supported by the modelling platform CLIMADA: 1. Climate risk 
+
+[1.1a fila 4] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: https://sti.vista.gov.vn/file_DuLieu/dataTLKHCN//CVv420/2017/CVv420S12017088.pdf
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment can be accessed (unrestricted) on the link provided
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2017
+  - Factors considered in assessment: Assessment includes sectors and/or urban systems
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: Assessment considers transition risks
+  - Factors considered in assessment: Assessment includes consultation with partners
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Primary author(s) of assessment^: Consultant
+  - Primary author(s) of assessment^: Regional/ state/ provincial government
+  - Primary author(s) of assessment^: Community group
+  - Please explain: The assessment is conducted to understand the vulnerability and adaptive capacity of the poor community in Can Tho City. It aims to explore the relationship between determining factors of vulnerability and adaptive capacity of the poor community to climate change. The asessment seeks to provide a scientific basis for developing a comprehensive and sustainable strategic plan for Can Tho City, contributing to mitigation and adaptation to climate change. It adopts the Vulnerability and Adaptive Capacity Assessment (VACA) framework proposed by CARE as the research method.Through sociological surveys, the assessment analyzes information and calculates vulnerability indices using the formula proposed by the UNESCO-IHE Institute for Water Education and the weighting method by Iyengar-Sudarshan. The findings conclude that there is a significant need to enhance the adaptive capacity of the poor c
+
+[1.1a fila 5] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: https://drive.google.com/file/d/1LVpuN1O-5RNlMSM9PxXdxnL2rqFCr5-2/view?usp=sharing
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment can be accessed (unrestricted) on the link provided
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2020
+  - Factors considered in assessment: A process has been established to update the assessment at least every five years
+  - Factors considered in assessment: Assessment considers transition risks
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: Assessment includes a high-emissions scenario (i.e., RCP 8.5)
+  - Factors considered in assessment: Assessment includes sectors and/or urban systems
+  - Factors considered in assessment: Assessment includes consultation with partners
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Primary author(s) of assessment^: Dedicated team within jurisdiction
+  - Primary author(s) of assessment^: Consultant
+  - Please explain: The climate assessment of Can Tho City is conducted within the framework of the National Target Program for Climate Change Response and Green Growth. The specific objectives of the assessment include:- Assessing the characteristics, variability, and changes in climate factors, including extreme climate events.- Evaluating the impacts of climate change on resources, including water, land, energy, and biodiversity, as well as the natural and socioeconomic conditions of Can Tho City.- Assessing climate change adaptation solutions and mitigation measures to reduce greenhouse gas emissions in Can Tho City.
+
+[1.1a fila 6] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: https://www.acccrn.net/sites/default/files/publication/attach/014_EHCVACanTho_0.pdf
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment can be accessed (unrestricted) on the link provided
+  - Boundary of assessment relative to jurisdiction boundary^: Smaller - covers only part of the jurisdiction, please explain exclusions
+  - Year of publication or approval^: 2019
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Primary author(s) of assessment^: Dedicated team within jurisdiction
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Primary author(s) of assessment^: Consultant
+  - Primary author(s) of assessment^: International organization
+  - Please explain: Women and children, ethnic minorities, and the elderly are the most vulnerable to these effects. O Mon, Co Do, Phong Dien, and Thoi Lai districts are predicted to have the highest vulnerability to climate change impacts among the nine districts and should therefore be prioritized for adaptive investments, such as increasing the area of green spaces, building water-storage areas, combining floodplains and wetland parks, preserving biodiversity and planning for biodiversity conservation to improve environmental resilience. In summary, the pilot calculations described here show that the indicator set used provides an intuitive view, facilitating managers to easily delineate those areas with the highest vulnerability and in greatest need of investment. The set of indicators used is also highly applicable because most of the input data are collected from the local Statistical Yearbook publish
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Mass movement
+  - Vulnerable population groups most exposed: Frontline workers
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Vulnerable population groups most exposed: Elderly
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Construction
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Mining and quarrying
+  - Sectors most exposed^: Fishing
+  - Sectors most exposed^: Accommodation and food service activities
+  - Describe the impacts on vulnerable populations and sectors^: The erosion of riverbanks and canals in the city is becoming more and more serious and complicated and increasing in both intensity and frequency. In particular, the sections of rivers, canals, and ditches flowing through densely populated areas, canals with high traffic density, curved river sections, distributaries, confluences, etc. have a high risk of soil erosion, causing loss of lives, land, houses, properties, construction infrastructure, etc. on both sides of rivers and canals.Soil erosion occurs in the city almost annually. The soil erosion occurred more frequently from 2015 until now with an increase year after year. On average, there are 19 soil erosions per year causing a loss of about 7.6 billion VND/year. For the trend of fluctuating number of erosion points and erosion scale, Binh Thuy, Cai Rang, O Mon and Thot No counties, and  Phong Dien and Vinh Thanh districts tend to 
+  - Proportion of the population exposed to the hazard: 10-20%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Long-term (after 2050)
+
+[1.2 fila 2] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Hurricanes, cyclones, and/or typhoons
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Sectors most exposed^: Financial and insurance activities
+  - Sectors most exposed^: Accommodation and food service activities
+  - Sectors most exposed^: Fishing
+  - Sectors most exposed^: Wholesale and retail trade; repair of motor vehicles and motorcycles
+  - Sectors most exposed^: Construction
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Information and communication
+  - Sectors most exposed^: Forestry
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Human health and social work activities
+  - Describe the impacts on vulnerable populations and sectors^: Severe winds and typhoons are increasing in Can Tho in both frequency and intensity due to the impacts of climate change. This is a constant immediate and long-term threat to all economic sectors, regions, and communities. The Mekong Delta, including Can Tho city, is an area that is considered vulnerable to severe impacts of typhoons and thunderstorms due to its flat terrain. In the future, typhoons and thunderstorms are likely to cause increasing severe damage to the entire city.
+  - Proportion of the population exposed to the hazard: 90-100%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium
+  - Current magnitude of impact of hazard^: Medium
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 3] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Water stress
+  - Vulnerable population groups most exposed: Indigenous peoples
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Frontline workers
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Manufacturing
+  - Sectors most exposed^: Financial and insurance activities
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Accommodation and food service activities
+  - Sectors most exposed^: Information and communication
+  - Sectors most exposed^: Conservation
+  - Describe the impacts on vulnerable populations and sectors^: Can Tho City relies heavily on water resources for agriculture, fisheries, and domestic use. Climate change affects water availability and quality, leading to challenges in water management. The city are investing in water infrastructure, such as reservoirs, canals, and irrigation systems, to ensure adequate water supply for different sectors. Financial planning is accounting for the costs of developing and maintaining water infrastructure, as well as implementing water conservation measures and promoting efficient water use practices. Water stress in Can Tho City can be exacerbated by climate change impacts:- Changes in Precipitation Patterns: Climate change can alter rainfall patterns, resulting in changes in the timing, intensity, and distribution of precipitation. This can lead to periods of drought or heavy rainfall, both of which can contribute to water stress in different ways.- D
+  - Proportion of the population exposed to the hazard: 70-80%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium High
+  - Current magnitude of impact of hazard^: Medium High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 4] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Increased water demand
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Frontline workers
+  - Vulnerable population groups most exposed: Indigenous peoples
+  - Sectors most exposed^: Manufacturing
+  - Sectors most exposed^: Information and communication
+  - Sectors most exposed^: Forestry
+  - Sectors most exposed^: Construction
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Conservation
+  - Describe the impacts on vulnerable populations and sectors^: As a growing urban area, Can Tho City is likely to experience increased water demand due to various factors:1. Population Growth: Can Tho City, like many urban areas, is experiencing population growth. As the population increases, so does the demand for water for domestic use, including drinking, cooking, sanitation, and other household needs.2. Urbanization and Economic Development: Urbanization and economic development in Can Tho City often lead to increased industrial and commercial activities, which further contribute to water demand. Industries, businesses, and commercial establishments require water for manufacturing processes, cooling systems, sanitation, and other operational needs.3. Agriculture and Irrigation: Can Tho City is situated in the Mekong Delta, known for its agricultural activities. Agriculture, including rice cultivation and aquaculture, requires significant amounts
+  - Proportion of the population exposed to the hazard: 90-100%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Long-term (after 2050)
+
+[1.2 fila 5] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Drought
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Indigenous peoples
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Frontline workers
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Arts, entertainment and recreation
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Fishing
+  - Sectors most exposed^: Manufacturing
+  - Sectors most exposed^: Forestry
+  - Sectors most exposed^: Conservation
+  - Sectors most exposed^: Human health and social work activities
+  - Describe the impacts on vulnerable populations and sectors^: Can Tho City, located in the Mekong Delta region of Vietnam, faces the threat of drought due to various factors:1. Rainfall Variability: Can Tho City's climate is characterized by distinct wet and dry seasons. However, climate change can lead to shifts in precipitation patterns, resulting in increased variability in rainfall. This variability can contribute to periods of prolonged dry spells and drought conditions.2. Dependence on Rainfall: Agriculture, including rice cultivation and aquaculture, is a significant economic sector in Can Tho City. These sectors rely heavily on rainfall for irrigation and maintaining water levels in canals and rivers. Insufficient or irregular rainfall can negatively impact agricultural productivity, leading to water stress and drought conditions.3. Groundwater Depletion: During periods of prolonged drought, reliance on groundwater for irrigation and domest
+  - Proportion of the population exposed to the hazard: 50-60%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Long-term (after 2050)
+
+[1.2 fila 6] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Fire weather (risk of wildfires)
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Sectors most exposed^: Administrative and support service activities
+  - Sectors most exposed^: Financial and insurance activities
+  - Sectors most exposed^: Information and communication
+  - Sectors most exposed^: Conservation
+  - Sectors most exposed^: Accommodation and food service activities
+  - Sectors most exposed^: Forestry
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Mining and quarrying
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Professional, scientific and technical activities
+  - Sectors most exposed^: Arts, entertainment and recreation
+  - Describe the impacts on vulnerable populations and sectors^: Can Tho City generally faces a lower risk of wildfires compared to areas with dense forests or dry grasslands. The Mekong Delta is primarily characterized by wetland ecosystems, agricultural land, and a network of rivers and canals. However, it's important to consider the potential risk of wildfires in certain circumstances. Here are some factors to consider regarding the risk of wildfires in Can Tho City:1. Dry Season: During the dry season, which typically occurs from December to April, Can Tho City experiences lower rainfall and higher temperatures. Although the region is predominantly characterized by wetlands, the dry season can lead to drying of vegetation, such as grasses and agricultural residues. Under these conditions, the risk of accidental fires and the spread of wildfires can increase.2. Agricultural Practices: Can Tho City is known for its agricultural activities, including
+  - Proportion of the population exposed to the hazard: <10%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium Low
+  - Current magnitude of impact of hazard^: Medium Low
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Long-term (after 2050)
+
+[1.2 fila 7] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Extreme wind
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Indigenous peoples
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Frontline workers
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Manufacturing
+  - Sectors most exposed^: Forestry
+  - Sectors most exposed^: Financial and insurance activities
+  - Sectors most exposed^: Information and communication
+  - Describe the impacts on vulnerable populations and sectors^: Severe winds and storms are increasing in Can Tho in both frequency and intensity due to the impacts of climate change. This is a constant immediate and long-term threat to all economic sectors, regions, and communities. The Mekong Delta, including Can Tho city, is an area that is considered vulnerable to severe impacts of extreme winds and thunderstorms due to its flat terrain. In the future,  extreme winds and thunderstorms are likely to cause increasing severe damage to the entire city.
+  - Proportion of the population exposed to the hazard: 70-80%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium
+  - Current magnitude of impact of hazard^: Medium
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 8] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Other, please specify: Salt water intrusion
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Indigenous peoples
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Frontline workers
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Manufacturing
+  - Sectors most exposed^: Arts, entertainment and recreation
+  - Sectors most exposed^: Fishing
+  - Sectors most exposed^: Conservation
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Financial and insurance activities
+  - Describe the impacts on vulnerable populations and sectors^: Saltwater intrusion is a significant issue that Can Tho City faces due to its location in the Mekong Delta and its proximity to the coastline. Here are some impacts of saltwater intrusion in Can Tho City:- Drinking Water Contamination: Saltwater intrusion can contaminate freshwater sources, such as rivers, canals, and groundwater aquifers. This contamination reduces the availability of safe drinking water for the population, potentially leading to health issues and an increased reliance on expensive alternative water sources.- Agricultural Impact: Can Tho City is known for its agricultural activities, including rice cultivation and aquaculture. Saltwater intrusion can harm crops, as many agricultural crops are sensitive to salinity. The intrusion of saltwater into farmland reduces soil fertility and disrupts the balance of nutrients, negatively affecting agricultural productivity and inc
+  - Proportion of the population exposed to the hazard: 30-40%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium High
+  - Current magnitude of impact of hazard^: Medium High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Long-term (after 2050)
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Rapid urbanization
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: The city benefits from rapid urbanisation due to increased economic growth and human capital; however, it also poses a significant pressure on infrastructure services that increase the risk of day-to-day service interruptions, traffic congestions, lack of educational facilities, health care services, etc., which weaken the city’s resilience to shock events.
+
+[1.3 fila 2] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Legal/Institutional constraints
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: The government of Can Tho city has always paid great attention to climate change in general and climate change adaptation in particular. The city government has issued the following programs and action plans on climate change:- Action Plan in response to climate change in Can Tho city for the 2010-2015 period.- Action Plan in response to climate change for the 2015-2030 period.- Implementation Plan of the Paris Agreement for the 2017-2025 period.- Updated Action Plan in response to climate change for the period of 2021 - 2030.- Action plan in response to climate change according to the guiding framework of GcomM in 2019. - Target Program in response to Climate Change and Green Growth in Can Tho City for the period of 2016 - 2020. - 100 Cities Resilient Program since 2016 (100CR program)- Plan for strengthening the city's resilience in 2021.etc.The city government has implemented the inte
+
+[1.3 fila 3] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Technical capacity
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: The iknowledge, expertise, and skills required for Can Tho City to effectively plan, implement, and monitor climate change adaptation measures is challenging as follows:- Lack of specialized expertise: Climate change adaptation requires specialized knowledge and expertise in various fields, including climate science, hydrology, engineering, urban planning, and environmental management. The absence of professionals with specific skills and expertise in these areas can challenge the city's ability to develop and implement effective adaptation strategies.- Limited data and information: Technical capacity relies on accurate and up-to-date data and information for evidence-based decision-making. The availability and accessibility of climate data, vulnerability assessments, risk models, and other relevant information are crucial for informed adaptation planning. Limited access to quality data 
+
+[1.3 fila 4] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Poverty
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: At the end of 2020, Can Tho has 1,036 poor households with 3,090 people and more than 9,000 near-poor households with 34,729 people. The poor are particularly vulnerable to natural disasters and changing economic situations. Living by canals in poorly built houses, the poor are significantly at risk from floods, typhoons, and other extreme weather events. Furthermore, the elderly, children, the disabled and other vulnerable groups are even more at risk due to limited access to public services.In early 2021, the city government requested relevant departments, agencies, and mass organizations to synchronously implement policies and projects to support the poor in health, education, housing, and preferential credit, incentives, agricultural extension, vocational training, job creation, etc. The city required a provision of free health insurance for the poor and full implementation of educat
+
+[1.3 fila 5] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Water security
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Water security plays a crucial role in Can Tho City's ability to adapt to climate change. It encompasses the availability, accessibility, quality, and reliability of water resources, as well as the management of water-related risks. The impact of water security on Can Tho City's ability to adapt to climate change can be challenging as shown below: - Increasing water demand: Rapid urbanization, population growth, and economic development can lead to increased water demand, straining existing water resources. This challenge is further exacerbated by climate change impacts, such as higher temperatures and changing precipitation patterns. Meeting the growing water demand while ensuring water security becomes a complex task, potentially impeding adaptation efforts.- Saltwater intrusion: As mentioned earlier, saltwater intrusion is a significant challenge in Can Tho City. It poses a threat to 
+
+[1.3 fila 6] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Water security
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: The impact of water security on Can Tho City's ability to adapt to climate change can be supportive as shown below: - Diversification of water sources: Can Tho has accessed to diverse water sources, including surface water, groundwater, and alternative water supplies, supports adaptation efforts. It allows for flexibility in water management, enabling the city to mitigate the impacts of climate change-related water scarcity or saltwater intrusion.- Integrated water resource management: The city has integrated water resource management practices helps optimize water allocation, enhance water use efficiency, and ensure sustainable water supply. This approach supports adaptation by promoting the efficient use of available water resources and reducing vulnerability to climate change impacts.- Infrastructure development: The city has been constructing and maintaining infrastructure, such as r
+
+[1.3 fila 7] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Budgetary capacity
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: The impact of budgetary capacity on Can Tho City's ability to adapt to climate change can challenge its adaptation efforts as follows:- Limited financial resources: Can Tho City may face constraints in terms of limited financial resources, competing priorities, and budgetary constraints. Insufficient funding can hinder the implementation of comprehensive climate change adaptation plans and limit the city's ability to invest in critical infrastructure, research, and capacity-building initiatives.- Uncertain and unpredictable funding streams: Climate change adaptation funding can be uncertain, irregular, or project-specific, making long-term planning and implementation challenging. Inadequate and unpredictable funding streams can hinder the city's ability to develop and sustain adaptation projects, leading to fragmented or incomplete efforts.- Cost of adaptation measures: Some climate chan
+
+[1.3 fila 8] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Community engagement
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: The impact of community engagement on Can Tho City's ability to adapt to climate change can be challenging as shown below: - Limited community capacity and resources: Communities may lack the necessary capacity, resources, and technical expertise to actively engage in climate change adaptation processes. Limited access to information, financial constraints, and time constraints can hinder effective participation, making it challenging to harness the full potential of community engagement.- Inequalities and social disparities: Inequities within communities, including socioeconomic disparities, gender inequalities, and marginalized populations, can hinder inclusive and meaningful community engagement. It is essential to address these disparities and ensure the participation of all community members, especially vulnerable and marginalized groups, to avoid further exacerbating social inequal
+
+[1.3 fila 9] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Access to education
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: The impact of access to education on Can Tho City's ability to adapt to climate change can be challenging as shown below: - Limited access to education: Limited access to quality education, especially for marginalized or vulnerable populations, can impede the city's ability to build a knowledgeable and skilled workforce for climate change adaptation. Socioeconomic disparities and lack of educational infrastructure can hinder equitable access to education, limiting the development of necessary capacities.- Integration of climate change into curricula: The integration of climate change topics into educational curricula may vary, and there could be a lack of dedicated coursework or programs focusing on climate change adaptation. Insufficient attention given to climate change education can result in a knowledge gap, hindering the city's overall adaptation capacity.- Teacher training and reso
+
+[1.3 fila 10] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Access to healthcare
+  - Degree to which this factor challenges/supports the adaptive capacity : Somewhat challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Access to healthcare plays a critical role in Can Tho City's ability to adapt to climate change. The impact of access to healthcare on the city's ability to adapt to climate change can either support or challenge its adaptation efforts, but the challenge is predominant as shown below:- Healthcare infrastructure and resources: Insufficient healthcare infrastructure, including medical facilities, hospitals, and health centers, can limit access to healthcare services, especially in remote or vulnerable areas. Inadequate resources, equipment, and healthcare personnel can pose challenges in responding to climate-related health emergencies and addressing the increased demand for healthcare services.- Vulnerable populations: Certain population groups, such as the elderly, children, pregnant women, and marginalized communities, may face greater health risks due to climate change. Limited access 
+
+[1.3 fila 11] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Land use planning
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: The impact of land use planning on the city's ability to adapt to climate change can support its adaptation efforts as follows:- Climate-resilient infrastructure: Land use planning allows for the integration of climate resilience into infrastructure development. This includes designing and locating buildings, transportation systems, and utilities in a way that minimizes exposure to climate hazards and promotes adaptive design principles. Climate-resilient infrastructure can withstand extreme weather events and reduce vulnerabilities.- Green and blue infrastructure: Incorporating green spaces, urban forests, wetlands, and other natural features into land use planning promotes ecosystem services, such as flood control, heat mitigation, and biodiversity conservation. Green and blue infrastructure supports climate change adaptation by enhancing urban resilience, reducing urban heat island ef
+
+[1.3 fila 12] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Infrastructure conditions / maintenance
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Some challenging factors are shown below:- Aging infrastructure: Aging infrastructure can be more vulnerable to the impacts of climate change. Deteriorating roads, bridges, drainage systems, and buildings may not be able to withstand extreme weather events such as floods, storms, or intense rainfall, impeding the city's ability to adapt effectively.- Inadequate infrastructure design: Infrastructure that has been designed without considering climate change projections and future risks may be ill-equipped to handle the changing climate. Insufficient flood control measures, inadequate drainage systems, and improper building design can increase the vulnerability of infrastructure to climate-related hazards.- Lack of maintenance and repair: Inadequate maintenance and repair of existing infrastructure can compromise its functionality and resilience. Failure to address issues such as clogged dr
+
+[1.3 fila 13] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Political stability
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: The impact of political stability on Can Tho City's ability to adapt to climate change can support its following adaptation efforts:- Policy consistency and continuity: Political stability promotes policy consistency and continuity, enabling long-term planning and implementation of climate change adaptation strategies. When political structures remain stable, there is a higher likelihood of sustained commitment to climate change action, fostering a favorable environment for adaptation initiatives.- Institutional effectiveness: Political stability supports the effectiveness of institutions responsible for climate change adaptation. Stable governance structures provide a conducive environment for institutions to develop and implement adaptation policies, allocate resources, and coordinate multi-stakeholder efforts. Effective institutions can facilitate the integration of climate change con
+
+[3.8 fila 1] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: Health outcomes
+  - Identify the climate hazard(s) that most significantly impact the sele: Extreme wind
+  - Identify the climate hazard(s) that most significantly impact the sele: Drought
+  - Identify the climate hazard(s) that most significantly impact the sele: Other coastal events
+  - Identify the climate hazard(s) that most significantly impact the sele: River flooding
+  - Identify the climate hazard(s) that most significantly impact the sele: Extreme heat
+  - Identify the climate hazard(s) that most significantly impact the sele: Water stress
+  - Identify the climate hazard(s) that most significantly impact the sele: Mass movement
+  - Identify the climate hazard(s) that most significantly impact the sele: Heat stress
+  - Identify the climate hazard(s) that most significantly impact the sele: Urban flooding
+  - Identify the climate hazard(s) that most significantly impact the sele: Hurricanes, cyclones, and/or typhoons
+  - Identify the climate hazard(s) that most significantly impact the sele: Increased water demand
+  - Identify the health issues driven by the selected climate hazard(s): Damage/destruction to health infrastructure and technology
+  - Identify the health issues driven by the selected climate hazard(s): Disruption to health service provision
+  - Identify the health issues driven by the selected climate hazard(s): Exacerbation of non-communicable disease symptoms - other
+  - Identify the health issues driven by the selected climate hazard(s): Vector-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Food-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Overwhelming of health service provision due to increased demand
+  - Identify the health issues driven by the selected climate hazard(s): Disruption to water, sanitation and wastewater services
+  - Identify the health issues driven by the selected climate hazard(s): Emotional and/or spiritual health impacts
+  - Identify the health issues driven by the selected climate hazard(s): Food and nutrition security
+  - Identify the health issues driven by the selected climate hazard(s): Direct physical injuries and deaths due to extreme weather events
+  - Identify the health issues driven by the selected climate hazard(s): Disruption of health-related services
+  - Identify the health issues driven by the selected climate hazard(s): Lack of climate-informed surveillance, preparedness, early warning and response
+  - Identify the health issues driven by the selected climate hazard(s): Water-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Exacerbation of non-communicable disease symptoms - respiratory disease
+  - Identify the health issues driven by the selected climate hazard(s): Exacerbation of non-communicable disease symptoms - cardiovascular disease
+  - Identify the health issues driven by the selected climate hazard(s): Mental health impacts
+  - Identify the health issues driven by the selected climate hazard(s): Heat-related illnesses
+  - Timeframe of impact: Medium-term (2026-2050)
+  - Identify which vulnerable populations are affected by the selected hea: Indigenous peoples
+  - Identify which vulnerable populations are affected by the selected hea: Outdoor workers
+  - Identify which vulnerable populations are affected by the selected hea: Children and youth
+  - Identify which vulnerable populations are affected by the selected hea: Low-income households
+  - Identify which vulnerable populations are affected by the selected hea: Elderly
+  - Identify which vulnerable populations are affected by the selected hea: Vulnerable health groups
+  - Identify which vulnerable populations are affected by the selected hea: Women and girls
+  - Identify which vulnerable populations are affected by the selected hea: Frontline workers
+  - Identify which vulnerable populations are affected by the selected hea: Marginalized / minority communities
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of expertise/technical capacity
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of financial capacity and expertise/technical capacity
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of financial capacity
+  - Comment: Irregular weather conditions such as and high tides and heavy rains during the August to October in the Lunar calendar, which cause floods and inundations, or irregular hot weather affected people’s health conditions. The health problems are recorded as follows:- Inflammatory diarrhea, other bowel conditions (e.g. infectious diarrhea), dengue, typhoidfever, and food poisoning. Particularly during the inundation season, the prevalence of thesediseases increased by 150%.- Respiratory diseases, bronchitis, pneumonia, sore throat, digestive disorder, viralsymptoms, etc. These diseases have highly prevailed among elderly people and childrenat a rise of 100-150%. For instance, 36 pupils at two schools in Thanh An Dong hadfever or chickenpox and rash occurred among children at primary schools andkindergartens in 2017.The most affected group was children, particularly those who lived in the subu
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Percentage of households with access to safely managed drinking water : Question not applicable
+  - Percentage of households with access to safely managed sanitation serv: Question not applicable
+  - Household water consumption (litres/capita/day): Question not applicable
+
+[3.13 fila 0] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Question not applicable
+  - Are you able to report volumetric data for this source?: Question not applicable
+  - Annual volume of water withdrawn per source (in megalitres) : Question not applicable
+  - Projected level of change over next 5-10 years: Question not applicable
+  - Comment: Question not applicable
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: Yes, our jurisdiction has an adaptation goal(s)
+
+[4.1a fila 1] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 1
+  - Adaptation goal^: Appropriate land-use planning to cope with climate change
+  - Climate hazards that goal addresses^: Drought
+  - Climate hazards that goal addresses^: Loss of green space/green cover
+  - Climate hazards that goal addresses^: River flooding
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Climate hazards that goal addresses^: Coastal flooding (incl. sea level rise)
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: Other forms of climate-induced landscape shift/degradation
+  - Climate hazards that goal addresses^: Mass movement
+  - Climate hazards that goal addresses^: Soil degradation/erosion
+  - Climate hazards that goal addresses^: Water stress
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: The Department of Natural Resources and Environment is responsible for monitoring the implementation of the appropriate land-use planning. Four indicator groups regarding agricultural land, aquatic water surface, urban land, industrial zone land, and residential area land have been formulated to keep track of signs of progress.
+
+[4.1a fila 2] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 2
+  - Adaptation goal^: Secured water resources
+  - Climate hazards that goal addresses^: Mass movement
+  - Climate hazards that goal addresses^: Heat stress
+  - Climate hazards that goal addresses^: River flooding
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Infectious disease
+  - Climate hazards that goal addresses^: Increased water demand
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Climate hazards that goal addresses^: Drought
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Can Tho's Department of Natural Resources and Environment is responsible for monitoring the implementation of the secured water resources. Three indicators concerning large-scale centralized water supply stations, household-scale rainwater tanks for domestic use in rural areas, and permeable surface areas to improve water infiltration have been developed to keep track of signs of progress.
+
+[4.1a fila 3] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 3
+  - Adaptation goal^: Sustainable agriculture
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: River flooding
+  - Climate hazards that goal addresses^: Drought
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: Heat stress
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Soil degradation/erosion
+  - Climate hazards that goal addresses^: Mass movement
+  - Climate hazards that goal addresses^: Increased water demand
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Can Tho's Department of Agriculture and Rural Development is responsible for monitoring the implementation of the sustainable agriculture. Five indicator groups on restructuring crops and livestock, testing and breeding plant and animal varieties that can withstand harsh weather conditions as well as have high productivity, planning reservoirs and irrigation systems, planning sustainable agricultural production areas, and developing a system of canals and regularly dredging to ensure water storage in the dry season have been developed to keep track of signs of progress.
+
+[4.1a fila 4] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 4
+  - Adaptation goal^: Improved public health
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazards that goal addresses^: Infectious disease
+  - Climate hazards that goal addresses^: Heat stress
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: River flooding
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Can Tho's Department of Health is responsible for improving public health.  Five indicators regarding prevention of dengue fever in the rainy season, limiting the loss of life and property to the people whenever natural disasters occur, planning for prevention and response to epidemic risks, strengthening propaganda work on environmental sanitation, disease prevention and sufficiently providing adequate medical equipment and hospital beds at medical facilities have been developed to keep track of signs of progress.
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: Yes, our jurisdiction has a climate action plan or strategy
+
+[7.1a fila 1] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Integrated climate plan (addressing mitigation, adaptation and energy-related issues)
+  - Attachment/link and name of plan^: Action Plan in response to Climate Change from 2021 to 2030 with a vision to 2050
+  - Confirm attachment/link provided to plan (selection mandatory): The plan has been attached and can be accessed (unrestricted) on the link provided
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Monitoring:  Information on progress of plan is monitored and publicly reported at least every 5 years
+  - Processes for monitoring evaluation and updates of plan^: Evaluation: Evaluation of plan takes place at least every 5 years
+  - Processes for monitoring evaluation and updates of plan^: Update: Updates to the plan are published at least every 3 years
+  - Funding sources and financial instruments to finance plan: National funds and programmes
+  - Funding sources and financial instruments to finance plan: Jurisdiction's own resources
+  - Communities and organizations engaged^: Business and private sector
+  - Communities and organizations engaged^: Academia
+  - Communities and organizations engaged^: Local government (s) and/or agencies
+  - Communities and organizations engaged^: Non-governmental organisations
+  - Describe if and how climate-related scenarios have informed the plan: Can Tho City has taken climate-related scenarios into account in its action plan on climate change. These scenarios provide valuable information about potential future climate conditions, enabling the city to better understand the risks and challenges it may face. By incorporating climate-related scenarios into the action plan, Can Tho City can develop strategies and measures that are responsive and adaptable to different climate change scenarios.The action plan of Can Tho City on climate change considered various climate-related scenarios, such as changes in temperature, rainfall patterns, sea-level rise, and extreme weather events. These scenarios help identify vulnerable areas, sectors, and populations within the city and guide decision-making processes to prioritize adaptation and mitigation efforts.Based on the climate-related scenarios, the action plan outlined specific actions and
+  - Primary author(s) of plan^: Consultant
+  - Primary author(s) of plan^: Relevant department within jurisdiction
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses synergies of actions
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses co-benefits of actions
+  - Year of formal approval of plan^: 2021
+  - End year of plan: 2030
+  - Total cost of implementation of plan (in currency specified in 0.1): 52500
+  - Sectors covered by action plan: Mining and quarrying
+  - Sectors covered by action plan: Construction
+  - Sectors covered by action plan: Sewerage, wastewater management and remediation activities
+  - Sectors covered by action plan: Water supply
+  - Sectors covered by action plan: Agriculture
+  - Sectors covered by action plan: Waste management
+  - Sectors covered by action plan: Information and communication
+  - Sectors covered by action plan: Education
+  - Sectors covered by action plan: Transportation and storage
+  - Sectors covered by action plan: Human health and social work activities
+  - Sectors covered by action plan: Electricity, gas, steam and air conditioning supply
+  - Sectors covered by action plan: Conservation
+  - Sectors covered by action plan: Manufacturing
+  - Sectors covered by action plan: Professional, scientific and technical activities
+  - Sectors covered by action plan: Forestry
+  - Sectors covered by action plan: Fishing
+  - Please explain: The implementation plan is developed to:- Developing and implementing proposals and activities to reduce GHG emissions and ensure green growth based on local conditions in the industry, transportation, construction, and agriculture.- Preparing resources (human, technology, and finance) to meet the needs of implementing the Paris Agreement.- Developing and improving institutions and policies to improve the effectiveness of climate change response and green growth.
+
+[7.1a fila 2] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Integrated climate plan (addressing mitigation and adaptation)
+  - Attachment/link and name of plan^: Implementation plan of the Paris Agreement on climate change in Can Tho City.
+  - Confirm attachment/link provided to plan (selection mandatory): The plan has been attached
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Monitoring:  Information on progress of plan is monitored and publicly reported at least every 3 years
+  - Processes for monitoring evaluation and updates of plan^: Evaluation: Evaluation of plan takes place at least every 3 years
+  - Processes for monitoring evaluation and updates of plan^: Update: Updates to the plan are published at least every 3 years
+  - Funding sources and financial instruments to finance plan: Jurisdiction's own resources
+  - Communities and organizations engaged^: Academia
+  - Communities and organizations engaged^: Local government (s) and/or agencies
+  - Describe if and how climate-related scenarios have informed the plan: Climate-related scenarios have played a significant role in informing the implementation plan of the Paris Agreement on climate change in Can Tho City. These scenarios provide critical insights into the potential impacts of climate change and help identify areas of vulnerability and risk within the city.By incorporating climate-related scenarios into the implementation plan, Can Tho City assessed the potential future climate conditions, such as changes in temperature, precipitation patterns, sea-level rise, and extreme weather events. This analysis allowed the city to understand the specific challenges it may face and develop targeted strategies to address them.The climate-related scenarios helped Can Tho City identify priority areas for action and guide decision-making processes in setting mitigation goals. They assist in determining the necessary measures to reduce GHG emissions and en
+  - Primary author(s) of plan^: Consultant
+  - Primary author(s) of plan^: Relevant department within jurisdiction
+  - Primary author(s) of plan^: Dedicated team within jurisdiction
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses co-benefits of actions
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses trade-offs of actions
+  - Year of formal approval of plan^: 2017
+  - End year of plan: 2030
+  - Total cost of implementation of plan (in currency specified in 0.1): 4150000
+  - Sectors covered by action plan: Sewerage, wastewater management and remediation activities
+  - Sectors covered by action plan: Electricity, gas, steam and air conditioning supply
+  - Sectors covered by action plan: Waste management
+  - Sectors covered by action plan: Manufacturing
+  - Sectors covered by action plan: Transportation and storage
+  - Sectors covered by action plan: Forestry
+  - Sectors covered by action plan: Water supply
+  - Sectors covered by action plan: Agriculture
+  - Sectors covered by action plan: Education
+  - Please explain: The objectives of the implementation plan include the followings:- Developing and implementing proposals and activities to mitigate greenhouse gas emissions and promote sustainable green growth in industries, transportation, construction, agriculture, and rural development, in line with local conditions.- Carrying out programs and tasks to adapt to climate change.Mobilizing resources (human, technological and financial) to meet the requirements of the Paris Agreement.- Establishing and refining institutional frameworks and policies to enhance efficiency in coping with climate change and promoting green growth.
+
+[7.1a fila 3] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Integrated climate plan (addressing mitigation and energy)
+  - Attachment/link and name of plan^: Action Plan on Green Growth in 2021 to 2030 with a vision to 2050 in Can Tho City.
+  - Confirm attachment/link provided to plan (selection mandatory): The plan has been attached
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Monitoring:  Information on progress of plan is monitored and publicly reported at least every 3 years
+  - Processes for monitoring evaluation and updates of plan^: Evaluation: Evaluation of plan takes place at least every 3 years
+  - Processes for monitoring evaluation and updates of plan^: Update: Updates to the plan are published at least every 3 years
+  - Funding sources and financial instruments to finance plan: International (including ODA)
+  - Funding sources and financial instruments to finance plan: Private partnerships (e.g., a combination of private investments)
+  - Funding sources and financial instruments to finance plan: Jurisdiction's own resources
+  - Funding sources and financial instruments to finance plan: Public-private partnerships
+  - Funding sources and financial instruments to finance plan: Private
+  - Communities and organizations engaged^: Vulnerable population groups
+  - Communities and organizations engaged^: Local government (s) and/or agencies
+  - Communities and organizations engaged^: Academia
+  - Communities and organizations engaged^: Citizens
+  - Communities and organizations engaged^: Non-governmental organisations
+  - Communities and organizations engaged^: Trade unions
+  - Communities and organizations engaged^: Business and private sector
+  - Describe if and how climate-related scenarios have informed the plan: Climate-related scenarios have informed Can Tho City's action plan on Green Growth for the period 2021 to 2030, with a vision to 2050. These scenarios provide a foundation for understanding the potential impacts of climate change on the city's development and help guide the formulation of appropriate strategies and actions.The action plan on Green Growth takes into account these climate-related scenarios to establish goals, targets, and specific actions that align with the city's vision for sustainable development. It considers the need for reducing greenhouse gas emissions, enhancing energy efficiency, promoting renewable energy sources, improving waste management, and developing climate-resilient infrastructure.Furthermore, climate-related scenarios inform the prioritization of adaptation measures in the action plan. Can Tho City identifies sectors and areas that are most vulnerable to
+  - Primary author(s) of plan^: Relevant department within jurisdiction
+  - Primary author(s) of plan^: Consultant
+  - Primary author(s) of plan^: Dedicated team within jurisdiction
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses trade-offs of actions
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses co-benefits of actions
+  - Year of formal approval of plan^: 2022
+  - End year of plan: 2030
+  - Total cost of implementation of plan (in currency specified in 0.1): 23477
+  - Sectors covered by action plan: Human health and social work activities
+  - Sectors covered by action plan: Forestry
+  - Sectors covered by action plan: Construction
+  - Sectors covered by action plan: Water supply
+  - Sectors covered by action plan: Mining and quarrying
+  - Sectors covered by action plan: Electricity, gas, steam and air conditioning supply
+  - Sectors covered by action plan: Professional, scientific and technical activities
+  - Sectors covered by action plan: Education
+  - Sectors covered by action plan: Fishing
+  - Sectors covered by action plan: Manufacturing
+  - Sectors covered by action plan: Agriculture
+  - Sectors covered by action plan: Sewerage, wastewater management and remediation activities
+  - Sectors covered by action plan: Wholesale and retail trade; repair of motor vehicles and motorcycles
+  - Sectors covered by action plan: Waste management
+  - Sectors covered by action plan: Transportation and storage
+  - Sectors covered by action plan: Administrative and support service activities
+  - Sectors covered by action plan: Accommodation and food service activities
+  - Please explain: The main objectives them implementation plan is to identify key contents and tasks which contribute to the objective of restructuring the economy linked to a growth model and social equity in Can Tho City, towards a green economy, and reducing greenhouse gas emissions to help mitigate global temperature rise.
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Other, please specify: Multi-area
+  - Project title: Smart and Energy Efficient City
+  - Stage of project development: Pre-feasibility/impact assessment
+  - Status of financing: Project partially funded and seeking additional funding
+  - Identified financing model: Grants
+  - Identified financing model: Loans from International Financial Institutions
+  - Identified financing model: Public-private partnership
+  - Identified financing model: Bonds
+  - Identified financing model: Loans from commercial banks
+  - Project description and attach project proposal: https://www.investvietnam.gov.vn/vi/du-an.dad/danh-muc-cac-su-an-moi-goi-dau-tu-tren-dia-ban-thanh-pho-can-tho.htmlCan Tho is aiming to build smart management government and digital government. Due to the limited budget, the city is currently interested in a public-private partnership for this project. The areas the city is focusing on include management and operation of the intelligent transport system; development of new traffic routes, especially the public transport system; smart urban development and smart housing in response to limate change; database management, etc.
+  - Total cost of project (in currency specified in 0.1): 67300000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 47100000
+
+[7.5 fila 2] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Renewable energy
+  - Project title: Low carbon conversion in the energy sector
+  - Stage of project development: Implementation
+  - Status of financing: Project partially funded and seeking additional funding
+  - Identified financing model: Loans from commercial banks
+  - Identified financing model: Public-private partnership
+  - Identified financing model: Bonds
+  - Identified financing model: Loans from International Financial Institutions
+  - Identified financing model: Grants
+  - Project description and attach project proposal: https://vietnamnet.vn/en/sci-tech-environment/can-tho-unveils-low-carbon-transformation-project-in-energy-sector-635481.html.According to the Project of Low Carbon Transformation in Energy Sector in the period of 2020–2030, with a vision to 2050:- By 2025, the City would focus on developing and widely applying wind and solar energy throughout the city;- By 2030, the city would increase to 6,000 MW of wind power and 12,000 MW of solar power.The city will focus on 6 specific programs including: City for pedestrian, forest management, eco-friendly house construction, low carbon lifestyle, low carbon industry, and increased use of renewable energy. In addition, businesses and residents would access low-carbon energy services, diversify business models in the energy sector, develop competitive energy markets, promote renewable energy sources, and use energy efficiently.
+  - Total cost of project (in currency specified in 0.1): 1320000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 2000000
+
+[7.5 fila 3] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project title: Question not applicable
+  - Stage of project development: Question not applicable
+  - Status of financing: Question not applicable
+  - Identified financing model: Question not applicable
+  - Project description and attach project proposal: Question not applicable
+  - Total cost of project (in currency specified in 0.1): Question not applicable
+  - Total investment cost needed if relevant (in currency specified in 0.1: Question not applicable
+
+[7.6 fila 1] Report the factors that support climate-related investment and financial planning in your jurisdiction.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Question not applicable
+  - Comment: Question not applicable
+  - Credit rating of jurisdiction: Question not applicable
+  - Comment: Question not applicable
+  - Decarbonising jurisdiction's investments: Question not applicable
+  - Comment: Question not applicable
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Development of targeted plan/program to address hazard(s) selected
+  - Action (selections mandatory)^_G: Government policies and programs actions
+  - Climate hazard(s) that action addresses^: Other, please specify: Flooding
+  - Action description and web link to further information^: Many projects, programs, and activities to improve the city’s capacity for flooding resilience have been implemented and brought about many positive results:- Project on the improvement of canals and Xang Bloi Lake; Tham Tuong, Rach Cai Khe, Rach Son, etc. ditches.- Project on ground elevation and surface water drainage of Can Tho city to 2020 with a vision to 2030.- Project on planning and constructing multi-function and anti-flood works in combination with improving and upgrading the waterway system of Can Tho city.- Improvement of the anti-flooding measures for education centers, primary, secondary, and high schools in Can Tho city.- Capacity building to cope with climate change impacts on the waterway - road transportation works in Can Tho City. - Establishment of daycare centers in areas with high flood risk.- Establishment of a cluster of population lines for overcoming the impacts
+  - Sectors adaptation action applies to^: Conservation
+  - Sectors adaptation action applies to^: Accommodation and food service activities
+  - Sectors adaptation action applies to^: Public administration and defence; compulsory social security
+  - Sectors adaptation action applies to^: Agriculture
+  - Sectors adaptation action applies to^: Sewerage, wastewater management and remediation activities
+  - Sectors adaptation action applies to^: Waste management
+  - Sectors adaptation action applies to^: Financial and insurance activities
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Sectors adaptation action applies to^: Construction
+  - Sectors adaptation action applies to^: Water supply
+  - Sectors adaptation action applies to^: Mining and quarrying
+  - Sectors adaptation action applies to^: Education
+  - Sectors adaptation action applies to^: Manufacturing
+  - Sectors adaptation action applies to^: Transportation and storage
+  - Co-benefits realized^: Fewer or no households and businesses forced from homes/places of work
+  - Co-benefits realized^: Increased food security
+  - Co-benefits realized^: Reduced fuel/energy poverty
+  - Co-benefits realized^: Undertaken in collaboration with Indigenous peoples
+  - Co-benefits realized^: Increased transparency and accountability
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Co-benefits realized^: Increased security/protection for poor/vulnerable populations
+  - Co-benefits realized^: Reduced congestion
+  - Co-benefits realized^: Revenue generation
+  - Co-benefits realized^: Reduced costs
+  - Co-benefits realized^: Reduced health costs
+  - Co-benefits realized^: Improved road safety
+  - Co-benefits realized^: Reduced GHG emissions
+  - Co-benefits realized^: Reduced disruption of energy, transport, water or communications networks
+  - Co-benefits realized^: Increased access to energy
+  - Co-benefits realized^: Improved water/soil quality
+  - Co-benefits realized^: Improved mobility and access
+  - Co-benefits realized^: Increased water security
+  - Co-benefits realized^: Protected/improved biodiversity and ecosystem services
+  - Co-benefits realized^: Increased social inclusion, equality and justice
+  - Co-benefits realized^: Job creation
+  - Co-benefits realized^: Improved mental wellbeing/quality of life
+  - Co-benefits realized^: Improved physical health
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 80-90%
+  - Proportion of natural systems with increased resilience due to adaptat: I do not have this data
+  - Funding source(s): International (including ODA)
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): Regional funds and programmes
+  - Funding source(s): Public-private partnerships
+  - Funding source(s): Private partnerships (e.g., a combination of private investments)
+  - Funding source(s): National funds and programmes
+  - Status of action in the reporting year^: Implementation underway with completion expected in more than one year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 480000000
+  - Does this action contribute to your jurisdiction’s energy access and/o: Yes
+  - Select the related energy access and/or poverty indicator(s) for this : Percentage of households within the municipality with access to clean cooking fuels and technologies (increase)
+  - Select the related energy access and/or poverty indicator(s) for this : Average duration of available electricity (increase)
+  - Select the related energy access and/or poverty indicator(s) for this : Percentage of households or population within the city boundary that spending up to X% of income on energy service (increase)
+  - Select the related energy access and/or poverty indicator(s) for this : Percentage of municipality population or households with access to electricity (decrease)
+
+[8.1 fila 2] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Government policies and programs actions
+  - Action (selections mandatory)^: Disease prevention measures
+  - Climate hazard(s) that action addresses^: Other, please specify: Flood risk
+  - Action description and web link to further information^: The development objective of the Can Tho Urban Development and Resilience Project for Vietnam is to reduce flood risk in the urban core area, improve connectivity between the city center and the new low-risk urban growth areas, and enhance the capacity of city authorities to manage disaster risk in Can Tho city. The project comprises three components. The first component - the flood risk management and environmental sanitation, is to reduce flood-related risks in the urban core of Can Tho. This component consists of a balance between structural and non-structural measures to help the city manage urban flood risk. It consists of three sub-components: (i) priority flood control investments in the urban core; (ii) drainage and wastewater systems; and (iii) operation of the city integrated flood risk management system and early warning system. The second component - the urban corridor develo
+  - Sectors adaptation action applies to^: Accommodation and food service activities
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Sectors adaptation action applies to^: Water supply
+  - Sectors adaptation action applies to^: Conservation
+  - Sectors adaptation action applies to^: Agriculture
+  - Sectors adaptation action applies to^: Sewerage, wastewater management and remediation activities
+  - Sectors adaptation action applies to^: Electricity, gas, steam and air conditioning supply
+  - Sectors adaptation action applies to^: Construction
+  - Sectors adaptation action applies to^: Transportation and storage
+  - Sectors adaptation action applies to^: Manufacturing
+  - Co-benefits realized^: Improved physical health
+  - Co-benefits realized^: Increased social inclusion, equality and justice
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Co-benefits realized^: Increased access to energy
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Co-benefits realized^: Protected/improved biodiversity and ecosystem services
+  - Co-benefits realized^: Fewer or no households and businesses forced from homes/places of work
+  - Co-benefits realized^: Increased food security
+  - Co-benefits realized^: Reduced disruption of energy, transport, water or communications networks
+  - Co-benefits realized^: Job creation
+  - Co-benefits realized^: Increased water security
+  - Co-benefits realized^: Improved road safety
+  - Co-benefits realized^: Reduced natural resource depletion
+  - Co-benefits realized^: Revenue generation
+  - Co-benefits realized^: Increased security/protection for poor/vulnerable populations
+  - Co-benefits realized^: Improved mobility and access
+  - Co-benefits realized^: Reduced congestion
+  - Co-benefits realized^: Reduced health costs
+  - Co-benefits realized^: Improved water/soil quality
+  - Co-benefits realized^: Increased/improved green space
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 70-80%
+  - Proportion of natural systems with increased resilience due to adaptat: I do not have this data
+  - Funding source(s): National funds and programmes
+  - Funding source(s): Public-private partnerships
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): Private partnerships (e.g., a combination of private investments)
+  - Funding source(s): International (including ODA)
+  - Funding source(s): Regional funds and programmes
+  - Status of action in the reporting year^: Implementation underway with completion expected in more than one year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 343980846.7
+  - Does this action contribute to your jurisdiction’s energy access and/o: Yes
+  - Select the related energy access and/or poverty indicator(s) for this : Percentage of municipality population or households with access to electricity (decrease)
+  - Select the related energy access and/or poverty indicator(s) for this : Average duration of available electricity (increase)
+  - Select the related energy access and/or poverty indicator(s) for this : Percentage of households or population within the city boundary that spending up to X% of income on energy service (increase)
+  - Select the related energy access and/or poverty indicator(s) for this : Percentage of households within the municipality with access to clean cooking fuels and technologies (increase)
+
+[8.1 fila 3] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Other, please specify: Sustainable Agriculture and Rural Development
+  - Action (selections mandatory)^_G: Government policies and programs actions
+  - Climate hazard(s) that action addresses^: Increased water demand
+  - Climate hazard(s) that action addresses^: Drought
+  - Climate hazard(s) that action addresses^: Water stress
+  - Action description and web link to further information^: Sustainable Agriculture and Rural Development: Can Tho City recognizes the importance of climate-resilient agriculture and rural development. Efforts are being made to promote sustainable farming practices, such as crop diversification, organic farming, and water-efficient irrigation techniques. These actions help build resilience in the agricultural sector and ensure food security in the face of climate change impacts.
+  - Sectors adaptation action applies to^: Waste management
+  - Sectors adaptation action applies to^: Agriculture
+  - Sectors adaptation action applies to^: Water supply
+  - Sectors adaptation action applies to^: Accommodation and food service activities
+  - Sectors adaptation action applies to^: Forestry
+  - Sectors adaptation action applies to^: Electricity, gas, steam and air conditioning supply
+  - Sectors adaptation action applies to^: Financial and insurance activities
+  - Sectors adaptation action applies to^: Sewerage, wastewater management and remediation activities
+  - Sectors adaptation action applies to^: Transportation and storage
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Co-benefits realized^: Improved mobility and access
+  - Co-benefits realized^: Increased security/protection for poor/vulnerable populations
+  - Co-benefits realized^: Undertaken in collaboration with Indigenous peoples
+  - Co-benefits realized^: Reduced disruption of energy, transport, water or communications networks
+  - Co-benefits realized^: Reduced fuel/energy poverty
+  - Co-benefits realized^: Increased food security
+  - Co-benefits realized^: Improved road safety
+  - Co-benefits realized^: Job creation
+  - Co-benefits realized^: Improved water/soil quality
+  - Co-benefits realized^: Reduced congestion
+  - Co-benefits realized^: Revenue generation
+  - Co-benefits realized^: Increased water security
+  - Co-benefits realized^: Reduced costs
+  - Co-benefits realized^: Reduced natural resource depletion
+  - Co-benefits realized^: Increased transparency and accountability
+  - Co-benefits realized^: Increased social inclusion, equality and justice
+  - Co-benefits realized^: Improved labor conditions
+  - Co-benefits realized^: Increased economic production
+  - Co-benefits realized^: Increased labor productivity
+  - Co-benefits realized^: Increased access to energy
+  - Co-benefits realized^: Fewer or no households and businesses forced from homes/places of work
+  - Co-benefits realized^: Increased energy security
+  - Co-benefits realized^: Improved waste management
+  - Timeframe for which increased resilience is expected to last: Long-term (after 2050)
+  - Proportion of the total jurisdiction population with increased resilie: 30-40%
+  - Proportion of natural systems with increased resilience due to adaptat: I do not have this data
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): Regional funds and programmes
+  - Funding source(s): National funds and programmes
+  - Funding source(s): International (including ODA)
+  - Funding source(s): Private partnerships (e.g., a combination of private investments)
+  - Funding source(s): Public-private partnerships
+  - Status of action in the reporting year^: Implementation underway with completion expected in more than one year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 21500320
+  - Does this action contribute to your jurisdiction’s energy access and/o: Yes
+  - Select the related energy access and/or poverty indicator(s) for this : Energy consumption from renewable energy sources (increase)
+  - Select the related energy access and/or poverty indicator(s) for this : Average duration of available electricity (increase)
+  - Select the related energy access and/or poverty indicator(s) for this : Percentage of households or population within the city boundary that spending up to X% of income on energy service (increase)
+  - Select the related energy access and/or poverty indicator(s) for this : Percentage of municipality population or households with access to electricity (decrease)
+  - Select the related energy access and/or poverty indicator(s) for this : Percentage of households within the municipality with access to clean cooking fuels and technologies (increase)
+
+[8.1 fila 4] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Other, please specify: Water resource management
+  - Action (selections mandatory)^_G: Government policies and programs actions
+  - Climate hazard(s) that action addresses^: Increased water demand
+  - Climate hazard(s) that action addresses^: Drought
+  - Climate hazard(s) that action addresses^: Water stress
+  - Action description and web link to further information^: Water Resource Management: Can Tho City is implementing measures to improve water resource management. This includes the development of water storage and reservoir systems, water conservation campaigns, and the promotion of efficient water use in households and industries. These actions contribute to mitigating the effects of water scarcity and droughts resulting from climate change.
+  - Sectors adaptation action applies to^: Construction
+  - Sectors adaptation action applies to^: Financial and insurance activities
+  - Sectors adaptation action applies to^: Wholesale and retail trade; repair of motor vehicles and motorcycles
+  - Sectors adaptation action applies to^: Forestry
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Sectors adaptation action applies to^: Accommodation and food service activities
+  - Sectors adaptation action applies to^: Public administration and defence; compulsory social security
+  - Sectors adaptation action applies to^: Mining and quarrying
+  - Sectors adaptation action applies to^: Agriculture
+  - Sectors adaptation action applies to^: Conservation
+  - Sectors adaptation action applies to^: Manufacturing
+  - Sectors adaptation action applies to^: Water supply
+  - Co-benefits realized^: Reduced health costs
+  - Co-benefits realized^: Increased food security
+  - Co-benefits realized^: Reduced disruption of energy, transport, water or communications networks
+  - Co-benefits realized^: Improved mental wellbeing/quality of life
+  - Co-benefits realized^: Improved water/soil quality
+  - Co-benefits realized^: Reduced natural resource depletion
+  - Co-benefits realized^: Increased water security
+  - Co-benefits realized^: Undertaken in collaboration with Indigenous peoples
+  - Co-benefits realized^: Increased labor productivity
+  - Co-benefits realized^: Protected/improved biodiversity and ecosystem services
+  - Co-benefits realized^: Revenue generation
+  - Co-benefits realized^: Reduced congestion
+  - Co-benefits realized^: Improved waste management
+  - Co-benefits realized^: Increased transparency and accountability
+  - Co-benefits realized^: Improved physical health
+  - Co-benefits realized^: Increased economic production
+  - Co-benefits realized^: Job creation
+  - Co-benefits realized^: Increased security/protection for poor/vulnerable populations
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Co-benefits realized^: Improved labor conditions
+  - Co-benefits realized^: Increased social inclusion, equality and justice
+  - Timeframe for which increased resilience is expected to last: Long-term (after 2050)
+  - Proportion of the total jurisdiction population with increased resilie: 90-100%
+  - Proportion of natural systems with increased resilience due to adaptat: I do not have this data
+  - Funding source(s): Regional funds and programmes
+  - Funding source(s): International (including ODA)
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): Public-private partnerships
+  - Funding source(s): National funds and programmes
+  - Status of action in the reporting year^: Implementation underway with completion expected in more than one year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 17894500
+  - Does this action contribute to your jurisdiction’s energy access and/o: Do not know
+
+[8.1 fila 5] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Educational/Informational actions
+  - Action (selections mandatory)^: Early warning and response systems
+  - Climate hazard(s) that action addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazard(s) that action addresses^: Drought
+  - Climate hazard(s) that action addresses^: Extreme wind
+  - Climate hazard(s) that action addresses^: Mass movement
+  - Action description and web link to further information^: Can Tho City is strengthening its disaster risk reduction efforts by implementing early warning systems and enhancing emergency response capabilities. This involves the establishment of monitoring networks, dissemination of weather and flood warnings, and the development of evacuation plans. These actions aim to reduce the impact of extreme weather events, such as storms and floods, on the city and its residents.
+  - Sectors adaptation action applies to^: Conservation
+  - Sectors adaptation action applies to^: Forestry
+  - Sectors adaptation action applies to^: Agriculture
+  - Sectors adaptation action applies to^: Accommodation and food service activities
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Co-benefits realized^: Improved preparedness for health service delivery
+  - Co-benefits realized^: Improved physical health
+  - Co-benefits realized^: Improved mental wellbeing/quality of life
+  - Co-benefits realized^: Revenue generation
+  - Co-benefits realized^: Undertaken in collaboration with Indigenous peoples
+  - Co-benefits realized^: Increased access to energy
+  - Co-benefits realized^: Reduced fuel/energy poverty
+  - Co-benefits realized^: Improved waste management
+  - Co-benefits realized^: Improved mobility and access
+  - Co-benefits realized^: Reduced health impacts from extreme heat or cold weather
+  - Co-benefits realized^: Improved water/soil quality
+  - Co-benefits realized^: Fewer or no households and businesses forced from homes/places of work
+  - Co-benefits realized^: Reduced health costs
+  - Co-benefits realized^: Business/technological innovation
+  - Co-benefits realized^: Job creation
+  - Co-benefits realized^: Increased security/protection for poor/vulnerable populations
+  - Co-benefits realized^: Increased water security
+  - Co-benefits realized^: Increased food security
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Co-benefits realized^: Improved road safety
+  - Co-benefits realized^: Increased social inclusion, equality and justice
+  - Timeframe for which increased resilience is expected to last: Long-term (after 2050)
+  - Proportion of the total jurisdiction population with increased resilie: 90-100%
+  - Proportion of natural systems with increased resilience due to adaptat: I do not have this data
+  - Funding source(s): National funds and programmes
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): International (including ODA)
+  - Funding source(s): Public-private partnerships
+  - Funding source(s): Regional funds and programmes
+  - Status of action in the reporting year^: Implementation underway with completion expected in more than one year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 2340500
+  - Does this action contribute to your jurisdiction’s energy access and/o: Do not know
+
+[8.1 fila 6] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Educational/Informational actions
+  - Action (selections mandatory)^: Community engagement/education
+  - Climate hazard(s) that action addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazard(s) that action addresses^: Mass movement
+  - Climate hazard(s) that action addresses^: Drought
+  - Climate hazard(s) that action addresses^: Water stress
+  - Climate hazard(s) that action addresses^: Extreme wind
+  - Climate hazard(s) that action addresses^: Increased water demand
+  - Action description and web link to further information^: - Strengthening communication and dissemination of legal guidelines, fostering societal unity in awareness and actions for disaster prevention, response to climate change, and the management of natural resources and environmental protection.- Enhancing outreach and education to raise awareness among students about climate change adaptation, disaster prevention, biodiversity conservation, resource efficiency, and environmental protection. Encouraging the development of scientific research activities on energy conservation and environmental preservation.Web link to further information:  http://biendoikhihau.cantho.gov.vn/ke-hoach-hanh-dong-ung-pho-bien-doi-khi-hau-giai-doan-2021-2030-tam-nhin-den-nam-2050-tren-dia-ban-thanh-pho-can-thoRegenerate response
+  - Sectors adaptation action applies to^: Wholesale and retail trade; repair of motor vehicles and motorcycles
+  - Sectors adaptation action applies to^: Waste management
+  - Sectors adaptation action applies to^: Manufacturing
+  - Sectors adaptation action applies to^: Forestry
+  - Sectors adaptation action applies to^: Conservation
+  - Sectors adaptation action applies to^: Construction
+  - Sectors adaptation action applies to^: Arts, entertainment and recreation
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Sectors adaptation action applies to^: Public administration and defence; compulsory social security
+  - Sectors adaptation action applies to^: Information and communication
+  - Sectors adaptation action applies to^: Electricity, gas, steam and air conditioning supply
+  - Sectors adaptation action applies to^: Agriculture
+  - Sectors adaptation action applies to^: Education
+  - Sectors adaptation action applies to^: Transportation and storage
+  - Sectors adaptation action applies to^: Administrative and support service activities
+  - Sectors adaptation action applies to^: Fishing
+  - Sectors adaptation action applies to^: Accommodation and food service activities
+  - Sectors adaptation action applies to^: Professional, scientific and technical activities
+  - Sectors adaptation action applies to^: Water supply
+  - Sectors adaptation action applies to^: Sewerage, wastewater management and remediation activities
+  - Sectors adaptation action applies to^: Mining and quarrying
+  - Co-benefits realized^: Job creation
+  - Co-benefits realized^: Revenue generation
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 70-80%
+  - Proportion of natural systems with increased resilience due to adaptat: I do not have this data
+  - Funding source(s): Private partnerships (e.g., a combination of private investments)
+  - Funding source(s): National funds and programmes
+  - Funding source(s): Public-private partnerships
+  - Funding source(s): Regional funds and programmes
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): International (including ODA)
+  - Status of action in the reporting year^: Implementation underway with completion expected in more than one year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 170000
+  - Does this action contribute to your jurisdiction’s energy access and/o: Do not know
+
+[10.1 fila 0] Use this field to provide any additional information or context that you feel is relevant to your jurisdiction's respons
+  - nan: The People's Committee of Can Tho City has just issued Plan No. 04/KH-UBND, on January 11, 2022, regarding the implementation of the project "Development of Vietnamese cities to respond to climate change in the period of 2021- 2030 in Can Tho city". To implement the Plan, the city proposes 7 tasks and solutions, including raising awareness and a sense of responsibility, and the capacity of leaders at all levels to proactively respond to climate change in urban development. and environmental protection; actively coordinate with central ministries and branches in investigating and assessing the impact of climate change on the development of the urban system in the city. At the same time, the city implements the integration of climate change response content into the Can Tho City Master Plan for the period of 2021-2030, with a vision to 2050, adjusting the general planning of Can Tho city a

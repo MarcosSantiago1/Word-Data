@@ -1,31 +1,61 @@
 id,ciudad,iso3,preguntas,con_evidencia,alta,media,sin_evidencia,cobertura_pct,puntaje_EN_con_evidencia,maximo_EN_respondidas,nivel_medio_EN,puntaje_salud_con_evidencia,nivel_medio_salud,fuentes
+alejandria,Alejandría (gobernación),EGY,141,2,0,2,139,1,4,10,2.0,0,,2
+antalya,Antalya,TUR,141,9,7,2,132,6,24,40,3.0,3,3.0,5
 bagdad,Bagdad,IRQ,141,2,1,1,139,1,1,5,1.0,1,1.0,3
+bamako,Bamako,MLI,141,2,1,1,139,1,5,10,2.5,0,,1
 bandung,Bandung,IDN,141,7,1,6,134,5,20,35,2.86,0,,9
 bekasi,Bekasi,IDN,141,12,10,2,129,9,22,55,2.0,2,2.0,10
 bombay,Bombay,IND,141,29,26,3,112,21,78,130,3.0,7,2.33,19
 brazzaville,Brazzaville,COG,141,3,3,0,138,2,4,15,1.33,0,,6
 calcuta,Calcuta,IND,141,16,14,2,125,11,30,75,2.0,2,2.0,14
+can_tho,Cần Thơ,VNM,141,8,8,0,133,6,21,35,3.0,3,3.0,3
+chaozhou,Chaozhou,CHN,141,3,1,2,138,2,11,15,3.67,0,,4
+chennai,Chennai,IND,141,12,9,3,129,9,34,55,3.09,2,2.0,10
 chittagong,Chittagong,BGD,141,13,12,1,128,9,28,65,2.15,0,,18
+conakri,Conakri,GIN,141,1,0,1,140,1,2,5,2.0,0,,2
+da_nang,Da Nang,VNM,141,4,3,1,137,3,13,20,3.25,0,,5
 damasco,Damasco,SYR,141,2,2,0,139,1,3,10,1.5,0,,3
 dar_es_salaam,Dar es Salaam,TZA,141,9,8,1,132,6,19,40,2.38,2,2.0,6
+delhi,Delhi (Corporación Municipal),IND,141,14,10,4,127,10,30,60,2.5,6,3.0,10
 depok,Depok,IDN,141,5,1,4,136,4,11,25,2.2,0,,6
 dhaka_norte,Daca Norte,BGD,141,15,14,1,126,11,26,70,1.86,2,2.0,21
 dhaka_sur,Daca Sur,BGD,141,15,13,2,126,11,26,70,1.86,2,2.0,21
+dongguan,Dongguan,CHN,141,3,1,2,138,2,11,15,3.67,0,,4
+duala,Duala,CMR,141,3,3,0,138,2,1,15,0.33,0,,1
+faisalabad,Faisalabad,PAK,141,12,6,6,129,9,28,55,2.55,3,3.0,16
 gazipur,Gazipur,BGD,141,7,4,3,134,5,15,35,2.14,0,,15
+giza,Guiza (ciudad),EGY,141,1,0,1,140,1,3,5,3.0,0,,1
+gujranwala,Gujranwala,PAK,141,13,6,7,128,9,29,60,2.42,3,3.0,17
 hai_phong,Hai Phong,VNM,141,8,4,4,133,6,22,40,2.75,0,,10
+hanoi,Hanói,VNM,141,6,5,1,135,4,11,25,2.2,3,3.0,4
 islamabad,Islamabad (Territorio Capital),PAK,141,13,6,7,128,9,29,65,2.23,0,,16
 jartum,Jartum,SDN,141,4,4,0,137,3,0,15,0.0,1,1.0,3
+jiangmen,Jiangmen,CHN,141,3,1,2,138,2,11,15,3.67,0,,3
+jieyang,Jieyang,CHN,141,3,1,2,138,2,11,15,3.67,0,,3
 kabul,Kabul,AFG,141,2,0,2,139,1,3,10,1.5,0,,3
+kaohsiung,Kaohsiung,TWN,141,12,9,3,129,9,36,55,3.27,3,3.0,10
 karachi,Karachi,PAK,141,52,23,29,89,37,74,220,1.68,18,2.25,44
 kinsasa,Kinsasa,COD,141,8,8,0,133,6,11,35,1.57,2,2.0,4
 lahore,Lahore,PAK,141,30,18,12,111,21,61,125,2.44,14,2.8,27
+lome,Lomé (Gran Lomé),TGO,141,2,0,2,139,1,4,10,2.0,0,,3
+lucknow,Lucknow,IND,141,6,3,3,135,4,14,25,2.8,2,2.0,7
 mbuji_mayi,Mbuji-Mayi,COD,141,3,3,0,138,2,3,15,1.0,0,,4
+medan,Medán,IDN,141,7,5,2,134,5,18,30,3.0,3,3.0,6
+mogadiscio,Mogadiscio,SOM,141,2,0,2,139,1,5,10,2.5,0,,2
 mosul,Mosul,IRQ,141,3,0,3,138,2,7,15,2.33,0,,5
 multan,Multán,PAK,141,16,9,7,125,11,35,70,2.5,5,2.5,22
+nuevo_taipei,Nuevo Taipéi,TWN,141,10,7,3,131,7,30,45,3.33,3,3.0,6
 omdurman,Omdurmán,SDN,141,4,4,0,137,3,0,15,0.0,1,1.0,3
+phnom_penh,Nom Pen,KHM,141,1,0,1,140,1,3,5,3.0,0,,2
+pune,Pune,IND,141,7,3,4,134,5,19,35,2.71,0,,9
 pyongyang,Pionyang,PRK,141,2,0,2,139,1,6,10,3.0,0,,3
 quezon,Quezón,PHL,141,31,25,6,110,22,99,150,3.3,3,3.0,14
 rangun,Rangún,MMR,141,2,1,1,139,1,5,10,2.5,0,,4
 rawalpindi,Rawalpindi,PAK,141,19,11,8,122,13,42,90,2.33,3,3.0,24
+sana,Saná,YEM,141,1,0,1,140,1,1,5,1.0,0,,2
+shantou,Shantou,CHN,141,3,1,2,138,2,11,15,3.67,0,,4
 surabaya,Surabaya,IDN,141,19,13,6,122,13,49,90,2.72,2,2.0,12
+surat,Surat,IND,141,14,8,6,127,10,33,55,3.0,9,3.0,9
+taoyuan,Taoyuan,TWN,141,9,7,2,132,6,27,40,3.38,3,3.0,6
 zhangzhou,Zhangzhou,CHN,141,3,1,2,138,2,11,15,3.67,0,,5
+zhongshan,Zhongshan,CHN,141,2,0,2,139,1,7,10,3.5,0,,2

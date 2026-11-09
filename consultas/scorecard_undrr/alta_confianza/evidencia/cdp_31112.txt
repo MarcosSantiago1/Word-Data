@@ -1,0 +1,588 @@
+# CDP Cities 2023 - Kaohsiung City Government (org 31112) https://www.cdp.net/en/responses/31112
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: City/Municipality
+  - Next highest level of government: National
+  - Next lowest level of government: Sub-municipal district
+  - Land area of the jurisdiction boundary (in square km)^: 2947.62
+  - Percentage range of land area that is green space: 51-60%
+  - Current (or most recent) population size^: 2744691
+  - Population year^: 2021
+  - Projected population size: 2711242
+  - Projected population year: 2030
+  - Select the currency used for all financial information reported throug: TWD New Taiwan Dollar
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Council (or equivalent) is informed by relevant departments, committees and/or subcommittees about climate-related issues
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related responsibilities are assigned to a committee(s) or a subcommittee(s) in the government
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking plans and/or strategies
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related responsibilities are assigned to management-level positions in the government
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking budgeting and/or major capital expenditures
+  - Provide further details on your jurisdiction's oversight of climate-re: In 2021, the net greenhouse gas emissions in Kaohsiung City were 57.37 million metric tons. The emissions breakdown by sector reveals that the industrial sector accounted for 83%, the residential and commercial sector accounted for 9.1%, the transportation sector accounted for 7%, the environmental and agricultural sector accounted for 0.8%, and the carbon sink sector accounted for -2%. Via the SBTi methodology, the city's carbon reduction target for 2030 is expected to be  30% compared to the baseline year.The Kaohsiung City government has established the "Kaohsiung City Sustainable Development and Climate Change Adjustment Commission" to oversee 164 sustainable development indicators and set the "Zero-Emission Office" and the "Green Energy Promotion Task Force" under the Environmental Protection Bureau. These entities have developed the "Second Phase (2021-2025) Greenhouse Gas Reductio
+  - Describe how climate-related issues have impacted your jurisdiction's : Within Kaohsiung City, there are three Taiwan Power Company(Taipower) thermal power plants: Hsinta, Dalin, and Nanpu. These plants have a total installed capacity of 6,878 MW. In addition, Kaohsiung City, as an industrial city, has 17 cogeneration plants and 35 boilers, primarily fueled with coal and natural gas, with a total installed capacity of 1,275 MW. It plays a vital role in Taiwan's energy supply. To reduce GHG emissions from energy generation, efforts are made to gradually increase the proportion of natural gas in power generation. Furthermore, the evaluation and gradual adoption of low-carbon fuels such as hydrogen and solid recovered fuel (SRF) are being considered. To accelerate the energy transition, Kaohsiung City established the "Green Energy Promotion Task Force" at the municipal level in 2020. Vice Mayor Charles Lin has served as the convener, with the support of the Eco
+  - Describe how climate-related issues have impacted your jurisdiction's : In 2022, Kaohsiung City proposed its 2050 net-zero emissions target and strategies. Various actions have been taken to achieve net-zero transformation. The "Second Phase (2021-2025) Greenhouse Gas Reduction Implementation Plan" was approved by the central government in 2023, encompassing 58 reduction strategies with a total budget of approximately 3,294.87 million NTD.As an example, the Kaohsiung City Environmental Protection Bureau has established the "Net-Zero Emissions Office." It tracks and reviews issues related to sustainable development, mitigation and adaptation, and climate risk assessment on an annual basis. The budget for this program is approximately 26.3 million NTD.
+  - Describe the risks to your jurisdiction related to the transition to a: The industrial sector is the main source of emissions in Kaohsiung City, and achieving the net-zero emissions target by 2050 poses challenges given the existing industrial technologies. Continuous support is needed to assist businesses in developing and implementing short, medium, and long-term emission reduction plans, as well as promoting low-carbon and zero-carbon innovation.The majority of businesses in the city are small and medium-sized traditional industries, which face challenges due to international supply chain decarbonization requirements, the Carbon Border Adjustment Mechanism (CBAM), and domestic carbon costs.Investing in innovative technologies requires substantial manpower and funding. Therefore, self-investment in technology development is challenging. Local governments rely on funding support and, through the "Kaohsiung Net-Zero City Self-Governance Regulations," (tempor
+
+[0.4 fila 1] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate risk and vulnerability assessment
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Level of governments engaged in the development, implementation and/or: Indigenous peoples with overlapping or neighboring territory
+  - Level of governments engaged in the development, implementation and/or: Lower level of government
+  - Outline the purpose of this engagement: The development of this component is required by the national government (e.g., by law, regulation and/or agreement)
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the Nationally Determined Contribution (NDC)
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the National Adaptation Plan (NAP)
+  - Comment: According to Taiwan's "Climate Change Response Act"(as in the attachment), our country's goal of achieving net-zero greenhouse gas emissions by 2050 (zero-carbon) has been included. The act also includes a new chapter on adaptation, which encourages the participation of more civil society organizations in discussions and actions to improve the human rights and adaptive capacity of vulnerable groups affected by climate change impacts.Aligning with this, Kaohsiung City is revising the Kaohsiung Net Zero City Self-Governance Regulations (temporary translation) to align with the central government's policy. The revised regulations, consisting of 23 articles, aim to strengthen government governance for net-zero initiatives, provide guidance and support for carbon reduction in industries through the Kaohsiung Carbon Platform and Business Transformation Platform, encourage carbon credit develop
+
+[0.5 fila 1] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Business
+  - Primary entity collaborated with (selection mandatory): Industrials
+  - Mechanisms used to collaborate: Technical assistance
+  - Mechanisms used to collaborate: Multi-jurisdictional regional collaboratives
+  - Mechanisms used to collaborate: City business partnership platform
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Cleaner production industry support
+  - Mechanisms used to collaborate: Requirement to develop emissions inventory
+  - Mechanisms used to collaborate: Requirement to develop and implement emissions reduction target
+  - Mechanisms used to collaborate: Circular economy business model support
+  - Mechanisms used to collaborate: Climate action plan implementation
+  - Mechanisms used to collaborate: Reporting to the national Measurement, Reporting and Verification (MRV) system
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Reporting of climate and/or environmental data
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Mechanisms used to collaborate: Convening industry groups
+  - Areas collaboration focused on: Emissions reduction
+  - Areas collaboration focused on: Energy
+  - Description of collaboration: To accelerate carbon reduction efforts and respond to the global trend, Kaohsiung City has established the "Net-Zero Industry Alliance." The alliance focuses on five major industries: steel, petrochemicals, electronics, energy, and circular economy. It includes companies that account for 70% of the industrial emissions in Kaohsiung.The tasks of the industry alliance include:1. Establish short, medium, and long-term goals based on the emission status and net-zero pathway planning for each team member.2. Provide annual reports on reduction plans and funding.3. Monitor the implementation progress through annual reporting of greenhouse gas emissions.4. Organize carbon reduction knowledge and technology sharing meetings annually, such as conducting workshops on "Product Carbon Footprint" with a focus on the petrochemical industry. Invite experts from the industry and research institutes to en
+  - Other entities collaborated with: Local government within country/area
+  - Other entities collaborated with: Industrials
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: Yes, a climate risk and vulnerability assessment has been undertaken
+
+[1.1a fila 1] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: 2022 Kaohsiung City Voluntary Local Review
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2022
+  - Factors considered in assessment: A process has been established to update the assessment at least every five years
+  - Factors considered in assessment: Assessment includes a high-emissions scenario (i.e., RCP 8.5)
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: Assessment considers transition risks
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: Assessment includes consultation with partners
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Assessment includes sectors and/or urban systems
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Primary author(s) of assessment^: Consultant
+  - Please explain: In response to the international trend, in 2022, we are taking sustainable net zero as the theme, and incorporate the four transformation strategies: energy, industry, life, and society of the “General Statement of Taiwan’s 2050 Net Zero Emission Path and Strategies” to echo the net zero strategy of the City. In addition, SDGs policies and indicators are reviewed as guidelines for the City to move towards net zero and becoming an international sustainable city.Furthermore, the "2023 Kaohsiung City Climate Risk Assessment and Sustainable Development Promotion Plan" is currently underway with a climate risk and vulnerability assessment report is expected to be produced later this year.
+
+[1.1a fila 2] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: Mitigation and Adaptation Strategies & Actions in Kaohsiung ( https://reurl.cc/V8k84Q )
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached and can be accessed (unrestricted) on the link provided
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2021
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: Assessment includes a high-emissions scenario (i.e., RCP 8.5)
+  - Factors considered in assessment: Assessment considers transition risks
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: A process has been established to update the assessment at least every five years
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Primary author(s) of assessment^: Consultant
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Please explain: In response to climate change, the Climate Change White Paper addresses the current status and goals of greenhouse gas emissions, as well as the industry, environment, and current situation. It outlines greenhouse gas reduction plans for each sector, climate change dedicated organizations, adaptation actions, international cooperation, and other achievements.
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Heavy precipitation
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Manufacturing
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Construction
+  - Sectors most exposed^: Administrative and support service activities
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Public administration and defence; compulsory social security
+  - Describe the impacts on vulnerable populations and sectors^: Higher extreme rainfall intensity will be the critical challenge for the current drainage system, levees and river embankments. Torrential rain which exceeds the capacity of the drainage system or protection standard of levee will increase the risk of flooding.The flood can lead to the destruction of crops, causing food prices to rise. This can disproportionately affect vulnerable groups, including those in rural areas and low-income households, as they may face challenges in balancing their food expenses.
+  - Proportion of the population exposed to the hazard: 90-100%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.2 fila 2] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Hurricanes, cyclones, and/or typhoons
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Low-income households
+  - Sectors most exposed^: Public administration and defence; compulsory social security
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Arts, entertainment and recreation
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Administrative and support service activities
+  - Sectors most exposed^: Forestry
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Manufacturing
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Construction
+  - Describe the impacts on vulnerable populations and sectors^: The increase of typhoon intensity leads to high probability of storm tides. In recent years, many typhoons hit Taiwan during the high tide period. The high tide level combined with the effect of the storm tide hindered the discharge of floods in the lower reaches of the river. Under the dual effects of river floods and seawater intrusion, a large number of floods were obstructed at the estuary, causing severe and long-term flooding disasters in the coastal region. Therefore, it may destroy the infrastructure of the city and endangered the lives and safety of the public.
+  - Proportion of the population exposed to the hazard: 90-100%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.2 fila 3] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Drought
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Forestry
+  - Sectors most exposed^: Manufacturing
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Agriculture
+  - Describe the impacts on vulnerable populations and sectors^: Drought leads to insufficient water supply for the livelihoods, agriculture, and industrial sectors in the Kaohsiung area. This not only inconveniences the residents but also reduces crop yields and manufacturing capacity, impacting the economic development of the city.Kaohsiung city needs to reduce water supply because of the drought. For example, during a drought, non-industrial users and specific venues such as swimming pools will be required to reduce their consumption by 10%, and industrial users will be required to reduce their consumption by 7%.Confronting extreme weather events and increasingly severe water conditions, the municipal government must implement various water-limiting and water-saving measures, as well as properly allocate water resources. In the mid and long-term planning, water resource preparation must focus on the future needs of people’s livelihood, industries a
+  - Proportion of the population exposed to the hazard: 60-70%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.2 fila 4] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Infectious disease
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Water supply
+  - Describe the impacts on vulnerable populations and sectors^: The rising temperature will aggravate the spread of insect-borne diseases such as Dengue Fever. Several confirmed cases of hantavirus hemorrhagic fever have also been found in Kaohsiung in recent years. High temperature may also extend the spreading period or area of these diseases.
+  - Proportion of the population exposed to the hazard: 20-30%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Infrastructure conditions / maintenance
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Enhance the adaptability of the maintenance infrastructure, strengthen the construction with advanced environmental technologies and intelligent ecosystem, create good environmental management and implement disaster prevention for the citizens, and improve Kaohsiung's livable indicators.
+
+[3.8 fila 1] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: Health outcomes
+  - Identify the climate hazard(s) that most significantly impact the sele: Extreme heat
+  - Identify the climate hazard(s) that most significantly impact the sele: Infectious disease
+  - Identify the climate hazard(s) that most significantly impact the sele: Hurricanes, cyclones, and/or typhoons
+  - Identify the climate hazard(s) that most significantly impact the sele: Heavy precipitation
+  - Identify the climate hazard(s) that most significantly impact the sele: Heat stress
+  - Identify the health issues driven by the selected climate hazard(s): Exacerbation of non-communicable disease symptoms - other
+  - Identify the health issues driven by the selected climate hazard(s): Vector-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Water-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Mental health impacts
+  - Identify the health issues driven by the selected climate hazard(s): Food-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Exacerbation of non-communicable disease symptoms - respiratory disease
+  - Identify the health issues driven by the selected climate hazard(s): Emotional and/or spiritual health impacts
+  - Identify the health issues driven by the selected climate hazard(s): Heat-related illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Exacerbation of non-communicable disease symptoms - cardiovascular disease
+  - Timeframe of impact: Short-term (by 2025)
+  - Identify which vulnerable populations are affected by the selected hea: Marginalized / minority communities
+  - Identify which vulnerable populations are affected by the selected hea: Elderly
+  - Identify which vulnerable populations are affected by the selected hea: Vulnerable health groups
+  - Identify which vulnerable populations are affected by the selected hea: Children and youth
+  - Identify which vulnerable populations are affected by the selected hea: Low-income households
+  - Identify which vulnerable populations are affected by the selected hea: Outdoor workers
+  - Identify which vulnerable populations are affected by the selected hea: Indigenous peoples
+  - Identify which vulnerable populations are affected by the selected hea: Women and girls
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of financial capacity
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of expertise/technical capacity
+  - Comment: In response to the outbreaks of dengue fever, COVID-19, and viral gastroenteritis, the health department in collaboration with the Environmental Protection Bureau, is taking action to strengthen disease prevention efforts targeting areas such as communities, parks, traditional markets and night markets.
+
+[3.8 fila 2] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: Health systems
+  - Identify the climate hazard(s) that most significantly impact the sele: Mass movement
+  - Identify the climate hazard(s) that most significantly impact the sele: Heavy precipitation
+  - Identify the climate hazard(s) that most significantly impact the sele: Infectious disease
+  - Identify the health issues driven by the selected climate hazard(s): Water-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Vector-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Direct physical injuries and deaths due to extreme weather events
+  - Identify the health issues driven by the selected climate hazard(s): Overwhelming of health service provision due to increased demand
+  - Identify the health issues driven by the selected climate hazard(s): Exacerbation of non-communicable disease symptoms - respiratory disease
+  - Timeframe of impact: Medium-term (2026-2050)
+  - Identify which vulnerable populations are affected by the selected hea: Elderly
+  - Identify which vulnerable populations are affected by the selected hea: Women and girls
+  - Identify which vulnerable populations are affected by the selected hea: Low-income households
+  - Identify which vulnerable populations are affected by the selected hea: Children and youth
+  - Identify which vulnerable populations are affected by the selected hea: Outdoor workers
+  - Identify which vulnerable populations are affected by the selected hea: Vulnerable health groups
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of financial capacity
+  - Comment: For hospitals with insufficient water storage and without water transfer plans, we provide temporary water purchase information for medical institutions to temporarily purchase water to ensure that medical services are not interrupted.
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Data availability: Data is available for the percentage of households with access to safely managed drinking water services
+  - Data availability: Data is available for the percentage of households with access to safely managed sanitation services
+  - Data availability: Data is available for the average household water consumption in litres per capita per day
+  - Percentage of households with access to safely managed drinking water : 96.6
+  - Percentage of households with access to safely managed sanitation serv: 96.6
+  - Household water consumption (litres/capita/day): 280
+  - Comment: Data are  retrieved from:https://www.wra.gov.tw/News_Content.aspx?n=2945&s=7417https://www.wra.gov.tw/News_Content.aspx?n=2945&s=7414
+
+[3.13 fila 1] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Fresh surface water, including rainwater, water from wetlands, rivers and lakes
+  - Are you able to report volumetric data for this source?: Yes
+  - Annual volume of water withdrawn per source (in megalitres) : 281000
+  - Projected level of change over next 5-10 years: Do not know
+  - Comment: Gaopingxi ground water and groundwater extraction are jointly scheduled, depending on the change of turbidity during drought and flood periods.
+
+[3.13 fila 2] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Ground water (non-renewable)
+  - Are you able to report volumetric data for this source?: Yes
+  - Annual volume of water withdrawn per source (in megalitres) : 52630
+  - Projected level of change over next 5-10 years: Do not know
+  - Comment: Gaopingxi ground water and groundwater extraction are jointly scheduled, depending on the change of turbidity during drought and flood periods.
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: Yes, our jurisdiction has an adaptation goal(s)
+
+[4.1a fila 1] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 1
+  - Adaptation goal^: In order to conserve the terrestrial ecosystems, it is estimated that the percentage of urban tree canopy cover would reach 58% by 2030.
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Loss of green space/green cover
+  - Base year of goal (or year goal was established if no base year)^: 2020
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: percentage of urban tree canopy cover
+  - Comment: By 2025, the percentage of urban canopy cover would reach 58% This adaption goal is assessed every five years.Environmental Protection plan web links: https://reurl.cc/b20dEX
+
+[4.1a fila 2] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 2
+  - Adaptation goal^: In order to increase the water storage capacity and improve the flood control capacity, it is estimated that the detention volume would reach 4.38.8 million tons by 2030.
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Base year of goal (or year goal was established if no base year)^: 2020
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: The detention volume of Kaohsiung City
+  - Comment: By 2025, the detention volume would reach 419 million tons.This adaption goal is assessed every five years.Environmental Protection plan web links: https://reurl.cc/b20dEX
+
+[4.1a fila 3] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 3
+  - Adaptation goal^: Develop green energy, the cumulative capacity of solar photovoltaic facilities is expected to reach 4GW by 2050
+  - Climate hazards that goal addresses^: Extreme heat
+  - Base year of goal (or year goal was established if no base year)^: 2020
+  - Target year of goal^: 2050
+  - Description of metric / indicator used to track goal^: Establish solar PV facilities
+  - Comment: "Kaohsiung Green Energy Promotion Task Force" aims to achieve 1.25 GW within a six-year period from 2021 to 2026. Currently, an annual budget of 15 million is allocated for subsidies to support the installation of solar photovoltaic systems in private buildings.  Our long-term goal is to strive towards a cumulative solar photovoltaic capacity of 2 GW by 2030, 3 GW by 2040, and reaching 4 GW by 2050.This goal has been documented in the 2022 Voluntary Review Report.
+
+[4.1a fila 4] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 4
+  - Adaptation goal^: Strengthen the disaster prevention and rescue capabilities of Kaohsiung City, it is expected to establish 9 autonomous communities for disaster prevention (mud-rock flow / landslide) by 2030.
+  - Climate hazards that goal addresses^: River flooding
+  - Climate hazards that goal addresses^: Urban flooding
+  - Base year of goal (or year goal was established if no base year)^: 2020
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Number of autonomous communities established for disaster prevention (mud-rock flow / landslide)
+  - Comment: By 2025, it is expected to establish 8 autonomous communities for disaster prevention.  This adaption goal is assessed every five years.Environmental Protection plan web links: https://reurl.cc/b20dEX
+
+[4.1a fila 5] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 5
+  - Adaptation goal^: Monitor the dengue fever epidemic and continue to investigate the mosquito density survey - Brinell index above the third level. It is expected to maintain <12% until 2024.
+  - Climate hazards that goal addresses^: Infectious disease
+  - Base year of goal (or year goal was established if no base year)^: 2016
+  - Target year of goal^: 2024
+  - Description of metric / indicator used to track goal^: Investigate the mosquito density survey. The Brinell index is above the third level (including the third level) for the dengue red light warning zone.
+
+[4.1a fila 6] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 6
+  - Adaptation goal^: Enhancing air quality, improving  Air Quality Indicators (AQI)  ≦ 100 rate to 94% by 2030
+  - Climate hazards that goal addresses^: Other, please specify: Air Pollution
+  - Base year of goal (or year goal was established if no base year)^: 2020
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: AQI ≦ 100 rate
+  - Comment: By 2025, AQI ≦ 100 rate is expected to reach 93%. This adaption goal is assessed every five years.Environmental Protection plan web links: https://reurl.cc/b20dEX
+
+[4.1a fila 7] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 11
+  - Adaptation goal^: Protecting coastal environment, and maintaining water-quality qualification rate at 100%
+  - Climate hazards that goal addresses^: Other coastal events
+  - Base year of goal (or year goal was established if no base year)^: 2020
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Marine environment water quality qualification rate(%)=( total times of major water quality indicators compiling with marine environmental quality standards÷ total times of 7  effective water quality monitoring indicators) ×100%
+  - Comment: This adaption goal is assessed every five years.Environmental Protection plan web links: https://reurl.cc/b20dEX
+
+[4.1a fila 8] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 7
+  - Adaptation goal^: Stabilizing water supply, increasing recycled rate of used water
+  - Climate hazards that goal addresses^: Increased water demand
+  - Base year of goal (or year goal was established if no base year)^: 2020
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: The sum of the amount of discharged water from the public sewage treatment plant + the amount of recycled water produced by the water resources center.
+  - Comment: This adaption goal is assessed every five years.Environmental Protection plan web links: https://reurl.cc/b20dEX
+
+[4.1a fila 9] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 8
+  - Adaptation goal^: Major wetland coverage is expected to maintain at 583.51 hectares
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Base year of goal (or year goal was established if no base year)^: 2020
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Total amount of international-level, national-level, local-level major wetland, according to wetland preservation law.
+  - Comment: This adaption goal is assessed every five years.Environmental Protection plan web links: https://reurl.cc/b20dEX
+
+[4.1a fila 10] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 9
+  - Adaptation goal^: Education training for landslide-prevention is expected to  be held 150 times
+  - Climate hazards that goal addresses^: River flooding
+  - Base year of goal (or year goal was established if no base year)^: 2020
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: The times that education training is held
+  - Comment: In the Kaohsiung jurisdiction, there are 111 potential debris flow torrents, distributed across 13 districts and 41 villages. To enhance slope land’s landslide-prevention capability, the landslide-prevention education training is conducted every year.This adaption goal is assessed every five years.Environmental Protection plan web links: https://reurl.cc/b20dEX
+
+[4.1a fila 11] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 10
+  - Adaptation goal^: Real time flooding simulation capture rate reaches 80%
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Base year of goal (or year goal was established if no base year)^: 2020
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: For each torrential rain, flood capture rate reachs 80%
+  - Comment: This adaption goal is assessed every five years.Environmental Protection plan web links: https://reurl.cc/b20dEX
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: Yes, our jurisdiction has a climate action plan or strategy
+
+[7.1a fila 1] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Integrated climate plan (addressing mitigation, adaptation and energy-related issues)
+  - Attachment/link and name of plan^: Second Phase of Greenhouse Gas Regulatory Implementation Plan
+  - Confirm attachment/link provided to plan (selection mandatory): The plan has been attached
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Evaluation: Evaluation of plan takes place at least every 5 years
+  - Processes for monitoring evaluation and updates of plan^: Monitoring:  Information on progress of plan is monitored and publicly reported at least every 5 years
+  - Processes for monitoring evaluation and updates of plan^: Other, please specify: The frequency of updates is based on the regulations and requirements of the central government.
+  - Funding sources and financial instruments to finance plan: Public-private partnerships
+  - Funding sources and financial instruments to finance plan: Jurisdiction's own resources
+  - Communities and organizations engaged^: Local government (s) and/or agencies
+  - Communities and organizations engaged^: National government and/or agencies
+  - Communities and organizations engaged^: Business and private sector
+  - Communities and organizations engaged^: Citizens
+  - Communities and organizations engaged^: Vulnerable population groups
+  - Describe if and how climate-related scenarios have informed the plan: The Government has set the “Second Phase of Greenhouse Gas Regulatory Implementation Plan” focusing on regulating adaption and mitigation measures in six sectors with 58 indicators, including Energy, Industry, Residential and Commercial, Transport, Agriculture and Environment.
+  - Primary author(s) of plan^: Consultant
+  - Primary author(s) of plan^: Relevant department within jurisdiction
+  - Primary author(s) of plan^: Dedicated team within jurisdiction
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses co-benefits of actions
+  - Year of formal approval of plan^: 2022
+  - End year of plan: 2026
+  - Total cost of implementation of plan (in currency specified in 0.1): 33088090000
+  - Sectors covered by action plan: Forestry
+  - Sectors covered by action plan: Manufacturing
+  - Sectors covered by action plan: Electricity, gas, steam and air conditioning supply
+  - Sectors covered by action plan: Agriculture
+  - Sectors covered by action plan: Sewerage, wastewater management and remediation activities
+  - Sectors covered by action plan: Waste management
+  - Sectors covered by action plan: Human health and social work activities
+  - Sectors covered by action plan: Transportation and storage
+  - Sectors covered by action plan: Education
+  - Sectors covered by action plan: Accommodation and food service activities
+  - Please explain: Kaohsiung city’s "Second Phase of Greenhouse Gas Regulatory Implementation Plan" consists of energy, industry, residential and commercial, transport, agriculture and environment, planning for total reduction in 2025. The carbon deduction is expected to be approximately 2.17 million tons of CO2e, with a total of 58 indicators(measures).
+
+[7.1a fila 2] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Integrated climate plan (addressing mitigation and adaptation)
+  - Attachment/link and name of plan^: https://ksepb.kcg.gov.tw/FileDownLoad/FileUpload/20221228153746905968.pdf (2022 Kaohsiung Voluntary Local Review)
+  - Confirm attachment/link provided to plan (selection mandatory): The plan has been attached and can be accessed (unrestricted) on the link provided
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Update: Updates to the plan are published annually
+  - Processes for monitoring evaluation and updates of plan^: Monitoring:  Information on progress of plan is monitored and publicly reported annually
+  - Processes for monitoring evaluation and updates of plan^: Evaluation: Evaluation of plan takes place annually
+  - Funding sources and financial instruments to finance plan: Public-private partnerships
+  - Funding sources and financial instruments to finance plan: Jurisdiction's own resources
+  - Communities and organizations engaged^: Business and private sector
+  - Communities and organizations engaged^: Local government (s) and/or agencies
+  - Communities and organizations engaged^: Vulnerable population groups
+  - Communities and organizations engaged^: Citizens
+  - Describe if and how climate-related scenarios have informed the plan: Setting goals based on the 17 SDGs, reviewing policies and indicators, and assessing them based on government-issued data.
+  - Primary author(s) of plan^: Dedicated team within jurisdiction
+  - Primary author(s) of plan^: Relevant department within jurisdiction
+  - Primary author(s) of plan^: Consultant
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses co-benefits of actions
+  - Year of formal approval of plan^: 2021
+  - End year of plan: 2030
+  - Sectors covered by action plan: Education
+  - Sectors covered by action plan: Agriculture
+  - Sectors covered by action plan: Public administration and defence; compulsory social security
+  - Sectors covered by action plan: Information and communication
+  - Sectors covered by action plan: Human health and social work activities
+  - Sectors covered by action plan: Financial and insurance activities
+  - Sectors covered by action plan: Conservation
+  - Sectors covered by action plan: Electricity, gas, steam and air conditioning supply
+  - Sectors covered by action plan: Waste management
+  - Sectors covered by action plan: Manufacturing
+  - Sectors covered by action plan: Transportation and storage
+  - Sectors covered by action plan: Accommodation and food service activities
+  - Sectors covered by action plan: Water supply
+  - Sectors covered by action plan: Administrative and support service activities
+  - Sectors covered by action plan: Sewerage, wastewater management and remediation activities
+  - Sectors covered by action plan: Forestry
+  - Please explain: In a city geared to international standards, Kaohsiung City Government published the first Voluntary Local Review (VLR) in 2021. To respond to the spirit of “leaving no one behind” of the Sustainable Development Goals (SDGs), a comprehensive review with 17 indicators was conducted. The compilation of Kaohsiung City VLR  has officially entered its second year. In response to the international trend, in 2022's report, we were taking sustainable net zero as the theme, and incorporate the four transformation strategies: energy, industry, life, and society of the “General Statement of Taiwan’s 2050 Net Zero Emission Path and Strategies” to echo the net zero strategy of the City. In addition, SDGs policies and indicators are reviewed as guidelines for the City to move towards net zero and becoming an international sustainable city.
+
+[7.2 fila 1] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Air quality
+  - Attachment/ link and name of plan: The Kaohsiung City Air Pollution Control Project (2020-2023)https://gaz.kcg.gov.tw/search/view/4229b1de-c5ac-4f9f-a14f-c4c42db32429
+  - Current status of plan: In implementation
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2020
+  - End of year plan: 2023
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Renewable energy
+  - Project title: Renewable Energy Project－achieving 12.5GW within 6 years
+  - Stage of project development: Implementation
+  - Status of financing: Other, please specify: funds are well-placed
+  - Identified financing model: Public finance - own budget
+  - Identified financing model: Public finance - national government
+  - Project description and attach project proposal: The Public Work Bureau launched the “Hundreds Stadium Solar PV Project” in 2015. By the end of 2018, the installed capacity has reached 344 megawatts (MWP), exceeding the original planned 250 megawatts, with the total annual power generation of 401.2 million kWh. The annual power generation capacity is 520.07 million kWh, the carbon reduction is 280,000 tons, and the output value is NTD 40 billion.The second phase of the project aims at 500 megawatts (MWP) installed capacity in 4 years, creating 50 billion economic benefits in renewable energy industry, with 638 million kWh annual power generation, and 337.8 thousand tons annual carbon reduction.In addition, the Public Works Bureau launched the “Renewable Energy Project - achieving 1.25GW within 6 years”, aiming at 1.25GW installed capacity in 6 years (2021-2026). It is expected to obtain 62.5 billion in economic benefits from the green 
+  - Total cost of project (in currency specified in 0.1): 2000000010
+
+[7.6 fila 1] Report the factors that support climate-related investment and financial planning in your jurisdiction.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction’s own funds and budgetary means
+  - Credit rating of jurisdiction: Jurisdiction has a domestic credit rating
+  - Decarbonising jurisdiction's investments: Jurisdiction has taken steps to decarbonise municipal investments
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Action (selections mandatory)^: Water storage and pump storage
+  - Climate hazard(s) that action addresses^: Heavy precipitation
+  - Action description and web link to further information^: Kaohsiung City Government is committing to the effective integrated drainage system management. We have completed the installation of 18 flood detention ponds by 2022, with a flood storage capacity of 3.8758 million tons.  Currently, the overall flooded area has decreased by about 6,352 hectares compared to the flooded area prior to its merger with Kaohsiung County. The amount of flood detention is the highest in the country, creating a sustainable city. The comprehensive soil and water conservation strategies have been established to avoid landslide caused by intense rainfall. Standard operation process of disaster response has been established. The SOP content includes disaster warning system, emergency rescue system, refugee resettlement system and disaster obviation system.
+  - Sectors adaptation action applies to^: Water supply
+  - Sectors adaptation action applies to^: Construction
+  - Co-benefits realized^: Increased water security
+  - Co-benefits realized^: Increased security/protection for poor/vulnerable populations
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 40-50%
+  - Proportion of natural systems with increased resilience due to adaptat: I do not have this data
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): National funds and programmes
+  - Status of action in the reporting year^: Action in operation (targeted to sector/location)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 2300000000
+  - Does this action contribute to your jurisdiction’s energy access and/o: Do not know
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 2] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Technological actions
+  - Action (selections mandatory)^: Water recycling/reclamation
+  - Climate hazard(s) that action addresses^: Drought
+  - Action description and web link to further information^: Kaohsiung City is actively developing a diversified water supply. In 2013, the city government began to promote the recycling and reuse plan of discharged water. The source of reclaimed water obtained from sewage regeneration is not affected by the weather, so that a drop of water can be used at least twice, maximizing the use of water resources. To ensure industrial water use and reduce the pressure of water source scheduling during dry periods, The construction of Fengshan waste water treatment plant has been completed in 2019, which supply reclaimed water 45,000 tons/day.The reclaimed water project of Linhai waste water treatment Plant was completed in 2022. Afterwards, the city will supply a total of 78,000 tons/day of industrial water to the Linhai Industrial Zone, and the entire period can reach 100,000 tons/day, In the whole period, it can reach 110,000 tons/day, greatly reducing 
+  - Sectors adaptation action applies to^: Construction
+  - Sectors adaptation action applies to^: Water supply
+  - Co-benefits realized^: Increased water security
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: I do not have this data
+  - Proportion of natural systems with increased resilience due to adaptat: I do not have this data
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): National funds and programmes
+  - Status of action in the reporting year^: Implementation underway with completion expected in more than one year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 19000000000
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 3] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Green infrastructure
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Climate hazard(s) that action addresses^: Action does not address hazard
+  - Action description and web link to further information^: 1. Promoting three-dimensional greening of buildings and green roof subsidy program (sustainability, community construction and establishment of edible demonstration sites)2. From 2016, Kaohsiung City began to popularize green roofs as a means of improving urban environmental quality through reduction of stormwater runoff and the addition of green space. The subsidy programs include "General Building Subsidy Program (including apartment and other buildings)", "Village Activity Center, District Office and Other Public Buildings Subsidy Program", "Public Building Management Maintenance and Repair Subsidy Program".In 2023, the cumulated greenery roof space is approx. 62.0046 hectares.weblink: https://build.kcg.gov.tw/greenroof/
+  - Sectors adaptation action applies to^: Construction
+  - Co-benefits realized^: Business/technological innovation
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 10-20%
+  - Proportion of natural systems with increased resilience due to adaptat: <10%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (across most of jurisdiction)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 3477948
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 4] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Action (selections mandatory)^: Resilience and resistance measures for buildings
+  - Climate hazard(s) that action addresses^: Heavy precipitation
+  - Action description and web link to further information^: 1. The Kaohsiung House Project was developed by industry, official, academia, and research sectors. It has successively created 12 policy tools and a number of sub-projects. The policies include mandatory and encouraging laws, such as Kaohsiung City Green Building Autonomy Act and Regulations for Kaohsiung House Design and Encouraging Feedback.2. The policy instruments are designed by the Ministry of the Interior for responding to the development of the "Urban Integrating Water Control Program" based on the concept of "urban sponge", and the "universal design" trend for "declining birth rate and aging population" in Taiwan society. In addition, we would also like to solve the problem of high temperature, high energy consumption and high carbon dioxide emissions. By implementing the “Kaohsiung House Project”, it is believed that we could promote the qualities of life, make the transition 
+  - Sectors adaptation action applies to^: Construction
+  - Co-benefits realized^: Business/technological innovation
+  - Timeframe for which increased resilience is expected to last: Long-term (after 2050)
+  - Proportion of the total jurisdiction population with increased resilie: 30-40%
+  - Proportion of natural systems with increased resilience due to adaptat: <10%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (across most of jurisdiction)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 3300000
+  - Does this action contribute to your jurisdiction’s energy access and/o: Do not know
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 5] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Essential public health services
+  - Action (selections mandatory)^_G: Services actions
+  - Climate hazard(s) that action addresses^: Infectious disease
+  - Action description and web link to further information^: In order to prevent the outbreak of COVID-19, Kaohsiung city had set the first level Epidemic Command centre since 25 January 2020, integrating government resources and epidemic human resource deployment. On 28. Jan. 2020, Epidemic Support centre was established, executing specimen collection and medical transfer for quarantine and deploying quarantine taxi, serving citizen 24 hours. In response to the outbreak of domestic COVID-19, Combat information centre was established on 17 May 2020, responsible for epidemic investigation, including identifying potential contacts and sourcing their footprints. The centre takes the essential role in preventing epidemic. In 2021, the centre had assisted reporting 24,248 cases and completed 381 confirmed cases.  On 1 May 2023, as the COVID-19 was downgraded, the centre was dismissed. Web link: https://www.kcg.gov.tw/2019nCoV/Default.aspx
+  - Sectors adaptation action applies to^: Public administration and defence; compulsory social security
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Sectors adaptation action applies to^: Conservation
+  - Co-benefits realized^: Increased security/protection for poor/vulnerable populations
+  - Co-benefits realized^: Reduced health costs
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Co-benefits realized^: Increased social inclusion, equality and justice
+  - Co-benefits realized^: Improved preparedness for health service delivery
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: I do not have this data
+  - Proportion of natural systems with increased resilience due to adaptat: I do not have this data
+  - Funding source(s): National funds and programmes
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Implementation complete in the reporting year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 6] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Other, please specify:  Typhoon disaster prevention
+  - Action (selections mandatory)^_G: Other, please specify
+  - Climate hazard(s) that action addresses^: Hurricanes, cyclones, and/or typhoons
+  - Action description and web link to further information^: 1. Kaohsiung Fire department actively host activities to announce typhoon and other disasters prevention, deepening citizen’s disaster prevention conscious. Before the flooding season comes, every fire brigade has prepared disaster relief equipment.  2. Establish local volunteer firefighters, volunteers, and private rescue organizations in each district and create a contact list for disaster notifications, regularly conducting tests. In the event of a disaster, implement a disaster notification mechanism to ensure effective communication.3. When  the typhoon warning being issued, Kaohsiung public media center will help to broadcast latest typhoon news, reminding citizen to raise their disaster prevention alertness and prepare for disaster.  4. When typhoon Ruby and Chanthu hit Taiwan in 2021, The Central Weather Bureau issued sea and land typhoon warning. Kaohsiung Government immediately
+  - Sectors adaptation action applies to^: Agriculture
+  - Sectors adaptation action applies to^: Real estate activities
+  - Sectors adaptation action applies to^: Electricity, gas, steam and air conditioning supply
+  - Sectors adaptation action applies to^: Public administration and defence; compulsory social security
+  - Sectors adaptation action applies to^: Fishing
+  - Sectors adaptation action applies to^: Forestry
+  - Sectors adaptation action applies to^: Sewerage, wastewater management and remediation activities
+  - Sectors adaptation action applies to^: Financial and insurance activities
+  - Sectors adaptation action applies to^: Manufacturing
+  - Sectors adaptation action applies to^: Water supply
+  - Sectors adaptation action applies to^: Information and communication
+  - Sectors adaptation action applies to^: Conservation
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Co-benefits realized^: Improved road safety
+  - Co-benefits realized^: Increased security/protection for poor/vulnerable populations
+  - Co-benefits realized^: Reduced premature deaths
+  - Co-benefits realized^: Reduced disruption of energy, transport, water or communications networks
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: I do not have this data
+  - Proportion of natural systems with increased resilience due to adaptat: I do not have this data
+  - Status of action in the reporting year^: Implementation underway with completion expected in more than one year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)

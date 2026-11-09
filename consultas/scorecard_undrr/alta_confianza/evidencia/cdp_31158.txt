@@ -1,0 +1,276 @@
+# CDP Cities 2023 - Hanoi City (org 31158) https://www.cdp.net/en/responses/31158
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: City/Municipality
+  - Next highest level of government: National
+  - Next lowest level of government: County / Province
+  - Land area of the jurisdiction boundary (in square km)^: 3324.92
+  - Percentage range of land area that is green space: I do not have this data
+  - Current (or most recent) population size^: 8053663
+  - Population year^: 2019
+  - Projected population size: 9000000
+  - Projected population year: 2025
+  - Select the currency used for all financial information reported throug: VND Vietnamese đồng
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking plans and/or strategies
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related responsibilities are assigned to management-level positions in the government
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related responsibilities are assigned to a committee(s) or a subcommittee(s) in the government
+  - Provide further details on your jurisdiction's oversight of climate-re: Hanoi People's Committee assigned to Department of Natural Resources and Environment and People's Committees of districts, towns to monitor issues related to the City's climate.
+  - Describe how climate-related issues have impacted your jurisdiction's : + The drainage system is still limited leading to flooding in the inner city and some roads in the suburban districts.+ The system of dikes and dams has been built for a long time and is at risk of cracking and breaking.+ Agricultural production is small-scale, most of which are directly dependent on the weather.+ green areas need to be improved.
+  - Describe how climate-related issues have impacted your jurisdiction's : Extreme weather caused by climate change affects agricultural production, livestock activities, epidemics, affects people's lives. Green areas need to be improved.
+
+[0.4 fila 1] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Community-wide GHG emissions inventory
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the National Adaptation Plan (NAP)
+  - Outline the purpose of this engagement: The development of this component is required by the national government (e.g., by law, regulation and/or agreement)
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the Nationally Determined Contribution (NDC)
+
+[0.4 fila 2] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate action plan
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Outline the purpose of this engagement: The development of this component is required by the national government (e.g., by law, regulation and/or agreement)
+  - Outline the purpose of this engagement: To facilitate information sharing across different levels of government
+
+[0.4 fila 3] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate mitigation target
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the Nationally Determined Contribution (NDC)
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the National Adaptation Plan (NAP)
+
+[0.4 fila 4] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate adaptation goal
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the Nationally Determined Contribution (NDC)
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the National Adaptation Plan (NAP)
+
+[0.5 fila 1] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Government/Public body
+  - Primary entity collaborated with (selection mandatory): National government
+  - Mechanisms used to collaborate: Policy and regulation development/ implementation
+  - Mechanisms used to collaborate: Development of local/regional adaptation plans, National Adaptation Plans and/or National Adaptation Programmes of Action (NAPAs)
+  - Mechanisms used to collaborate: Nationally Determined Contribution (NDC) development/ implementation
+  - Mechanisms used to collaborate: Reporting of climate and/or environmental data
+  - Mechanisms used to collaborate: Climate action plan implementation
+  - Mechanisms used to collaborate: Requirement to develop and implement emissions reduction target
+  - Mechanisms used to collaborate: Requirement to develop emissions inventory
+  - Mechanisms used to collaborate: Economic development
+  - Areas collaboration focused on: Adaptation
+  - Areas collaboration focused on: Emissions reduction
+
+[0.5 fila 2] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Government/Public body
+  - Primary entity collaborated with (selection mandatory): Neighboring local government
+  - Mechanisms used to collaborate: City business partnership platform
+  - Mechanisms used to collaborate: Procurement
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Economic development
+  - Areas collaboration focused on: Social Services
+  - Areas collaboration focused on: Agriculture
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Natural environment
+  - Areas collaboration focused on: Industry
+  - Areas collaboration focused on: Transport (Mobility)
+  - Areas collaboration focused on: Waste
+
+[0.5 fila 3] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Government/Public body
+  - Primary entity collaborated with (selection mandatory): Local government within country/area
+  - Mechanisms used to collaborate: City business partnership platform
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Economic development
+  - Areas collaboration focused on: Transport (Mobility)
+  - Areas collaboration focused on: Agriculture
+  - Areas collaboration focused on: Industry
+  - Areas collaboration focused on: Natural environment
+  - Areas collaboration focused on: Waste
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Social Services
+
+[0.5 fila 4] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Government/Public body
+  - Primary entity collaborated with (selection mandatory): Local government outside of country/area
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Mechanisms used to collaborate: Technical assistance
+  - Mechanisms used to collaborate: Funding (grants)
+  - Areas collaboration focused on: Emissions reduction
+  - Areas collaboration focused on: Adaptation
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: Yes, a climate risk and vulnerability assessment has been undertaken
+
+[1.1a fila 1] Provide details on your climate risk and vulnerability assessment.
+  - Confirm attachment/link provided to assessment (selection mandatory): Other, please specify: Climate risk assessment for Hanoi city is integrated during the construction of Cap 3
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2021
+  - Factors considered in assessment: None of the above
+  - Primary author(s) of assessment^: Regional/ state/ provincial government
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Storm
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Women and girls
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Human health and social work activities
+  - Proportion of the population exposed to the hazard: Data is not available
+  - Current probability of hazard^: Do not know
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Not expected to happen in the future
+  - Expected future change in hazard frequency^: Not expected to happen in the future
+  - Timeframe of expected future changes^: Not known (not possible to define)
+
+[1.2 fila 2] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Extreme heat
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Low-income households
+  - Sectors most exposed^: Forestry
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Human health and social work activities
+  - Proportion of the population exposed to the hazard: Data is not available
+  - Current probability of hazard^: Do not know
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Not expected to happen in the future
+  - Expected future change in hazard frequency^: Not expected to happen in the future
+  - Timeframe of expected future changes^: Not known (not possible to define)
+
+[1.2 fila 3] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Drought
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Women and girls
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Forestry
+  - Sectors most exposed^: Fishing
+  - Sectors most exposed^: Agriculture
+  - Proportion of the population exposed to the hazard: Data is not available
+  - Current probability of hazard^: Do not know
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Not expected to happen in the future
+  - Expected future change in hazard frequency^: Not expected to happen in the future
+  - Timeframe of expected future changes^: Not known (not possible to define)
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Resource availability
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+
+[3.8 fila 1] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: Health outcomes
+  - Identify the climate hazard(s) that most significantly impact the sele: Heat stress
+  - Identify the climate hazard(s) that most significantly impact the sele: Heavy precipitation
+  - Identify the climate hazard(s) that most significantly impact the sele: Storm
+  - Identify the climate hazard(s) that most significantly impact the sele: Infectious disease
+  - Identify the health issues driven by the selected climate hazard(s): Cold-related illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Water-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Exacerbation of non-communicable disease symptoms - cardiovascular disease
+  - Identify the health issues driven by the selected climate hazard(s): Heat-related illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Vector-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Exacerbation of non-communicable disease symptoms - respiratory disease
+  - Timeframe of impact: Not known (not possible to define)
+  - Identify which vulnerable populations are affected by the selected hea: Women and girls
+  - Identify which vulnerable populations are affected by the selected hea: Children and youth
+  - Identify which vulnerable populations are affected by the selected hea: Elderly
+  - Identify which vulnerable populations are affected by the selected hea: Low-income households
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of financial capacity
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Data availability: Data is available for the percentage of households with access to safely managed drinking water services
+  - Percentage of households with access to safely managed drinking water : 100
+  - Percentage of households with access to safely managed sanitation serv: Question not applicable
+  - Household water consumption (litres/capita/day): Question not applicable
+
+[3.13 fila 1] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Fresh surface water, including rainwater, water from wetlands, rivers and lakes
+  - Are you able to report volumetric data for this source?: No
+  - Annual volume of water withdrawn per source (in megalitres) : Question not applicable
+  - Projected level of change over next 5-10 years: Question not applicable
+
+[3.13 fila 2] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Ground water (renewable)
+  - Are you able to report volumetric data for this source?: No
+  - Annual volume of water withdrawn per source (in megalitres) : Question not applicable
+  - Projected level of change over next 5-10 years: Question not applicable
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: No, but we are planning to introduce a goal in the next two years
+
+[4.1a fila 0] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Question not applicable
+  - Adaptation goal^: Question not applicable
+  - Climate hazards that goal addresses^: Question not applicable
+  - Base year of goal (or year goal was established if no base year)^: Question not applicable
+  - Target year of goal^: Question not applicable
+  - Description of metric / indicator used to track goal^: Question not applicable
+  - Comment: Question not applicable
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: Yes, our jurisdiction has a climate action plan or strategy
+
+[7.1a fila 1] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Integrated climate plan (addressing mitigation and adaptation)
+  - Confirm attachment/link provided to plan (selection mandatory): The plan has been attached
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Evaluation: Evaluation of plan takes place annually
+  - Funding sources and financial instruments to finance plan: Other, please specify source: State budget
+  - Communities and organizations engaged^: Business and private sector
+  - Primary author(s) of plan^: Regional / state / provincial government
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Do not know
+  - Year of formal approval of plan^: 2021
+  - End year of plan: 2050
+  - Sectors covered by action plan: Water supply
+  - Sectors covered by action plan: Other, please specify:  energy
+  - Sectors covered by action plan: Agriculture
+  - Sectors covered by action plan: Transportation and storage
+  - Sectors covered by action plan: Human health and social work activities
+  - Sectors covered by action plan: Sewerage, wastewater management and remediation activities
+  - Sectors covered by action plan: Waste management
+
+[7.2 fila 1] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Other, please specify: plan to implement the plan to respond to climate change and green growth of industry and trade, period to 2030, vision to 2050
+  - Current status of plan: In implementation
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2023
+  - End of year plan: 2050
+
+[7.6 fila 1] Report the factors that support climate-related investment and financial planning in your jurisdiction.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Do not know
+  - Credit rating of jurisdiction: Do not know
+  - Decarbonising jurisdiction's investments: Do not know
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Other, please specify: government issues national plan to adapt to climate change
+  - Action (selections mandatory)^_G: Government policies and programs actions
+  - Climate hazard(s) that action addresses^: Storm
+  - Co-benefits realized^: Improved waste management
+  - Co-benefits realized^: Improved mental wellbeing/quality of life
+  - Co-benefits realized^: Job creation
+  - Co-benefits realized^: Improved physical health
+  - Co-benefits realized^: Increased/improved green space
+  - Timeframe for which increased resilience is expected to last: Not known (not possible to define)
+  - Proportion of the total jurisdiction population with increased resilie: I do not have this data
+  - Proportion of natural systems with increased resilience due to adaptat: I do not have this data
+  - Funding source(s): Other, please specify source(s): State budget
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Other, please specify
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[10.1 fila 0] Use this field to provide any additional information or context that you feel is relevant to your jurisdiction's respons
+  - nan: No

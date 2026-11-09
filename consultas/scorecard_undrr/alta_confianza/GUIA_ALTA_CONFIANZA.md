@@ -1,6 +1,6 @@
-# Base de alta confianza del scorecard UNDRR (30 ciudades)
+# Base de alta confianza del scorecard UNDRR (60 ciudades)
 
-Noviembre de 2026. Es la versión "con pruebas" del scorecard de resiliencia ante desastres de UNDRR para las 30 ciudades de más prioridad del mundo (amenaza × brecha de capacidad) que no se habían hecho a mano. Cada ciudad tiene las 141 preguntas: 118 de la herramienta detallada y 23 del anexo de salud pública.
+Noviembre de 2026. Es la versión "con pruebas" del scorecard de resiliencia ante desastres de UNDRR para las 60 ciudades de más prioridad del mundo (amenaza × brecha de capacidad) que no se habían hecho a mano. Se hizo en dos tandas de 30: la segunda (de Kaohsiung a Antalya en el orden de prioridad) se sumó el 9 de noviembre de 2026. Las otras 299 ciudades de más de 2 millones siguen solo en el modelo. Cada ciudad tiene las 141 preguntas: 118 de la herramienta detallada y 23 del anexo de salud pública.
 
 ## La regla
 
@@ -14,30 +14,32 @@ Noviembre de 2026. Es la versión "con pruebas" del scorecard de resiliencia ant
 
 | | |
 |---|---|
-| Ciudades | 30 |
-| Respuestas | 4.230 (30 × 141) |
-| Con evidencia | 354 (8%) |
-| Confianza alta | 239 |
-| Confianza media | 115 |
-| Sin evidencia | 3.876 |
-| Fuentes distintas citadas | 243 |
+| Ciudades | 60 |
+| Respuestas | 8.460 (60 × 141) |
+| Con evidencia | 529 (6%) |
+| Confianza alta | 344 |
+| Confianza media | 185 |
+| Sin evidencia | 7.931 |
+| Fuentes distintas citadas | 307 |
 
-**Cobertura por ciudad** (respuestas con evidencia de 141): Karachi 52, Quezón 31, Lahore 30, Bombay 29, Rawalpindi 19, Surabaya 19, Calcuta 16, Multán 16, Daca Norte 15, Daca Sur 15, Chittagong 13, Islamabad 13, Bekasi 12, Dar es Salaam 9, Hai Phong 8, Kinsasa 8, Bandung 7, Gazipur 7, Depok 5, Jartum 4, Omdurmán 4, Brazzaville 3, Mbuji-Mayi 3, Mosul 3, Zhangzhou 3, Bagdad 2, Damasco 2, Kabul 2, Pionyang 2, Rangún 2.
+La segunda tanda suma 175 respuestas con evidencia (105 alta, 70 media).
+
+**Cobertura por ciudad** (respuestas con evidencia de 141): Karachi 52, Quezón 31, Lahore 30, Bombay 29, Rawalpindi 19, Surabaya 19, Calcuta 16, Multán 16, Daca Norte 15, Daca Sur 15, Delhi 14, Surat 14, Chittagong 13, Gujranwala 13, Islamabad 13, Bekasi 12, Chennai 12, Faisalabad 12, Kaohsiung 12, Nuevo Taipéi 10, Antalya 9, Dar es Salaam 9, Taoyuan 9, Cần Thơ 8, Hai Phong 8, Kinsasa 8, Bandung 7, Gazipur 7, Medán 7, Pune 7, Hanói 6, Lucknow 6, Depok 5, Da Nang 4, Jartum 4, Omdurmán 4, Brazzaville 3, Chaozhou 3, Dongguan 3, Duala 3, Jiangmen 3, Jieyang 3, Mbuji-Mayi 3, Mosul 3, Shantou 3, Zhangzhou 3, Alejandría 2, Bagdad 2, Bamako 2, Damasco 2, Kabul 2, Lomé 2, Mogadiscio 2, Pionyang 2, Rangún 2, Zhongshan 2, Conakri 1, Guiza 1, Nom Pen 1, Saná 1. Gujranwala y Faisalabad heredan casi todo de Punyab y de Pakistán; las seis ciudades de Cantón, de Guangdong y de China.
 
 ### Por qué la cobertura es baja
 
 Es lo esperable y no un defecto del método:
 
 - **Muchas preguntas piden datos internos que ninguna ciudad publica**: días de servicio perdidos por escenario, camas de hospital en riesgo, brecha de refugios, días de combustible. Unas 50 de las 118 preguntas detalladas son de este tipo. Solo se pueden contestar con el gobierno local.
-- **Las ciudades con respuesta a CDP-ICLEI 2023 tienen mucha más cobertura**: Karachi, Bombay, Quezón, Calcuta, las dos Daca, Bekasi, Kinsasa y Dar es Salaam. Esa respuesta oficial cubre planificación, evaluación de riesgo, metas, ecosistemas y salud.
-- **En ciudades en guerra o cerradas casi no hay información pública verificable**: Jartum, Omdurmán, Kabul, Damasco, Bagdad, Mosul, Pionyang y Rangún. Lo poco que hay es sobre servicios colapsados (agua, energía, hospitales).
+- **Las ciudades con respuesta a CDP-ICLEI 2023 tienen mucha más cobertura**: Karachi, Bombay, Quezón, Calcuta, las dos Daca, Bekasi, Kinsasa y Dar es Salaam; en la segunda tanda, Kaohsiung, Nuevo Taipéi, Taoyuan, Antalya, Delhi, Chennai, Hanói, Cần Thơ, Medán y Duala. Esa respuesta oficial cubre planificación, evaluación de riesgo, metas, ecosistemas y salud.
+- **En ciudades en guerra o cerradas casi no hay información pública verificable**: Jartum, Omdurmán, Kabul, Damasco, Bagdad, Mosul, Pionyang, Rangún, Saná y Mogadiscio. Lo poco que hay es sobre servicios colapsados (agua, energía, hospitales).
 - Los sitios de UNDRR (tablero MCR2030, PreventionWeb, Sendai Monitor) bloquean las consultas automáticas, así que no se pudieron leer los scorecards que algunas ciudades hayan cargado ahí.
 
 **Cómo leer el nivel medio**: el nivel medio de cada ciudad se calcula solo sobre las preguntas respondidas. Por eso no es comparable con el puntaje total del modelo ni entre ciudades con distinta cobertura.
 
 ## Planes oficiales leídos
 
-Se buscaron los planes oficiales de gestión del riesgo, contingencia, calor y clima de las 30 ciudades y se leyeron completos los que se pudieron descargar. Los textos están en `planes/` (PDF original y texto extraído).
+Se buscaron los planes oficiales de gestión del riesgo, contingencia, calor y clima de las 60 ciudades y se leyeron completos los que se pudieron descargar. Los textos están en `planes/` (PDF original y texto extraído).
 
 | Ciudad | Plan | Qué sumó |
 |---|---|---|
@@ -47,6 +49,9 @@ Se buscaron los planes oficiales de gestión del riesgo, contingencia, calor y c
 | Bombay | Mumbai Climate Action Plan 2022 (240 páginas) | Exposición a anegamiento y deslizamiento; el plan de calor previsto para 2022-2023 sigue pendiente (2 respuestas) |
 | Hai Phong | Plan 2025 de prevención de desastres de Cát Hải (11 páginas) | Plan de evacuación por tifón y difusión de avisos, a nivel de distrito (2 respuestas) |
 | Karachi | Karachi Climate Action Plan 2025 (202 páginas) | Ya estaba citado; la lectura completa confirmó las respuestas y no sumó nuevas: es sobre todo un plan de emisiones |
+| Surat | Disaster Management & Preparedness Plan, edición 2026 (se actualiza cada año desde 2002) | Tareas por departamento y zona, sirenas por nivel del Tapi, sala de control, proveedores privados, voluntarios, enfermedades por agua y vectores, calor (9 respuestas) |
+| Surat | Plan de acción ante olas de calor 2023 (UHCRCE, IRADe, APN) | Alertas por colores con umbrales propios basados en mortalidad, refugios y avisos por SMS (2 respuestas) |
+| Delhi | Heat Action Plan 2025 (DDMA) | Alertas por colores, vigilancia IDSP, preparación de hospitales, campaña de difusión y escuelas (5 respuestas) |
 
 **No se pudieron obtener**:
 
@@ -56,19 +61,21 @@ Se buscaron los planes oficiales de gestión del riesgo, contingencia, calor y c
 - Los planes de acción climática de Daca Norte y Daca Sur (2024), el plan de contingencia multiamenaza de Chittagong, el plan climático de Dar es Salaam, los planes de Bandung, Bekasi, Depok y Zhangzhou: se anunciaron pero no están publicados en línea.
 - Kinsasa no tiene plan de contingencia (lo dice la prensa local; en 2024 se creó una comisión de inundaciones).
 - Kabul, Bagdad, Mosul, Damasco, Pionyang, Rangún, Jartum, Omdurmán, Mbuji-Mayi y Brazzaville: no hay planes municipales publicados.
+- Segunda tanda: el plan de gestión de desastres 2022-2027 de Medán y el plan de emergencia de Chaozhou (el servidor corta la conexión), el plan climático de Chennai y la revisión local voluntaria de Kaohsiung (los enlaces oficiales dan 404), y el plan distrital 2021 de Faisalabad (PDMA de Punyab, mismo bloqueo). Se citan con confianza media cuando hay otra prueba de su contenido.
+- Duala declara ante CDP que no tiene evaluación de riesgo ni plan climático por falta de fondos; Conakri, Lomé, Mogadiscio, Bamako, Guiza, Alejandría y Saná no publican planes municipales.
 
 ## Archivos
 
 | Carpeta o archivo | Qué tiene |
 |---|---|
-| `datos/base_alta_confianza.csv` | Una fila por ciudad y pregunta (4.230). Columnas: id, ciudad, iso3, herramienta, esencial, ref, titulo, puntaje, confianza, evidencia, fuentes, urls, origen (ciudad, provincia o país), accion, responsable, plazo, fecha_consulta. |
+| `datos/base_alta_confianza.csv` | Una fila por ciudad y pregunta (8.460). Columnas: id, ciudad, iso3, herramienta, esencial, ref, titulo, puntaje, confianza, evidencia, fuentes, urls, origen (ciudad, provincia o país), accion, responsable, plazo, fecha_consulta. |
 | `datos/fuentes_alta_confianza.csv` | Cada fuente citada: ciudad, clave, url, título, fecha del documento. |
 | `datos/resumen_ciudades.csv` | Una fila por ciudad: preguntas con evidencia, alta, media, sin evidencia, cobertura, nivel medio y cantidad de fuentes. |
 | `datos/base_alta_confianza.sqlite` | Lo mismo en SQLite (tablas respuestas, fuentes, ciudades). |
-| `xlsm/Scorecard_UNDRR_<id>_alta_confianza_EN.xlsm` y `..._salud_ES.xlsm` | 60 planillas oficiales de UNDRR: la detallada en inglés y el anexo de salud en español. Solo las preguntas con prueba tienen opción marcada. El comentario de cada pregunta dice la confianza, la evidencia y las fuentes. |
-| `Scorecards_alta_confianza_xlsm.zip` | Las 60 planillas juntas (70 MB). |
+| `xlsm/Scorecard_UNDRR_<id>_alta_confianza_EN.xlsm` y `..._salud_ES.xlsm` | 120 planillas oficiales de UNDRR: la detallada en inglés y el anexo de salud en español. Solo las preguntas con prueba tienen opción marcada. El comentario de cada pregunta dice la confianza, la evidencia y las fuentes. |
+| `Scorecards_alta_confianza_xlsm.zip` | Las 120 planillas juntas (139 MB). |
 | `evidencia/ac_<id>.py` | La evidencia de cada ciudad, editable a mano. |
-| `evidencia/pais_<ISO3>.py`, `prov_PUNJAB.py` | Evidencia nacional o provincial que heredan las ciudades: seguros, código sísmico, alertas por celular, fondos de desastre. |
+| `evidencia/pais_<ISO3>.py`, `prov_PUNJAB.py`, `prov_GUANGDONG.py` | Evidencia nacional o provincial que heredan las ciudades: seguros, código sísmico, alertas por celular, fondos de desastre. |
 | `evidencia/cdp_<org>.txt` | Resúmenes de las respuestas a CDP 2023 usadas. |
 | `planes/` | Los planes oficiales leídos: texto extraído (`txt/`); los PDF originales están en los archivos del proyecto. |
 | `herramientas/armar_base.py` | Rearma todo desde `evidencia/`. |
