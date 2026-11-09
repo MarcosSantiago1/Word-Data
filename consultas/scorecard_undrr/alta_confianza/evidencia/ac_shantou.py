@@ -11,7 +11,7 @@ F = {
 }
 
 EN = {
-    '1.2.2': (4, C, 'Ante el tifón Hongxia (julio de 2026) Shantou activó su respuesta de emergencia ante vientos y lluvias y aplicó total o parcialmente las "cinco suspensiones" (clases, trabajo, transporte, comercios y obras), dentro de la evacuación preventiva de más de 340.000 personas en Guangdong.',
+    '1.2.2': (4, M, 'Ante el tifón Hongxia (julio de 2026) Shantou activó su respuesta de emergencia ante vientos y lluvias y aplicó total o parcialmente las "cinco suspensiones" (clases, trabajo, transporte, comercios y obras), dentro de la evacuación preventiva de más de 340.000 personas en Guangdong.',
         'xinhua26', 'Publicar la revisión de la respuesta.', 'Cuartel municipal 三防 de Shantou', CORTO),
     '9.2.1': (3, M, 'Shantou tiene un plan municipal de emergencia ante crecidas, sequías, vientos y heladas con respuestas por niveles (III, II, I) que activa y ajusta el cuartel municipal 三防; no se verifica que se ligue a escenarios.',
         'plan_st', 'Publicar el plan ligado a escenarios.', 'Cuartel municipal 三防 de Shantou', MED),

@@ -34,7 +34,7 @@ EN = {
               'adb_ffews,adb_pub', 'Medir la anticipación lograda en eventos reales.', 'KMC, Drenaje', CORTO),
     '8.3.1': (1, C, 'En la lluvia récord de septiembre de 2025 (más de 247 mm en una noche) murieron unas 9 personas electrocutadas por cables en calles inundadas y la distribuidora CESC tuvo que cortar la energía en amplias zonas.',
               'sep25_dawn,sep25_bt,sep25_cesc', 'Protocolo de corte preventivo y cableado elevado.', 'CESC / KMC', CORTO),
-    '8.1.1': (2, C, 'El drenaje depende de compuertas al río Hooghly que no alcanzan con marea alta: en septiembre de 2025 la ciudad quedó inundada pese a abrirlas desde las 4 de la mañana.',
+    '8.1.1': (2, M, 'El drenaje depende de compuertas al río Hooghly que no alcanzan con marea alta: en septiembre de 2025 la ciudad quedó inundada pese a abrirlas desde las 4 de la mañana.',
               'sep25_bt', 'Ampliar bombeo y almacenamiento pluvial.', 'KMC, Drenaje', LARGO),
 }
 ES = {

@@ -10,7 +10,7 @@ F = {
 }
 
 EN = {
-    '1.2.2': (4, C, 'Ante el tifón Hongxia (julio de 2026) Jiangmen activó su respuesta de emergencia ante vientos y lluvias y aplicó total o parcialmente las "cinco suspensiones" (clases, trabajo, transporte, comercios y obras), dentro de la evacuación preventiva de más de 340.000 personas en Guangdong.',
+    '1.2.2': (4, M, 'Ante el tifón Hongxia (julio de 2026) Jiangmen activó su respuesta de emergencia ante vientos y lluvias y aplicó total o parcialmente las "cinco suspensiones" (clases, trabajo, transporte, comercios y obras), dentro de la evacuación preventiva de más de 340.000 personas en Guangdong.',
         'xinhua26', 'Publicar la revisión de la respuesta.', 'Cuartel municipal 三防 de Jiangmen', CORTO),
 }
 ES = {

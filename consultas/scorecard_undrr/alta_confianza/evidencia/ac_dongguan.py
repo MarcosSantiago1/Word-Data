@@ -11,7 +11,7 @@ F = {
 }
 
 EN = {
-    '1.2.2': (4, C, 'Ante el tifón Hongxia (julio de 2026) Dongguan activó su respuesta de emergencia ante vientos y lluvias y aplicó total o parcialmente las "cinco suspensiones" (clases, trabajo, transporte, comercios y obras), dentro de la evacuación preventiva de más de 340.000 personas en Guangdong.',
+    '1.2.2': (4, M, 'Ante el tifón Hongxia (julio de 2026) Dongguan activó su respuesta de emergencia ante vientos y lluvias y aplicó total o parcialmente las "cinco suspensiones" (clases, trabajo, transporte, comercios y obras), dentro de la evacuación preventiva de más de 340.000 personas en Guangdong.',
         'xinhua26', 'Publicar la revisión de la respuesta.', 'Cuartel municipal 三防 de Dongguan', CORTO),
     '9.2.1': (3, M, 'Dongguan tiene un plan general de emergencias y un plan municipal ante crecidas, sequías, vientos y heladas, citados como base por los planes sectoriales; no se publica su texto ligado a escenarios.',
         'plan_dg', 'Publicar el plan ligado a escenarios.', 'Cuartel municipal 三防 de Dongguan', MED),

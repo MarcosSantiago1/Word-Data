@@ -21,9 +21,9 @@ EN = {
               'mhvra_unh,jica_leh', 'Actualizar la evaluación multiamenaza.', 'DDMA / NDMA', MED),
     '2.4.1': (3, M, 'Hay puntos de control con niveles de peligro definidos en el Nullah Leh (Katarian 18 pies, Gawalmandi 17 pies) y la evaluación multiamenaza de ONU-Hábitat; no se halló mapa de amenaza público actualizado.',
               'trib_mejora,mhvra_unh', 'Mapa de inundación del Leh público y actualizado.', 'RDA / WASA', CORTO),
-    '3.2.2': (1, C, 'El proyecto de canal de crecidas del Leh lleva casi dos décadas sin empezar: abandonado por falta de fondos en 2024 y con un nuevo estudio de factibilidad en 2025.',
+    '3.2.2': (1, M, 'El proyecto de canal de crecidas del Leh lleva casi dos décadas sin empezar: abandonado por falta de fondos en 2024 y con un nuevo estudio de factibilidad en 2025.',
               'leh_exp,leh_abandono', 'Financiar la obra de control de crecidas.', 'Gobierno de Punyab / RDA', LARGO),
-    '8.1.1': (1, C, 'No existe el canal de crecidas previsto para el Leh; el defensor del pueblo de Punyab atribuye pérdidas y víctimas a la demora del proyecto.',
+    '8.1.1': (1, M, 'No existe el canal de crecidas previsto para el Leh; el defensor del pueblo de Punyab atribuye pérdidas y víctimas a la demora del proyecto.',
               'leh_exp,leh_abandono', 'Obra de control de crecidas y retiro de vertidos.', 'RDA / WASA', LARGO),
     '8.1.2': (2, M, 'Se limpia el cauce antes del monzón y se vigila con cámaras el vertido de basura (2026), pero el sistema de alerta llegó a ser robado.',
               'trib_mejora,trib_robo', 'Mantenimiento y vigilancia permanentes del cauce y los sensores.', 'WASA / Metropolitan Corporation', CORTO),
@@ -31,7 +31,7 @@ EN = {
               'jica_leh,trib_leh_sat,dawn_sirenas25,trib_mejora', 'Modernizar sensores y sumar avisos por celular.', 'PMD / administración distrital', CORTO),
     '9.1.1.1': (3, C, 'Las sirenas cubren las orillas del Leh y la NDMA envía SMS por ubicación; no se halló dato de alcance total.',
                 'dawn_sirenas25,ndma_sms', 'Cubrir toda la población expuesta.', 'Administración distrital', CORTO),
-    '9.4.1': (2, C, 'El equipo de alerta instalado en el Nullah fue robado y hubo que reponerlo (2026).',
+    '9.4.1': (2, M, 'El equipo de alerta instalado en el Nullah fue robado y hubo que reponerlo (2026).',
               'trib_robo', 'Inventario y resguardo de equipos.', 'Administración distrital', CORTO),
 }
 ES = {}

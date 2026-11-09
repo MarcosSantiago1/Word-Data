@@ -19,7 +19,7 @@ EN = {
               'pp_voladura,nukta_1122,dawn_calmos', 'Revisión posevento de la crecida de 2025.', 'DDMA / PDMA', CORTO),
     '4.1.1': (2, C, 'En 2025 la amenaza de crecida del Chenab obligó a planificar la evacuación de unos 300.000 ribereños y una voladura que iba a inundar más de 100 aldeas del distrito.',
               'pp_voladura,dawn_diques', 'Estimar desplazados por escenario.', 'DDMA', CORTO),
-    '8.1.1': (2, C, 'La ciudad depende de terraplenes y estructuras de cabecera sobre el Chenab que estuvieron al límite en 2025; se rompieron diques en la zona.',
+    '8.1.1': (2, M, 'La ciudad depende de terraplenes y estructuras de cabecera sobre el Chenab que estuvieron al límite en 2025; se rompieron diques en la zona.',
               'dawn_diques,dawn_doble', 'Reforzar los terraplenes del Chenab.', 'Departamento de Riego', LARGO),
 }
 ES = {

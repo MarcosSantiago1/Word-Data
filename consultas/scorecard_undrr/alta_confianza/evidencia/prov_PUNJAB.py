@@ -21,10 +21,10 @@ EN = {
                 'r1122_cert', 'Planes barriales de reducción del riesgo.', 'Rescue 1122 / municipio', MED),
     '9.3.2': (3, C, 'Rescue 1122 tiene dotaciones y estaciones en cada distrito y un equipo de búsqueda y rescate urbano clasificado por INSARAG (ONU) con base en Lahore.',
               'insarag,r1122_cert', 'Definir dotaciones para el escenario más severo.', 'Rescue 1122', MED),
-    '9.7.1': (3, M, 'Rescue 1122 hace simulacros de evacuación en escuelas y ejercicios anuales con los equipos comunitarios; en 2024 organizó en Lahore el ejercicio de respuesta a terremotos de Asia-Pacífico de INSARAG.',
+    '9.7.1': (3, M, 'Rescue 1122 hace simulacros de evacuación en escuelas y ejercicios anuales con los equipos comunitarios; su equipo de rescate de Lahore tiene clasificación INSARAG de la ONU desde 2019.',
               'r1122_cert,insarag', 'Simulacro anual de ciudad con todos los organismos.', 'Rescue 1122 / DDMA', CORTO),
 }
 ES = {
-    'A9.1': (3, C, 'El gobierno de Punyab declara emergencias por smog (2024: emergencia sanitaria en Lahore y Multán, cierre de escuelas y mascarilla obligatoria) a partir del índice de calidad del aire.',
+    'A9.1': (3, M, 'El gobierno de Punyab declara emergencias por smog (2024: emergencia sanitaria en Lahore y Multán, cierre de escuelas y mascarilla obligatoria) a partir del índice de calidad del aire.',
              'smog24,smog_salud', 'Alertas sanitarias tempranas por calor e inundación.', 'Departamento de Salud de Punyab', MED),
 }

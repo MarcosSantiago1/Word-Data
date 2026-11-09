@@ -6,8 +6,8 @@ Noviembre de 2026. Es la versión "con pruebas" del scorecard de resiliencia ant
 
 - **Cada respuesta con puntaje lleva su fuente**: enlace, título y fecha del documento.
 - **Si no hay prueba pública, no se puntúa.** La pregunta queda como "sin evidencia", con el puntaje vacío, y en el .xlsm queda sin ninguna opción marcada. Nada se estima ni se copia del modelo.
-- **Confianza alta**: lo dice un documento oficial (de la ciudad, la provincia o el país), la respuesta de la propia ciudad a CDP-ICLEI 2023, o un hecho o declaración oficial que publican varios medios de referencia, y el puntaje sale directo de ahí.
-- **Confianza media**: una sola fuente secundaria confiable (organismo internacional, prensa de referencia, estudio académico, agencia estatal sin verificación independiente) o un dato oficial que hay que interpretar para puntuar.
+- **Confianza alta**: lo dice un documento oficial (de la ciudad, la provincia o el país), la respuesta de la propia ciudad a CDP-ICLEI 2023, o un hecho o declaración oficial que publican al menos dos medios de referencia distintos, y el puntaje sale directo de ahí.
+- **Confianza media**: una sola fuente secundaria confiable (organismo internacional, prensa de referencia, estudio académico, agencia estatal sin verificación independiente). Varias notas del mismo medio cuentan como una sola fuente o un dato oficial que hay que interpretar para puntuar.
 - Lo que la ciudad misma dice que **no tiene** (por ejemplo, "no tenemos evaluación de riesgo" ante CDP) cuenta como prueba de un puntaje bajo, con confianza alta.
 
 ## Resultado
@@ -17,12 +17,12 @@ Noviembre de 2026. Es la versión "con pruebas" del scorecard de resiliencia ant
 | Ciudades | 90 |
 | Respuestas | 12.690 (90 × 141) |
 | Con evidencia | 627 (5%) |
-| Confianza alta | 392 |
-| Confianza media | 235 |
+| Confianza alta | 343 |
+| Confianza media | 284 |
 | Sin evidencia | 12.063 |
 | Fuentes distintas citadas | 337 |
 
-La segunda tanda suma 175 respuestas con evidencia (105 alta, 70 media) y la tercera 98 (48 alta, 50 media). La tercera tiene menos porque 17 de sus 30 ciudades son chinas de nivel prefectura, que casi no publican información verificable en línea, y solo 6 respondieron a CDP 2023.
+La segunda tanda suma 175 respuestas con evidencia y la tercera 98. La tercera tiene menos porque 17 de sus 30 ciudades son chinas de nivel prefectura, que casi no publican información verificable en línea, y solo 6 respondieron a CDP 2023.
 
 **Cobertura por ciudad** (respuestas con evidencia de 141): Karachi 52, Quezón 31, Lahore 30, Bombay 29, Rawalpindi 19, Surabaya 19, Calcuta 16, Multán 16, Daca Norte 15, Daca Sur 15, Delhi 14, Surat 14, Ahmedabad 13, Chittagong 13, Gujranwala 13, Islamabad 13, Bekasi 12, Chennai 12, Faisalabad 12, Kaohsiung 12, Yakarta 11, Nuevo Taipéi 10, Taipéi 10, Antalya 9, Dar es Salaam 9, Taoyuan 9, Cần Thơ 8, Hai Phong 8, Kinsasa 8, Bandung 7, Gazipur 7, Lagos 7, Medán 7, Pune 7, Hanói 6, Hyderabad 6, Lucknow 6, Ciudad Ho Chi Minh 5, Depok 5, Kanpur 5, Da Nang 4, Jartum 4, Omdurmán 4, Adana 3, Brazzaville 3, Chaozhou 3, Dongguan 3, Duala 3, Fuzhou (Fujian) 3, Heyuan 3, Huizhou 3, Jiangmen 3, Jieyang 3, Mbuji-Mayi 3, Mosul 3, Shantou 3, Wenzhou 3, Wuzhou 3, Yangjiang 3, Zhangzhou 3, Zhuhai 3, Alejandría 2, Bagdad 2, Bamako 2, Damasco 2, Foshan 2, Kabul 2, Lomé 2, Mogadiscio 2, Ningde 2, Pionyang 2, Rangún 2, Taizhou 2, Zhongshan 2, Conakri 1, El Cairo 1, Fuzhou (Jiangxi) 1, Guiza 1, Jiaxing 1, Luanda 1, Mashhad 1, Nantong 1, Nom Pen 1, Putian 1, Qinzhou 1, Saná 1, Taskent 1, Wuxi 1, Yibin 1, Argel 0. Gujranwala, Faisalabad y Kanpur heredan casi todo de su provincia o su país; las ciudades de Cantón, de Guangdong y de China; Argel no tiene ninguna prueba pública verificable.
 
@@ -36,6 +36,13 @@ Es lo esperable y no un defecto del método:
 - Los sitios de UNDRR (tablero MCR2030, PreventionWeb, Sendai Monitor) bloquean las consultas automáticas, así que no se pudieron leer los scorecards que algunas ciudades hayan cargado ahí.
 
 **Cómo leer el nivel medio**: el nivel medio de cada ciudad se calcula solo sobre las preguntas respondidas. Por eso no es comparable con el puntaje total del modelo ni entre ciudades con distinta cobertura.
+
+## Revisión de calidad (9 de noviembre de 2026)
+
+- **Confianza revisada con la regla.** 40 respuestas tenían confianza alta con un solo medio (a veces varias notas del mismo diario) o solo con medios estatales (Xinhua, China Daily, CGTN, ACP, PTS). Pasaron a confianza media; como algunas están en la evidencia nacional o provincial (Taiwán, Punyab), en la base son 49 filas menos de confianza alta. Siguen en alta las que citan el documento oficial aunque esté alojado en otro sitio: el comunicado del Consejo de Ministros de Malí, la evaluación de ONU-Hábitat y la CDA de Islamabad, el plan de olas de calor del Comisionado de Karachi y los decretos de Vietnam.
+- **Mismo hecho, mismo puntaje.** La pregunta 2.5.1 tenía la misma prueba de CDP ("proceso de actualización al menos cada cinco años") con 4 en Bombay y 3 en otras cinco ciudades; Bombay quedó en 3.
+- **Fechas.** Se comparó el año que dice cada respuesta con el de sus fuentes. En Punyab (9.7.1) se sacó un ejercicio de INSARAG en 2024 que la fuente de 2023 no podía respaldar.
+- **Lo que no se pudo hacer.** Se intentó abrir las 65 páginas de prensa de la segunda y la tercera tanda para comparar cada dato con el texto, pero el acceso a internet de este entorno está limitado a una lista de sitios y no las alcanza. Esas respuestas se apoyan en lo que muestran los buscadores sobre cada página. Las que dependen solo de prensa quedan ahora en confianza media, salvo Kaohsiung (1.2.2) y Da Nang (1.2.2 y 9.2.1), que tienen dos o tres medios distintos. Si se habilita el acceso completo a internet en el entorno, se puede hacer esta comparación página por página.
 
 ## Planes oficiales leídos
 

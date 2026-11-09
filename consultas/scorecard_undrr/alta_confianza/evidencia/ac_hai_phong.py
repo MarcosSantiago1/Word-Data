@@ -21,7 +21,7 @@ EN = {
               'wv_diques', 'Plan de mantenimiento publicado.', 'Gestión de Diques', CORTO),
     '8.3.1': (2, M, 'El tifón Yagi dejó cortes de energía extendidos en la región y bloqueó calles y comunicaciones en Hai Phong.',
               'vnn_yagi,dti_5400', 'Plan de restitución de energía.', 'EVN / ciudad', MED),
-    '10.2.1': (2, C, 'Tras el tifón Yagi la ciudad no pudo evaluar con precisión los daños y el primer ministro ordenó reevaluarlos y registrarlos.',
+    '10.2.1': (2, M, 'Tras el tifón Yagi la ciudad no pudo evaluar con precisión los daños y el primer ministro ordenó reevaluarlos y registrarlos.',
                'ld_danos', 'Protocolo de evaluación de daños y revisión posevento.', 'Comité Popular', CORTO),
 }
 ES = {}

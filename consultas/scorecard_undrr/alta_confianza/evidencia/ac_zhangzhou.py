@@ -10,7 +10,7 @@ F = {
     'lupit': ('https://www.chinadaily.com.cn/a/202108/05/WS610cc742a310efa1bd6672ce.html', 'China Daily: el tifón Lupit toca tierra en Fujian; el gobierno local activa la respuesta de emergencia por inundación', '2021'),
 }
 EN = {
-    '1.2.2': (4, C, 'Ante cada tifón el gobierno local activa la respuesta de emergencia escalonada del sistema de control de crecidas y evacúa zonas bajas (12.235 personas en Mekkhala 2020; decenas de miles con Saudel 2026, con respuesta provincial de nivel III).',
+    '1.2.2': (4, M, 'Ante cada tifón el gobierno local activa la respuesta de emergencia escalonada del sistema de control de crecidas y evacúa zonas bajas (12.235 personas en Mekkhala 2020; decenas de miles con Saudel 2026, con respuesta provincial de nivel III).',
               'mekkhala,lupit,saudel_gt,saudel_cgtn', 'Publicar la revisión posevento.', 'Cuartel de control de crecidas', CORTO),
     '9.2.1': (3, M, 'La respuesta sigue niveles de emergencia (IV a I) definidos en los planes de control de crecidas y tifones; no se halló el plan municipal publicado.',
               'saudel_gt,lupit', 'Publicar el plan municipal.', 'Cuartel de control de crecidas', CORTO),

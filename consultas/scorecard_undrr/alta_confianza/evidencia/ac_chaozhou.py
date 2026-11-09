@@ -11,7 +11,7 @@ F = {
 }
 
 EN = {
-    '1.2.2': (4, C, 'Ante el tifón Hongxia (julio de 2026) Chaozhou activó su respuesta de emergencia ante vientos y lluvias y aplicó total o parcialmente las "cinco suspensiones" (clases, trabajo, transporte, comercios y obras), dentro de la evacuación preventiva de más de 340.000 personas en Guangdong.',
+    '1.2.2': (4, M, 'Ante el tifón Hongxia (julio de 2026) Chaozhou activó su respuesta de emergencia ante vientos y lluvias y aplicó total o parcialmente las "cinco suspensiones" (clases, trabajo, transporte, comercios y obras), dentro de la evacuación preventiva de más de 340.000 personas en Guangdong.',
         'xinhua26', 'Publicar la revisión de la respuesta.', 'Cuartel municipal 三防 de Chaozhou', CORTO),
     '9.2.1': (3, M, 'Chaozhou tiene su propio plan de emergencia ante crecidas, sequías, vientos y heladas, centrado en evacuar personas y controlar la seguridad, que se aplica a tifones y mareas de tormenta; no se pudo leer completo ni verificar si se liga a escenarios.',
         'plan_cz', 'Publicar el plan ligado a escenarios.', 'Cuartel municipal 三防 de Chaozhou', MED),

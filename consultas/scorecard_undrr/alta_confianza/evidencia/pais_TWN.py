@@ -13,9 +13,9 @@ F = {
 EN = {
     '3.3.1': (1, M, 'El 38,9% de las viviendas tiene el seguro básico de terremoto (fin de 2024) y la póliza tiene un tope fijo, así que la parte cubierta de las pérdidas probables es menor al 25%.',
               'treif_tn,treif25', 'Promover el seguro de vivienda en los barrios de más riesgo.', 'Gobierno de la ciudad / TREIF', LARGO),
-    '4.3.2': (4, C, 'El código de diseño sísmico de edificios se revisó en 2022, 11 años después de la versión de 2011, y subió la resistencia exigida cerca de fallas activas.',
+    '4.3.2': (4, M, 'El código de diseño sísmico de edificios se revisó en 2022, 11 años después de la versión de 2011, y subió la resistencia exigida cerca de fallas activas.',
               'pts_codigo', 'Sin acción prioritaria.', '', ''),
-    '7.4.2': (4, C, 'Desde 2016 el sistema público de alerta envía avisos de sismo, tsunami y lluvia por difusión celular a los teléfonos 4G y 5G, y se prueba en el simulacro nacional anual.',
+    '7.4.2': (4, M, 'Desde 2016 el sistema público de alerta envía avisos de sismo, tsunami y lluvia por difusión celular a los teléfonos 4G y 5G, y se prueba en el simulacro nacional anual.',
               'pws,pws16', 'Sumar canales de reporte ciudadano.', 'Gobierno central / ciudad', CORTO),
     '9.1.1.1': (4, M, 'La difusión celular llega a todos los teléfonos 4G y 5G de la zona sin registro previo; los teléfonos solo 2G o certificados antes de 2016 pueden no recibirla.',
                 'pws,pws16', 'Medir el alcance real en la ciudad.', 'Gobierno central', CORTO),

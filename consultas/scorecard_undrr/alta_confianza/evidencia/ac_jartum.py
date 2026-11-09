@@ -11,7 +11,7 @@ F = {
 EN = {
     '8.2.1': (0, C, 'En 2025 los ataques con drones a centrales eléctricas dejaron sin energía a las plantas potabilizadoras y la población pasó a beber agua del Nilo sin tratar.',
               'msf_colera,nat_colera', 'Restituir la potabilización con energía de respaldo.', 'Corporación de Agua del Estado de Jartum', CORTO),
-    '8.3.1': (0, C, 'Los ataques a tres centrales eléctricas provocaron un apagón masivo en la capital en 2025.',
+    '8.3.1': (0, M, 'Los ataques a tres centrales eléctricas provocaron un apagón masivo en la capital en 2025.',
               'nat_colera', 'Restituir el servicio eléctrico.', 'Compañía eléctrica de Sudán', MED),
     '8.7.3': (0, C, 'Hasta el 90% de los hospitales de las zonas de combate quedaron fuera de servicio.',
               'nat_colera,msf_colera', 'Rehabilitar la red hospitalaria.', 'Ministerio de Salud del Estado', MED),

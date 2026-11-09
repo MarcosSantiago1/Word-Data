@@ -20,7 +20,7 @@ EN = {
               'cdp,npr_33,aj_ndjili', 'Aplicar la prohibición y reubicar viviendas en riberas.', 'Hôtel de Ville', MED),
     '1.2.2': (2, C, 'En abril de 2025 el gobierno abrió al menos cuatro refugios para familias desplazadas, pero los residentes criticaron la lentitud de la respuesta.',
               'npr_33,aj_ndjili', 'Plan de coordinación de la respuesta.', 'Hôtel de Ville / gobierno nacional', CORTO),
-    '8.2.1': (1, C, 'La crecida de abril de 2025 dejó a media capital sin agua corriente.',
+    '8.2.1': (1, M, 'La crecida de abril de 2025 dejó a media capital sin agua corriente.',
               'nbc_mitad', 'Plan de continuidad del agua.', 'REGIDESO', MED),
     '8.1.1': (2, C, 'La ciudad construye diques en varios cursos de agua y planta árboles en las riberas (CDP 2023), insuficientes ante la crecida de 2025.',
               'cdp,npr_33', 'Obras de control de crecidas del Ndjili.', 'Hôtel de Ville', LARGO),

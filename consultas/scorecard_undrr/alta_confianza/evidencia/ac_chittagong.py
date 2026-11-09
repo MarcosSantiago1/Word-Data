@@ -13,23 +13,23 @@ F = {
 }
 
 EN = {
-    '1.2.2': (3, C, 'Ante cada ciclón la administración del distrito activa refugios (más de 1.000 en Mocha, 2023) y despliega voluntarios del Programa de Preparación ante Ciclones; en lluvias desaloja familias de laderas de riesgo hacia refugios.',
+    '1.2.2': (3, M, 'Ante cada ciclón la administración del distrito activa refugios (más de 1.000 en Mocha, 2023) y despliega voluntarios del Programa de Preparación ante Ciclones; en lluvias desaloja familias de laderas de riesgo hacia refugios.',
               'cpp_mocha,desalojo', 'Coordinar CCC, CDA y distrito con un plan único.', 'Administración distrital / CCC', CORTO),
     '1.2.1': (2, C, 'Las Standing Orders on Disaster 2019 asignan roles a la corporación, pero la CCC y la CDA se culpan entre sí por el anegamiento y no hay coordinación clara del drenaje.',
               'sod2019,fe_fracaso', 'Acuerdo de roles CCC-CDA para drenaje y laderas.', 'Gobierno / CCC / CDA', CORTO),
     '3.2.2': (1, C, 'Se gastaron cerca de 100.000 millones de takas en 8 años en proyectos de drenaje (el mayor, de 5.617 crore, desde 2017, prometido para 2020) y el anegamiento persiste.',
               'pa_100b,ds_5617', 'Evaluar y reorientar la inversión en drenaje.', 'CDA / CCC', MED),
-    '4.4.1': (1, C, 'El corte de cerros continúa pese a reiteradas prohibiciones y obstruye canales; hay familias viviendo en laderas de riesgo.',
+    '4.4.1': (1, M, 'El corte de cerros continúa pese a reiteradas prohibiciones y obstruye canales; hay familias viviendo en laderas de riesgo.',
               'ds_cerros,desalojo', 'Hacer cumplir la prohibición del corte de cerros.', 'Departamento de Medio Ambiente / CDA', CORTO),
     '8.1.1': (1, C, 'El proyecto de drenaje cubre 36 de 56 canales y la ciudad se sigue anegando, con pérdida de vidas.',
               'fe_fracaso,pa_100b', 'Completar el drenaje de los 56 canales.', 'CDA / CCC', LARGO),
-    '8.1.2': (1, C, 'La CDA atribuye el anegamiento a que la CCC no limpia bien los desagües.',
+    '8.1.2': (1, M, 'La CDA atribuye el anegamiento a que la CCC no limpia bien los desagües.',
               'fe_fracaso', 'Mantenimiento programado de desagües.', 'CCC', CORTO),
-    '9.1.1': (4, C, 'El servicio meteorológico emite señales de ciclón y el Programa de Preparación ante Ciclones las difunde casa por casa; el puerto iza señales locales. Para deslizamientos hay campañas por altavoz.',
+    '9.1.1': (4, M, 'El servicio meteorológico emite señales de ciclón y el Programa de Preparación ante Ciclones las difunde casa por casa; el puerto iza señales locales. Para deslizamientos hay campañas por altavoz.',
               'cpp_mocha,desalojo', 'Alerta de deslizamientos con umbrales de lluvia.', 'BMD / CPP / distrito', MED),
-    '9.5.2': (3, C, 'Más de 1.000 refugios preparados en el distrito de Chattogram para el ciclón Mocha (2023).',
+    '9.5.2': (3, M, 'Más de 1.000 refugios preparados en el distrito de Chattogram para el ciclón Mocha (2023).',
               'cpp_mocha', 'Refugios suficientes y cercanos en la ciudad.', 'Administración distrital', MED),
-    '7.1.1': (3, C, 'El Programa de Preparación ante Ciclones movilizó 8.880 voluntarios y la Media Luna Roja 8.000 en el distrito (2023).',
+    '7.1.1': (3, M, 'El Programa de Preparación ante Ciclones movilizó 8.880 voluntarios y la Media Luna Roja 8.000 en el distrito (2023).',
               'cpp_mocha', 'Cubrir los barrios de laderas.', 'CPP / CCC', MED),
 }
 ES = {}

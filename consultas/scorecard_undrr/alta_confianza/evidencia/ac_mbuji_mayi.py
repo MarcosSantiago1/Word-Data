@@ -12,9 +12,9 @@ F = {
 EN = {
     '8.1.1': (1, C, 'Más de 600 cabezas de erosión amenazan barrios; las obras de Mulamba wa Mpoyi (2 millones de dólares del gobierno nacional) quedaron suspendidas en 2025 y otro sitio llevaba 12% de avance.',
               'acp_2m,act_susp,acp_12', 'Retomar y terminar las obras contra la erosión.', 'Gobierno provincial / Ministerio de Obras', LARGO),
-    '8.1.2': (1, C, 'Las obras contra la erosión se interrumpen por falta de fondos o continuidad (suspensión en 2025).',
+    '8.1.2': (1, M, 'Las obras contra la erosión se interrumpen por falta de fondos o continuidad (suspensión en 2025).',
               'act_susp', 'Financiamiento estable de mantenimiento.', 'Gobierno provincial', CORTO),
-    '4.4.2': (1, C, 'En marzo de 2025 las lluvias dejaron siete muertos y casas destruidas en las cinco comunas, con muros que se derrumbaron sobre sus ocupantes.',
+    '4.4.2': (1, M, 'En marzo de 2025 las lluvias dejaron siete muertos y casas destruidas en las cinco comunas, con muros que se derrumbaron sobre sus ocupantes.',
               'acp_7', 'Normas mínimas de construcción y control.', 'Mairie de Mbuji-Mayi', MED),
 }
 ES = {}

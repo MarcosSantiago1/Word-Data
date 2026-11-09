@@ -22,7 +22,7 @@ EN = {
         'cdp', 'Escenarios de inundación pluvial y fluvial por barrio.', 'Greater Chennai Corporation', MED),
     '9.1.1': (4, M, 'La sala de control usa un pronóstico de inundación por barrio que anticipa anegamientos tres días antes, y el sistema C-FLOWS y el monitoreo estatal envían alertas al centro de comando.',
         'dt_ward,cfm', 'Medir la exactitud del pronóstico tras cada evento.', 'GCC / Revenue Administration', CORTO),
-    '9.6.2': (3, C, 'El Centro Integrado de Comando y Control (ICCC) recibe las alertas de inundación y se fusionó con la sala de control de lluvias; la línea 1913 pasó de 5 a 15 conexiones y 22 pasos bajo nivel tienen cámaras.',
+    '9.6.2': (3, M, 'El Centro Integrado de Comando y Control (ICCC) recibe las alertas de inundación y se fusionó con la sala de control de lluvias; la línea 1913 pasó de 5 a 15 conexiones y 22 pasos bajo nivel tienen cámaras.',
         'dt_iccc,dt_ward', 'Cámaras en toda la ciudad y procedimientos probados.', 'Greater Chennai Corporation', MED),
 }
 ES = {

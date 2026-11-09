@@ -10,7 +10,7 @@ F = {
 }
 
 EN = {
-    '1.2.2': (4, C, 'Ante el supertifón Yagi (septiembre de 2024) Yangjiang activó la respuesta de emergencia ante vientos de nivel I y aplicó la suspensión de clases, trabajo y transporte, dentro de la evacuación preventiva de más de 570.000 personas en Guangdong.',
+    '1.2.2': (4, M, 'Ante el supertifón Yagi (septiembre de 2024) Yangjiang activó la respuesta de emergencia ante vientos de nivel I y aplicó la suspensión de clases, trabajo y transporte, dentro de la evacuación preventiva de más de 570.000 personas en Guangdong.',
         'xh_yagi', 'Publicar la revisión de la respuesta.', 'Cuartel municipal 三防 de Yangjiang', CORTO),
 }
 ES = {

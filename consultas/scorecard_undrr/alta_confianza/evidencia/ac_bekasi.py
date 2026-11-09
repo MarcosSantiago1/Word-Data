@@ -28,7 +28,7 @@ EN = {
               'rm_8m,mtv_20', 'Estimar desplazados por escenario.', 'BPBD', CORTO),
     '8.1.1': (1, C, 'Los terraplenes del río Bekasi fueron superados en 2025, en la peor crecida según el alcalde (peor que 2016 y 2020); el gobierno nacional ordenó auditar la infraestructura.',
               'rm_8m,ant_audit', 'Obras de control de crecidas aguas arriba y en la ciudad.', 'Ministerio de Obras Públicas / ciudad', LARGO),
-    '10.2.1': (2, C, 'Tras la crecida de 2025 el gobierno nacional dispuso una auditoría de la infraestructura de Bekasi; no se halló revisión posevento publicada de la ciudad.',
+    '10.2.1': (2, M, 'Tras la crecida de 2025 el gobierno nacional dispuso una auditoría de la infraestructura de Bekasi; no se halló revisión posevento publicada de la ciudad.',
                'ant_audit', 'Publicar la revisión posevento.', 'BPBD Kota Bekasi', CORTO),
 }
 ES = {
