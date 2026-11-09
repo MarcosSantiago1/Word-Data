@@ -1,0 +1,20 @@
+muestra,variable,indice_epu,indice_vse,indice_mu,indice_pg,indice_amenaza,puntaje_pct,con_evidencia,fuentes
+todas (375),indice_epu,1.0,0.094,0.243,0.114,0.244,-0.069,,
+todas (375),indice_vse,0.094,1.0,0.059,0.321,-0.033,-0.583,,
+todas (375),indice_mu,0.243,0.059,1.0,-0.012,-0.07,0.067,,
+todas (375),indice_pg,0.114,0.321,-0.012,1.0,-0.061,-0.395,,
+todas (375),indice_amenaza,0.244,-0.033,-0.07,-0.061,1.0,0.019,,
+todas (375),puntaje_pct,-0.069,-0.583,0.067,-0.395,0.019,1.0,,
+hechas a mano (16),indice_epu,1.0,-0.124,0.265,-0.512,-0.109,0.244,,
+hechas a mano (16),indice_vse,-0.124,1.0,-0.118,0.318,0.138,-0.35,,
+hechas a mano (16),indice_mu,0.265,-0.118,1.0,-0.362,-0.282,-0.035,,
+hechas a mano (16),indice_pg,-0.512,0.318,-0.362,1.0,0.668,-0.45,,
+hechas a mano (16),indice_amenaza,-0.109,0.138,-0.282,0.668,1.0,-0.294,,
+hechas a mano (16),puntaje_pct,0.244,-0.35,-0.035,-0.45,-0.294,1.0,,
+base con evidencia (90),indice_epu,1.0,-0.262,0.23,-0.074,0.017,,-0.262,-0.236
+base con evidencia (90),indice_vse,-0.262,1.0,0.033,0.455,-0.358,,0.207,0.314
+base con evidencia (90),indice_mu,0.23,0.033,1.0,-0.005,0.121,,0.053,0.03
+base con evidencia (90),indice_pg,-0.074,0.455,-0.005,1.0,-0.595,,-0.379,-0.289
+base con evidencia (90),indice_amenaza,0.017,-0.358,0.121,-0.595,1.0,,0.404,0.383
+base con evidencia (90),con_evidencia,-0.262,0.207,0.053,-0.379,0.404,,1.0,0.921
+base con evidencia (90),fuentes,-0.236,0.314,0.03,-0.289,0.383,,0.921,1.0

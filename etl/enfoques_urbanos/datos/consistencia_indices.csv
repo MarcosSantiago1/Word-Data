@@ -1,0 +1,31 @@
+enfoque,indicador,alfa_cronbach_indice,corr_item_resto,corr_indice_sin_este,ciudades
+Ecología política urbana,sesgo_inundable_pob,0.204,0.266,0.949,365
+Ecología política urbana,sesgo_inundable_constr,0.204,0.225,0.953,375
+Ecología política urbana,pob_sin_verde,0.204,0.141,0.923,375
+Ecología política urbana,perdida_verde,0.204,0.033,0.902,375
+Ecología política urbana,muertes_pm25,0.204,-0.25,0.948,200
+Ecología política urbana,limites_superados,0.204,0.133,0.909,375
+Ecología política urbana,gini,0.204,-0.155,0.909,361
+Vulnerabilidad socio-espacial,idh_bajo,0.479,0.428,0.968,368
+Vulnerabilidad socio-espacial,escolaridad,0.479,0.243,0.956,368
+Vulnerabilidad socio-espacial,pib_pc_log,0.479,0.42,0.951,375
+Vulnerabilidad socio-espacial,brecha_genero,0.479,0.118,0.96,367
+Vulnerabilidad socio-espacial,sin_hospital,0.479,0.258,0.932,349
+Vulnerabilidad socio-espacial,vivienda_baja,0.479,0.461,0.952,375
+Vulnerabilidad socio-espacial,baja_costera_baja,0.479,0.107,0.979,162
+Vulnerabilidad socio-espacial,migrantes,0.479,-0.157,0.975,370
+Metabolismo urbano,co2_pc,0.353,0.42,0.967,375
+Metabolismo urbano,pm25_pc,0.353,0.386,0.953,375
+Metabolismo urbano,residuos_pc,0.353,0.313,0.948,375
+Metabolismo urbano,construido_pc,0.353,0.287,0.93,375
+Metabolismo urbano,agua_subterranea,0.353,-0.054,0.907,375
+Metabolismo urbano,agua_superficial,0.353,-0.133,0.916,375
+Metabolismo urbano,infra_flujos,0.353,-0.224,0.928,375
+Planificación y gobernanza,efectividad_gob,0.804,0.194,0.958,370
+Planificación y gobernanza,calidad_regulatoria,0.804,0.431,0.98,370
+Planificación y gobernanza,estado_derecho,0.804,0.543,0.979,370
+Planificación y gobernanza,control_corrupcion,0.804,0.206,0.958,370
+Planificación y gobernanza,voz_rendicion,0.804,0.251,0.974,370
+Planificación y gobernanza,sociedad_civil,0.804,0.158,0.971,370
+Planificación y gobernanza,reporta_cdp,0.804,0.278,0.95,375
+Planificación y gobernanza,expansion_suelo,0.804,0.033,0.836,312

@@ -1,0 +1,57 @@
+# Cuatro enfoques del riesgo urbano (375 ciudades de más de 2 millones)
+
+Este paso suma profundidad académica al scorecard UNDRR. Mide cada ciudad con cuatro índices, uno por enfoque teórico. El documento con el marco teórico, los resultados y la bibliografía es "Cuatro enfoques del riesgo urbano" (Claude Docs).
+
+| Índice | Enfoque | Pregunta | Indicadores |
+| --- | --- | --- | --- |
+| `indice_epu` Producción del riesgo | Ecología política urbana | ¿Cómo el poder y la transformación del ambiente producen riesgo? | 7 |
+| `indice_vse` Vulnerabilidad socio-espacial | Vulnerabilidad socio-espacial | ¿Cómo las desigualdades condicionan exposición y recuperación? | 8 |
+| `indice_mu` Presión metabólica | Metabolismo urbano | ¿Cómo los flujos de agua, energía, materiales y residuos condicionan la resiliencia? | 7 |
+| `indice_pg` Déficit de gobernanza | Planificación y gobernanza | ¿Cómo instituciones y normas condicionan el espacio y la gestión del riesgo? | 8 |
+
+Todos van de 0 a 100 (percentil entre las 375 ciudades). Más alto siempre es más crítico.
+
+## Cómo se corre
+
+```
+cd etl
+python riesgo_ciudades_mundo/bajar_ghsl.py        # solo si faltan los CSV de GHSL (lo hace actualizar_mundo.py)
+python enfoques_urbanos/construir_enfoques.py
+```
+
+Va en `actualizar_mensual.py` como paso `enfoques_urbanos`, justo después de `riesgo_ciudades_mundo`.
+
+## Qué lee
+
+- `riesgo_ciudades_mundo/datos/ghsl_ciudades.csv`, `amenaza_capacidad_mundo.csv`, `indicadores_pais.csv`.
+- `riesgo_ciudades_mundo/crudos/ghsl/csv/` los temas de GHSL UCDB R2024A: EXPOSURE, GHSL, SDG, GREENNESS, EMISSIONS, NATURAL_SYSTEMS, SOCIOECONOMIC, HEALTH, INFRASTRUCTURES. Se unen por `ID_UC_G0`.
+- `riesgo_ciudades_mundo/crudos/cdp/reporting_2023.csv`: ciudades que reportaron a CDP-ICLEI en 2023 (unidas por distancia de hasta 20 km y población de al menos 300.000).
+- La base de 90 ciudades con evidencia (`consultas/scorecard_undrr/alta_confianza/datos/resumen_ciudades.csv`). Si no está, usa la copia guardada en `entrada/resumen_ciudades_90.csv`.
+
+## Qué escribe (`datos/`)
+
+| Archivo | Contenido |
+| --- | --- |
+| `indicadores_enfoques.csv` | Los 30 indicadores crudos por ciudad |
+| `indices_enfoques.csv` | Los cuatro índices (0-100), sus z, cobertura, tipo, amenaza y puntaje del scorecard |
+| `diccionario_indicadores.csv` | Nombre, sentido, unidad, fuente, fundamento y referencia de cada indicador |
+| `consistencia_indices.csv` | Alfa de Cronbach, correlación ítem-resto y robustez al sacar cada indicador |
+| `correlaciones.csv` | Spearman entre índices, amenaza y puntaje (375, 16 a mano y base de 90) |
+| `regresiones.csv` | MCO con coeficientes estandarizados: puntaje y evidencia pública |
+| `tipologias.csv` | Perfil mediano de cada tipo de ciudad (k-medias, k elegido por silueta) |
+| `resumen_region.csv` | Mediana de cada índice por región |
+| `cdp_ciudades.csv` | Ciudades que reportan a CDP |
+
+## Método en breve
+
+1. Cada indicador se recorta en los percentiles 2,5 y 97,5 (salvo los binarios), se pasa a z y se multiplica por su sentido.
+2. El índice es el promedio de los z si la ciudad tiene al menos el 60% de los indicadores; luego, percentil 0-100.
+3. Robustez: sacar cualquier indicador deja el orden casi igual (Spearman de 0,84 o más).
+4. Tipología: k-medias sobre los cuatro z, de 3 a 6 grupos. Hoy salen 5 tipos (silueta 0,28).
+
+## Cuidado al interpretar
+
+- La gobernanza es casi toda de país (WGI y V-Dem). Dentro de un país solo cambian el reporte a CDP y la expansión del suelo.
+- El puntaje de las 359 ciudades por modelo usa indicadores de país. Por eso la relación gobernanza-puntaje está inflada; la de las 16 hechas a mano es la más limpia.
+- GHSL mide el centro urbano continuo, no el municipio. 44 ciudades comparten centro urbano con otra.
+- La base de 90 se eligió por prioridad: sus regresiones no se generalizan a las 375.

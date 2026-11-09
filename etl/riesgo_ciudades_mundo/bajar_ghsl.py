@@ -8,7 +8,9 @@ import os, re, time, zipfile, urllib.request
 
 CARPETA = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'crudos', 'ghsl')
 BASE = 'https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_UCDB_GLOBE_R2024A/GHS_UCDB_THEME_GLOBE_R2024A'
-TEMAS = ['GENERAL_CHARACTERISTICS', 'HAZARD_RISK', 'EXPOSURE', 'CLIMATE', 'INFRASTRUCTURES', 'SOCIOECONOMIC', 'GEOGRAPHY']
+TEMAS = ['GENERAL_CHARACTERISTICS', 'HAZARD_RISK', 'EXPOSURE', 'CLIMATE', 'INFRASTRUCTURES', 'SOCIOECONOMIC', 'GEOGRAPHY',
+         # enfoques urbanos (etl/enfoques_urbanos): ecología política, vulnerabilidad, metabolismo y gobernanza
+         'EMISSIONS', 'GHSL', 'GREENNESS', 'HEALTH', 'LULC', 'NATURAL_SYSTEMS', 'SDG', 'WATER']
 REFRESCAR = os.environ.get('ETL_REFRESCAR') == '1'
 
 def leer(url):
