@@ -3,6 +3,7 @@
 Enfoques (ver GUIA_ENFOQUES_URBANOS.md y diccionario_indicadores.csv):
   1. Ecología política urbana   -> índice de producción del riesgo
   2. Vulnerabilidad socio-espacial -> índice de vulnerabilidad socio-espacial
+       (con un subíndice de precariedad habitacional: tugurios, saneamiento, hacinamiento, vivienda baja)
   3. Metabolismo urbano          -> índice de presión metabólica
   4. Planificación y gobernanza  -> índice de déficit de gobernanza
 En los cuatro, más alto = peor (más riesgo producido, más vulnerabilidad, más presión, menos gobernanza).
@@ -11,6 +12,7 @@ Lee (todo dentro de etl/):
   riesgo_ciudades_mundo/datos/ghsl_ciudades.csv, amenaza_capacidad_mundo.csv, indicadores_pais.csv
   riesgo_ciudades_mundo/crudos/ghsl/csv/GHS_UCDB_THEME_*.csv   (los baja riesgo_ciudades_mundo/bajar_ghsl.py)
   riesgo_ciudades_mundo/crudos/cdp/reporting_2023.csv
+  API del Banco Mundial: tugurios (EN.POP.SLUM.UR.ZS) y saneamiento urbano (SH.STA.BASS.UR.ZS), copia en crudos/
 Escribe en enfoques_urbanos/datos/:
   indicadores_enfoques.csv   una fila por ciudad, valor crudo de cada indicador
   indices_enfoques.csv       una fila por ciudad, los 4 índices (0-100), cobertura, tipología, amenaza y puntaje
@@ -59,7 +61,14 @@ REF = {
     'tie': 'Tierney (2012); Kaufmann, Kraay y Mastruzzi (2010)',
     'hea': 'Healey (1997); Roy (2009)',
     'pel': 'Pelling (2011); Meerow, Newell y Stults (2016)',
+    'hab': 'UN-Habitat (2003); Roy (2005); Davis (2006)',
 }
+
+# Precariedad habitacional (vivienda informal o precaria): subíndice dentro de la vulnerabilidad socio-espacial.
+# Sigue los criterios de tugurio de ONU-Hábitat: hacinamiento, saneamiento, durabilidad y exposición de la vivienda.
+SUBINDICE_VIVIENDA = ['tugurios', 'sin_saneamiento', 'hacinamiento', 'vivienda_baja', 'baja_costera_baja']
+CRUDOS = os.path.join(AQUI, 'crudos')
+BM_VIVIENDA = {'EN.POP.SLUM.UR.ZS': 'tugurios_pct_urbana', 'SH.STA.BASS.UR.ZS': 'saneamiento_basico_urbano_pct'}
 
 # código, enfoque, nombre, sentido (+1: más alto = peor), unidad, fuente, fundamento, referencia
 DICC = [
@@ -90,6 +99,12 @@ DICC = [
      G + 'SOCIOECONOMIC', 'Distancia del índice de desarrollo de género a la paridad (2020). Las desigualdades de género agravan la vulnerabilidad.', 'par'),
     ('sin_hospital', 'vse', 'Población sin acceso a hospital', +1, '%',
      G + 'HEALTH', 'Parte de la población sin acceso a un hospital (2025): capacidad de respuesta sanitaria en el territorio.', 'par'),
+    ('tugurios', 'vse', 'Población urbana en tugurios o asentamientos informales (país)', +1, '% de la población urbana',
+     'ONU-Hábitat vía Banco Mundial (EN.POP.SLUM.UR.ZS), dato más reciente', 'Hogares urbanos sin al menos una de estas condiciones: agua mejorada, saneamiento mejorado, espacio suficiente, vivienda durable o tenencia segura (ODS 11.1.1). La vivienda informal concentra exposición y dificulta la recuperación.', 'hab'),
+    ('sin_saneamiento', 'vse', 'Población urbana sin saneamiento básico (país)', +1, '% de la población urbana',
+     'OMS/UNICEF JMP vía Banco Mundial (SH.STA.BASS.UR.ZS), dato más reciente', 'Parte de la población urbana sin un baño mejorado propio: uno de los criterios de tugurio y un factor de riesgo sanitario tras inundaciones.', 'hab'),
+    ('hacinamiento', 'vse', 'Volumen residencial construido por habitante', -1, 'm3 por habitante',
+     G + 'GHSL', 'Volumen de edificios residenciales (2020) dividido por la población: poco volumen por persona indica hacinamiento, otro criterio de tugurio. Lo miden satélites, así que vale para la ciudad y no solo para el país.', 'hab'),
     ('vivienda_baja', 'vse', 'Población en vivienda residencial baja (1-2 pisos)', +1, '%',
      G + 'GHSL', 'Parte de la población en tejido residencial de 1 a 2 pisos (2020). Aproxima la vivienda autoconstruida y más frágil; es una aproximación gruesa (también incluye suburbios ricos).', 'par'),
     ('baja_costera_baja', 'vse', 'Población en vivienda baja dentro de la zona costera baja', +1, '%',
@@ -168,12 +183,37 @@ def cdp_por_ubicacion(ciudades):
     return pd.DataFrame(filas, columns=['id', 'cdp_org', 'cdp_nombre', 'cdp_km'])
 
 
+def vivienda_pais():
+    """Tugurios y saneamiento urbano por país (Banco Mundial). Guarda una copia en crudos/ y la usa si la API falla."""
+    f = os.path.join(CRUDOS, 'vivienda_banco_mundial.csv')
+    if not os.path.exists(f) or os.environ.get('ETL_REFRESCAR') == '1':
+        try:
+            import requests
+            filas = {}
+            for cod, col in BM_VIVIENDA.items():
+                r = requests.get(f'https://api.worldbank.org/v2/country/all/indicator/{cod}',
+                                 params={'format': 'json', 'per_page': 20000, 'date': '2005:2030'}, timeout=120)
+                r.raise_for_status()
+                for d in sorted(r.json()[1] or [], key=lambda d: d['date']):   # el último año con dato queda al final
+                    if d['value'] is not None and len(d.get('countryiso3code') or '') == 3:
+                        filas.setdefault(d['countryiso3code'], {'iso3': d['countryiso3code']})
+                        filas[d['countryiso3code']][col] = d['value']
+                        filas[d['countryiso3code']][col + '_anio'] = int(d['date'])
+            os.makedirs(CRUDOS, exist_ok=True)
+            pd.DataFrame(filas.values()).to_csv(f, index=False)
+        except Exception as e:
+            if not os.path.exists(f):
+                raise
+            print(f'  aviso: no se pudo actualizar tugurios y saneamiento ({e}); uso la copia guardada')
+    return pd.read_csv(f)[['iso3'] + list(BM_VIVIENDA.values())]
+
+
 def indicadores():
     c = pd.read_csv(os.path.join(MUNDO, 'datos', 'ghsl_ciudades.csv'))
     c = c[['id', 'nombre', 'iso3', 'pob', 'lat', 'lon', 'ID_UC_G0', 'modo_union']].copy()
     c['centro_urbano_compartido'] = c.ID_UC_G0.duplicated(keep=False)
 
-    cols = ['GH_POP_TOT_1975', 'GH_POP_TOT_2025', 'GH_BUS_TOT_1975', 'GH_BUS_TOT_2025', 'GH_BPC_TOT_2025', 'GH_BUT_P11_2020', 'GH_POP_TOT_2020',
+    cols = ['GH_BUV_RES_2020', 'GH_POP_TOT_1975', 'GH_POP_TOT_2025', 'GH_BUS_TOT_1975', 'GH_BUS_TOT_2025', 'GH_BPC_TOT_2025', 'GH_BUT_P11_2020', 'GH_POP_TOT_2020',
             'EX_100_POP_1975', 'EX_100_POP_2025', 'EX_100_BUS_1975', 'EX_100_BUS_2025', 'EX_L05_P11_2020',
             'SC_SEC_HDI_2020', 'SC_SEC_SYT_2020', 'SC_GDP_AVG_2020', 'SC_SEC_GDI_2020',
             'EM_CO2_TOT_2024', 'EM_PM2_TOT_2024', 'EM_GHG_WAS_2024', 'EM_PM2_MOR_2020',
@@ -193,6 +233,7 @@ def indicadores():
     x = x.merge(p[['iso3', 'gini', 'stock_migrantes_pct_poblacion', 'efectividad_gobierno', 'calidad_regulatoria',
                    'indice_estado_derecho_0_100', 'indice_control_corrupcion_0_100', 'voz_rendicion_cuentas',
                    'indice_sociedad_civil_0_1']], on='iso3', how='left')
+    x = x.merge(vivienda_pais(), on='iso3', how='left')
     cdp = cdp_por_ubicacion(c)
     x = x.merge(cdp, on='id', how='left')
 
@@ -214,6 +255,9 @@ def indicadores():
     o['pib_pc_log'] = np.log10(x.SC_GDP_AVG_2020.where(x.SC_GDP_AVG_2020 > 0))
     o['brecha_genero'] = (1 - x.SC_SEC_GDI_2020).abs()
     o['sin_hospital'] = 100 - x.HL_SHP_HOS_2025
+    o['tugurios'] = x.tugurios_pct_urbana
+    o['sin_saneamiento'] = 100 - x.saneamiento_basico_urbano_pct
+    o['hacinamiento'] = x.GH_BUV_RES_2020 / x.GH_POP_TOT_2020
     o['vivienda_baja'] = 100 * x.GH_BUT_P11_2020 / x.GH_POP_TOT_2020
     o['baja_costera_baja'] = 100 * x.EX_L05_P11_2020 / x.GH_POP_TOT_2020
     o['migrantes'] = x.stock_migrantes_pct_poblacion
@@ -316,6 +360,23 @@ def main():
             cons.append({'enfoque': enf, 'indicador': k, 'alfa_cronbach_indice': round(alfa, 3), 'corr_item_resto': round(rir, 3),
                          'corr_indice_sin_este': round(rob, 3), 'ciudades': int(m[k].notna().sum())})
 
+    # subíndice de precariedad habitacional (sus indicadores también cuentan dentro de la vulnerabilidad)
+    mv = Z[SUBINDICE_VIVIENDA]
+    cobv = mv.notna().mean(axis=1)
+    zv = mv.mean(axis=1).where(cobv >= MIN_COBERTURA)
+    idx['z_viv'] = zv.round(3)
+    idx['indice_viv'] = (100 * zv.rank(pct=True)).round(1)
+    idx['cobertura_viv'] = (100 * cobv).round(0)
+    alfa_v = cronbach(mv)
+    for k in SUBINDICE_VIVIENDA:
+        resto = mv.drop(columns=k).mean(axis=1)
+        ok = mv[k].notna() & resto.notna()
+        sin = resto.where(mv.drop(columns=k).notna().mean(axis=1) >= MIN_COBERTURA)
+        ok2 = zv.notna() & sin.notna()
+        cons.append({'enfoque': 'Subíndice: precariedad habitacional', 'indicador': k, 'alfa_cronbach_indice': round(alfa_v, 3),
+                     'corr_item_resto': round(mv[k][ok].rank().corr(resto[ok].rank()), 3),
+                     'corr_indice_sin_este': round(zv[ok2].rank().corr(sin[ok2].rank()), 3), 'ciudades': int(mv[k].notna().sum())})
+
     mundo = pd.read_csv(os.path.join(MUNDO, 'datos', 'amenaza_capacidad_mundo.csv'))
     idx = idx.merge(mundo[['id', 'ciudad', 'pais', 'region', 'indice_amenaza', 'total_590', 'metodo', 'prioridad', 'amenaza_principal']], on='id', how='left')
     idx['puntaje_pct'] = (100 * idx.total_590 / 590).round(1)
@@ -403,12 +464,13 @@ def main():
         c90 = None
     pd.DataFrame(regs).to_csv(os.path.join(SALIDA, 'regresiones.csv'), index=False)
 
-    reg = idx.groupby('region')[[f'indice_{e}' for e in ENFOQUES]].median().round(1)
+    reg = idx.groupby('region')[[f'indice_{e}' for e in ENFOQUES] + ['indice_viv']].median().round(1)
     reg['ciudades'] = idx.groupby('region').size()
 
     ind.round(4).to_csv(os.path.join(SALIDA, 'indicadores_enfoques.csv'), index=False)
     cols = ['id', 'ciudad', 'pais', 'iso3', 'region', 'pob', 'centro_urbano_compartido'] + \
-           [f'indice_{e}' for e in ENFOQUES] + [f'z_{e}' for e in ENFOQUES] + [f'cobertura_{e}' for e in ENFOQUES] + \
+           [f'indice_{e}' for e in ENFOQUES] + ['indice_viv'] + [f'z_{e}' for e in ENFOQUES] + ['z_viv'] + \
+           [f'cobertura_{e}' for e in ENFOQUES] + ['cobertura_viv'] + \
            ['tipo', 'tipo_nombre', 'indice_amenaza', 'amenaza_principal', 'puntaje_pct', 'metodo', 'prioridad']
     idx[cols].to_csv(os.path.join(SALIDA, 'indices_enfoques.csv'), index=False)
     dic.drop(columns=['enfoque_cod', 'ref'])[['indicador', 'enfoque', 'nombre', 'sentido', 'unidad', 'fuente', 'fundamento', 'referencia', 'cobertura_ciudades']] \
@@ -430,6 +492,7 @@ def main():
     print(f'{len(idx)} ciudades; {len(dic)} indicadores; k={k} tipos (silueta {s:.2f}); {len(cdp)} reportan a CDP')
     for e, (enf, nom) in ENFOQUES.items():
         print(f'  {nom}: {idx[f"indice_{e}"].notna().sum()} ciudades con índice')
+    print(f'  Precariedad habitacional (subíndice): {idx.indice_viv.notna().sum()} ciudades con índice')
 
 
 if __name__ == '__main__':
