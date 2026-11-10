@@ -10,8 +10,13 @@ Cada país mide la vivienda informal a su manera, así que el valor NO es compar
   México     CONEVAL, medición de pobreza municipal 2020: población con carencia por calidad y espacios
              de la vivienda (pisos, techos y muros precarios o hacinamiento). Todos los municipios, más la
              Ciudad de México sumando sus 16 alcaldías (código 09).
-Sin dato: Perú (gob.pe e INEI rechazan la conexión), Ecuador (el Censo 2022 por cantón no se puede
-bajar; la ENEMDU solo da nacional, urbano y rural) y Venezuela (ine.gob.ve no responde).
+  Perú       INEI, Mapa de Necesidades Básicas Insatisfechas 2017 (Censos Nacionales 2017, anexo II.2C):
+             hogares con vivienda de características físicas inadecuadas más hogares con hacinamiento,
+             sobre el total de hogares. Es una cota superior: un hogar con las dos carencias cuenta dos
+             veces (el cuadro no da la unión). Todos los distritos, más Lima Metropolitana sumando la
+             provincia de Lima (1501) y el Callao (0701).
+Sin dato: Ecuador (el Censo 2022 por cantón no se puede bajar; la ENEMDU solo da nacional, urbano y
+rural) y Venezuela (ine.gob.ve no responde).
 
 Escribe enfoques_urbanos/datos/vivienda_municipal.csv y guarda los archivos bajados en
 enfoques_urbanos/crudos/municipal/ (si una fuente falla, usa esa copia).
@@ -41,10 +46,12 @@ URL = {
     'arg_renabap': 'https://www.argentina.gob.ar/sites/default/files/renabap-2023-12-06.geojson',
     'arg_caba_hogares': 'https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_caba_hogares_c1_1.xlsx',
     'mex_coneval': 'https://www.coneval.org.mx/Medicion/Documents/Pobreza_municipal/2020/Concentrado_indicadores_de_pobreza_2020.zip',
+    'per_nbi': 'https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1588/cuadros/02_2C.xlsx',
 }
 ARCHIVO = {'bra_favelas': 'bra_favelas_2022.json', 'bra_poblacion': 'bra_poblacion_2022.json',
            'col_deficit': 'col_deficit_habitacional_cnpv2018.xlsx', 'arg_renabap': 'arg_renabap_2023-12-06.geojson',
-           'arg_caba_hogares': 'arg_caba_hogares_censo2022.xlsx', 'mex_coneval': 'mex_coneval_pobreza_municipal_2020.zip'}
+           'arg_caba_hogares': 'arg_caba_hogares_censo2022.xlsx', 'mex_coneval': 'mex_coneval_pobreza_municipal_2020.zip',
+           'per_nbi': 'per_nbi_hogares_2017.xlsx'}
 
 # ciudad del estudio (id de riesgo_ciudades_mundo) -> (iso3, código de municipio en la fuente)
 CIUDAD_MUNICIPIO = {
@@ -54,6 +61,7 @@ CIUDAD_MUNICIPIO = {
     'bogota': ('COL', '11001'), 'medellin': ('COL', '05001'), 'cali': ('COL', '76001'),
     'caba': ('ARG', '02'),
     'cdmx': ('MEX', '09'),
+    'lima': ('PER', '1501+0701'),
 }
 
 
@@ -151,9 +159,30 @@ def mexico():
     return filas
 
 
+def peru():
+    d = pd.read_excel(bajar('per_nbi'), sheet_name=0, header=None, dtype=object)
+    # columnas del anexo II.2C: 1 ubigeo, 2 departamento, 3 provincia, 4 distrito, 5 total de hogares,
+    # 6 hogares en vivienda con características físicas inadecuadas, 8 hogares en vivienda con hacinamiento
+    if 'inadecuadas' not in str(d.iloc[4, 6]).lower() or 'hacinamiento' not in str(d.iloc[4, 8]).lower():
+        raise ValueError('el anexo II.2C del INEI cambió de formato')
+    m = d[d[1].astype(str).str.fullmatch(r'\d{6}')].copy()
+    for c in (5, 6, 8):
+        m[c] = pd.to_numeric(m[c], errors='coerce')
+    m['num'] = m[6] + m[8]
+    fuente = 'INEI, Mapa de Necesidades Básicas Insatisfechas 2017 (Censos Nacionales 2017, anexo II.2C)'
+    ind = 'Hogares con vivienda inadecuada más hogares con hacinamiento (NBI 1 + NBI 2, cota superior)'
+    fila = lambda cod, nom, num, tot: {'iso3': 'PER', 'codigo': cod, 'municipio': nom, 'valor_pct': round(100 * num / tot, 2),
+                                       'numerador': num, 'denominador': tot, 'unidad': 'hogares', 'anio': 2017,
+                                       'indicador': ind, 'fuente': fuente}
+    filas = [fila(str(r[1]), f'{r[4]} ({r[3]}, {r[2]})', r.num, r[5]) for _, r in m.iterrows() if r[5] and pd.notna(r.num)]
+    lima = m[m[1].astype(str).str[:4].isin(['1501', '0701'])]   # Lima Metropolitana: provincia de Lima + Callao
+    filas.append(fila('1501+0701', 'Lima Metropolitana (provincia de Lima y Callao)', lima.num.sum(), lima[5].sum()))
+    return filas
+
+
 def main():
     filas = []
-    for nombre, fn in [('Brasil', brasil), ('Colombia', colombia), ('Argentina (CABA)', argentina_caba), ('México', mexico)]:
+    for nombre, fn in [('Brasil', brasil), ('Colombia', colombia), ('Argentina (CABA)', argentina_caba), ('México', mexico), ('Perú', peru)]:
         try:
             filas += fn()
         except Exception as e:   # un país caído no frena a los otros

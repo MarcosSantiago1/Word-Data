@@ -1,6 +1,6 @@
 tipo,indice_epu,indice_vse,indice_mu,indice_pg,indice_amenaza,puntaje_pct,ciudades,tipo_nombre,ejemplos,silueta
-1,89.2,35.2,57.1,50.5,0.6,55.2,72,Riesgo producido por la expansión,"Shanghái, Cantón, Shenzhen, Estambul, Ciudad Ho Chi Minh, Suzhou",0.3
-2,17.7,3.5,48.5,3.0,0.5,81.4,21,Baja criticidad en casi todos los enfoques,"Tokio (Metrópolis), Seúl, Londres (Gran Londres), Nueva York, Singapur, Berlín",0.3
+1,58.8,94.4,54.1,93.0,0.5,30.2,41,Vulnerabilidad social con instituciones débiles,"Karachi, Kinsasa, Lahore, Bagdad, Daca Norte, Adís Abeba",0.3
+2,89.2,34.8,57.1,50.5,0.6,55.2,72,Riesgo producido por la expansión,"Shanghái, Cantón, Shenzhen, Estambul, Ciudad Ho Chi Minh, Suzhou",0.3
 3,59.6,48.7,91.8,50.5,0.4,54.2,56,Metabolismo intensivo,"Lagos, Baoding, Yakarta, Linyi, Qingdao, Weifang",0.3
-4,58.8,94.4,54.1,93.0,0.5,30.2,41,Vulnerabilidad social con instituciones débiles,"Karachi, Kinsasa, Lahore, Bagdad, Daca Norte, Adís Abeba",0.3
-5,34.7,50.9,33.5,50.5,0.5,54.1,179,Perfil intermedio,"Chongqing, Pekín, Chengdu, Tianjín, Moscú, Xi'an",0.3
+4,34.7,50.9,33.5,50.5,0.5,54.1,179,Perfil intermedio,"Chongqing, Pekín, Chengdu, Tianjín, Moscú, Xi'an",0.3
+5,17.7,3.5,48.5,3.0,0.5,81.4,21,Baja criticidad en casi todos los enfoques,"Tokio (Metrópolis), Seúl, Londres (Gran Londres), Nueva York, Singapur, Berlín",0.3
