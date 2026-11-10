@@ -7,6 +7,11 @@ Cada país mide la vivienda informal a su manera, así que el valor NO es compar
              (cuantitativo + cualitativo) sobre el total de hogares. Todos los municipios.
   Argentina  RENABAP (registro de barrios populares, versión 2023-12-06): familias en barrios populares
              sobre los hogares del Censo 2022 (INDEC). Por ahora solo la Ciudad de Buenos Aires.
+  México     CONEVAL, medición de pobreza municipal 2020: población con carencia por calidad y espacios
+             de la vivienda (pisos, techos y muros precarios o hacinamiento). Todos los municipios, más la
+             Ciudad de México sumando sus 16 alcaldías (código 09).
+Sin dato: Perú (gob.pe e INEI rechazan la conexión), Ecuador (el Censo 2022 por cantón no se puede
+bajar; la ENEMDU solo da nacional, urbano y rural) y Venezuela (ine.gob.ve no responde).
 
 Escribe enfoques_urbanos/datos/vivienda_municipal.csv y guarda los archivos bajados en
 enfoques_urbanos/crudos/municipal/ (si una fuente falla, usa esa copia).
@@ -16,8 +21,10 @@ en las ciudades del estudio que tienen dato (ver CIUDAD_MUNICIPIO).
 uso (desde etl/): python enfoques_urbanos/vivienda_municipal.py
 """
 
+import io
 import json
 import os
+import zipfile
 
 import pandas as pd
 import requests
@@ -33,10 +40,11 @@ URL = {
     'col_deficit': 'https://www.dane.gov.co/files/investigaciones/deficit-habitacional/deficit-hab-2020-anexo-nueva-metodologia.xlsx',
     'arg_renabap': 'https://www.argentina.gob.ar/sites/default/files/renabap-2023-12-06.geojson',
     'arg_caba_hogares': 'https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_caba_hogares_c1_1.xlsx',
+    'mex_coneval': 'https://www.coneval.org.mx/Medicion/Documents/Pobreza_municipal/2020/Concentrado_indicadores_de_pobreza_2020.zip',
 }
 ARCHIVO = {'bra_favelas': 'bra_favelas_2022.json', 'bra_poblacion': 'bra_poblacion_2022.json',
            'col_deficit': 'col_deficit_habitacional_cnpv2018.xlsx', 'arg_renabap': 'arg_renabap_2023-12-06.geojson',
-           'arg_caba_hogares': 'arg_caba_hogares_censo2022.xlsx'}
+           'arg_caba_hogares': 'arg_caba_hogares_censo2022.xlsx', 'mex_coneval': 'mex_coneval_pobreza_municipal_2020.zip'}
 
 # ciudad del estudio (id de riesgo_ciudades_mundo) -> (iso3, código de municipio en la fuente)
 CIUDAD_MUNICIPIO = {
@@ -45,6 +53,7 @@ CIUDAD_MUNICIPIO = {
     'manaus': ('BRA', '1302603'),
     'bogota': ('COL', '11001'), 'medellin': ('COL', '05001'), 'cali': ('COL', '76001'),
     'caba': ('ARG', '02'),
+    'cdmx': ('MEX', '09'),
 }
 
 
@@ -119,9 +128,32 @@ def argentina_caba():
              'fuente': 'RENABAP 2023-12-06 (argentina.gob.ar) e INDEC, Censo 2022'}]
 
 
+def mexico():
+    with zipfile.ZipFile(bajar('mex_coneval')) as z:
+        nombre = next(n for n in z.namelist() if n.lower().endswith('.xlsx'))
+        d = pd.read_excel(io.BytesIO(z.read(nombre)), sheet_name=0, header=None, dtype=object)
+    # columnas del concentrado: 1 clave de entidad, 2 entidad, 3 clave de municipio, 4 municipio, 7 población 2020,
+    # 85 carencia por calidad y espacios de la vivienda (% 2020), 88 la misma en personas 2020
+    if 'calidad y espacios' not in str(d.iloc[4, 83]).lower() or '2020' not in str(d.iloc[5, 88]):
+        raise ValueError('el concentrado de CONEVAL cambió de formato')
+    m = d[d[3].astype(str).str.fullmatch(r'\d{5}')].copy()
+    m['pob'] = pd.to_numeric(m[7], errors='coerce')
+    m['car'] = pd.to_numeric(m[88], errors='coerce')
+    fuente = 'CONEVAL, medición de la pobreza municipal 2020'
+    ind = 'Población con carencia por calidad y espacios de la vivienda'
+    filas = [{'iso3': 'MEX', 'codigo': str(r[3]), 'municipio': f'{r[4]} ({r[2]})', 'valor_pct': round(100 * r.car / r.pob, 2),
+              'numerador': r.car, 'denominador': r.pob, 'unidad': 'personas', 'anio': 2020, 'indicador': ind, 'fuente': fuente}
+             for _, r in m.iterrows() if r.pob and pd.notna(r.car)]
+    cdmx = m[m[1].astype(str) == '09']   # Ciudad de México: suma de sus 16 alcaldías
+    filas.append({'iso3': 'MEX', 'codigo': '09', 'municipio': 'Ciudad de México (16 alcaldías)',
+                  'valor_pct': round(100 * cdmx.car.sum() / cdmx.pob.sum(), 2), 'numerador': cdmx.car.sum(),
+                  'denominador': cdmx.pob.sum(), 'unidad': 'personas', 'anio': 2020, 'indicador': ind, 'fuente': fuente})
+    return filas
+
+
 def main():
     filas = []
-    for nombre, fn in [('Brasil', brasil), ('Colombia', colombia), ('Argentina (CABA)', argentina_caba)]:
+    for nombre, fn in [('Brasil', brasil), ('Colombia', colombia), ('Argentina (CABA)', argentina_caba), ('México', mexico)]:
         try:
             filas += fn()
         except Exception as e:   # un país caído no frena a los otros

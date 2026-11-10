@@ -12,7 +12,7 @@ Este paso suma profundidad académica al scorecard UNDRR. Mide cada ciudad con c
 
 Todos van de 0 a 100 (percentil entre las 375 ciudades). Más alto siempre es más crítico.
 
-El subíndice de precariedad habitacional sigue los criterios de tugurio de ONU-Hábitat (ODS 11.1.1). Usa cinco indicadores: tugurios (dato del municipio en 11 ciudades latinoamericanas; si no, país, Banco Mundial EN.POP.SLUM.UR.ZS), sin saneamiento básico urbano (país, SH.STA.BASS.UR.ZS), hacinamiento (volumen residencial por habitante, GHSL, por ciudad), vivienda de 1-2 pisos y vivienda baja en zona costera baja.
+El subíndice de precariedad habitacional sigue los criterios de tugurio de ONU-Hábitat (ODS 11.1.1). Usa cinco indicadores: tugurios (dato del municipio en 12 ciudades latinoamericanas; si no, país, Banco Mundial EN.POP.SLUM.UR.ZS), sin saneamiento básico urbano (país, SH.STA.BASS.UR.ZS), hacinamiento (volumen residencial por habitante, GHSL, por ciudad), vivienda de 1-2 pisos y vivienda baja en zona costera baja.
 
 ## Cómo se corre
 
@@ -29,7 +29,7 @@ Va en `actualizar_mensual.py` como paso `enfoques_urbanos`, justo después de `r
 - `riesgo_ciudades_mundo/datos/ghsl_ciudades.csv`, `amenaza_capacidad_mundo.csv`, `indicadores_pais.csv`.
 - `riesgo_ciudades_mundo/crudos/ghsl/csv/` los temas de GHSL UCDB R2024A: EXPOSURE, GHSL, SDG, GREENNESS, EMISSIONS, NATURAL_SYSTEMS, SOCIOECONOMIC, HEALTH, INFRASTRUCTURES. Se unen por `ID_UC_G0`.
 - `riesgo_ciudades_mundo/crudos/cdp/reporting_2023.csv`: ciudades que reportaron a CDP-ICLEI en 2023 (unidas por distancia de hasta 20 km y población de al menos 300.000).
-- `vivienda_municipal.py`: vivienda informal por municipio según la fuente oficial de cada país. Brasil: población en favelas, IBGE Censo 2022, SIDRA 9884 y 4709, los 5.570 municipios. Colombia: hogares en déficit habitacional, DANE CNPV 2018, los 1.122 municipios. Ciudad de Buenos Aires: familias en barrios populares del RENABAP sobre hogares del Censo 2022. Escribe `datos/vivienda_municipal.csv`, guarda copias en `crudos/municipal/` y se vuelve a bajar con `ETL_REFRESCAR=1`. Las definiciones no son comparables entre países. México, Perú, Ecuador y Venezuela no tienen dato porque sus fuentes (CONEVAL, INEI, INEC, INE) no responden desde el entorno.
+- `vivienda_municipal.py`: vivienda informal por municipio según la fuente oficial de cada país. Brasil: población en favelas, IBGE Censo 2022, SIDRA 9884 y 4709, los 5.570 municipios. Colombia: hogares en déficit habitacional, DANE CNPV 2018, los 1.122 municipios. Ciudad de Buenos Aires: familias en barrios populares del RENABAP sobre hogares del Censo 2022. México: población con carencia por calidad y espacios de la vivienda, CONEVAL 2020, los 2.466 municipios más la Ciudad de México (suma de sus 16 alcaldías). Escribe `datos/vivienda_municipal.csv`, guarda copias en `crudos/municipal/` y se vuelve a bajar con `ETL_REFRESCAR=1`. Las definiciones no son comparables entre países. Perú, Ecuador y Venezuela no tienen dato: gob.pe y el INEI rechazan la conexión, el Censo 2022 de Ecuador por cantón no se puede bajar (la ENEMDU del INEC solo da nacional, urbano y rural) y ine.gob.ve no responde.
 - La API del Banco Mundial para tugurios y saneamiento. Guarda una copia en `crudos/vivienda_banco_mundial.csv`, que se usa si la API falla; se vuelve a bajar con `ETL_REFRESCAR=1`.
 - La base de 90 ciudades con evidencia (`consultas/scorecard_undrr/alta_confianza/datos/resumen_ciudades.csv`). Si no está, usa la copia guardada en `entrada/resumen_ciudades_90.csv`.
 
@@ -46,7 +46,7 @@ Va en `actualizar_mensual.py` como paso `enfoques_urbanos`, justo después de `r
 | `tipologias.csv` | Perfil mediano de cada tipo de ciudad (k-medias, k elegido por silueta) |
 | `resumen_region.csv` | Mediana de cada índice y del subíndice de vivienda por región |
 | `cdp_ciudades.csv` | Ciudades que reportan a CDP |
-| `vivienda_municipal.csv` | Vivienda informal por municipio (Brasil, Colombia, CABA), con indicador y fuente |
+| `vivienda_municipal.csv` | Vivienda informal por municipio (Brasil, Colombia, México, CABA), con indicador y fuente |
 
 ## Método en breve
 
@@ -60,5 +60,5 @@ Va en `actualizar_mensual.py` como paso `enfoques_urbanos`, justo después de `r
 - La gobernanza es casi toda de país (WGI y V-Dem). Dentro de un país solo cambian el reporte a CDP y la expansión del suelo.
 - El puntaje de las 359 ciudades por modelo usa indicadores de país. Por eso la relación gobernanza-puntaje está inflada; la de las 16 hechas a mano es la más limpia.
 - GHSL mide el centro urbano continuo, no el municipio. 44 ciudades comparten centro urbano con otra.
-- Tugurios usa el censo municipal solo en 11 ciudades (columna `tugurios_origen` en `indicadores_enfoques.csv`); en el resto, y para el saneamiento, es dato de país.
+- Tugurios usa el dato municipal solo en 12 ciudades (columna `tugurios_origen` en `indicadores_enfoques.csv`); en el resto, y para el saneamiento, es dato de país.
 - La base de 90 se eligió por prioridad: sus regresiones no se generalizan a las 375.

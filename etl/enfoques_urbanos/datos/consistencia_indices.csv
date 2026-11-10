@@ -7,16 +7,16 @@ Ecología política urbana,muertes_pm25,0.204,-0.25,0.948,200
 Ecología política urbana,limites_superados,0.204,0.133,0.909,375
 Ecología política urbana,gini,0.204,-0.155,0.909,361
 Vulnerabilidad socio-espacial,idh_bajo,0.662,0.603,0.985,368
-Vulnerabilidad socio-espacial,escolaridad,0.662,0.278,0.975,368
-Vulnerabilidad socio-espacial,pib_pc_log,0.662,0.346,0.962,375
+Vulnerabilidad socio-espacial,escolaridad,0.662,0.28,0.975,368
+Vulnerabilidad socio-espacial,pib_pc_log,0.662,0.347,0.962,375
 Vulnerabilidad socio-espacial,brecha_genero,0.662,0.244,0.976,367
 Vulnerabilidad socio-espacial,sin_hospital,0.662,0.14,0.951,349
-Vulnerabilidad socio-espacial,tugurios,0.662,0.358,0.985,369
-Vulnerabilidad socio-espacial,sin_saneamiento,0.662,0.445,0.992,361
+Vulnerabilidad socio-espacial,tugurios,0.662,0.359,0.985,369
+Vulnerabilidad socio-espacial,sin_saneamiento,0.662,0.444,0.992,361
 Vulnerabilidad socio-espacial,hacinamiento,0.662,0.227,0.956,375
-Vulnerabilidad socio-espacial,vivienda_baja,0.662,0.509,0.973,375
-Vulnerabilidad socio-espacial,baja_costera_baja,0.662,0.104,0.984,162
-Vulnerabilidad socio-espacial,migrantes,0.662,-0.064,0.989,370
+Vulnerabilidad socio-espacial,vivienda_baja,0.662,0.508,0.973,375
+Vulnerabilidad socio-espacial,baja_costera_baja,0.662,0.105,0.984,162
+Vulnerabilidad socio-espacial,migrantes,0.662,-0.065,0.989,370
 Metabolismo urbano,co2_pc,0.353,0.42,0.967,375
 Metabolismo urbano,pm25_pc,0.353,0.386,0.953,375
 Metabolismo urbano,residuos_pc,0.353,0.313,0.948,375
@@ -32,8 +32,8 @@ Planificación y gobernanza,voz_rendicion,0.804,0.251,0.974,370
 Planificación y gobernanza,sociedad_civil,0.804,0.158,0.971,370
 Planificación y gobernanza,reporta_cdp,0.804,0.278,0.95,375
 Planificación y gobernanza,expansion_suelo,0.804,0.033,0.836,312
-Subíndice: precariedad habitacional,tugurios,0.602,0.229,0.939,369
-Subíndice: precariedad habitacional,sin_saneamiento,0.602,0.37,0.978,361
-Subíndice: precariedad habitacional,hacinamiento,0.602,0.236,0.821,375
-Subíndice: precariedad habitacional,vivienda_baja,0.602,0.361,0.914,375
-Subíndice: precariedad habitacional,baja_costera_baja,0.602,0.071,0.97,162
+Subíndice: precariedad habitacional,tugurios,0.602,0.229,0.938,369
+Subíndice: precariedad habitacional,sin_saneamiento,0.602,0.366,0.977,361
+Subíndice: precariedad habitacional,hacinamiento,0.602,0.236,0.819,375
+Subíndice: precariedad habitacional,vivienda_baja,0.602,0.358,0.914,375
+Subíndice: precariedad habitacional,baja_costera_baja,0.602,0.07,0.97,162
