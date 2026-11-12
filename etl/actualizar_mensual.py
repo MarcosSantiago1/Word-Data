@@ -9,7 +9,7 @@ Cómo funciona (paso a paso):
        panel de países (paso 1 + paso 2) -> maestros -> alianzas -> Argentina por provincia
        -> Latinoamérica por subdivisión -> dimensiones nuevas y suicidio estandarizado (OMS)
        -> paso 3 (las suma al panel) -> indicadores sociales -> riesgo en ciudades
-       -> scorecard mundial -> cuatro enfoques urbanos -> modelo unificado (SQLite) -> bases regionales -> base absoluta
+       -> scorecard mundial -> cuatro enfoques urbanos -> k-means de ciudades -> modelo unificado (SQLite) -> bases regionales -> base absoluta
   3. Si un paso falla (fuente caída, dominio bloqueado, cambio de formato), ese paso vuelve
      a su versión anterior y los siguientes siguen con ella. Nunca se pisan datos buenos.
   4. Controla cada archivo nuevo contra el anterior: si desaparece un archivo, se pierden
@@ -82,6 +82,8 @@ PASOS = [
      [["riesgo_ciudades_mundo/actualizar_mundo.py"]], ["riesgo_ciudades_mundo"]),  # lee datos_procesados/ y maestros/
     ("enfoques_urbanos", "Cuatro enfoques del riesgo urbano en las 375 ciudades (ecología política, vulnerabilidad, metabolismo, gobernanza)",
      [["enfoques_urbanos/construir_enfoques.py"]], ["enfoques_urbanos"]),  # lee riesgo_ciudades_mundo/ (después de ese paso)
+    ("clusters_ciudades", "K-means de las 375 ciudades: completo (31 indicadores) y urbano (17 que cambian dentro del país)",
+     [["clusters_ciudades/kmeans_ciudades.py"]], ["clusters_ciudades"]),  # lee enfoques_urbanos/datos (después de ese paso)
     ("modelo_unificado", "Modelo unificado (SQLite)",
      [["modelo_unificado/construir_master.py"]], ["modelo_unificado"]),
     ("bases_regionales", "Bases Argentina, Latinoamérica y mundial (SQLite)",  # lee el master
