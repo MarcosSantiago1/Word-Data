@@ -1,0 +1,749 @@
+# CDP Cities 2023 - The Local Government of Quezon City (org 54348) https://www.cdp.net/en/responses/54348
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: City/Municipality
+  - Next highest level of government: State/regional
+  - Next lowest level of government: Sub-municipal district
+  - Land area of the jurisdiction boundary (in square km)^: 161.12
+  - Percentage range of land area that is green space: 11-20%
+  - Current (or most recent) population size^: 2960048
+  - Population year^: 2020
+  - Projected population size: 3391511
+  - Projected population year: 2025
+  - Select the currency used for all financial information reported throug: PHP Philippine Peso
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking plans and/or strategies
+  - Select the processes that reflect your jurisdiction's oversight of cli: Council (or equivalent) is informed by relevant departments, committees and/or subcommittees about climate-related issues
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking budgeting and/or major capital expenditures
+  - Select the processes that reflect your jurisdiction's oversight of cli: Relevant departments, committees and/or subcommittees are informed by management about climate-related issues
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related responsibilities are assigned to a committee(s) or a subcommittee(s) in the government
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related responsibilities are assigned to management-level positions in the government
+  - Provide further details on your jurisdiction's oversight of climate-re: The Quezon City Government created the Climate Change and Environmental Sustainability Department (or CCESD) through an Ordinance to oversee the implementation of climate actions in the City. The Climate Change and Environmental Sustainability Department is tasked to develop and implement policies, programs, projects, systems, and strategies on climate change mitigation and adaptation as well as environmental sustainability while ensuring efficient and sustainable resource allocation through advocacy-driven campaigns, environment-friendly technological advances, environmental education, and community engagement.Quezon City's Climate Change and Environmental Sustainability Department provides city-wide oversight for the implementation of climate actions, including overall coordination of actions across lead departments who are involved in climate action planning and implementation. The Cl
+  - Describe how climate-related issues have impacted your jurisdiction's : Demonstrating rapid urban growth, Quezon City endeavors to lead towards a carbon-neutral and climate-resilient development pathway, striving to promote sustainable solutions in addressing development pressures and creating healthier, greener spaces for its citizens. Having a strong governance that demonstrates leadership towards promoting sustainable solutions in addressing climate-related issues and also endeavors carbon neutrality and climate resiliency, Quezon City is mainstreaming its climate action as well as disaster risk reduction and management plans in the City's development plans including  the various local government systems and processes.The Quezon City Government has reinforced the mainstreaming of its disaster risk reduction and management (DRRM) and climate change act (CCA) in its local government systems and processes, ensuring that the City’s Comprehensive Land Use Plan
+  - Describe how climate-related issues have impacted your jurisdiction's : Programs, projects and activities on climate action are embedded in the budget of various city departments and offices. The City tracks its climate expenditures through the  Annual Investment Programs following the Joint Memorandum Circular 2014-01 issued on August 2014 by the Department of Budget and Management (DBM), Climate Change Commission (CCC) and the Department of Interior and Local Government (DILG) on Climate Change Expenditure Tagging (CCET).  The objective of CCET is to identify and tag climate change programs, projects and activities (PPAs) to take stock of climate change initiatives as well as track and report climate change expenditures of the LGUs.
+  - Describe the risks to your jurisdiction related to the transition to a: In September 2020, Quezon City completed the technical report on “Inclusive Climate Action Stakeholder and Policy Analysis for Quezon City”. The technical report provides a comprehensive assessment of how inclusivity and equity are being integrated into the climate action planning and implementation processes of Quezon City. It makes an assessment of existing climate strategies and policies, individual technical capacities, institutional processes, socioeconomic context, formal and informal governance structures, political economy, stakeholder engagement strategies, as well as concrete mechanisms in place to monitor and evaluate inclusivityIn that report, there were no identified risks with the City's transition to low-carbon development as the identified priority climate actions will deliver transformative outcomes that will not only promote meaningful benefits throughout the population
+
+[0.4 fila 1] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate risk and vulnerability assessment
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Level of governments engaged in the development, implementation and/or: Lower level of government
+  - Outline the purpose of this engagement: To facilitate capacity building across different levels of government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into assessments and policy developed across different levels of government
+
+[0.4 fila 2] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Community-wide GHG emissions inventory
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Outline the purpose of this engagement: To facilitate information sharing across different levels of government
+  - Outline the purpose of this engagement: To collect data and/or feedback from other levels of government to inform its development
+  - Outline the purpose of this engagement: To facilitate the integration of this component into assessments and policy developed across different levels of government
+
+[0.4 fila 3] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate action plan
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Level of governments engaged in the development, implementation and/or: Lower level of government
+  - Outline the purpose of this engagement: The development of this component is required by the national government (e.g., by law, regulation and/or agreement)
+  - Outline the purpose of this engagement: To facilitate information sharing across different levels of government
+  - Outline the purpose of this engagement: To collect data and/or feedback from other levels of government to inform its development
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the Nationally Determined Contribution (NDC)
+  - Outline the purpose of this engagement: To facilitate the integration of this component into assessments and policy developed across different levels of government
+  - Outline the purpose of this engagement: To facilitate capacity building across different levels of government
+
+[0.5 fila 1] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): National government
+  - Primary entity collaborated with (selection mandatory)_G: Government/Public body
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Mechanisms used to collaborate: Reporting of climate and/or environmental data
+  - Areas collaboration focused on: Transport (Mobility)
+  - Areas collaboration focused on: Building and Infrastructure
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Resilience
+  - Description of collaboration: Following the City's goal to reduce Greenhouse Gas emissions by 30% in 2030 as stated in the Enhanced Local Climate Change Action Plan 2021-2050 as well as reduce the City Government’s monthly electricity and fuel consumption by 10% through the implementation of the Government Energy Management Program (GEMP), the City acknowledges the importance of aligning initiatives with the Energy Efficiency and Conservation (EE&C)  Act which empowers cities to implement programs that will reduce energy demands, GHG emissions and promote utility savings.
+
+[0.5 fila 2] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Primary entity collaborated with (selection mandatory): NGO and associations
+  - Mechanisms used to collaborate: Technical assistance
+  - Mechanisms used to collaborate: Reporting of climate and/or environmental data
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Funding (grants)
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Mechanisms used to collaborate: Capacity development
+  - Areas collaboration focused on: Public health
+  - Areas collaboration focused on: Other, please specify: Air Quality Management
+  - Description of collaboration: As part of the C40 Air Quality Technical Assistance Programme, air quality sensors were procured under the Quezon City Baseline Air Quality Study Project  with generous funding from the Clean Air Fund. The study involves the deployment of low-cost air quality sensors in strategic areas to create an estimate of baseline air pollution characteristics in the City. An  Air Quality Management Plan Roadmap was also drafted which provides a long-term program for the attainment of the City’s clean air objectives as well as its commitment to the C40 Clean Air Cities Declaration.  These projects were undertaken in collaboration with  Clean Air Asia.
+
+[0.5 fila 3] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): NGO and associations
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Mechanisms used to collaborate: Circular economy business model support
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Mechanisms used to collaborate: Entrepreneurship support programmes
+  - Areas collaboration focused on: Public health
+  - Areas collaboration focused on: Ecosystem restoration
+  - Areas collaboration focused on: Waste
+  - Description of collaboration: The Quezon City Government partnered with Basic Environmental Systems and Technologies Inc. (BEST) for the Trash to Cashback  program as part of the City’s plastic waste reduction and circular economy initiatives. The Trash to Cashback program was initiated to promote waste segregation and recover recyclable materials and single use plastics from the waste stream. It allows participants to trade and convert said recyclables into “Environmental Points” which can be used to purchase goods and services from bXTRA merchant-members through the bXTRA Customer Loyalty Platform and pay utility bills such as electricity, water, internet services and the like through the Bayad App.
+
+[0.5 fila 4] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): NGO and associations
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Areas collaboration focused on: Public health
+  - Areas collaboration focused on: Food
+  - Description of collaboration: Executive Order No. 16, S - 2021 or the Healthy Public Food Procurement Policy of Quezon City was signed and issued last July 23, 2021. The policy contains the nutrition standards to be followed by the City Government and sets the roles of each Department involved. The policy will also create a healthy food system wherein healthy food and ingredients may also be sourced from the City’s Urban Farms. This is an output of the City’s partnership with ImagineLaw under Resolve to Save Lives, an initiative of Vital Strategies which is supported by Bloomberg Philanthropies, Bill and Melinda Gates Foundation, and the Zuckerberg-Chan Foundation.
+
+[0.5 fila 5] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): Utilities
+  - Primary entity collaborated with (selection mandatory)_G: Business
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Areas collaboration focused on: Public health
+  - Areas collaboration focused on: Water
+  - Description of collaboration: Coordination with the water concessionaires was done by the Quezon City Government for the installation of Handwash Facilities in several strategic points in the City as part of the WASH Program. Hygiene Kits were also distributed  in special lockdown areas during the pandemic.
+
+[0.5 fila 6] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Primary entity collaborated with (selection mandatory): NGO and associations
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Mechanisms used to collaborate: Capacity development
+  - Areas collaboration focused on: Education
+  - Description of collaboration: The “Our City 2030: Youth Visions and Solutions” is a three-year project in partnership with World Wildlife Fund for Nature- Philippines (WWF) and Plan International. It aims to use the power of the youth in contributing to cities in becoming climate smart, resilient and sustainable and that partnered local governments are committed to have developed roadmaps for trajectories toward the 1.5 degree celsius including mitigation and adaptation as well as guided solutions and visions presented by students.
+
+[0.5 fila 7] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Primary entity collaborated with (selection mandatory): NGO and associations
+  - Mechanisms used to collaborate: Climate action plan implementation
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Technical assistance
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Building and Infrastructure
+  - Description of collaboration: UKAID Climate Action Implementation ProgramThe program, which was launched last August 12, 2022, will run until 2025. Various experts in the field of green building, energy efficiency and conservation, and renewable energy were engaged by the C40 Cities Climate Leadership Group to assist the City in the delivery of outputs on the following Priority Actions:1.Policies and Actions for Energy Efficiency including the enhancement of the Local Green Building Code and incentives for energy efficiency and conservation2.Actions to expand adoption of renewable energy in government-owned, private, and residential buildings
+
+[0.5 fila 8] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Primary entity collaborated with (selection mandatory): NGO and associations
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Mechanisms used to collaborate: Climate action plan implementation
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Areas collaboration focused on: Inclusive climate action and/or equity
+  - Areas collaboration focused on: Transport (Mobility)
+  - Description of collaboration: Quezon City is one of the Cities being selected by the ICLEI World Secretariat to be part of the Sparking Active Mobility Actions for Climate-friendly Cities (SPARK) Project to deliver transformational action which will be part of our low carbon strategy complimenting the City’s mitigation target to pursue the reduction of our greenhouse gas emissions and comply with our international commitment, which is set at 30% emission reduction by 2030. The SPARK project aims to increase the role of active mobility in building resilient and safe transport systems, contribute to national emission reduction targets, and promote climate-friendly mobility behavior. Also, the project will offer positive contributions and add value to the City’s existing efforts to promote sustainable transportation.
+
+[0.5 fila 9] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Primary entity collaborated with (selection mandatory): NGO and associations
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Mechanisms used to collaborate: Circular economy business model support
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Climate action plan implementation
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Areas collaboration focused on: Waste
+  - Description of collaboration: With the support and assistance from the United Nations Development Programme and the Government of Japan under the Accelerating Nationally Determined Contribution through Circular Economy in Cities or the ACE Project, this initiative aims to accelerate transition to circular economy.Twenty-five (25) biodigester systems and one Community to Farm Mobile Organic Waste Recovery System (collection vehicle) were provided to the Quezon City Government. The biodigesters will be deployed in selected urban farms, markets, and barangays. Currently, the Department is facilitating the official transfer of the said equipment to the City Government through a Council Resolution.
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: Yes, a climate risk and vulnerability assessment has been undertaken
+
+[1.1a fila 1] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: https://drive.google.com/file/d/1fp6A2098JHnMxIaLqcO77yrsjVTHnQ_d/view?usp=drive_link
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2013
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Primary author(s) of assessment^: Other, please specify: Earthquakes and Megacities Initiative (EMI)
+  - Primary author(s) of assessment^: Dedicated team within jurisdiction
+  - Please explain: The Risk Atlas is a geo-spatial analysis of the City's make-up of its essential and critical facilities and its risks and vulnerability to the impacts of earthquake, liquefaction, flooding as well as combined risks as part of the City's compliance to Republic Act 10121 or the Philippine Disaster Risk Reduction and Management Act of 2010. The Risk Atlas is a concise overview of risk assessments to the City's most at-risk or vulnerable barangays in terms of ground motion severity (earthquake) due to the presence of the West Valley Fault which considers damages considering Projected Modified Mercalli Intensity (MMI) scale values of 8.13  above. Apart from this, the document also contains flood susceptibility assessments and maps to identified at-risk City barangays. Numerous maps are made available in the document to provide a geo-spatial perspective of the extent of damages to buildings, c
+
+[1.1a fila 2] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: https://drive.google.com/file/d/1V8xMYC0SYR1tSXbux0G0lco62q4cvdxX/view?usp=drive_link
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment can be accessed (unrestricted) on the link provided
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2013
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Primary author(s) of assessment^: Dedicated team within jurisdiction
+  - Primary author(s) of assessment^: Other, please specify: Earthquakes and Megacities Initiative (EMI)
+  - Please explain: The Hazards, Vulnerability and Risk Assessment Report and City Risk Atlas is a report that assesses the impact of earthquake and flood hazards to the population and physical assets of the City. It is a comprehensive report which provides the scientific foundation to disaster risk reduction and management planning on the onset and implementation of the Phlippine Disaster Risk Reduction and Management Act of 2010.As a standalone document, the HVRA Report provided the City with the foundation to develop the City's Disaster Risk Reduction and Management Plan (DRRMP). The assessment of impacts for flood and earthquake were expressed in terms of the following:1. Identifying the spatial severity of the hazards in the city;2. Quantifying damages, losses and impacts to population, buildings, infrastructure, critical and high loss facilities;3. Identifying hotspot barangays (which were based on th
+
+[1.1a fila 3] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: https://drive.google.com/file/d/1jEEbjNaW-nvgTaTRsZzrfA5W5I8DrddF/view?usp=drive_link
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached and can be accessed (unrestricted) on the link provided
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2020
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Primary author(s) of assessment^: Dedicated team within jurisdiction
+  - Please explain: Quezon City’s Climate Risk Assessment (CRA) Management Plan provides background and context as to why the city should produce and maintain a comprehensive climate risk assessment. It outlines roles and responsibilities of city departments and external stakeholders, and contains an inventory of pertinent maps and data sources. QCRA is incorporated in the Enhanced Local Climate Change Action Plan 2021-2050, see pages 28-35.
+
+[1.1a fila 4] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: https://climadapserv.maps.arcgis.com/apps/MapSeries/index.html?appid=2fc02f259b514c1e89f1516ade71362f
+  - Confirm attachment/link provided to assessment (selection mandatory): Other, please specify: The final product for Quezon City's Qualitative Climate Risk Assessment can be accessed as a web-based Climate Story Map in the link above. The username is storymapa while the password is R3silience!
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2020
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Primary author(s) of assessment^: Consultant
+  - Primary author(s) of assessment^: International organization
+  - Primary author(s) of assessment^: Dedicated team within jurisdiction
+  - Please explain: Quezon City’s Qualitative Climate Risk Assessment 2020 is integrated in the City's Enhanced Local Climate Change Action Plan 2021-2050. The three priority climate hazards identified include (1) cyclones and flooding, (2) drought, and (3) heat.For each of the climate trends for these three climate hazards, the Qualitative Climate Risk Assessment 2020 shows how these trends could affect different sectors in Quezon City. These sectors are based on the National Climate Change Action Plan (NCCAP) and are categorized into (1) natural impacts (ecological and environmental stability, water sufficiency), (2) social impacts (human security, knowledge and capacity development) and (3) economic impacts (sustainable energy, infrastructure and transport, food security, climate‐friendly industries and services).Furthermore, Quezon City's Qualitative Climate Risk Assessment 2020 has developed interactiv
+
+[1.1a fila 5] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: https://drive.google.com/file/d/1COp2BXtHJq1bE5X2GYIuIMqj3Mxkxtba/view?usp=drive_link
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached and can be accessed (unrestricted) on the link provided
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2022
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: Assessment includes a high-emissions scenario (i.e., RCP 8.5)
+  - Factors considered in assessment: Assessment includes consultation with partners
+  - Factors considered in assessment: Assessment includes sectors and/or urban systems
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Primary author(s) of assessment^: International organization
+  - Primary author(s) of assessment^: Consultant
+  - Primary author(s) of assessment^: Dedicated team within jurisdiction
+  - Please explain: The Climate and Disaster Risk Assessment summarizes the climate and disaster risk assessment key parameters, outputs, their interpretation and their significance. The Climate and Disaster Risk Assessment is concerned with four hazards: climate change, flood, landslide and earthquake hazards.The report has seven parts:Part 1 is the summary of the exposure data used in the assessment, particularly in population, land use and critical point facilities.Part 2 is a representation of climate change hazards for Quezon City, particularly in terms of impacts on temperature and rainfall.Part 3 presents the flood hazard and risk assessment. It includes outputs for climate change projections for Metro Manila, RCP 8.5 rain flood event for 100-year flood map for the city based on the QC Drainage Project preliminary studies, and flood vulnerability analysis from the CDRA workshops held on October 21, O
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Hurricanes, cyclones, and/or typhoons
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Low-income households
+  - Sectors most exposed^: Information and communication
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Accommodation and food service activities
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Waste management
+  - Describe the impacts on vulnerable populations and sectors^: According to PAGASA, 2009 typhoon Ondoy (also named Ketsana) dropped 455 mm of rain in Manila in just 24 hours. Quezon City was one of the most affected areas in terms of flooding, with the highest height of flood ranging from neck level up to rooftop. 107,000 persons were reported to be displaced in Quezon City.From 1948 to 2019, 18 tropical cyclones crossed Metro Manila, of which 12 typhoons.Extreme rainfall events can occur significantly more often through climate change. These events will cause more flooding. As warmer air can hold more water vapor, the risks are increasing in a warmer world. Also, since this increases humidity, there is a feedback loop to the anticipated heat stress.Future projections by PAGASA show that there is no discernible increase in the frequency of tropical cyclones. However, increases in the intensity of cyclones have been experienced in recent years that a
+  - Proportion of the population exposed to the hazard: 20-30%
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Long-term (after 2050)
+
+[1.2 fila 2] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Urban flooding
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Women and girls
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Waste management
+  - Sectors most exposed^: Information and communication
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Accommodation and food service activities
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Human health and social work activities
+  - Describe the impacts on vulnerable populations and sectors^: Extreme rainfall often causes floods when rivers and canals exceed their capacity. Poor communities are especially exposed to these floods, often situated in flood zones and with fragile houses.Some of the major impacts of a 100-year flooding under an RCP 8.5 scenario are as follows:1. Informal settlers that reside in Quezon City are high-risk areas. These settlements, due to their informality, are often not built to code or with flood resistant materials which increases their vulnerability to flood events. In 2021, there are 200, 591 informal settler families (ISFs) listed in 2021 by the Quezon City Government. A great number of these are in flood prone areas. District 1 lists 21,518 ISFs and about 95 % (20,491) are situated where flood depths can be higher than 0.5 meter. All of 61,439 ISFs can experience high flood depths. District 3 has 21,780 ISFs, and 21,039 or about 97% can experi
+  - Proportion of the population exposed to the hazard: 20-30%
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 3] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Drought
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Children and youth
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Accommodation and food service activities
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Forestry
+  - Describe the impacts on vulnerable populations and sectors^: Metro Manila has experienced dry conditions in the past El Niño events. Long dry periods can have a serious impact on the availability of water. In 2019, data from PAGASA showed La Mesa dam at a critical level of less than 70 meters, the lowest in 12 years. Low water levels may result in water interruption schedules, leading to barangays experiencing low water pressure to no water at all throughout the summer.Future projections from PAGASA show opposite trends for rainfall towards 2050: wet areas will probably have more rainfall, while dry areas have less. The length of the longest dry spell, which is the maximum number of consecutive dry days with daily precipitation under 1 mm, is projected to increase with 7.5 days towards 2050.Water stress is an indicator of competition for water resources: an increase in water stress indicates more competition among users, hitting the urban poor the
+  - Proportion of the population exposed to the hazard: 20-30%
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Housing
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately supports
+  - Describe how the factor supports or challenges the adaptive capacity o: 1. Quezon City has developed a robust housing program that provides for sustainable city resettlement sites for the City's underprivileged constituents.  One of the main principles of the housing program of the City is to prioritize the relocation of informal settler families from danger zones such as creeks and provide for them housing units where they can have access to other basic social services provided for by the City. Increase in hectarage of socialized housing is almost equal to the decrease in the area under the informal settlers. There was simply a change of tenure among some informal settlers through the community mortgage program and other housing schemes.2. However, with the current population trajectory, Quezon City’s population is expected to reach three (3) million people by 2020 and four (4) million between 2025 and 2030. This increase may be a threat in terms of having 
+
+[1.3 fila 2] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Economic health
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Somewhat challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: 1. Quezon City acknowledges that the topic of climate change mitigation and adaptation must also be conveyed and properly communicated to the informal sector to capacitate them to respond to the needs of climate change.2. It is assumed that the poverty threshold of the whole National Capital Region is the same as that of the city with a poverty threshold computed at PhP 10,420.00. Income distribution of the richest decile and poorest decile remain wide.3. With the growing population coupled with high in-migration rate, adequate local employment and sustainable livelihood provisions cannot cope with the growing demand for jobs.
+
+[1.3 fila 3] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Environmental conditions
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Somewhat supports
+  - Describe how the factor supports or challenges the adaptive capacity o: 1. Sustained effort to maintain the network of existing parks and open spaces that maintain the level of biodiversity and wildlife abundance in an urban environment.2. Disaster-related plans are incorporated/synchronized with other plans of the city (CLUP, LCCAP, CDP) and mainstreamed CCA-DRRM in planning and development documents of the City.3. However, extreme weather events with increased frequency and severity, its changes in precipitation patterns and rising mean temperature may affect the City's environment.
+
+[1.3 fila 4] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Public health
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: 1. Bulk of the city’s expenditure are allocated to health along with socialized housing that are among others the current priorities of the city government.2. QC passed an ordinance on Community Based Mental Health Program of 2015 that aims to uphold residents’ right to mental health care and to encourage mental health awareness among the public. The ordinance pushes for capacity-building, reorientation, and training of local health workers, teachers, and different sectors of the community through the help of professionals and experts.3. The City has an inward-looking vision of becoming a “high-quality community” and outward looking visions of becoming the “Green Lung” of Metro Manila, knowledge industry capital of the country, and the health and wellness center in Asia.4. The QCG has launched a campaign dubbed Zero at 2030 to address the rising number of human immunodeficiency virus (HI
+
+[1.3 fila 5] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Access to education
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: 1. Part of the land use of the city is for institutional use. The city has numerous Catholic schools, medical schools, and professional schools, business and management schools, private religious schools, notable public science high schools.2. The city has a literacy rate of 99.74% based on the 2010 PSA official census. With the high literacy rate of the city, it provides an idea of labor force supply that is essential in supporting the thriving economy of the city.3. Provision of Alternative Learning Systems (ALS) in different barangays to cater to the youth. The Alternative Learning System (ALS) is being offered to the people who have not finished elementary or secondary education. ALS is an alternative or substitute, a parallel learning system that provides a particular option to the existing formal education when one does not have or cannot access formal education in school.
+
+[1.3 fila 6] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Legal/Institutional constraints
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Describe how the factor supports or challenges the adaptive capacity o: 1. Quezon City Government (QCG) is a consistent recipient of the Seal of Good Local Governance (SGLG) awarded by the Department of Interior and Local Government (DILG).2. On January 7, 2019, the 20th Quezon City Council received the 2018 Most Outstanding Sangguniang Panlungsod for Highly Urbanized Cities in the National Capital Region also from DILG. The award is to honor the city’s performance on responsiveness to legislative agenda, accessible information on resolutions and ordinances, legislative tracking system, capability development training for councilors and their staff, and innovations such as the Batas QC mobile application.3. Strong vertical and horizontal integration and cooperation between the local, regional/provincial, and national government agencies as well as the engagement of relevant stakeholders especially the private sector to ensure inclusivity.
+
+[1.3 fila 7] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Access to healthcare
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: With the impact brought by COVID-19 pandemic, the Quezon City Government  undertook a re-focused orientation towards health and sanitation. Envisioned by the City’s CLUP and further defined by the Comprehensive Development Plan (CDP), health will remain most important in the social sector anchored on the Mayor’s Agenda item no.3 to provide better healthcare by establishing super health centers, improving the patient to doctor ratio of the city, with all City-run hospitals and all health centers adequately stocked with medicines that are responsive to the area served, to include medical and burial assistance.
+
+[1.3 fila 8] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Rapid urbanization
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Somewhat challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Considered as one of the most economically dynamic cities in the Philippines, Quezon City is a thriving city because of its favored location for residential developments and home to national government offices, institutions, and business hubs. Based on the Comprehensive Land Use Plan of Quezon City, the city boasts its major role in future developments beyond its borders wherein most of its growth centers linked to the main thoroughfares, such as Balintawak and Triangle Central Business District (CBD) for Quirino Highway; and Libis, Cubao Triangle CBD, and Batangas link for Aurora Boulevard and Commonwealth Avenue. These growth centers were businesses consisting of factories, warehouses, establishments, and commercial facilities that contribute to the city’s urbanization and economic growth. It envisions to maintain its role as  the "green lung" of Metro Manila and being renowned as a “c
+
+[1.3 fila 9] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Resource availability
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Describe how the factor supports or challenges the adaptive capacity o: 1. Enhancing the resilience of agricultural production, distribution systems, and the communities that manage them is Quezon City’s approach to attain food security. One of its flagship programs is the “Joy of Urban Farming”, which is designed to support communities in enabling a sustainable and reliable urban farming to provide food to households in every barangay. Through urban farming and localizing food systems, provision of nutritious and locally sourced food can help break the vicious cycle of poverty, empower communities, and provide them the opportunities to be more engaged stakeholders of the City.2. Despite Quezon City’s limited power and capacity in enhancing the resilience of water and wastewater and sanitation systems, Quezon City delivers actions such as the implementation of water conservation measures, improving the efficiency of water distribution, water treatment and re
+
+[1.3 fila 10] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Infrastructure capacity
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: 1. The City leverages its promotion of improved infrastructure and stronger disaster response to dramatically reduce flooding incidents due to typhoons and heavy rainfalls where poor and clogged drainage systems persist in all barangays. The Enhanced LCCAP captures how the City fortifies its DRRM plans and programs and how it seeks to develop and deliver its Drainage Master Plan, which packages small- and large-scale flood mitigation measures.2. Quezon City’s built environment and energy-intensive buildings and industries can help attain the objective of developing sustainable cities  by promoting energy efficiency, increasing the uptake of renewable energy, and enhancing the resilience of the City’s buildings and major industrial and commercial emitters. Working with the private sector to establish green, energy-efficient and resilient buildings will not only bring down significantly th
+
+[1.3 fila 11] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Land use planning
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Improving economic and social connectivity can be achieved through smarter planning in terms of how the City should use its physical and land space. Mixed-use zones can bring jobs and essential services closer to the people and encourage active mobility or public transit, curbing local emissions and improving air quality. While introducing new developments could affect some sectors negatively, the City mitigates this by engaging the active participation of crucial stakeholders in the development and designing stages.
+
+[1.3 fila 12] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Safety and security
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Describe how the factor supports or challenges the adaptive capacity o: 1. Quezon City pursues strategic actions that improve the socioeconomic conditions of climate-vulnerable neighborhoods and improve accessibility to public services. It aims to safeguard citizens from the direct, physical risks and impacts of climate change which is in synergy with disaster risk management actions.2. The City’s climate strategy to ensure individuals are free from physical hazards includes the promotion and implementation of transit-oriented and human-centered urban development and improvement of public access to safe, affordable, and efficient transport systems.
+
+[1.3 fila 13] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Community engagement
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: 1. Quezon City needs to identify and engage external stakeholders and particularly hard-to-reach groups so that they can understand and address the root causes and drivers of disproportionate climate risk and consider how the climate action process can be made more inclusive.2. Quezon City has established local special bodies where people’s and non-governmental organizations are represented to actively participate in the process of effective governance and development such as in the formulation of climate action plans and investment programs.In addition, Quezon City adopted a framework in updating its Enhanced LCCAP that promotes inclusivity and equity by integrating social, economic, and spatial elements into it. It emphasizes the potential to deliver transformative outcomes that will not only promote meaningful benefits throughout the population but also change, improve, or even disrup
+
+[1.3 fila 14] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Access to quality / relevant data
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately supports
+  - Describe how the factor supports or challenges the adaptive capacity o: 1. Annual data records from the start of the implementation of climate actions have to be kept to help surface data trends that may indicate improvements, stagnation or even degradation of the milestones. This will be a key factor for the evaluation process later on.2. A robust monitoring, evaluation, and reporting plan under the QC Enhanced LCCAP shall be used to monitor the efficiency and effectiveness of the identified and prioritized strategies, actions, and programs and  it also generates insights into the City’s direct contribution to national-level targets and goals.
+
+[1.3 fila 15] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Housing
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: As of 2016, Quezon City is estimated to host up to 191,242 informal settler families. Of these, majority at 91,983 families (48.23%) occupy private properties, 45,649 (23.93%) are located in danger areas and government infrastructures, 34,203 (17.93%) in government lots and the remaining 18,871 families (9.90%) are within the declared area for priority development (APDs) sites and some open spaces. As such, shelter programs in Quezon City, implemented mainly either by national government agencies or by the local government, mostly target informal settler families. One existing flagship program is Quezon City’s socialized housing program which has enabled many informal settler families who used to live in slum dwellings and danger-prone areas to own and reside in decent homes in clean, well-organized, environmentally sustainable and resilient communities. Between 2013 and 2019, QC’s flags
+
+[1.3 fila 16] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Access to healthcare
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Somewhat challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: The lack of consideration for climate-related illnesses and related infrastructure can affect the most vulnerable sectors and communities. Quezon City is home to a number of government hospitals, it also boasts of its response system and assets. However, the City can further look into establishing a system of hospital and out-of-hospital-based emergency medical services that will do rounds around hotspot barangays that are highly vulnerable to the impacts of climate change. Most emergency medical services (EMS) of the City responds to trauma cases like vehicular accidents or disasters, there is no existing service that will make rounds in the barangays (villages) as most people will not go to health centers for medical check-ups especially those in low-income households and informal settlements. The goal is to increase the practice of prevention or proper maintenance to ensure a “healthy
+
+[1.3 fila 17] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Inequality
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Disproportionate impact of flooding risks on vulnerable sectors and communities in Quezon City particularly in barangays with high population density and large number of informal settler communities: The spatial dimension of climate impacts, particularly on planning, is also described in Quezon City’s Ecological Profile. The following are the projected climate impacts on vulnerable communities from flooding, culled out from the 2020 Climate Risk Assessment as well as the Ecological Profile which draws from various models from international development partners like Japan International Cooperation Agency (JICA) and Earthquake and Megacities Initiative (EMI):- Casualty for the population: It is estimated that 111 casualties in Quezon City will be caused by a 100-year flood. Around 68,619 people are estimated to be displaced while around 700,000 people are expected to be affected with addit
+
+[3.8 fila 1] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: Health systems
+  - Identify the climate hazard(s) that most significantly impact the sele: Infectious disease
+  - Identify the climate hazard(s) that most significantly impact the sele: Urban flooding
+  - Identify the climate hazard(s) that most significantly impact the sele: Drought
+  - Identify the climate hazard(s) that most significantly impact the sele: Hurricanes, cyclones, and/or typhoons
+  - Identify the climate hazard(s) that most significantly impact the sele: River flooding
+  - Identify the health issues driven by the selected climate hazard(s): Overwhelming of health service provision due to increased demand
+  - Identify the health issues driven by the selected climate hazard(s): Direct physical injuries and deaths due to extreme weather events
+  - Identify the health issues driven by the selected climate hazard(s): Damage/destruction to health infrastructure and technology
+  - Identify the health issues driven by the selected climate hazard(s): Lack of climate-informed surveillance, preparedness, early warning and response
+  - Identify the health issues driven by the selected climate hazard(s): Water-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Disruption of health-related services
+  - Identify the health issues driven by the selected climate hazard(s): Heat-related illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Vector-borne infections and illnesses
+  - Timeframe of impact: Medium-term (2026-2050)
+  - Identify which vulnerable populations are affected by the selected hea: Elderly
+  - Identify which vulnerable populations are affected by the selected hea: Low-income households
+  - Identify which vulnerable populations are affected by the selected hea: Children and youth
+  - Identify which vulnerable populations are affected by the selected hea: Vulnerable health groups
+  - Identify which vulnerable populations are affected by the selected hea: Women and girls
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of financial capacity
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of financial capacity and expertise/technical capacity
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of expertise/technical capacity
+  - Comment: The recently completed 2020 Qualitative Climate Risk Assessment for Quezon City has identified key climate risks from (a) drought, (b) heat and (c) cyclones and flooding that will specifically impact low-income and vulnerable groups and communities such as children, youth, informal settler communities, and the elderly population.1. Prioritized impacts from heat with significant impact on key vulnerable sectors:- Heat stress causing illness & loss of life (also to livestock): Extreme heat conditions cause related diseases and can cause even death. Vulnerable groups include elderly and outside construction workers.- Increase of water- and vector-borne diseases: Increased temperatures are linked with the increased transmission of vector and waterborne diseases like dengue and polio- Increasing water shortages: During heat waves, water use is increasing, impacting especially vulnerable poor 
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Data availability: Data is available for the percentage of households with access to safely managed drinking water services
+  - Data availability: Data is available for the percentage of households with access to safely managed sanitation services
+  - Data availability: Data is available for the average household water consumption in litres per capita per day
+  - Percentage of households with access to safely managed drinking water : 100
+  - Percentage of households with access to safely managed sanitation serv: 100
+  - Household water consumption (litres/capita/day): 152.63
+  - Comment: Based on 2019 MWSS water data
+
+[3.13 fila 1] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Fresh surface water, including rainwater, water from wetlands, rivers and lakes
+  - Are you able to report volumetric data for this source?: No
+  - Annual volume of water withdrawn per source (in megalitres) : Question not applicable
+  - Projected level of change over next 5-10 years: Question not applicable
+
+[3.13 fila 2] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Are you able to report volumetric data for this source?: Question not applicable
+  - Annual volume of water withdrawn per source (in megalitres) : Question not applicable
+  - Projected level of change over next 5-10 years: Question not applicable
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: Yes, our jurisdiction has an adaptation goal(s)
+
+[4.1a fila 1] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 1
+  - Adaptation goal^: Promotion  of Urban Farming  and Localized  Food Production: To ensure the availability, stability  and accessibility of safe and  healthy food amidst increasing  climate-induced food insecurity
+  - Climate hazards that goal addresses^: River flooding
+  - Climate hazards that goal addresses^: Drought
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Priority Action 1: Scale-up urban farming and food production in the city through the transformation of idle public and private lands into urban farms and the crafting of legislative measures to promote localized food systems. This will involve strong partnerships with various stakeholders including civic organizations, faith-based groups, national government agencies, and local community groups.KPIs:•Number of community groups/HOAs that established their urban gardens in available spaces• % utilization of private and public idle spaces• Volume of agricultural produce and revenue generated from sold agricultural produce• Number/value of jobs generated from urban farming projects
+
+[4.1a fila 2] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 2
+  - Adaptation goal^: Increase  Water Security Through  Robust Demand Side  Management: To ensure sustainable, stable  and equitable access to safe  water for all Quezon City  barangays amidst increasing  water resource pressures
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: River flooding
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazards that goal addresses^: Drought
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: PRIORITY ACTION 2: Ensure efficient water demand side management by deploying  efficient technologies, rainwater harvesting facilities and public outreach for water conservation, prioritizing city-owned facilities (e.g., government hall buildings, public schools, hospitals) and then mainstreaming this to the residential sector/household units, and commercial and private buildings.KPIs:•Water consumption per capita or household• % of households applying rainwater harvesting facilities• % and spatial distribution of city population connected to the utility provider’s piped water network• % of households served by wastewater collection, such as piped network & septage collection vehicles• % of commercial establishments with sewerage treatment plants (STPs)
+
+[4.1a fila 3] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 3
+  - Adaptation goal^: Promotion  of Green and Gray  Infrastructure to  Mitigate Flooding  and to Support  Water Circularity: To optimize urban water systems  management by employing  nature-based solutions to  mitigate flooding
+  - Climate hazards that goal addresses^: River flooding
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazards that goal addresses^: Drought
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Priority Action 3: Deploy small and large-scale flood mitigation measures, in line with the Drainage Master Plan, by developing green/gray infrastructure such as drainage basins (retention ponds).KPIs:• Reduced exposure to flooding (displaced, injured or deaths, number of A&E admissions from injuries)• Reduced vulnerability to flooding (injured or deaths; the number of assets affected/damaged; the cost of repairs; cost to services; cost to economic productivity• % of assets protected from floods• Number of flood shelters for informal settlements
+
+[4.1a fila 4] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 4
+  - Adaptation goal^: Build  Safe and Resilient  Housing and Public  Infrastructure for  the Most Vulnerable: To reduce vulnerability of men  and women and other vulnerable  groups (children, elderly and  persons with disability, etc.) from  climate risks and disasters
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: River flooding
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazards that goal addresses^: Drought
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2050
+  - Description of metric / indicator used to track goal^: Priority Action 11: Upgrade the quality of life of citizens residing in informal and climate-vulnerable communities by providing them housing relocation alternatives, and establishing sustainable public infrastructure and services around these housing alternatives.KPIs:• Number of investments provided to improve public infrastructure and housing• Number of safe, resilient housing units for ISFs established• Number of public consultations with stakeholder groups (e.g., community leaders, informal settlement citizens)• Proportion of informal communities that can access public infrastructure and transit services (e.g., by age, gender, ethnicity, etc.)• Proportion of communities afforded with housing services (e.g., by age, gender, ethnicity, etc.)• Proportion of communities with reported improved standards/quality of living (e.g., by age, gender, ethnicity, etc.)
+
+[4.1a fila 5] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 5
+  - Adaptation goal^: Green,  Energy-Efficient,  and Resilient Buildings : To promote green, energy efficient, and resilient buildings  and establishments in Quezon City
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: Drought
+  - Climate hazards that goal addresses^: River flooding
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: PRIORITY ACTIONS14: Amend the City’s Green Building Code by increasing energy efficiency performance requirements for new and existing buildings, introducing strong incentives and appropriate penal provisions, and leveraging existing national frameworks.KPIs:• Number and proportion of green building construction permits issued• Number and proportion of old buildings retrofitted to meet new GBC standards• Number and proportion of City building owners/managers trained in the GBC’s energy efficiency standards• Power/electricity generated in buildings with RE installation (in megawatts)• GHG emission reduction (tCO2e)• % of population with access to credit that can be used for building efficiency improvements (by income status, gender, race/ethnicity)15: Incentivize medium to large scale renewable installation in high-energy consuming sectors and establishments through incentive schemes unde
+
+[4.1a fila 6] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 6
+  - Adaptation goal^: Secure  Clean and Affordable  Renewable Energy  Access: To adopt sustainable and  renewable energy as a major driver  of sustainable development
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: Drought
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazards that goal addresses^: River flooding
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: PRIORITY ACTIONS17: Lead by example with a three-staged solar energy installation on all city-owned buildings and facilities that can meet technical and design requirements, targeting 100% coverage by 2030.KPIs•  Number of technical assessment/feasibility studies completed• Number and proportion of city-owned infrastructure with solar PV installation• Power/electricity generated from solar PV installations (MWh)• GHG emission avoided (tCO2e)• City government energy savings from local source power generation18: Leverage renewable energy policy mechanisms, including incentive schemes, provided for by the Renewable Energy Act of 2008. These mechanisms include the Renewable Portfolio Standard, Feed-in Tariff System, Green Energy Program, and Net Metering for RE.KPIs:• % of households and businesses with electrical service supported by distributed solar PV (e.g., by income level, informality 
+
+[4.1a fila 7] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 7
+  - Adaptation goal^: Knowledge and Capacity Development goals: (1) to enhance knowledge on the science of climate change, (2) to enhance the capacity for climate change adaptation, mitigation and disaster risk reduction at the local and community level, and (3) to establish gender-sensitive climate change knowledge management system for Quezon City awareness raising and to establish barangay climate change network to share good practices and other resources
+  - Climate hazards that goal addresses^: River flooding
+  - Climate hazards that goal addresses^: Drought
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2050
+  - Description of metric / indicator used to track goal^: Quezon City's Enhanced Local Climate Change Action Plan (LCCAP) defines qualitative 'impact' areas to track progress on the three human security goals. These 'impact' areas include the following: 1. Poor and vulnerable2. Health3. Housing4. Protecting against Hazards5. Land6. Sudden Loss of Income (Livelihood/Economy)7. Children8. Elderly9. Person with disability10. Capacity to manage risk
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: Yes, our jurisdiction has a climate action plan or strategy
+
+[7.1a fila 1] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Integrated climate plan (addressing mitigation and adaptation)
+  - Attachment/link and name of plan^: https://drive.google.com/file/d/1SKOMff_oeuDIGnRxW4rzb56_YHLhH9k0/view?usp=drive_link
+  - Confirm attachment/link provided to plan (selection mandatory): The plan can be accessed (unrestricted) on the link provided
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Update: Updates to the plan are published at least every 3 years
+  - Processes for monitoring evaluation and updates of plan^: Monitoring:  Information on progress of plan is monitored and publicly reported at least every 3 years
+  - Processes for monitoring evaluation and updates of plan^: Evaluation: Evaluation of plan takes place at least every 3 years
+  - Funding sources and financial instruments to finance plan: Regional funds and programmes
+  - Funding sources and financial instruments to finance plan: Public-private partnerships
+  - Funding sources and financial instruments to finance plan: Jurisdiction's own resources
+  - Funding sources and financial instruments to finance plan: National funds and programmes
+  - Funding sources and financial instruments to finance plan: Other, please specify source: C40 Technical Assistance
+  - Funding sources and financial instruments to finance plan: International (including ODA)
+  - Funding sources and financial instruments to finance plan: Private
+  - Communities and organizations engaged^: National government and/or agencies
+  - Communities and organizations engaged^: Local government (s) and/or agencies
+  - Communities and organizations engaged^: Vulnerable population groups
+  - Communities and organizations engaged^: Citizens
+  - Communities and organizations engaged^: Academia
+  - Communities and organizations engaged^: Business and private sector
+  - Describe if and how climate-related scenarios have informed the plan: The formulation process for Quezon City’s Enhanced LCCAP is consistent with the  National Climate Change Action Plan guidelines, the City's climate action programs, projects, and activities outlined in the Local Climate Change Action Plan (LCCAP) of  2017-2027, Climate Change Expenditure Tagging Methodology, the National Disaster Risk Reduction and Management Plan (DRRM) and Local DRRM Plan. Furthermore, the Quezon City Climate Action Plan was developed through comprehensive, methodological, and participatory processes following the C40 Climate Action Planning (CAP) Framework.Quezon City Government is committed to pursuing an emission-neutral and climate-resilient city by 2050. This is through an enhanced climate action plan that aligns its policies and initiatives to support the implementation and ambitions of the Paris Agreement, both addressing GHG emission reduction and adapting to t
+  - Primary author(s) of plan^: Relevant department within jurisdiction
+  - Primary author(s) of plan^: International organization
+  - Primary author(s) of plan^: Dedicated team within jurisdiction
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses co-benefits of actions
+  - Year of formal approval of plan^: 2021
+  - End year of plan: 2050
+  - Sectors covered by action plan: Waste management
+  - Sectors covered by action plan: Sewerage, wastewater management and remediation activities
+  - Sectors covered by action plan: Transportation and storage
+  - Sectors covered by action plan: Water supply
+  - Sectors covered by action plan: Conservation
+  - Sectors covered by action plan: Accommodation and food service activities
+  - Sectors covered by action plan: Manufacturing
+  - Sectors covered by action plan: Education
+  - Sectors covered by action plan: Construction
+  - Sectors covered by action plan: Electricity, gas, steam and air conditioning supply
+  - Please explain: Quezon City’s Enhanced Local Climate Change Action Plan (LCCAP) 2021-2050 is grounded by a far-reaching aspiration for carbon neutrality, climate resilience, and inclusivity, aligning with the City’s vision of a “Quality Community – a progressive and peaceful, clean and orderly place, conducive and hospitable to living, employment, and business.”Quezon City's Enhanced Local Climate Change Action Plan (LCCAP) 2021-2050 aligns with the National Climate Change Action Plan (NCCAP) of the Philippines. Consistent with the NCCAP, Quezon City's Enhanced Local Climate Change Action Plan (LCCAP) has identified the following wider opportunities and benefits as defined in its outcome statements:1. Increased availability, stability, and accessibility of safe and healthy food2. Increased availability, stability, and equitability of access to water resources3. Optimized urban water systems management c
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Waste management (including waste recycling)
+  - Project title: Biodigester Systems in Urban Farms and Public Markets
+  - Stage of project development: Implementation
+  - Status of financing: Project not funded and seeking partial funding
+  - Identified financing model: Public finance - own budget
+  - Project description and attach project proposal: Currently, the City has 4 biodigester systems in urban farms with additional 2 units procured. Additional biodigester systems (10 units) is planned to be procured in the coming years for installation in other urbans farms and public markets. This initiative is beneficial to communities with regards in converting organic waste materials to produce methane gas that can be used in household cooking through anaerobic digestion, and reducing air pollution and organic waste odors.
+  - Total cost of project (in currency specified in 0.1): 2000000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 2000000
+
+[7.5 fila 2] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Energy efficiency (including public lighting)
+  - Project title: Replacement of conventional air-conditioning system into energy efficient units
+  - Stage of project development: Project feasibility
+  - Status of financing: Project not funded and seeking partial funding
+  - Identified financing model: Private investment
+  - Identified financing model: Grants
+  - Identified financing model: Public finance - own budget
+  - Project description and attach project proposal: Replacement of conventional air-conditioning system installed in city-government buildings into energy efficient  air-conditiong units. This will reduce electricity consumption resulting to reduce greenhouse gas emissions. Retrofitting and improvement of the Quezon City Government-operated facilities to be a "green" building and procurement of technology designed for energy efficiency and to other government and its replication in privately-owned and operated facilities.
+  - Total cost of project (in currency specified in 0.1): 95000000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 95000000
+
+[7.5 fila 3] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Renewable energy
+  - Project title: Supply and installation of Solar PV System at three (3) City-owned Public Hospitals
+  - Stage of project development: Project feasibility
+  - Status of financing: Project not funded and seeking partial funding
+  - Identified financing model: Private investment
+  - Identified financing model: Public finance - own budget
+  - Project description and attach project proposal: The project aims to install Solar PV Panels in three (3) Quezon City public hospitals to lessen electricity cost and meet the City's target to reduce emission by 30% in 2030
+  - Total cost of project (in currency specified in 0.1): 59643406
+  - Total investment cost needed if relevant (in currency specified in 0.1: 59643406
+
+[7.5 fila 4] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Renewable energy
+  - Project title: Supply and installation of Solar PV System of Fifty (50) Public Schools
+  - Stage of project development: Project feasibility
+  - Status of financing: Project not funded and seeking partial funding
+  - Identified financing model: Private investment
+  - Identified financing model: Public finance - own budget
+  - Project description and attach project proposal: The project aims to install Solar PV Panels in 50 public schools to lessen electricity cost and meet the City's target to reduce emission by 30% in 2030
+  - Total cost of project (in currency specified in 0.1): 132300000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 132300000
+
+[7.5 fila 5] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Transport
+  - Project title: Conversion of the City's Bus Fleet into electric buses
+  - Stage of project development: Project feasibility
+  - Status of financing: Project not funded and seeking partial funding
+  - Identified financing model: Private investment
+  - Identified financing model: Public finance - own budget
+  - Project description and attach project proposal: 50 Electric Buses; the City purchases electric buses to replace conventional buses in the City-operated bus system. Electrification will also require bus depots and service stations to be upgraded with charging infrastructure
+  - Total cost of project (in currency specified in 0.1): 348000000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 348000000
+
+[7.6 fila 1] Report the factors that support climate-related investment and financial planning in your jurisdiction.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction accesses finance from public-private partnerships
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction accesses finance from national government funds, grants etc.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction’s own funds and budgetary means
+  - Credit rating of jurisdiction: Jurisdiction does not have an international or domestic credit rating
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Public preparedness (including exercises/drills)
+  - Action (selections mandatory)^_G: Educational/Informational actions
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Climate hazard(s) that action addresses^: Hurricanes, cyclones, and/or typhoons
+  - Action description and web link to further information^: The action intends to capacitate City staff and all 142 barangays of the City to improve the City's ability to respond to and build the internal competency of personnel to sufficiently attend to and address pressing social concerns during emergency events.  Numerous activities, drills and exercises are conducted annually to train and retain knowledge and skills to not only comply with the requirements of the law but to provide  high quality service to the City's constituents as well considering specific emergency needs of vulnerable sectors such as children, PWD's, special needs, among others.For example, pre-emptive evacuation are done for at-risk population in flood prone areas where an identified emergency evacuation centers are provided, food rations and other necessities are provided during the emergency event with provision of pop-up huts/ partition tents are erected and emergency 
+  - Sectors adaptation action applies to^: Information and communication
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Co-benefits realized^: Reduced health impacts from extreme heat or cold weather
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Co-benefits realized^: Improved preparedness for health service delivery
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 90-100%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Implementation underway with completion expected in more than one year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Do not know
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 2] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Educational/Informational actions
+  - Action (selections mandatory)^: Early warning and response systems
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Climate hazard(s) that action addresses^: Hurricanes, cyclones, and/or typhoons
+  - Action description and web link to further information^: The City heavily invested in Early Warning Systems (EWS) and Automated Weather Stations and monitoring weather bulletin from the Philippine Atmospheric, Geogphysical and Astronomical Services Administration (PAG-ASA). EWS are strategically placed in hazard-prone barangays in Quezon City to assist and  issue timely localized advisories at identified, at-risk communities which are impacted by tropical storm and flooding.
+  - Sectors adaptation action applies to^: Information and communication
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 3] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Hazard resistant infrastructure design and construction
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Climate hazard(s) that action addresses^: Hurricanes, cyclones, and/or typhoons
+  - Action description and web link to further information^: Construction projects of retaining walls, reinforced concrete, retaining walls, concrete canal, riprap, grouted riprap, box culvert; repair of damaged and installation of steel fence were done at various identified communities within the City which are prone to surface or river flooding.
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 4] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Heat mapping and thermal imaging
+  - Action (selections mandatory)^_G: Educational/Informational actions
+  - Climate hazard(s) that action addresses^: Drought
+  - Action description and web link to further information^: Implemented by the UP Training Center for Applied Geodesy and Photogrammetry, the project aims to assess the development of urban heat islands (or UHI) in rapidly urbanizing and highly urbanized cities in the Philippines and develop models for estimating land surface temperatures (or LST) and predicting UHIs by relating LST with environmental factors including land use cover distribution.The specific project objectives are listed below:1.Develop a geodatabase of satellite images, land surface temperatures layers (LST) and other layers potentially influencing the occurrence of LST anomalies;2.Characterize LST distribution in space and time and detect, map, and explain the development of urban heat islands;3.Examine the general relationship of LST-UHI with energy consumption, air quality and health in key cities based on existing data and statistics;4.Develop LST-UHI models useful for pred
+  - Sectors adaptation action applies to^: Electricity, gas, steam and air conditioning supply
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Co-benefits realized^: Increased social inclusion, equality and justice
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Implementation complete in the reporting year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 5] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Government policies and programs actions
+  - Action (selections mandatory)^: Disaster planning and preparedness
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Climate hazard(s) that action addresses^: Hurricanes, cyclones, and/or typhoons
+  - Action description and web link to further information^: The City, in preparation for emergency events due to extreme weather impacts have identified warehouses in the City which stockpiles vital food and supplies as part of emergency relief program of the City to displaced and evacuated sectors. More so, vulnerable sectors such as children, elderly and people with disabilities are identified and given adequate attention and specific needs.
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Co-benefits realized^: Reduced health impacts from extreme heat or cold weather
+  - Co-benefits realized^: Increased security/protection for poor/vulnerable populations
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 6] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Water efficiency regulations or standards
+  - Action (selections mandatory)^_G: Laws and regulations actions
+  - Climate hazard(s) that action addresses^: Drought
+  - Action description and web link to further information^: The Climate Change and Environmental Sustainability Department leads the campaign on Responsible Water Use.The campaign will maximize facets for multi-stakeholder engagement and coordination which will result in an action plan to measure the effectivity of activities, programs, and projects aimed towards water conservation efforts. Part of the preliminary work done by the Department were to collect and study baseline levels in water consumption in City-owned and operated facilities to determine trends and entry points for interventions, provide WASH facilities and use multimedia for campaign efforts on social media.
+  - Sectors adaptation action applies to^: Water supply
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Co-benefits realized^: Reduced disruption of energy, transport, water or communications networks
+  - Co-benefits realized^: Increased water security
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Implementation underway with completion expected in more than one year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 7] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Technological actions
+  - Action (selections mandatory)^: Water saving technologies (including rainwater harvesting)
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Climate hazard(s) that action addresses^: Hurricanes, cyclones, and/or typhoons
+  - Action description and web link to further information^: The Quezon City Government identified flooding prevention, introducing and enforcing sewerage system facility standards and water harvesting schemes to improve the City's adaptive capacity towards extreme weather events and mitigate the risks of water contamination, severe flooding, loss of lives and economy, water sufficiency in these manners respectively.The City is transected by four major river systems with numerous tributaries located all throughout the City as flooding is an identified climate risk with severe threats to lives and crucial infrastructure/facilities.
+  - Sectors adaptation action applies to^: Water supply
+  - Sectors adaptation action applies to^: Conservation
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Implementation underway with completion expected in more than one year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 8] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Community-based natural resource management
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Climate hazard(s) that action addresses^: Action does not address hazard
+  - Action description and web link to further information^: The City’s Urban Agriculture program, dubbed the “Joy of Urban Farming” is a flagship program of the Office of the Mayor. Its objective is to invigorate “green thumbs” in the City’s constituents which acts as a model for making urban agriculture feasible and realizable in the City as well as to support communities in enabling a sustainable and reliable urban farming to provide food to households in every barangay. It started in 2010 and currently has more or less 166 urban farms of varying sizes with five (5) newly established large farms scattered across barangays, public elementary schools, daycare centers, parishes and NGOs. These urban farms are planted with edible agriculture to serve as means for income generation but these urban farms are accessible to all, other mechanisms institutes “pay-to-pick” schemes for purposes stated. These urban farms range from actual garden plots in va
+  - Sectors adaptation action applies to^: Agriculture
+  - Co-benefits realized^: Job creation
+  - Co-benefits realized^: Increased security/protection for poor/vulnerable populations
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 30-40%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Implementation underway with completion expected in more than one year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 9] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Action (selections mandatory)^: Increasing biological diversity
+  - Climate hazard(s) that action addresses^: Action does not address hazard
+  - Action description and web link to further information^: The Quezon City Government through the Parks Development and Administration Department (or PDAD) has successfully implemented programs pertaining to urban greening which includes parks development, rehabilitation, tree planting activities to increase the City’s green cover percentage. As of July 2020, the City has a total of 599 of open spaces which is categorized into developed, partially developed and undeveloped. This represents an increase based on 583 open spaces recorded in 2011 based on the City's Ecological Profile.As to major parks, the city boasts of the Quezon Memorial Circle and the Ninoy Aquino Parks and Wild Life which covers a total area of 42.29 hectares. Also, there are “Special” Parks which include the La Mesa Watershed (2,569.41 hectares), the UP Arboretum (3.57 hectares), and the recreational greens like the Capitol Golf and Country Club and the QC Sports Complex and 
+  - Sectors adaptation action applies to^: Forestry
+  - Sectors adaptation action applies to^: Conservation
+  - Co-benefits realized^: Increased social inclusion, equality and justice
+  - Co-benefits realized^: Job creation
+  - Co-benefits realized^: Increased security/protection for poor/vulnerable populations
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Implementation underway with completion expected in more than one year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)

@@ -1,0 +1,3070 @@
+[
+ {
+  "sheet": "E01",
+  "ref": "1.1.1",
+  "title": "1.1.1 - Risk consideration in plan making",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "To what extent are risk factors considered within the City Vision / Strategic Plan?",
+  "guidance": "Risk identification and aggregation into scenarios is considered in essential 2\nThis assessment criterion (1.1.1) is aimed at the city teams involved in strategic planning / plan making. Does the plan making process use best available science and risk assessment process to inform the order, magnitude and location of major new urban growth or significant infrastructure investment? i.e. is the future spatial vision for the city informed through clear risk assessment processes.",
+  "options": [
+   "5 – The plan includes a range of actions / priorities (e.g. urban growth and infrastructure projects) that directly respond to current and anticipated future risks.",
+   "4 – The plan includes a range of actions / priorities (e.g. urban growth and infrastructure projects) that directly respond to current identified risks.",
+   "3 – The plan context is framed around clear presentation of the city risk factors.",
+   "2 – A robust risk assessment methodology is integral to the city plan.",
+   "1 – There is evidence within the plan that risks (hazards x likelihood) is broadly understood within the City planning team.",
+   "0 – Risks are not considered in the plan."
+  ],
+  "shapes": [
+   "_x0000_s10287",
+   "_x0000_s10288",
+   "_x0000_s10289",
+   "_x0000_s10290",
+   "_x0000_s10291",
+   "_x0000_s10293"
+  ]
+ },
+ {
+  "sheet": "E01",
+  "ref": "1.1.2",
+  "title": "1.1.2 - Consultation in plan making",
+  "ref_row": 18,
+  "resp_cell": "E22",
+  "comment_cell": "C22",
+  "question": "Is this strategy developed through inclusive, participatory multi-stakeholder consultation?",
+  "guidance": "The city emergency services;\nOther city services and departments (public works, transportation);\nThe local health sector;\nUtility providers including telecommunications;\nLocal businesses;\nNGOs;\nCivil society organisations including minority group representation;\nEnvironmental sector;\nThe wider city population in all neighbourhoods, both formal and informal community groups;\nLocal universities;\nScientific institutions;\nOther tiers of government or neighbouring cities, where necessary for the city’s resilience;\nIndustry associations.",
+  "options": [
+   "5 – Yes – All relevant groups have been invited and attended. Stakeholders have been fully briefed on the process and receive regular bulletins on the progress of the plan.",
+   "4 – At least 8 of the 10 listed groups (right) have been engaged / consulted.",
+   "3 – At least 6 of the 10 listed groups have been engaged / consulted.",
+   "2 – At least 4 of the listed groups have been engaged / consulted.",
+   "1 – At least 2 of the listed groups were invited.",
+   "0 – Stakeholder engagement has been undertaken."
+  ],
+  "shapes": [
+   "_x0000_s10295",
+   "_x0000_s10296",
+   "_x0000_s10297",
+   "_x0000_s10298",
+   "_x0000_s10299",
+   "_x0000_s10300"
+  ]
+ },
+ {
+  "sheet": "E01",
+  "ref": "1.1.3",
+  "title": "1.1.3 - Review of strategic plans",
+  "ref_row": 31,
+  "resp_cell": "E35",
+  "comment_cell": "C35",
+  "question": "Is the city strategic plan reviewed on a regular basis?",
+  "guidance": "",
+  "options": [
+   "5 – The plan has already been reviewed and there is a published commitment to review the plan at least every 3 years. The plan update process (including capturing lessons learned) is detailed in the plan and stakeholders are clear how they can inform the plan update process.",
+   "4 – The plan has already been reviewed and there is a published commitment to review the plan at least every 3 years. Clear processes have been instigated to capture lessons learnt and to ensure these lessons inform plan updates.",
+   "3 – The plan has already been reviewed and updated and there is a published commitment to ongoing / regular review (at least every 3 years)",
+   "2 – No review has taken place but there is a commitment to undertake a review every 5 years.",
+   "1 – No review has happened yet, but a review is assumed. No timescale has been set out. The commitment to review is not published.",
+   "0 – No review has been undertaken and there are no plans to undertake a review."
+  ],
+  "shapes": [
+   "_x0000_s10308",
+   "_x0000_s10315",
+   "_x0000_s10316",
+   "_x0000_s10317",
+   "_x0000_s10318",
+   "_x0000_s10319"
+  ]
+ },
+ {
+  "sheet": "E01",
+  "ref": "1.2.1",
+  "title": "1.2.1 - Pre-event planning and preparation",
+  "ref_row": 46,
+  "resp_cell": "E50",
+  "comment_cell": "C50",
+  "question": "Co-ordination of all relevant pre-event planning and preparation activities exists for the city’s area, with clarity of roles and accountability across all relevant organizations.",
+  "guidance": "The single point of co-ordination may be a person, or a group or committee (with sub-groups or committees as appropriate). It will coordinate the relevant (see below) activities of:\nThe city government and, if separate, highways, police, armed forces/civil defence, water, energy, or any other relevant city organizations);\nOther tiers of government (e.g. state, ward-level) or neighbouring municipalities);\nPrivate sectors organizations with relevant roles – for example, utilities, phone companies, healthcare, logistics companies, fuel depots, property companies and other relevant organisations.\nSome cities may have different organizational arrangements for different types of disaster. However, these need at least to work through the same coordination point (person or committee) to ensure consistency in response arrangements; and also to enable management of simultaneous disasters as applicable. The test of relevance is whether the organization or activity must contribute in any way to preparing for the event scenarios covered below in Essential 2.\nCoordination of data and systems is covered in Essential 6.",
+  "options": [
+   "5 – There is a clear coordination of all relevant pre-event planning and preparation activities. All roles and accountability are clearly defined between relevant organizations.",
+   "4 – There is some coordination of pre-event planning and preparation in the city. However, overlapping roles exist and accountability is not clearly defined.",
+   "3 – The city (or focal point/institution) is currently in process of coordination of pre-event and planning activities, which will clearly identify roles and accountability among relevant organizations.",
+   "2 – Coordination of pre-event planning and preparation activities not sufficient. No clear identification of roles and accountability among relevant organizations.",
+   "1 – The city is currently discussing to start a process to coordinate all pre-event planning and activities.",
+   "0 – There are currently no plans to coordinate pre-event and planning activities."
+  ],
+  "shapes": [
+   "_x0000_s10322",
+   "_x0000_s10323",
+   "_x0000_s10324",
+   "_x0000_s10325",
+   "_x0000_s10326",
+   "_x0000_s10327"
+  ]
+ },
+ {
+  "sheet": "E01",
+  "ref": "1.2.2",
+  "title": "1.2.2 - Co-ordination of event response",
+  "ref_row": 59,
+  "resp_cell": "E63",
+  "comment_cell": "C63",
+  "question": "Coordination of all relevant event response activities in the city’s area, with clarity of roles and accountability across all relevant organizations.",
+  "guidance": "See guidance above\nEvent response coordination arrangements should be regularly tested, if not by real events, at least in simulation exercises – see Essential 9.\nCoordination of data and systems is covered in Essential 6.",
+  "options": [
+   "5 – There is a clear coordination of all relevant response activities. All roles and accountability are clearly defined between relevant organizations.",
+   "4 – There is some coordination of response activities in the city. However, overlapping roles exist and accountability is not clearly defined.",
+   "3 – Coordination of response activities is not sufficient. There is currently no clear identification of roles and accountability among relevant organizations in the city.",
+   "2 – The city (or focal point/institution) is currently in process of coordination of response activities, which will clearly identify roles and accountability among relevant organizations.",
+   "1 – The city is currently discussing to start a process to coordinate all response activities.",
+   "0 – There are currently no plans to coordinate response activities."
+  ],
+  "shapes": [
+   "_x0000_s10329",
+   "_x0000_s10330",
+   "_x0000_s10331",
+   "_x0000_s10332",
+   "_x0000_s10333",
+   "_x0000_s10334"
+  ]
+ },
+ {
+  "sheet": "E01",
+  "ref": "1.2.3",
+  "title": "1.2.3 - City resources for managing organisation, co-ordination and participation",
+  "ref_row": 72,
+  "resp_cell": "E76",
+  "comment_cell": "C76",
+  "question": "Ability of the City government to play the critical convening and plan-making role for DRR. Do the city and or other lead agencies have the authority and resources to deliver on their DRR commitments?\nThis assessment criteria relating to resources and funding should be considered for pre-event planning (1.2.1), event response (1.2.2) and post event (1.2.6 together).",
+  "guidance": "It is assumed these assessment criteria most relevant to the City government, but could be applied to other agencies if they take the lead organisational / convening role for DRR. Support can be co-opted (1.2.5) from public and private sectors – this question relates specifically to resource and authority to plan and co-ordinate activities.",
+  "options": [
+   "5 – Yes – all lead agency teams are well established properly resourced / funded and have authority to act across all DRR stages – pre, event response and post disaster.",
+   "4 – Yes – all lead agency teams are well established properly resourced / funded and have authority to act, but there is inconsistency in resourcing across the key DRR stages.",
+   "3 – City teams have authority, convening power and resource / funding but they do not have proper inter-agency support.",
+   "2 – City / lead agencies have authority but are under resourced. They co-opt support with some success.",
+   "1 – City / lead agencies have authority but are under resourced.",
+   "0 – No. Lead agencies lack proper authority and are under resourced."
+  ],
+  "shapes": [
+   "_x0000_s10336",
+   "_x0000_s10337",
+   "_x0000_s10338",
+   "_x0000_s10339",
+   "_x0000_s10340",
+   "_x0000_s10341"
+  ]
+ },
+ {
+  "sheet": "E01",
+  "ref": "1.2.4",
+  "title": "1.2.4 - Identification of physical contributions",
+  "ref_row": 85,
+  "resp_cell": "E89",
+  "comment_cell": "C89",
+  "question": "Co-option of physical contributions by both public and private sectors.\nIdentification of physical contributions for each major organization.",
+  "guidance": "Physical contributions refer to plant and equipment, people, premises and accommodation, supplies, data, computer systems, and so on. These will supplement those provided by the city and may come from other agencies or from private sector organizations such as those defined above.\nThe key is to have a clear view of what will be needed to supplement the city’s own resources (defined in essential 9); and then to enter into explicit MOUs with the organizations that will supply those items.\nNote that the city may also receive contributions to support plan making and risk reduction – see 1.1 above.",
+  "options": [
+   "5 – All key contributions fully defined for pre and post-event, underwritten by MOUs.",
+   "4 – Most key contributions defined – some minor gaps in coverage. MOUs may not exist.",
+   "3 – Some contributions formally defined but full leverage of private sector yet to be achieved.",
+   "2 – One or two contributions defined for specific areas – perhaps via informal agreements.",
+   "1 – Plans being developed to seek contributions.",
+   "0 – No private sector."
+  ],
+  "shapes": [
+   "_x0000_s10343",
+   "_x0000_s10344",
+   "_x0000_s10345",
+   "_x0000_s10346",
+   "_x0000_s10347",
+   "_x0000_s10348"
+  ]
+ },
+ {
+  "sheet": "E01",
+  "ref": "1.3.1",
+  "title": "1.3.1 - Integration of disaster resilience with other initiatives",
+  "ref_row": 100,
+  "resp_cell": "E104",
+  "comment_cell": "C104",
+  "question": "Extent to which any proposal in government is also evaluated for disaster resilience benefits or impairments.\nExplicit stage in policy and budget approval process where disaster resilience side benefits, or impairments, of any city government initiative are identified and counted towards the Return on Investment (ROI) for that proposal.",
+  "guidance": "For example:\nTraffic management systems may also help with evacuation, so increasing disaster resilience;\nA development approval may locate people in harm’s way;\nA land use change may reduce benefit of wetlands in preventing floods.\nIncludes, but not restricted to, the functional areas of: land use and zoning; development; water, energy; public safety; transportation; food supply; healthcare.",
+  "options": [
+   "5 – Explicit decision step, applied to all policy and budget proposals in all relevant functional areas.",
+   "4 – Explicit or semi-explicit decision step, applied in most cases and in most functional areas.",
+   "3 – No formal process, but disaster resilience benefits are generally understood to be “helpful” to a proposal, in most functional areas.",
+   "2 – Decision step sometimes applied, but very likely to be overlooked in most functional areas if a proposal would impair disaster resilience.",
+   "1 – Applied ad hoc or occasionally.",
+   "0 – Not applied."
+  ],
+  "shapes": [
+   "_x0000_s10350",
+   "_x0000_s10351",
+   "_x0000_s10352",
+   "_x0000_s10353",
+   "_x0000_s10354",
+   "_x0000_s10355"
+  ]
+ },
+ {
+  "sheet": "E01",
+  "ref": "1.4.1",
+  "title": "1.4.1 - Extent to which data on the city’s resilience position is shared with other organizations involved with the city’s resilience",
+  "ref_row": 115,
+  "resp_cell": "E119",
+  "comment_cell": "C119",
+  "question": "Availability of a single “version of the truth” – a single integrated set of resilience data for practitioners.",
+  "guidance": "Information to consider making open for public access might include:\nA summary of readiness\nThe outcomes of this Scorecard;\nAn explanation of the hazards and perils that the city is thought to face, and probabilities;\nA hazard-map based summary (see essential 2) of at-risk areas;\nA description of what building codes will protect against, and where these have been applied;\nA full set of disaster response plans and known issues;\nKey roles and accountabilities;\nPlanned investments that will affect the city’s resilience position.\nFurther resources and contact details.",
+  "options": [
+   "5 – Full availability of the information listed at right on readiness and risk; fully shared with other organizations.",
+   "4 – Some minor gaps, or the information is in more than one place – but it is shared and it is at least linked to enable navigation.",
+   "3 – Some more significant gaps, for example on readiness; other organizations may have to “hunt around” to create a complete picture for themselves.",
+   "2 – Some significant information on readiness and risk is withheld from other organizations or is missing and/or badly fragmented across multiple websites.",
+   "1 – Information provision to other organizations on readiness and risk is rudimentary at best. Not possible to for those organizations to derive specific conclusions for themselves.",
+   "0 – No information."
+  ],
+  "shapes": [
+   "_x0000_s10357",
+   "_x0000_s10358",
+   "_x0000_s10359",
+   "_x0000_s10360",
+   "_x0000_s10361",
+   "_x0000_s10362"
+  ]
+ },
+ {
+  "sheet": "E02",
+  "ref": "2.1.1",
+  "title": "2.1.1 - Knowledge of hazards (also called perils, or shocks and stresses) that the city faces, and their likelihood",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "Existence of recent, expert-reviewed estimates of probability of known hazards or perils and their extents.",
+  "guidance": "Cities need to have a view of the hazards or perils that they face – what specific hazards (tsunami, hurricane, earthquake, flood, fire etc) exist and how severe might they be? For each hazard there needs to be identified, as a minimum:\nA “most probable” incident\nA “most severe” incident.\nHazards may be identified from probability distributions, specifically conducted for the purpose of assessing disaster resilience: “most probable” would be at the midpoint of the range of hazards that need to be addressed and “most severe” would be from the top 10% of the probability range.\nAlternatively, they may be approximated from such sources as:\nGeneral hazard assessments for the region\nAssumptions created as an input to land zoning, planning discussions or permitting\nInsurance industry risk assessments\nExpert opinion as to “typical” hazards\nPrior experience or historical records of disasters in the region.\nHowever, if these levels of knowledge are not available, cities should still try to assemble a picture from prior experiences and/or estimation of the general level of hazard that they face.\nSophisticated cities may also attempt to estimate the impact of multiple consecutive smaller hazards, or combinations of hazards (a hurricane and accompanying storm surge, for example).\nIt is important to note that hazards may change over time as a consequence of urbanization and land use (for example where deforestation increases propensity for flash flooding), climate change (for example, chan",
+  "options": [
+   "5 – Comprehensive estimates exist, were updated in last 3 years and reviewed by a 3rd party. “Most severe” and “most probable” hazards are generally accepted as such.",
+   "4 – Estimates exist but have minor shortcomings in terms of when updated, level of review, or level of acceptance.",
+   "3 – Estimates exist but with more significant shortcomings in terms of when updated and level of review or acceptance.",
+   "2 – Some estimates exist but are not comprehensive; or are comprehensive but more than 3 years old; or are not reviewed by a 3rd party.",
+   "1 – Only a generalized notion of hazards, with no attempt systematically to identify probability.",
+   "0 – No estimates."
+  ],
+  "shapes": [
+   "_x0000_s12333",
+   "_x0000_s12334",
+   "_x0000_s12335",
+   "_x0000_s12336",
+   "_x0000_s12337",
+   "_x0000_s12338"
+  ]
+ },
+ {
+  "sheet": "E02",
+  "ref": "2.2.1",
+  "title": "2.2.1 - Knowledge of exposure and vulnerability",
+  "ref_row": 20,
+  "resp_cell": "E24",
+  "comment_cell": "C24",
+  "question": "Existence of scenarios setting out city-wide exposure and vulnerability from each hazard level (see above).",
+  "guidance": "Exposure may be thought of as who or what (people, land, ecosystems, crops, assets, infrastructure, economic activity) is potentially in harm’s way as a result of a hazard. Vulnerability may be thought of as the potential consequences of that exposure (loss of life, property or service; physical damage; health impact, economic impact; environmental impact and so on). Different exposures and/or vulnerabilities may combine, for example where the tsunami generated by the Tohoku earthquake in Japan in 2011 (also known as the Great East Japan Earthquake) badly damaged the Fukushima nuclear power plant – generating a whole additional set of exposures and vulnerabilities.\nExposures and vulnerabilities may be assessed from sources such as regional flood maps or earthquake hazard maps, or from expert estimation.\nHazards, exposures and vulnerabilities need to be assembled into “scenarios”. Scenarios are comprehensive pictures of the total impact of the hazard (if any) across all neighbourhoods and all aspects of the city, and will include:\nExposure and vulnerability of neighbourhoods and economic zones;\nExposure and vulnerability of critical infrastructure items, with and without alternatives (see below);\nBenefit from, and status of ecosystem services, where applicable;\nEstimates of recovery time, given estimated benefit of mitigation measures, if any.\nScenarios will ideally have been for reviewed for thoroughness and plausibility by a 3rd party and updated in last 18 months. This is m",
+  "options": [
+   "5 – Comprehensive scenarios exist city-wide, for the “most probable” and “most severe” incidence of each hazard, updated in last 18 months and reviewed by a 3rd party.",
+   "4 – Scenarios have minor shortcomings in terms of coverage, when updated, level or thoroughness of review.",
+   "3 – Scenarios have more significant shortcomings in terms of coverage, when updated, level of review, thoroughness.",
+   "2 – Partial scenarios exist but are not comprehensive or complete; and/or are more than 18 months old; and/or are not reviewed by a 3rd party.",
+   "1 – Only a generalized notion of exposure and vulnerability, with no attempt systematically to identify impacts.",
+   "0 – No risk assessment."
+  ],
+  "shapes": [
+   "_x0000_s12340",
+   "_x0000_s12341",
+   "_x0000_s12342",
+   "_x0000_s12343",
+   "_x0000_s12344",
+   "_x0000_s12345"
+  ]
+ },
+ {
+  "sheet": "E02",
+  "ref": "2.2.2",
+  "title": "2.2.2 - Damage and loss estimation",
+  "ref_row": 33,
+  "resp_cell": "E37",
+  "comment_cell": "C37",
+  "question": "Do risk assessments identify business output and employment at risk, populations at risk of displacement, housing at risk, agricultural land and ecosystems at risk, cultural heritage at risk for key identified scenarios?",
+  "guidance": "",
+  "options": [
+   "5 – Risk assessments identify multiple risk points including socio-economic, spatial and physical, and environmental assets at risk from “most probable” scenario in current development and future urban and population growth; any knowledge gaps and uncertainties are summarized and made explicit.",
+   "4 – Risk assessments identify multiple risk points according to current urban development.",
+   "3 – Risk assessments focus mostly on spatial, physical assets at risk. Data is limited in sector/subject areas.",
+   "2 – Risk assessments currently focus mostly on spatial, physical assets at risk. There are plans to update risk assessments once other data is available.",
+   "1 – There are plans to develop risk assessments to identify on all sectors/subjects at risk.",
+   "0 – Risk assessments do not identify all risk areas and there are no plans to update them as such."
+  ],
+  "shapes": [
+   "_x0000_s12347",
+   "_x0000_s12348",
+   "_x0000_s12349",
+   "_x0000_s12350",
+   "_x0000_s12351",
+   "_x0000_s12352"
+  ]
+ },
+ {
+  "sheet": "E02",
+  "ref": "2.3.1",
+  "title": "2.3.1 - Understanding of critical assets and the linkages between these",
+  "ref_row": 48,
+  "resp_cell": "E52",
+  "comment_cell": "C52",
+  "question": "All critical assets are identified (see essential 8) and relationships between them are identified in the form of potential “failure chains”. This is used to frame disaster plans and triage (se essential 9) and also retrofits and upgrades to improve the capability of the infrastructure to withstand disasters.",
+  "guidance": "As identified above, critical assets are equipment, facilities, infrastructure or computer systems/data that are critical to the functioning of the city, maintenance of public safety or disaster response. While many cities will identify these, at least to some degree it is much rarer to identify how they are linked and the “failure chains” that may exist.\nA failure chain is a set of linked failures spanning critical assets in multiple infrastructure systems in the city. As an example – loss of an electricity substation may stop a water treatment plant from functioning; this may stop a hospital from functioning; and this in turn may mean that much of the city’s kidney dialysis capability (say) is lost. This is a failure chain that spans energy, water and healthcare systems.\nThe following ISO 37120 indicators, especially where mapped spatially, can be helpful to understand the city baseline, and to potential cascading impacts:\nISO 37120 indicator 7.2. Electrical connectivity\nISO 37120 indicator 21.1. Potable Water Supply\nISO 37120 indicator 21.3. Sanitation\nISO 37120 indicator 15.1. Informal Settlement\nISO 37120 indicator 19.1: Quantifies extent to which the natural environment has been protected and maintained.\nISO 37120 indicator 19.2.: Trees Planted",
+  "options": [
+   "5 – Critical assets are identified city-wide and systematically linked into failure chains as applicable. The city and appropriate partners have a retrofit and triage strategy that allows it to prioritize upgrades and repairs.",
+   "4 – Critical assets and failure chains are generally identified with some minor gaps and omissions. A retrofit and triage strategy exists but it may also have gaps.",
+   "3 – Critical assets and failure chains identified to some degree but some significant known omissions.",
+   "2 – Critical assets are identified but failure chains are not. No triage or strategy is therefore possible and retrofits are prioritized, if they happen at all, by individual city departments.",
+   "1 – Identification of critical assets is patchy at best – significant gaps exist by area, or by infrastructure system. No triage strategy.",
+   "0 – No identification of critical assets."
+  ],
+  "shapes": [
+   "_x0000_s12354",
+   "_x0000_s12355",
+   "_x0000_s12356",
+   "_x0000_s12357",
+   "_x0000_s12358",
+   "_x0000_s12359"
+  ]
+ },
+ {
+  "sheet": "E02",
+  "ref": "2.4.1",
+  "title": "2.4.1 - Hazard maps",
+  "ref_row": 63,
+  "resp_cell": "E67",
+  "comment_cell": "C67",
+  "question": "Presence of hazard maps (for example, flood or seismic risk maps).",
+  "guidance": "For availability / access and publication of hazard, vulnerability and risk maps to other organizations and to the public – see Essential 1.\nTraining in risk, vulnerability and exposure see Essential 6.\nNote that cities may wish to think about the frequency of updates to risk maps. Urban conditions and risks frequently vary. Smart sensing and controls are shifting focus towards more dynamic updating of hazard maps.",
+  "options": [
+   "5 – Hazard maps for current urban development and future urban growth are developed based on available risk- assessments. Relevant guidelines exist including multiple benefits of tackling cross cutting issues in an integrated way (such as benefits of addressing adaptation, mitigation interface opportunities within built environment).",
+   "4 – Hazard maps exist for current urban development and relevant guidelines exist.",
+   "3 – Hazard maps are available for current urban development but there are no guidelines to guide risk-sensitive urban planning and development.",
+   "2 – Hazard maps and relevant guidelines to guide risk-sensitive urban planning and development are currently being developed.",
+   "1 – There are plans to develop hazard maps and relevant guidelines to guide risk-sensitive urban planning and development.",
+   "0 – There are no plans to develop hazard maps and / or relevant guidelines to guide risk-sensitive urban planning and development."
+  ],
+  "shapes": [
+   "_x0000_s12361",
+   "_x0000_s12362",
+   "_x0000_s12363",
+   "_x0000_s12364",
+   "_x0000_s12365",
+   "_x0000_s12366"
+  ]
+ },
+ {
+  "sheet": "E02",
+  "ref": "2.5.1",
+  "title": "2.5.1 - Update process",
+  "ref_row": 78,
+  "resp_cell": "E82",
+  "comment_cell": "C82",
+  "question": "Process ensuring frequent and complete updates of scenarios.\nExistence of a process agreed between all relevant agencies to:\nUpdate hazard estimates every 3 years or less;\nUpdate exposure and vulnerability assessments and asset inventory every 18 months or less.",
+  "guidance": "Updates are essential because hazards may change over time (especially if weather or sea-level related); and because land use, population and economic activity patterns may also change as cities grow.\nUpdates need to address:\nHazard patterns\nDwellings\nBusinesses\nCity infrastructure and facilities (see Essential 8), including critical assets and failure chains.\nCritical computer systems and data (see Essential 8)\nSchools and healthcare facilities (see Essential 8)\nEcosystem services (see Essential 5)\nThe focus here is on the process itself and its ability to ensure continued and complete updating of scenarios.\nUpdates may be by means of a regular updating exercise that captures all changes for the preceding period, or by means of an incremental update process that reliably captures changes as they occur.\nMany countries update their risk data on a 5 year cycle. This is unlikely to be adequate to keep pace with urban boundary or land use changes.",
+  "options": [
+   "5 – Update processes exist, are proven to work at required frequency and thoroughness, and are accepted by all relevant agencies.",
+   "4 – Processes exist with some minor flaws in coverage, date slippage or less important agencies being bought in.",
+   "3 – Processes exist, but with at least 1 major omission in terms of frequency, thoroughness or agency buy-in. Risk identification may be compromised in some areas, accordingly.",
+   "2 – Processes have some major flaws to the point where overall value is impaired and original risk assessments are becoming significantly obsolete.",
+   "1 – Processes are rudimentary at best. A complete risk assessment – even if elderly – has yet to be achieved.",
+   "0 – No processes."
+  ],
+  "shapes": [
+   "_x0000_s12368",
+   "_x0000_s12369",
+   "_x0000_s12370",
+   "_x0000_s12371",
+   "_x0000_s12372",
+   "_x0000_s12373"
+  ]
+ },
+ {
+  "sheet": "E03",
+  "ref": "3.1.1",
+  "title": "3.1.1 - Awareness and knowledge of all possible methods of financing and funding, as required. The city is actively pursuing financing and funding, as required.\nNote: If sufficient funds exist these assessment criteria can be omitted.",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "Where a city has outstanding resilience expenditure needs (revenue or capital) – the extent to which it has researched and understands all available routes / options to close any funding shortfalls.\nThe extent to which the city is actively trying to meet funding needs and has a clear responsibility for this. This may include the use of external funding or management consultants.\nThis may include the systematic identification of “resilience dividends” (see right – also known as co-benefits).",
+  "guidance": "(If no additional financing needs apply, omit this assessment).\nMany cities do not have a fully developed “atlas” of where all possible sources of resilience funding may lie. As a result improvements to resilience may go un-funded.\nAlternative financing methods and sources may include, but are not restricted to:\nLeasing;\nGovernment grants, including matching grants;\nSocial impact or resilience bonds (payment for results achieved);\nDevelopment banks and aid organizations;\nFoundations that may have a direct interest in some aspect of resilience – for example where a conservation NGO might support restoration of ecosystem services, or an education NGO might support awareness and training;\nOther government agencies that may have a direct interest in some aspect of resilience – for example where a transportation agency finances a new bridge that may also improve evacuation capacity;\nCrowd-funding;\nDevelopment fees;\nPublic-private partnerships;\nTaxes and surcharges.\n“Resilience dividends” – sometimes called co-benefits - arise in two ways:\n“Inbound” dividends arise where investments elsewhere in the city have additional resilience benefits – for example where advanced meter infrastructures make water and energy systems more able to report damage from a flood or earthquake. Inbound dividends will tend to reduce the visible costs of resilience.\n“Outbound” dividends, where an investment in resilience also provides an additional, non-resilience benefit- for example where a flood zone d",
+  "options": [
+   "5 – Yes there is dedicated responsibility within the city authority to access available financing at international and national levels.",
+   "4 – Yes there is dedicated responsibility within the city authority to access those funding streams known to the city, but awareness of all available funds is incomplete or accessing such funds can be too resource intensive.",
+   "3 – There is no dedicated responsibility within the city authority, however there are plans to discuss and implement this to gain full awareness of available funds and how to access them.",
+   "2 – There is no dedicated responsibility within the city authority to access the funds; there is a low/partial awareness of available funds for response and recovery.",
+   "1 – No dedicated responsibility within the city authority to access such funds and no awareness of which finds to access/ no plans to do so.",
+   "0 – Response and recovery funding not considered whatsoever."
+  ],
+  "shapes": [
+   "_x0000_s15382",
+   "_x0000_s15383",
+   "_x0000_s15384",
+   "_x0000_s15385",
+   "_x0000_s15386",
+   "_x0000_s15387"
+  ]
+ },
+ {
+  "sheet": "E03",
+  "ref": "3.2.1",
+  "title": "3.2.1 - Adequacy of financial planning for all actions necessary for disaster resilience.",
+  "ref_row": 20,
+  "resp_cell": "E24",
+  "comment_cell": "C24",
+  "question": "Presence of financial (capital and operating) plan(s) with a reasoned set of priorities, based on disaster resilience impact achieved, and linked to “most probable” and “most severe” scenarios in Essential 2.\nPriorities for disaster resilience investment $$ are clear and defensible, based on a view of most beneficial impact.\nPriorities are assembled into 5-year plan that integrates spending by all key organisations and will meet scenarios in Essential 2.",
+  "guidance": "If (as is likely) funding comes from several sources, the combined funding needs to be adequate for the city’s disaster resilience needs, and also coherently deployed “as if” there was a single source and a single plan. Thus, if there are separate subsidiary plans (for example, transportation or sustainability plans), these need also to be coordinated, complete and mutually consistent.\nPlans also need to persist, even if changed or updated, through changes in the political leadership of the city.",
+  "options": [
+   "5 – A coherent city-wide set of priorities exists that covers all identified needs, is argued coherently and assembled into a coherent set of 5 year financial plans (there may be multiple responsible agencies). Plans are protected from political change.",
+   "4 – Single 5 year set of priorities and financial plans exist but with some minor omissions and inconsistencies. Political continuity may be an issue.",
+   "3 – Financial plans exist but longer than 5 years and may have some gaps and inconsistencies. Political continuity is a known issue.",
+   "2 – Multiple financial plans from different agencies – these have never been coordinated and it is unclear whether they are consistent or not or will together deliver the required level of disaster resilience.",
+   "1 – Plans exist but with substantial gaps.",
+   "0 – No prioritization – spending, if any, is haphazard. No plan."
+  ],
+  "shapes": [
+   "_x0000_s15389",
+   "_x0000_s15390",
+   "_x0000_s15391",
+   "_x0000_s15392",
+   "_x0000_s15393",
+   "_x0000_s15394"
+  ]
+ },
+ {
+  "sheet": "E03",
+  "ref": "3.2.2",
+  "title": "3.2.2 - Capital funding for long run engineering and other works that address scenarios and critical assets identified in Essentials 2 and 8",
+  "ref_row": 33,
+  "resp_cell": "E37",
+  "comment_cell": "C37",
+  "question": "% funding for capital elements of plan(s) relative to estimated cost.\nDegree of protection (“ring-fencing”) from cuts or from being taken away to be used for other purposes.",
+  "guidance": "If capital funds are spread across separate sources and/or organizations, the deployment of the combined funding needs to be coordinated and mutually consistent in line with the plan above.",
+  "options": [
+   "5 – Projects are 100% funded and protected.",
+   "4 – Projects are 75-100% funded and protected.",
+   "3 – Projects are 50-75% funded, and may be liable to funds being diverted for other purposes.",
+   "2 – Projects are 25-50% funded, and liable to funds being diverted for other purposes.",
+   "1 – Projects are 0-25% funded, and routinely diverted for other purposes.",
+   "0 – No projects."
+  ],
+  "shapes": [
+   "_x0000_s15396",
+   "_x0000_s15397",
+   "_x0000_s15398",
+   "_x0000_s15399",
+   "_x0000_s15400",
+   "_x0000_s15401"
+  ]
+ },
+ {
+  "sheet": "E03",
+  "ref": "3.2.3",
+  "title": "3.2.3 - Operating funding to meet all operating costs of disaster resilience activities",
+  "ref_row": 46,
+  "resp_cell": "E50",
+  "comment_cell": "C50",
+  "question": "Funding for operating expenses relative to estimated costs: presence of separately delineated budget line item(s).\nDegree of protection (“ring-fencing”) from cuts or from being taken away to be used for other purposes.",
+  "guidance": "If operating funds are spread across separate sources and/or organizations, or separate budget line-items, the deployment of the combined funding needs to be coordinated and mutually consistent in line with the financial plan above.",
+  "options": [
+   "5 – Budget exists, is 100% adequate and is protected.",
+   "4 – Budget exists, is 75-100% adequate, and is protected.",
+   "3 – Budget exists, is 50-75% adequate but is liable to diversion for other purposes.",
+   "2 – Budget exists, is 25-50% adequate but is liable to diversion for other purposes.",
+   "1 – Budget exists, but is only 0-25% adequate and is routinely diverted for other purposes.",
+   "0 – No budget."
+  ],
+  "shapes": [
+   "_x0000_s15403",
+   "_x0000_s15404",
+   "_x0000_s15405",
+   "_x0000_s15406",
+   "_x0000_s15407",
+   "_x0000_s15408"
+  ]
+ },
+ {
+  "sheet": "E03",
+  "ref": "3.2.4",
+  "title": "3.2.4 - Contingency fund(s) for post disaster recovery (may be referred to as a “rainy-day fund”)",
+  "ref_row": 59,
+  "resp_cell": "E63",
+  "comment_cell": "C63",
+  "question": "Existence of fund(s) capable of dealing with estimated impacts from “most severe” scenario (See Essential 2).\nDegree of protection (“ring-fencing”) of contingency fund(s) from being taken away to be used for other purposes.",
+  "guidance": "Include impact of insurance coverage where applicable (see below). Include money also available from other agencies, different levels of government etc.",
+  "options": [
+   "5 – Contingency fund (and insurance as applicable) exists to rectify impacts from “most probable” scenario, is 100% adequate and protected.",
+   "4 – Fund exists, is 75-100% adequate and protected.",
+   "3 – Fund exists, is 50-75% adequate but may be liable to funds being diverted for other purposes.",
+   "2 – Fund exists, is 25-50% adequate, and liable to funds being diverted for other purposes.",
+   "1 – Fund exists is only 0-25% adequate, and routinely diverted for other purposes.",
+   "0 – No fund."
+  ],
+  "shapes": [
+   "_x0000_s15410",
+   "_x0000_s15411",
+   "_x0000_s15412",
+   "_x0000_s15413",
+   "_x0000_s15414",
+   "_x0000_s15415"
+  ]
+ },
+ {
+  "sheet": "E03",
+  "ref": "3.3.1",
+  "title": "3.3.1 - Domestic insurance coverage",
+  "ref_row": 74,
+  "resp_cell": "E78",
+  "comment_cell": "C78",
+  "question": "Extent of coverage of domestic housing.\n(Personal or life coverage is not assessed).",
+  "guidance": "This assessment covers insurance on domestic dwellings. Personal or life coverage is excluded. Governmental, industrial and commercial insurance is covered below.\nInsurance may come from multiple public or private providers.",
+  "options": [
+   "5 – 75 – 100% of likely housing losses from “most severe” scenario is covered city-wide by insurance.",
+   "4 – 75-100% of likely losses from “most probable” scenario is covered city-wide.",
+   "3 – 50-75% of likely losses from “most probable” scenario is covered city-wide.",
+   "2 – 25-50% of likely losses from “most probable” scenario is covered city-wide.",
+   "1 – 0-25% of likely losses from “most probable” scenario is covered city-wide.",
+   "0 – No cover."
+  ],
+  "shapes": [
+   "_x0000_s15417",
+   "_x0000_s15418",
+   "_x0000_s15419",
+   "_x0000_s15420",
+   "_x0000_s15421",
+   "_x0000_s15422"
+  ]
+ },
+ {
+  "sheet": "E03",
+  "ref": "3.3.2",
+  "title": "3.3.2 - Non-domestic insurance coverage",
+  "ref_row": 87,
+  "resp_cell": "E91",
+  "comment_cell": "C91",
+  "question": "Extent of insurance coverage of non-domestic property, infrastructure and assets.",
+  "guidance": "This question covers insurance to commercial, industrial property and assets, as well as to NGO-, government- or city-owned buildings, assets and infrastructure. Domestic insurance is covered above.\nInsurance may come from multiple providers.\nSome governments and agencies and some businesses may self-insure. It will be necessary to confirm that funds exist to meet the likely needs.",
+  "options": [
+   "5 – 75 – 100% of likely losses from most severe scenario is covered city-wide by insurance.",
+   "4 – 75-100% of likely losses from “most probable” scenario is covered city-wide.",
+   "3 – 50-75% of likely losses from “most probable” scenario is covered city-wide.",
+   "2 – 25-50% of likely losses from “most probable” scenario is covered city-wide.",
+   "1 – 0-25% of likely losses from “most probable” scenario is covered city-wide.",
+   "0 – No cover."
+  ],
+  "shapes": [
+   "_x0000_s15424",
+   "_x0000_s15425",
+   "_x0000_s15426",
+   "_x0000_s15427",
+   "_x0000_s15428",
+   "_x0000_s15429"
+  ]
+ },
+ {
+  "sheet": "E03",
+  "ref": "3.4.1",
+  "title": "3.4.1 - Incentives to businesses organizations to improve disaster resilience – disaster plans, premises etc",
+  "ref_row": 102,
+  "resp_cell": "E106",
+  "comment_cell": "C106",
+  "question": "Existence of incentives to help business owners take steps to improve disaster resilience to a standard to deal with the “most severe” scenario (Essential 2).",
+  "guidance": "Incentives and financing may come from multiple sources.",
+  "options": [
+   "5 – Incentives are visibly achieving (or have achieved) required results evenly with businesses across the city.",
+   "4 – Incentives are generally effective but with some minor shortcomings perhaps in some areas.",
+   "3 – Incentives have larger gaps in coverage of the economic base.",
+   "2 – Incentives have larger gaps in coverage of the required issues.",
+   "1 – Incentives have major weaknesses and have so far failed to achieve their purpose.",
+   "0 – No incentives."
+  ],
+  "shapes": [
+   "_x0000_s15431",
+   "_x0000_s15432",
+   "_x0000_s15433",
+   "_x0000_s15434",
+   "_x0000_s15435",
+   "_x0000_s15436"
+  ]
+ },
+ {
+  "sheet": "E03",
+  "ref": "3.4.2",
+  "title": "3.4.2 - Incentives to non-profit organizations to improve disaster resilience – disaster plans, premises etc",
+  "ref_row": 115,
+  "resp_cell": "E119",
+  "comment_cell": "C119",
+  "question": "Existence of incentives to help non-profits take steps to improve disaster resilience to a standard to deal with the “most severe” scenario (Essential 2).",
+  "guidance": "Incentives and financing may come from multiple sources.\nNon-profits may be directly concerned with disaster resilience issues (for example, emergency response groups, neighbourhood watch, food kitchens); or indirectly (for example, churches, environmental watch groups or similar).",
+  "options": [
+   "5 – Incentives are visibly achieving (or have achieved) required results evenly with businesses across the city.",
+   "4 – Incentives are generally effective but with some minor shortcomings perhaps in some areas.",
+   "3 – Incentives have larger gaps in coverage of the economic base.",
+   "2 – Incentives have larger gaps in coverage of the required issues.",
+   "1 – Incentives have major weaknesses and have so far failed to achieve their purpose.",
+   "0 – No incentives."
+  ],
+  "shapes": [
+   "_x0000_s15438",
+   "_x0000_s15439",
+   "_x0000_s15440",
+   "_x0000_s15441",
+   "_x0000_s15442",
+   "_x0000_s15443"
+  ]
+ },
+ {
+  "sheet": "E03",
+  "ref": "3.4.3",
+  "title": "3.4.3 - Incentives to homeowners to improve disaster resilience – disaster plans, premises etc",
+  "ref_row": 128,
+  "resp_cell": "E132",
+  "comment_cell": "C132",
+  "question": "Existence of incentives to help homeowners take steps to improve disaster resilience to a standard to deal with the “most severe” scenario (Essential 2). Ideally means-tested, to ensure that funds go to those most in need.",
+  "guidance": "",
+  "options": [
+   "5 – Incentives are visibly achieving (or have achieved) required results evenly with businesses across the city.",
+   "4 – Incentives are generally effective but with some minor shortcomings perhaps in some areas.",
+   "3 – Incentives have larger gaps in coverage of the economic base.",
+   "2 – Incentives have larger gaps in coverage of the required issues.",
+   "1 – Incentives have major weaknesses and have so far failed to achieve their purpose.",
+   "0 – No incentives."
+  ],
+  "shapes": [
+   "_x0000_s15445",
+   "_x0000_s15446",
+   "_x0000_s15447",
+   "_x0000_s15448",
+   "_x0000_s15449",
+   "_x0000_s15450"
+  ]
+ },
+ {
+  "sheet": "E04",
+  "ref": "4.1.1",
+  "title": "4.1.1 - Potential population displacement",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "% of population at risk of displacement.",
+  "guidance": "Displacement for 3 months or longer as a consequence of housing being destroyed or rendered uninhabitable, or the area in which it is located being rendered uninhabitable.\nThis assessment also needs to cover informal and unplanned settlements.\nEffectiveness of zoning should ideally be independently validated (see also Essential 2).",
+  "options": [
+   "5 – No population displacement from “most severe” scenario.",
+   "4 – No population displacement from “most probable” scenario.",
+   "3 – <2.5% population displacement from “most probable” scenario.",
+   "2 – 2.5-5% population displacement from “most probable” scenario.",
+   "1 – 5-7.5% population displacement from “most probable” scenario.",
+   "0 – >7.5% population displacement from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s16414",
+   "_x0000_s16415",
+   "_x0000_s16416",
+   "_x0000_s16417",
+   "_x0000_s16418",
+   "_x0000_s16484"
+  ]
+ },
+ {
+  "sheet": "E04",
+  "ref": "4.1.2",
+  "title": "4.1.2 - Economic activity at risk",
+  "ref_row": 18,
+  "resp_cell": "E22",
+  "comment_cell": "C22",
+  "question": "% of employment at risk.",
+  "guidance": "Employment is at risk from damage to farmland, factories, offices, and so on.\nLoss is for 1 month or longer.\nEffectiveness of zoning should ideally be independently validated (see also Essential 2).",
+  "options": [
+   "5 – No loss of employment from “most severe” scenario.",
+   "4 – No loss of employment from “most probable” scenario.",
+   "3 – <2.5% of employment at risk from “most probable” scenario.",
+   "2 – 2.5-5% of employment at risk from “most probable” scenario.",
+   "1 – 5-7.5% of employment risk from “most probable” scenario.",
+   "0 – >7.5% of employment at risk from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s16421",
+   "_x0000_s16422",
+   "_x0000_s16423",
+   "_x0000_s16424",
+   "_x0000_s16425",
+   "_x0000_s16485"
+  ]
+ },
+ {
+  "sheet": "E04",
+  "ref": "4.1.2.1",
+  "title": "4.1.2.1 - Economic activity at risk",
+  "ref_row": 31,
+  "resp_cell": "E35",
+  "comment_cell": "C35",
+  "question": "% of business output at risk.",
+  "guidance": "Business output measured in financial terms. This assessment also includes loss through business being forced to relocate elsewhere, even if only temporarily, due to loss of premises or facilities, loss of markets, loss of services from the city or loss of workforce through inability to reach their place of work.\nLoss is for 1 month or longer.\nEffectiveness of zoning should ideally be independently validated (see also Essential 2).",
+  "options": [
+   "5 – No loss of business output from “most severe” scenario.",
+   "4 – No loss of business output from “most probable” scenario.",
+   "3 – <2.5% of business output at risk from “most probable” scenario.",
+   "2 – 2.5-5% of business output at risk from “most probable” scenario.",
+   "1 – 5-7.5% of business output risk from “most probable” scenario.",
+   "0 – >7.5% of business output at risk from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s16428",
+   "_x0000_s16429",
+   "_x0000_s16430",
+   "_x0000_s16431",
+   "_x0000_s16432",
+   "_x0000_s16486"
+  ]
+ },
+ {
+  "sheet": "E04",
+  "ref": "4.1.3",
+  "title": "4.1.3 - Agricultural land at risk",
+  "ref_row": 44,
+  "resp_cell": "E48",
+  "comment_cell": "C48",
+  "question": "% of agricultural land at risk.",
+  "guidance": "Note: Some elements of land use zoning / strategic planning are covered under essential 1. Further detail is included here.\nThis assessment is intended to focus on agricultural land required to feed the city, excluding imported food from other regions or countries.\nLoss is for 6 months or longer.\nEffectiveness of zoning should ideally be independently validated (see also Essential 2).",
+  "options": [
+   "5 – No loss of agricultural land from “most severe” scenario.",
+   "4 – No loss of agricultural land from “most probable” scenario.",
+   "3 – <2.5% of agricultural land at risk from “most probable” scenario.",
+   "2 – 2.5-5% of agricultural land at risk from “most probable” scenario.",
+   "1 – 5-7.5% of agricultural land at risk from “most probable” scenario.",
+   "0 – >7.5% of agricultural land at risk from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s16435",
+   "_x0000_s16436",
+   "_x0000_s16437",
+   "_x0000_s16438",
+   "_x0000_s16439",
+   "_x0000_s16487"
+  ]
+ },
+ {
+  "sheet": "E04",
+  "ref": "4.2.1",
+  "title": "4.2.1 - New urban development",
+  "ref_row": 59,
+  "resp_cell": "E63",
+  "comment_cell": "C63",
+  "question": "Use of urban design solutions to improve resilience; often by maximizing the extent and benefit of ecosystem services within the city (see also Essential 5).",
+  "guidance": "Urban design solutions that can improve resilience will include, but are not limited to:\nsoakaways and porous pavement used to deal with urban storm-water run-off and replenish ground water;\nunderground parking garages used as holding tanks for storm water, and parks that function as flood zones;\ngreen roofs to help cool buildings and reduce storm run-off;\ntrees and greenery to reduce heat-island effects, or stabilize hillsides;\nneighbourhood micro-grids or roof-top generation as back-up to the main energy supply.",
+  "options": [
+   "5 – Systematic use of design solutions to improve resilience throughout the city, enforced by codes. Assumed to be “the norm”.",
+   "4 – Widespread use of urban design features but some missed opportunities. Proposals to use urban design solutions are likely to be favourably received but not mandated.",
+   "3 – Some use of urban design features – perhaps in some areas, or perhaps concentrating on one or two solutions. Their use is not assured but the argument for using them can be made depending on each case.",
+   "2 – Scattered use of urban design solutions, but interest in expanding this.",
+   "1 – Little use and little interest.",
+   "0 – No use and no interest."
+  ],
+  "shapes": [
+   "_x0000_s16442",
+   "_x0000_s16443",
+   "_x0000_s16444",
+   "_x0000_s16445",
+   "_x0000_s16446",
+   "_x0000_s16447"
+  ]
+ },
+ {
+  "sheet": "E04",
+  "ref": "4.3.1",
+  "title": "4.3.1 - Existence of building codes designed to address risks identified in Essential 2",
+  "ref_row": 74,
+  "resp_cell": "E78",
+  "comment_cell": "C78",
+  "question": "Existence of applicable codes to all physical assets.\nCodes exist that will ensure:",
+  "guidance": "Building codes should be specifically evaluated for ability to deal with “most probable” and “most severe” scenarios in essential 2.\nIt may make sense to subdivide the city by region or neighbourhood.\nEffectiveness of codes should ideally be independently validated (see also Essential 2).",
+  "options": [
+   "5 – Zero damage. All physical structures and assets remaining usable in the “most probable” scenario.",
+   "4 – >75% of all physical structures and assets remaining usable in the “most probable” scenario.",
+   "3 – >50% of all physical structures and assets remaining usable in the “most probable” scenario.",
+   "2 – >20% of all physical structures and assets remaining usable in the “most probable” scenario.",
+   "1 – >10% of all physical structures and assets remaining usable in the “most probable” scenario.",
+   "0 – 0-10% of all physical structures and assets remaining in the “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s16449",
+   "_x0000_s16450",
+   "_x0000_s16451",
+   "_x0000_s16452",
+   "_x0000_s16453",
+   "_x0000_s16488"
+  ]
+ },
+ {
+  "sheet": "E04",
+  "ref": "4.3.2",
+  "title": "4.3.2 - Updates to building codes",
+  "ref_row": 87,
+  "resp_cell": "E91",
+  "comment_cell": "C91",
+  "question": "Conformity of statutory codes with latest standards in building practice and with perils faced.",
+  "guidance": "Codes may be updated as building practice evolves or as new needs (for example an increased storm risk) dictate.",
+  "options": [
+   "5 – Codes are or will be reviewed for suitability for “most severe” scenario and updated every 5 years or more frequently. They embody the latest standards in building practice.",
+   "4 – Codes are or will be reviewed for suitability for the “most probable” scenario every 10 years. They may not embody the very latest standards in building practice.",
+   "3 – Codes are or will be reviewed for suitability for the “most probable” scenario every 10 years. They probably do not embody the very latest standards in building practice.",
+   "2 – Codes are or will be reviewed for suitability for the “most probable” every 15 years or longer. They are known to be obsolete in significant respects.",
+   "1 – Codes exist, but are not reviewed at all, and no there are no plans for this. They are wholly obsolete.",
+   "0 – No codes."
+  ],
+  "shapes": [
+   "_x0000_s16456",
+   "_x0000_s16457",
+   "_x0000_s16458",
+   "_x0000_s16460",
+   "_x0000_s16461",
+   "_x0000_s16462"
+  ]
+ },
+ {
+  "sheet": "E04",
+  "ref": "4.3.3",
+  "title": "4.3.3 - Sustainable building design standards",
+  "ref_row": 100,
+  "resp_cell": "E104",
+  "comment_cell": "C104",
+  "question": "Use of sustainable building design standards such as REDi, LEED, GreenStar and BREEAM to improve resilience.",
+  "guidance": "Sustainable building designs can improve resilience by:\nreducing demand for energy and water;\ndealing better with heat events;\nincorporating features such as green roofing that also helps to control storm water runoff.",
+  "options": [
+   "5 – Systematic specification of meaningful green building standards for all new-build or retrofit, enforced by codes. Assumed to be “the norm”.",
+   "4 – Widespread use of green building standards, but some missed opportunities. Proposals to use such standards are likely to be favourably received but not mandated.",
+   "3 – Some use of green building standards – perhaps in the downtown area. Their use is not assured but the argument for using them can be made depending on each case.",
+   "2 – Scattered use of green building standards developing on the developer’s interest, but interest in expanding this.",
+   "1 – Little use and little interest.",
+   "0 – No use and no interest."
+  ],
+  "shapes": [
+   "_x0000_s16464",
+   "_x0000_s16465",
+   "_x0000_s16466",
+   "_x0000_s16467",
+   "_x0000_s16468",
+   "_x0000_s16469"
+  ]
+ },
+ {
+  "sheet": "E04",
+  "ref": "4.4.1",
+  "title": "4.4.1 - Application of land use zoning",
+  "ref_row": 115,
+  "resp_cell": "E119",
+  "comment_cell": "C119",
+  "question": "Extent to which land use zoning is enforced.",
+  "guidance": "By definition, it will be difficult for cities with informal settlements to score highly on this measure, unless it so happens that they are safely located, and unless separate steps have been taken to make these more resilient.",
+  "options": [
+   "5 – Zoning is 100% implemented and all settlement and economic activity is compliant.",
+   "4 – Zoning is 90-200% implemented and enforced.",
+   "3 – Zoning is 80-90% implemented and enforced.",
+   "2 – Zoning is 70-80% implemented and enforced.",
+   "1 – Zoning is 50-70% implemented and enforced.",
+   "0 – Zoning is <50% implemented and enforced."
+  ],
+  "shapes": [
+   "_x0000_s16471",
+   "_x0000_s16472",
+   "_x0000_s16473",
+   "_x0000_s16474",
+   "_x0000_s16475",
+   "_x0000_s16489"
+  ]
+ },
+ {
+  "sheet": "E04",
+  "ref": "4.4.2",
+  "title": "4.4.2 - Application of building codes",
+  "ref_row": 128,
+  "resp_cell": "E132",
+  "comment_cell": "C132",
+  "question": "",
+  "guidance": "Effectiveness of codes should ideally be independently validated (see also essential 2).\nApplication of codes will be a particular issue in unplanned or informal settlements.\nCodes and standards will include those for the supply of basic infrastructure services to informal settlements, without which the ability of those settlements to recover from disasters will be severely compromised.",
+  "options": [
+   "5 – Codes are 100% implemented on applicable structures and certified as such by a 3rd party.",
+   "4 – Codes are 90-100% implemented on applicable structures and 3rd-party certified.",
+   "3 – Codes are 80-90% implemented on applicable structures. They may or may not be 3rd party certified.",
+   "2 – Codes are 70-80% implemented on applicable structures. They may or may not be 3rd party certified.",
+   "1 – Codes are 50-70 % implemented on applicable structures. No 3rd party certification.",
+   "0 – Codes are <50% implemented on applicable structures. No 3rd party certification."
+  ],
+  "shapes": [
+   "_x0000_s16478",
+   "_x0000_s16479",
+   "_x0000_s16480",
+   "_x0000_s16481",
+   "_x0000_s16482",
+   "_x0000_s16490"
+  ]
+ },
+ {
+  "sheet": "E05",
+  "ref": "5.1.1",
+  "title": "5.1.1 - Awareness of the role that ecosystem services may play in the city’s disaster resilience",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "Ecosystem services are specifically identified, and managed as critical assets.",
+  "guidance": "Ecosystem services may include:\nSand dunes, coastal wetlands, mangroves or reefs that protect against storm surges and tsunamis;\nForestation that protects against flash flooding, landslides;\nNatural overflow channels, sandy soil soak-zones, and marshes that can protect against river flooding and storm water run-off;\nLakes, rivers and aquifers that supply water;\nWater-tables that, if lowered, may cause low-lying or reclaimed land to shrink to below sea level;\nTrees and greenery that reduce urban heat-island effects or enable urban soak-way zones for flood management.\nMany ecosystem services also relieve chronic stresses – for example, wetlands help to remediate water pollution; forests help to remediate air pollution, and so on. Where those chronic stresses degrade the city’s disaster resilience (for example, where pollution reduces water available in a drought or where lack of pollinating insects reduces food supply) then the ecosystem services concerned should also be monitored.",
+  "options": [
+   "5 – Critical ecosystem services identified and monitored annually on a defined set of key health/performance indicators.",
+   "4 – Critical ecosystem services identified and monitored annually, but less systematic use of metrics.",
+   "3 – Critical ecosystem services identified but have ad hoc monitoring – no real attempt to track health over time.",
+   "2 – Some key ecosystem services omitted from monitoring altogether.",
+   "1 – Identification and monitoring of ecosystem services is formative at best, or is seriously deficient.",
+   "0 – No monitoring."
+  ],
+  "shapes": [
+   "_x0000_s17436",
+   "_x0000_s17437",
+   "_x0000_s17438",
+   "_x0000_s17439",
+   "_x0000_s17440",
+   "_x0000_s17488"
+  ]
+ },
+ {
+  "sheet": "E05",
+  "ref": "5.1.2",
+  "title": "5.1.2 - Ecosystem health",
+  "ref_row": 18,
+  "resp_cell": "E22",
+  "comment_cell": "C22",
+  "question": "Change in health, extent or benefit of each ecosystem service in last 5 years.",
+  "guidance": "Measures will include extent, health (perhaps captured as species diversity) and buffering capacity. Measures will be specific to each ecosystem and may need to be derived by scientists or technical experts practicing in the relevant areas.",
+  "options": [
+   "5 – Improved health and performance across the board for critical eco-system services’.",
+   "4 – At least neutral status across the board, with some improvements in some cases.",
+   "3 – Neutral status on average – some improvements offset by some declines.",
+   "2 – Generalized decline in ecosystem service status.",
+   "1 – Generalized severe degradation in status known or suspected.",
+   "0 – Potentially fatal damage to some or many key eco-system services."
+  ],
+  "shapes": [
+   "_x0000_s17450",
+   "_x0000_s17451",
+   "_x0000_s17452",
+   "_x0000_s17453",
+   "_x0000_s17454",
+   "_x0000_s17487"
+  ]
+ },
+ {
+  "sheet": "E05",
+  "ref": "5.2.1",
+  "title": "5.2.1 - Impact of land use and other policies on ecosystem services",
+  "ref_row": 33,
+  "resp_cell": "E37",
+  "comment_cell": "C37",
+  "question": "Absence of policies or land uses liable to weaken ecosystem services.",
+  "guidance": "This assessment complements the assessment of land use zoning in Essential 4.",
+  "options": [
+   "5 – Land use policies are strongly supportive of critical ecosystem services and are fully enforced.",
+   "4 – Land use policies are strongly supportive of critical ecosystem services and are generally enforced.",
+   "3 – Land use policies are broadly supportive but are not fully enforced.",
+   "2 – Land use policies (or lack thereof) may lead or have led to damage to one or more critical ecosystem services.",
+   "1 – Land use policies (or lack thereof) inflict generalized degradation on ecosystem services.",
+   "0 – Land use policies (or lack thereof) may lead or have led to complete destruction of critical ecosystem services."
+  ],
+  "shapes": [
+   "_x0000_s17457",
+   "_x0000_s17458",
+   "_x0000_s17459",
+   "_x0000_s17460",
+   "_x0000_s17461",
+   "_x0000_s17486"
+  ]
+ },
+ {
+  "sheet": "E05",
+  "ref": "5.2.2",
+  "title": "5.2.2 - Green and blue infrastructure is routinely embedded into city projects",
+  "ref_row": 46,
+  "resp_cell": "E50",
+  "comment_cell": "C50",
+  "question": "Green and blue infrastructure is routinely embedded into projects across the city – in new urban development, regeneration and infrastructure projects.",
+  "guidance": "Green Infrastructure includes: greening streets, squares and roadsides; greening roofs and facades, developing urban agriculture; creating urban green corridors; replace impermeable surfaces; natural water filtration; daylighting urban rivers and restoring embankments, etc.Blue Infrastructure includes: river corridors, wetlands and other waterways.\nEcosystem functions include: water attenuation, food growing, fuel, carbon sequestration, air filtration, heat attenuation, pollination, aesthetic value etc.\nWhile resilience and sustainability are not the same (items like concrete seawalls are resilient but not very sustainable, whereas species conservation may be sustainable but taking place in a location doomed by sea level rise), they are often aligned. For example, environmental stress such as deforestation may worsen flash-flooding or heat events; or degraded agricultural land may hinder the ability of a region to recover from a disaster. Enhancing green environmental services through the use of Green and Blue infrastructure is often an excellent strategy for improving resilience.",
+  "options": [
+   "5 – The city has maximised opportunities to include green and blue infrastructure and has processes and codes (see Essential 4) to ensure this will continue with future development.",
+   "4 – The city is a heavy user of green and blue infrastructure, perhaps with 80% of known opportunities taken. The issue is regularly considered and embedded in codes.",
+   "3 – The city is an extensive user of blue and green infrastructure but this is ad hoc – they are not maintained in building codes.",
+   "2 – The city is a moderate user of blue and green infrastructure for new development – less effort at retrofitting.",
+   "1 – The city is familiar with the idea of blue and green infrastructure and is an occasional user.",
+   "0 – No usage or awareness of blue and green infrastructure issues."
+  ],
+  "shapes": [
+   "_x0000_s17464",
+   "_x0000_s17465",
+   "_x0000_s17466",
+   "_x0000_s17467",
+   "_x0000_s17468",
+   "_x0000_s17469"
+  ]
+ },
+ {
+  "sheet": "E05",
+  "ref": "5.3.1",
+  "title": "5.3.1 - Identification of critical environmental assets",
+  "ref_row": 61,
+  "resp_cell": "E65",
+  "comment_cell": "C65",
+  "question": "How many critical ecosystem assets have been identified outside of the city boundaries that act towards enhancing city resilience?",
+  "guidance": "Critical environmental assets might include (but not be restricted to) shared watersheds, ground water aquifers, wetlands, nearby green spaces, urban greenery (to reduce heat island effects), food sources and so on.",
+  "options": [
+   "5 – The city regularly undertakes transboundary assessments of ecosystem assets and works with border neighbours to manage these assets.",
+   "4 – The city has mapped ecosystem assets and carried out a complete assessment of risk reduction due to these assets, considering assets beyond its own borders.",
+   "3 – The city’s mapping of ecosystem assets extends beyond its own borders.",
+   "2 – There are critical ecosystem assets beyond the city boundaries, but they haven’t been properly identified.",
+   "1 – No critical ecosystem assets have been identified.",
+   "0 – City has no plans to consider ecosystems beyond its own borders."
+  ],
+  "shapes": [
+   "_x0000_s17471",
+   "_x0000_s17472",
+   "_x0000_s17473",
+   "_x0000_s17474",
+   "_x0000_s17475",
+   "_x0000_s17484"
+  ]
+ },
+ {
+  "sheet": "E05",
+  "ref": "5.3.2",
+  "title": "5.3.2 - Transboundary agreements",
+  "ref_row": 74,
+  "resp_cell": "E78",
+  "comment_cell": "C78",
+  "question": "Are there trans-boundary agreements and collaborations in place to enable policy and planning for the implementation of ecosystem based approaches?\nFor those ecosystems that are outside city jurisdictional boundary.",
+  "guidance": "",
+  "options": [
+   "5 – All transboundary agreements and collaborations are in place with relevant organisations and implemented where required, according to findings of risk assessment.",
+   "4 – Some agreements in place with some organisations; further examples are currently being identified.",
+   "3 – The city has identified the need to establish transboundary agreements and is in process of deciding next steps.",
+   "2 – No transboundary agreements exist but it is on the city agenda to undertake such an assessment.",
+   "1 – No transboundary examples identified.",
+   "0 – City sees no value in establishing trans-boundary agreements and no plans to do so."
+  ],
+  "shapes": [
+   "_x0000_s17478",
+   "_x0000_s17479",
+   "_x0000_s17480",
+   "_x0000_s17481",
+   "_x0000_s17482",
+   "_x0000_s17485"
+  ]
+ },
+ {
+  "sheet": "E06",
+  "ref": "6.1.1",
+  "title": "6.1.1 - Availability of skills and experience in disaster resilience – risk identification, mitigation, planning, response and post event response",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "Known (i.e. inventoried in last 1 year) availability of key skills, experience and knowledge.",
+  "guidance": "Skills will include: land planning, energy, environmental, water and structural engineering, logistics, debris disposal, healthcare, law and order, project planning and management.\nKnowledge refers to operating knowledge of city government and city infrastructure(s): the energy, water, sanitation, traffic and other critical city systems at risk. (see Essential 8)\nExperience refers to direct experience of the types of perils the city faces (see essential 2) and the capabilities of the city’s infrastructure to withstand and/or recover from these.\nSome skills, knowledge or experience may be purchased from specialist consultancies, or supplied on a one-time basis by aid agencies.\n(First responders – see Essential 9).",
+  "options": [
+   "5 – Skills inventory carried out in last year and all key skills and experience are available in required quantities for all organizations relevant to city disaster resilience.",
+   "4 – Inventory carried out - shows with minor gaps in quantity or skill type in some organizations.",
+   "3 – Inventory carried out but each organization has at least one skill or experience type in short supply.",
+   "2 – Inventory may not have complete coverage, but known widespread lack of multiple skill or experience types in many organizations.",
+   "1 – Rudimentary and partial inventory. Suspicion of complete or almost complete lack of skills available across the city.",
+   "0 – No inventory."
+  ],
+  "shapes": [
+   "_x0000_s18467",
+   "_x0000_s18468",
+   "_x0000_s18469",
+   "_x0000_s18470",
+   "_x0000_s18471",
+   "_x0000_s18558"
+  ]
+ },
+ {
+  "sheet": "E06",
+  "ref": "6.1.2",
+  "title": "6.1.2 - Private sector links",
+  "ref_row": 18,
+  "resp_cell": "E22",
+  "comment_cell": "C22",
+  "question": "To what extent does the city utilise and engage the private sector?",
+  "guidance": "",
+  "options": [
+   "5 – City DRR stakeholders have in place comprehensive MOU agreements with private companies to co-opt resources such as food, warehousing, data centers and vehicles, and perhaps skilled employees such as engineers, in an emergency situation. There are regular meetings between DRR stakeholders and local companies updating on local risks.",
+   "4 – The city has MoUs and fairly regular meetings but these could be improved.",
+   "3 – The city has some formal MOUs and meetings with the private sector but these could be improved.",
+   "2 – Some agreements exist but these are not formal / coordinated. Meetings are rare.",
+   "1 – The city DRR stakeholders have started to engage the private sector but this is at an early stage.",
+   "0 – No agreements or meetings."
+  ],
+  "shapes": [
+   "_x0000_s18474",
+   "_x0000_s18475",
+   "_x0000_s18476",
+   "_x0000_s18477",
+   "_x0000_s18478",
+   "_x0000_s18557"
+  ]
+ },
+ {
+  "sheet": "E06",
+  "ref": "6.1.3",
+  "title": "6.1.3 - Engagement of the insurance sector",
+  "ref_row": 31,
+  "resp_cell": "E35",
+  "comment_cell": "C35",
+  "question": "Is the city engaging with the insurance sector to assess, mitigate and manage risk and stimulate a market for insurance products?",
+  "guidance": "As society’s traditional risk manager, the (re) insurance industry has significant expertise in the quantification and evaluation of complex risks and can play a highly-constructive role in assisting cities identify and respond to risks and build their resilience. The widespread availability of insurance within cities represents a crucial component of resilience due to insurance’s critical role in helping economies and communities ‘bounce back’ quickly from disasters and extreme events. Promoting urban resiliency is also a strategic imperative of the (re) insurance industry as it can help catalyze market growth, address under-insurance, reduce losses, enhance ‘license to operate’, and present opportunities for innovative risk transfer and insurance solutions. (Ref: WCCD and UNISDR, Towards Standardized City Indicators for Insurability & Resilience, July 2016)",
+  "options": [
+   "5 – Very substantial engagement for some years, city is actively collaborating.",
+   "4 – Some engagement but missing a thorough process for cross sector engagement.",
+   "3 – Engagement in place, but only for the cities critical assets.",
+   "2 –Discussions have been initiated.",
+   "1 – The need for engagement with the insurance has been recognised, but no discussions have taken place yet.",
+   "0 – No engagement, no insurance."
+  ],
+  "shapes": [
+   "_x0000_s18481",
+   "_x0000_s18482",
+   "_x0000_s18483",
+   "_x0000_s18484",
+   "_x0000_s18485",
+   "_x0000_s18559"
+  ]
+ },
+ {
+  "sheet": "E06",
+  "ref": "6.1.4",
+  "title": "6.1.4 - Civil society links",
+  "ref_row": 44,
+  "resp_cell": "E48",
+  "comment_cell": "C48",
+  "question": "To what extent does the city utilise and engage civil society organisations?",
+  "guidance": "Engagement with volunteers is also an important way of enabling social capacity to respond (see Essential 7).",
+  "options": [
+   "5 – City DRR stakeholders have in place comprehensive MOU agreements with various NGOs with NGO role defined in providing support in response, relief and meeting resource demands. High volunteer capacity as required. Regular planning and coordination meetings.",
+   "4 – The city works with NGOs and/or volunteers in various DRR capacities but this could be utilised even further. High volunteer capacity as required.",
+   "3 – The city works with NGOs and/or volunteers in some DRR capacities but this could improve. Modest volunteer capacity relative to the city needs.",
+   "2 – Some agreements exist but these are not formal / coordinated. Need for greater volunteer capacity.",
+   "1 – The city DRR stakeholders have started to engage NGO organisations and/or volunteers but this is at an early stage.",
+   "0 – No agreements / arrangements."
+  ],
+  "shapes": [
+   "_x0000_s18488",
+   "_x0000_s18489",
+   "_x0000_s18490",
+   "_x0000_s18491",
+   "_x0000_s18492",
+   "_x0000_s18560"
+  ]
+ },
+ {
+  "sheet": "E06",
+  "ref": "6.2.1",
+  "title": "6.2.1 - Exposure of public to education and awareness materials/messaging",
+  "ref_row": 59,
+  "resp_cell": "E63",
+  "comment_cell": "C63",
+  "question": "Coordinated public relations and education campaign exists, with structured messaging, channels, and delivery.",
+  "guidance": "Likely to be based on information made public – see essential 1.\nMedia may include:\nPrint – books, newspapers, leaflets, fliers;\nSchool and college teaching material;\nTV – advertisements. Documentaries, news features;\nRadio – as for TV;\nWeb – websites, advertisements, content on city web-sites;\nMobile – as for web but also social media – Twitter, Facebook, Weebo etc; Possibly also create specialist app for city’s disaster resilience information;\nPosters – on buildings, buses, trains, city offices.\nMaterial may come from multiple agencies and sources, but should have coordinated messages.\nSchools and colleges may be an especially important channel; also churches, neighbourhood groups, libraries.",
+  "options": [
+   "5 – Systematic, structured campaign exists using at least 6 of the media at right, via neighbourhood mobilization (see Essential 7), and schools outreach.",
+   "4 – Campaign uses at least 5 of the media/channels above, including 1 of neighbourhood mobilization and schools outreach.",
+   "3 – Campaign uses at least 4 of the media/channels above; also, weighted to least informative such as radio and poster ads.",
+   "2 – Campaign uses 3 of the media/channels above; also weighted to least informative such as radio and poster ads.",
+   "1 – Ad hoc – no structured education and awareness campaign as such.",
+   "0 – No education work."
+  ],
+  "shapes": [
+   "_x0000_s18495",
+   "_x0000_s18496",
+   "_x0000_s18497",
+   "_x0000_s18498",
+   "_x0000_s18499",
+   "_x0000_s18561"
+  ]
+ },
+ {
+  "sheet": "E06",
+  "ref": "6.2.1.1",
+  "title": "6.2.1.1 - Exposure of public to education and awareness materials / messaging",
+  "ref_row": 72,
+  "resp_cell": "E76",
+  "comment_cell": "C76",
+  "question": "Exposures per member of the public, per month to messaging",
+  "guidance": "Exposures established, for example, via traffic counts (web sites, mobile), audience figures (TV, radio), road traffic counts (i.e., road traffic past posters), and so on.\nIf funds permit exposures could also be validated via survey.",
+  "options": [
+   "5 – Average 1 or more exposures per person per week, city-wide.",
+   "4 – Average 1 exposure per person per two weeks, city-wide.",
+   "3 – Average 1 exposure per person per month, city-wide.",
+   "2 – Average 1 exposure per person per quarter, city-wide.",
+   "1 – Average 1 exposure per person per six months, city-wide.",
+   "0 – Average 1 exposure per person per year or worse."
+  ],
+  "shapes": [
+   "_x0000_s18502",
+   "_x0000_s18503",
+   "_x0000_s18504",
+   "_x0000_s18505",
+   "_x0000_s18506",
+   "_x0000_s18562"
+  ]
+ },
+ {
+  "sheet": "E06",
+  "ref": "6.3.1",
+  "title": "6.3.1 - Extent to which data on the city’s resilience position is shared with other organizations involved with the city’s resilience",
+  "ref_row": 87,
+  "resp_cell": "E91",
+  "comment_cell": "C91",
+  "question": "Availability of a single “version of the truth” – a single integrated set of resilience data for practitioners.",
+  "guidance": "Information to consider making open for other organizations to access might include:\nA summary of readiness – perhaps the outcomes of this Scorecard;\nAn explanation of the hazards and perils that the city faces, and probabilities;\nA risk-map based summary (see essential 2) of at-risk areas;\nA description of what building codes will protect against, and where these have been applied;\nA description of what businesses and other organizations should expect by way of disaster impacts, the city’s likely response and the implications for business continuity;\nA description of what businesses and other organizations need to do for themselves;\nKey roles and accountabilities in the city;\nPlanned investments that will affect the city’s resilience position.\nFurther resources and contact details.",
+  "options": [
+   "5 – Full availability of the information listed at right on readiness and risk; fully shared with other organizations.",
+   "4 – Some minor gaps, or the information is in more than one place – but it is shared and it is at least linked to enable navigation.",
+   "3 – Some more significant gaps, for example on readiness; other organizations may have to “hunt around” to create a complete picture for themselves.",
+   "2 – Some significant information on readiness and risk is withheld from other organizations or is missing and/or badly fragmented across multiple websites.",
+   "1 – Information provision to other organizations on readiness and risk is rudimentary at best. Not possible to for those organizations to derive specific conclusions for themselves.",
+   "0 – No information."
+  ],
+  "shapes": [
+   "_x0000_s18509",
+   "_x0000_s18510",
+   "_x0000_s18511",
+   "_x0000_s18512",
+   "_x0000_s18513",
+   "_x0000_s18563"
+  ]
+ },
+ {
+  "sheet": "E06",
+  "ref": "6.3.2",
+  "title": "6.3.2 - Extent to which data on the city’s resilience position is shared with the community organizations and public",
+  "ref_row": 100,
+  "resp_cell": "E104",
+  "comment_cell": "C104",
+  "question": "Availability of a single “version of the truth” – a single integrated set of resilience data for citizens and community organizations containing at least the items shown at right.",
+  "guidance": "Information to consider making open for public access might include:\nA summary of readiness – perhaps a summary of the outcomes of this Scorecard\nAn explanation of the hazards that the city is thought to face, and probabilities\nA hazard-map based summary (see Essential 2) of at-risk areas\nA description of what building codes will protect against, and where these have been applied\nA description of what citizens should expect by way of disaster impacts, the city’s likely response and the implications for daily life\nA description of citizens need to do for themselves and their families\nKey roles and accountabilities in the city\nPlanned investments that will affect the city’s – or a neighbourhood’s - resilience\nFurther resources and contact details.",
+  "options": [
+   "5 – Full availability of the information listed at right on readiness and risk; fully shared with other community organizations and available to the public via website, mobile device etc.",
+   "4 – Some minor gaps, or the information is in more than one place – but it is shared and it is at least linked to enable navigation.",
+   "3 – Some more significant gaps, for example on readiness; other organizations or citizens may have to “hunt around” to create a complete picture for themselves.",
+   "2 – Some significant information on readiness and risk is withheld from other organizations or is missing and/or badly fragmented across multiple websites.",
+   "1 – Information provision to other community organizations and to citizens on readiness and risk is rudimentary at best. Not possible to for those organizations or citizens to derive specific conclusions for themselves or their neighbourhoods.",
+   "0 – No information."
+  ],
+  "shapes": [
+   "_x0000_s18516",
+   "_x0000_s18517",
+   "_x0000_s18518",
+   "_x0000_s18519",
+   "_x0000_s18520",
+   "_x0000_s18569"
+  ]
+ },
+ {
+  "sheet": "E06",
+  "ref": "6.4.1",
+  "title": "6.4.1 - Availability, take-up of training focussed on Risk and Resilience (Professional Training)",
+  "ref_row": 115,
+  "resp_cell": "E119",
+  "comment_cell": "C119",
+  "question": "Training offered and available to resilience professionals (from city government, voluntary or other sources).",
+  "guidance": "Training for professionals is covered here in Essential 6. Community training is covered in Essential 7 and Disaster Drills are covered in Essential 9.",
+  "options": [
+   "5 – Full training curriculum is available for all, derived from known or anticipated needs.",
+   "4 – Full training curriculum is available across the city.",
+   "3 – Training curriculum available but is not fully deployed across the city.",
+   "2 – Ad hoc training classes address some issues for some area of the city.",
+   "1 –Training courses are under development.",
+   "0 – No training."
+  ],
+  "shapes": [
+   "_x0000_s18523",
+   "_x0000_s18524",
+   "_x0000_s18525",
+   "_x0000_s18526",
+   "_x0000_s18527",
+   "_x0000_s18564"
+  ]
+ },
+ {
+  "sheet": "E06",
+  "ref": "6.4.1.1",
+  "title": "6.4.1.1 - Availability, take-up of training focussed on Risk and Resilience (Professional Training)",
+  "ref_row": 128,
+  "resp_cell": "E132",
+  "comment_cell": "C132",
+  "question": "% of population trained in last year.",
+  "guidance": "Effectiveness of training validated via drills – see Essential 9.",
+  "options": [
+   "5 – 5% or better in all neighbourhoods.",
+   "4 – 2.5-5% in all neighbourhoods.",
+   "3 – 1-2.5% in all neighbourhoods.",
+   "2 – 0.5-1% in all neighbourhoods.",
+   "1 – <0.5% in all neighbourhoods.",
+   "0 – No training."
+  ],
+  "shapes": [
+   "_x0000_s18530",
+   "_x0000_s18531",
+   "_x0000_s18532",
+   "_x0000_s18533",
+   "_x0000_s18534",
+   "_x0000_s18565"
+  ]
+ },
+ {
+  "sheet": "E06",
+  "ref": "6.4.2",
+  "title": "6.4.2 - System / process for updating relevant training",
+  "ref_row": 141,
+  "resp_cell": "E145",
+  "comment_cell": "C145",
+  "question": "Frequency of repeat training",
+  "guidance": "See also Essential 9.",
+  "options": [
+   "5 – 6 monthly refreshers and emergency drills city-wide for all trained participants.",
+   "4 – Annual refreshers and emergency drills city-wide for all trained participants.",
+   "3 – Annual refreshers and emergency drill cycle but may not be city-wide or reach all participants.",
+   "2 – Two-yearly refreshers and emergency drill cycle but may not be city-wide or reach all participants.",
+   "1 – Ad hoc refreshers and emergency drills – timing, attendance and content depend on enthusiasm of local organization.",
+   "0 – No refreshers or emergency drills."
+  ],
+  "shapes": [
+   "_x0000_s18537",
+   "_x0000_s18538",
+   "_x0000_s18539",
+   "_x0000_s18540",
+   "_x0000_s18541",
+   "_x0000_s18566"
+  ]
+ },
+ {
+  "sheet": "E06",
+  "ref": "6.5.1",
+  "title": "6.5.1 - Accessibility of education and training to all linguistic groups in the city",
+  "ref_row": 156,
+  "resp_cell": "E160",
+  "comment_cell": "C160",
+  "question": "Availability of all education and training in all languages spoken in the city.",
+  "guidance": "Cities with high numbers of different languages may need to settle for a selection of languages that reaches everyone as a first or second language. Validation will be required that 100% of population is being reached in this way.",
+  "options": [
+   "5 – Available for 100% of linguistic groups and 100% of the population.",
+   "4 – Available for 95% of the population irrespective of language.",
+   "3 – Available for 90% of the population irrespective of language.",
+   "2 – Available for 85% of the population irrespective of language.",
+   "1 – Available for 80% of the population irrespective of language.",
+   "0 – Available for <80% of the population irrespective of language."
+  ],
+  "shapes": [
+   "_x0000_s18544",
+   "_x0000_s18545",
+   "_x0000_s18546",
+   "_x0000_s18547",
+   "_x0000_s18548",
+   "_x0000_s18567"
+  ]
+ },
+ {
+  "sheet": "E06",
+  "ref": "6.6.1",
+  "title": "6.6.1 - Effort taken to learn from what other cities, states and countries (and companies) do to increase resilience",
+  "ref_row": 171,
+  "resp_cell": "E175",
+  "comment_cell": "C175",
+  "question": "Learning activities executed with other cities and other practitioners.",
+  "guidance": "These activities are focused on learning and improving – actual coordination of response management and resilience planning is covered in Essential 1.\nLearning might be via a direct exchange with peer cities, or through industry groups, national resilience and emergency management forums, city groups such as 100RC, C40, ICLEI and others, or NGOs such as the UN.",
+  "options": [
+   "5 – Regular (say, annual) exchanges with other cities and regions, specifically to share understand and capture resilience best practices, issues, responses; and examples exist of changes made in the city as a result. Supplemented by regular peer-to-peer contacts with practitioners in other organizations.",
+   "4 – Regular exchanges but may be in the context of other meetings with sharing of best practices as a side-effect. Outcomes are captured and some impact may be identified on how the city prepares for disasters.",
+   "3 – Reliance only on networking by individual practitioners in the organization with their peers in other organizations. These can be frequent, and there will be some attempt to capture and implement learnings.",
+   "2 – Occasional exchanges of a more one-off or ad hoc nature. Impact on/benefit for the city is diffuse and harder to identify.",
+   "1 – Even networking is limited and learning potential is therefore also limited.",
+   "0 – No attempt to learn from others."
+  ],
+  "shapes": [
+   "_x0000_s18551",
+   "_x0000_s18552",
+   "_x0000_s18553",
+   "_x0000_s18554",
+   "_x0000_s18555",
+   "_x0000_s18568"
+  ]
+ },
+ {
+  "sheet": "E07",
+  "ref": "7.1.1",
+  "title": "7.1.1 - Coverage of community or “grass roots” organization(s) throughout the city",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "Presence of at least one non-government body for planning disaster risk reduction interventions and post event response for each neighbourhood in the city.",
+  "guidance": "Community organizations may include:\nThose set up specifically for disaster resilience management (for example, community emergency response teams – CERT – in the US).\nThose serving some other purpose but willing and able to play a disaster resilience role: for example, churches, business Round Tables, youth organizations, food kitchens, neighbourhood watch, day centres and so on.\nCommunity organizations should be willing and able to contribute to disaster resilience plans for their area based on the input of their members. They need to be seen as legitimate, and to cooperate with each other and the city government.\n(Event response element is regularly tested at least in simulation exercises – see Essential 9).",
+  "options": [
+   "5 – Community organization(s) addressing full spectrum of disaster resilience issues exist(s) for every neighbourhood, irrespective of wealth, demographics etc.",
+   "4 – >75% of neighbourhoods covered.",
+   "3 – >50 -75% of neighbourhoods covered.",
+   "2 – >25-50% of neighbourhoods covered.",
+   "1 – Plans to engage neighbourhoods and maybe one or two initial cases.",
+   "0 – No engagement."
+  ],
+  "shapes": [
+   "_x0000_s19480",
+   "_x0000_s19481",
+   "_x0000_s19482",
+   "_x0000_s19483",
+   "_x0000_s19484",
+   "_x0000_s19485"
+  ]
+ },
+ {
+  "sheet": "E07",
+  "ref": "7.1.2",
+  "title": "7.1.2 - Effectiveness of community network",
+  "ref_row": 18,
+  "resp_cell": "E22",
+  "comment_cell": "C22",
+  "question": "Community organization meeting frequency and attendance.",
+  "guidance": "Community organizations defined as above.",
+  "options": [
+   "5 – For >75% of neighbourhoods, one meeting per month, all personnel roles staffed and 10x formal role-holder numbers in regular attendance.",
+   "4 – For 50-75% of neighbourhoods, one meeting per quarter – all roles staffed and 5 x role-holder numbers in attendance. No meetings in the rest.",
+   "3 – For 25-50% of neighbourhoods, semi-annual meetings, but with some gaps in roles and less than 3x role-holders in attendance. No meetings in the rest.",
+   "2 – For 25-50% of neighbourhoods, annual meetings but with significant gaps in roles and less than 3x formal role-holders in attendance. No meetings in the rest.",
+   "1 – Ad hoc meetings in less than 25% of neighbourhoods, of a few “enthusiasts”.",
+   "0 – No meetings."
+  ],
+  "shapes": [
+   "_x0000_s19487",
+   "_x0000_s19488",
+   "_x0000_s19489",
+   "_x0000_s19490",
+   "_x0000_s19491",
+   "_x0000_s19492"
+  ]
+ },
+ {
+  "sheet": "E07",
+  "ref": "7.1.2.1",
+  "title": "7.1.2.1 - Effectiveness of community network",
+  "ref_row": 31,
+  "resp_cell": "E35",
+  "comment_cell": "C35",
+  "question": "Clear identification and coordination of disaster risk reduction actions and post-event roles for community bodies, supported by training.\nRoles agreed and signed off, preferably via MOU or similar.",
+  "guidance": "One key issue is ensuring that there is a clear differentiation of roles between community organizations and between them and other entities such as city government – who is responsible for what?\nSee also information sharing framework in Essential 6.",
+  "options": [
+   "5 – For >75% of neighbourhoods, roles are defined and filled, coordination is effective within and between community bodies, and full training is both provided and attended.",
+   "4 – For 50-75% of neighbourhoods, roles are defined and agreed, but some minor deficiencies in these or in training, or incomplete staffing in some cases. Coordination generally good but some lapses. No roles defined in the rest.",
+   "3 – For 25-50% of neighbourhoods, most roles defined, but with more significant omissions; some training but with gaps in coverage; coordination adequate but could be improved. No roles defined in the rest.",
+   "2 – For 25-50% of neighbourhoods, a few key roles defined, but coordination is absent or poor and training notably incomplete. No roles defined in the rest.",
+   "1 – Plans in place to define roles and develop coordination mechanisms.",
+   "0 – No roles defined and no coordination."
+  ],
+  "shapes": [
+   "_x0000_s19494",
+   "_x0000_s19495",
+   "_x0000_s19496",
+   "_x0000_s19497",
+   "_x0000_s19498",
+   "_x0000_s19499"
+  ]
+ },
+ {
+  "sheet": "E07",
+  "ref": "7.2.1",
+  "title": "7.2.1 - Social connectedness and neighbourhood cohesion",
+  "ref_row": 46,
+  "resp_cell": "E50",
+  "comment_cell": "C50",
+  "question": "Likelihood that residents will be contacted immediately after an event, and regularly thereafter to confirm safety, issues, needs etc.",
+  "guidance": "Social connectedness has been shown to have a major impact in reducing fatalities from disasters, and also in reducing opportunistic crime following an event.\nConnectedness is however difficult to measure directly. This assessment is written in terms of specifically identified volunteers and grass-roots organizations, taking these as a proxy measurement for connectedness.\nIn addition, the “reasonable confidence” standard is inherently subjective. As well as this proxy measurement, therefore, other factors that you may also wish to take into account will include:\nA history of people in each neighbourhood meaningfully helping each other after previous events;\nA strong fabric of community organizations in general, even if not focused on disaster resilience in the first instance.",
+  "options": [
+   "5 – Sufficient volunteers are available from community organizations to give “reasonable confidence” that 100% of residents will be contacted within 12 hours of an event.",
+   "4 – 90% of residents within 12 hours.",
+   "3 – 80% of residents.",
+   "2 – 70% of residents.",
+   "1 – 50% or less of residents.",
+   "0 – No volunteers."
+  ],
+  "shapes": [
+   "_x0000_s19501",
+   "_x0000_s19502",
+   "_x0000_s19503",
+   "_x0000_s19504",
+   "_x0000_s19505",
+   "_x0000_s19506"
+  ]
+ },
+ {
+  "sheet": "E07",
+  "ref": "7.2.2",
+  "title": "7.2.2 - Engagement of vulnerable groups of the population",
+  "ref_row": 59,
+  "resp_cell": "E63",
+  "comment_cell": "C63",
+  "question": "Evidence of disaster resilience planning with or for the relevant groups covering the span of the vulnerable population.\nConfirmation from those groups of effective engagement.",
+  "guidance": "Vulnerable groups of the population might include, as examples:\nThose in areas of high poverty;\nTransient or nomadic communities;\nThe elderly;\nPhysically or mentally sick or disabled;\nChildren;\nNon-native language speakers.\nEngagement may be through neighbourhood organizations or via specialist government organizations, charities, NGOs etc. These may also function as “grass roots” organizations (see above)\n(Public awareness, education and training materials – see Essential 7).",
+  "options": [
+   "5 – All vulnerable groups are regularly engaged on disaster resilience issues and they or their representatives confirm as such.",
+   "4 – All major groups (measured by membership % of those defined as vulnerable in the city as a whole) are engaged – some minor gaps.",
+   "3 – One or more major gaps in coverage or effective engagement.",
+   "2 – Multiple gaps in coverage or effective engagement.",
+   "1 – Generalized failure to engage with vulnerable groups.",
+   "0 – No vulnerable groups specifically identified."
+  ],
+  "shapes": [
+   "_x0000_s19508",
+   "_x0000_s19509",
+   "_x0000_s19510",
+   "_x0000_s19511",
+   "_x0000_s19512",
+   "_x0000_s19513"
+  ]
+ },
+ {
+  "sheet": "E07",
+  "ref": "7.3.1",
+  "title": "7.3.1 - Extent to which employers act as a channel with employees",
+  "ref_row": 74,
+  "resp_cell": "E78",
+  "comment_cell": "C78",
+  "question": "Proportion of employers that pass resilience communications to employers, and allow limited time off for resilience volunteer activities.",
+  "guidance": "Employees can act as an important communications conduit to employees on resilience issues, especially in the area of hazards faced and preparation – which are also likely to benefit them in the form of better continuity of operations after an event.",
+  "options": [
+   "5 – 50% of employers with more than 10 employees take part in communicating with their workforce about resilience issues/ 10% take part in resilience training and allow small amounts of time off for resilience volunteer activities.",
+   "4 – 40% / 8%.",
+   "3 – 30% / 5%.",
+   "2 – 20% / 3%.",
+   "1 – 10% / 1%.",
+   "0 – 0% / 0%."
+  ],
+  "shapes": [
+   "_x0000_s19515",
+   "_x0000_s19516",
+   "_x0000_s19517",
+   "_x0000_s19518",
+   "_x0000_s19519",
+   "_x0000_s19520"
+  ]
+ },
+ {
+  "sheet": "E07",
+  "ref": "7.3.2",
+  "title": "7.3.2 - Business continuity planning",
+  "ref_row": 87,
+  "resp_cell": "E91",
+  "comment_cell": "C91",
+  "question": "Proportion of business with a solid business continuity plan.",
+  "guidance": "While business continuity plans are the concern of each business, their presence and effectiveness will play a major role in how rapidly the city’s economy restarts after a disaster. Therefore cities need to be proactive in persuading businesses to undertake continuity plans, based on a shared view of the hazards and issues likely to arise.",
+  "options": [
+   "5 – All employers with more than 10 employees have some form of business continuity plan based on a planning assumptions validated by the city.",
+   "4 – 80%.",
+   "3 – 50%.",
+   "2 – 30%.",
+   "1 – 10% or less.",
+   "0 – 0% or don’t know."
+  ],
+  "shapes": [
+   "_x0000_s19522",
+   "_x0000_s19523",
+   "_x0000_s19524",
+   "_x0000_s19525",
+   "_x0000_s19526",
+   "_x0000_s19527"
+  ]
+ },
+ {
+  "sheet": "E07",
+  "ref": "7.4.1",
+  "title": "7.4.1 - Frequency of engagement",
+  "ref_row": 102,
+  "resp_cell": "E106",
+  "comment_cell": "C106",
+  "question": "Use of regular overlapping modes of engagement to create repeated and reinforcing message delivery.",
+  "guidance": "PR and organization change best practice shows that people need to receive messages multiple ways and ideally from different channels to internalize them. The same rule seems likely to apply to social awareness.\nThe level of message penetration that is achieved could be tested by surveys each year (which are also a form of messaging!).",
+  "options": [
+   "5 – 100% of population likely to receive at least 5 resilience related messages per year from all sources.",
+   "4 – 80% of population likely to receive at least 4 messages.",
+   "3 – 70% of population likely to receive at least 3 messages.",
+   "2 – 50% of population likely to receive at least 1 message.",
+   "1 – More than 50% of population do not receive any messages at all.",
+   "0 – No resilience messaging."
+  ],
+  "shapes": [
+   "_x0000_s19529",
+   "_x0000_s19530",
+   "_x0000_s19531",
+   "_x0000_s19532",
+   "_x0000_s19533",
+   "_x0000_s19534"
+  ]
+ },
+ {
+  "sheet": "E07",
+  "ref": "7.4.2",
+  "title": "7.4.2 - Use of mobile and e-mail “systems of engagement” to enable citizens to receive and give updates before and after a disaster",
+  "ref_row": 115,
+  "resp_cell": "E119",
+  "comment_cell": "C119",
+  "question": "Use of mobile and social computing-enabled systems of engagement (supported by e-mail).",
+  "guidance": "“Systems of engagement” is the term given to mobile device/social media and e-mail-based systems to pass information to individuals and also to capture information from them. They are usually paired with “systems of record” which are back-office and enterprise systems (such as the emergency management system).\nData capture may be directly, where a citizen directly contacts the city government, or via a data-mining – for example where some governments in Australia mine data from Twitter and SMS to gain an extra source of intelligence on wildfire outbreaks and status.",
+  "options": [
+   "5 – All information before, during and after an event is available on mobile devices; this is supported by alerts on social media; this is also used to enable an in-bound “citizen to government” flow allowing crowd sourcing of data on events and issues.",
+   "4 – Extensive use is made of systems of engagement, with a few minor omissions.",
+   "3 – Some use is made, but there are larger gaps in the information available by this means and the in-bound flow works only via direct communication rather than mining of data generally.",
+   "2 – As for 3 but with no inbound flow.",
+   "1 – Only rudimentary use of systems of engagement – perhaps only via mobile access to the existing website which may not have been optimized for smartphones etc – but interest in expanding this.",
+   "0 – No use of systems of engagement."
+  ],
+  "shapes": [
+   "_x0000_s19536",
+   "_x0000_s19537",
+   "_x0000_s19538",
+   "_x0000_s19539",
+   "_x0000_s19540",
+   "_x0000_s19541"
+  ]
+ },
+ {
+  "sheet": "E07",
+  "ref": "7.4.3",
+  "title": "7.4.3 - Validation of effectiveness of education",
+  "ref_row": 128,
+  "resp_cell": "E132",
+  "comment_cell": "C132",
+  "question": "Knowledge of “most probable” risk scenario and knowledge of key response and preparation steps is widespread throughout city. Tested by sample survey.",
+  "guidance": "Will require on-line or face-to-face surveys to validate.",
+  "options": [
+   "5 – “Most probable” scenario, and applicable response and preparation, appears to be generally known by >90% of respondents as verified by opinion poll.",
+   "4 – 75–90% known.",
+   "3 – 50-75% known.",
+   "2 – 25-50% known.",
+   "1 – 10-25% known.",
+   "0 – <10% known, or no poll."
+  ],
+  "shapes": [
+   "_x0000_s19543",
+   "_x0000_s19544",
+   "_x0000_s19545",
+   "_x0000_s19546",
+   "_x0000_s19547",
+   "_x0000_s19548"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.1.1",
+  "title": "8.1.1 - Adequacy of protective infrastructure (Ecosystems can offer a natural buffer – see Essential 5)",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "Protective infrastructure exists or is in the process of construction – capabilities known to match hazards envisioned in “most probable” and “most severe” scenarios in Essential 2.",
+  "guidance": "Examples of protective infrastructure:\nLevees and flood barriers;\nFlood basins;\nSea walls (where used);\nShelters, such as tornado/hurricane shelters;\nStorm drains and storm water holding tanks;\nWetlands and mangroves (see Essential 5);\nShock absorption capabilities fitted to infrastructure to deal with earthquakes.",
+  "options": [
+   "5 – Protective infrastructure fully in place designed to deal with “most severe” scenario with minimal economic or humanitarian impact.",
+   "4 – Protective infrastructure has some deficiencies relative to “most severe” scenario but designed to deal with “most probable” scenario.",
+   "3 – Protective infrastructure would mitigate most of “most likely” scenario but some impacts would be felt; deficiencies relative to “most severe” are more serious.",
+   "2 – Protective infrastructure would allow significant damage/impact from “most possible”, and potentially catastrophic damage from “most severe”.",
+   "1 – Protective infrastructure would mitigate some impacts but would still allow potentially catastrophic damage from “most probable” scenario.",
+   "0 – No protection in place."
+  ],
+  "shapes": [
+   "_x0000_s20601",
+   "_x0000_s20602",
+   "_x0000_s20603",
+   "_x0000_s20604",
+   "_x0000_s20605",
+   "_x0000_s20606"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.1.2",
+  "title": "8.1.2 - Effectiveness of maintenance",
+  "ref_row": 18,
+  "resp_cell": "E22",
+  "comment_cell": "C22",
+  "question": "Processes exist to maintain protective infrastructure and ensure integrity and operability of critical assets.",
+  "guidance": "Examples of processes:\nLevee maintenance;\nClearing storm drains;\nMaintenance of emergency response equipment\nMaintenance of back up and stand-by power or communications systems or other critical assets",
+  "options": [
+   "5 – Audited annual inspection process and remediation of issues found.",
+   "4 – Audited inspections but remediation of minor items may be delayed by funding issues.",
+   "3 – Audited inspections every 2 years or more; remediation may be delayed by funding issues.",
+   "2 – Non-audited inspections every 2 years or more – backlog of remediation issues.",
+   "1 – Haphazard inspections in response to incidents or reports from the public. Significant known backlog of maintenance issues such that effectiveness of infrastructure may be impaired.",
+   "0 – No regular inspections and backlog/maintenance status is unknown."
+  ],
+  "shapes": [
+   "_x0000_s20608",
+   "_x0000_s20609",
+   "_x0000_s20610",
+   "_x0000_s20611",
+   "_x0000_s20612",
+   "_x0000_s20613"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.2.1",
+  "title": "8.2.1 - Customer service days at risk of loss",
+  "ref_row": 33,
+  "resp_cell": "E37",
+  "comment_cell": "C37",
+  "question": "“Water/sanitation loss factor”. If: a = estimated # of days to restore regular service area-wide and b = % of user accounts affected… then water/sanitation loss factor = a x b.\n(Example – 1.5 day’s loss of service for 10% of user accounts in city = loss factor of 15%; 3 days’ loss of service for 50% of user accounts in city = loss factor of 150%).",
+  "guidance": "Loss of service refers to service from the main water or sanitation system for the neighbourhood or city, if present. It excludes the use of back up supplies or portable sanitation systems.\nIf the main supply is a localized water supply or sanitation system (e.g. well or septic tank), this may in fact prove more disaster-resilient than a city-wide system.\nLoss of service needs to be assessed relative to the “normal” state. For example:\nIf “normal” service is potable running water in every house, 24 hours a day - then loss of service needs to be assessed as the removal or diminution of this service;\nIf “normal” is running water for washing but not drinking, 24 hours a day - then loss should be assessed relative to this;\nIf “normal” is either of the above but only for some hours a day, then the loss is relative to the “normal” number of hours – i.e., where user accounts have even fewer hours a day of availability until service is restored;\nIf “normal” is standpipes or communal toilets, then loss is relative to this - the loss factor will be calculated by reference to the estimated numbers of households using the standpipes or communal toilets affected.\nIf “normal” for a neighbourhood includes no sanitation at all, then focus on water alone and score that.\nNote – storm water systems are covered under “protective infrastructure”, above.",
+  "options": [
+   "5 – No loss of service even from “most severe” scenario.",
+   "4 – No loss of service even from “most probable” scenario.",
+   "3 – Loss factor of 1-25% from most probable” scenario.",
+   "2 – Loss factor of 25-100% from “most probable” scenario.",
+   "1 – Loss factor of 100-200% from “most probable” scenario.",
+   "0 – Loss factor >200% from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s20615",
+   "_x0000_s20616",
+   "_x0000_s20617",
+   "_x0000_s20618",
+   "_x0000_s20619",
+   "_x0000_s20620"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.2.2",
+  "title": "8.2.2 - Designated critical asset service days (for example, service to hospitals or other critical assets) at risk of loss from water or sanitation failure",
+  "ref_row": 46,
+  "resp_cell": "E50",
+  "comment_cell": "C50",
+  "question": "“Water/sanitation critical asset (WCA) loss factor”. If: a = estimated # of days to restore regular service area-wide and b = % of critical assets affected… then WCA loss factor = a x b.\n(Example – 1.5 day’s loss of service for 10% of critical assets in city = loss factor of 15%; 3 days’ loss of service for 50% of critical assets in city = loss factor of 150%).",
+  "guidance": "Critical water or sanitation assets are those that are either:\nEssential for the operation of some part of the water or sanitation systems for the city;\nEssential for the functioning of some other critical asset (say, a hospital).\nLoss of service refers to service from the main water or sanitation system for the neighbourhood or city, as above.\nService may be provided either from the asset itself or via a designated alternative/back-up.",
+  "options": [
+   "5 – No loss of service even from “most severe” scenario.",
+   "4 – No loss of service even from “most probable” scenario.",
+   "3 – Loss factor of 1-25% from most probable” scenario.",
+   "2 – Loss factor of 25-100% from “most probable” scenario.",
+   "1 – Loss factor of 100-200% from “most probable” scenario.",
+   "0 – Loss factor >200% from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s20622",
+   "_x0000_s20623",
+   "_x0000_s20624",
+   "_x0000_s20625",
+   "_x0000_s20626",
+   "_x0000_s20627"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.2.3",
+  "title": "8.2.3 - Cost of restoration of service",
+  "ref_row": 59,
+  "resp_cell": "E63",
+  "comment_cell": "C63",
+  "question": "Likely cost of lost service and restoration as % of annual billed revenue.",
+  "guidance": "This assessment is designed to help establish the return on investment from investing in hardening the relevant infrastructure, in reducing the burden of restoring the city to normal life after a disaster.",
+  "options": [
+   "5 – No loss of service.",
+   "4 – 10% of annual billed revenue.",
+   "3 – 10-15%.",
+   "2 – 15-25%.",
+   "1 – 25-50%.",
+   "0 – >50% of annual billed revenue."
+  ],
+  "shapes": [
+   "_x0000_s20629",
+   "_x0000_s20630",
+   "_x0000_s20631",
+   "_x0000_s20632",
+   "_x0000_s20633",
+   "_x0000_s20634"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.3.1",
+  "title": "8.3.1 - Customer service days at risk of loss",
+  "ref_row": 74,
+  "resp_cell": "E78",
+  "comment_cell": "C78",
+  "question": "“Electrical energy loss factor”. If: a = estimated # of days to restore regular service area-wide and b = % of user accounts affected…then electrical energy loss factor = a x b.\n(Example – 1.5 day’s loss of service for 10% of user accounts in city = loss factor of 15%; 3 days’ loss of service for 50% of user accounts in city = loss factor of 150%).",
+  "guidance": "Loss of service refers to service from the main electricity supply. It excludes the use of backup generators.\nLoss of service should be assessed relative to the “normal” state:\nIf “normal” service is electricity 24 hours a day, then loss of service is anything that reduces this;\nIf “normal” service is electricity for less than 24 hours per day, then loss of service is anything that reduces this still further.",
+  "options": [
+   "5 – No loss of service even from “most severe” scenario.",
+   "4 – No loss of service even from “most probable” scenario.",
+   "3 – Loss factor of 1-25% from most probable” scenario.",
+   "2 – Loss factor of 25-100% from “most probable” scenario.",
+   "1 – Loss factor of 100-200% from “most probable” scenario.",
+   "0 – Loss factor >200% from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s20636",
+   "_x0000_s20637",
+   "_x0000_s20638",
+   "_x0000_s20639",
+   "_x0000_s20640",
+   "_x0000_s20641"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.3.2",
+  "title": "8.3.2 - Designated critical asset service days at risk of loss from energy failure",
+  "ref_row": 87,
+  "resp_cell": "E91",
+  "comment_cell": "C91",
+  "question": "“Electricity critical asset (ECA) loss factor”. If: a = estimated # of days to restore regular service area-wide and b = % of critical assets affected… then ECA loss factor = a x b.\n(Example – 1.5 day’s loss of service for 10% of critical assets in city = loss factor of 15%; 3 days’ loss of service for 50% of critical assets in city = loss factor of 150%).",
+  "guidance": "Critical electrical assets are those that are either:\nEssential for the operation of some part of the energy grid for the city;\nEssential for the functioning of some other critical asset (say, a water treatment plant or a rail line).\nLoss of service refers to service from the main electricity supply.\nService may be provided either from the asset itself or via a designated alternative/back-up.",
+  "options": [
+   "5 – No loss of service even from “most severe” scenario.",
+   "4 – No loss of service even from “most probable” scenario.",
+   "3 – Loss factor of 1-25% from most probable” scenario.",
+   "2 – Loss factor of 25-100% from “most probable” scenario.",
+   "1 – Loss factor of 100-200% from “most probable” scenario.",
+   "0 – Loss factor >200% from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s20643",
+   "_x0000_s20644",
+   "_x0000_s20645",
+   "_x0000_s20646",
+   "_x0000_s20647",
+   "_x0000_s20648"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.3.3",
+  "title": "8.3.3 - Cost of restoration",
+  "ref_row": 100,
+  "resp_cell": "E104",
+  "comment_cell": "C104",
+  "question": "Likely cost of lost service and restoration as % of annual billed revenue.",
+  "guidance": "This assessment is designed to help establish the return on investment from investing in hardening the relevant infrastructure, in reducing the burden of restoring the city to normal life after a disaster.",
+  "options": [
+   "5 – No loss of service.",
+   "4 – 10% of annual billed revenue.",
+   "3 – 10-15%.",
+   "2 – 15-25%.",
+   "1 – 25-50%.",
+   "0 – >50% of annual billed revenue."
+  ],
+  "shapes": [
+   "_x0000_s20650",
+   "_x0000_s20651",
+   "_x0000_s20652",
+   "_x0000_s20653",
+   "_x0000_s20654",
+   "_x0000_s20655"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.4.1",
+  "title": "8.4.1 - Safety and integrity of gas system (if applicable)",
+  "ref_row": 115,
+  "resp_cell": "E119",
+  "comment_cell": "C119",
+  "question": "Use of fracture resistant gas pipes in seismic or flood zones, and installation of automated shut-off capabilities.",
+  "guidance": "Fracture resistant pipe: PVC pipe or similar.\nIf no mains gas system present – omit this assessment.\nIf 'not applicable', select '0'. The maximum score will automatically be reduced.",
+  "options": [
+   "5 – Full use: automated shut-offs on every property and 100% fracture resistant pipe.",
+   "4 – >90% of properties; 90% fracture resistant pipe if applicable.",
+   "3 – 75-90% in both cases",
+   "2 – 50-75% in both cases.",
+   "1 – 1-50% in both cases.",
+   "0 – 0% in both cases."
+  ],
+  "shapes": [
+   "_x0000_s20657",
+   "_x0000_s20658",
+   "_x0000_s20659",
+   "_x0000_s20660",
+   "_x0000_s20661",
+   "_x0000_s20662"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.4.2",
+  "title": "8.4.2 - Customer service days at risk of loss",
+  "ref_row": 128,
+  "resp_cell": "E132",
+  "comment_cell": "C132",
+  "question": "“Gas loss factor”. If: a = estimated # of days to restore regular service area-wide and b = % of user accounts affected… then gas loss factor = a x b.\n(Example – 1.5 day’s loss of service for 10% of user accounts in city = loss factor of 15%; 3 days’ loss of service for 50% of user accounts in city = loss factor of 150%).",
+  "guidance": "Loss of service refers to those customer premises where mains (piped) gas is available.\nIf the main form of gas supply is bottles, this may prove more disaster-resilient than a piped (mains) supply. Bottled gas is dealt with under fuel supply, below.\n“Loss of service” needs to be assessed relative to the “normal” state – for example, a significant drop in gas pressure relative to normal levels.\nIf 'not applicable', select '0'. The maximum score will automatically be reduced.",
+  "options": [
+   "5 – No loss of service even from “most severe” scenario.",
+   "4 – No loss of service even from “most probable” scenario.",
+   "3 – Loss factor of 1-25% from most probable” scenario.",
+   "2 – Loss factor of 25-100% from “most probable” scenario.",
+   "1 – Loss factor of 100-200% from “most probable” scenario.",
+   "0 – Loss factor >200% from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s20664",
+   "_x0000_s20665",
+   "_x0000_s20666",
+   "_x0000_s20667",
+   "_x0000_s20668",
+   "_x0000_s20669"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.4.3",
+  "title": "8.4.3 - Designated critical asset service days at risk of loss from gas supply failure",
+  "ref_row": 141,
+  "resp_cell": "E145",
+  "comment_cell": "C145",
+  "question": "“Gas critical asset (GCA) loss factor”. If: a = estimated # of days to restore regular service area-wide and b = % of critical assets affected… then GCA loss factor = a x b.\n(Example – 1.5 day’s loss of service for 10% of critical assets in city = loss factor of 15%; 3 days’ loss of service for 50% of critical assets in city = loss factor of 150%).",
+  "guidance": "Critical gas assets are those that are either:\nEssential for the operation of some part of mains gas system for the city;\nEssential for the functioning of some other critical asset (say, a power-station).\nService may be provided either from the asset itself or via a designated alternative/back-up.\nIf 'not applicable', select '0'. The maximum score will automatically be reduced.",
+  "options": [
+   "5 – No loss of service even from “most severe” scenario.",
+   "4 – No loss of service even from “most probable” scenario.",
+   "3 – Loss factor of 1-25% from most probable” scenario.",
+   "2 – Loss factor of 25-100% from “most probable” scenario.",
+   "1 – Loss factor of 100-200% from “most probable” scenario.",
+   "0 – Loss factor >200% from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s20678",
+   "_x0000_s20679",
+   "_x0000_s20680",
+   "_x0000_s20681",
+   "_x0000_s20682",
+   "_x0000_s20683"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.4.4",
+  "title": "8.4.4 - Cost of restoration of service",
+  "ref_row": 154,
+  "resp_cell": "E158",
+  "comment_cell": "C158",
+  "question": "Likely cost of lost service and restoration as % of annual billed revenue.",
+  "guidance": "This assessment is designed to help establish the return on investment from investing in hardening the relevant infrastructure, in reducing the burden of restoring the city to normal life after a disaster.\nIf 'not applicable', select '0'. The maximum score will automatically be reduced.",
+  "options": [
+   "5 – No loss of service.",
+   "4 – 10% of annual billed revenue.",
+   "3 – 10-15%.",
+   "2 – 15-25%.",
+   "1 – 25-50%.",
+   "0 – >50% of annual billed revenue."
+  ],
+  "shapes": [
+   "_x0000_s20692",
+   "_x0000_s20693",
+   "_x0000_s20694",
+   "_x0000_s20695",
+   "_x0000_s20696",
+   "_x0000_s20697"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.5.1",
+  "title": "8.5.1 - Road – service from road system at risk of loss",
+  "ref_row": 169,
+  "resp_cell": "E173",
+  "comment_cell": "C173",
+  "question": "Road loss factor – If: a = miles of major road network for city and surrounding area at risk of becoming impassable to any type of vehicle after event and b = likely number of days estimated before reopening and c = total of major roads in the city and surrounding area lost for one day…then road loss factor = (a/c) x b as a %.\n(Example - 10 miles of major road likely to be lost for two days, out of total of 100 miles of major road = road loss factor of 20% ((10/100) x 2).",
+  "guidance": "Loss of service refers to general road mobility. It primarily refers to damage to road surfaces or bridges and tunnels, or from fallen debris from buildings, cliffs etc.",
+  "options": [
+   "5 – No loss of service even from “most severe” scenario.",
+   "4 – No loss of service even from “most probable” scenario.",
+   "3 – Loss factor of 1-25% from most probable” scenario.",
+   "2 – Loss factor of 25-100% from “most probable” scenario.",
+   "1 – Loss factor of 100-200% from “most probable” scenario.",
+   "0 – Loss factor >200% from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s20699",
+   "_x0000_s20700",
+   "_x0000_s20701",
+   "_x0000_s20702",
+   "_x0000_s20703",
+   "_x0000_s20704"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.5.2",
+  "title": "8.5.2 - Road – survival of critical access and evacuation routes",
+  "ref_row": 182,
+  "resp_cell": "E186",
+  "comment_cell": "C186",
+  "question": "Road critical asset (RCA) loss factor. If: a = carrying capacity (vehicles per hour) of evacuation/emergency supply routes to and from the city at risk of becoming impassable after event and b = # of days estimated before reopening and c = carrying capacity (vehicles per hour) of all designated critical evacuation/emergency supply routes… then RCA loss factor = (a/c) x b as a %.\n(Example –route with carrying capacity of 1,000 vehicles per hour likely to be closed for 3 days, out of a total carrying capacity on all evacuation/ supply routes of 2,000 vehicles per hour = RCA loss factor of 150% ((1000/2000 x 3).",
+  "guidance": "Loss of service on critical access and evacuation routes should if possible also include an estimate of the likely impact of traffic gridlock on access or evacuation rates.\nKeep in mind that, if they give access to some critical asset, even minor access roads or suburban streets can become critical assets in their own right.",
+  "options": [
+   "5 – No loss of service even from “most severe” scenario.",
+   "4 – No loss of service even from “most probable” scenario.",
+   "3 – Loss factor of 1-25% from most probable” scenario.",
+   "2 – Loss factor of 25-100% from “most probable” scenario.",
+   "1 – Loss factor of 100-200% from “most probable” scenario.",
+   "0 – Loss factor >200% from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s20706",
+   "_x0000_s20707",
+   "_x0000_s20708",
+   "_x0000_s20709",
+   "_x0000_s20710",
+   "_x0000_s20711"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.5.3",
+  "title": "8.5.3 - Rail/metro (if applicable) – service from rail system at risk of loss",
+  "ref_row": 195,
+  "resp_cell": "E199",
+  "comment_cell": "C199",
+  "question": "Rail loss factor (for rail, use tons; for metro, use passengers). If: a = carrying capacity (tons or passengers per day) of affected rail lines to the city and b = # of days estimated before reopening and c = carrying capacity (tons per day per hour) of all rail links to the city…then RCA loss factor = (a/c) x b as a %.\nExample – rail line with carrying capacity of 10,000 tons or passengers per day likely to be closed for 2 days, out of a total carrying capacity on all rail lines of 15,000 tons or passengers per day = RCA loss factor of 133% ((10000/15000 x 2).",
+  "guidance": "Electrified rail lines are susceptible to energy outages (see above); and diesel lines are susceptible to fuel shortages (see below).\nIf no rail lines, omit this assessment.\nIf 'not applicable', select '0'. The maximum score will automatically be reduced.",
+  "options": [
+   "5 – No loss of service even from “most severe” scenario.",
+   "4 – No loss of service even from “most probable” scenario.",
+   "3 – Loss factor of 1-25% from most probable” scenario.",
+   "2 – Loss factor of 25-100% from “most probable” scenario.",
+   "1 – Loss factor of 100-200% from “most probable” scenario.",
+   "0 – Loss factor >200% from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s20713",
+   "_x0000_s20714",
+   "_x0000_s20715",
+   "_x0000_s20716",
+   "_x0000_s20717",
+   "_x0000_s20718"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.5.4",
+  "title": "8.5.4 - Air (if applicable)",
+  "ref_row": 208,
+  "resp_cell": "E212",
+  "comment_cell": "C212",
+  "question": "Airport loss factor. If: a = estimated # of flights in and out per day possible after the disaster and b = max # of flights per day in normal operations and c = # of days estimated before restoration of full capacity…then airport loss factor = (a/b) x c as a %.\nExample if 80 flights in and out per day are possible after a disaster, compared with a normal maximum of 100, and it takes 2 days to restore full capacity, then the airport loss factor is 160% ((80/100) x 2).",
+  "guidance": "If no airport, omit this assessment.\nIf multiple airports, combine capacities and scores. Airports should be capable of admitting commercial airliners or military transport aircraft - omit minor airfields.\nIf 'not applicable', select '0'. The maximum score will automatically be reduced.",
+  "options": [
+   "5 – No loss of service even from “most severe” scenario.",
+   "4 – No loss of service even from “most probable” scenario.",
+   "3 – Loss factor of 1-25% from most probable” scenario.",
+   "2 – Loss factor of 25-100% from “most probable” scenario.",
+   "1 – Loss factor of 100-200% from “most probable” scenario.",
+   "0 – Loss factor >200% from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s20720",
+   "_x0000_s20721",
+   "_x0000_s20722",
+   "_x0000_s20723",
+   "_x0000_s20724",
+   "_x0000_s20725"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.5.5",
+  "title": "8.5.5 - River/Sea (if applicable)",
+  "ref_row": 221,
+  "resp_cell": "E225",
+  "comment_cell": "C225",
+  "question": "River/seaport loss factor. If: a = estimated # of dockings per day possible after the disaster and b = max # of dockings per day in normal operations and c = # of days estimated before restoration of full capacity…then River/seaport loss factor = (a/b) x c as a %.\n(Example if 5 dockings per day are possible after a disaster, compared with a normal maximum of 8, and it takes 2 days to restore full capacity, then the airport loss factor is 125% ((5/8) x 2).",
+  "guidance": "If no river or seaports, omit this assessment.\nIf 'not applicable', select '0'. The maximum score will automatically be reduced.",
+  "options": [
+   "5 – No loss of service even from “most severe” scenario.",
+   "4 – No loss of service even from “most probable” scenario.",
+   "3 – Loss factor of 1-25% from most probable” scenario.",
+   "2 – Loss factor of 25-100% from “most probable” scenario.",
+   "1 – Loss factor of 100-200% from “most probable” scenario.",
+   "0 – Loss factor >200% from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s20727",
+   "_x0000_s20728",
+   "_x0000_s20729",
+   "_x0000_s20730",
+   "_x0000_s20731",
+   "_x0000_s20732"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.5.6",
+  "title": "8.5.6 - Other public transport (if applicable)",
+  "ref_row": 234,
+  "resp_cell": "E238",
+  "comment_cell": "C238",
+  "question": "(Buses and taxis effectively captured in road measures above).",
+  "guidance": "Omit if not applicable.\nIf 'not applicable', select '0'. The maximum score will automatically be reduced.",
+  "options": [
+   "5 – No loss of service even from “most severe” scenario.",
+   "4 – No loss of service even from “most probable” scenario.",
+   "3 – Loss factor of 1-25% from most probable” scenario.",
+   "2 – Loss factor of 25-100% from “most probable” scenario.",
+   "1 – Loss factor of 100-200% from “most probable” scenario.",
+   "0 – Loss factor >200% from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s20734",
+   "_x0000_s20735",
+   "_x0000_s20736",
+   "_x0000_s20737",
+   "_x0000_s20738",
+   "_x0000_s20739"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.5.7",
+  "title": "8.5.7 - Cost of restoration of service (all transport routes)",
+  "ref_row": 247,
+  "resp_cell": "E251",
+  "comment_cell": "C251",
+  "question": "Likely cost of lost service and restoration.",
+  "guidance": "",
+  "options": [
+   "5 – No loss of service.",
+   "4 – All routes / services can be restored / rebuilt within existing borrowing plans, e.g. without drawing on national budgets and without requiring a tax increase.",
+   "3 – 80% of routes / services can be restored / rebuilt within existing borrowing plans.",
+   "2 – 60% of routes / services can be restored / rebuilt within existing borrowing plans.",
+   "1 – 40% of routes / services can be restored / rebuilt within existing borrowing plans.",
+   "0 – >20% of routes / services can be restored / rebuilt within existing borrowing plans."
+  ],
+  "shapes": [
+   "_x0000_s20741",
+   "_x0000_s20742",
+   "_x0000_s20743",
+   "_x0000_s20744",
+   "_x0000_s20745",
+   "_x0000_s20746"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.6.1",
+  "title": "8.6.1 - Service days at risk of loss",
+  "ref_row": 262,
+  "resp_cell": "E266",
+  "comment_cell": "C266",
+  "question": "“Communications loss factor”. If, a = estimated # of days to restore regular service area-wide and b = % of user accounts affected… then communications loss factor = a x b.\n(Example – 1.5 day’s loss of service for 10% of user accounts in city = loss factor of 15%; 3 days’ loss of service for 50% of user accounts in city = loss factor of 150%).",
+  "guidance": "Communications are arguably the most critical infrastructure of all, because all other infrastructures (as well as processes such as emergency response and public awareness) are likely to depend on them.",
+  "options": [
+   "5 – No loss of service even from “most severe” scenario.",
+   "4 – No loss of service even from “most probable” scenario.",
+   "3 – Loss factor of 1-25% from most probable” scenario.",
+   "2 – Loss factor of 25-100% from “most probable” scenario.",
+   "1 – Loss factor of 100-200% from “most probable” scenario.",
+   "0 – Loss factor >200% from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s20748",
+   "_x0000_s20749",
+   "_x0000_s20750",
+   "_x0000_s20751",
+   "_x0000_s20752",
+   "_x0000_s20753"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.6.2",
+  "title": "8.6.2 - Designated critical asset service days at risk of loss from communications failure",
+  "ref_row": 275,
+  "resp_cell": "E279",
+  "comment_cell": "C279",
+  "question": "“Communications critical asset (CCA) loss factor”. If a = estimated # of days to restore regular service area-wide and b = % of critical assets affected, then CCA loss factor = a x b.\n(Example – 1.5 day’s loss of service for 10% of critical assets in city = loss factor of 15%; 3 days’ loss of service for 50% of critical assets in city = loss factor of 150%).",
+  "guidance": "Critical communications assets might include, for example:\nPolice or armed forces communications systems\nWater and energy sensing systems\nTraffic control systems\nCommunication towers, transmitters, switches and other nodal components of public phone systems\nData- and switching-centres routing internet traffic.\nService may be provided either from the asset itself or via a designated alternative/back-up.",
+  "options": [
+   "5 – No loss of service even from “most severe” scenario.",
+   "4 – No loss of service even from “most probable” scenario.",
+   "3 – Loss factor of 1-25% from most probable” scenario.",
+   "2 – Loss factor of 25-100% from “most probable” scenario.",
+   "1 – Loss factor of 100-200% from “most probable” scenario.",
+   "0 – Loss factor >200% from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s20755",
+   "_x0000_s20756",
+   "_x0000_s20757",
+   "_x0000_s20758",
+   "_x0000_s20759",
+   "_x0000_s20760"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.6.3",
+  "title": "8.6.3 - Cost of restoration",
+  "ref_row": 288,
+  "resp_cell": "E292",
+  "comment_cell": "C292",
+  "question": "Likely cost of loss of service and restoration of communications system(s) as % of annual billed revenue.",
+  "guidance": "This assessment is designed to help establish the return on investment from investing in hardening the relevant infrastructure, in reducing the burden of restoring the city to normal life after a disaster.\nIf a communications system does not have billed revenue (for example a private radio network), calculate cost to replace as % of initial installation cost of entire system. Use same thresholds as shown left.",
+  "options": [
+   "5 – No loss of service.",
+   "4 – 10% of annual billed revenue.",
+   "3 – 10-15%.",
+   "2 – 15-25%.",
+   "1 – 25-50%.",
+   "0 – >50% of annual billed revenue."
+  ],
+  "shapes": [
+   "_x0000_s20762",
+   "_x0000_s20763",
+   "_x0000_s20764",
+   "_x0000_s20765",
+   "_x0000_s20766",
+   "_x0000_s20767"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.7.1",
+  "title": "8.7.1 - Structural safety and disaster resilience of health care and emergency facilities. (Staffing/ first responders – see Essential 9)",
+  "ref_row": 303,
+  "resp_cell": "E307",
+  "comment_cell": "C307",
+  "question": "“Bed days lost” – estimated # of beds at risk x number of days’ loss under “most probable” and “most severe” scenarios.",
+  "guidance": "Healthcare may continue to be provided at the original facilities if they are sufficiently disaster resilient, or in designated alternative facilities (although moving patients is usually undesirable and the feasibility of this after a disaster needs to be considered).",
+  "options": [
+   "5 – No bed days lost even under “most severe” scenario.",
+   "4 – No bed days lost under “most probable” scenario.",
+   "3 –1-5% of annual bed days lost from most probable” scenario.",
+   "2 – 5-10% of annual bed days lost from “most probable” scenario.",
+   "1 – 10-15% of annual bed days lost from “most probable” scenario.",
+   "0 –>15% of annual bed days lost from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s20769",
+   "_x0000_s20770",
+   "_x0000_s20771",
+   "_x0000_s20772",
+   "_x0000_s20773",
+   "_x0000_s20774"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.7.1.1",
+  "title": "8.7.1.1 - Structural safety and disaster resilience of health care and emergency facilities. (Staffing/ first responders – see Essential 9)",
+  "ref_row": 316,
+  "resp_cell": "E320",
+  "comment_cell": "C320",
+  "question": "“Critical bed days lost: estimated # of bed days for designated critical services (e.g. ER, dialysis, intensive care – TBD) at risk under “most probable” and “most severe” scenarios.",
+  "guidance": "Healthcare may continue to be provided at the original facilities or in designated alternative facilities (although moving patients is usually undesirable, especially for those with critical injuries and the feasibility of this after a disaster needs to be considered).",
+  "options": [
+   "5 – No critical bed days lost even under “most severe” scenario.",
+   "4 – No critical bed days lost under “most probable” scenario.",
+   "3 – <2.5% of critical annual bed days lost from most probable” scenario.",
+   "2 – 2.5-5% of critical annual bed days lost from “most probable” scenario.",
+   "1 – 5-7.5% of critical annual bed days lost from “most probable” scenario.",
+   "0 – >7.5% of critical annual bed days lost from “most probable” scenario."
+  ],
+  "shapes": [
+   "_x0000_s20776",
+   "_x0000_s20777",
+   "_x0000_s20778",
+   "_x0000_s20779",
+   "_x0000_s20780",
+   "_x0000_s20781"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.7.2",
+  "title": "8.7.2 - Health records and data",
+  "ref_row": 329,
+  "resp_cell": "E333",
+  "comment_cell": "C333",
+  "question": "% of patient and health system data and associated apps stored and accessible at location unlikely to be affected by the event.",
+  "guidance": "Healthcare data covers:\nPersonal medical records and histories\nDental records (may be needed for identification of victims);\nCritical operating data for healthcare facilities.\n(Communications disaster resilience – see above).\nLoss of data needs to be assessed relative to what pre-existed the disaster.",
+  "options": [
+   "5 – All critical healthcare data and associated apps routinely backed up and accessible within 1 hour at a remote site not known to be vulnerable to any events affecting the city.",
+   "4 – 95% or more of critical healthcare data, with associated apps.",
+   "3 – 90% or more of critical healthcare data, with associated apps.",
+   "2 – 85% or more of critical healthcare data, with associated apps.",
+   "1 – 80% or more of critical healthcare data, with associated apps.",
+   "0 – Less than 80% or more of critical healthcare data, with associated apps."
+  ],
+  "shapes": [
+   "_x0000_s20783",
+   "_x0000_s20784",
+   "_x0000_s20785",
+   "_x0000_s20786",
+   "_x0000_s20787",
+   "_x0000_s20788"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.7.3",
+  "title": "8.7.3 - Availability of emergency healthcare including facilities and urgent medical supplies for acute needs",
+  "ref_row": 342,
+  "resp_cell": "E346",
+  "comment_cell": "C346",
+  "question": "Sufficient acute healthcare capabilities exist to deal with expected major injuries.",
+  "guidance": "This assessment needs to take into account estimated losses in critical bed days, above.",
+  "options": [
+   "5 – 100% of major injuries in “most probable” scenario; and 90% of major injuries in “most severe” scenario, can be treated within 6 hours.",
+   "4 – 100% of major injuries in “most probable” scenario; and 90% of major injuries in “most severe” scenario, can be treated within 12 hours.",
+   "3 – 100% of major injuries in “most probable” scenario; and 90% of major injuries in “most severe” scenario, can be treated within 18 hours.",
+   "2 – 100% of major injuries in “most probable” scenario; and 90% of major injuries in “most severe” scenario, can be treated within 24 hours.",
+   "1 – 100% of major injuries in “most probable” scenario; and 90% of major injuries in “most severe” scenario, can be treated within 36 hours.",
+   "0 – Longer than 36 hours, or no emergency healthcare capability."
+  ],
+  "shapes": [
+   "_x0000_s20790",
+   "_x0000_s20791",
+   "_x0000_s20792",
+   "_x0000_s20793",
+   "_x0000_s20794",
+   "_x0000_s20795"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.8.1",
+  "title": "8.8.1 - Structural safety of education facilities",
+  "ref_row": 357,
+  "resp_cell": "E361",
+  "comment_cell": "C361",
+  "question": "% of education structures at risk of damage from “most probable” and “most severe” scenarios.",
+  "guidance": "Some schools may be assessed as critical assets as they provide shelter – see Essential 9.",
+  "options": [
+   "5 – No teaching facilities at risk even from “most severe”.",
+   "4 – No teaching facilities at risk from “most probable”.",
+   "3 – 1-5% of teaching facilities at risk from “most probable”.",
+   "2 – 5-10% of teaching facilities at risk from “most probable”.",
+   "1 – 10-15% of teaching facilities at risk from “most probable”.",
+   "0 – >15% of teaching facilities at risk from “most probable”."
+  ],
+  "shapes": [
+   "_x0000_s20797",
+   "_x0000_s20798",
+   "_x0000_s20799",
+   "_x0000_s20800",
+   "_x0000_s20801",
+   "_x0000_s20802"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.8.2",
+  "title": "8.8.2 - Loss of teaching time",
+  "ref_row": 370,
+  "resp_cell": "E374",
+  "comment_cell": "C374",
+  "question": "Number of teaching days lost as % of total in academic year.",
+  "guidance": "Teaching may continue to be provided in the original facilities or in designated alternative facilities. However, this assessment needs to include an estimate of the impact of teachers either injured or unable to get to work.",
+  "options": [
+   "5 – No loss of teaching days.",
+   "4 – 1% of annual teaching days lost from “most severe”; 0.5% from “most probable”.",
+   "3 – 5% of annual teaching days lost from “most severe”; 2.5% from “most probable”.",
+   "2 – 10% of annual teaching days lost from “most severe”; 5% from “most probable”.",
+   "1 – 20% of annual teaching days lost from “most severe”; 10% from “most probable”.",
+   "0 – > 20% of annual teaching days lost from “most severe”; >10% from “most probable”."
+  ],
+  "shapes": [
+   "_x0000_s20804",
+   "_x0000_s20805",
+   "_x0000_s20806",
+   "_x0000_s20807",
+   "_x0000_s20808",
+   "_x0000_s20809"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.8.3",
+  "title": "8.8.3 - Education data",
+  "ref_row": 383,
+  "resp_cell": "E387",
+  "comment_cell": "C387",
+  "question": "% of critical education data and associated applications imaged at remote site.",
+  "guidance": "(Communications disaster resilience – see above).",
+  "options": [
+   "5 – All critical education data and associated apps routinely backed up and accessible within 24 hours at a remote site not known to be vulnerable to any events affecting the city.",
+   "4 – 90% or more of critical education data, with associated apps.",
+   "3 – 80% or more of critical education data, with associated apps.",
+   "2 – 70% or more of critical education data, with associated apps.",
+   "1 – 60% or more of critical education data, with associated apps.",
+   "0 – Less than 60% of critical education data, with associated apps."
+  ],
+  "shapes": [
+   "_x0000_s20811",
+   "_x0000_s20812",
+   "_x0000_s20813",
+   "_x0000_s20814",
+   "_x0000_s20815",
+   "_x0000_s20816"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.9.1",
+  "title": "8.9.1 - Disaster resilience of prison system",
+  "ref_row": 398,
+  "resp_cell": "E402",
+  "comment_cell": "C402",
+  "question": "Ability of prison system to survive “most probable” and “most severe”, scenarios, without releasing or harming inmates.\nUnder “most severe” scenario:",
+  "guidance": "Includes police station cells or other detention facilities blocks as well as prisons.",
+  "options": [
+   "5 – No loss.",
+   "4 – Some minor damage to facilities is probable – no less of life or loss of custody.",
+   "3 – Significant damage to facilities is probable but no loss of life or custody.",
+   "2 – Significant damage to facilities and possible risk of loss of life or custody.",
+   "1 – Significant damage to facilities and possible significant risk of loss of life or custody.",
+   "0 – Widespread generalized failure to keep inmates in place, safely."
+  ],
+  "shapes": [
+   "_x0000_s20818",
+   "_x0000_s20819",
+   "_x0000_s20820",
+   "_x0000_s20821",
+   "_x0000_s20822",
+   "_x0000_s20823"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.10.1",
+  "title": "8.10.1 - Assurance of continuity of all critical administration functions",
+  "ref_row": 413,
+  "resp_cell": "E417",
+  "comment_cell": "C417",
+  "question": "Estimated # of days’ disruption to critical administration services under “most probable” and “most severe” scenarios, given availability of redundant facilities, support staff etc.",
+  "guidance": "Critical administration functions will include those that directly affect the well-being of the public or individuals. For example:\nPayment of food-stamps or unemployment benefit;\nHousing offices;\nReporting of damage after the disaster;\nTrash collection and disposal (impacts from road closures are covered above).\n(Healthcare and education – see above).\n(Critical IT systems – see below)\nThe assessment of disruption is intended to apply at the neighbourhood level, for example with closure of or damage to neighbourhood offices.",
+  "options": [
+   "5 – No disruption to services even under “most severe” scenario.",
+   "4 – No disruption to services under “most probable” scenario.",
+   "3 – Minor disruptions (few hours or less) under “most probable” scenario.",
+   "2 – Some significant disruptions for up to 48 hours or less under “most probable” scenario.",
+   "1 – Significant disruptions for 48 hours – 5 days under “most probable” scenario.",
+   "0 – Generalized failure of services for > 5 days."
+  ],
+  "shapes": [
+   "_x0000_s20825",
+   "_x0000_s20826",
+   "_x0000_s20827",
+   "_x0000_s20828",
+   "_x0000_s20829",
+   "_x0000_s20830"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.11.1",
+  "title": "8.11.1 - Assurance of continuity of computer systems and data critical to government continuity",
+  "ref_row": 428,
+  "resp_cell": "E432",
+  "comment_cell": "C432",
+  "question": "% of critical applications and associated data (to include social services and other personal records) imaged at, and accessible from, remote site.",
+  "guidance": "This assessment is focused on the computer systems required for the critical administration functions identified above.\n(Communications disaster resilience – see above).\n(Health and Education data – see above)",
+  "options": [
+   "5 – All critical apps and data routinely backed up and accessible within 1 hour at a remote site not known to be vulnerable to any events affecting the city.",
+   "4 – 90% or more of critical apps, with associated data.",
+   "3 – 80% or more of critical apps, with associated data.",
+   "2 – 70% or more of critical apps, with associated data.",
+   "1 – 60% or more of critical apps, with associated data.",
+   "0 – Less than 60% of critical apps, with associated data."
+  ],
+  "shapes": [
+   "_x0000_s20832",
+   "_x0000_s20833",
+   "_x0000_s20834",
+   "_x0000_s20835",
+   "_x0000_s20836",
+   "_x0000_s20837"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "8.11.2",
+  "title": "8.11.2 - Assurance of continuity of computer systems and data critical to any of the above infrastructure",
+  "ref_row": 441,
+  "resp_cell": "E445",
+  "comment_cell": "C445",
+  "question": "% of critical applications and associated imaged at, and accessible from, remote site.",
+  "guidance": "This assessment is focused on the SCADA systems, PLCs, control rooms, logistics and planning systems and so on that are required to maintain the operation of the infrastructure items above.\n(Communications disaster resilience – see above).\n(Health and Education data – see above).",
+  "options": [
+   "5 – All critical apps and data routinely backed up and accessible within 15 minutes at a remote site not known to be vulnerable to any events affecting the city.",
+   "4 – 90% or more of critical apps, with associated data.",
+   "3 – 80% or more of critical apps, with associated data.",
+   "2 – 70% or more of critical apps, with associated data.",
+   "1 – 60% or more of critical apps, with associated data.",
+   "0 – Less than 60% of critical apps, with associated data."
+  ],
+  "shapes": [
+   "_x0000_s20846",
+   "_x0000_s20847",
+   "_x0000_s20848",
+   "_x0000_s20849",
+   "_x0000_s20850",
+   "_x0000_s20851"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "9.1.1",
+  "title": "9.1.1 - Existence and effectiveness of early warning systems",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "Length and reliability of warning – enabling practical action to be taken.",
+  "guidance": "The technology of disaster warnings is rapidly evolving, both in the long-term assessment of risk (for example weather risk in the coming season) and the notification period and update frequency for a specific event (for example the progress of a flood crest down a river, or landslide risk, or tornado warnings).\nImproved warning may enable an improved risk assessment in Essential 2, for example, by enabling better preparation or enabling more people to move from harm’s way.\nHowever, while they are the focus of much research currently, meaningful earthquake warning systems do not currently exist for practical purposes. If earthquakes are the only hazard for your city, omit this assessment.",
+  "options": [
+   "5 – Warnings exist for all hazards known to be relevant to the city, and will allow time for reaction (as far as technology permits). Warnings are seen as reliable and specific to the city.",
+   "4 – Warnings exist but warning time maybe less than technology currently permits. Warnings are seen as reliable and specific.",
+   "3 – Some hazards, especially earthquakes, are excluded and warning time may be less than technology permits. (If earthquakes are the only hazard for your city, score 0).",
+   "2 – Warning time is less than technology permits and there may also be some false positives: reliability of warnings may therefore be perceived as questionable.",
+   "1 – Warnings seen as ad hoc and unreliable. Likely to be ignored.",
+   "0 – No warnings."
+  ],
+  "shapes": [
+   "_x0000_s21587",
+   "_x0000_s21588",
+   "_x0000_s21589",
+   "_x0000_s21590",
+   "_x0000_s21591",
+   "_x0000_s21592"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "9.1.1.1",
+  "title": "9.1.1.1 - Reach of warning",
+  "ref_row": 18,
+  "resp_cell": "E22",
+  "comment_cell": "C22",
+  "question": "Will 100% of population receive it?",
+  "guidance": "This assessment refers to the specific warning of the imminent event. Other pre-event, and post event communications are dealt with in Essential 7.\nWarnings should be delivered over the maximum possible notice period via multiple media, including phone, TV, radio, web, as well as sirens.",
+  "options": [
+   "5 – 100% reached.",
+   "4 – 90-100% reached.",
+   "3 – 80-90% reached.",
+   "2 – 70-80% reached.",
+   "1 – 50-70% reached.",
+   "0 – <50% reached (or no warnings – see above)."
+  ],
+  "shapes": [
+   "_x0000_s21594",
+   "_x0000_s21595",
+   "_x0000_s21596",
+   "_x0000_s21597",
+   "_x0000_s21598",
+   "_x0000_s21599"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "9.3.1",
+  "title": "9.3.1 - \"Surge\" capacity of police also to support first responder duties",
+  "ref_row": 48,
+  "resp_cell": "E52",
+  "comment_cell": "C52",
+  "question": "Sufficient back-up or para-professional capacity to maintain law and order in “most severe” and “most probable” scenarios, in addition to supporting burden of first responder duties.",
+  "guidance": "This capacity may come from other agencies such as the Army or civil defence force but needs to be confirmed via MOU or similar.",
+  "options": [
+   "5 – Surge capacity exists and is tested either via actual events or practice drills for scenarios in Essential 2 – coverage of all neighbourhoods will be possible within 4 hours.",
+   "4 – Adequate surge capacity nominally exists but is untested.",
+   "3 – Surge capacity exists but is known or suspected to have minor inadequacies, perhaps in location, numbers. Coverage of all neighbourhoods within 4-12 hours.",
+   "2 – Coverage of all neighbourhoods within 12-48 hours.",
+   "1 – Coverage of all neighbourhoods within 48-72 hours.",
+   "0 – No surge capacity identified."
+  ],
+  "shapes": [
+   "_x0000_s21601",
+   "_x0000_s21602",
+   "_x0000_s21603",
+   "_x0000_s21604",
+   "_x0000_s21605",
+   "_x0000_s21607"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "9.2.1",
+  "title": "9.2.1 - Existence of emergency response plans that integrate professional responders and community organizations. (For post-event response - see Essential 10).",
+  "ref_row": 33,
+  "resp_cell": "E37",
+  "comment_cell": "C37",
+  "question": "Existence of plans formulated to address “most likely” and “most severe” scenarios, shared and signed off by all relevant actors (including citizen organizations.",
+  "guidance": "Note – more strategic planning is covered in Essential 1 and Essential 10.\nEmergency response plans will need to cover:\nCommand and control - coordination with other agencies and cities, roles, responsibilities (see Essential 1);\nEvacuations (including hospitals, jails, etc.);\nCommunication systems;\nCritical asset management (including likely “failure chains” – see Essential 8);\nIntegration of private sector utilities covering energy, water / sanitation, trash collection, communications etc.\nMedical response;\nLaw and order response;\nFire and rescue response;\nPublic information;\nTriage policies;\nIncorporation of contributions from citizen / grass roots organization.\nElements of emergency response plans may be linked to, and tested through, plans for “regular” events such as sporting fixtures, carnivals or parades (see below).",
+  "options": [
+   "5 – Complete plans exist, keyed to scenarios referenced in Essential 2. They have been tested in real emergencies.",
+   "4 – Complete plans exist as above, but may not have been fully tested.",
+   "3 – Plans exist but are not keyed to scenarios referenced in Essential 2.",
+   "2 – Plans exist are known to be incomplete or otherwise deficient.",
+   "1 – Plans exist but are known to have major shortcomings.",
+   "0 – No plans."
+  ],
+  "shapes": [
+   "_x0000_s21609",
+   "_x0000_s21610",
+   "_x0000_s21611",
+   "_x0000_s21612",
+   "_x0000_s21613",
+   "_x0000_s21614"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "9.3.2",
+  "title": "9.3.2 - Definition of other first responder and other staffing needs, and availability",
+  "ref_row": 61,
+  "resp_cell": "E65",
+  "comment_cell": "C65",
+  "question": "Staffing needs are defined for “most probable” and “most severe” scenarios.",
+  "guidance": "Different national response standards may apply in this area.\nThe category includes fire, ambulance, healthcare, neighbourhood support, key communications, energy and water utility staff and key highway staff. Parts of this capacity may come from other agencies such as the Army or civil defence force.",
+  "options": [
+   "5 – Needs defined, either from actual events or from practice drills for scenarios in Essential 2, taking into account the role of volunteers.",
+   "4 – Needs defined independently of latest scenarios.",
+   "3 – Some needs defined but with some gaps for specific professions or for specific areas of the city.",
+   "2 – Needs definition has more serious shortcomings.",
+   "1 – Needs definition is essentially nominal or guesswork.",
+   "0 – No needs defined (or no plan – see above)."
+  ],
+  "shapes": [
+   "_x0000_s21616",
+   "_x0000_s21617",
+   "_x0000_s21618",
+   "_x0000_s21619",
+   "_x0000_s21620",
+   "_x0000_s21621"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "9.4.1",
+  "title": "9.4.1 - Definition of equipment and supply needs, and availability of equipment",
+  "ref_row": 76,
+  "resp_cell": "E80",
+  "comment_cell": "C80",
+  "question": "Equipment and supply needs are defined for “most probable” and “most severe” scenarios in Essential 2.",
+  "guidance": "Equipment includes:\nPolice, fire and ambulance vehicles, and fuel;\nHelicopters, planes as applicable, and fuel;\nRescue equipment;\nMedical supplies;\nBulldozers, excavators, debris trucks (may be supplied by private organizations);\nPumps and generators;\nHand equipment – chainsaws, winches, shovels, etc\nLocal emergency response IT systems, hand-held devices.\n(Medical/hospital needs – see Essential 8)",
+  "options": [
+   "5 – Needs defined, keyed to scenarios from Essential 2, and take into account the role of volunteers.",
+   "4 – Needs defined independently of latest scenarios.",
+   "3 – Some needs defined but with some gaps for specific professions or for specific areas of the city.",
+   "2 – Needs definition has more serious shortcomings.",
+   "1 – Needs definition is Essentially nominal or guesswork.",
+   "0 – No needs defined (or no plan)."
+  ],
+  "shapes": [
+   "_x0000_s21623",
+   "_x0000_s21624",
+   "_x0000_s21625",
+   "_x0000_s21626",
+   "_x0000_s21627",
+   "_x0000_s21628"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "9.4.1.1",
+  "title": "9.4.1.1 - Definition of equipment and supply needs, and availability of equipment",
+  "ref_row": 89,
+  "resp_cell": "E93",
+  "comment_cell": "C93",
+  "question": "Estimated shortfall in available equipment per defined needs – potentially from multiple sources. MOUs exist for mutual aid agreements with other cities, and also for private sector sources.",
+  "guidance": "Equipment defined as above.",
+  "options": [
+   "5 – Equipment known to be available in line with defined needs for “most severe” scenario.",
+   "4 – Equipment known to be available in line with defined needs for “most probable” scenario.",
+   "3 – Shortfall of <5% of ideal equipment numbers for key items.",
+   "2 – Shortfall of 5-10% of ideal equipment numbers for key items.",
+   "1 – Shortfall of >10% of ideal equipment numbers for key items.",
+   "0 – No definition of needs – see above."
+  ],
+  "shapes": [
+   "_x0000_s21630",
+   "_x0000_s21631",
+   "_x0000_s21632",
+   "_x0000_s21633",
+   "_x0000_s21634",
+   "_x0000_s21635"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "9.5.1",
+  "title": "9.5.1 - Likely ability to continue to feed population",
+  "ref_row": 104,
+  "resp_cell": "E108",
+  "comment_cell": "C108",
+  "question": "“Food gap” - # of days that city can feed all segments of its population likely to be affected minus # of days’ disruption estimated under those scenarios.\nUnder “most severe” scenario:",
+  "guidance": "Food = food and water. Needs to include certainty that food from other agencies is available, via MOU or similar.",
+  "options": [
+   "5 – Positive outcome – days of emergency food available exceeds estimated days disruption to regular supply.",
+   "4 – Neutral outcome – days of food available equals estimated days’ disruption to regular supply.",
+   "3 – Negative outcome – estimated food gap is 24 hours.",
+   "2 – Negative outcome – estimated food gap is 48 hours.",
+   "1 – Negative outcome – estimated food gap is 72 hours.",
+   "0 – Negative outcome – estimated food gap is more than 72 hours."
+  ],
+  "shapes": [
+   "_x0000_s21637",
+   "_x0000_s21638",
+   "_x0000_s21639",
+   "_x0000_s21640",
+   "_x0000_s21641",
+   "_x0000_s21642"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "9.5.2",
+  "title": "9.5.2 - Likely ability to meet needs for shelter/safe places",
+  "ref_row": 117,
+  "resp_cell": "E121",
+  "comment_cell": "C121",
+  "question": "“Shelter gap” – numbers of displaced persons minus shelter places available within 24 hours.\nUnder “most severe” scenario:",
+  "guidance": "Shelter may include existing structures likely to resist the disaster in question, by virtue of their strong construction and/or their location – sports stadia, school halls, shopping malls, parking garages and so on.\nShelters need to take account of separate needs of men, women, children, disabled.\nSignage to, and for use within, shelters is also likely to be required.\nThird-party owners of shelter facilities/safe places should be engaged via MOUs or similar.",
+  "options": [
+   "5 – Positive outcome – shelter places available within 12 hours exceeds estimated need.",
+   "4 – Neutral outcome – shelter places available equal to estimated need.",
+   "3 – Negative outcome – shelter places available less than estimated need (shelter gap) by 5%.",
+   "2 – Negative outcome – estimated shelter gap is 10%.",
+   "1 – Negative outcome – estimated shelter gap is 15%.",
+   "0 – Negative outcome – estimated shelter gap is 20% or more."
+  ],
+  "shapes": [
+   "_x0000_s21644",
+   "_x0000_s21645",
+   "_x0000_s21646",
+   "_x0000_s21647",
+   "_x0000_s21648",
+   "_x0000_s21649"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "9.5.2.1",
+  "title": "9.5.2.1 - Likely ability to meet needs for shelter/safe places",
+  "ref_row": 130,
+  "resp_cell": "E134",
+  "comment_cell": "C134",
+  "question": "“Shelter gap” – ability of shelters to withstand disaster events and remain safe and usable.\nUnder “most severe” scenario:",
+  "guidance": "This applies to shelters in which people may have taken refuge prior to an event (for example a hurricane, where there will be some hours warning); or shelters to which people may be directed after the event.",
+  "options": [
+   "5 – All designated shelter places are assessed as likely to safely withstand a “most severe” event.",
+   "4 – 90% of shelter places are assessed as likely to safely withstand a “most severe” event.",
+   "3 – 80% of shelter places are assessed as likely to safely withstand a “most severe” event.",
+   "2 – 70% of shelter places are assessed as likely to protect users in “most severe” event.",
+   "1 – 50% of shelter places are assessed as likely to safely withstand a “most severe” event.",
+   "0 – Less than 50%, are assessed as likely to withstand a “most severe“ event."
+  ],
+  "shapes": [
+   "_x0000_s21651",
+   "_x0000_s21652",
+   "_x0000_s21653",
+   "_x0000_s21654",
+   "_x0000_s21655",
+   "_x0000_s21656"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "9.5.3",
+  "title": "9.5.3 - Ability to meet likely needs for staple goods",
+  "ref_row": 143,
+  "resp_cell": "E147",
+  "comment_cell": "C147",
+  "question": "“Staples gap” - % shortfall in supply within 24 hours relative to demand.\nUnder “most severe” scenario:",
+  "guidance": "Cities will need to compile lists of critical staple items, as these are to some extent culturally or population-dependent. But they are likely to include:\nSanitation;\nPersonal sanitary supplies and diapers;\nMedications and first aid supplies;\nBatteries;\nClothing;\nBedding;\nBottled gas for cooking, heating;\nMaterials for immediate repairs or weather-proofing of housing.\nIn some countries these may be provided via private sector retailers, operating under MOU with the city or other government agency.",
+  "options": [
+   "5 – Positive outcome – supply of staples available within 12 hours exceeds estimated demand.",
+   "4 – Neutral outcome – supply equals estimated demand.",
+   "3 – Negative outcome – supply of five or more critical staples less than estimated demand (staples gap) by 5%.",
+   "2 – Negative outcome – estimated staples gap is 10%.",
+   "1 – Negative outcome – estimated staples gap is 15%.",
+   "0 – Negative outcome – estimated staples gap is 20% or more."
+  ],
+  "shapes": [
+   "_x0000_s21658",
+   "_x0000_s21659",
+   "_x0000_s21660",
+   "_x0000_s21661",
+   "_x0000_s21662",
+   "_x0000_s21663"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "9.5.4",
+  "title": "9.5.4 - Likely availability of fuel",
+  "ref_row": 156,
+  "resp_cell": "E160",
+  "comment_cell": "C160",
+  "question": "“Fuel gap” - # of days that city can meet fuel requirements, minus # of days’ disruption to regular supply.\nUnder “most severe” scenario:",
+  "guidance": "Fuel – gasoline, diesel, as required for emergency vehicles, back up equipment, and personal and business transportation.",
+  "options": [
+   "5 – Positive outcome – days of fuel available exceeds estimated days’ disruption to supply.",
+   "4 – Neutral outcome – days of fuel available equals estimated days’ disruption to supply.",
+   "3 – Negative outcome – estimated disruption exceeds days of fuel available (fuel gap) by 24 hours.",
+   "2 – Negative outcome – estimated fuel gap is 48 hours.",
+   "1 – Negative outcome – estimated fuel gap is 72 hours.",
+   "0 – Negative outcome – estimated fuel gap is more than 72 hours."
+  ],
+  "shapes": [
+   "_x0000_s21665",
+   "_x0000_s21666",
+   "_x0000_s21667",
+   "_x0000_s21668",
+   "_x0000_s21669",
+   "_x0000_s21670"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "9.6.1",
+  "title": "9.6.1 - Interoperability with neighbouring cities/states and other levels of government of critical systems and procedures",
+  "ref_row": 171,
+  "resp_cell": "E175",
+  "comment_cell": "C175",
+  "question": "Ability to cooperate at all levels with neighbouring cities and other levels of government.",
+  "guidance": "Critical first response systems and procedures will include those in the areas of communications, law and order, fire, first responder, food distribution, etc).\nInteroperability needs to be assessed at multiple levels, including:\nCommunications systems;\nData;\nEmergency management applications;\nAssumptions, rehearsed procedures and priorities;\nAccountabilities (see Essential 1);\nTerritorial coverage.\nPhysical asset characteristics (for example, fire hose widths for neighbouring fire departments; fuel compatibility for vehicles).",
+  "options": [
+   "5 – Proven interoperability of all key systems and procedures.",
+   "4 – Interoperability in theory of all key systems but yet to be tested in practice.",
+   "3 – Some minor incompatibilities exist but are being addressed.",
+   "2 – Major incompatibilities but plan exists to address them.",
+   "1 – Major incompatibilities but no plan.",
+   "0 – Interoperability never assessed."
+  ],
+  "shapes": [
+   "_x0000_s21672",
+   "_x0000_s21673",
+   "_x0000_s21674",
+   "_x0000_s21675",
+   "_x0000_s21676",
+   "_x0000_s21677"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "9.6.2",
+  "title": "9.6.2 - Emergency operations centre",
+  "ref_row": 184,
+  "resp_cell": "E188",
+  "comment_cell": "C188",
+  "question": "Existence of emergency operations centre with participation from all agencies, automating standard operating procedures specifically designed to deal with “most likely” and “most severe” scenarios.",
+  "guidance": "Operations centre needs itself to be highly disaster-resilient!\nSOP = Standard operating procedures – pre-rehearsed processes and procedures for emergency response.",
+  "options": [
+   "5 – Emergency operations centre exists with hardened communications and camera-enabled visibility of whole city, and with SOPs designed and proven to deal with “most severe” scenario; all relevant agencies participate.",
+   "4 – Emergency operations centre exists with hardened communications and camera-enabled visibility of whole city, and with SOPs designed and proven to deal with “most probable” scenario; all relevant agencies participate.",
+   "3 – Emergency operations centre exists with SOPs designed for “most probable” scenario (but may not be proven), most agencies participating but incomplete camera visibility or communications.",
+   "2 – Emergency operations centre exists but SOPs unproven, participation incomplete and poor camera visibility.",
+   "1 – Emergency operations centre designated but with significant generalized shortcomings.",
+   "0 – No emergency operations centre."
+  ],
+  "shapes": [
+   "_x0000_s21679",
+   "_x0000_s21680",
+   "_x0000_s21681",
+   "_x0000_s21682",
+   "_x0000_s21683",
+   "_x0000_s21684"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "9.6.3",
+  "title": "9.6.3 - Coordination of post event recovery",
+  "ref_row": 197,
+  "resp_cell": "E201",
+  "comment_cell": "C201",
+  "question": "Coordination arrangements identified in advance for all post-event activities in the city’s area, with clarity of roles and accountability across all relevant organizations.\nDoes an organizational chart documenting structure and role definitions at each relevant agency exist, to achieve a single overall point of co-ordination?",
+  "guidance": "Also addressed in Essential 9.\nAs for 1.2.1 / 2 – the single point may be a person or a group.\nKey activities will be:\nDay to day government (especially if provided by a stand-in entity such as the armed forces, a neighbouring state etc).\nLonger term management of rebuilding process – an organizational arrangement is needed for including all stakeholders including citizen groups.\nOne major issue will be the speed with which this organization can be assembled and begin operation. The post event organization should in effect be mobilized at the same time as the event response organization.",
+  "options": [
+   "5 – There is a clear coordination of all relevant post-response activities. All roles and accountability are clearly defined between relevant organizations.",
+   "4 – There is some coordination of post-response activities in the city. However, overlapping roles exist and accountability is not clearly defined.",
+   "3 – Coordination of post-response activities is not sufficient. There is currently no clear identification of roles and accountability among relevant organizations in the city.",
+   "2 – The city (or focal point/institution) is currently in process of coordination of post-response activities, which will clearly identify roles and accountability among relevant organizations.",
+   "1 – The city is currently discussing to start a process to coordinate all post-response activities.",
+   "0 – There are currently no plans to coordinate post-response activities."
+  ],
+  "shapes": [
+   "_x0000_s21686",
+   "_x0000_s21687",
+   "_x0000_s21688",
+   "_x0000_s21689",
+   "_x0000_s21690",
+   "_x0000_s21691"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "9.7.1",
+  "title": "9.7.1 - Practices and rehearsals – involving both the public and professionals",
+  "ref_row": 212,
+  "resp_cell": "E216",
+  "comment_cell": "C216",
+  "question": "Testing of plans annually, by reference to simulated emergency and actual non-emergency events.",
+  "guidance": "Drills to include use of/response to education and healthcare facilities.\nDrills linked to public engagement and local training – see Essential 6.\nSpecific emergency drills may be supplemented by use of sporting events, rallies, parades and other local activities, and also minor versions of the disaster event (e.g. minor flooding, weaker earthquakes) to:\nPractice aspects of emergency response such as crowd management;\nTest carrying capacity of potential evacuation routes;\nEvaluate response and access times, etc.\n(These may also be used for disaster awareness).",
+  "options": [
+   "5 – Annual suite of drills validated by professionals to be realistic representation of “most severe” and “most probable” scenarios.",
+   "4 – Annual suite of drills broadly thought to be realistic.",
+   "3 – Annual suite of drills but not realistic in some significant respects.",
+   "2 – Less than annual drills.",
+   "1 – Ad hoc partial exercises – not all scenarios tested, not realistic.",
+   "0 – No exercises (or no plans – see above)."
+  ],
+  "shapes": [
+   "_x0000_s21693",
+   "_x0000_s21694",
+   "_x0000_s21695",
+   "_x0000_s21696",
+   "_x0000_s21697",
+   "_x0000_s21698"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "9.7.2",
+  "title": "9.7.2 - Effectiveness of drills and training",
+  "ref_row": 225,
+  "resp_cell": "E229",
+  "comment_cell": "C229",
+  "question": "Level of effectiveness of drills.",
+  "guidance": "Requires evaluation of every drill after completion.\nTraining delivery and level of participation – see Essentials 6 & 7.",
+  "options": [
+   "5 – All professional and public participants in drills show strong evidence of having absorbed training.",
+   "4 – Most participants show evidence of having absorbed training, with some minor issues.",
+   "3 – One or more issues with training evident from outcome of drills.",
+   "2 – Several significant skills or knowledge gaps revealed.",
+   "1 – Drills indicate that city is broadly unprepared for disaster in terms of training and skills.",
+   "0 – No drills."
+  ],
+  "shapes": [
+   "_x0000_s21700",
+   "_x0000_s21701",
+   "_x0000_s21702",
+   "_x0000_s21703",
+   "_x0000_s21704",
+   "_x0000_s21705"
+  ]
+ },
+ {
+  "sheet": "E10",
+  "ref": "10.1.1",
+  "title": "10.1.1 - Planning for post event recovery and economic reboot",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "Existence of comprehensive post event recovery and economic reboot plans.",
+  "guidance": "Comprehensive post event recovery plans will need to detail (not an exhaustive list):\nInterim arrangements for damaged facilities and homes anticipated from “most probable” and “most severe” scenarios;\nLocations and sources of temporary housing (if different from emergency shelters – see Essential 9);\nTriage policies for inspection, repairs and debris removal and preferred contractors;\nCounselling and personal support arrangements;\nCommunity support arrangements – re-initiation of social security, food and other benefits payments;\nEconomic “re-boot” arrangements – interim tax relief, incentives, etc;\nImprovements to city layout and operations sought as rebuilding takes place, to reduce future risk;\nArrangements to ensure social equality – equality of attention, inputs, funding, priority across all neighbourhoods.\nCode updates so that rebuilding can be immediate and to better standards than before\nDirectory of inspectors trained / accredited to assess building damage (particularly relating to red-flagging or red-tagging buildings after floods, storm damage or earthquakes).\nDirectory of insurance loss adjustors.\nPlans may be from several organizations, but these should be reviewed for consistency of assumptions and priorities.\n(Post event organization structures – see Essential 1)\n(Funding – see Essential 3)",
+  "options": [
+   "5 – Fully comprehensive plans exist addressing economic, infrastructure and community needs after “most probable” and “most severe” scenario.",
+   "4 – Fully comprehensive plans exist addressing economic, infrastructure and community needs after “most probable” scenario.",
+   "3 – Plans exist for post “most probable” event but with some shortfalls.",
+   "2 – Plans exist for post “most probable” event but with more significant shortfalls.",
+   "1 – Plans exist for post “most probable” event but with generalized inadequacy.",
+   "0 – No plan."
+  ],
+  "shapes": [
+   "_x0000_s22551",
+   "_x0000_s22552",
+   "_x0000_s22553",
+   "_x0000_s22554",
+   "_x0000_s22555",
+   "_x0000_s22556"
+  ]
+ },
+ {
+  "sheet": "E10",
+  "ref": "10.1.2",
+  "title": "10.1.2 - Extent to which there has been stakeholder consultation around the ‘event recovery and reboot’ plans",
+  "ref_row": 18,
+  "resp_cell": "E22",
+  "comment_cell": "C22",
+  "question": "Stakeholder involved in build back better plan.",
+  "guidance": "The city emergency services\nThe local health sector\nUtility providers including telecommunications\nLocal businesses and scientific institutions\nNGOs\nCivil society organisations including minority group representation\nEnvironmental sector\nBusiness interests\nOther relevant government tiers or agencies\nThe wider city population in all neighbourhoods, both formal and informal.\nLocal universities\nScientific institutions / industry associations",
+  "options": [
+   "5 – Yes – All relevant groups have been invited and attended. Stakeholders have been fully briefed on the process and receive regular bulletins on the progress of the plan.",
+   "4 – At least 8 of the 10 listed groups (right) have been engaged / consulted.",
+   "3 – At least 6 of the 10 listed groups have been engaged / consulted.",
+   "2 – At least 4 of the listed groups have been engaged / consulted.",
+   "1 – At least 2 of the listed groups were invited.",
+   "0 – No stakeholder engagement has been undertaken."
+  ],
+  "shapes": [
+   "_x0000_s22558",
+   "_x0000_s22559",
+   "_x0000_s22560",
+   "_x0000_s22561",
+   "_x0000_s22562",
+   "_x0000_s22563"
+  ]
+ },
+ {
+  "sheet": "E10",
+  "ref": "10.1.3",
+  "title": "10.1.3 - Shadow financial arrangements for processing incoming aid and disbursing funds",
+  "ref_row": 31,
+  "resp_cell": "E35",
+  "comment_cell": "C35",
+  "question": "Post event arrangements exist for dealing with incoming financial aid and disbursements.",
+  "guidance": "May be provided by national government, if still functional, or by a private sector organization such as an accounting firm.",
+  "options": [
+   "5 – Arrangements exist and are believed to be workable.",
+   "4 – Arrangements have some minor gaps but are believed to be workable.",
+   "3 – Arrangements have one or more significant gaps that may compromise aspects of workability.",
+   "2 – Arrangements have more significant shortfalls that place overall workability in doubt.",
+   "1 – Partial or incomplete arrangements only. Unlikely to be workable.",
+   "0 – No plan."
+  ],
+  "shapes": [
+   "_x0000_s22565",
+   "_x0000_s22566",
+   "_x0000_s22567",
+   "_x0000_s22568",
+   "_x0000_s22569",
+   "_x0000_s22570"
+  ]
+ },
+ {
+  "sheet": "E10",
+  "ref": "10.2.1",
+  "title": "10.2.1 - Learning loops",
+  "ref_row": 46,
+  "resp_cell": "E50",
+  "comment_cell": "C50",
+  "question": "Existence of a process and format for “post-mortems” on what went well and less well in the event response and post-event phases.",
+  "guidance": "This process could be the process used for usual learning and review after drills and practices – the difference being that this is “for real”.\nThis learning is critical in helping a city understand how it can ‘build back better’ and also in improving comprehension of risks. New risks, learning from real events can be re-incorporated into to city risk management framework, as outlined under Essential 2.",
+  "options": [
+   "5 – Comprehensive plans exist that are shared by all stakeholders they have in fact been used after a disaster – changes have been made to plans and practices.",
+   "4 – Comprehensive plans exist but have not been used in live situations – only after drills.",
+   "3 – The need to learn is acknowledged and there is some attempt to share learnings, but it is not systematic - there are gaps.",
+   "2 – Post event learning is planned by some stakeholders, but to varying degrees and it is not planned to be shared.",
+   "1 – Any provision for post event learning is rudimentary at best.",
+   "0 – No plan."
+  ],
+  "shapes": [
+   "_x0000_s22572",
+   "_x0000_s22573",
+   "_x0000_s22574",
+   "_x0000_s22575",
+   "_x0000_s22576",
+   "_x0000_s22577"
+  ]
+ }
+]

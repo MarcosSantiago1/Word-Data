@@ -1,0 +1,600 @@
+# CDP Cities 2023 - Taoyuan City Government (org 54395) https://www.cdp.net/en/responses/54395
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: Special city / municipality
+  - Next highest level of government: National
+  - Next lowest level of government: Sub-municipal district
+  - Land area of the jurisdiction boundary (in square km)^: 1220.95
+  - Percentage range of land area that is green space: >60%
+  - Current (or most recent) population size^: 2299339
+  - Population year^: 2023
+  - Projected population size: 2500153
+  - Projected population year: 2050
+  - Select the currency used for all financial information reported throug: TWD New Taiwan Dollar
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking budgeting and/or major capital expenditures
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking plans and/or strategies
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related responsibilities are assigned to management-level positions in the government
+  - Select the processes that reflect your jurisdiction's oversight of cli: Relevant departments, committees and/or subcommittees are informed by management about climate-related issues
+  - Provide further details on your jurisdiction's oversight of climate-re: In 2017, we enacted the “Taoyuan City Low-Carbon Green City Development Self-Governance Ordinance”, which is the cornerstone for oversight of climate change mitigation and adaptation plans. Based on the ordinance, the city government convened an interdepartmental task force to develop and review the mitigation and adaptation plans every year. Practically speaking, the task force convenes interdepartmental meetings twice a year. In the meeting we review the progress of each mitigation and adaptation project. We would make suggestions to step up the efforts if the progress is behind schedule. Furthermore, we would refer to best practices across the world to refine the mitigation and adaptation plans.The amendment to the Greenhouse Gas Reduction and Management Act by the Environmental Protection Agency of Taiwan came into effect in February 2023, resulting in a name change to the Climate Ch
+  - Describe how climate-related issues have impacted your jurisdiction's : To cope with climate change, reduce greenhouse gases, implement low-carbon living, develop renewable energy and other climate-related issues, Taoyuan city government has incorporated climate adaptation plans into its land use planning and dedicated it as a special chapter to guide the subsequent land use overviews, to review, to draw up or to amend land use plans.The city government takes climate change into consideration for the land use periodical overviews and modifies land use patterns or regulations based on a history of urban hazards, local characteristics and the probability of a hazard occurring.Taoyuan urban design deliberations involving climate change include:(1) Buildings higher than 6 stories in residential zone or the area for amalgamated dwelling use shall have rooftop garden or roof filled with plants and greenery.(2) Area within 2 meters such as roadside and land uses fo
+  - Describe how climate-related issues have impacted your jurisdiction's : The yearly budget of the “Taoyuan City Greenhouse Gas Control Implementation Plan (Phase I)” accounted for 1%~3% of total yearly budget of the city government. This year we develop the second phase of mitigation master plan, which spans from 2021~2025. Given that we updated our mitigation goal to net-zero by 2050, the yearly budget for the second phase will increase, and diversify the financing resources.The sources of the budget at city level are diverse in Taiwan’s context. One of the sources is subsidies from the national government. On the other hand, to relieve the burden on fiscal resources, under certain circumstances the city government usually adopts the models of Public-Private Partnership such as Build-Operate-Transfer (BOT), Private Finance Initiative (PFI), etc. For example, the construction of the bioenergy center costed around 125 million US dollars. Through the BOT model,
+  - Describe the risks to your jurisdiction related to the transition to a: Risks of urban transition to low-carbon economy: Taoyuan earns the highest value of industrial output in Taiwan. The economic structure is highly dependent on international trades by small and medium-sized enterprises (SMEs). Taoyuan bear the brunt of transforming its industrial landscape as some large companies take part in RE100 and many SMEs face pressures in their journey to net zero. To address these challenges, the Taoyuan government helps SMEs build their institutional capacity to produce complete, high-quality greenhouse gas (GHG) inventories.
+
+[0.4 fila 1] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate risk and vulnerability assessment
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the National Adaptation Plan (NAP)
+  - Outline the purpose of this engagement: The method used to develop this component was required or recommended by a higher-level of government
+  - Outline the purpose of this engagement: To collect data and/or feedback from other levels of government to inform its development
+  - Comment: The city government utilized the methodology suggested by the Taiwan Climate Change Projection Information and Adaption Knowledge Platform (TCCIP) to predict climate changes and identify risk and vulnerability for Taoyuan in the future. On the other hand, In 2009, the Ministry of Science and Technology of Taiwan launched the Taiwan Integrated Research Program on Climate Change Adaptation Technology (TaiCCAT). Taoyuan used the assessment tool and the six-step cycle developed in TaiCCAT in 2018 to evaluate the weaknesses of Taoyuan City's historical climate change adaptation plan and improve it. Apart from using the methodology suggested by the national government, local governments also need resources and data at national level to develop adaptation strategies and implement initiatives. As a result, the city government also visited National Science and Technology Center for Disaster Reduc
+
+[0.5 fila 1] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Primary entity collaborated with (selection mandatory): Residents/community groups
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Areas collaboration focused on: Resilience
+  - Areas collaboration focused on: Adaptation
+  - Description of collaboration: In the past, climate change policies were usually implemented through the top-down approach, however, if there exists a knowledge gap between the city government and communities, it’s difficult to bring about desired effects. On the other hand, if communities don’t have the opportunity to engage in planning, the adaptation plan may not correspond to the needs of communities. The importance of community engagement in adaptation planning is comprehensively recognized internationally, therefore the concept of “Community Based Adaptation” has been advocated by many organizations in the world. When the adaptation plan was being developed in 2018, the city government also communicated with local organizations and communities, in an effort to practice Community Based Adaptation.Before interacting with communities, the city government had identified the priority adaptation sectors of Taoyuan, an
+  - Other entities collaborated with: NGO and associations
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: Yes, a climate risk and vulnerability assessment has been undertaken
+
+[1.1a fila 1] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: Taoyuan City Climate Risk and Vulnerability Assessment 2023 (draft)
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2023
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: Assessment includes a high-emissions scenario (i.e., RCP 8.5)
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: A process has been established to update the assessment at least every five years
+  - Factors considered in assessment: Assessment includes consultation with partners
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: Assessment includes sectors and/or urban systems
+  - Factors considered in assessment: Assessment considers transition risks
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Primary author(s) of assessment^: Consultant
+  - Please explain: Taoyuan City Climate Risk and Vulnerability Assessment 2023 has been drafted. The content of climate risks and vulnerability is uploaded.
+
+[1.1a fila 2] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: Air Pollution Control and Climate Change Adaptation Project in Taoyuan City 2018
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2018
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: A process has been established to update the assessment at least every five years
+  - Factors considered in assessment: Assessment includes a high-emissions scenario (i.e., RCP 8.5)
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: Assessment considers transition risks
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Primary author(s) of assessment^: Consultant
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Please explain: The report utilized the scientific tool and predictive framework to identify four major climate hazards facing Taoyuan: temperature changes, precipitation changes, extreme weather and rising sea levels. After identifying climate hazards, we developed adaptation strategies covering eight sectors to address these hazards: Disasters, Living Infrastructure, Water Resources, Land Use, Coastal, Energy Supply And Industrial, Agricultural Production and Biodiversity, and Health. Building upon the report, the city government formulated the "2020-2022 Taoyuan City Climate Change Adaptation Action Plan" in 2019.Although the name of the report includes ”Air Pollution”, the report is completely focused on climate risk and vulnerability assessment.
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Heavy precipitation
+  - Vulnerable population groups most exposed: Other, please specify: Both residents living in the suburbs and the downtown are vulnerable to flooding caused by rain storms and typhoons.
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Administrative and support service activities
+  - Sectors most exposed^: Public administration and defence; compulsory social security
+  - Sectors most exposed^: Manufacturing
+  - Describe the impacts on vulnerable populations and sectors^: Taoyuan City is located in the north-western part of Taiwan island. The city consists of 13 districts. There are 7 city jurisdictional rivers including Nantunxi, Laojiexi, Fulinxi, Datunxi, Guanyinxi, Xinwuxi and Shezixi. When heavy rain occurs, it is likely to cause flooding. The terrain in northwest coastal area of Taoyuan City is relatively low and full of streams. The river basins are flooded whenever the rainstorm occurs. According to the Second Generation Flooding Potential Map of Taoyuan City, simulation in the scenario of continuous precipitation for 24 hours with the recurrence interval of 500 years, the future flooding disaster in Taoyuan City will occurred around Dayuan, Zhongmu, Taoyuan, Luzhu, Guanyin, Xinwu and Yangmei basins.The increase of rainfall intensity increases the risk of flooding and compound disasters, resulting in loss of life and property, road and bridge dama
+  - Proportion of the population exposed to the hazard: 90-100%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 2] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Water stress
+  - Vulnerable population groups most exposed: Other, please specify: People in Taoyuan who suffer from a lack of water resource are not a specific ethnic group.
+  - Sectors most exposed^: Administrative and support service activities
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Forestry
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Public administration and defence; compulsory social security
+  - Sectors most exposed^: Manufacturing
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Waste management
+  - Sectors most exposed^: Mining and quarrying
+  - Describe the impacts on vulnerable populations and sectors^: Water supplement and water usage have been an important issue in Taoyuan for many years. Although the water supply pressure in Taoyuan has been temporarily eased under the “Banxin District Water Supply Project Phase II”, the demand for water has increased year by year due to population and economic growth. Climate changes may cause the rainfall to plummet or tend to be extreme. Water supply and demand in the future remain uncertain. Since 2002, Shimen Reservoir in Taoyuan has encountered five severe droughts and the irrigation control was announced. The third-stage water rationing was implemented twice. The water supply gap of Taoyuan is about 60,000 tons per day. If we factor in the supply and demand of water resources in northern Taiwan, we can find that the normal water supply capacity of Taoyuan City will be deeply affected by climate change. If we consider the increase in water cons
+  - Proportion of the population exposed to the hazard: 90-100%
+  - Did this hazard significantly impact your jurisdiction before this rep: No
+  - Current probability of hazard^: Medium Low
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.2 fila 3] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Biodiversity loss
+  - Vulnerable population groups most exposed: Other, please specify: ecosystems within the areas susceptible to rain storms and landslide.
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Forestry
+  - Describe the impacts on vulnerable populations and sectors^: There is a forest reserve in Fuxing District, which is a mountainous area and is susceptible to landslide. Apart from Fuxing District, Longtan District, Guishan District and Daxi District are also susceptible to landslide when rain storms occur. The species in susceptible areas will be facing the loss of habitats in the future.
+  - Proportion of the population exposed to the hazard: Data is not available
+  - Did this hazard significantly impact your jurisdiction before this rep: No
+  - Current probability of hazard^: Do not know
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 4] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Urban flooding
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Sectors most exposed^: Other, please specify: All industries located in the urban area
+  - Describe the impacts on vulnerable populations and sectors^: Please refer to the attached documents titled 'Taoyuan City Climate Risk and Vulnerability Assessment 2023 (draft)' and 'Air Pollution Control and Climate Change Adaptation Project in Taoyuan City 2018' for more details.
+  - Proportion of the population exposed to the hazard: 50-60%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 5] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Mass movement
+  - Vulnerable population groups most exposed: Other, please specify: Protected people within the area potentially influenced by landslide
+  - Sectors most exposed^: Other, please specify: Protected people within the area potentially influenced by landslide
+  - Describe the impacts on vulnerable populations and sectors^: Landslide refers to the natural phenomenon with a rapid mass movement mixing mud, sand, gravel, boulders, other substances and water due to the force of gravity. Soil and Water Conservation Bureau defines the location prone to landslide hazard as the area potentially influenced by landslide. And the protected people are those mostly influenced by landslide.  When a disaster occurs, houses and roads within the influenced area may be buried by landslide.The areas potentially influenced by landslide are located in Taoyuan District, Daxi District, Guishan District and Fuxing District.  There are 512 households in this city who are defined as protected people, accounting for 0.022% of the population.
+  - Proportion of the population exposed to the hazard: <10%
+  - Did this hazard significantly impact your jurisdiction before this rep: No
+  - Current probability of hazard^: Medium
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.2 fila 6] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Storm
+  - Vulnerable population groups most exposed: Other, please specify: Based on the statistics on fatalities and injuries of hazards from tropical cyclones, there is no relation within gender, age, socio-economic status, ethnicity, profession, for the death and the injured.
+  - Sectors most exposed^: Manufacturing
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Financial and insurance activities
+  - Describe the impacts on vulnerable populations and sectors^: Please refer to the attached documents titled 'Taoyuan City Climate Risk and Vulnerability Assessment 2023 (draft)' and 'Air Pollution Control and Climate Change Adaptation Project in Taoyuan City 2018' for more details.
+  - Proportion of the population exposed to the hazard: 90-100%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Decreasing
+  - Timeframe of expected future changes^: Long-term (after 2050)
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Legal/Institutional constraints
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Given that Taoyuan City is a newly upgraded municipality, implementation capacity of government departments needs to be strengthened to deal with increasingly severe climate problems in the future.
+
+[1.3 fila 2] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Rapid urbanization
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Taoyuan City is facing rapid urbanization, which means the demand for buildings and infrastructure is increasing. Urbanization is particularly going to impact the city's ability to cope with heavy precipitation.
+
+[1.3 fila 3] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Community engagement
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Strengthened community participation and public awareness will increase the ability to adapt.
+
+[1.3 fila 4] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Access to quality / relevant data
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately supports
+  - Describe how the factor supports or challenges the adaptive capacity o: When Taoyuan City is implementing the adaptation master plan, relevant data is also collected, which will be analyzed to further inform relevant decision makers to refine the master plan.
+
+[3.8 fila 1] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: Health outcomes
+  - Identify the climate hazard(s) that most significantly impact the sele: Storm
+  - Identify the climate hazard(s) that most significantly impact the sele: Extreme heat
+  - Identify the climate hazard(s) that most significantly impact the sele: Coastal flooding (incl. sea level rise)
+  - Identify the climate hazard(s) that most significantly impact the sele: Heat stress
+  - Identify the climate hazard(s) that most significantly impact the sele: Water stress
+  - Identify the climate hazard(s) that most significantly impact the sele: Extreme cold
+  - Identify the climate hazard(s) that most significantly impact the sele: Infectious disease
+  - Identify the climate hazard(s) that most significantly impact the sele: Urban flooding
+  - Identify the climate hazard(s) that most significantly impact the sele: Heavy precipitation
+  - Identify the health issues driven by the selected climate hazard(s): Food and nutrition security
+  - Identify the health issues driven by the selected climate hazard(s): Overwhelming of health service provision due to increased demand
+  - Identify the health issues driven by the selected climate hazard(s): Mental health impacts
+  - Identify the health issues driven by the selected climate hazard(s): Direct physical injuries and deaths due to extreme weather events
+  - Identify the health issues driven by the selected climate hazard(s): Vector-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Emotional and/or spiritual health impacts
+  - Identify the health issues driven by the selected climate hazard(s): Heat-related illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Exacerbation of non-communicable disease symptoms - respiratory disease
+  - Identify the health issues driven by the selected climate hazard(s): Exacerbation of non-communicable disease symptoms - cardiovascular disease
+  - Identify the health issues driven by the selected climate hazard(s): Cold-related illnesses
+  - Timeframe of impact: Medium-term (2026-2050)
+  - Identify which vulnerable populations are affected by the selected hea: Elderly
+  - Identify which vulnerable populations are affected by the selected hea: Outdoor workers
+  - Identify which vulnerable populations are affected by the selected hea: Low-income households
+  - Identify which vulnerable populations are affected by the selected hea: Vulnerable health groups
+  - Identify which vulnerable populations are affected by the selected hea: Children and youth
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of financial capacity and expertise/technical capacity
+  - Comment: In terms of infectious disease, extreme weather might result in changes of germs transmission, thus posing a greater threat to human. Furthermore, intensified greenhouse effect is conducive to the reproduction and growth of pathogens. An increased number of mosquitoes also greatly increases the probability of  mosquito-borne diseases incidence.
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Data availability: Data is available for the percentage of households with access to safely managed drinking water services
+  - Data availability: Data is available for the average household water consumption in litres per capita per day
+  - Data availability: Data is available for the percentage of households with access to safely managed sanitation services
+  - Percentage of households with access to safely managed drinking water : 97.42
+  - Percentage of households with access to safely managed sanitation serv: 70.23
+  - Household water consumption (litres/capita/day): 271.8
+
+[3.13 fila 1] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Ground water (renewable)
+  - Are you able to report volumetric data for this source?: Yes
+  - Annual volume of water withdrawn per source (in megalitres) : 2.14112
+  - Projected level of change over next 5-10 years: About the same volume projected to be withdrawn
+  - Comment: National-level data.
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: Yes, our jurisdiction has an adaptation goal(s)
+
+[4.1a fila 1] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 1
+  - Adaptation goal^: Strengthen the adaptability of infrastructure in facing extreme climate incidents
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Climate hazards that goal addresses^: Coastal flooding (incl. sea level rise)
+  - Climate hazards that goal addresses^: River flooding
+  - Climate hazards that goal addresses^: Storm
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: Mass movement
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: 1. Formulate the four major functional zoning maps of the city's national land plan with four major functions and schedule.2. Cumulative number of sensors to be installed in intelligent disaster prevention and water control system.3. Length of coast protection facilities and renovations.4. Length of river dredging.5. Cumulative number of detention ponds to be completed.6. Number of drainage bottlenecks for yearly improvement.7. Length of new sewers to be deployed for rain water.8. Permeable rate to be enhanced around sidewalks. 9. Utilization rate of water conservation and water storage of buildings or bases.10. Number of disaster prevention campuses.11. Cumulative area of nature reserves.
+  - Comment: Targets have been set for the aforementioned indicators for 2023, 2024, 2025, 2030, 2040, and 2050.
+
+[4.1a fila 2] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 2
+  - Adaptation goal^: Strengthen resilience in water supply
+  - Climate hazards that goal addresses^: Drought
+  - Climate hazards that goal addresses^: Increased water demand
+  - Climate hazards that goal addresses^: Water stress
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2050
+  - Description of metric / indicator used to track goal^: 1. Increase the utilization rate of industrial wastewater treatment and reclaimed water.2. Daily water consumption (in liters) per person in their livelihood (aiming to be lower than the national average).
+  - Comment: Targets have been set for the aforementioned indicators for 2023, 2024, 2025, 2030, 2040, and 2050.
+
+[4.1a fila 3] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 3
+  - Adaptation goal^: Improve capabilities in managing agricultural climate risks
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: Loss of green space/green cover
+  - Climate hazards that goal addresses^: Storm
+  - Climate hazards that goal addresses^: Drought
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazards that goal addresses^: Soil degradation/erosion
+  - Climate hazards that goal addresses^: Heat stress
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Climate hazards that goal addresses^: Extreme heat
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: 1. Cumulatively install sensors in the intelligent disaster prevention and water control system.2. Hold promotion sessions to guide farmers to engage in low-water-consumption farming methods. 3. Promote demonstration areas of agricultural land adjustment and the number of demonstration sites.
+  - Comment: Targets have been set for the aforementioned indicators for 2023, 2024, 2025, 2030, 2040, and 2050.
+
+[4.1a fila 4] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 4
+  - Adaptation goal^: Strengthen medical care, health, and disaster prevention systems
+  - Climate hazards that goal addresses^: Infectious disease
+  - Climate hazards that goal addresses^: Extreme heat
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2050
+  - Description of metric / indicator used to track goal^: 1. Number of drills on disaster prevention and rescue run by Taoyuan City government.2. Number of dills on landslide disaster prevention on-site.3. Number of refuge shelters in Taoyuan City.4. Hierarchy of monitoring large-scale hillside communities.5. Rate of level-2 (or below) Breteau index in relation to disease-vector mosquito larvae. 6. Secondary infection rate in communities with dengue fever cases.
+  - Comment: Targets have been set for the aforementioned indicators for 2023, 2024, 2025, 2030, 2040, and 2050.
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: Yes, our jurisdiction has a climate action plan or strategy
+
+[7.1a fila 1] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Standalone mitigation plan
+  - Attachment/link and name of plan^: Taoyuan City Greenhouse Gas Control Implementation Plan(2st Stage)
+  - Confirm attachment/link provided to plan (selection mandatory): The plan has been attached
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Evaluation: Evaluation of plan takes place annually
+  - Processes for monitoring evaluation and updates of plan^: Monitoring:  Information on progress of plan is monitored and publicly reported annually
+  - Processes for monitoring evaluation and updates of plan^: Update: Updates to the plan are published annually
+  - Funding sources and financial instruments to finance plan: Private
+  - Funding sources and financial instruments to finance plan: Jurisdiction's own resources
+  - Funding sources and financial instruments to finance plan: Public-private partnerships
+  - Funding sources and financial instruments to finance plan: National funds and programmes
+  - Communities and organizations engaged^: Local government (s) and/or agencies
+  - Communities and organizations engaged^: Business and private sector
+  - Communities and organizations engaged^: Citizens
+  - Communities and organizations engaged^: Vulnerable population groups
+  - Communities and organizations engaged^: Academia
+  - Describe if and how climate-related scenarios have informed the plan: The plan has considered scenarios including Business as Usual (BAU) and the Net Zero scenario.
+  - Primary author(s) of plan^: Relevant department within jurisdiction
+  - Primary author(s) of plan^: Consultant
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses co-benefits of actions
+  - Year of formal approval of plan^: 2021
+  - End year of plan: 2025
+  - Total cost of implementation of plan (in currency specified in 0.1): 253930000
+  - Sectors covered by action plan: Construction
+  - Sectors covered by action plan: Transportation and storage
+  - Sectors covered by action plan: Accommodation and food service activities
+  - Sectors covered by action plan: Agriculture
+  - Sectors covered by action plan: Education
+  - Sectors covered by action plan: Administrative and support service activities
+  - Sectors covered by action plan: Wholesale and retail trade; repair of motor vehicles and motorcycles
+  - Sectors covered by action plan: Sewerage, wastewater management and remediation activities
+  - Sectors covered by action plan: Forestry
+  - Sectors covered by action plan: Manufacturing
+  - Sectors covered by action plan: Waste management
+  - Please explain: The Environmental Protection Agency has approved the "Phase II – Action Plan for Controlling Greenhouse Gas in Taoyuan City" on May 8, 2023. In order to track the implementation progress of each plan item, results in Phase II are collected in this appendix.
+
+[7.1a fila 2] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Standalone adaptation plan
+  - Attachment/link and name of plan^: Taoyuan City Climate Change Adaptation Implementation Programs 2023 (draft)
+  - Confirm attachment/link provided to plan (selection mandatory): The plan has been attached
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Monitoring:  Information on progress of plan is monitored and publicly reported annually
+  - Processes for monitoring evaluation and updates of plan^: Evaluation: Evaluation of plan takes place annually
+  - Processes for monitoring evaluation and updates of plan^: Update: Updates to the plan are published annually
+  - Funding sources and financial instruments to finance plan: Jurisdiction's own resources
+  - Funding sources and financial instruments to finance plan: National funds and programmes
+  - Communities and organizations engaged^: Citizens
+  - Communities and organizations engaged^: Vulnerable population groups
+  - Communities and organizations engaged^: Academia
+  - Communities and organizations engaged^: National government and/or agencies
+  - Communities and organizations engaged^: Local government (s) and/or agencies
+  - Describe if and how climate-related scenarios have informed the plan: The plan has considered scenarios including high-emissions scenario.
+  - Primary author(s) of plan^: Relevant department within jurisdiction
+  - Primary author(s) of plan^: Consultant
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses co-benefits of actions
+  - Year of formal approval of plan^: 2023
+  - End year of plan: 2026
+  - Total cost of implementation of plan (in currency specified in 0.1): 1120687000
+  - Sectors covered by action plan: Education
+  - Sectors covered by action plan: Water supply
+  - Sectors covered by action plan: Manufacturing
+  - Sectors covered by action plan: Administrative and support service activities
+  - Sectors covered by action plan: Human health and social work activities
+  - Sectors covered by action plan: Agriculture
+  - Sectors covered by action plan: Public administration and defence; compulsory social security
+  - Please explain: In 2023, the latest draft of action plan for climate change adaptation is being formulated by Taoyuan City. Relevant bureaus and departments have proposed relevant adaptation plans. This appendix is a compilation of various adaptation plans.
+
+[7.1a fila 3] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Standalone energy-related plan
+  - Attachment/link and name of plan^: Taoyuan Green Energy City Plan
+  - Confirm attachment/link provided to plan (selection mandatory): The plan has been attached
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Update: Updates to the plan are published annually
+  - Processes for monitoring evaluation and updates of plan^: Monitoring:  Information on progress of plan is monitored and publicly reported annually
+  - Processes for monitoring evaluation and updates of plan^: Evaluation: Evaluation of plan takes place annually
+  - Funding sources and financial instruments to finance plan: Jurisdiction's own resources
+  - Communities and organizations engaged^: Local government (s) and/or agencies
+  - Communities and organizations engaged^: National government and/or agencies
+  - Primary author(s) of plan^: Regional / state / provincial government
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses co-benefits of actions
+  - Year of formal approval of plan^: 2021
+  - End year of plan: 2025
+  - Total cost of implementation of plan (in currency specified in 0.1): 253546886
+  - Sectors covered by action plan: Electricity, gas, steam and air conditioning supply
+  - Please explain: The Taoyuan Green Energy City Plan aims to reduce energy poverty as one of its targets.
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: No relevant projects
+  - Project title: Question not applicable
+  - Stage of project development: Question not applicable
+  - Status of financing: Question not applicable
+  - Identified financing model: Question not applicable
+  - Project description and attach project proposal: Question not applicable
+  - Total cost of project (in currency specified in 0.1): Question not applicable
+  - Total investment cost needed if relevant (in currency specified in 0.1: Question not applicable
+
+[7.6 fila 1] Report the factors that support climate-related investment and financial planning in your jurisdiction.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction’s own funds and budgetary means
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction accesses finance from national government funds, grants etc.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction accesses finance from public-private partnerships
+  - Credit rating of jurisdiction: Jurisdiction does not have an international or domestic credit rating
+  - Decarbonising jurisdiction's investments: Do not know
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Other, please specify
+  - Action (selections mandatory)^: Other, please specify: Strengthen adaptation actions in relation to the infrastructure in facing extreme climates
+  - Climate hazard(s) that action addresses^: Mass movement
+  - Climate hazard(s) that action addresses^: Water stress
+  - Climate hazard(s) that action addresses^: Storm
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Climate hazard(s) that action addresses^: Heavy precipitation
+  - Action description and web link to further information^: The actions include the following plans:- Intelligent disaster prevention and water control systemEffectively grasp water status information, expedite early warning and judgment of disaster, integrate intelligent disaster prevention and water control system, immediately provide people with disaster mitigation and refuge, and take corresponding actions in advance, so as to play the effect of disaster prevention, disaster mitigation, and disaster reduction, in the face of global climate change and extreme weather change.- Hillside management and monitoring planMonitor hillside variations with satellites.- Governance of the whole river basin to protect the safety of the homelandGovern river drainage and wild streams, dredge river drainage and wild streams, and conserve and govern hillsides- Strengthening the flood drainage capacity of the metropolitan area and reduce flooding pointsImprove 
+  - Sectors adaptation action applies to^: Sewerage, wastewater management and remediation activities
+  - Sectors adaptation action applies to^: Electricity, gas, steam and air conditioning supply
+  - Sectors adaptation action applies to^: Construction
+  - Sectors adaptation action applies to^: Agriculture
+  - Sectors adaptation action applies to^: Transportation and storage
+  - Sectors adaptation action applies to^: Education
+  - Sectors adaptation action applies to^: Manufacturing
+  - Sectors adaptation action applies to^: Water supply
+  - Co-benefits realized^: Improved road safety
+  - Co-benefits realized^: Increased food security
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Timeframe for which increased resilience is expected to last: Long-term (after 2050)
+  - Proportion of the total jurisdiction population with increased resilie: 80-90%
+  - Proportion of natural systems with increased resilience due to adaptat: 20-30%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 1076048000
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+
+[8.1 fila 2] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Other, please specify: Actions to strengthen resilience in water supply
+  - Action (selections mandatory)^_G: Other, please specify
+  - Climate hazard(s) that action addresses^: Water stress
+  - Action description and web link to further information^: The actions include the following plans:- Enhancement of the utilization rate water rate of water conservation and water storage of buildings or basesEnhance the standard for rainwater storage facilities or spaces on public facility lands or general bases.- Increase of the utilization rate of industrial wastewater treatment and reclaimed waterDevelop guidance and publicity by the government on self-water saving in industrial zones by the government.- Measures for preparedness on drought combatingProvide guidance by the government on water saving in people's livelihood, public, commercial, and general daily activities.- Deployment of larger rainwater storage facilities on campusGuide each campus to deploy rainwater piggy banks or rainwater storage facilities for campus-related use.- Operation plan for patrolling rivers about water environmentUrge communities, schools, local conservation g
+  - Sectors adaptation action applies to^: Electricity, gas, steam and air conditioning supply
+  - Sectors adaptation action applies to^: Education
+  - Sectors adaptation action applies to^: Manufacturing
+  - Sectors adaptation action applies to^: Waste management
+  - Sectors adaptation action applies to^: Sewerage, wastewater management and remediation activities
+  - Sectors adaptation action applies to^: Water supply
+  - Sectors adaptation action applies to^: Agriculture
+  - Co-benefits realized^: Improved road safety
+  - Co-benefits realized^: Increased energy security
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Co-benefits realized^: Increased water security
+  - Co-benefits realized^: Increased food security
+  - Co-benefits realized^: Increased social inclusion, equality and justice
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Co-benefits realized^: Business/technological innovation
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 80-90%
+  - Proportion of natural systems with increased resilience due to adaptat: <10%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 15876185
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+
+[8.1 fila 3] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Other, please specify: Strengthening urban resilience through the city’s national land plan and urban plan
+  - Action (selections mandatory)^_G: Government policies and programs actions
+  - Climate hazard(s) that action addresses^: Heavy precipitation
+  - Climate hazard(s) that action addresses^: Mass movement
+  - Climate hazard(s) that action addresses^: Storm
+  - Climate hazard(s) that action addresses^: Biodiversity loss
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Climate hazard(s) that action addresses^: Water stress
+  - Action description and web link to further information^: The actions include the following plans:- Formulate the four major functional zoning maps of the city's national land planIn accordance with the provisions of the Land Law, research and develop the city's land plan, including space development and growth management plan, planning and adjustment of land functional zoning and classification, principles of land use control, departmental space development plan, climate change adaptation plan etc.- Formulation of the four major functional zoning maps of the city's national land plan Develop the city's national land plan in accordance with the provisions of the Spatial Planning Act, including contents such as space development, growth management plan, and planning/ design/ adjustment/ land control principles for the zoning and classification of national land by functions, departmental space development plans, climate change adjustment plan, et
+  - Sectors adaptation action applies to^: Electricity, gas, steam and air conditioning supply
+  - Sectors adaptation action applies to^: Wholesale and retail trade; repair of motor vehicles and motorcycles
+  - Sectors adaptation action applies to^: Agriculture
+  - Sectors adaptation action applies to^: Fishing
+  - Sectors adaptation action applies to^: Sewerage, wastewater management and remediation activities
+  - Sectors adaptation action applies to^: Waste management
+  - Sectors adaptation action applies to^: Water supply
+  - Sectors adaptation action applies to^: Manufacturing
+  - Sectors adaptation action applies to^: Conservation
+  - Sectors adaptation action applies to^: Forestry
+  - Sectors adaptation action applies to^: Construction
+  - Sectors adaptation action applies to^: Accommodation and food service activities
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Sectors adaptation action applies to^: Transportation and storage
+  - Sectors adaptation action applies to^: Real estate activities
+  - Co-benefits realized^: Protected/improved biodiversity and ecosystem services
+  - Co-benefits realized^: Reduced natural resource depletion
+  - Co-benefits realized^: Reduced disruption of energy, transport, water or communications networks
+  - Co-benefits realized^: Increased food security
+  - Co-benefits realized^: Increased/improved green space
+  - Co-benefits realized^: Increased water security
+  - Co-benefits realized^: Increased energy security
+  - Co-benefits realized^: Increased security/protection for poor/vulnerable populations
+  - Co-benefits realized^: Improved road safety
+  - Co-benefits realized^: Improved mobility and access
+  - Timeframe for which increased resilience is expected to last: Long-term (after 2050)
+  - Proportion of the total jurisdiction population with increased resilie: 90-100%
+  - Proportion of natural systems with increased resilience due to adaptat: 90-100%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 19160000
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+
+[8.1 fila 4] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Other, please specify: Action plan to improve climate risk management in agriculture
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Climate hazard(s) that action addresses^: Heavy precipitation
+  - Climate hazard(s) that action addresses^: Storm
+  - Climate hazard(s) that action addresses^: Biodiversity loss
+  - Climate hazard(s) that action addresses^: Water stress
+  - Action description and web link to further information^: The actions include the following plans:- Promote the demonstration project of farmland adjustmentPromote at least one farmland adjustment demonstration area (such as: smart agriculture, comparison of farming method transformation, etc.) by the end of 2022, with the joint efforts from central academic institutes, farmland water conservancy associations, reformed farmlands, or farmer associations, etc.- Agricultural production materials program subsidized by Taoyuan City Study and propose the Agricultural production materials program for the purpose facilitate the smooth dispatch of agricultural machinery for farmers during the busy farming season, which is to subsidize farmers to update their production facilities and processing equipment, and to purchase agricultural production machines and tools for automation, so as to reduce farmers' purchase costs, while enabling modern agricultural
+  - Sectors adaptation action applies to^: Fishing
+  - Sectors adaptation action applies to^: Agriculture
+  - Sectors adaptation action applies to^: Forestry
+  - Co-benefits realized^: Reduced natural resource depletion
+  - Co-benefits realized^: Increased labor productivity
+  - Co-benefits realized^: Protected/improved biodiversity and ecosystem services
+  - Co-benefits realized^: Increased food security
+  - Co-benefits realized^: Reduced costs
+  - Co-benefits realized^: Increased water security
+  - Co-benefits realized^: Increased/improved green space
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: I do not have this data
+  - Proportion of natural systems with increased resilience due to adaptat: I do not have this data
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 9000000
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+
+[8.1 fila 5] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Other, please specify: Action plan for strengthening medical care, health, and disaster prevention systems
+  - Action (selections mandatory)^_G: Government policies and programs actions
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Climate hazard(s) that action addresses^: Heavy precipitation
+  - Action description and web link to further information^: The actions include the following plans:- Program for eliminating breeding sources of Dengue Patrol and inspect 516 neighborhoods of the city by clinics, along with environmental cleaning inspection squadrons, chiefs of various neighborhoods, or clerks of various district offices, to remove or reduce the amount of stagnant water containers in the community, andprovide health education to users or managers of such stagnant water containers, so as to reduce the risk of dengue infection.- Network program for community epidemic prevention  Handle monitoring and prevention of post-disaster infectious diseases, conduct periodic education, training, and publicity related to infectious disease prevention, and enhance/ strength knowledge and capabilities related to infectious disease prevention and control for the city's epidemic prevention personnel and the public.
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Co-benefits realized^: Improved physical health
+  - Co-benefits realized^: Reduced health costs
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Co-benefits realized^: Reduced premature deaths
+  - Co-benefits realized^: Reduced health impacts from extreme heat or cold weather
+  - Co-benefits realized^: Improved preparedness for health service delivery
+  - Co-benefits realized^: Improved mental wellbeing/quality of life
+  - Timeframe for which increased resilience is expected to last: Long-term (after 2050)
+  - Proportion of the total jurisdiction population with increased resilie: 90-100%
+  - Proportion of natural systems with increased resilience due to adaptat: <10%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 460000
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+
+[8.1 fila 6] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Educational/Informational actions
+  - Action (selections mandatory)^: Other, please specify: Action plan for building adaptive capacity
+  - Climate hazard(s) that action addresses^: Biodiversity loss
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Climate hazard(s) that action addresses^: Storm
+  - Climate hazard(s) that action addresses^: Water stress
+  - Climate hazard(s) that action addresses^: Heavy precipitation
+  - Climate hazard(s) that action addresses^: Mass movement
+  - Action description and web link to further information^: The actions include the following plans:- Incorporate climate change knowledge into the curriculum planning for the12-year national compulsory education.In view of the historical extreme events in Taoyuan City and the impact of future climate change, Explain the impact and influence of high temperature, flood, drought, etc. on Taoyuan City, in view of historical extreme incidents in Taoyuan City and the impact of future climate change, and incorporate such impacts and influences into the curriculum planning for the12-year national compulsory education- Plan for implementing disaster prevention educational seminars in various zoning areas of Taoyuan City  Organize teachers' disaster prevention education and empowerment seminars, invite external experts to promote the concept of disaster prevention, and invite schools with excellent disaster prevention performance to share their experience
+  - Sectors adaptation action applies to^: Education
+  - Co-benefits realized^: Reduced costs
+  - Co-benefits realized^: Increased security/protection for poor/vulnerable populations
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: I do not have this data
+  - Proportion of natural systems with increased resilience due to adaptat: <10%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 142600
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+
+[8.1 fila 7] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Ecological restoration (including wetland and floodplain conservation and restoration)
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Climate hazard(s) that action addresses^: Biodiversity loss
+  - Action description and web link to further information^: The actions include the following plans:The coastline of Taoyuan City measures 46 kilometers and harbours biodiverse ecosystems.  In 2014  the Ministry of the Interior of Taiwan designated the 'Xucuogang Important Wetland' in Taoyuan City. Since the city government was entrusted to maintain the wetland, the team in charge had found that due to silting at the estuaries and illegal fishing activities, the biodiversity of the wetland had been deteriorating. The city government had started restoration and investigation of the wetland. After several years of efforts, 86 kinds of birds, 8,393 in numbers, had been found by 2021 in  'Xucuogang Important Wetland'.
+  - Sectors adaptation action applies to^: Other, please specify: Conservation
+  - Co-benefits realized^: Protected/improved biodiversity and ecosystem services
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: I do not have this data
+  - Proportion of natural systems with increased resilience due to adaptat: I do not have this data
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 40000000
+  - Does this action contribute to your jurisdiction’s energy access and/o: No

@@ -1,0 +1,551 @@
+# CDP Cities 2023 - Amdavad Municipal Corporation (Ahmedabad) (org 46263) https://www.cdp.net/en/responses/46263
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: City/Municipality
+  - Next highest level of government: State/regional
+  - Next lowest level of government: No lower level of government
+  - Land area of the jurisdiction boundary (in square km)^: 481
+  - Percentage range of land area that is green space: 5-10%
+  - Current (or most recent) population size^: 7181773
+  - Population year^: 2021
+  - Projected population size: 13369598
+  - Projected population year: 2050
+  - Select the currency used for all financial information reported throug: INR Indian Rupee
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking budgeting and/or major capital expenditures
+  - Provide further details on your jurisdiction's oversight of climate-re: Ahmedabad Climate Resilient City Action Plan (Towards A Net Zero Future by 2070) is prepared through intense stakeholder consultation  and launched by the city in June 2023.  This action plan includes GPC compliant GHG emissions inventory, ward and area level vulnerability and risk assessment, scenario planning based on various National and State Government targets. City is considering  sector wise climate change mitigation and adaptation interventions/ actions/ projects  during Annual Municipal Budget Planning every year, which is being approved by city council (Ahmedabad Municipal Corporation General Board).  City has constituted Climate Core Team, chaired by Municipal Commissioner and  includes head of various departments. Climate Core Team meets every quarter to discuss climate resilient interventions and monitoring implementation status. Information and updates from Climate Core Tea
+  - Describe how climate-related issues have impacted your jurisdiction's : Ahmedabad Development Plan for 2031(prepared in 2021) is emphasizing on 1) densification of existing areas for optimum resource utilization, 2) enhance the skyline through additional FSIs in central business districts, 3) densification along transit corridors through transit-oriented zone (200m on both sides of metro and BRTS transit corridor, eastern high-density corridor between Narol-Naroda highway (NH8) and 132 feet road on eastern side of the city), 5) development of growth centres around the city and providing logistic zones etc. This planning will help Ahmedabad to manage future growth, regulate density and organize land use within the urban area, which will not only help to provide effective and efficient urban services but also conserve natural resources, save energy, and mitigate GHG emissions. Ahmedabad Development Plan for 2031 also emphasizes on blue green infrastructure man
+  - Describe how climate-related issues have impacted your jurisdiction's : Based on Ahmedabad Climate Resilient City Action Plan (Towards A Net Zero Future by 2070) and climate related issues, city has proposed various climate resilient interventions, which has increased capital allocation of Annual Municipal Budget (i.e., lake interlinking, replacing old water supply and sewerage network, 7MW of RE plants, developing urban forests to increase in green cover, biomining of legacy waste etc.). By implementing climate resilient interventions (i.e., 21MW of RE installed for municipal facilities, replacement of streetlights with EE LED lights) has reduced the operating costs and increased revenue. Also, city has proposed some of the projects based on PPP model for accessing climate finance (i.e., 2000 TPD waste to energy plant, 500 TPD waste to bio-CNG plant etc.). City is in progress for releasing Green Bonds under Government of India's AMRUT 2.0 Scheme. City is al
+  - Describe the risks to your jurisdiction related to the transition to a: Ahmedabad is on track for its transition to a low carbon economy. City has not faced any risks in  moving forward with this transition. Technical capacity of the city is limited for accessing climate finance, particularly for tapping international finance.
+
+[0.4 fila 1] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate action plan
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Outline the purpose of this engagement: To facilitate information sharing across different levels of government
+  - Outline the purpose of this engagement: Progress tracking and/or updates associated with this component are shared with a higher-level of government (e.g., via a digital platform)
+  - Outline the purpose of this engagement: To collect data and/or feedback from other levels of government to inform its development
+  - Comment: Ahmedabad Climate Resilient City Action Plan (Towards A Net Zero Future) is prepared inline with Gujarat State Action Plan on Climate Change (2021)  and Ahmedabad District Disaster Management Plan  2020.  Also, climate actions proposed by the city are being implemented through Municipal Corporation's own budget as well as under various state and national government schemes/ policies/ programs.    Please refer below sections from Ahmedabad Climate Resilient City Action Plan (Towards A Net Zero Future).1) Chapter 4 (section 4.2 and 4.3) for information on climate  consideration in line with  Gujarat State Action Plan on Climate Change (2021)  and Ahmedabad District Disaster Management Plan  2020.2) Chapter  7 (Section 7.3.1.1, 7.3.1.2, 7.3.2.1, 7.3.3.1, 7.3.3.2, 7.3.4.1, 7.3.4.2, 7.3.5.1, 7.3.6.1, 7.3.6.2, 7.3.7.1, 7.3.7.2, 7.3.8.1)  for information on sector wise climate actions and benef
+
+[0.5 fila 1] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Business
+  - Primary entity collaborated with (selection mandatory): Waste
+  - Mechanisms used to collaborate: Project delivery - Build Operate Own Transfer
+  - Mechanisms used to collaborate: Project delivery - Public Private Partnership
+  - Mechanisms used to collaborate: Circular economy business model support
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Financing (investment)
+  - Areas collaboration focused on: Inclusive climate action and/or equity
+  - Areas collaboration focused on: Resilience
+  - Areas collaboration focused on: Finance
+  - Areas collaboration focused on: Adaptation
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Public health
+  - Areas collaboration focused on: Waste
+  - Description of collaboration: City has collaborated with various private players for effective solid waste treatment based on public private partnership (PPP). 1. Waste to energy plants are proposed at two locations (total 2000 TPD capacity - 1000 TPD capacity each) based on PPP model.  This action will not only reduce waste going to landfill but also generates total 25MW per year RE and reduces 0.6 million tCO2e GHG emission. Work approval for 1000 TPD waste to energy plant by Abbelon  is  attached. 2. 1000 TPD C&D waste recycling plant is operational and 1000 TPD C&D waste recycling plant is proposed based on PPP model. 2.5% of the total recycled products sold is being received as a royalty by the Ahmedabad Municipal Corporation. AMC is using 50% of the recycled C&D waste products.  Work order to AEPPL for 1000 TPD C&D waste treatment plant  (in local language) is attached.  3. 500 TPD waste to bioCNG plant and 200
+  - Other entities collaborated with: Other, please specify: Private Players
+
+[0.5 fila 2] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Business
+  - Primary entity collaborated with (selection mandatory): Waste
+  - Mechanisms used to collaborate: Economic development
+  - Mechanisms used to collaborate: Project delivery - Public Private Partnership
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Mechanisms used to collaborate: Financing (investment)
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Project delivery - Build Operate Own Transfer
+  - Mechanisms used to collaborate: Cleaner production industry support
+  - Mechanisms used to collaborate: Circular economy business model support
+  - Areas collaboration focused on: Inclusive climate action and/or equity
+  - Areas collaboration focused on: Resilience
+  - Areas collaboration focused on: Industry
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Finance
+  - Areas collaboration focused on: Other, please specify: Wastewater
+  - Areas collaboration focused on: Public health
+  - Areas collaboration focused on: Adaptation
+  - Description of collaboration: City has implemented biogas bottling plant (based on pressure swing adsorption technology), which generated around 10,000 m3 biogas. This biogas is further treated by private party and sold it to industries (replacing PNG consumption in industries). Information on biogas generation and bottling for industrial usage from Pirana STP  is attached.
+  - Other entities collaborated with: Other, please specify: Private Player
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: Yes, a climate risk and vulnerability assessment has been undertaken
+
+[1.1a fila 1] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: Ahmedabad Climate Resilient City Action Plan_Towards A Net Zero Future 2070
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2023
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: A process has been established to update the assessment at least every five years
+  - Factors considered in assessment: Assessment includes consultation with partners
+  - Factors considered in assessment: Assessment includes a high-emissions scenario (i.e., RCP 8.5)
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Assessment considers transition risks
+  - Factors considered in assessment: Assessment includes sectors and/or urban systems
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Primary author(s) of assessment^: International organization
+  - Please explain: According to the Intergovernmental Panel on Climate Change (IPCC), risks of climate-related impacts result from the interaction of climate related hazards, vulnerability, and exposure of human and natural systems. Climate Risk and Vulnerability Assessment for Ahmedabad includes the analysis of risks and vulnerability of urban systems and population of Ahmedabad city due to climate hazards and air pollution. This baseline assessment supported city to adopt climate sensitive urban planning, effectively manage climate change induced risks, and efficiently implement climate resilient policies and interventions.The Climate Risk and Vulnerability Assessment (CRVA) follows ICLEI South Asia’s ‘Towards Net Zero ClimateResilientCITIES’ methodology. Climate Risk and Vulnerability Assessment for Ahmedabad is divided into three parts that address; i) analysis of climate trends and projection scenario
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Extreme heat
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Other, please specify: Pedestrians, Cyclists, People using two wheelers
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Waste management
+  - Describe the impacts on vulnerable populations and sectors^: The assessment involved analysing indicators like air temperature trends and future scenarios, land surface temperature (LST), heat index analysis, and heat wave trends. Air temperature trends were studied using IMD data. LST was assessed using satellite imagery. Heat index and heat wave trends were analysed using AMC data. The LST Analysis varies depending on land use, infrastructure, and human activities. It varies between 29°C to 47°C during day and 26°C to 29°C during night, indicating potential hotspots.Heat Index Analysis (feels-like temperature) is a combination of air temperature and humidity. It was plotted, indicating potential risk areas with a ‘feels-like’ temperature of more than 43°C. The analysis revealed an increasing trend year on year.Ahmedabad has seen increased heat wave events with significant health impacts. A correlation exists between heat wave events and heatstro
+  - Proportion of the population exposed to the hazard: 70-80%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.2 fila 2] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Urban flooding
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Vulnerable population groups most exposed: Frontline workers
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Other, please specify: Pedestrians, Cyclists, People using two wheelers
+  - Sectors most exposed^: Waste management
+  - Sectors most exposed^: Manufacturing
+  - Describe the impacts on vulnerable populations and sectors^: Rise in extreme rainfall events and insufficient stormwater drainage leads to urban flooding. Vulnerable populations, such as the urban poor, are the most impacted due to poor living conditions and limited resources. The flood risk is assessed by analysing rainfall trends, spatial analysis of waterlogged areas, and ward-level analysis of water-borne diseases, revealing areas most affected by flooding. Issues such as heavy siltation in stormwater drains and improper waste and sewage disposal exacerbate flooding, impacting health, mobility, and economic productivity.Some of the areas severely affected by waterlogging include Naranpura, India Colony, Indrapuri, Khokhra, Thakkarbapa Nagar, Isanpur, Bodakdev, Paldi, Maninagar, Vasna, S P Stadium, Saraspur, and Vatva. The city is experiencing a rise in urban flooding hazards due to intense rainfall occurrences. Residents within a 250 m radius 
+  - Proportion of the population exposed to the hazard: <10%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.2 fila 3] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Other, please specify: Air Pollution
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Other, please specify: Pedestrians, Cyclists, People using two wheelers
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Children and youth
+  - Sectors most exposed^: Construction
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Human health and social work activities
+  - Describe the impacts on vulnerable populations and sectors^: Air Pollution: Air pollution risk is assessed by examining trends of primary air pollutants, spatial analysis of pollution in the city, and incidence of acute respiratory illness (ARI). The most concerning pollutants are PM10 and PM2.5, with the latter posing a significant health risk. High PM10 concentration (almost double the standard of 60 μg/m3) and high PM2.5 concentration (more than 40 μg/m3) may severely impact the health of people. Exceedances are observed on 52% of all monitored days.Areas with high PM10 concentration include Raikhad, Maninagar, Narol, Vatva GIDC, Sola, and Naroda, while regions with high PM2.5 concentration include Pirana, Raikhad, Bopal, S P Stadium, Vatva GIDC, and Airport. The increase in air pollution can severely impact health, especially for those with co-morbid conditions. Ahmedabad recorded 2,037 air-borne disease cases (852 ARI and 1,185 tuberculosis) 
+  - Proportion of the population exposed to the hazard: 50-60%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: Medium High
+  - Expected future change in hazard intensity^: Do not know
+  - Expected future change in hazard frequency^: Do not know
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Access to quality / relevant data
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Somewhat challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Availability of high quality  data  for vulnerability and risk  analysis is the challenge. Though city has started addressing this challenge.
+
+[1.3 fila 2] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Budgetary capacity
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Total INR 59,550 million (63% of total approved budget of INR 94,820 million) are sanctioned for climate actions in Municipal Budget for FY 2023-24.
+
+[1.3 fila 3] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Informal activities
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Total 62,101 informal road side street vendors are challenge leading to encroachment and traffic related issues.
+
+[1.3 fila 4] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Resource availability
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Availability of technical and financial resources is challenge for speedy implementation of climate actions.
+
+[1.3 fila 5] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Political engagement / transparency
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: City is receiving significant support from state and national government under various policies/ programs/ schemes.
+
+[3.8 fila 1] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: Health systems
+  - Identify the climate hazard(s) that most significantly impact the sele: Urban flooding
+  - Identify the climate hazard(s) that most significantly impact the sele: Extreme heat
+  - Identify the health issues driven by the selected climate hazard(s): Water-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Vector-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Food-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Heat-related illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Exacerbation of non-communicable disease symptoms - respiratory disease
+  - Timeframe of impact: Short-term (by 2025)
+  - Identify which vulnerable populations are affected by the selected hea: Low-income households
+  - Identify which vulnerable populations are affected by the selected hea: Outdoor workers
+  - Identify which vulnerable populations are affected by the selected hea: Frontline workers
+  - Identify which vulnerable populations are affected by the selected hea: Elderly
+  - Identify which vulnerable populations are affected by the selected hea: Women and girls
+  - Identify which vulnerable populations are affected by the selected hea: Other, please specify: People with special need
+  - Identify which vulnerable populations are affected by the selected hea: Children and youth
+  - Identify which vulnerable populations are affected by the selected hea: Vulnerable health groups
+  - What factors affect your jurisdiction’s ability to address the selecte: No factors affect the jurisdiction’s ability to address health issues
+  - Comment: Accessibility to health care infrastructure is essential to improve living standards and reduce vulnerability to climate and other disasters. Slum dwellers and people with special needs, with limited access to emergency service infrastructure, public transport, and green spaces, are more vulnerable to extreme climate events.Accessibility to health care services has been examined spatially, in line with the Urban and Regional Development Plan Formulation and Implementation (URDPFI) guidelines and the Development Plan of Ahmedabad.Hospitals are marked spatially and correlated with urban flood risk areas to identify critical areas with limited accessibility due to water logging/ urban flood. 651 out of 2,080 hospitals are affected due to urban flood. In areas such as Maninagar, at least 19 hospitals are affected.Ahmedabad has 2,080 hospitals with a capacity of 34,432 beds (5 beds per 1000 p
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Data availability: Data is available for the average household water consumption in litres per capita per day
+  - Data availability: Data is available for the percentage of households with access to safely managed drinking water services
+  - Data availability: Data is available for the percentage of households with access to safely managed sanitation services
+  - Percentage of households with access to safely managed drinking water : 100
+  - Percentage of households with access to safely managed sanitation serv: 95
+  - Household water consumption (litres/capita/day): 170
+
+[3.13 fila 1] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Fresh surface water, including rainwater, water from wetlands, rivers and lakes
+  - Are you able to report volumetric data for this source?: Yes
+  - Annual volume of water withdrawn per source (in megalitres) : 551880
+  - Projected level of change over next 5-10 years: Higher volume projected to be withdrawn
+  - Comment: Total 5,84,401 megalitres water will be withdrawn by 2030.
+
+[3.13 fila 2] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Ground water (non-renewable)
+  - Are you able to report volumetric data for this source?: Yes
+  - Annual volume of water withdrawn per source (in megalitres) : 61320
+  - Projected level of change over next 5-10 years: Higher volume projected to be withdrawn
+  - Comment: Total 64,933 megalitres water will be withdrawn by 2030 from ground water resources.
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: Yes, our jurisdiction has an adaptation goal(s)
+
+[4.1a fila 1] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 1
+  - Adaptation goal^: Transition to a heat resilient and sustainable energy city
+  - Climate hazards that goal addresses^: Heat stress
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Loss of green space/green cover
+  - Climate hazards that goal addresses^: Other forms of climate-induced landscape shift/degradation
+  - Climate hazards that goal addresses^: Other, please specify
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Base year of goal (or year goal was established if no base year)^: 2023
+  - Target year of goal^: 2070
+  - Description of metric / indicator used to track goal^: Below mentioned key performance indicators will be used by the city to track this goal.1)Increase in number of slum households with cool roof2)Increase in number of buildings with cool roof3)Total number of trainings and workshops conducted annually4)Total number of attendees and their diversity5)Count of awareness activities conducted through different modes6)Increase in percentage of green building with respect to the total building constructed  7)Increase in formal street vending zones in the city8)Increase in percentage of street vending zones with cooling strategies and its type9)Revised incentives in GDCR to promote green buildings10)Total number of buildings opting for green building pre-certification and green building rating certification11)Awareness activities (social and print media)12)Increase in number of vertical and roof top gardens (number and area in sq.m)13)Decrease in 
+  - Comment: It is proposed to achieve this goal by implementing below mentioned strategy Strategy 1: Promote green building concepts to mitigate urban heat riskRefer section 7.3.1 (page no. 214 to 231) of Ahmedabad Climate Resilient City Action Plan - Towards A Net Zero Future by 2070.
+
+[4.1a fila 2] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 2
+  - Adaptation goal^: Enhance water resilience
+  - Climate hazards that goal addresses^: Loss of green space/green cover
+  - Climate hazards that goal addresses^: Heat stress
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Increased water demand
+  - Climate hazards that goal addresses^: Other forms of climate-induced landscape shift/degradation
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Climate hazards that goal addresses^: Other, please specify: Health hazards
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: River flooding
+  - Climate hazards that goal addresses^: Soil degradation/erosion
+  - Climate hazards that goal addresses^: Urban flooding
+  - Base year of goal (or year goal was established if no base year)^: 2023
+  - Target year of goal^: 2070
+  - Description of metric / indicator used to track goal^: Below mentioned key performance indicators will be used by the city to track this goal.1)Local water resource and ground water recharge action plan prepared and under implementation2)Socially acceptable water meter policy prepared 3)Increased length of DI pipeline network4)Increased total number of HHs with 24 x 7 water supply5)Treated wastewater reuse and recycling policy prepared and implemented6)Increased awareness to maximise reuse of treated wastewater and limiting ground water extraction (total number of awareness programs)7)Increased number of industries and commercial consumers reusing treated wastewater8)Water storage barrage of 12,000 ML capacity constructed9)Capacity of water treatment plant against total water demand (100Percentage treated water supply10)Water supply zones demarcated 11)NRW study conducted and being updated every 5 years 12)Percentage of water distribution ne
+  - Comment: It is proposed to achieve this goal by implementing below mentioned strategy Strategy 1: Reform policy and regulatory frameworks for water resilienceStrategy 2: Provide efficient supply and equitable access to quality waterStrategy 3: Protect and revitalize urban lakesStrategy 4: Ecological restoration of Sabarmati riverfrontRefer section 7.3.3 (page no. 244 to 259) of Ahmedabad Climate Resilient City Action Plan - Towards A Net Zero Future by 2070.
+
+[4.1a fila 3] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 3
+  - Adaptation goal^: Promoting a circular economy through 100% wastewater treatment and reuse
+  - Climate hazards that goal addresses^: Loss of green space/green cover
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: Other, please specify: Health hazards
+  - Climate hazards that goal addresses^: Increased water demand
+  - Base year of goal (or year goal was established if no base year)^: 2023
+  - Target year of goal^: 2070
+  - Description of metric / indicator used to track goal^: Below mentioned key performance indicators will be used by the city to track this goal.1)Holistic Action Plan for wastewater recycling and reuse is prepared and implemented2)Percentage of old sewerage network replaced with new network3)Percentage efficacy of STP increased 4)Improved STP utilisation capacity5)Capacity of anaerobic treatment increased6)Increased quantity and quality of biogas captured and sold annually7)Revenue generated per year8)Increase in installed capacity of tertiary treatment plants9)Quantity of tertiary treated water reused (by consumer type and purpose)10)Progressively updating regulations for big residential properties, complexes and social housing11)Increased total number of buildings with decentralised wastewater treatment and dual plumbing (including capacity of DeWATs)12)Faecal sludge management action plan prepared and implemented13)Total number of STPs with
+  - Comment: It is proposed to achieve this goal by implementing below mentioned strategy Strategy 1: 100percentage efficient sewage collection and treatmentStrategy 2: Achieve 100percentage sludge and septage managementRefer section 7.3.4 (page no. 260 to 274) of Ahmedabad Climate Resilient City Action Plan - Towards A Net Zero Future by 2070.
+
+[4.1a fila 4] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 4
+  - Adaptation goal^: Enhance urban flood resilience
+  - Climate hazards that goal addresses^: Loss of green space/green cover
+  - Climate hazards that goal addresses^: River flooding
+  - Climate hazards that goal addresses^: Soil degradation/erosion
+  - Climate hazards that goal addresses^: Other, please specify: Health hazards
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Climate hazards that goal addresses^: Urban flooding
+  - Base year of goal (or year goal was established if no base year)^: 2023
+  - Target year of goal^: 2070
+  - Description of metric / indicator used to track goal^: Below mentioned key performance indicators will be used by the city to track this goal.1)Watershed assessment and water resource conservation and augmentation plan prepared and implemented 2)Kharicut and Gota Godhavi canal rejuvenated 3)Percentage of total number of natural drains rejuvenated in the city4)Length of road covered with bioswales/hybrid ditches5)Monitoring impact of bioswales/ hybrid ditches (flood impact mitigation, increased water retention time, approx. shallow water recharged)6)Length of road covered with tree box filters (including total number of tree box filters) and permeable pavement on footpaths (including approx. increase in permeable area)7)Total number of water plazas developed (with area and type of interventions)8)Number of percolating wells constructed9)Increase in storm water network coverage10)Increase in number of culverts and outfalls11)Number of flood se
+  - Comment: It is proposed to achieve this goal by implementing below mentioned strategy Strategy 1: Adopt green city planning approaches to minimize runoff and urban floodingStrategy 2: Improve storm water management and rehabilitate natural drainsRefer section 7.3.5 (page no. 276 to 283) of Ahmedabad Climate Resilient City Action Plan - Towards A Net Zero Future by 2070.
+
+[4.1a fila 5] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 5
+  - Adaptation goal^: Transition to a zero waste city
+  - Climate hazards that goal addresses^: Loss of green space/green cover
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: Other, please specify: Health hazards
+  - Climate hazards that goal addresses^: Extreme heat
+  - Base year of goal (or year goal was established if no base year)^: 2023
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Below mentioned key performance indicators will be used by the city to track this goal.1)Awareness activities (total number of awareness campaign, social media campaign, print media campaign) 2)Reduced quantity of waste generated per capita3)Increased percentage of segregated waste collection from source 4)Quantity of segregated waste collection (by type) 5)Reduced littering on road6)Regularity of site visits and penalties collected for littering7)Increased number of waste collection centers (C&D waste, e-waste, dry and recyclable waste)8)Quantity of waste collected from collection centers (by type)9)Incentives provided to utilize waste collection centers10)Quantity and quality of plastic waste generated (by type)11)Increased quantity of plastic waste recovered and recycled (by type)12)Increased number of automated MRF and total plastic waste sold to recyclers (by type) 13)Increased capa
+  - Comment: It is proposed to achieve this goal by implementing below mentioned strategy Strategy 1: Minimize solid waste generation and maximize reuse and recyclingRefer section 7.3.6 (page no. 284 to 293) of Ahmedabad Climate Resilient City Action Plan - Towards A Net Zero Future by 2070.
+
+[4.1a fila 6] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 6
+  - Adaptation goal^: Enhance blue-green infrastructure for climate resilience
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: River flooding
+  - Climate hazards that goal addresses^: Heat stress
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Climate hazards that goal addresses^: Loss of green space/green cover
+  - Climate hazards that goal addresses^: Soil degradation/erosion
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Base year of goal (or year goal was established if no base year)^: 2023
+  - Target year of goal^: 2070
+  - Description of metric / indicator used to track goal^: Below mentioned key performance indicators will be used by the city to track this goal.1)Local Biodiversity Strategies and Action Plan prepared2)Total number of trees planted per year (by type, focusing on native tree species)3)Total numbers and area of dense urban forest developed annually4)5% of total TP scheme area allocated for green space5)Implemented green area development in critical locations based on VA and RA6)Number of park/ green avenue developed in the heat and flood risk areas annually (including total area by intervention type)7)Total number of beneficiaries registered per year under GYB scheme and total incentives provided for installation of green roofs and walls8)Number of green roofs/walls installed in public and residential spaces (with approx. area) 9)Total number of awareness campaigns initiated10)Analysis conducted to identify degraded natural wilderness sites for 
+  - Comment: It is proposed to achieve this goal by implementing below mentioned strategy Strategy 1: Increase urban green cover using native plantationStrategy 2: Develop microhabitats for local biodiversity managementRefer section 7.3.7 (page no. 294 to 303) of Ahmedabad Climate Resilient City Action Plan - Towards A Net Zero Future by 2070.
+
+[4.1a fila 7] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 7
+  - Adaptation goal^: Enhance livability by achieving national clean air program targets
+  - Climate hazards that goal addresses^: Other, please specify: Air pollution and related health hazards
+  - Base year of goal (or year goal was established if no base year)^: 2023
+  - Target year of goal^: 2026
+  - Description of metric / indicator used to track goal^: Below mentioned key performance indicators will be used by the city to track this goal.1)Total number of PUC checking drive conducted (number of vehicles penalized out of total monitored vehicles) 2)Total number of fuel alteration drive conducted (total number of vehicles and suppliers penalized out of total vehicles and suppliers checked)3)Locations for scraping yards allocated 4)Total number of mechanized scrapping yards constructed5)Awareness activities for various benefits (total number of awareness campaign)6)Increase in total number of vehicles scrapped and incentives received by beneficiaries 7)Total number of cleaner fuel vehicles registered against scraping8)Good construction practices policy prepared and implemented9)Total number of sites penalized against total number of sites checked per year10)Total number of industries installed electrostatic precipitators 11)Awareness acti
+  - Comment: It is proposed to achieve this goal by implementing below mentioned strategy Strategy 1: Adopt measures to reduce vehicular air pollutionStrategy 2: Manage construction activities and debrisStrategy 3: Reduce air pollution from industrial activitiesRefer section 7.3.8 (page no. 304 to 311) of Ahmedabad Climate Resilient City Action Plan - Towards A Net Zero Future by 2070.
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: Yes, our jurisdiction has a climate action plan or strategy
+
+[7.1a fila 1] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Integrated climate plan (addressing mitigation, adaptation and energy-related issues)
+  - Attachment/link and name of plan^: Ahmedabad Climate Resilient City Action Plan (Towards A Net Zero Future 2070)
+  - Confirm attachment/link provided to plan (selection mandatory): The plan has been attached
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Update: Updates to the plan are published at least every 5 years
+  - Processes for monitoring evaluation and updates of plan^: Evaluation: Evaluation of plan takes place annually
+  - Processes for monitoring evaluation and updates of plan^: Monitoring:  Information on progress of plan is monitored and publicly reported at least every 3 years
+  - Funding sources and financial instruments to finance plan: Public-private partnerships
+  - Funding sources and financial instruments to finance plan: Private partnerships (e.g., a combination of private investments)
+  - Funding sources and financial instruments to finance plan: Jurisdiction's own resources
+  - Funding sources and financial instruments to finance plan: Regional funds and programmes
+  - Funding sources and financial instruments to finance plan: Climate finance (carbon credits)
+  - Funding sources and financial instruments to finance plan: National funds and programmes
+  - Communities and organizations engaged^: Local government (s) and/or agencies
+  - Communities and organizations engaged^: National government and/or agencies
+  - Communities and organizations engaged^: Academia
+  - Communities and organizations engaged^: Citizens
+  - Communities and organizations engaged^: Business and private sector
+  - Communities and organizations engaged^: State/regional government(s) and/or agencies
+  - Communities and organizations engaged^: Vulnerable population groups
+  - Describe if and how climate-related scenarios have informed the plan: The Gujarat SAPCC (2021) includes climate projections from three RCP scenarios, RCP 2.6, RCP 4.5 and RCP 8.5, which reflect high, medium and low efforts to curb emissions, respectively. These scenarios are modelled for short term (2011 to 2040), midterm (2041 to 2070) and long term (2071 to 2100) periods. Given that the target year for the Net Zero Climate Resilient City Action Plan for Ahmedabad is 2070, climate scenarios for the short term and midterm are considered for further analysis. Details of climate projections derived from SAPCC (Gujarat 2021) are shown in Annexure 4.1 and reflected in section 4.2.2.1. Please refer Annexures_ Ahmedabad Climate Resilient City Action Plan_Towards A Net Zero Future 2070.
+  - Primary author(s) of plan^: Relevant department within jurisdiction
+  - Primary author(s) of plan^: Dedicated team within jurisdiction
+  - Primary author(s) of plan^: International organization
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses co-benefits of actions
+  - Year of formal approval of plan^: 2023
+  - End year of plan: 2070
+  - Total cost of implementation of plan (in currency specified in 0.1): 4406608000000
+  - Sectors covered by action plan: Forestry
+  - Sectors covered by action plan: Education
+  - Sectors covered by action plan: Human health and social work activities
+  - Sectors covered by action plan: Water supply
+  - Sectors covered by action plan: Manufacturing
+  - Sectors covered by action plan: Sewerage, wastewater management and remediation activities
+  - Sectors covered by action plan: Electricity, gas, steam and air conditioning supply
+  - Sectors covered by action plan: Administrative and support service activities
+  - Sectors covered by action plan: Information and communication
+  - Sectors covered by action plan: Professional, scientific and technical activities
+  - Sectors covered by action plan: Transportation and storage
+  - Sectors covered by action plan: Waste management
+  - Sectors covered by action plan: Real estate activities
+  - Sectors covered by action plan: Construction
+  - Sectors covered by action plan: Conservation
+  - Please explain: AMC used the ‘Net Zero ClimateResilientCITIES’ methodology to develop its climate action plan to achieve net zero emissions by 2070. This methodology includes a multi-stakeholder approach that involves assessing climate vulnerabilities, estimating GHG emissions, proposing climate resilient interventions that address adaptation and mitigation, and developing frameworks for financing, implementing, monitoring and reporting climate actions. By incorporating expertise and experience from initiatives led by ICLEI – Local Governments for Sustainability, the plan benefits from a wealth of knowledge and best practices in climate planning and action. This methodology provided a step-wise approach to address climate change adaptation and mitigation. Its nine steps are organised into three phases: Analyse, Act, and Accelerate. Ahmedabad embarked on a climate-resilient journey through this ninestep 
+
+[7.2 fila 1] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Heat emergency
+  - Attachment/ link and name of plan: Ahmedabad Heat Action Plan 2019
+  - Current status of plan: In implementation
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2019
+  - End of year plan: 2023
+  - Comment: Heat Action Plan of Ahmedabad is being updated by Ahmedabad.
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Waste management (including waste recycling)
+  - Project title: Gujarat Resilient Cities Program (GRCP)
+  - Stage of project development: Transaction preparation
+  - Status of financing: Project partially funded and seeking additional funding
+  - Identified financing model: Loans from International Financial Institutions
+  - Project description and attach project proposal: Gujarat Resilient Cities Program (GRCP) is supported by the World Bank. Ahmedabad is part of this project and expected to receive INR 30,00,00,00,000, and approved. DPR prepared under this project is attached herewith for reference.
+  - Total cost of project (in currency specified in 0.1): 30000000000
+
+[7.6 fila 1] Report the factors that support climate-related investment and financial planning in your jurisdiction.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction borrows from national government
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction issues municipal bonds
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction’s own funds and budgetary means
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction accesses finance from national government funds, grants etc.
+  - Credit rating of jurisdiction: Jurisdiction has a domestic credit rating
+  - Comment: Ahmedabad Municipal Corporation has AA+ SO domestic credit rating.
+  - Decarbonising jurisdiction's investments: Jurisdiction has taken steps to decarbonise municipal investments
+  - Decarbonising jurisdiction's investments: Jurisdiction has taken steps to decarbonise other investments
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Action (selections mandatory)^: Upgrading existing water supply infrastructure
+  - Climate hazard(s) that action addresses^: Other, please specify: Water security
+  - Action description and web link to further information^: 1) Proposed 400 MLD water treatment plant at Kotarpur and 200 MLD water treatment plant at Jaspur in FY 2023-242) Upgradation of water supply lines in critical zones and wards to improve water pressure and reduce NRW in prioritised wards, i.e., India colony, Saraspur, Rakhial, Amraiwadi, odhav, Vastral, Virat nagar, Ramol Hathijan3) 24X7 water supply in western and east zone. AMC has targeted to reduce 15% NRW through this intervention. 4) Installation of 200 sensors in water distribution network to identify NRW (East zone).These actions are part of Ahmedabad Climate Resilient City Action Plan (Towards A Net Zero Future), which is attached in previous section.
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Sectors adaptation action applies to^: Other, please specify: water security
+  - Sectors adaptation action applies to^: Information and communication
+  - Sectors adaptation action applies to^: Water supply
+  - Sectors adaptation action applies to^: Conservation
+  - Co-benefits realized^: Improved water/soil quality
+  - Co-benefits realized^: Improved physical health
+  - Co-benefits realized^: Increased labor productivity
+  - Co-benefits realized^: Increased economic production
+  - Co-benefits realized^: Reduced health costs
+  - Co-benefits realized^: Increased water security
+  - Co-benefits realized^: Reduced disruption of energy, transport, water or communications networks
+  - Co-benefits realized^: Reduced GHG emissions
+  - Co-benefits realized^: Improved labor conditions
+  - Co-benefits realized^: Revenue generation
+  - Co-benefits realized^: Increased social inclusion, equality and justice
+  - Co-benefits realized^: Increased security/protection for poor/vulnerable populations
+  - Co-benefits realized^: Reduced costs
+  - Co-benefits realized^: Increased transparency and accountability
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 30-40%
+  - Proportion of natural systems with increased resilience due to adaptat: 10-20%
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): National funds and programmes
+  - Funding source(s): Regional funds and programmes
+  - Status of action in the reporting year^: Feasibility finalized, and finance fully secured
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 16320000000
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+
+[8.1 fila 2] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Water storage and pump storage
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Climate hazard(s) that action addresses^: Extreme heat
+  - Climate hazard(s) that action addresses^: Other, please specify: Water security
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Action description and web link to further information^: 1) Total 122 lakes in the city are degraded. 22 lakes were taken up for rejuvenation under the National Plan for Conservation of Aquatic Ecosystems (NPCA).  Ahmedabad has proposed to rejuvenate 44 lakes until 2030. Ahmedabad has proposed to rejuvenate 10 lakes (priority locations: Thaltej, Vanarvat, Chandola, Vastrapur, Makarba, Asarva, Ramol Vadu, Sola, Shakri, Bodakdev.) and  lake development with storm water outlets i.e.,  Gota lake, Sola Lake, Ugati lake, Asarva lake, Gotila lake, Nikol Lake, Thaltej-Shilaj, Visat mata mandir lake, Chenpur lake, Muthiya lake, Vinzol lake, and Naroda lake.2) Sabarmati Riverfront Phase I completed with INR 12,000 million through loan from HUDCO.  Development of Sabarmati Riverfront Phase II is in progress (see https://sabarmatiriverfront.com/srfdcl-phase2-development/). 3) Proposed to develop water storage barrage cum bridge to suffice water need of th
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Sectors adaptation action applies to^: Water supply
+  - Sectors adaptation action applies to^: Conservation
+  - Sectors adaptation action applies to^: Education
+  - Sectors adaptation action applies to^: Administrative and support service activities
+  - Co-benefits realized^: Job creation
+  - Co-benefits realized^: Reduced costs
+  - Co-benefits realized^: Protected/improved biodiversity and ecosystem services
+  - Co-benefits realized^: Increased/improved green space
+  - Co-benefits realized^: Increased social inclusion, equality and justice
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Co-benefits realized^: Increased water security
+  - Co-benefits realized^: Increased transparency and accountability
+  - Co-benefits realized^: Revenue generation
+  - Co-benefits realized^: Improved water/soil quality
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 30-40%
+  - Proportion of natural systems with increased resilience due to adaptat: 10-20%
+  - Funding source(s): National funds and programmes
+  - Funding source(s): Regional funds and programmes
+  - Funding source(s): Public-private partnerships
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Feasibility finalized, and finance partially secured
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 19570000000
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+
+[8.1 fila 3] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Storm and wastewater management
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Climate hazard(s) that action addresses^: Other, please specify: Health hazards
+  - Action description and web link to further information^: 1) City is supplying 10% secondary treated waste water (110 MLD) for industrial and irrigation purpose. Additional reuse of 400 MLD secondary treated waste water is under planning.2) Construction of 150MLD tertiary treatment plant is proposed. 3) Sludge generation from STP is 35 to 40 tonnes per day. AMC has installed 100 TPD capacity sludge hygienization Cobalt-60 gamma radiation plant (with capacity of 1500 kCi Cobalt-60 load) at Pirana in March 2019 for converting sludge into good quality manure. 4)  City has proposed to rejuvenate natural drains (Kharicut Natural Drain and Gota Godhavi).5) Developing water plaza at 7 locations (one in each administration zone) is proposed.These actions are part of Ahmedabad Climate Resilient City Action Plan (Towards A Net Zero Future), which is attached in previous section.
+  - Sectors adaptation action applies to^: Education
+  - Sectors adaptation action applies to^: Construction
+  - Sectors adaptation action applies to^: Conservation
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Sectors adaptation action applies to^: Sewerage, wastewater management and remediation activities
+  - Co-benefits realized^: Improved waste management
+  - Co-benefits realized^: Reduced health costs
+  - Co-benefits realized^: Job creation
+  - Co-benefits realized^: Reduced natural resource depletion
+  - Co-benefits realized^: Increased water security
+  - Co-benefits realized^: Revenue generation
+  - Co-benefits realized^: Improved physical health
+  - Co-benefits realized^: Business/technological innovation
+  - Co-benefits realized^: Improved labor conditions
+  - Co-benefits realized^: Increased economic production
+  - Co-benefits realized^: Reduced costs
+  - Co-benefits realized^: Increased labor productivity
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 20-30%
+  - Proportion of natural systems with increased resilience due to adaptat: 10-20%
+  - Funding source(s): National funds and programmes
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): Regional funds and programmes
+  - Funding source(s): Public-private partnerships
+  - Status of action in the reporting year^: Feasibility finalized, and finance partially secured
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 12570000000
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+
+[8.1 fila 4] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Action (selections mandatory)^: Afforestation and reforestation
+  - Climate hazard(s) that action addresses^: Other, please specify: Air pollution
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Climate hazard(s) that action addresses^: Extreme heat
+  - Action description and web link to further information^: 1) City has developed total 128 urban forests over last five years (1.1 sq.km area). 10 additional urban forests are under development (0.06 sq.km.) and 150 oxygen corners are proposed in budget 2023-24 (0.2 sq.km area).2) 5% of total Town Planning Scheme area is being provided for parks, gardens and open spaces.3) 1 million trees are being planted in the city every year.4) Biodiversity parks are developed at 2 locations in the city.
+  - Sectors adaptation action applies to^: Forestry
+  - Sectors adaptation action applies to^: Conservation
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Co-benefits realized^: Protected/improved biodiversity and ecosystem services
+  - Co-benefits realized^: Increased/improved green space
+  - Co-benefits realized^: Improved air quality
+  - Co-benefits realized^: Increased water security
+  - Co-benefits realized^: Increased labor productivity
+  - Co-benefits realized^: Improved physical health
+  - Co-benefits realized^: Job creation
+  - Co-benefits realized^: Improved mental wellbeing/quality of life
+  - Co-benefits realized^: Reduced GHG emissions
+  - Co-benefits realized^: Improved labor conditions
+  - Co-benefits realized^: Improved water/soil quality
+  - Co-benefits realized^: Increased food security
+  - Co-benefits realized^: Reduced costs
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: <10%
+  - Proportion of natural systems with increased resilience due to adaptat: <10%
+  - Funding source(s): Public-private partnerships
+  - Funding source(s): National funds and programmes
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Implementation complete in the reporting year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 426000000
+  - Does this action contribute to your jurisdiction’s energy access and/o: No

@@ -1,0 +1,321 @@
+# CDP Cities 2023 - Ville de Kinshasa (org 36002) https://www.cdp.net/en/responses/36002
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: City/Municipality
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Question not applicable
+  - Provide further details on your jurisdiction's oversight of climate-re: Question not applicable
+  - Describe how climate-related issues have impacted your jurisdiction's : Question not applicable
+  - Describe how climate-related issues have impacted your jurisdiction's : Question not applicable
+  - Describe the risks to your jurisdiction related to the transition to a: Question not applicable
+
+[0.4 fila 0] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Question not applicable
+  - Level of governments engaged in the development, implementation and/or: Question not applicable
+  - Outline the purpose of this engagement: Question not applicable
+  - Comment: Question not applicable
+
+[0.5 fila 0] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): Question not applicable
+  - Primary entity collaborated with (selection mandatory)_G: Question not applicable
+  - Mechanisms used to collaborate: Question not applicable
+  - Areas collaboration focused on: Question not applicable
+  - Description of collaboration: Question not applicable
+  - Other entities collaborated with: Question not applicable
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: Yes, a climate risk and vulnerability assessment has been undertaken
+
+[1.1a fila 1] Provide details on your climate risk and vulnerability assessment.
+  - Confirm attachment/link provided to assessment (selection mandatory): Other, please specify: Le fichier est très volumineux. Il s'agissait de l'évaluation rapide des dommages, pertes et besoins post-inondations à Kinshasa, février 2018. Elle a été financée par la Banque Mondiale, le GFDRR, l'UE et l'OMS.
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2018
+  - Factors considered in assessment: Assessment includes sectors and/or urban systems
+  - Primary author(s) of assessment^: International organization
+  - Please explain: Cette évaluation consistait à quantifier les effets de la catastrophes, les besoins financiers pour le relèvement et la reconstruction et définir les priorités pour les interventions.  Elle a été réalisée dans les secteurs de : transport, éducation, logement, ménages, secteur privé, santé, social, économique, eau-assainissement, électricité, agriculture, environnement, réduction des risques des catastrophes, etc. Les résultats ont été présentés par secteur. Les recommandations ci-après ont été fournies :- Améliorer la connaissance des risques pour réduire le gap général de données et d'informations sur les dangers, l'exposition et la vulnérabilité de la population;- Allier les solutions basées sur la nature à des technologies innovantes (Ex : cartographies communautaires sur OpenStreetMap, en collaboration avec les communautés et universités);- Développer des plans urbains de gestion des
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Extreme heat
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Low-income households
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Agriculture
+  - Describe the impacts on vulnerable populations and sectors^: Les pliues torrentielles provoquent  les inondations, la canicule provoque les AVC et la mort, les inondations provoquent les marais et dans les marais qu'on retrouvent les anophè anophèles qui provoquent le paludisme, le secheresse provoque la diminution d'eau et les barrages sont affectués d'où le delestage du courant, les pluies torrentielles provoque la destruction des ouvrages(édifice, routes, maisons etc, torrentielles affectent les ouvrages qui sont détruis,il y a perturbation de l'approvisionnement en eau
+  - Proportion of the population exposed to the hazard: 40-50%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Decreasing
+  - Expected future change in hazard frequency^: Decreasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 2] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Drought
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Elderly
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Water supply
+  - Describe the impacts on vulnerable populations and sectors^: la secheresse a un impact négatif sur l'agriculture, il y a changement des saisons et le rendement agricole chute, il y a la pollution de la ville, tarissement des cours d'eau
+  - Proportion of the population exposed to the hazard: 40-50%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium
+  - Current magnitude of impact of hazard^: Medium
+  - Expected future change in hazard intensity^: Decreasing
+  - Expected future change in hazard frequency^: Decreasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 3] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Heat stress
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Children and youth
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Fishing
+  - Describe the impacts on vulnerable populations and sectors^: les journées extrêmements chaudes provoquent le tarissement des cours d'eau, provoque des maladies de la peau , affectents les plants et les animaux et la santé également des personnes surtout les vieulles personnes sont affectées, il y a également ensablement qui rend la navigation maritime difficile pendant la saison sèche
+  - Proportion of the population exposed to the hazard: 30-40%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium
+  - Current magnitude of impact of hazard^: Medium
+  - Expected future change in hazard intensity^: Decreasing
+  - Expected future change in hazard frequency^: Decreasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 4] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: River flooding
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Elderly
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Describe the impacts on vulnerable populations and sectors^: les pluies torrentielles provoquent des inondationsn,  détruisent les cultures et le rendement basse,provoquent la chute des arbres, les inondations, il y a éboulement du sol, les ouvrages sont détruit,les édifices sont également détruit
+  - Proportion of the population exposed to the hazard: 50-60%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 5] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Urban flooding
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Low-income households
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Administrative and support service activities
+  - Sectors most exposed^: Water supply
+  - Describe the impacts on vulnerable populations and sectors^: les inondations détruisent les ouvrages, affectent les ouvrages  hydroélectriques, détruisent les champs, provoquent le paludisme, détruisent les édifices
+  - Proportion of the population exposed to the hazard: 50-60%
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Decreasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Access to basic services
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Si ces facteurs sont identifiés , on peut  anticiper les impacts négatifs afin d’améliorer
+
+[1.3 fila 2] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Access to education
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Somewhat supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Si ces facteurs sont identifiés , on peut  anticiper les impacts négatifs afin d’améliorer
+
+[1.3 fila 3] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Access to healthcare
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Si ces facteurs sont identifiés , on peut  anticiper les impacts négatifs afin d’améliorer
+
+[1.3 fila 4] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Housing
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Si ces facteurs sont identifiés , on peut  anticiper les impacts négatifs afin d’améliorer
+
+[1.3 fila 5] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Poverty
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Si ces facteurs sont identifiés , on peut  anticiper les impacts négatifs afin d’améliorer
+
+[1.3 fila 6] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Public health
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Si ces facteurs sont identifiés , on peut  anticiper les impacts négatifs afin d’améliorer
+
+[1.3 fila 7] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Migration
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Si ces facteurs sont identifiés , on peut  anticiper les impacts négatifs afin d’améliorer
+
+[1.3 fila 8] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Economic health
+  - Degree to which this factor challenges/supports the adaptive capacity : Somewhat supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Si ces facteurs sont identifiés , on peut  anticiper les impacts négatifs afin d’améliorer
+
+[1.3 fila 9] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Rapid urbanization
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Si ces facteurs sont identifiés , on peut  anticiper les impacts négatifs afin d’améliorer
+
+[1.3 fila 10] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Resource availability
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Si ces facteurs sont identifiés , on peut  anticiper les impacts négatifs afin d’améliorer
+
+[1.3 fila 11] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Environmental conditions
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Si ces facteurs sont identifiés , on peut  anticiper les impacts négatifs afin d’améliorer
+
+[1.3 fila 12] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Infrastructure conditions / maintenance
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Si ces facteurs sont identifiés , on peut  anticiper les impacts négatifs afin d’améliorer
+
+[1.3 fila 13] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Infrastructure capacity
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Si ces facteurs sont identifiés , on peut  anticiper les impacts négatifs afin d’améliorer
+
+[1.3 fila 14] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Land use planning
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Si ces facteurs sont identifiés , on peut  anticiper les impacts négatifs afin d’améliorer
+
+[1.3 fila 15] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Connectivity
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Si ces facteurs sont identifiés , on peut  anticiper les impacts négatifs afin d’améliorer
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Percentage of households with access to safely managed drinking water : Question not applicable
+  - Percentage of households with access to safely managed sanitation serv: Question not applicable
+  - Household water consumption (litres/capita/day): Question not applicable
+
+[3.13 fila 0] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Question not applicable
+  - Are you able to report volumetric data for this source?: Question not applicable
+  - Annual volume of water withdrawn per source (in megalitres) : Question not applicable
+  - Projected level of change over next 5-10 years: Question not applicable
+  - Comment: Question not applicable
+
+[4.1a fila 0] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Question not applicable
+  - Adaptation goal^: Question not applicable
+  - Climate hazards that goal addresses^: Question not applicable
+  - Base year of goal (or year goal was established if no base year)^: Question not applicable
+  - Target year of goal^: Question not applicable
+  - Description of metric / indicator used to track goal^: Question not applicable
+  - Comment: Question not applicable
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: No, but we are currently undertaking one and it will be complete in the next year
+
+[7.1a fila 0] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Question not applicable
+  - Attachment/link and name of plan^: Question not applicable
+  - Confirm attachment/link provided to plan (selection mandatory): Question not applicable
+  - Boundary of plan relative to jurisdiction boundary^: Question not applicable
+  - Processes for monitoring evaluation and updates of plan^: Question not applicable
+  - Funding sources and financial instruments to finance plan: Question not applicable
+  - Communities and organizations engaged^: Question not applicable
+  - Describe if and how climate-related scenarios have informed the plan: Question not applicable
+  - Primary author(s) of plan^: Question not applicable
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Question not applicable
+  - Year of formal approval of plan^: Question not applicable
+  - End year of plan: Question not applicable
+  - Total cost of implementation of plan (in currency specified in 0.1): Question not applicable
+  - Sectors covered by action plan: Question not applicable
+  - Please explain: Question not applicable
+
+[7.2 fila 0] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Question not applicable
+  - Attachment/ link and name of plan: Question not applicable
+  - Current status of plan: Question not applicable
+  - Boundary of plan relative to jurisdiction boundary: Question not applicable
+  - Year of formal approval of plan: Question not applicable
+  - End of year plan: Question not applicable
+  - Comment: Question not applicable
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Other, please specify: Résilience urbaine, gestion des risques des catastrophes naturelles et changement climatique
+  - Project title: Projet de renforcement de la résilience urbaine et de réduction des risques des catastrophes naturelles liées au changement climatique dans quelques quartiers vulnérables des communes de la Ville de Kinshasa
+  - Stage of project development: Project structuring
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Grants
+  - Total cost of project (in currency specified in 0.1): 16484300
+  - Total investment cost needed if relevant (in currency specified in 0.1: 405000
+
+[7.6 fila 1] Report the factors that support climate-related investment and financial planning in your jurisdiction.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Question not applicable
+  - Comment: Question not applicable
+  - Credit rating of jurisdiction: Question not applicable
+  - Comment: Question not applicable
+  - Decarbonising jurisdiction's investments: Question not applicable
+  - Comment: Question not applicable
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Action (selections mandatory)^: Ecological restoration (including wetland and floodplain conservation and restoration)
+  - Action description and web link to further information^: dans le code forestier édition 2002 de la RDC,il est prévu qu'on ne puisse pas construire les maisons d'habitation dans le périmètre de cours d'eau,, dans ce même code forestier il est prévu qu'on puisse créer des espaces vert dans la ville, c'est ce qu'on est entrain de faire actuellement dans la ville de Kinshasa, leREGIEDESO de Kinshasa procède actuellement à remplacer les tuyaux métallique par le tuyaux en PVC, il y a remplacement des anciens robinets par des nouveaux, il y a embellissement de la ville par les fleurs et les arbres ornementaux, c'est la Direction de reboisement et de horticulture qui s'occupe de la gestion de ce projet
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Total cost of action (in currency specified in 0.1): 0
+
+[8.1 fila 2] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Other, please specify: La  contruction des digues
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Action description and web link to further information^: La  contruction des digues sur plusieurs cours d'eau , éviter de construire le long de cours d'eau, planter également  les arbres le long de cours d'eau
+  - Co-benefits realized^: Improved mobility and access
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+
+[8.1 fila 3] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Services actions
+  - Action (selections mandatory)^: Essential public health services
+  - Action description and web link to further information^: l'eau est à la base de beaucoup des maladies dans la ville de Kinshasa notament la diarhée, les choléra, les amibes, la maladie des mains sales la fièvre typhoide etc
+  - Co-benefits realized^: Improved mobility and access
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Co-benefits realized^: Fewer or no households and businesses forced from homes/places of work
+
+[8.1 fila 4] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Other, please specify
+  - Action (selections mandatory)^: Other, please specify
+  - Action description and web link to further information^: Il y a des maladies à transmission vectorielle notament les anophèles qui transmettent le paludisme
+
+[8.1 fila 5] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Action (selections mandatory)^: Green infrastructure
+  - Action description and web link to further information^: la mesure consiste à identifier les espaces vertes qu'on doit planter les arbres et les fleurs pour lutter contre les journées chaudes , ce qui a été fait et actuellement la Cordination urbaine de la ville en collaboration avec la Direction de reboisement de horticulture sont entrain d'aménagement des espaces pour planter des arbres et des fleurs dans la ville de Kinshasa
+  - Co-benefits realized^: Reduced GHG emissions
+  - Co-benefits realized^: Improved mobility and access
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Total cost of action (in currency specified in 0.1): 5000000
+
+[8.1 fila 6] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Green infrastructure
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Action description and web link to further information^: la mesure consiste à planter des arbres dans les espaces verts et le long des avenues, à planter également la pelouse, c'est la cordination urbaine avec la DRH ainsi que certaines ONG
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts

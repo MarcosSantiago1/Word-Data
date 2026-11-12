@@ -1,0 +1,418 @@
+# CDP Cities 2023 - Medan City Government (org 54306) https://www.cdp.net/en/responses/54306
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: City/Municipality
+  - Next highest level of government: County / Province
+  - Next lowest level of government: Sub-municipal district
+  - Land area of the jurisdiction boundary (in square km)^: 28199
+  - Percentage range of land area that is green space: 5-10%
+  - Current (or most recent) population size^: 2525677
+  - Population year^: 2023
+  - Projected population size: 2700000
+  - Projected population year: 2030
+  - Select the currency used for all financial information reported throug: IDR Rupiah
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Relevant departments, committees and/or subcommittees are informed by management about climate-related issues
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking plans and/or strategies
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when setting performance objectives
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking budgeting and/or major capital expenditures
+  - Select the processes that reflect your jurisdiction's oversight of cli: Council (or equivalent) is informed by relevant departments, committees and/or subcommittees about climate-related issues
+  - Provide further details on your jurisdiction's oversight of climate-re: The city of Medan has set the achievement of reducing greenhouse gas emissions and improving the environmental quality index as two out of seventeen development targets in the medium-term regional development plan for Medan from 2021 to 2026.
+  - Describe how climate-related issues have impacted your jurisdiction's : Climate Change Mitigation Strategies:1. Promoting Clean Energy: Increasing the use of clean and renewable energy sources such as solar power, wind energy, and bioenergy to reduce greenhouse gas emissions from power generation and transportation.2. Energy Efficiency: Implementing measures to improve energy efficiency in both public and private sectors, such as replacing conventional lighting with LED, adopting energy-saving technologies, and encouraging energy-efficient practices in buildings.3. Sustainable Waste Management: Reducing the amount of waste going to landfills by enhancing recycling systems and adopting more sustainable waste management practices.4. Urban Greening: Increasing the number of urban parks, green spaces, and trees throughout the city to help absorb carbon dioxide and reduce the urban heat island effect.Climate Change Adaptation Strategies:1. Spatial Planning and Dr
+  - Describe how climate-related issues have impacted your jurisdiction's : Climate-related issues significantly influence the budgeting process in the city of Medan, where almost 25%-30% of the city's budget is allocated for flood mitigation. These funds are used for improving drainage systems and embankments, enhancing access to clean water, developing wastewater networks, implementing waste management initiatives, nature-based solution infrastructure, mass transportation, and advocating for environmental planning.Medan city also collaborates with several donor and international organizations such as GCOM, UCLG, GIZ, IGES, and the World Resources Institute in the funding and capacity development processes related to climate-related issues.Furthermore, Medan city also partners with the government of the Netherlands in implementing carbon credit in waste management.
+  - Describe the risks to your jurisdiction related to the transition to a: The implementation of energy-efficient technologies such as solar cells requires substantial funding, putting a significant burden on the finances of Medan city. Additionally, the adoption of electric vehicles also impacts lifestyle changes and entails costs for establishing charging infrastructure. Furthermore, the shift from private vehicles to mass transportation has not been well-received by the public, leading to higher operational costs compared to benefits.
+
+[0.4 fila 1] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Community-wide GHG emissions inventory
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the Nationally Determined Contribution (NDC)
+  - Outline the purpose of this engagement: The development of this component is required by a higher-level of government that is not the national government (e.g., by law, regulation and/or agreement)
+  - Outline the purpose of this engagement: The development of this component is required by the national government (e.g., by law, regulation and/or agreement)
+  - Comment: Medan City is a Metropolitan City and one of the largest contributors to emissions in the North Sumatra Province. Based on the Greenhouse Gas Inventory results for Medan City in 2021, the energy sector made the most dominant contribution, accounting for 84% or approximately 2,853,847 tons of CO2eq (carbon dioxide equivalent). This condition is primarily caused by the use of fuel in the transportation sector.
+
+[0.4 fila 2] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate action plan
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the National Adaptation Plan (NAP)
+  - Comment: Indonesia is committed to reducing its GHG emissions by 41% by 2030 conditionally. The local government, including Medan City, must support this commitment and help achieve this goal. in Medan City Climate Action plan, There are two main focus that are climate mitigation and adaptation plan. The calculation indicates that Medan City's emission reduction goal for the year 2030 is 27.833%. Since the transportation industry makes up the majority of the emissions in Medan City, it is expected that more mitigation measures will be carried out. One of them is the use of rail-based mass transportation such as LRT, MRT, and KRL. Considering Medan City already has a railway line that has been idle for a while, this action will be accomplished. Therefore, it is necessary to conduct a feasibility study related to the reactivation of the rail line for the provision of mass transportation within Meda
+
+[0.5 fila 1] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): Climate initiatives/networks
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Mechanisms used to collaborate: City business partnership platform
+  - Areas collaboration focused on: Waste
+  - Description of collaboration: "Roda Hijau" translates to "Green Wheel" in English. The term "roda" means "wheel" or "circle," which symbolizes constant movement, while "hijau" means "green," representing the lush and natural aspect. Combining these meanings, "Green Wheel" refers to a constantly moving entity dedicated to making the city of Medan greener and managing waste effectively.The birth of the Green Wheel community was inspired by Christella Suwongso, the initiator of the community, who was deeply concerned about the waste issue in Medan. During her engineering studies in environmental technology, she realized that the waste problem in Medan was more profound than just the presence of waste. It required the active involvement of society, the government, the implementation of appropriate technologies, and funding support.Green Wheel collaborates with the Medan City Government to enhance waste reduction programs
+  - Other entities collaborated with: Waste
+
+[0.5 fila 2] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): Climate initiatives/networks
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Mechanisms used to collaborate: Capacity development
+  - Areas collaboration focused on: Waste
+  - Areas collaboration focused on: Adaptation
+  - Areas collaboration focused on: Emissions reduction
+  - Description of collaboration: workplan for reduction SLCP from Municipal Solid Waste Management in Medan City
+  - Other entities collaborated with: Academia
+  - Other entities collaborated with: Residents/community groups
+  - Other entities collaborated with: NGO and associations
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: Yes, a climate risk and vulnerability assessment has been undertaken
+
+[1.1a fila 1] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: Climate Action Plan of Medan City Chapter III, Vulnerability, Potential, Impact, and Climate Risk
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2023
+  - Factors considered in assessment: Assessment includes consultation with partners
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Assessment considers transition risks
+  - Primary author(s) of assessment^: International organization
+  - Primary author(s) of assessment^: Consultant
+  - Primary author(s) of assessment^: Dedicated team within jurisdiction
+  - Please explain: The level of potential impact in a region is determined using SIDIK, which is the result of calculations based on indicators of potential impact, namely exposure, sensitivity, and adaptive capacity of neighborhoods. Sensitivity represents the internal conditions of a system (in this report, focused on neighborhood systems) indicating the degree of vulnerability to disruptions caused by disasters. Adaptive capacity, on the other hand, represents a system's ability to adjust to climate change, which involves long-term adjustments to hazardous events like disasters. Sensitivity and adaptive capacity data represent indicators of vulnerability. The third factor determining potential impact is exposure, which shows the condition and level of a system's exposure to environmental disturbances such as climate-related disasters. The combination of vulnerability and exposure results in the potentia
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Extreme heat
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Arts, entertainment and recreation
+  - Sectors most exposed^: Construction
+  - Describe the impacts on vulnerable populations and sectors^: The urban heat island phenomenon in urban areas will worsen with the occurrence of massive and extreme temperature increases. In this study, the risk of extreme temperatures in the Medan city area is projected to increase with rising temperatures under both RCP4.5 and RCP8.5 scenarios. Generally, the level of risk for extreme temperatures in Medan city is predominantly low to moderately low. However, there are several neighborhoods with a very high level of risk for extreme temperatures prominently in Southern Medan.Extreme temperatures in a region can significantly affect human comfort levels during activities. Additionally, the potential hazards of respiratory infections like Acute Respiratory Infections (ARI) and vector-borne diseases can develop more rapidly during extreme temperature events.
+  - Proportion of the population exposed to the hazard: <10%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium High
+  - Current magnitude of impact of hazard^: Medium High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 2] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Urban flooding
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Elderly
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Accommodation and food service activities
+  - Sectors most exposed^: Administrative and support service activities
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Waste management
+  - Describe the impacts on vulnerable populations and sectors^: The impact of floods in Medan city can be significant and varied, affecting various aspects of the city and its residents. Some of the potential impacts of floods in Medan may include:1. Damage to Infrastructure: Floodwaters can damage roads, bridges, buildings, and other critical infrastructure, leading to disruptions in transportation and communication.2. Property Damage: Floods can cause damage to homes and properties, resulting in financial losses for residents and businesses.3. Displacement and Homelessness: Floods can force people to evacuate their homes, leading to temporary or even long-term displacement and homelessness for affected communities.4. Health Issues: Floodwaters can be contaminated with pollutants and sewage, increasing the risk of waterborne diseases and other health problems for residents.5.Economic Losses: Flooding can result in business disruptions, loss of livel
+  - Proportion of the population exposed to the hazard: 20-30%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium
+  - Current magnitude of impact of hazard^: Medium High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 3] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Coastal flooding (incl. sea level rise)
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Education
+  - Sectors most exposed^: Fishing
+  - Sectors most exposed^: Waste management
+  - Sectors most exposed^: Manufacturing
+  - Sectors most exposed^: Conservation
+  - Describe the impacts on vulnerable populations and sectors^: the rob flood that hit Medan Belawan District has varying height. Several villages affected by the flood were Belawan I, Belawan II, Belawan Bahagia, Belawan Bahari, Belawan Sicanang and Bagan Deli. Rob flood occurs twice a day at around 02.00 am and 13.00 pm to 16.00 pm. Rob floods give impacts of damage to buildings especially shelter, increased salinity of water resources, damage to pond land, damage to work equipment or vehicles used by everyday people. Rob floods also disrupt the activities of fishers and traders because when the floods occur, fishers are forced to stop while fishing and income is reduced, as well as the supply of fish to the market.
+  - Proportion of the population exposed to the hazard: <10%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Environmental conditions
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: In Medan City, based on disaster data that has been collected, it can be seen that there are 4 disasters that often occur, namely floods, tidal waves, tornadoes . Flood is caused by the topography of Medan City which is in downstream area. 70 % of Medan City area is watershed area that is vulnerability to flood. furthermore, there are 9 river in Medan city.northern medan city is also vulnerable to daily tidal flood because of sea level rise. and tornado also often occurs in northern medan which is close to the sea.
+
+[1.3 fila 2] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Legal/Institutional constraints
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Medan as the metropoitan city had made rule in making enviromental documents for every company. that means the industrial and economy activities are hoped not to worsen the climate change impact
+
+[1.3 fila 3] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Connectivity
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: The big challenge for Medan City is Medan as the core center of Medan Raya (Medan, Binjai, Deli Serdang and Karo). Based on the facility density map, it can be seen that there is a gap between the northern area and downtown Medan. City centers must be resilient to the effects of disparities that lead to urban problems: flooding, traffic congestion, social cohesion, but the northern and southern Medan City are very vulnerable to climate change effects because of lack of infrastructure resilience
+
+[1.3 fila 4] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Budgetary capacity
+  - Degree to which this factor challenges/supports the adaptive capacity : Somewhat challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: medan has limited city budget to provide proper infrastructure to disaster. for example, to relocate flood vulnerable households in river basin area, Medan City cannot afford to build the subsidary multi-story apartment to the poor. another example is that It is not possible to construct the embankment within one year due to budget constraints.
+
+[3.8 fila 1] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: Health outcomes
+  - Identify the climate hazard(s) that most significantly impact the sele: Heavy precipitation
+  - Identify the climate hazard(s) that most significantly impact the sele: Extreme heat
+  - Identify the climate hazard(s) that most significantly impact the sele: Water stress
+  - Identify the climate hazard(s) that most significantly impact the sele: Coastal flooding (incl. sea level rise)
+  - Identify the health issues driven by the selected climate hazard(s): Disruption to water, sanitation and wastewater services
+  - Identify the health issues driven by the selected climate hazard(s): Damage/destruction to health infrastructure and technology
+  - Identify the health issues driven by the selected climate hazard(s): Lack of climate-informed surveillance, preparedness, early warning and response
+  - Identify the health issues driven by the selected climate hazard(s): Water-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Direct physical injuries and deaths due to extreme weather events
+  - Timeframe of impact: Question not applicable
+  - Identify which vulnerable populations are affected by the selected hea: Question not applicable
+  - What factors affect your jurisdiction’s ability to address the selecte: Question not applicable
+  - Comment: The type of disaster that has occurred determines the level of urgency for a region. According to the disaster data that has been collected, there are four types of disasters that often occur in Medan City: floods, tidal waves, whirlwinds (puting beliung), and forest and land fires. When compared to other disasters, floods occur more frequently in Medan City. In addition to disaster type, there are two other factors to determine the urgency level of an area: disease and water availability. Disease data (dengue fever or DBD cases) was obtained from the Health Department, while water availability data (clean water services) was from Local Government-Owned Water Utility (PDAM). Disaster, disease, and water availability data are then combined with the types of risks that have been analysed. The extreme wet risk indicates floods, tidal waves, and whirlwinds, while the extreme dry risk indicat
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Data availability: Data is available for the percentage of households with access to safely managed sanitation services
+  - Data availability: Data is available for the percentage of households with access to safely managed drinking water services
+  - Percentage of households with access to safely managed drinking water : 73
+  - Percentage of households with access to safely managed sanitation serv: 78.68
+  - Household water consumption (litres/capita/day): Question not applicable
+  - Comment: data based on Medan sanitation framework
+
+[3.13 fila 0] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Question not applicable
+  - Are you able to report volumetric data for this source?: Question not applicable
+  - Annual volume of water withdrawn per source (in megalitres) : Question not applicable
+  - Projected level of change over next 5-10 years: Question not applicable
+  - Comment: Question not applicable
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: Yes, our jurisdiction has an adaptation goal(s)
+
+[4.1a fila 1] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 1
+  - Adaptation goal^: reducing energy use
+  - Climate hazards that goal addresses^: Extreme heat
+  - Base year of goal (or year goal was established if no base year)^: 2023
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: The usage of electric energy in Medan City serves as a primary indicator, including the electricity consumption for streetlights, with a focus on calculating the transition of electricity usage before and after the transformation from mercury lamps to LED lamps. It is estimated that if all 122,453 streetlights are converted to LED, the electricity consumption from streetlights is expected to decrease by 82%.
+
+[4.1a fila 2] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 2
+  - Adaptation goal^: increased drainage system
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: Infectious disease
+  - Base year of goal (or year goal was established if no base year)^: 2023
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: The number of inundation points (floods) decreases in the medium term. in 2023, there are about 1500 urban floods points in Medan City caused by poor drainage system and in 2030, there will be no urban floods in Medan City caused by poor drainage system
+
+[4.1a fila 3] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 3
+  - Adaptation goal^: increase space and green area in river basin
+  - Climate hazards that goal addresses^: River flooding
+  - Climate hazards that goal addresses^: Loss of green space/green cover
+  - Base year of goal (or year goal was established if no base year)^: 2023
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: the increase green space area  about 6,73 % of total area in 2023 and become 9 % in 2030
+
+[4.1a fila 4] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 4
+  - Adaptation goal^: embankment construction
+  - Climate hazards that goal addresses^: Coastal flooding (incl. sea level rise)
+  - Base year of goal (or year goal was established if no base year)^: 2023
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: the zero area coverage of tidal flood in 2030 compared to in 2023, there is about 230 hectare area of tidal flood vulnerability area
+
+[4.1a fila 5] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 5
+  - Adaptation goal^: mass transportation
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Infectious disease
+  - Base year of goal (or year goal was established if no base year)^: 2023
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: the decrease number of pneumonia patient caused by air pollution from 1500 each year to  0
+
+[4.1a fila 6] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 6
+  - Adaptation goal^: Instalation Intellegent Traffic System (ITS)
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Heat stress
+  - Base year of goal (or year goal was established if no base year)^: 2023
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: The increase number of Intellegent Traffic System (ITS) from 86 ITS in 2023 to all intersections in Medan City
+
+[4.1a fila 7] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 7
+  - Adaptation goal^: Car Free Day
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazards that goal addresses^: Heat stress
+  - Base year of goal (or year goal was established if no base year)^: 2023
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: car free days in one location which is only on sunday will be on saturday and sunday and in 10 locations in 2023
+
+[4.1a fila 8] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 8
+  - Adaptation goal^: Landfill Gas Recovery
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: Soil degradation/erosion
+  - Climate hazards that goal addresses^: Infectious disease
+  - Base year of goal (or year goal was established if no base year)^: 2023
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: there will be installation landfill gas infrastructure in Medan City in 2030
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: Yes, our jurisdiction has a climate action plan or strategy
+
+[7.1a fila 1] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Integrated climate plan (addressing mitigation, adaptation and energy-related issues)
+  - Attachment/link and name of plan^: Sustainable sanitary landfill Terjun of Medan City
+  - Confirm attachment/link provided to plan (selection mandatory): The plan has been attached
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Other, please specify: Planning stage
+  - Funding sources and financial instruments to finance plan: Climate finance (carbon credits)
+  - Communities and organizations engaged^: Business and private sector
+  - Communities and organizations engaged^: National government and/or agencies
+  - Describe if and how climate-related scenarios have informed the plan: The eco friendly of sanitary landfill of TPA Terjun and landfill gas activity in the period of 25 years
+  - Primary author(s) of plan^: Consultant
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses co-benefits of actions
+  - Year of formal approval of plan^: 2023
+  - End year of plan: 2050
+
+[7.2 fila 1] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Air quality
+  - Attachment/ link and name of plan: Reduction TargetMedan City GHG Emissions
+  - Current status of plan: In implementation
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2022
+  - End of year plan: 2030
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Waste management (including waste recycling)
+  - Project title: Solid waste coversion to energy
+  - Stage of project development: Project feasibility
+  - Status of financing: Other, please specify: cooperation between government and business entities (KPBU)
+  - Project description and attach project proposal: Solid waste coversion to energy* Preparing land for the plant* Identification suitable cooperation model to involve private sector in terms of the project
+  - Total cost of project (in currency specified in 0.1): 90000000000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 130000000000
+
+[7.5 fila 2] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Transport
+  - Project title: Development of Bus Rapid Transit (BRT)
+  - Stage of project development: Project structuring
+  - Status of financing: Other, please specify: cooperation between government and business entities (KPBU)
+  - Project description and attach project proposal: In stage 1, build 12 km and 32 stations main BRT infrastructures(Mesjid Raya – Carrefour) with the total budget is Rp 274 Miliar (Rp 22 Miliar Per km)In stage 2, build 11 km main BRT infrastructures (ruas Mesjid Raya – Amplas and ruas Carrefour – Pinang Baris)ITS Public Transport  systemPedestrian paths in BRT corridor (23 km x 2 = 46 km)
+  - Total cost of project (in currency specified in 0.1): 650000000000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 650000000000
+
+[7.5 fila 3] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Waste management (including waste recycling)
+  - Project title: PDU ( Pusat Daur Ulang ) / Waste Recycled Center
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking partial funding
+  - Identified financing model: Grants
+  - Identified financing model: Private investment
+  - Identified financing model: Public-private partnership
+  - Project description and attach project proposal: still under planning
+  - Total cost of project (in currency specified in 0.1): 10000000000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 10000000000
+
+[7.5 fila 4] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Transport
+  - Project title: light rail transport
+  - Stage of project development: Project structuring
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Public-private partnership
+  - Project description and attach project proposal: Scope of Business Entity:Development of LRT and BRT infrastructure, including tracks, stations, halts, and facilities within them, passenger access (sidewalks/pedestrian bridges).Construction, procurement, operation, maintenance, and management of LRT and BRT ticketing systems and facilities.Acquisition of existing public transportation routes to be transformed into direct services and collaboration with Transport Entrepreneurs for the operation and services of BRT within and beyond the corridors.Payment for the services provided by Transport Entrepreneurs for the operation and services of BRT within and beyond the corridors.Licensing for BRT operation held by the Legal Entity of Public Transportation Operators, in accordance with Presidential Regulation 44/2016 concerning the List of Closed Business Sectors and Open Business Sectors with Requirements in the Field of Investment.
+  - Total cost of project (in currency specified in 0.1): 13569000000000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 13569000000000
+
+[7.5 fila 5] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Renewable energy
+  - Project title: waste to energy power plant
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Private investment
+  - Identified financing model: Carbon markets
+  - Identified financing model: Public-private partnership
+  - Project description and attach project proposal: still under planning. there are 1700 ton waste in Medan city generated by housholds, industry, dan other sector in Medan city that is potential to generate energy like electricity or combustion source for other power plant
+  - Total cost of project (in currency specified in 0.1): 100000000000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 100000000000
+
+[7.6 fila 1] Report the factors that support climate-related investment and financial planning in your jurisdiction.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction has established a fund to invest in climate-related projects
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction uses REDD+ to help finance climate-related projects
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction accesses finance from public-private partnerships
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction uses carbon markets to help finance climate-related projects
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction accesses finance from national government funds, grants etc.
+  - Credit rating of jurisdiction: Jurisdiction does not have an international or domestic credit rating
+  - Decarbonising jurisdiction's investments: Jurisdiction has taken steps to decarbonise other investments
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Watershed preservation
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Action description and web link to further information^: Reforestation and Afforestation: Planting trees and restoring forests in degraded areas can help prevent erosion, improve soil stability, and enhance water retention, which in turn protects water quality and reduces the risk of flooding. Riparian Buffer Zones: Establishing vegetated buffer zones along rivers, streams, and lakes can filter out pollutants, reduce sediment runoff, and provide habitat for wildlife, helping to maintain the ecological balance of the watershed. Water Quality Monitoring: Regular monitoring of water quality parameters such as pH, dissolved oxygen, nutrient levels, and pollutant concentrations helps to identify potential issues and track the effectiveness of preservation efforts. medan city also implement Soil Erosion Control
+  - Sectors adaptation action applies to^: Agriculture
+  - Sectors adaptation action applies to^: Conservation
+  - Sectors adaptation action applies to^: Water supply
+  - Co-benefits realized^: Fewer or no households and businesses forced from homes/places of work
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Co-benefits realized^: Improved water/soil quality
+  - Co-benefits realized^: Increased security/protection for poor/vulnerable populations
+  - Co-benefits realized^: Increased/improved green space
+  - Co-benefits realized^: Improved mental wellbeing/quality of life
+  - Co-benefits realized^: Protected/improved biodiversity and ecosystem services
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 20-30%
+  - Proportion of natural systems with increased resilience due to adaptat: 20-30%
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): National funds and programmes
+  - Funding source(s): Regional funds and programmes
+  - Status of action in the reporting year^: Implementation underway with completion expected in more than one year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 1200000000000
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 2] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Action (selections mandatory)^: Adaptive land-use management
+  - Climate hazard(s) that action addresses^: Extreme heat
+  - Climate hazard(s) that action addresses^: Coastal flooding (incl. sea level rise)
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Action description and web link to further information^: Ecosystem-based Approach: Recognizing the interconnectedness of ecosystems and their components, adaptive land use management seeks to maintain and enhance ecological integrity while meeting human needs. moreover, Stakeholder Engagement: Effective adaptive land use management requires the involvement of stakeholders, including local communities, landowners, scientists, and policymakers. Collaborative approaches that consider diverse perspectives and knowledge in term of the building permit and land ownership
+  - Sectors adaptation action applies to^: Real estate activities
+  - Sectors adaptation action applies to^: Construction
+  - Sectors adaptation action applies to^: Transportation and storage
+  - Co-benefits realized^: Increased economic production
+  - Co-benefits realized^: Job creation
+  - Co-benefits realized^: Improved mobility and access
+  - Co-benefits realized^: Reduced congestion
+  - Co-benefits realized^: Improved road safety
+  - Co-benefits realized^: Revenue generation
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 90-100%
+  - Proportion of natural systems with increased resilience due to adaptat: 90-100%
+  - Funding source(s): National funds and programmes
+  - Funding source(s): Regional funds and programmes
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Implementation underway with completion expected in more than one year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 1000000000000
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+
+[10.1 fila 0] Use this field to provide any additional information or context that you feel is relevant to your jurisdiction's respons
+  - nan: Medan City is the largest city in North Sumatra, and third in Indonesia, and serves as an important economic and cultural center in the region. Over the years, the city has undergone significant development and urbanization to accommodate its growing population and to support its role as a major metropolitan area. Some key aspects of Medan City's development include:1. Infrastructure Development: The city has seen improvements in its infrastructure, including the expansion and upgrading of roads, bridges, public transportation systems, and utilities to enhance connectivity and accessibility.2. Urban Planning and Zoning: Medan has been working on urban planning and zoning initiatives to manage urban growth, reduce congestion, and ensure sustainable development in the city.3. Economic Growth: Medan's economy has been diversifying and expanding, with various industries such as trade, manufa

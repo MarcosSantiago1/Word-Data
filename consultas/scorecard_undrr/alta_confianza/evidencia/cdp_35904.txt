@@ -1,0 +1,259 @@
+# CDP Cities 2023 - Kolkata Metropolitan Area (org 35904) https://www.cdp.net/en/responses/35904
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: City/Municipality
+  - Next highest level of government: State/regional
+  - Next lowest level of government: No lower level of government
+  - Land area of the jurisdiction boundary (in square km)^: 206
+  - Percentage range of land area that is green space: 5-10%
+  - Current (or most recent) population size^: 4500000
+  - Population year^: 2011
+  - Projected population size: 5000000
+  - Projected population year: 2030
+  - Select the currency used for all financial information reported throug: INR Indian Rupee
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Relevant departments, committees and/or subcommittees are informed by management about climate-related issues
+  - Provide further details on your jurisdiction's oversight of climate-re: Kolkata Municipal Corporation (KMC) is the civic/ local governing body for its jurisdiction within Kolkata Metropolitan area. KMC is committed to climate actions and is undertaking a number of Sectoral initiatives through its various departments viz. Environment (including clean air); Solid Waste Management; parks, green spaces and squares; buildings and public health, etc. KMC has also recently initiated the process of an integrated Climate Action Plan  (CAP) development with support from C40 and GCoM.
+  - Describe how climate-related issues have impacted your jurisdiction's : Master/ development planning for Kolkata city falls under the purview of Kolkata Metropolitan development Authority (KMDA; includes KMC area plus a few other municipalities) while transport planning & operations are undertaken by the West Bengal State Transport Department and West Bengal Transport Corporation. Both agencies are taking cognizance of climate-related issues with respect to mitigation action and resilience building in the city as part of the development planning process. For instance, KMDA Master Plan outlines strategies and zoning for urban flood mitigation, while the e-mobility and clean public transport are a focus area for the transport corporation.
+  - Describe how climate-related issues have impacted your jurisdiction's : Kolkata is receiving fund from Ministry of Environment Forest and Climate Change Government of India to implement projects on various environment related issues
+
+[0.4 fila 1] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Other, please specify: Clean Air Action
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Outline the purpose of this engagement: The development of this component is required by the national government (e.g., by law, regulation and/or agreement)
+  - Comment: National Government is supporting implementation of Kolkata's Clean Air Action Plan under the National Clean Air Program
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: No, but we are intending to undertake one in the next two years
+
+[1.1a fila 1] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: Question not applicable
+  - Confirm attachment/link provided to assessment (selection mandatory): Question not applicable
+  - Boundary of assessment relative to jurisdiction boundary^: Question not applicable
+  - Year of publication or approval^: Question not applicable
+  - Factors considered in assessment: Question not applicable
+  - Primary author(s) of assessment^: Question not applicable
+  - Please explain: Question not applicable
+
+[1.1a fila 2] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: Question not applicable
+  - Confirm attachment/link provided to assessment (selection mandatory): Question not applicable
+  - Boundary of assessment relative to jurisdiction boundary^: Question not applicable
+  - Year of publication or approval^: Question not applicable
+  - Factors considered in assessment: Question not applicable
+  - Primary author(s) of assessment^: Question not applicable
+  - Please explain: Question not applicable
+
+[1.1a fila 3] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: Question not applicable
+  - Confirm attachment/link provided to assessment (selection mandatory): Question not applicable
+  - Boundary of assessment relative to jurisdiction boundary^: Question not applicable
+  - Year of publication or approval^: Question not applicable
+  - Factors considered in assessment: Question not applicable
+  - Primary author(s) of assessment^: Question not applicable
+  - Please explain: Question not applicable
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Hurricanes, cyclones, and/or typhoons
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Vulnerable population groups most exposed: Low-income households
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Forestry
+  - Describe the impacts on vulnerable populations and sectors^: A report by the Inter Agency Group on historical occurrences of tropical cyclones indicates that Kolkata Metropolitan Area has been hit 11 times by severe cyclonic storms between 1977 and 2011. The intensity and size has of the storms have also increased.
+  - Proportion of the population exposed to the hazard: <10%
+  - Current probability of hazard^: Medium
+  - Current magnitude of impact of hazard^: Low
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.2 fila 2] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Heavy precipitation
+  - Vulnerable population groups most exposed: Frontline workers
+  - Vulnerable population groups most exposed: Low-income households
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Transportation and storage
+  - Describe the impacts on vulnerable populations and sectors^: The average rainfall in Kolkata Metropolitan Area has increased from approximately 1510mm in 1901 to 1750mm in 2011. A comparison of 10 yearly blocks between1972 and 2011 shows that the average rainfall has increased considerably between 1992 and 2011.The rainfall has also been erratic in the same period. Although the total number of recorded heavy rainfall incidences is 78, with mean of 2.2 per year, there have been considerable variations, with some years having none and others having six.
+  - Proportion of the population exposed to the hazard: 10-20%
+  - Current probability of hazard^: Medium
+  - Current magnitude of impact of hazard^: Low
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.2 fila 3] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Extreme heat
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Forestry
+  - Describe the impacts on vulnerable populations and sectors^: The climate of Kolkata Metropolitan Area is considered to be tropical wet and dry, with an annual mean temperature of 28.3°C.Over the last 63 years instances of daily maximum temperature exceeding 40°C have increased ; the pre-monsoon season. Mean annual maximum temperature (31.2°C) is projected to increase by between 1.0-1.6°C by mid-century and by 1.7-3.3°C by end-century.Maximum temperature in Kolkata was recorded 39.5°C during June 2019. Temperature increase will be more in winter. With rise in local temperatures, there is likely to be an accompanying rise in illnesses and deaths that will occur as a direct result of an increase in severe heat waves and lightening strike has also significantly increased in recent years.
+  - Proportion of the population exposed to the hazard: <10%
+  - Current probability of hazard^: Medium High
+  - Current magnitude of impact of hazard^: Medium
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.2 fila 4] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Urban flooding
+  - Vulnerable population groups most exposed: Low-income households
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Describe the impacts on vulnerable populations and sectors^: Kolkata Municipal Corporation, the most important ULB in Kolkata Metropolitan Area, is currently ranked as the third most vulnerable city in the world from coastal flooding. Kolkata Metropolitan Area’s slums are highly vulnerable to floods and cyclones because of poor construction materials, weak social structures and their vulnerable locations. Some are located in highly vulnerable zones that were previously low-lying wetlands surrounded by vast water bodies into which sewage flows from the city.
+  - Proportion of the population exposed to the hazard: 10-20%
+  - Current probability of hazard^: Medium High
+  - Current magnitude of impact of hazard^: Medium
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.2 fila 5] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Infectious disease
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Frontline workers
+  - Sectors most exposed^: Human health and social work activities
+  - Describe the impacts on vulnerable populations and sectors^: With  rise in local temperatures, there is likely to be an accompanying rise in illnesses and deaths that will occur as a direct result of an increase in severe heat waves. Maximum temperature rises during the summer months  of May to June up to 42°C and the minimum temperature falls during the Winter months of December to January up to 10°C on an average as  of 2018.  Vector-borne diseases such as malaria and dengue as well as respiratory diseases due to increasing pollution levels, are expected to rise in the city. Kolkata was also one of the worst affected cities in India during the various Covid19 waves during 2020-2021
+  - Proportion of the population exposed to the hazard: <10%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Access to basic services
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+
+[1.3 fila 2] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Access to healthcare
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+
+[1.3 fila 3] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Economic diversity
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+
+[1.3 fila 4] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Inequality
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+
+[1.3 fila 5] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Infrastructure capacity
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Somewhat supports
+
+[1.3 fila 6] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Political engagement / transparency
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Data availability: Data is available for the percentage of households with access to safely managed drinking water services
+  - Data availability: Data is available for the percentage of households with access to safely managed sanitation services
+  - Data availability: Data is available for the average household water consumption in litres per capita per day
+  - Percentage of households with access to safely managed drinking water : 98
+  - Percentage of households with access to safely managed sanitation serv: 99
+  - Household water consumption (litres/capita/day): 135
+
+[3.13 fila 1] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Fresh surface water, including rainwater, water from wetlands, rivers and lakes
+  - Are you able to report volumetric data for this source?: Yes
+  - Annual volume of water withdrawn per source (in megalitres) : 1890
+  - Projected level of change over next 5-10 years: Higher volume projected to be withdrawn
+  - Comment: unit is MLD
+
+[3.13 fila 2] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Are you able to report volumetric data for this source?: Question not applicable
+  - Annual volume of water withdrawn per source (in megalitres) : Question not applicable
+  - Projected level of change over next 5-10 years: Question not applicable
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: No, but we are planning to introduce a goal in the next two years
+
+[4.1a fila 0] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Question not applicable
+  - Adaptation goal^: Question not applicable
+  - Climate hazards that goal addresses^: Question not applicable
+  - Base year of goal (or year goal was established if no base year)^: Question not applicable
+  - Target year of goal^: Question not applicable
+  - Description of metric / indicator used to track goal^: Question not applicable
+  - Comment: Question not applicable
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: No, but we are currently undertaking one and it will be complete in the next year
+
+[7.1a fila 1] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Question not applicable
+  - Attachment/link and name of plan^: Question not applicable
+  - Confirm attachment/link provided to plan (selection mandatory): Question not applicable
+  - Boundary of plan relative to jurisdiction boundary^: Question not applicable
+  - Processes for monitoring evaluation and updates of plan^: Question not applicable
+  - Funding sources and financial instruments to finance plan: Question not applicable
+  - Communities and organizations engaged^: Question not applicable
+  - Describe if and how climate-related scenarios have informed the plan: Question not applicable
+  - Primary author(s) of plan^: Question not applicable
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Question not applicable
+  - Year of formal approval of plan^: Question not applicable
+  - End year of plan: Question not applicable
+  - Total cost of implementation of plan (in currency specified in 0.1): Question not applicable
+  - Sectors covered by action plan: Question not applicable
+  - Please explain: Question not applicable
+
+[7.2 fila 1] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Air quality
+  - Attachment/ link and name of plan: Kolkata Clean Air Action Plan : https://www.wbpcb.gov.in/writereaddata/files/Comprehensive%20Air%20Quality%20Action%20Plan%20Kolkata.pdf
+  - Current status of plan: In implementation
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2018
+  - End of year plan: 2026
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Buildings
+  - Project description and attach project proposal: Popularization & Use of low energy material & recycled material: Double Glazing, Hollow Brick, Fly-ash Brick
+
+[7.5 fila 2] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Renewable energy
+  - Project title: Promotion of Solar Energy
+  - Stage of project development: Implementation
+  - Status of financing: Other, please specify: NCAP funded
+  - Project description and attach project proposal: Use of solar energy in lighting, heating: Solar Powered Lamps in streets, parks etc. Solar Heater, Solar Cooker . Use of bio-gas in generation of electricity
+
+[7.5 fila 3] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Transport
+  - Project description and attach project proposal: Battery Operated Vehicle: Both Public & Private vehicles LPG Fuelled Engine: Use of LPG engines for autos BRTS, Metro Corridors: Work in Progress and extension planned Centralisation of Pollution certificate: To regulate & Monitor timely pollution check of private, public & commercial vehicles
+
+[7.5 fila 4] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Waste management (including waste recycling)
+  - Project title: C&D waste  plant commissioned at Patharghata ( 500 TPD)
+  - Project description and attach project proposal: Building Waste: Demolition & construction waste can be reused in generation of other building & Road Materials such as Paver Block, High strength BitumenVehicle Waste: Steel, Rubber can be reused in vehicle industry itself. RCC Roads: Like NHAI, roads can be converted to RCC which is low maintenance & less polluting, (Cement is a waste generated from Steel Plant)Municipal waste to be composted
+
+[7.5 fila 5] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Water management
+  - Project description and attach project proposal: Universal Metering: This can regulate use of water.Community Level Waste-water Treatment Plant, Rainwater Harvesting
+
+[7.6 fila 1] Report the factors that support climate-related investment and financial planning in your jurisdiction.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction’s own funds and budgetary means
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction accesses finance from public-private partnerships
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction accesses finance from national government funds, grants etc.
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Water storage and pump storage
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Climate hazard(s) that action addresses^: Action does not address hazard
+  - Action description and web link to further information^: To ensure that rainwater harvesting is be made compulsory for all multi-storied buildings/ developments.
+  - Sectors adaptation action applies to^: Sewerage, wastewater management and remediation activities
+  - Co-benefits realized^: Increased water security
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of natural systems with increased resilience due to adaptat: 10-20%
+
+[8.1 fila 2] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Services actions
+  - Action (selections mandatory)^: Essential public health services
+  - Climate hazard(s) that action addresses^: Infectious disease
+  - Action description and web link to further information^: • To prepare a Heat and Health Action Plan and fund financial and operational improvement plans for the urban public health sector to ensure its ability to respond to disease outbreaks in Kolkata. • Review planning by laws and restrict construction in low-lying areas. Throughout Kolkata, plinth Levels of all new buildings should be above the highest expected flood level. • To develop Disaster Management Cell within KMA to ensure that procedures, systems and dedicated human resources are capable of handling all potential disasters.

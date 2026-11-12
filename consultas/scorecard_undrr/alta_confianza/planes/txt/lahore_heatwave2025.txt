@@ -1,0 +1,3169 @@
+Heatwave
+Management Plan of
+Lahore (2025-2028)
+Team
+Authors                                  Maps prepared by
+Dr. Ammara Habib                         Dr. Aneeqa Azeem
+(Specialist Environment & Climate        (Specialist Mapping)
+Change)                                  Ms. Rukhsar Shahzadi
+Ms. Amber Aleem                          (Program Manager-GIS)
+(Specialist Environment)                 Ms. Sidra Tariq
+Engr. Ali Fahad                          (Research analyst-GIS)
+(Program Manager– Civil)
+Engr. Arsh Noor
+(Program Manager– Environment)           Cost estimation by
+Engr. Sana Ashraf                        Mr. Mehed Mobin Ahmad
+(Senior Research Analyst -Environment)
+                                         (Senior Research Analyst -Quantity
+Engr. Ali Ahmad
+                                         Surveyor)
+(Project Officer-Environment)
+Mr. Musa Hassan Elahi
+(Project Officer-Environment
+Ms. Abeesha Sultana                      Reviewed and finalized by
+(Project Officer-Environment)            Mr. Muhammad Omer Masud
+Ms. Meharwar Uppal                       (Chief Executive Officer – Urban Unit)
+(Project Officer-Environment)            Engr. Abid Hussainy
+                                         (General Manager – Environment and
+                                         Social Safeguards)
+                                         Mr. Hassan Illyas
+                                         (Specialist Environment & Climate
+                                         Change)
+
+Suggested Citation:
+The Urban Unit. 2025. Heatwave Management Plan of Lahore (2025-2028).
+Environmental and Social Safeguards Department. The Urban Unit, Lahore.
+Table of Contents
+EXECUTIVE SUMMARY .............................................................. 1
+
+OVERVIEW ................................................................................... 1
+
+1.1. HEATWAVES; WHEN EXTREME HEAT BECOMES A HEALTH THREAT ................................ 1
+1.2. THE GROWING THREAT OF EXTREME HEAT ................................................................ 3
+1.3. THE SCORCHING REALITY: CURRENT STATE AND VULNERABILITY OF LAHORE TO
+HEATWAVES ..................................................................................................................... 4
+
+
+HEATWAVE RISK LANDSCAPE: CURRENT STATE
+ASSESSMENT OF LAHORE ....................................................... 7
+
+2.1. URBAN HEAT RISK ASSESSMENT ............................................................................... 7
+2.1.1. HEAT VULNERABILITY ............................................................................................. 7
+2.1.2. HEAT HAZARD ....................................................................................................... 8
+2.1.3. HEAT EXPOSURE ................................................................................................... 9
+
+
+FINDINGS FROM HEATWAVE CONSULTATIONS IN LAHORE
+.................................................................................................... 13
+
+2.2. PERCEPTION AND AWARENESS TOWARDS HEATWAVES ............................................. 13
+2.2.1. DEMOGRAPHIC AND ECONOMIC PROFILE OF THE RESPONDENTS ............................. 13
+2.2.2. KNOWLEDGE OF HEATWAVES ............................................................................... 14
+2.2.3. HEALTH IMPACTS OF HEATWAVE ........................................................................... 15
+2.2.4. EFFECTIVE SOURCE OF INFORMATION ................................................................... 17
+2.2.5. AVAILABILITY OF FACILITIES .................................................................................. 18
+2.2.6. KEY FINDINGS ..................................................................................................... 19
+2.3. CONDITIONAL ASSESSMENT OF WATER SUPPLY FACILITIES ...................................... 20
+2.3.1. WATER FILTRATION PLANTS ................................................................................. 20
+2.3.2. RELIEF CAMPS .................................................................................................... 21
+2.3.3. ANALYSIS OF FILTRATION PLANTS ......................................................................... 21
+2.3.4. PROVISION OF SHADE ANALYSIS ........................................................................... 24
+ASSESSMENT OF COMMUNITY RESILIENCE TO
+HEATWAVES IN LAHORE ........................................................ 25
+
+2.4. HEATWAVE RESILIENCE ASSESSMENT...................................................................... 25
+2.4.1. PRIORITIZATION OF FACTORS ............................................................................... 26
+2.4.2. FIELD ASSESSMENT & MITIGATION MEASURES FOR FACTORS ................................. 27
+2.4.3. CAPACITY ASSESSMENT ....................................................................................... 33
+
+
+HEATWAVE MANAGEMENT PLAN .......................................... 37
+
+3.1. EARLY WARNING SYSTEM: ..................................................................................... 37
+3.1.1. HEAT-HEALTH THRESHOLDS: ............................................................................... 38
+3.1.2. SURVEILLANCE AND ALERTING SYSTEM: ................................................................ 39
+3.1.3. DECLARING A HEATWAVE EMERGENCY: ................................................................ 40
+3.2. COMMUNICATION PLAN:.......................................................................................... 41
+3.2.1. KEY ACTORS: ...................................................................................................... 42
+3.2.2. HEATWAVE AWARENESS CAMPAIGN: ..................................................................... 43
+3.3. HEATWAVE EMERGENCIES ...................................................................................... 44
+3.3.1. ALL CLEAR NOTICE: ............................................................................................. 47
+3.4. RESPONSE ACTION PLAN: ...................................................................................... 47
+3.5. LONG TERM STRATEGIES ........................................................................................ 53
+3.6. MONITORING & EVALUATION ................................................................................... 54
+
+
+PROPOSED INTERVENTIONS .................................................. 58
+
+4.1.    PROVISION OF SHEDS ............................................................................................. 58
+4.2.    PROVISION OF ELECTRIC COOLERS ......................................................................... 59
+4.3.    COOLING STATIONS................................................................................................ 60
+4.4.    COSTING ............................................................................................................... 63
+
+
+ANNEXURE ................................................................................ 66
+
+ANNEX – A: STAKEHOLDER CONSULTATION MEETINGS...................................................... 66
+ANNEX – B: PICTURES ..................................................................................................... 68
+ANNEX – C: LEGAL LANDSCAPE ....................................................................................... 69
+
+
+REFERENCES ............................................................................ 73
+List of Figure
+Figure 1: Observed global temperature change and modeled responses to stylized
+    anthropogenic emission and forcing pathways (IPCC, 2022) ................................... 2
+Figure 2: Ed-Hawkins Warming Strips of the Lahore City ............................................... 3
+Figure 3: Temperature variation for the tenure of (1875-2024) [6] .................................. 4
+Figure 4: Landcover Change in Lahore (2014 -2024) (The Urban Uni- 2025) ................. 5
+Figure 5: Conceptual Design of Impact Pathways in Pakistan (WMO) ............................ 6
+Figure 6: Heat Vulnerability of Lahore City ...................................................................... 8
+Figure 7: Urban Heat Hazard of Lahore City ................................................................... 9
+Figure 8: Urban Heat exposure of Lahore City .............................................................. 10
+Figure 9: Urban Heat Risk of Lahore City...................................................................... 12
+Figure 10: Gender distribution of Respondents ............................................................. 13
+Figure 11: Employment Status and Educational Background of respondents ............... 14
+Figure 12: Symptoms experienced during heatwave .................................................... 15
+Figure 13: Perception on preventive measures to avoid heatwave ............................... 15
+Figure 14: Community knowledge of first aid for heat stroke patients ........................... 16
+Figure 15: Community perception on highly vulnerable groups ..................................... 16
+Figure 16: Effective Sources of information ................................................................... 17
+Figure 17: Effectiveness of Government Departments .................................................. 18
+Figure 18: Actions from Government Departments for heatwave impact mitigation and
+    preparedness .......................................................................................................... 18
+Figure 19: Filtration plants visited across Lahore (a) Data Gunjbaksh, (b) Gulshan-e-
+    Ravi (c) Circular Road ............................................................................................ 21
+Figure 20: Functional Status of filtration plants ............................................................. 22
+Figure 21: Town wise Functionality Status of filtration plants ........................................ 22
+Figure 22: Conditional overview of Filtration plants ....................................................... 23
+Figure 23: Provision of Shade (a) Mori Gate Park, (b) Iqbal Town ................................ 24
+Figure 24: Percentage of Shades observed in each town ............................................. 24
+Figure 25: Accessibility to water sources, (a) Type of water source consumed by the
+    respondents, (b) Average distance travels for collection of water ........................... 29
+Figure 26: Analyzed trend of observations (a) Seating availability, (b) Shades availability
+    and (c) Space for the installation of Solar panel. .................................................... 30
+Figure 27: Perception of respondents on Green Spaces (a) Access to Green Spaces,
+    (b) Reduction in Green Spaces, and (c) Willingness to invest for Green Spaces. .. 32
+Figure 28: Insights of respondents on the primary purpose of Green Spaces. .............. 33
+Figure 29: Heatwave resilience Index of survey points ................................................. 36
+Figure 30: Heatwave Management Plant Lout (Pre-During-Post) ................................. 37
+Figure 31: Key Components of Early Warning System for Heatwave ........................... 38
+Figure 32: Communication Plan .................................................................................... 42
+Figure 33: Components of Information dissemination ................................................... 44
+Figure 34: Level of Target Groups ................................................................................ 45
+Figure 35: Yellow Alert .................................................................................................. 45
+Figure 36: Orange Alert ................................................................................................. 46
+Figure 37: Red Alert ...................................................................................................... 47
+Figure 38: Response Action Plan .................................................................................. 48
+Figure 39: Concept Drawing for Shades at Filtration Plants .......................................... 59
+Figure 40: Concept of Cooling Stations ......................................................................... 61
+Figure 41: Concept of Medical Facility .......................................................................... 62
+Figure 42: Measures adopted and proposed by WASA ................................................ 67
+List of Tables
+Table 1: Specifications for the Urban Heat risk assessment ......................................... 11
+Table 2: Basic knowledge of Respondents regarding Heatwave .................................. 14
+Table 3: Conditional categorization of filtration plants ................................................... 23
+Table 4: Heatwave Resilience Index of Survey points................................................... 34
+Table 5: Three-tier Alert System ................................................................................... 39
+Table 6: All-Clear Notice ............................................................................................... 47
+Table 7: Actions to be taken during the Heatwave season............................................ 48
+Table 8: Actions to be taken during the Heatwave season............................................ 50
+Table 9: Actions to be taken on Warning notice ............................................................ 51
+Table 10: Actions to be taken on Emergency Notice ..................................................... 52
+Table 11: Evaluation questions and potential indicators for the implementation process
+    ................................................................................................................................ 56
+Table 12: Proposed Interventions Cost ......................................................................... 63
+Abbreviations
+CRI                   Climate Risk Index
+DC                    Deputy Commissioner
+EPD                   Environment Protection Department
+GLOF                  Glacier Lake Outburst Floods
+IPCC                  Intergovernmental Panel on Climate Change
+MC                    Municipal Corporations
+MCDA                  Multicriteria Decision Analysis
+MODIS                 Moderate Resolution Imaging Spectroradiometer
+NCCP                  National Climate Change Policy
+NDMA                  National Disaster Management Authority
+NDBI                  Normalized Difference Built up Index
+NDVI                  Normalized Difference Vegetation Index
+NGOs                  Non-governmental Organizations
+PCCA                  Pakistan Climate Change Council
+PCCC                  Pakistan Climate Change Council
+PDMA                  Provincial Disaster Management Authority
+PMD                   Pakistan Meteorological Department
+RO Filtration Plant   Reverse Osmosis Filtration Plants
+UHI                   Urban Heat Islands
+WASA                  Water and Sanitation Authority
+WHO                   World Health Organization
+WMO                   World Meteorological Organization
+Executive
+Summary
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+Executive Summary
+Climate change is increasing the risk of being exposed to extreme heat. The prospect of
+extended and more severe summer heatwaves is concerning for densely populated cities,
+with extended built-up that keep the environment hotter due to the "urban heat island
+effect." The global warming has specifically affected 0.005 billion people due to heatwave,
+with 225,600 fatalities for the duration of (1993-2022).
+
+Swathes of Pakistan have been smothered by temperature peeks since late April, in
+extreme weather conditions. According to the Global Climate Risk Index (CRI) published
+by the non-profit group Germanwatch, Pakistan is the top most vulnerable nation in the
+world when it comes to the effects of climate change over the past two decades.
+Lahore city experienced recent heatwaves with temperatures reaching 45°C, with a
+persistent increase of 05 to 07 ˚C above normal temperature, between late April and
+during May, 2025. The city has seen an outbreak of Cholera and Diarrhea as a result of
+the heatwave 2025. On April 15, April 25, May 14, and May 19, 2025, the National
+Weather Forecasting Center Islamabad issued a series of heatwave warnings. The
+Lahore's climatic history has also showed extreme heatwave events in last two decades.
+Therefore, a systematic heatwave management plan is prepared by Urban Unit
+Environment Team to address the issue. The Urban Unit now has developed a heatwave
+management plan which is advised to manage and mitigate climatic extreme events like
+heatwaves.
+ The plan is prepared after conducting a comprehensive survey related to the community
+perception, and risk assessment of the related water supply assets. The hotspot areas
+with heatwave risk were identified through remote sensing data analysis for vulnerability,
+hazard, and exposure indicators. Extendedly, preparedness of the survey points was
+analyzed, considering the local factors for available resources (green spaces, medical
+services, and sustainable water infrastructure) along with public awareness to mitigate
+impacts of heatwave. Overall, this heatwave plan outlines the state of existing
+infrastructure in the hotspot areas along with what should happen before, during, and
+after the periods of heatwaves. It also sets out strategies and actions that government
+and other key stakeholders could take together to prevent the impacts of extreme heat
+events. This heatwave management plan will be implemented for three years (2025-2028)
+and contains the cost of key interventions which is 23.34 million PKR.
+ Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+Contextual Review:
+Heatwaves In Lahore
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+Overview
+The increasing instability of the global climate system is potentially intensifying the climate
+variability and the frequency and intensity of extreme climatic events have been
+significantly increased. Deadly heatwaves are one of them!
+
+1.1. Heatwaves; When extreme heat becomes a
+    health threat
+A heatwave (HW) is typically defined as a prolonged period (usually several consecutive
+days) when the temperature exceeds predetermined thresholds. Its precise definition
+varies greatly across different regions.
+Pakistan follows World Meteorological Organization (WMO) definition of heatwave, that
+describes it as a
+
+
+
+      ‘Climatic event which occurs when the daily
+        maximum temperature of more than five
+    consecutive days exceeds the average maximum
+                 temperature by 5 °C’ [1].
+
+The Intergovernmental Panel on Climate Change (IPCC) recent special report on ‘1.5
+Degrees Celsius Global Warming’ reported that human activities are estimated to have
+caused approximately 1.0°C of global warming above pre-industrial levels, with a likely
+range of 0.8°C to 1.2°C. Global warming is likely to reach 1.5°C between 2030 and 2052
+if it continues to increase at the current rate [2]. This climatic change has been
+substantially observed in Pakistan, specifically in southern and central regions, where the
+frequency and intensity of heatwaves are accelerated for the past few years, potentially
+impacting the local and regional environment, particularly in the health and economic
+sector.
+
+
+
+
+Page | 1
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+       Figure 1: Observed global temperature change and modeled responses to stylized
+                  anthropogenic emission and forcing pathways (IPCC, 2022)
+
+A heatwave begins when a high atmospheric pressure system settles over an area,
+sometimes triggered by disturbances halfway around the world. The high-pressure
+system compresses and heats up the air while squeezing out clouds. Without clouds
+above, sunlight hits the land below directly, stripping away moisture that would otherwise
+help cool the air. As the pressure builds up, the sun bakes the ground more, and over the
+course of days, heat accumulates.
+
+
+
+
+Page | 2
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+1.2. The Growing Threat of Extreme Heat
+The climate change impacts are increasingly showing definitive place in the form of global
+warming, which is getting profound in last two decades. Excessive emission of GHGs is
+constantly contributing to extreme temperature, leading to effects like; heatwaves, floods
+and variation in rainfall pattern. The average of annual recorded global temperature
+variation (Global Land-Ocean Temperature index) [3] showed the increase of 1.28˚C for
+2024, which is 1.47˚C higher as compared to the (1859-1900) 19th century average
+temperature of pre-industrial era. The South Asian countries in this context are more
+vulnerable to the global warming because of fragile fiscal position [4]. The climate risk
+index (CRI) has categorized Pakistan among top ten most vulnerable countries that are
+affected by the climate change events, and at the 1st spot in the overall CRI ranking of
+2022 [5] that was previously 56th for the tenure of (1993-2022). The heatwave is studied
+to get 30 times more intensified due to climate change i.e., the heatwave span of 2022
+that lasted for the tenure of three months from March-May 2022 in which temperature
+was recorded to be 47˚C to 49.5˚C. This heatwave was extensively observed in the India
+and Bangladesh resulted 90 casualties collectively in all countries. The warming strips in
+(Figure 1) indicate the variation of temperature over the years from (1875-2024), with
+prominent high temperature (red strips) from 2000 onwards. The specified deliberation of
+the constantly increasing temperature for the Lahore city is provided in (Figure 2). The
+temperature strips for the last two decades have shown constant upsurge in the form of
+red color indicating higher temperature from (2000-2024), with the maximum rise of 1.5˚C
+in average temperature.
+
+
+
+
+      1900                   1930                  1960          1990         2020
+                     Figure 2: Ed-Hawkins Warming Strips of the Lahore City
+
+
+
+
+Page | 3
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+                 Figure 3: Temperature variation for the tenure of (1875-2024) [6]
+
+The Urban heat island (UHI) effect in the context of heatwave is considerable factor
+specifically for the major cities (i.e., Lahore and Karachi) of Pakistan. Massive buildings
+entrap heat that is likely to increases the daytime temperature to almost (0.6-3.9 ˚C), and
+(1.1-2.8˚C) increase for nighttime temperature. The lack of green spaces and the
+unplanned development are additional factors that contribute to the heatwave.
+The social assessment study of heatwave in Pakistan showed that there are three major
+contributing factors to the heatwave that include; Climate change (37.4%), Urbanization
+(16.1%) and deforestation (45.8%). Which emphasize the importance of green spaces for
+the inclusive reduction of increasing temperature and global warming in general [7]
+
+
+
+1.3. The Scorching Reality: Current State and
+     Vulnerability of Lahore to Heatwaves
+This study is focusing on Lahore city, located on the eastern bank of the river Ravi,
+covering 1772 km2 of area. The intensity and frequency of extreme climatic events such
+as excessive rainfall, heatwaves, and flash floods have increased in the city [8].
+Recent report on climate change in urban centers of Punjab, highlighted that the historic
+data shows Lahore has experienced extreme temperature changes, with the overall
+temperature increase of 2.08˚C [9] as compared to previous years, categorizing it 7th in
+the list of the urban center with worst case temperature scenario. The previous records
+of heatwave events in Lahore shows that the in 2022, from April 20 to May 20 temperature
+
+
+Page | 4
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+increased to the maximum of 49oC, resulted significant health impacts. The intensity and
+frequency of extreme climatic events such as excessive rainfall, heatwaves, and flash
+floods have increased in Lahore city.
+One of the major reasons for extreme heat events in Lahore is an uncontrolled and
+unplanned urban expansion that has detrimental impacts on the urban green spaces of
+the city which are not even vanishing at a very fast pace but also resulting in higher land
+surface temperature in the concrete areas. The below figure exhibits the increase in the
+built area of Lahore city from 2014– 2024.
+
+
+
+
+           Figure 4: Landcover Change in Lahore (2014 -2024) (The Urban Uni- 2025)
+
+The comparison of landcover changes in Lahore city from 2014 to 2024 showed an
+increase in buildup from 297 km2 in 2014 to 927 km2 in 2024. The vegetative cover has
+consequently got impacted with major decline from 769.6 km2 in 2014 to just 182.8 km2
+in 2024, leading to the increase in barren land from 591.1 km2 in 2014 to the 597.2 km2
+in 2024. The availability of water also got impacted from excessive urban load leading to
+the decline from 90.1 km2 in 2014 to 22.5 km2 in 2024.
+
+
+
+
+Page | 5
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+                       BUILT-UP             212%            BARREN LAND       1.03%
+
+
+
+                                            76.2%                              75.0%
+
+                      VEGETATION                              WATER
+
+
+
+
+The temperature variation during
+summers       in   Lahore    stresses
+substantial issuance of several health
+advisories/heatwave alerts in Lahore.
+The frequency and intensity are now
+accompanied with another increasing
+factor i.e., duration of heatwaves.
+Current extreme heat events are
+prolonged in nature and causing
+water stress on water (reservoirs),
+crops, vegetable and orchards,
+increased energy and water demand,
+higher vulnerability to health-related
+illnesses and reduction in water base
+flow.
+
+                                            Figure 5: Conceptual Design of Impact Pathways in Pakistan
+                                                                     (WMO)
+
+
+
+
+Page | 6
+ Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+Heatwaves Risk
+Assessment of Lahore
+
+
+
+
+ Page | 1
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+Heatwave Risk
+Landscape: Current
+State assessment of
+Lahore
+The current state assessment of Lahore city is described below in detail, elucidating the
+methodological approach and the resultant outcomes;
+
+2.1. Urban heat Risk Assessment
+The risk assessment integrates multiple factors that range from land surface temperature
+and green cover to the social aspects of the relevant community, each parameter holds
+substantial weightage in the overall results. In consideration of the Lahore city which is
+well-known for the extensive urban expansion, dense population, traffic congestion, and
+bad quality of environment due to overload on the unplanned settlements. The
+environmental injustice coupled with poor socio-economic status increases the risk of
+heat impact on the community. The underling conditions are important to investigate the
+associated impacts of the heatwave in relation to the areas that are likely to be at more
+risk [10]. The method for the risk assessment comprehensively considered indicators
+(i.e., NDVI, urban sprawl, specific age group) for the categories of heat vulnerability,
+hazard and exposure.
+
+2.1.1. Heat vulnerability
+The heat vulnerability of Lahore city is presented in (Figure 2), that considered five key
+indicators to quantify the vulnerability index. The measured indicators comprise of
+environmental conditions as NDVI for understanding of the density and health of green
+cover, along with the social consideration of vulnerable age group (elders and children),
+in extreme conditions access to health facilities and the vulnerable areas with minimal
+facilities (slums). The results of the spatial analysis shows that almost half of the area is
+susceptible to vulnerability conditions from moderate to highest value. The low
+
+
+Page | 7
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+vulnerability is however was dominantly observed in the northern Lahore for the Nishtar
+and Wahga town due to more green spaces, less susceptible communities and areas.
+
+
+
+
+                             Figure 6: Heat Vulnerability of Lahore City
+
+2.1.2. Heat Hazard
+The hazard of urban heat was measured according to the three indicators that includes
+Land surface temperature (LST), Urban Heat Island (UHI), and Built-up. The surface
+temperature was considered for the association of the high temperature to the urban heat.
+However, the UHI intensifies the heatwave because of entrapping extra heat in buildings
+(built-up) which is the factor responsible for UHI. The outcomes of the analysis provided
+in (Figure 3) demonstrate the highest hazard for the central zones that are compacted
+with high built-up that lead to more entrapped and resultantly high temperature. Areas of
+
+
+
+
+Page | 8
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+almost all towns are categorized to be in heat hazard zones, except for the minimal zone
+of Wahga town that is least hazardous for urban heat effect.
+
+
+
+
+                            Figure 7: Urban Heat Hazard of Lahore City
+
+2.1.3. Heat Exposure
+The exposure to the heat in Lahore city as an urban center was quantified for the intensity
+of the urban activities at night (Night light time) NLT, along with population density and
+Land use Landcover (LULC), which specifically highlights the impact of reducing natural
+colling because of increasing built-up or improper land use. The heat exposure of the city
+is presented in (Figure 4) that illustrates the spatial spread of heat exposure. The analysis
+shows that the exposure to heat is relevantly less for the city, and centralized to the
+congested settlements. The towns with large areas are comparatively less exposed to
+heat, due to considerably more spacious, and defined zones
+
+
+Page | 9
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+                           Figure 8: Urban Heat exposure of Lahore City
+
+The comprehensive understanding of the heat risk was further analyzed in collective
+consideration of the factors. The heat risk is presented in (Figure 6) as the product of the
+heat hazard, exposure and vulnerability. The methodology was followed as per the
+studied literature used for spatial analysis of the urban heat vulnerability and risk [11] The
+communal risk of heat for city was also found to be significant encompassing areas from
+almost all town with the moderate to higher risk factor for the central towns. The areas on
+peripheries of the Lahore are relevantly less populated, and have less build-up which
+makes it spacious enough to be considered as low risk zones.
+The tabular explanation of the factors along with the indicators are also explained in
+(Table 1), with the specified category, its associated indicators and justified reasoning of
+the consideration in risk assessment.
+
+
+
+
+Page | 10
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+                    Table 1: Specifications for the Urban Heat risk assessment
+
+
+       Urban Heat risk                             Hazard*Exposure*Vulnerability
+        assessment
+
+           Category                         Indicator                      Rationale
+
+     Hazard assessment            Land Surface Temperature    High temperature exuberates urban
+                                  (LST)                       heat island effect
+
+                                  Urban Heat Island (UHI)     Identifies urban areas with
+                                                              intensified heat stress
+
+                                  (NDBI) Built-up Index       Built-up areas intensify heat hazard
+                                                              b reducing natural cooling
+
+   Exposure assessment            Population Density          High population are more exposed
+                                                              to heat-related risk
+
+                                  Night Light Time (NLT)      Urban density and activity amplify
+                                                              heat exposure
+
+                                  Land Use Land Cover         Build-up and barren lands intensify
+                                  (LULC)                      heat vulnerability b reducing natural
+                                                              cooling
+
+ Vulnerability assessment         NDVI                        Low vegetation reduces cooling and
+                                                              increases the vulnerability to heat
+
+                                  % Of Elderly population     More vulnerable to heat stress
+
+                                  % Of Children population    More vulnerable to heat stress
+
+                                  Health Facilities Access    Ensures heat facilities are located to
+                                                              manage heat related illnesses.
+
+                                  Slums                       informal settlements lack adaptive
+                                                              capacity, increases vulnerability to
+                                                              heat stress
+
+
+The heat risk assessment further revealed that the central and south-western parts of the
+city, including Ravi Town, Data Gunj Bakhsh Town, Samanabad Town, Gulberg Town,
+and Iqbal Town, are at high risk of heat vulnerability. Localities including Garhi Shahu,
+Islampura, Chauburji, Anarkali, Liaqatabad, Rehmanpura, Ichra, Muslim Town, Wahdat
+Colony, Garden Town, Gulberg, Askari, Shadman, and Shah Jamal have a significant
+concentration of children under the age of 10, further increasing heat-related risks. Areas
+
+
+Page | 11
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+such as Lyton Road, Temple Road, Mozang, Sadi Park, Shamaspura, Miani Sahib,
+Walled City, Zia Colony, and Hope Colony are particularly susceptible to severe impacts
+during heat waves due to the presence of slums and katcha (semi-permanent) houses.
+Moreover, neighborhoods such as the Walled City, Garden Town, Model Town, Walton
+Cantt, and Samanabad are particularly vulnerable due to a high percentage of elderly
+residents.
+
+
+
+
+                              Figure 9: Urban Heat Risk of Lahore City
+
+
+
+
+Page | 12
+  Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+Heatwave Vulnerability:
+Community Voices
+from Lahore
+
+
+
+
+  Page | 1
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+Findings from
+Heatwave
+Consultations in
+Lahore
+2.2. Perception and Awareness towards
+     Heatwaves
+The present study highlights the public perception and basic understanding of the heat
+wave. The survey was conducted for the data collection of demographic and socio-
+economic parameters, along with the preliminary awareness and knowledge regarding
+heatwave. The components of the survey comprehensively covered heatwave
+prevalence, health implications, mitigation strategies, information sources, and the
+government initiatives in different towns of Lahore.
+
+2.2.1. Demographic and Economic Profile of the Respondents
+The cross-sectional study included 42 respondents, in which 37 were male and 5 were
+female. The majority of the informants had a primary level of education that account for
+16 in total, followed by 15 respondents with secondary education, 7 of those were
+illiterate, and the least number of 4 participants were with university level education.
+
+
+
+
+                           Figure 10: Gender distribution of Respondents
+
+
+
+Page | 13
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+            Figure 11: Employment Status and Educational Background of respondents
+
+
+
+2.2.2. Knowledge of Heatwaves
+The understanding of the respondent’s regarding heatwave was determined on the basis
+of their familiarity with the basic knowledge and handling procedures during heatwave.
+The majority of the 35 data providers were familiar with the peek temperature hours of
+(12 pm to 5 pm) specifically in hot summer days. The least of 7 respondents have showed
+unfamiliarity with the heatwave. Additionally, the frequency of heatwave was dominantly
+observed by the 26 informants, in contrast to the 16 that have experienced no prominent
+change in temperature.
+                 Table 2: Basic knowledge of Respondents regarding Heatwave
+
+ Knowledge and Perception                                   YES               NO
+ Do you know about the heatwave?                                     59%             41%
+ Do you know about high-temperature hours (12PM-                     81%             19%
+ 5PM) in summers?
+ Do you believe that heatwaves is likely to occur more               62%             38%
+ frequently in your area?
+
+
+
+
+Page | 14
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+2.2.3. Health Impacts of Heatwave
+The association of the health-
+related     issues     with    the
+heatwave was determined on
+the basis of the frequent
+symptoms of excessive heat
+related problems experienced
+by the respondents. In this
+aspect,      participants    have
+identified a range of health
+issues including dehydration,
+excessive sweating, extreme
+thirst,   exhaustion,      muscle
+cramps,               headaches,
+accelerated       pulse,    fever,
+faintness, dizziness, food              Figure 12: Symptoms experienced during heatwave
+poisoning,      and      sunburn.
+Among these, headache was the most commonly experianced symptom, reported by the
+14 participants. Ten respondents identified excessive sweating as the major concern,
+specifically during outdoor activity, followed by exhaustion reported by the 9 respondents.
+The factor of extreme thirst was also reported by the 3 respondents. Additionally, three
+participants admitted to have
+limited knowledge on heatwave
+and its resultant health impact
+symptoms. The least frequently
+mentioned symptoms were
+accelerated pulse, dehydration,
+and       other       unspecified
+symptoms account for 1
+respondent for each.
+The measures for avoiding
+impacts of heatwave was also
+determined, in which majority of
+16 respondents indicated that
+increasing fluid intake is the
+most effective way to prevent heat-related health issues. Staying indoors was the second
+most commonly opted precautionary maesaure, recorded for the 9 participants. The
+usage of sir conditioners or fans
+                                      Figure 13: Perception on preventive measures to avoid
+as cooling options was opted,                               heatwave
+
+
+
+Page | 15
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+along with seeking shady areas as a temporary substitue, was each reported by 6
+respondents, indicating that these measures are considered moderately effective.
+Additionally, 4 participants
+advised avoiding physical
+activity during heatwaves,
+while 2 suggested other
+unspecified precautions.
+According to the reponded
+data of the informats, the
+preception of majority of 16
+participants is that individuals
+engaged in outdoor activities
+were considered to be most
+exposed to peek temperature
+hours, and most vulnarable to
+heatwave.        The       elder
+population was considered to
+be second most vulnarable         Figure 15: Community perception on highly vulnerable groups
+propotion, as per insights of
+14 participants. The Babies over the age of twelve months was mentioned by 5
+respondents to be most exposed. Two participants pointed to people with mental health
+challenges as the most susceptible, while another 2 mentioned individuals with physical
+disorders and another 2
+specified an "other" group.
+One respondent believed that
+people on medication are
+particularly susceptible to
+heat-related     issues.    This
+finding aligns with a study by
+[12], which notes that outdoor
+workers are at an increased
+risk of heat-related illnesses
+and injuries. Additional studies
+have     shown      that    high
+temperatures contribute to rise
+in    health     problems      at
+                                     Figure 14: Community knowledge of first aid for heat stroke
+workplace, particularly for                                 patients
+laborers associated with in
+outdoor work related activities.
+
+
+
+Page | 16
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+Moreover, respondents were asked about preventive measures they take to avoide
+heatstroke. The 26 individuals identified staying hydrated as the most effective strategy.
+Another 7 participants have recommended moving the affected person to a cooler area,
+and following standard first aid guidelines. However, 6 inforamats admitted that they were
+unsure how to respond, revealing a gap in public awareness. Meanwhile, 2 respondants
+suggested alternative methods, and only 1 prioritized calling emergency services.
+
+2.2.4. Effective Source of Information
+The survey findings on the
+most influential mode of
+communication reveal that
+television is most consumed
+and      reliable    source     of
+information      for spreading
+awareness               regarding
+heatwaves,        as   per    the
+identification        of       18
+respondents. Additionally, ten
+participants      reported    not
+consulting any source for
+heatwave-related information.
+A total of 5 respondents finds
+Google as useful source, while             Figure 16: Effective Sources of information
+4     informants       rely    on
+newspapers for getting informed to heatwave alerts. Three individuals cited alert
+messages as their primary source, and only 2 reported relying on medical professionals
+or healthcare providers.
+
+
+
+
+Page | 17
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+2.2.5. Availability of Facilities
+The availability of facilities was also determined from the respondents, and asked for the
+identification of department that is most useful in addressing emergency situations like
+heatwave, the majority 17 respondents have identified the Health Department. Five
+participants        mentioned
+other             government
+departments, while 4 cited
+non-governmental
+organizations (NGOs). Both
+the Water and Sanitation
+Agency (WASA) and the
+Provincial             Disaster
+Management             Authority
+(PDMA)         were        each
+identified by 7 respondents.
+The choice of WASA may be
+attributed to its role in
+maintaining water supply
+and ensuring access to             Figure 17: Effectiveness of Government Departments
+clean drinking water during
+extreme heat, while references to the PDMA reflect some public awareness of its
+responsibility for disaster preparedness and emergency response. Only 2 respondents
+believed that the Municipal Corporation (MC) is actively involved, suggesting a perceived
+lack     of   visibility    or
+effectiveness at the local
+government level.
+The       majority         of
+respondents (26) reported
+the installation of water
+coolers in their area as a
+targeted     initiative   to
+mitigate the effects of
+heatwaves. This reflects a
+widely adopted strategy
+aimed      at      providing
+immediate relief from
+extreme temperatures by
+ensuring access to cool              Figure 18: Actions from Government Departments for heatwave
+drinking water in public                           impact mitigation and preparedness
+
+
+
+Page | 18
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+spaces. Additionally, 10 participants noted the installation of water connections, such as
+nalkas, representing a more permanent infrastructure solution to enhance water
+accessibility in heat-prone areas.
+In contrast, fewer respondents observed other interventions. Only 2 participants each
+reported the presence of paramedical camps, awareness campaigns, and heatwave relief
+camps. The establishment of paramedical camps indicates efforts to provide basic
+healthcare services during periods of intense heat, particularly for vulnerable populations.
+Awareness campaigns were designed to educate the public about the risks of heatwaves
+and appropriate precautionary measures. Meanwhile, relief camps offered temporary
+shelter and support during peak heat conditions. Although these latter measures reached
+fewer individuals, they reflect a multifaceted and inclusive approach to heatwave
+management.
+
+2.2.6. Key Findings
+The survey for the perceptions of heatwaves, highlighted several critical issues impacting
+effective heatwave management. Prominent concern in which is the limited public
+awareness and understanding of heatwaves. Nearly half of the respondents
+demonstrated a lack of knowledge regarding the basic concept and risks associated with
+heatwave, despite having low ratio of only 15% illiterate people in total respondents,
+which is showing the gap of understanding even for literate people. Furthermore, only 5%
+of the informants have reported the observation of any awareness campaigns,
+emphasizing the urgent need for widespread educational initiatives. Another significant
+issue is the inadequate understanding of appropriate emergency responses. While
+hydration was commonly recognized as a remedy for heatstroke, only 2% of respondents
+identified contacting emergency services as a necessary action. This gap in knowledge
+could delay critical care and increase health risks during extreme heat events.
+In terms of government interventions, the majority of respondents indicated that the
+installation of water coolers was the most visible initiative in their communities. Other
+essential measures, such as relief camps, paramedical services, and public awareness
+campaigns, were reported by only a small fraction of participants. This points to a limited
+implementation and reach of broader heatwave mitigation strategies.
+
+    To improve heatwave preparedness and response, several steps are recommended:
+ 1.    Expand Awareness Campaigns: Given that television is the primary source of
+ information for 43% of respondents, it should be strategically used to disseminate
+ information on heatwave risks, preventive measures, and emergency protocols.
+
+
+
+
+Page | 19
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+ 2.     Strengthen Emergency Response Education: Public education programs
+ should focus on equipping individuals with the knowledge of how to act during a
+ heatstroke, including the importance of contacting emergency services promptly.
+ 3.     Enhance Community-Level Interventions: The government should increase
+ the visibility and accessibility of relief camps, medical services, and hydration stations,
+ particularly in high-risk urban areas.
+ 4.    Leverage Multi-Channel Communication: In addition to television, platforms
+ such as mobile alerts, social media, and community outreach should be used to reach
+ a wider and more diverse audience.
+ 5.     Integrate Long-Term Solutions: Urban planning should incorporate
+ sustainable infrastructure such as green spaces, shaded areas, and permanent access
+ to safe drinking water to build resilience against future heatwaves.
+
+
+
+2.3. Conditional Assessment of Water Supply
+     Facilities
+Team conducted a comprehensive survey across various localities in 10 administrative
+towns of Lahore. The core objective of the survey was the collection of data regarding
+heatwave perception, and management practices used to cope up with the severe
+conditions. The survey specifically prioritized public utilities that play a significant role in
+well-being of a community in extreme heat. Public access to the safe drinking water, and
+provisioning of shades in extreme heat were examined not only for their physical
+presence but also for their operational reliability, ease of access, and equitable
+distribution within densely inhabited areas. The approach was exercised in order to
+assess the availability of relief features at the survey areas. Due to this reason, this report
+features the primary data collected and analyzed for the two main relief appurtenances,
+including:
+    ▪   Water Filtration Plants
+    ▪   Relief Camps
+
+2.3.1. Water Filtration Plants
+Water Filtration Plants serve as the critical infrastructure for ensuring the equitable
+provision of safe and sufficient drinking water to the urban population. There are
+approximately 573 such filtration plants spread all across the city, 449 of which are owned
+by WASA-L. There are different public and private entities involved in the installation of
+filters units; like WASA-L, Punjab Ab-e-Pak Authority, NGOs, and other private
+
+
+Page | 20
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+stakeholders. The role of these assets is to contribute in the provision of water as prime
+need for survival, especially in extreme heat events that have increased due to climate
+change.
+The team collected detailed information through structured engineering survey forms to
+better understand how well these facilities are meeting the need of local residents. The
+data covered a wide range of factors, including capacity of each plant, type of filtration
+process, availability of shaded area, water quality feedback, and source of power, which
+provides an adequate understanding of filtration plants for their operational conditions.
+
+2.3.2. Relief Camps
+Relief camps are important feature to consider as an adaptive measure to deal with
+heatwave. These camps are provided as an emergency aid to manage extreme weather
+crisis or disaster. The camps ensure to cater the emergency needs in a streamlined
+manner. Specifically for heatwave these medical relief camps ensure availability of
+appropriate shade, fans, mineral water, medical staff and equipment. However, it should
+be noted that not a single relief camp was observed at any of the survey points across
+the city.
+
+2.3.3. Analysis of Filtration Plants
+The team visited a total of 54 survey points across 10 towns within the city and collected
+data related to to the overall functionality, quality of drinking water, type of filtration system
+used, condition of the civil infrastructure, source of water supply, serving capacity,
+available shades, ownership of the filtration plant, and the potential for solar/PVs
+installation on the plant as green energy resource.
+
+
+
+
+  Figure 19: Filtration plants visited across Lahore (a) Data Gunjbaksh, (b) Gulshan-e-Ravi (c)
+                                            Circular Road
+
+The data collected resulted following outcomes:
+    ▪   The sampling locations selected for this survey indicated that a total of 39% of the
+        filtration systems used ultrafiltration systems and 55% of the filter plants used RO
+
+
+Page | 21
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+        technology, However, only 6 percent of them fell in the category “other”, with other
+        membrane technologies.
+    ▪   39 out of 54 visited plants had WASA supply for water. However, the rest of them had
+        borehole connections. Notably, most plants with borehole supply were privately
+        operated.
+    ▪   Around 65% of the filter plants were owned by the public sector authorities. However,
+        the remaining 25% were owned by private owners, particularly mosques.
+    ▪   Approximately 73% of the surveyed plants had suitable spaces to install solar PVs.
+        Among them, only one privately owned plant in a mosque, located in Shalimar
+        town, already had it.
+Functional Status
+                                                                              2%
+The functional status of the filtration plants was
+assessed using data collected during
+heatwave hours to ensure a realistic                               26%
+evaluation of system performance under
+stress conditions. It was observed that 39 out
+of the 54 filtration plants visited were
+functional, accounting for approximately 72%
+of the total sample. However, the major chunk,                                          72%
+i.e., 14 plants, were non-functional, comprising       Functional
+26% of the total sample. The town-wise                 Non-Functional
+                                                       Closed in worse condition
+functional status of the filtration plants is
+detailed below in (Figure 24).                     Figure 20: Functional Status of filtration plants
+
+        120%
+               100%                                      100%
+        100%
+                                                                                      83%
+        80%                             72%                           75%
+                        71%     71%
+                                                                66%
+        60%                                        50%
+                                                                              40%
+        40%
+
+        20%
+
+         0%
+
+
+
+
+                   Figure 21: Town wise Functionality Status of filtration plants
+
+
+
+Page | 22
+            Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+            Conditional Analysis
+
+            The survey further examined the overall                             2%
+            condition of the filter plants in each town.                    6%       9%
+            The data was assessed and graded
+            according to the Likert scale. Five grades
+            were assigned, i.e., excellent, good,                  24%
+            satisfactory, poor, and failure. A complete
+            failure of the filter plant, comprising 2% of
+            the total plants, was found in Ravi town,
+            where the structure was extremely                                          59%
+            deteriorated and had a prolonged closure.
+            The data revealed that 59% of the filter                  Excellent         Good
+            plants fall under the category of good,                   Satisfactory      Poor
+            indicating a generally acceptable quality of              Failure
+            maintenance. It reflects that these plants    Figure 22: Conditional overview of Filtration
+            only require minor improvements. The                              plants
+            remaining facilities showed varying
+            conditions, emphasizing the need for targeted interventions based on severity.
+            The details of condition-wise categorization of filtration plants have been further broken
+            down individually for each town. The percentage of filtration plants from each town falling
+            into a particular category has been provided in (Table 3).
+                                 Table 3: Conditional categorization of filtration plants
+
+
+
+Condition        Aziz     Cantonment     Data Gunj    Gulberg   Iqbal   Nishtar   Ravi   Samanabad   Shalimar   Wagha
+                 Bhatti                  Bakhsh       Town      Town    Town      Town   Town        Town       Town
+                 Town                    Town
+
+ Excellent        0%           0%           40%          0%      0%       0%      16%       20%        14%       0%
+
+   Good           50%        100%           40%          50%    80%     100%      34%       40%        29%      86%
+
+Satisfactory      50%          0%            0%          67%    20%       0%      34%       40%        29%      14%
+
+   Poor           0%           0%           20%          33%     0%       0%      0%        0%         28%       0%
+
+  Failure         0%           0%            0%          0%      0%       0%      16%       0%         0%        0%
+
+
+
+
+            Page | 23
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+2.3.4. Provision of Shade Analysis
+The survey also focused on the
+provision and type of shade available
+at each filter plant. The data revealed
+that around 59.25% of the plants had
+some kind of shade available, either
+natural or permanent. Both types of
+shades were present in almost
+comparable proportions. Around
+45.45 % had natural/ trees and
+lacked permanent shade. These
+shades were found in places
+adjacent to parks. It is to be noted Figure 23: Provision of Shade (a) Mori Gate Park, (b)
+that the majority of privately operated                         Iqbal Town
+filtration plants had permanent sheds providing shade to the public. Appropriate shade is
+necessary as it provides relief from the sun during times of heat. Additionally, most of
+them had no seating facilities for the public.
+The percentage of shade in each town has been evaluated, and it was clearly seen that
+the Shalimar town and Ravi town have the lowest proportions of shade. It also indicates
+the poor civil infrastructure of the filter plants in these towns. However, the cantonment,
+Iqbal town, and Nishtar town had the maximum percentage of plants (100%) with shade.
+The following is the graph attached;
+               120%
+
+               100%
+
+                80%
+
+                60%
+
+                40%
+
+                20%
+
+                 0%
+                                         Data
+                          Aziz                                                    Samana
+                                  Canton Gunj Gulberg   Iqbal   Nishtar    Ravi          Shalimar Wagha
+                         Bhatti                                                     bad
+                                   ment Bakhsh Town     Town     Town     Town            Town    Town
+                         Town                                                      Town
+                                         Town
+       Shade Observed     75%     100%   50%    50%     100%    100%      33%      40%     14%    43%
+
+                        Figure 24: Percentage of Shades observed in each town
+
+
+
+
+Page | 24
+  Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+Heatwave Resilience
+Index: A Weighted
+Assessment of Key
+Urban Services
+
+
+
+
+  Page | 1
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+Assessment of
+Community
+Resilience to
+Heatwaves in
+Lahore
+2.4. Heatwave Resilience assessment
+The impacts of heat waves are shaped by a complex interplay of climatic, environmental,
+socio-economic, and institutional factors. While external elements such as regional
+climatic shifts, global warming trends, and natural topography contribute to the frequency
+and intensity of heat wave events, social determinants such as poverty, aging
+populations, informal housing, and occupational exposure exacerbate vulnerability at the
+community level. These aspects are critical in understanding risk profiles, but often lie
+outside the immediate scope of policy control or require long-term structural change.
+In contrast, there exists a set of controllable factors—elements that can be directly shaped
+or enhanced through governance, planning, resource allocation, and public intervention.
+These factors serve as entry points for building institutional resilience and reducing
+exposure and sensitivity to extreme heat. Among the range of possible interventions, four
+priority areas have been identified in this risk assessment exercise for their strategic
+relevance, feasibility of implementation, and potential to deliver both immediate and
+sustained impact. The studied factors included, sustainable water supply, healthcare
+systems, public awareness, and green spaces.
+
+
+
+
+Page | 25
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+2.4.1. Prioritization of Factors
+These four controllable factors form the backbone of an integrated heat wave
+management framework. Their selection is rooted in practicality and impact potential,
+aligning closely with urban planning, health equity, and climate adaptation goals.
+However, in order to effectively manage and contribute toward mitigation of heat wave
+impacts, it is imperative to understand the relative significance of these factors. Given the
+multi-dimensional nature of heat wave management, and its ability to span across sectors
+such as green urban planning, public health, environment, and public preparedness, a
+structured, transparent, and rational framework is required to assess the inter-relatability
+of these factors.
+The relative weightage of the considered factors and the order to precedence is indicated
+in the figure below.
+
+            Public                  Water            Green
+                                                                         Heatcare
+          Awareness                 Supply           Spaces
+                                                                          (20%)
+            (35%)                   (25%)             (20%)
+
+Public Awareness weighted highest at 35% focused on the population’s knowledge and
+behavior in relation to heat-wave risks, including recognition of heat-related symptoms,
+hydration practices, and responses to official heat-wave alerts. Areas with higher
+awareness demonstrated stronger readiness and behavioral adaptation, which
+significantly reduces heat-related health risks.
+The Conditional Assessment of Filter Plants (25%) evaluated the operational efficiency,
+maintenance status, and reliability of water filtration units. In the face of rising
+temperatures, functioning filter plants serve as critical public assets, ensuring access to
+clean drinking water an essential line of defense during heat-waves.
+The remaining factors Proximity to Green Spaces and Proximity to Hospitals (20% each)
+play supporting but vital roles. Green spaces contribute to local cooling, countering the
+urban heat island effect, while proximity to hospitals improves emergency response
+capability, reducing the consequences of heat-related illnesses. The final percentage
+rating based on the individual weighted score of the factors is then categorized to assign
+grade based on the overall risk factor of the area. This was achieved by generating ranges
+and assigning the unique grades to each numbered range. The ranges that make up each
+grade have been tabulated here
+
+
+
+
+Page | 26
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+                            Grade                    Range
+                              A                      > 80%
+                              B                    65% - 80%
+                              C                    50% - 65%
+                              D                      < 50%
+
+
+2.4.2. Field Assessment & Mitigation Measures for Factors
+This section discusses the mitigation measures and outlines the field assessments
+conducted to evaluate contributing factors.
+Public Awareness and Early warning
+
+Public awareness is an important factor to enhance community understanding,
+preparedness, and response capabilities to extreme heat events through targeted public
+knowledge and communication strategies. The main goals include but are not limited to
+the following.
+•       Improve public knowledge of heat wave risks and health impacts.
+•       Promote protective behavior and adaptive practices during heat events.
+•       Increase engagement of vulnerable groups.
+•       Foster a culture of preparedness and shared responsibility within communities.
+The survey conducted by the Urban Unit indicated that majority of community remains
+unaware of the threat of heat-wave, highlighting serious concerns and an evident lack of
+effective communication strategy. Questionnaire related to public awareness were floated
+and the perception of general population were gauged, as provide in pervious section in
+(Table 2). It was indicated that a major share of population (41%) remains unaware of
+basic knowledge regarding heatwaves. The preferred communication medium for
+disseminating information about heat waves was also asked, with 43% respondents
+preferring Television as the optimal medium.
+Public awareness is a critical, controllable lever in mitigating the human impacts of heat
+wave, and a coordinated and inclusive awareness strategy can enable communities to
+act decisively and protect themselves during extreme heat events. As provided in
+pervious section (Figure 19), using television (TV) as a public awareness tool during a
+heat wave can be highly effective due to its broad reach, immediacy, and ability to deliver
+visual and emotional content. Following are some impactful ways for utilizing TV to raise
+public awareness and promote safety during a heat wave:
+•       Emergency alerts and tickers
+•       Short Public Service Announcements (PSAs)
+•       Weather Forecast Segments
+•       Talk shows & Morning programs
+
+
+Page | 27
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+•       Community storytelling and testimonials
+•       Educational Info graphics and Visuals
+An early warning system with the help of effective public awareness technique is the first
+line of defense against the health and social impacts of heat-waves. It enables proactive,
+coordinated action, minimizes casualties, and strengthens community resilience in a
+warming world. A heat-wave early warning system is a set of tools and processes
+designed to monitor and predict extreme heat events, communicate timely alerts and
+enable preventive actions to protect vulnerable populations.
+Early warnings allow for timely interventions to manage load on resources during heat-
+wave time. Moreover, it can help to save most vulnerable part of community by taking
+timely decisions like school time-offs or time setting with respect to peak heatwave hours.
+Early Warning Systems enables hospitals to staff up emergency departments and
+prepare for heat-related illnesses like heat stroke, dehydration, and cardiovascular stress.
+Additionally, early information to general public enables them to take timely steps to
+protect themselves.
+Sustainable Water Infrastructure
+
+Sustainable water supply plays a crucial role in mitigating effects of heat waves. A
+significant component of the public water supply infrastructure is the water filtration plants.
+Filtration plants act as dispensing stations for drinking water, helping prevent dehydration
+during heat wave hours. Public Filtration Plants across Lahore were surveyed during this
+exercise to assess their functional status and reliability in providing relief to general public.
+It was assessed that up to 74% of water filtration plants were operational during heatwave
+hours, with 26% being in-operational mostly due to maintenance issues. However, the
+perception of the respondents regarding accessibility of water resources shows that
+majority of 80% use filtered water for drinking purpose, while 69% of those have to travel
+distance of an average more than 1km for collection of water from filtration plant.
+
+
+
+
+Page | 28
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+                               Tap
+                              water
+                                               10%
+                        Tubewell
+                         water          10%
+                                                                           Filtered
+                                                                            water
+
+
+                                                     80%
+        Distance (km)
+
+
+
+
+                                                                                 >1 km
+                                                                     69
+                                          31                                     <1 km
+
+
+                  0                20          40          60              80
+                                        Percentage (%)
+
+
+      Figure 25: Accessibility to water sources, (a) Type of water source consumed by the
+                respondents, (b) Average distance travels for collection of water
+
+It was also assessed that most of filtration plants installed by WASA Lahore operate
+during tube well hours, indicating the need of auxiliary storage or increasing tube well
+timings to cope with the increased demand for water during heatwave hours. The
+conditional assessment of filter plants also indicated generally positive trend with up to
+92% of filtration plants in Excellent to Fair condition.
+For short term action plan, upgrading of water infrastructure is important with conditional
+assessment of the surveyed filter plants discussed in earlier sections. It is also proposed
+to provide proper shades and seating facility near filter plants as short-term relief to public
+during heat-wave. The analyzed trend of shade and seating availability at filtration plants
+is indicated in (Figure 29).
+
+
+
+
+Page | 29
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+                                 Seating is available at just 29% of water
+                                              filtration plants
+                                       71% offer no seating space
+
+
+
+
+     62% of filtration plants are shaded, while
+                  38% lack shade
+
+
+
+
+                              Solar panel installation is feasible at 72%
+                                          of filtration plants
+                                     28% lack the required space
+
+
+Figure 26: Analyzed trend of observations (a) Seating availability, (b) Shades availability and (c)
+                           Space for the installation of Solar panel.
+
+
+
+Healthcare
+
+Access to healthcare system is another important aspect of heatwave management. The
+perception of public regarding which department they believe plays important role while
+dealing with heat-wave situation was also enquired. 46% respondents claimed health
+department as the most critical for dealing with heatwave situations, indicating the
+significance of healthcare services in light of public perception.
+Health care units or hospitals must develop linkages with the weather forecasting
+departments and/or with National Disaster Management Authority (NDMA) for effective
+measures to tackle heatwave situation. Hotspot areas for heatwave can be termed as
+Emergency Zones, utilizing major healthcare infrastructure and nearby hospitals as
+standby emergency camps during heatwave hours. Health department should ensure the
+
+
+
+Page | 30
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+presence of cooling systems, ventilated spaces and maintain essential stocks of IV
+(intravenous) fluids, life-saving medicines, and supplies in hospitals
+. The health care staff should have training on heatstroke management, first aid, and
+emergency responses.
+Green Spaces
+
+Green spaces are natural, multifunctional tools in heat-wave management for any city.
+They are not only essential for reducing land surface temperature but also for ensuring
+healthy lifestyle, and make urban environments more livable and resilient in existing
+situation of rising global temperature. Investing in and maintaining green infrastructure is
+essential for both immediate heat relief and long-term climate adaptation. Green spaces
+mitigate the urban heat island (UHI) effect, which occurs when cities become significantly
+warmer than surrounding rural areas due to human activities and dense infrastructure.
+Lahore is a major metropolitan, and it has been observed during the last few decades
+that green areas of the city are being replaced by concrete structures, causing a rise of
+approximately 2.4 degrees in urban areas as compared to the surrounding rural areas. A
+report published by the Urban Unit indicated that the concrete cover of the city has
+increased to 759 km2 over the past 20 years from an initial 438 km2 in 2000. In a similar
+context, the green areas of the city saw a reduction from 1,550 hectares in 2001, to 1,298
+hectares in 2022.
+
+
+
+
+Page | 31
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+                                      Only 62.10% of population have
+                                       access to green public spaces
+
+
+
+
+           60% of residents have observed
+                  decline in Green Spaces
+
+
+
+
+                                        50% of respondents are willing to
+                                                   invest in Green Spaces
+
+
+
+
+    Figure 27: Perception of respondents on Green Spaces (a) Access to Green Spaces, (b)
+          Reduction in Green Spaces, and (c) Willingness to invest for Green Spaces.
+
+The public insights on green spaces were also determined during community survey
+provided in (Figure 29), which shows that only 62.10% of informants have access to the
+green spaces, as nearby parks of the residential areas. However, 37.90% have no access
+to any green space. The reduction in parks have also been observed by 62.10% the
+residents, which shows alarming situation for the overall environmental and public health
+factors. The willingness of the public to invest in green spaces was just 50%, primarily
+due to lack of trust on the managing departments.
+
+
+
+
+Page | 32
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+                                                        Don't know        3.40%
+
+
+
+            Purposes of Green Spaces
+                                             Recreational activities          10.20%
+
+                                           Temperature Reduction                                                         69%
+
+                                                          Clean Air                                                      69%
+
+                                       Prevent Vital Organ Demage                              34%
+
+                                           Physical/ Mental Health                                              55.20%
+
+                                                  Aesthetic beauty                                          48.30%
+
+                                                                  0.00%           20.00%      40.00%          60.00%       80.00%
+                                                                                           Percentage (%)
+
+
+
+          Figure 28: Insights of respondents on the primary purpose of Green Spaces.
+
+The survey also showed diverse understanding of the public regarding purpose of green
+spaces presented in (Figure 30), in which majority of (69%) informants acknowledge the
+usefulness of green spaces for the reduction of temperature and controlling air pollution
+of the city. It is therefore important to understand that green spaces are not just
+recreational areas; they are crucial for cooling the environment, improving public health,
+and enhancing the city's resilience against heat-waves. Preserving and expanding these
+areas should be a priority to ensure a sustainable and livable urban future
+
+2.4.3. Capacity assessment
+
+Based on the studied framework, the Lahore District showed variable levels of heatwave
+risk across its administrative towns:
+
+    •   Iqbal Town was identified as a low-risk zone, owing to high public awareness,
+        well-maintained filter plants, ample green spaces, and good accessibility to health
+        facilities. Its strong performance across all indicators makes it one of the most
+        resilient areas in the district.
+    •   Samanabad Town is similarly classified as a low-risk area, ranked slightly higher
+        as compared to Iqbal Town in overall risk. The consideration of individual factors
+        has shown that green spaces are relevantly low along with the spatial distribution
+        of heat services that contribute to its relative positioning.
+    •   Moderate-risk areas include Nishtar Town and Shalimar Town, where
+        infrastructure performance and public awareness were variable, and gaps in green
+        space and access to health facilities were more noticeable. These areas may not
+        be in immediate crisis but would benefit from targeted improvements to reduce
+        vulnerability under projected heat-wave conditions.
+    •   Ravi Town and its surroundings were quantified to be high-risk, characterized
+        by low public awareness, deterioration of filter plant infrastructure, and limited
+        proximity to both green spaces and healthcare services. These deficits suggest a
+        higher potential for community stress and adverse health outcomes during extreme
+        heat events.
+
+
+Page | 33
+     Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+     This risk classification provides a foundation for prioritized action in heat-wave
+     preparedness. Public awareness campaigns, strategic investment in filter plant
+     maintenance, expansion of urban green infrastructure, and improved healthcare
+     connectivity will be essential to enhancing Lahore’s resilience to heat stress particularly
+     in its more vulnerable zones.
+
+                            Table 4: Heatwave Resilience Index of Survey points
+
+                                        Public          Water    Green    Proximity to
+                                      Awareness         Supply   Spaces   Health-care    Ratings
+  Area        Latitude   Longitude       (35)            (25)     (20)        (20)        (100)    Grades
+
+              31.52361    74.34438                       15       17          13              69     B
+ Gulberg      31.52670    74.35680                       15       16          13              68     B
+  Town        31.51620    74.35810         24            20       15          12              71     B
+              31.54970    74.35870                       20       12          14              61     C
+              31.57720    74.33630                       15       12          12              54     C
+              31.58041    74.32686                       15       16          16              62     C
+Ravi Town     31.56709    74.31739         15             0       15          14              44     D
+              31.59090    74.29970                        5       18          12              53     C
+              31.58610    74.29920                       20       14          10              62     C
+              31.56710    74.29360                       25       20          15              78     B
+              31.55577    74.32171                       20       17          20              75     B
+ Data Gunj    31.57230    74.29970                       15       15          15              63     C
+Baksh Town    31.58327    74.30067         18            25       15          16              74     B
+              31.44417    74.35525                       20       17          17              74     B
+              31.44303    74.35461                       20       17          17              74     B
+              31.46842    74.34733                       20       15          15              70     B
+ Nishtar      31.45244    74.35242                       20       18          18              76     B
+  Town        31.46667    74.33784         20            20       12          12              64     C
+              31.55925    74.42260                       20       10          10              62     C
+              31.55242    74.41169                       20       14          10              66     B
+Aziz Bhatti   31.54916    74.40823                       15       14          14              65     B
+  Town        31.54965    74.38386         22            15       12          14              63     C
+              31.59365    74.42243                       15        7          11              49     D
+              31.59486    74.42117                       20        7          12              55     C
+              31.58984    74.43479                       20        9           9              54     C
+              31.59314    74.42061                       20        9           9              54     C
+              31.59144    74.41297                       20        9           9              54     C
+  Wagha       31.60053    74.41379                       20       11           7              54     C
+  Town        31.60220    74.41457         16            20       11           7              54     C
+              31.60581    74.39915                       10        5          11              44     D
+ Shalimar     31.58413    74.40609                       15       14          14              61     C
+  Town        31.58941    74.38308         18            10       20          16              64     C
+
+
+
+     Page | 34
+     Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+             31.57961     74.35307                      15   17   17   67   B
+             31.58366     74.40160                      10   15   15   58   C
+             31.57420     74.38315                      20   13   15   66   B
+             31.55230     74.28290                      25   18   15   85   A
+             31.53460     74.29410                      20   14   12   73   B
+             31.53190     74.32331                      15   16   18   76   B
+             31.52589     74.32070                      15   15   14   71   B
+             31.52778     74.31970                      20   15   14   76   B
+             31.50399     74.27437                      15   17   13   72   B
+             31.51120     74.27808                      15   18   15   75   B
+             31.51120     74.27620                      25   18   15   85   A
+             31.50774     74.28379                      20   20   10   77   B
+             31.52421     74.28848                      15   16   16   74   B
+Samanabad    31.51833     74.29265                      10   16   15   68   B
+  Town       31.51534     74.29964         27           15   20   18   80   A
+             31.37793     74.18284                      25   18   16   89   A
+             31.38257     74.19009                      25   18   17   90   A
+             31.45456     74.22851                      20   20   18   88   A
+             31.45558     74.23181                      25   16   15   86   A
+Iqbal Town   31.47173     74.26582         30           15   16   15   76   B
+
+
+
+
+     Page | 35
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+                       Figure 29: Heatwave resilience Index of survey points
+
+
+
+
+Page | 36
+ Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+Heatwave Management
+        Plan
+
+
+
+
+ Page | 1
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+Heatwave
+Management Plan
+The 2022 heatwave in Lahore raised the urgency and commitment of provincial
+stakeholders to develop a coordinated response action plan at the city level to prepare
+and mitigate future heatwave effects. The summer season in Lahore generally lasts from
+April to October. Extreme temperature and low humidity levels are experienced during
+the onset of the summer season, which is followed by monsoon showers, and finally high
+humidity season. However, climate change has altered the start and end of all seasonal
+variations, along with the intensity of local temperature, rainfall, and humidity, as was
+discerned during the heatwave of 2022. The vulnerability of heatwaves is often seasonal
+and occurs during a specific time of year based on the geography and local climate. It is
+impertinent that preparedness and plans should be formulated after vulnerability
+mapping, weather forecasts, consultative meetings, etc. to enhance community
+preparedness and mitigation during the heatwave.
+
+
+
+
+                 Figure 30: Heatwave Management Plant Lout (Pre-During-Post)
+
+This section comprises of action measures that will be taken before, during, and after the
+heatwave season in Lahore city.
+
+3.1. Early Warning System:
+
+
+Page | 37
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+An early warning system for a heatwave is a meteorological alerting mechanism that
+provides information to the general public and governing stakeholders about the
+impending rising temperature, its impacts, and stimulates the need to implement an action
+plan for its prevention and mitigation. The joint report of World Meteorological
+Organization (WMO) and World Health Organization (WHO) on development of warning
+system for heatwaves and health risks, discusses following key components of an early
+warning system [13];
+
+
+
+
+               Figure 31: Key Components of Early Warning System for Heatwave
+
+An early warning system for heatwave preparedness and mitigation provides a basis for
+a broader action plan, that is implemented when risks are met. The success of an action
+plan depends on standards developed based on the availability of reliable data,
+community awareness plan, stakeholders’ identification and engagement, formalizing
+defined actions for each stakeholder, and composing an implementable action plan
+focusing upon the community under risk.
+
+3.1.1. Heat-Health Thresholds:
+
+
+
+
+Page | 38
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+The     Pakistan        Meteorological
+Department is mandated for
+weather observations and provides
+current and forecasted weather
+information for optimization of
+weather-sensitive operations. The
+PMD issues warning against severe
+weather     phenomena        including
+drought, heavy rains, heatwaves,
+etc.   Lahore       city   has     the
+characteristic climate of tropical
+areas, comprising of extreme
+temperatures and humidity levels,
+which puts it at higher risk of
+impacts.
+The regional meteorological station
+and health departments of the city
+are the key players in defining heat-health thresholds. These thresholds can be
+developed through availability of updated and reliable data and forecast patterns specific
+to Lahore city.
+
+3.1.2. Surveillance and Alerting System:
+Forecasting heatwaves well in advance of their occurrence provides the time for
+preparedness. The following set of information will be reviewed on regular basis to
+anticipate heatwaves and take appropriate action throughout the heat season.
+    ▪   Regular forecast of maximum and minimum temperature for the next 7 days from
+        RMC Lahore
+    ▪   Reports on heat-related health impacts and fatalities from all clinics, hospitals, and
+        health centers.
+The forecasting of extreme temperatures is significant for declaring heatwave
+emergencies and initiating mitigation measures. The health impact reports can assist in
+identifying the additional ongoing impacts to define health-related thresholds.
+Alerting System:
+
+The response action plan in Lahore will be implemented based on a three-tier alerting
+system.
+                                  Table 5: Three-tier Alert System
+
+    Alert            Criteria                      Public Advisory       Government Response
+
+
+
+
+Page | 39
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+                                           Avoid outdoor activities. Cover your head.     Increased
+ Hot Day
+              Forecast 40℃-41.9℃           Drink more water.                              communication in media
+ Alert
+                                           Wear light colored and loose cotton clothes.   on heat issues.
+
+                                           Avoid Heat exposure.
+                                                                                          High level of public
+                                           Drink sufficient fluids.
+ Hot Day                                                                                  awareness, increased
+              Forecast≥ 42℃                Replenish body salts through IV Fluids.
+ Warning                                                                                  focus, and preparedness
+                                           Wear light colored and loose cotton clothes.
+                                                                                          of government agencies.
+                                           Walk and sit under shades.
+
+
+                                           Extreme care needed for vulnerable people.
+              ≥ 42℃ Forecast and
+                                           Avoid Heat exposure.
+              minimum temperature ≥
+                                           Drink sufficient fluids.
+              30℃ for 2 or more
+ Heatwave                                  Replenish body salts through ORS.              Declaration of Heatwave
+              consecutive days.
+ Emergency                                 Wear light colored and loose cotton clothes.   Emergency
+              Significant levels of heat
+                                           Walk and sit under shades.
+              related illness and
+                                           Call emergency helpline for any additional
+              mortality reports.
+                                           assistance.
+
+
+
+The yellow and orange alerts will be used to increase public awareness and institutional
+readiness of administrative and facilitating departments. Pakistan Meteorology
+department will issue the following statements, that will be replicated and used by PDMA
+and RMC Lahore;
+    ▪   Regular information statements regarding heatwave forecast events for
+        administrative departments.
+    ▪   Public advisory statements for during alert and warning notices.
+    ▪   Heatwave Watch when there is potential risk of heatwave.
+    ▪   Emergency Alert statements when there is a risk of heatwave lasting for more than
+        2 days.
+
+
+
+3.1.3. Declaring a Heatwave Emergency:
+Pakistan Meteorology Department will issue a notice when the defined temperature
+thresholds are met, based upon the forecasted weather patterns. The PMD will declare
+emergency notice in Lahore city, when:
+    1. The maximum dry bulb temperature measured at RMC, Jail Road Lahore is
+       forecasted to be ≥42°C with no significant relief, and night time air temperatures
+       are not expected to drop below 30°C for at least 2 days.
+    2. When there are significant levels of heat-related illness and even mortality there
+       must be a declaration of heatwave Emergency and rapid response.
+Once the heatwave emergency is declared, action plans will be triggered by the
+administrative and facilitating departments across the Lahore division. Heat-related
+illnesses and mortality will be monitored throughout the heat season to determine
+potential events that raise health concerns. The plan will be reviewed and improved
+
+
+Page | 40
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+considering the health impacts of previous heat season to increase preparedness and
+prevention. Heatwave emergency will also be declared by the Commissioner Office when
+significant number of heat related diseases and mortality are reported, regardless of the
+climate pattern.
+
+3.2. Communication Plan:
+The communication plan is as follows;
+    ▪   An Emergency Response Coordinator will be responsible for the entire
+        coordination during heatwave.
+    ▪   The Emergency Response Committee will maintain constant communication with
+        relevant departments and the general public during the heat season. The level of
+        communication between stakeholders and response will be amplified or
+        diminished in accordance with the level of concern issued by PMD.
+    ▪   The efficient implementation of the Response Action Plan will depend upon the
+        adequate and timely sharing of forecast information from the Pakistan Meteorology
+        Department. Regional Meteorological Centers in Lahore will also be monitoring the
+        regional weather patterns in coordination with PMD.
+    ▪   Environment Protection Department and Environment Protection Agency in
+        Lahore are mandated with managing the environmental concerns at provincial
+        level in Punjab. EPD will play a key-role in coordination and implementation of
+        response action plan.
+The facilitating departments will be tasked with the implementation of the response action
+plan, according to the level of issued notice. These departments will ensure the
+appropriate and well-timed delivery of a range of actions in accordance with the following
+arrangements. The operational feedback will be shared with ERC regularly, which will
+review the efficiency of all operations. Details are given.
+
+
+
+
+Page | 41
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+                                   Figure 32: Communication Plan
+
+3.2.1. Key Actors:
+    ▪   Deputy Commissioners (DC): The DC will be responsible for organizing and
+        coordinating resource deployment, including locations for heat relief camps,
+        cooling stations, shade structures, etc. at the district level.
+    ▪   Municipal Corporations (MC): the MC will trigger field response by ensuring that
+        medical supplies, ice packs, relief camps, emergency response teams, and
+        emergency contacts are in operation. The MC Officers will visit health care centers
+        and prepare weekly reports of the municipality for ERC.
+    ▪   Union Councils: The Union Councilors in each union will be responsible for
+        managing community-based services, and engaging all stakeholders and the
+        general public for increased preparedness and collaborative planning. They will
+        also disseminate information pertinent to locations of cooling points, display
+        information brochures, and will manage the information outreach to all people.
+
+
+Page | 42
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+    ▪   Health and Medicine Departments: They will be responsible for information
+        sharing and the equipment of all health care units with human resources and
+        medicines throughout the heat season.
+    ▪   WAPDA, LESCO, WASA: These utility agencies will be responsible for
+        maintaining an adequate supply throughout the heat season, with a special focus
+        on highly vulnerable areas.
+    ▪   Social Welfare Organizations: These organizations will mobilize their resources
+        such as ambulance services, volunteers, paramedical staff, etc. to provide
+        emergency relief to heatwave patients. Customized awareness material focused
+        on heat-related illness and first-aid actions will be developed and displayed in
+        ambulances for effective and timely treatment.
+    ▪   Education & Labor Departments: These departments will inform their relevant
+        line departments to consider public holidays under emergency notice. They will
+        also disseminate awareness material regarding the prevention from the heatwave.
+    ▪   Information Departments: The information department will be responsible to
+        publicize all awareness material through all conventional and modern
+        communication means.
+    ▪   Irrigation & Agriculture Departments: Information and Agriculture departments
+        will monitor water flows in the water bodies, assist farmers in managing adequate
+        water supply to crops and livestock, and will devise plans to safeguard the food
+        security.
+3.2.2. Heatwave Awareness Campaign:
+Heatwave Awareness Campaigns will be conducted pre-during season in coordination
+with emergency response committee and key stakeholders. The aim of the campaign will
+be to increase awareness and preparedness of the general public well in advance of the
+perceived risk. The primary audience for this campaign will be;
+    ▪   Locals living in Lahore (focusing the highly vulnerable locations and populations)
+    ▪   Travelling visitors in Lahore (preferably people at local transit terminals)
+The awareness material will include information pertinent to risk probability, prevention
+measures, time and magnitude of heatwave occurrence, appropriate response, and
+emergency contact numbers.
+The paramedic staff, ambulance drivers, traffic police wardens, and emergency response
+volunteers will also be provided information on heat related symptoms, illness, first-aid
+treatments, and locations of nearest relief centers in the local language. This is significant
+for reducing medical surge in DHQs and THQs.
+
+
+
+
+Page | 43
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+The key messages to reduce the impact of high temperature and dry conditions on public
+will be shared in simple, clear, and short format through local languages, via;
+         Leaflets                  Handouts               Brochures            SMS Alert
+
+  Social Media Graphics          Display boards            Posters
+
+
+
+Public Messaging:
+
+The information dissemination to the public will be conducted in a regular series of
+multiple messages before and during the heat season, and will be focused on the
+following six components:
+
+
+
+
+                          Figure 33: Components of Information dissemination
+
+Sufficient knowledge dissemination to the public is important to trigger their efforts to take
+precautionary measures beforehand.
+
+3.3. Heatwave Emergencies
+When the climate forecasts will meet or exceed the defined threshold for maximum
+temperature in Lahore, the PMD will issue a yellow, orange, or red notice in accordance
+with the threshold level or reported heat-related illnesses. The different levels of target
+groups are:
+
+
+
+
+Page | 44
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+                                   Administrative Level
+                            A
+                                                                       B
+
+
+
+
+                                                                                 Facilitators Level
+                  Commissioner
+                  Office                                     Health & Medicine
+                                                             Departments
+                  EPD
+                                                             Social Welfare
+
+
+
+
+                                                                                                                       Target Population
+                  MC Offices                                 Organizations                                   C
+                  Mayor                                      WASA                                     General Public
+                  PDMA                                       WAPDA                                    UC Chairman
+                                                             LESCO                                    and Union
+                  Information                                                                         Councilors
+                  Department                                 Irrigation
+                  PMD & RMC                                  Department
+                                                             Agriculture
+                                                             Department
+                                                             Labor Department
+                                                             Traffic Police
+                                                             Education
+                                                             Department
+
+
+                                 Figure 34: Level of Target Groups
+
+The notice will be issued in coordination with the Regional Met center of Lahore, to EPD,
+PDMA, and other administrative departments in Lahore. The communication strategies
+will vary for each level of issued advisory and will increase the involvement of
+stakeholders according to the severity of climate situations. The alert levels will identify
+the issuance of three types of notices concerning potential heat risk by the PMD. These
+notices will identify the groups to be notified by the ERC (Emergency Response
+Coordinator). Mobile Applications, Social Media, and Websites will be used as vehicles
+for coordination. The advisory notices are as follows:
+Yellow Alert:
+
+                                                              Alert Notice from PMD
+                                                           Letter/ Fax/ Website/ Email/
+                                                                    Telephone
+
+
+
+
+                                                                 Commissioner
+                                                                    Office
+                                                                Letter/Fax/Websit
+                                                                e/ Email/
+                                                                Telephone
+
+
+
+
+                   DMCs & MCs            Health Services                                                     Information
+                                                                                PDMA
+                     Offices              / Department                                                       Department
+
+
+                                                          Figure 35: Yellow Alert
+
+
+
+Page | 45
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+Orange Alert:
+
+Group A and Group B will be notified for action under the Orange Warning Notice.
+
+                                        Warning Notice from PMD
+                                       Letter/ Fax/ Website/ Email/
+                                                Telephone
+
+
+
+
+                                              Commissioner
+                                                 Office
+                                             Letter/Fax/Website/
+                                              Email/ Telephone
+
+
+
+
+                             Group A                                      Group B
+                            CM Office                                       NGOs
+                              PDMA                                     Public Service
+                        DC and MC Offices                              Organizations
+                        Health Services &                             WAPDA & LESCO
+                       Health Departments                                  WASA
+                           Information                               Labor departments
+                          Departments                                   Traffic Police
+                                                                   Education departments
+
+                                       Figure 36: Orange Alert
+
+Red Alert:
+
+All groups will be notified for action under the Red Emergency declaration notice.
+
+
+
+
+Page | 46
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+                                          Emergency Notice from PMD
+                                          Letter/ Fax/ Website/ Email/
+                                                   Telephone
+
+
+
+
+                                               Commissioner Office
+
+                                               Letter/Fax/Website/
+                                               Email/ Telephone
+
+
+
+
+                                     Group A                         Group B
+
+
+
+                                          Brochures/ TV/ Radio/Mobile
+                                             App/Announcement in
+                                                   Mosques
+
+                                                    Group C
+
+
+                                            Figure 37: Red Alert
+
+
+
+3.3.1. All Clear Notice:
+After the heatwave has terminated, the PMD will notify the forecasts to administrative
+departments with an All Clear Notice. The All Clear Notice will initiate performance evaluation
+process.
+                                         Table 6: All-Clear Notice
+                                                All Clear Notice
+ After the Heat Season, PMD will issue All Clear Notice, that will terminate all actions conducted under alerts,
+  warnings, and emergency notices. The emergency response coordinator will convene meeting with the key
+stakeholders to organize an evaluation of the annual heatwave management plan. The agenda of the meeting
+         would be to discuss and review the past performance of all key players. After the consultation,
+recommendations for the improvement of the heatwave management plan will be recorded as minutes of the
+                        meeting and will be sent for incorporation into the revised plan.
+
+3.4. Response Action Plan:
+The potential outcome of such a framework can include:
+    ▪   Clarity in roles and responsibilities of all major stakeholder groups in ensuring
+        preparedness for, and timely response to heatwaves
+    ▪   Scope for regular stakeholder interface, knowledge sharing and capacity building
+
+
+Page | 47
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+    ▪   Draw lessons from case studies of global and national experiences
+    ▪   Prioritize vulnerable states and cities with implementable interventions
+    ▪   Generate inventory of potential knowledge partners and area fir future research
+
+
+
+
+                                    Figure 38: Response Action Plan
+
+The actions to be taken by different departments under various levels of heatwave alerts,
+are included in the following tables.
+                     Table 7: Actions to be taken during the Heatwave season
+
+   Departments                                   Actions                                 Facilitating Departments
+ Commissioner       Maintain situational awareness on potential heatwave                 PMD & RMC
+ Office             occurrence through regular review of forecasts and notifications     NDMA & PDMA
+                    from PMD.                                                            DC & MC Offices
+                    Contact focal person from each department prior to heat              Health Department
+                    warnings.                                                            Information Department
+                    Activate the heat alerts and response action when heat forecasts     Social Welfare Organizations
+                    are notified in accordance with the Communication Plan.
+
+                    Regularly monitor the situation and increase the level of alert in
+                    accordance with the severity of the situation and heat forecasts.
+ Pakistan Met       Model forecasts, develop advisories, and share alerts with           Commissioner Office
+ Department         relevant departments in accordance with the communication            Health Departments
+                    plan.
+
+
+
+
+Page | 48
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+   Departments                                      Actions                               Facilitating Departments
+                        Issue heat alerts, warnings, and emergency notices based on
+                        expert guidance and heat tolerance threshold levels.
+
+ Health & Medicine      Ensure availability of information on precautionary measures in   Commissioner Office
+ Departments            the form of brochures, posters, etc. in all health departments,   Health Departments
+                        relief camps, and hospitals, for the general public.              DC & MC Offices
+                        Maintain a sufficient stock of medicines for all heat related     NDMA, PDMA
+                        health problems.
+                        Monitor preparedness in all first-aid centers and relief camps
+                        through case audits and zonal health officer.
+
+ Information            Initiate information dissemination process to the public in       Commissioner Office
+ Department             collaboration with Response coordinator via press conference      Health Departments
+                        about heat-related health impacts.                                DC & MC Offices
+                        Circulate alert messages via social media and mobile              PDMA
+                        applications, in collaboration with private telecom companies     EPD
+                        utilizing the central mobile database, along with the use of      RMC
+                        traditional media during a heat alert.
+                        Circulate bulk warnings using the centralized email database
+                        maintained by the information departments.
+                        Develop a direct SMS Alert system to disseminate upcoming
+                        heatwave information to medical professionals, private
+                        practitioners, and First Aid centers.
+                        Utilize the local television and radio broadcast programs to
+                        provide information on prevention tips for highly vulnerable
+                        localities and ways to get emergency help.
+ Labour & Education     Conduct public awareness campaigns during heat alerts and         Commissioner Office
+ Departments            warning days focusing on heat risk to labourers and workers.      District Education Office
+                        Conduct information dissemination speeches during assembly        Education Departments
+                        and display awareness posters at schools to inform the students   Industries Department
+                        about the causes, impacts, and prevention measures of the
+                        heatwave.
+                        Organize training for outdoor workers/labourers and other
+                        employees focusing on potential harmful impacts and prevention
+                        measures.
+
+ District Offices &     Ensure readiness to implement the response action plan and        Commissioner Office
+ Metropolitan           maintain situational awareness.                                   Police Department
+ Corporation & Local    Open emergency response and first aid centers in all UCs.         PMD & RMC
+ Governments            Develop shade structures, and benches; and open mosques, and      PDMA
+                        wedding halls for people to sit during high-temperature hours.    Health Department
+
+
+ Social Welfare         Work with EPD, PDMA, DC and MC Offices to provide necessary       Commissioner Office
+ Organizations          services to locals.                                               DC & MC Offices
+                        Ensure the supply of IV Fluids and ice Packs.
+                        Confirm points of contact for emergency response and maintain
+                        24x7 emergency contact information through SMS, Email, and
+                        other contact sources.
+
+ Water and              Review water allocation plans under high heat alerts and          Commissioner Office
+ Sanitation Authority   warnings. Increase the duration of TWs operation and ensure       DC & MC Offices
+ (WASA), Lahore         sufficient water supply in low-pressure areas
+
+
+
+Page | 49
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+    Departments                                      Actions                                Facilitating Departments
+                        Maintain regular contact with Emergency Response Coordinator
+                        for situational awareness.
+ WAPDA & LESCO          Confirm points of contact for emergency response and maintain       Commissioner Office
+                        24x7 emergency contact information through SMS, Email, and          PMD & RMC
+                        other contact sources.                                              DC & MC Offices
+                        Maintain regular contact with Emergency Response Coordinator        PDMA
+                        for situational awareness.                                          EPD
+                        Review electric supply plans during days of high heat alerts and
+                        warnings.
+                        Collaborate with PMD and RMC Lahore to increase the duration
+                        of power supply during high heat days.
+
+ City Traffic Police,   Confirm points of contact for emergency response and maintain       Commissioner Office
+ TEPA                   24x7 emergency contact information through SMS, Email, and          DC & MC Offices
+                        other contact sources.
+                        Maintain regular contact with Emergency Response Coordinator
+                        for situational awareness.
+                        Review traffic control plans during days of high heat alerts and
+                        warnings.
+
+ NDMA                   Maintain regular contact with PDMA, PMD, DC and MC Offices for      Commissioner Office
+                        situational awareness.                                              PMD & RMC
+                        Review PDMA forecasts and operations on daily basis.                DC & MC Offices
+                                                                                            EPD
+ PDMA                   Ensure coordination and implementation of response action           Commissioner Office
+                        plans.                                                              DC & MC Offices
+                        Continue SMS services and other awareness campaigns                 PMD & RMC
+                        conducted by PDMA in Lahore for heatwave awareness and              NDMA
+                        prevention measures.
+
+
+
+                         Table 8: Actions to be taken during the Heatwave season
+
+   Departments                                       Actions                                Facilitating Departments
+ Commissioner           Coordinate with DC & MC Offices, WASA, WAPDA, and LESCO             PMD & RMC
+ Office                 Ensure access of vulnerable populations such as slum                NDMA & PDMA
+                        communities, and outdoor workers to shady areas and water           DC & MC Offices
+                        supply. Temporary shelters, first-aid centers, and response camps   Health Department
+                        should be kept open 24x7 for migratory populations.                 Information Department
+                        Ensure timely information display for forecasts, and prevention     Social Welfare Organizations
+                        measures.
+                        Conduct consultative meetings and conferences wit response
+                        team to discuss ongoing situations during heat alert.
+ Pakistan Met           Ensure timely coordination of all relevant information with NDMA
+ Department             and PDMA.
+ Regional
+ Meteorological
+ Centers.
+
+
+
+
+Page | 50
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+   Departments                                       Actions                                    Facilitating Departments
+ Health & Medicine     Develop Information centers specialized for information                  Commissioner Office
+ Departments           dissemination in all health centers, hospitals, and health               DC & MC Office
+                       professionals.                                                           NDMA & PDMA
+                       Produce regular reports (weekly basis) for the response
+                       coordinator during heat alert/
+                       Ensure preparedness and response readiness of
+                       doctors/paramedical staff/human resource
+ Information           Display emergency contact numbers, nearby relief camps/first-aid         Commissioner Office
+ Departments           centers/hospitals in all                                                 DC & MC Office
+                       schools/offices/universities/factories/other public places.              Health departments
+                       Initiate awareness campaigns at all levels. E.g. media, schools,
+                       NGOs.
+ Education &           Initiate pilot projects for the provision of prevention material (such   Commissioner Office
+ Labour                as caps, umbrellas) and distribution of ice-packs to construction
+ Department            workers, traffic police and transit staff.
+ DC & MC Offices       Declare highly vulnerable areas as emergency centers                     Commissioner Office
+                       Coordinate installation of relief camps and cooling stations.            Health Department
+                                                                                                Police
+                                                                                                NDMA & PDMA
+ Local Government-     Ensure information access from Emergency repose coordinator              Commissioner Office
+ Mayor & Union         through union council and mayor offices to the general public            DC & MC Office
+ Councils              regarding current situation.
+ Social Welfare        Mobilize human resources at all vulnerable locations.                    Commissioner Office
+ Organizations         Display awareness on ambulances and camps for public                     DC & MC Office
+                       awareness.                                                               Local Government
+                       Early-cooling treatment must be invoked when the patient is
+                       picked up.
+ WASA                  Coordinate with emergence response coordinator to determine              Commissioner Office
+                       critical areas and availability of facilities regularly.                 DC & MC Office
+ WAPDA & LESCO         Coordinate with emergence response coordinator to determine              Commissioner Office
+                       critical areas and availability of facilities regularly.                 DC & MC Office
+                       Maintain regular contacts with the emergency response                    PMD & RMC
+                       coordinator for situational awareness.
+ City Traffic Police   Prevent unnecessary traffic delays, avoid road blockades, and            Commissioner Office
+                       restrict transit of people on rooftops during high heat hours.           DC & MC Office
+ NDMA                  Coordinate with armed forces, UN Bodies, NGOs, and                       Commissioner Office
+                       philanthropists’ organizations for mobilization of resources.            PMD, PDMA
+ PDMA                  Launch public awareness campaigns and ensure its outreach to             Commissioner Office
+                       the general public                                                       PMD, PDMA
+                       Utilize its coordination network for effective implementation of
+                       awareness plan.
+                               Table 9: Actions to be taken on Warning notice
+
+   Departments                                       Actions                                    Facilitating Departments
+ Commissioner          Mobilize all relevant departments to initiate response.                  PMD & RMC
+ Office                Ensure all shade-supplying locations are open, activate temporary        DC & MC Offices
+                       night shelters, and ensure water supply to public at all filtration      Health Department
+                       plants and tube-wells.                                                   Information Department
+                       Coordinate suspension of all unnecessary water usage, other than         Local Government
+                       drining and cooling purposes.
+
+
+
+Page | 51
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+                       Communicate with WAPDA & LESCO to ensure power supply
+                       protocols in all health-care centers and vulnerable locations are in
+                       place.
+ Pakistan       Met    Keep monitoring the temperature forecast patterns. Ensure timely
+ Department            coordination of all relevant information with all departments.
+ Regional
+ Meteorological
+ Centers.
+ Health & Medicine     Increase the human resource at hospitals and first-aid centers by      Commissioner Office
+ Departments           employing young volunteers to attend to the influx of patients.        DC & MC Office
+                       Maintain the record of each heat-related patient at each health-       NDMA & PDMA
+                       care center.
+                       Increase coordination with community health workers to increase
+                       outreach to highly vulnerable areas.
+                       Produce health impacts reports for emergency response
+                       coordinator on regular basis.
+ Information           Initiate public awareness campaign regarding the availability of       Commissioner Office
+ departments           relief camps, first-aid centers, emergency contacts, and nearby        DC & MC Office
+                       hospitals.                                                             Health departments
+                       Include religious scholars program anchors, and social influencers.
+ Education      &      Advise employers of concerned organizations to shift the schedules     Commissioner Office
+ Labour Department     of outdoor workers away from the peak heat hours (12:00 pm –
+                       5:00 pm)
+ DC & MC Offices       Adopt all necessary arrangements required at all DHQs, and BHUs.       Commissioner Office
+                       Coordinate with Commissioner Office and Local Government               Health Department
+                       Offices in Lahore Division                                             Police
+                                                                                              NDMA & PDMA
+ Local Government-     Enable self-sufficiency of all neighborhoods, and assist vulnerable    Commissioner Office
+ Mayor & Union         populations.                                                           DC & MC Office
+ Councils
+ Social     Welfare    Mobilize the human resources and facilities at all vulnerable          Commissioner Office
+ Organizations         locations.                                                             DC & MC Office
+                       Allocate the number of relief camps, first-aid centers, and            Local Government
+                       ambulances in densely populated locations.
+ WASA                  Coordinate with emergence response coordinator to determine            Commissioner Office
+                       critical areas and availability of facilities regularly.               DC & MC Office
+ WAPDA & LESCO         Ensure uninterrupted power supply at all critical locations such as    Commissioner Office
+                       healthcare centers and vulnerable locations.                           DC & MC Office
+                                                                                              PMD & RMC
+ City Traffic Police   Ensure the uninterrupted traffic flow near hospitals and emergency     Commissioner Office
+                       centers.                                                               DC & MC Office
+ NDMA                  Activate all emergency operations as appropriate                       Commissioner Office
+                                                                                              PMD, PDMA
+ PDMA                  Issue timely warnings as received from Met Department.                 Commissioner Office
+                                                                                              PMD, PDMA
+
+
+                           Table 10: Actions to be taken on Emergency Notice
+
+                                                                                                          Facilitating
+   Departments                                           Actions
+                                                                                                         Departments
+                       Declare emergency in all hospitals.                                            PMD & RMC
+                       Consider declaring public holidays under heatwave emergency.                   DC & MC Offices
+                       Increase public water supply through the distribution of handouts, and         Health Department
+ Commissioner
+                       facilities at all religious places, shopping centers, community parks, major   Information
+ Office
+                       roads, etc.                                                                    Department
+                                                                                                      Local Government
+                       Monitor the operation of all cooling stations through designated teams.        NDMA & PDMA
+ Pakistan Met          Keep monitoring the temperature forecast patterns. Ensure timely
+ Department            coordination of all relevant information with all departments. Ensure the
+
+
+
+
+Page | 52
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+ Regional              information outreach to the public about potential heatwave impacts
+ Meteorological        through media, mobile applications, and website.
+ Centers.
+                       Initiate launch of mobile teams for emergency support and first-aid.
+                                                                                                     Commissioner
+                       Maintain the record of each heat-related patient at each health-care center
+ Health & Medicine                                                                                   Office
+                       and produce weekly reports.
+ Departments                                                                                         DC & MC Office
+                       Report the number of heat-stroke patients and mortalities to the              NDMA & PDMA
+                       Commissioner on daily basis.
+                                                                                                     Commissioner
+                                                                                                     Office
+ Information           Ensure information dissemination in local languages through the use of all
+                                                                                                     DC & MC Office
+ departments           resources about precautionary measures during heatwave emergency.
+                                                                                                     Health
+                                                                                                     departments
+ Education &                                                                                         Commissioner
+ Labour                Consider declaring public holidays under heatwave emergency.                  Office
+ Department
+                                                                                                     Commissioner
+                                                                                                     Office
+                       Monitor the activities of all subordinate departments and provide regular
+ DC & MC Offices                                                                                     Health Department
+                       updates to emergency response coordinator.
+                                                                                                     Police
+                                                                                                     NDMA & PDMA
+                                                                                                     Commissioner
+ Local Government-
+                       Engage with the social welfare organizations to manage the medical surge      Office
+ Mayor & Union
+                       by ensuring access to nearest health-care center in all localities.           DC & MC Office
+ Councils
+                       Mobilize the human resources and facilities at all vulnerable locations.      Commissioner
+ Social Welfare                                                                                      Office
+                       Ensure the attendance of all emergency calls from heat-affected people,
+ Organizations                                                                                       DC & MC Office
+                       and ensure their timely transport to a nearby emergency relief center.
+                                                                                                     Local Government
+                                                                                                     Commissioner
+                       Ensure water supply through water browsers, water tankers, and all
+ WASA                                                                                                Office
+                       necessary means.
+                                                                                                     DC & MC Office
+                                                                                                     Commissioner
+                       Coordinate with Commissioner Office and Health Care departments to
+                                                                                                     Office
+ WAPDA & LESCO         ensure an uninterrupted power supply at all critical facilities and highly
+                                                                                                     DC & MC Office
+                       vulnerable areas.
+                                                                                                     PMD & RMC
+                                                                                                     Commissioner
+                       Ensure the uninterrupted traffic flow near hospitals and emergency
+ City Traffic Police                                                                                 Office
+                       centers. Allocate traffic wardens at all congestion points in Lahore.
+                                                                                                     DC & MC Office
+                                                                                                     Commissioner
+ NDMA                  Monitor all emergency operations.                                             Office
+                                                                                                     PMD, PDMA
+                                                                                                     Commissioner
+ PDMA                  Direct all relevant departments to implement precautionary measures.          Office
+                                                                                                     PMD, PDMA
+
+
+
+3.5. Long Term Strategies
+There is a need to adopt long-term strategies for a livable city that can sustain the hot
+temperature. There is a need for urban development, transport policies, building design
+and codes, energy-efficient designs, and cooling urban designs that can reduce the
+vulnerability of extreme heat events. The heatwave resilience strategies set out additional
+open doors for supporting, extra plan targets, and building political reasonability.
+
+
+Page | 53
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+Nonetheless, it is emphatically suggested that open doors for an activity to reduce the
+heatwave impact. These longer-term methodologies structure a significant part of the
+general reactions to heatwave events and must be considered during the review of the
+plan.
+
+There are some of the plans that must need to be considered to make the population of
+Lahore more resilient during the heatwave.
+    ▪   Revise the residential and commercial building design by choosing the cool roofs,
+        installing the cool pavements, increasing the canopy cover, and green roofing to
+        reduce the exposure to the heatwave.
+    ▪   Designing high-rise buildings, more green open spaces, acceptable transport
+        infrastructure, and water supply and sanitation design to reduce the scattered
+        growth.
+    ▪   The walled city has become more populated and denser which is highly vulnerable
+        to the heat island effect so there is a need of redesign, renewal and regeneration
+        of the major areas to reduce the heatwave impact.
+    ▪   At the policy level, there is a need to enhance the capacity building of the officials,
+        encourage the collaborations among the partners, raise the public awareness,
+        created the cooling zones and define the new standards or building bye-laws to
+        reduce the exposure of heat.
+    ▪   Decreasing the congestion by sustaining the development of a few downtown
+        areas. Lahore, one of Pakistan's megacities, has developed and urbanized and
+        this pattern will probably keep, considering the significantly less developed areas
+        of the city. There is a need to change Lahore into a policy of a centric city,
+        decreasing the traffic congestion and urban sprawl.
+    ▪   There is a need to develop the rainwater harvesting tanks under the ground by
+        WASA, develop the open spaces and parks, and increased vegetation and trees
+        along the roads which can lead to the green urbanization of existing poor
+        urbanization.
+    ▪   Public transport demands the major focus to reduce the congestion of traffic on the
+        roads which is a major cause of heat island effect. There is a need to better the
+        traffic management system and encourage the public to reduce the use of their
+        personal cars and bikes to lessen the effect of air pollution.
+
+
+
+3.6. Monitoring & Evaluation
+Monitoring and Evaluation is an important component to check the effectiveness of the
+plan. The assessment and evaluation structure include staggered markers and their
+suggested means and recurrence of estimation. It helps in working with boundless partner
+exchange on encounters and examples so that convenient and informed choices can be
+made at both key and functional levels.
+
+
+Page | 54
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+A formal evaluation is basic to evaluate whether strategies are viable in lessening heat-
+related mortality and bleakness. This guides in characterizing components that need
+improvement, measuring the viability of variation endeavors, and assists in relating to
+costing compelling mediations. The following incorporates three principal components:
+    ▪     Vulnerability and risk for population and health frameworks,
+    ▪     Impacts on Health and health system, and
+    ▪     Resilience for the health system and the population at national as well as local
+          levels
+The criteria that should be followed for the evaluation planning:
+
+        Simplicity: There should be simple objective of the meeting as;
+                   - Type of information for the warning issuance
+                   - Number of People and Coordinating agencies that will be involved in warning issuance.
+                   - Time for monitoring, issuance of warnings and maintaining the system.
+     Acceptability: There must be the willingness of individuals who will be participated;
+                    - Participation of the coordinating partners
+                    - Completeness of response of different agencies
+     Timeliness: There must be a time record of warning before its issuance;
+                    - Are the warnings delayed or timely with respect to the different activities?
+     Sensitivity: It will involve the number of times of warning issuance;
+                    - Are How many times the warning will be an issue and what are the meteorological conditions
+                      that occurred?
+        Specificity: - The accuracy of the heatwave mortality forecast should be estimated in order to avoid the
+                       false forecasts
+
+        Reach:      - Who is getting the information and what message they are communicating?
+                    - Is the information effective?
+
+
+The Emergency Response Coordinator in the Office of the Commissioner will guarantee
+that checking data is incorporated in the arrangement’s execution, regulating a course of
+yearly surveys, and plan refreshes as new data is accumulated.
+The following steps will be involved in the evaluation process:
+    ▪     The coordinator will produce the report on the following indicators as a result and
+          lesson for the next year. This will be distributed among the public.
+    ▪     The emergency response coordinator will organize the meeting in which
+          coordinating committees and implementation partners will be involved in the review
+          and evaluation of the plan. Each partner will come with the monitoring data and
+          recommendations.
+
+
+
+Page | 55
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+    ▪     The changes will be made in the plan on the basis of the results of meetings and
+          consultations which will enhance the effectiveness of the plan. The emergency
+          response coordinator will update the plan for next year and will be disseminated it
+          to the coordinating parties prior to the next year’s heat season.
+        Table 11: Evaluation questions and potential indicators for the implementation process
+
+  Evaluation Questions                                          Indicators
+  Availability of        Were water facilities, supplies, and   ▪   Number and type of the water and health facilities in
+  Facilities             health facilities available in the         the vulnerable areas
+                         areas?                                 ▪   The water facilities are properly functional or
+                                                                    nonfunctional.
+                                                                ▪   The number of functional hours and the number of
+                                                                    hours without water supply in each area
+  Beneficiary            Was the beneficiary satisfied with     ▪   The satisfaction rate of the beneficiaries in
+  satisfaction           the available facilities?                  vulnerable areas.
+  Identification of      Were the vulnerable communities        ▪   Number of the groups who are highly at risk
+  Vulnerable groups      all around served during heatwave      ▪   Geography of coverage and understanding of the
+  and places             occasions?                                 heat vulnerability.
+                         What do they know about the            ▪   Number of the people who took advantage of
+                         heatwave vulnerability in their            facilities like cooling and relief camps
+                         areas?                                 ▪   Number of the people with their demographic data
+                                                                    who took advantage of the response actions.
+                                                                ▪   Satisfaction of stakeholders and capacity building of
+                                                                    practitioners and emergency responders to check
+                                                                    the heat-related illness during the season
+  Warning system         Was the warning issued timely and      ▪   The efficiency of warning occurrence
+                         efficiently?                           ▪   Timeliness of alert notices and warning messages
+                         Were the heatwave events               ▪   Frequency of the warnings according to the
+                         precisely observed?                        meteorological conditions.
+                                                                ▪   PMD’s Capacity to covey the information
+  Framework for          Major key components for the           ▪   Major and sufficient resources available for
+  coordination           implementation of the Heatwave             completing the TORS
+                         management plan?                       ▪   Coordinating committee how many times reviewed
+                                                                    the plan and gave the feedback?
+                                                                ▪   Is staff appropriately available in the control room?
+                                                                ▪   PMD is forecasting the information regularly and
+                                                                    appropriately?
+                                                                ▪   Are complete mortality data available from
+                                                                    hospitals?
+                                                                ▪   Is an Appropriate alert system used? Enough or not?
+                                                                ▪   Additional weather stations installed (with the
+                                                                    detailed samples along with the approx. prices)
+                                                                ▪   Data collected efficiently and centralized?
+                         Did coordinating partners consider     ▪   Views of partners on the coordination activities
+                         it helpful and follow the guidance?    ▪   Do response actions deliver by the partners during
+                                                                    heat season?
+                                                                ▪   Number of the engaged and responsible partners for
+                                                                    their assigned roles
+                         Were the vulnerable communities        ▪
+                         all around served during heatwave
+                         occasions?
+
+
+
+
+Page | 56
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+  Evaluation Questions                                         Indicators
+                         Did the rate of morbidity and         ▪   Patterns of the mortality and morbidity rates
+                         mortality reduce this year? Analyze   ▪   Reduction or increment in health impacts during the
+                         the weather data and health               season
+                         records?
+  Sources of             Were the sources of information       ▪   Communication with the relevant stakeholders
+  information and        available on heatwave?                ▪   Number and type of notices issued by the
+  communication                                                    implementing partners
+                         Were the key notices or bulletins     ▪   Number and sources of information for a heatwave
+                         available for the target groups and   ▪   Effectiveness of different sources and which one is
+                         public                                    more efficient source for giving information to
+                                                                   vulnerable communities?
+                                                               ▪   The capacity of the media to deliver the appropriate
+                                                                   messages for high-risk groups
+                         Do they understand and follow         ▪   Any change observed in behavior and awareness
+                         those key notices?                    ▪   Built the capacity to cope with the heat-illness
+  Immediate and          Is heatwave relief and public         ▪   Posters, Brochures for heatwave awareness,
+  Long-term strategies   awareness-related facilities              electronic and social media, and heatproof shelter
+                         available?                                available in the area?
+                         Has the city become more livable      ▪   A number of policies and practices along with
+                         for groups and individuals                different technologies to improve the condition of
+                         vulnerable to heat events?                the city.
+                                                               ▪   Level of satisfaction of local community and other
+                                                                   involved stakeholder with perceived changes
+                         What kind of practices and            ▪   Number of urban planning, technological and policy
+                         measures are taken to reduce the          solutions.
+                         urban heat island effect?
+                         How heatwave management is            ▪   To which extent the transportation, climate change
+                         integrated with the other kind of         and urban development proposal help to reduce the
+                         policy actions?                           heat impacts?
+  Costing                What kind of resources are used       ▪   Costs of the Asset commitments for plan
+                         for the warning and response          ▪   Staff time spent on various exercises
+                         system?                               ▪   Cost for climate and health related observations
+
+
+
+
+Page | 57
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+Proposed
+Interventions
+The following interventions are proposed in order to cater for and minimize the effects of
+Heatwave in the vulnerable areas of Lahore as identified through remote sensing analysis
+of climatic factors. Different interventions are provided for different drinking water
+appurtenances throughout the vulnerable areas of city. Following interventions are thus
+proposed under this exercise:
+
+4.1. Provision of Sheds
+It was observed during the survey that majority of filtration plants of Lahore do not have
+appropriate seating and shade available for public. These public level utilities play an
+important part by providing relief to the heat-stricken populace during especially during
+heatwave hours. Permanent Shed are thus proposed to be provided the scope of which
+is define as under:
+    •   Provision of Permanent Sheds (Steel Frame – Fiber Glass) at 10 sites each in
+        Data Ganj Baksh Town, Ravi Town, Shalimar Town, Samanabad Town and
+        Gulberg Town with benches
+The concept design of this intervention was developed for an ideal site, to visualize the
+final frame after laying and fabrication of the shed at the site, as shown below;
+
+
+
+
+Page | 58
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+                    Figure 39: Concept Drawing for Shades at Filtration Plants
+
+4.2. Provision of Electric Coolers
+Electric Water Coolers are an important drinking water feature that is easy to access and
+does not occupy much space. This is the reason that these are proposed to be provided
+
+
+
+Page | 59
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+at sites with clusters of population and constraint of space like markets, bus terminals and
+others. 2-Tap Electrical Steel Dispensers are thus proposed to be installed in Lahore with
+scope of the project containing:
+    ▪   Provision of Electrical Steel Water Dispensers/Coolers at 25 sites across Lahore.
+    ▪   Provision of Water Filtration Systems and Plumbing works for these coolers.
+
+4.3. Cooling Stations
+Cooling stations are medical relief camps with facilities to provide relief to the heat-
+stricken public and to cater for any possible medical cases. These features are
+established at the most vulnerable areas for heatwave, with high influx of population and
+less water availability. The scope of this project involves the following:
+    ▪   Establishment of Cooling Stations/Medical Relief Camps at 25 sites across Lahore.
+    ▪   Provision of temporary shades and fans at these camps.
+    ▪   Provision of appropriate drinking water and cooling facilities at these camps.
+    ▪   Provision of Medicines and Para-medical staff at these camps.
+
+
+
+
+Page | 60
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+                               Figure 40: Concept of Cooling Stations
+
+
+
+
+Page | 61
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+                               Figure 41: Concept of Medical Facility
+
+
+
+
+Page | 62
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+4.4. Costing
+                               Table 12: Proposed Interventions Cost
+
+                                                                                         Cost
+ Sr.      Proposed Interventions                              Scope
+                                                                                       (Million)
+                                           ▪   Provision of 50 No. Fiber and Steel
+                                               Frame Shed at Filtration Plants in
+                                               Lahore
+          Provision of Permanent           ▪   (10 No. Sheds each for Data Gunj
+ 1      Sheds at Filtration Plants in          Baksh Town, Ravi Town, Shalimar          15.78
+                  Lahore                       Town, Samanabad Town, Gulberg
+                                               Town)
+
+                                           ▪   Provision of Seating Benches
+                                           ▪   Provision of 25 No. Water Coolers at
+       Provision of 25 No. Electric            25 Sites
+ 2     Water Coolers for Lahore                                                         2.63
+       (80 Ltr)                            ▪   Provision of Filter System for Water
+                                               Coolers
+                                           ▪   Establishment of Heatwave Relief
+       Establishment of 25 No.                 Camps at 25 Locations in Lahore
+ 3     Cooling Stations (Relief                                                         0.95
+       Camps) for Heatwave relief          ▪   Provision of Water Coolers,
+                                               Medicines, Fans, Seating Facility
+
+
+       Establishment of Medical            ▪   Provision of portable cabins, tables,
+ 4                                                                                      2.25
+       Camps                                   beds, chairs, stool and benches
+
+
+                                               Total Amount Rs.                         21.61
+                                               Add Contingencies Cost (3%)              0.648
+                                               Add PST (5%)                             1.080
+                                               G-Total Amount                            23.34
+
+
+
+
+Page | 63
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+                         Annexure
+
+
+
+
+Page | 37
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+Annexure
+Annex – A: Stakeholder Consultation Meetings
+Stakeholder consultations aimed to identify the intervention of government departments,
+in-process planning, and future plans pertinent to heatwave preparedness, management,
+and mitigation in Lahore city. Urban Unit organized consultation meetings with
+stakeholder departments, including the following:
+Provincial Disaster Management Authority (PDMA):
+The Environment Team of Urban Unit had a meeting with Director General of PDMA on
+June 15, 2022. PDMA conducted significant interventions during the heatwave of 2022,
+which are mentioned below:
+    ▪   Provision of drinking water in some of the hotspot areas
+    ▪   Issuance of heatwave advisory in collaboration with Meteorology Department.
+    ▪   Awareness campaign through social media and television (development of
+        awareness brochures, TV advertisements, emergency number 1129 was
+        communicated through all campaigns).
+    ▪   Collaboration with the health department to develop separate blocks in hospitals
+        for emergency heat stroke patients.
+Incremental housing, unplanned Durban developments, rapid urbanization, and the non-
+availability of HR, were discussed as major challenges faced by the department. PDMA
+has developed SOPs for reactive handling of all kinds of emergencies and will be very
+effective in the implementation of the plan. The meeting resulted in the following agreed
+recommendations to be included in the heatwave management plan;
+    ▪ Involvement of Expert in Plan-making process.
+    ▪ Quantification of the affected population, and food security issues.
+    ▪ Coordination of different departments to develop a holistic approach.
+    ▪ A plan aimed at developing preparedness and resilience in the community should
+        be developed.
+Water and Sanitation Authority (WASA):
+The Environment Team of the Urban Unit had a meeting with XEN Engineering, WASA
+on June 16, 2022. Various short-term measures were adopted by WASA during
+heatwave, and medium-term measures have been proposed.
+
+
+
+
+Page | 66
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+WASA owns 594 Tube wells, and 573 Filtration Plants in Lahore. The maintenance of
+Filtration Plants has been outsourced to Punjab Aab-e-Pak Authority (PAPA). PAPA has
+maintained 42 filtration plants from 2021-to 22, in collaboration with Al-Khidmat
+Foundation and UNICEF. Load-shedding and limitations of funding were the major
+problems issued by WASA. WASA recommended the development of an effective
+communication plan to raise community awareness for water conservation.
+
+
+
+
+                      Figure 42: Measures adopted and proposed by WASA
+
+
+
+
+Page | 67
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+Annex – B: Pictures
+
+
+
+
+Page | 68
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+Annex – C: Legal Landscape
+Climate Change Legislation in Pakistan
+Pakistan’s climate change action spans over two decades from the first time it ratified the
+United Nations Framework Convention on Climate Change (UNFCCC) back in 1994 and
+became an official partner in the international commitment to bring down greenhouse gas
+(GHG) emissions in the atmosphere. Pakistan actively participated in United Nations
+Conference on Human Environment and made preservation of Environment in 1973 as
+constitutional mandate. In 1983, Pakistan achieved another manifestation i.e.,
+establishment of Pakistan Environmental Protection Ordinance in 1983. Under its
+Umbrella, National Environmental Quality Standards (1984) was prepared. Afterward, the
+Pakistan Environmental Protection Ordinance, 1983 was superseded by Pakistan
+Environmental Protection Act (PEPA), 1997, however, this Act doesn’t provide any
+foundation to cater the climate change.
+From subsequent endorsements of the goals of Kyoto Protocol 1997 and Paris
+Agreement 2015 to passing a National Climate Change Policy (NCCP) in 2012, followed
+by a Framework for Implementation of Climate Change Policy (2014-2030) and most
+recently, the Climate Change Act of 2017, which after a long wait provided the regulatory
+framework for Pakistan’s climate change strategy, this confused relationship continued to
+develop sluggishly. However, during the same period, the implications of climate change
+for Pakistan changed drastically; from being a tiny voluntary partner in the developed
+world’s wake-up to rectify its collective damage to the atmosphere, we are known today
+as the world’s 7th most impacted country by climate change. The tragedy is that despite
+all of these developments, Pakistan’s climate change strategy remains elusive and
+without any direction.
+International Agreements
+Pakistan ratified the Kyoto Protocol (KP) in 2004 and the Paris Agreement in 2016, both
+containing mandatory goals for the signatories. KP mandated industrialized countries to
+cut down their GHG emissions (during 2008-2012) by 5% below their levels in the 1990s
+and gave developing countries the option to comply voluntarily. Subsequently and
+according to the latest and most ambitious commitment under the Paris Agreement of
+2015, all member countries are required to implement their nationally determined
+contributions (NDCs) to reduce GHG emissions and bring down the rise in global
+temperatures from 2°C to 1.5°C by 2020. This entails introducing new laws catering to
+climate change or revising existing laws and/or policies to keep pace with the new global
+commitments, as well as developing a monitoring mechanism to ensure the
+implementation of the Paris Agreement. In Pakistan, the Climate Change Act of 2017
+came as the first primary legislation dealing with climate change and is especially relevant
+in the context of the above international agreements as it empowers the federal
+government to make rules to give effect to the international commitments.
+
+
+
+Page | 69
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+Climate Change Act 2017
+The 2017 Act establishes the Pakistan Climate Change Council (PCCC) to approve,
+oversee and monitor the implementation of adaptation and mitigation policies by federal
+and provincial ministries, divisions, departments and agencies across all sectors of the
+economy. To complement the PCCC, the Act establishes a separate body called the
+Pakistan Climate Change Authority (PCCA) tasked with researching, preparing and
+advising the government regarding legislative, policy and implementation measures
+related to climate change. This includes formulating comprehensive adaptation and
+mitigation policies and measures designed to primarily do the following:
+i) address the effects of climate change,
+ii) meet Pakistan’s obligations under international conventions and agreements relating
+to climate change, and
+iii) give effect to the national climate change policy.
+The problem with the Act is that while it establishes federal bodies with the specific task
+of implementing climate change action, it falls embarrassingly short of introducing
+effective measures to enable these bodies to make a difference. For example, one of the
+functions of the PCCA is to formulate and – after the approval of PCCC – coordinate
+implementation of low carbon and green growth strategies. In the absence of an express
+reference to set out carbon plans (emissions reduction targets), this may be taken as the
+closest alternative accounting for it. Assuming that is true, this provision is rendered
+ineffective as there is no response time given for the adaption of these strategies which
+allows the government to delay their implementation.
+National Climate Change Policy 2012
+Over the last 15 years, the most comprehensive approach to climate change has been
+presented in the National Climate Change Policy, 2012 (NCCP). The objectives of the
+NCCP include mainstreaming of climate change in all sectors of the economy and
+minimising of risks associated with foreseeable events of climate change, such as floods
+and drought. While the NCCP fails to set any clear targets for national measures, it does
+in other respects set out a decent framework for future action plans and practice. It has
+been six years since its promulgation, but except for a few measures (such as the Billion
+Tree Campaign in Khyber Pakhtunkhwa that restored 350,000 hectares of forest land)
+the federal and provincial governments have remained largely inactive to implement the
+policy objectives.
+Overall, the NCCP is successful in setting forth a road map for identifying the national
+factors and causes adding to the adversity of climate related problems and offering
+possible adaptation and mitigation solutions to address them. It makes some key
+recommendations which if taken seriously can prove extremely consequential to counter
+climate change.
+
+
+
+Page | 70
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+However, the NCCP itself is a “soft low” and its non-binding nature means that it does not
+provide efficacious tools/mechanism for enforcement.
+Framework for Implementation of Climate Change Policy (2014-2030)
+As a follow-up to the NCCP, the government introduced the Framework for
+Implementation of Climate Change Policy (2014-2030) in order to mainstream climate
+change concerns into decision-making and promote climate compatible development (an
+extremely important point that does not appear to have made its way to implementation).
+Meant to serve as a go-to document for preparing detailed provincial and local adaptation
+action plans, the Framework discusses adaptation plans for each sector separately and
+proposes actions along with an implementation timeframe for each action, which is
+divided into the following categories:
+    •   Priority Actions (PA) : within 2-years;
+    •   Short-term Actions (SA): within 5-years;
+    •   Medium-term Actions (MA): within 10 years; and
+    •   Long-term Actions (LA): within 20-years.
+
+Punjab Climate change policy and action plan 2024
+
+Recently the climate change policy is also developed at provincial scale for the Punjab
+along with the action plan 2024. The key climate change impacts in Punjab, considered
+temperature change and heat stress in addition with other associated impacts to mitigate
+and adapt for sustainable future.
+In which the Policy Action (PA) 1 for the climate change adaption set the targets that
+includes:
+    •  100% Preparation and implementation of heatwave and drought management
+       plans for hotspot areas till 2027
+   • 100% Ensure the provision of shelter places and water filtration plants in heatwave
+       hotspot areas till 2030
+While the PA 3 for the cross-cutting (adaptation and mitigation) includes:
+    •   100% Development of Cities Climate Action Plans focusing on GHG inventory,
+        pathway projections, risk assessment, and action plans for large cities till 2027.
+    •   15% Enhance carbon sinks through tree plantation and urban green/forest cover
+        in major cities till 2035.
+Way Forward
+While all of the laws, policies and rules discussed above indicate to an appreciable degree
+the legislators’ intent to counter climate change, we cannot and should not hide from the
+fact that the combined response has been highly ineffective for the most part.
+
+
+
+
+Page | 71
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+Climate change is a matter of national security for Pakistan and our law needs to set clear
+milestones for climate change action and hold the government responsible if it fails to
+fulfill its obligations. The government needs to come up with a clear plan on how climate
+change laws, policies, practices will be adapted in the provinces and the provinces need
+to integrate the government’s climate change action plan into their own detailed mitigation
+and adaptation plans. To ensure effective response, both the federal and provincial
+governments need to work in collaboration and here the PCCC established under the
+Climate Change Act of 2017 can play a key role.
+
+
+
+
+Page | 72
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+
+References
+
+[1] E. Britannica., "Heatwave, Meteorology," 22 May 2025. [Online].
+
+[2] T. I. p. o. C. C. IPCC, "Global warming of 1.5°C," 2020.
+
+[3] N. G. I. f. S. S. GISS, "Global Climate change," 2024. [Online]. Available:
+    https://climate.nasa.gov/vital-signs/global-temperature/?intent=121..
+
+[4] WorldBank, "Taxing Times. South Asia Development Update," 2025.
+
+[5] Germanwatch, "Climate Risk Index," 2025.
+
+[6] N. U. M. O. M. D. S. U. &. Z. Berkeley Earth & ERA5-Land, "Global Warming
+    Strips," 2024. [Online]. Available:
+    https://showyourstripes.info/c/asia/pakistan/lahore .
+
+[7] M. R. A. M. T. A. D. M. W. H. H. M. A. A. S. R. &. C. M. U. Khan, "Escalating
+    Global Threat of Heatwaves and Policy Options for Adaptation and Mitigation,"
+    Journal of Asian Development Studies, pp. 13 (3), 980-995, 2024.
+
+[8] A. Raza, "Lahore baking in Hottest April," 18 April 2017. [Online].
+
+[9]    EPCCD, "Punjab Climate Change Policy and Action Plan," Government of Punjab,
+      2024.
+
+[10] I. A. S. L. K. Z. N. A. N. F. A. K. S. U. &. A. A. Rana, "A localized index-based
+     approach to assess heatwave vulnerability and climate change adaptation
+     strategies: A case study of formal and informal settlements of Lahore, Pakistan,"
+     Environmental impact assessment review, pp. 96, 106820, 2022.
+
+[11] E. &. E. H. Elmarakby, "Prioritising urban heat island mitigation interventions:
+     Mapping a heat risk index.," Science of the total environment, pp. 948,174927,
+     2024.
+
+[12] Spector, "Occupational heat-related illness in Washington State: A descriptive
+     study of day of illness and prior day ambient temperatures among cases and
+     clusters," American Journal of Industrial Medicine, pp. 66(5), 413-423, 2023.
+
+[13] W. M. O. WMO, "Heatwaves and Health: Guidance on Warning-System
+     Development," World Health Organization, (Geneva, Switzerland), 2015.
+
+[14] PMD, "National Weather Forecasting Center," 2022. [Online]. Available:
+     https://nwfc.pmd.gov.pk/new/press-releases.php.
+
+
+
+
+Page | 73
+Heatwave Management Plan of Lahore (2025 – 2028)
+
+
+
+[15] H. G. S. A. S. H. R. P. I. S. Adeel Ahmad, "Spatiotemporal urban sprawl and land
+     resource assessment using Google Earth Engine platform in Lahore district,
+     Pakistan," Elsevier , pp. 137-150, 2022.
+
+
+
+
+Page | 74
+

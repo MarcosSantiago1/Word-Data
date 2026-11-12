@@ -1,0 +1,3 @@
+especificacion,indicadores,componentes_principales,k,silueta,estabilidad_ari_media,datos_imputados,varianza_pc1_pc2,ari_con_tipologia_enfoques,ari_con_region,grupos
+completo,31,,3,0.233,0.91,190,0.34,0.226,0.69,1. Baja criticidad (26) | 2. Perfil intermedio (245) | 3. Alta vulnerabilidad (104)
+urbano,17,6,4,0.187,0.77,99,0.296,0.169,-0.009,1. Más ingreso y más acceso a hospitales (136) | 2. Poca infraestructura y dentro de los límites ambientales (108) | 3. Construcción hacia lo inundable y límites ambientales superados (42) | 4. Ciudad extendida y mucho CO2 por habitante (89)
