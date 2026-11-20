@@ -68,6 +68,8 @@ PASOS = [
      [["fuentes_nuevas/extraer_dimensiones_nuevas.py"]], ["fuentes_nuevas"]),  # lee maestros/ y argentina_provincias/
     ("panel_paso3", "Dimensiones nuevas sumadas al panel de países",  # después de panel_paises y dimensiones_nuevas
      [["paso3_dimensiones_nuevas.py"]], ["datos_procesados"]),
+    ("pib_grupos", "Suma del PIB por grupo internacional (G7, G20, UE, BRICS, Mercosur...)",  # lee alianzas/ y datos_procesados/
+     [["pib_grupos/sumar_pib_grupos.py"]], ["pib_grupos"]),
     ("indicadores_sociales", "Educación, redes, videojuegos, construcción, cultura, apuestas y medallero",
      [["indicadores_sociales_digitales/extraer_indicadores_sociales.py"]], ["indicadores_sociales_digitales"]),
     ("modelo_unificado", "Modelo unificado (SQLite)",
