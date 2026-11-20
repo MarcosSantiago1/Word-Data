@@ -7,6 +7,10 @@ etl/fuentes_nuevas/crudos/ccpcnc_v5.zip
 # Copias de seguridad de la actualización mensual (versiones viejas)
 etl/historial/
 
+# Descargas grandes de DesInventar y del atlas de Brasil (más de 180 MB). Se vuelven a bajar
+# corriendo etl/riesgo_ciudades/extraer_riesgo_ciudades.py
+etl/riesgo_ciudades/crudos/
+
 # Basura que genera Python y Jupyter
 __pycache__/
 *.pyc
@@ -24,3 +28,11 @@ uploads/
 
 # Respaldos completos de los datos (zip de ~240 MB, más que el límite de GitHub)
 respaldos/
+
+# Temas del GHSL (227 MB). Se vuelven a bajar corriendo etl/riesgo_ciudades_mundo/bajar_ghsl.py
+etl/riesgo_ciudades_mundo/crudos/ghsl/
+
+# Los scorecards .xlsm (cerca de 1 GB) y sus zips quedan en los archivos del proyecto, no en GitHub
+consultas/**/*.xlsm
+consultas/**/*.zip
+consultas/**/trabajo/

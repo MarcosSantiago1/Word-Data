@@ -1,0 +1,239 @@
+# CDP Cities 2023 - Ho Chi Minh City (org 31164) https://www.cdp.net/en/responses/31164
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: Metropolitan area
+  - Next highest level of government: National
+  - Next lowest level of government: Sub-municipal district
+  - Land area of the jurisdiction boundary (in square km)^: 2095.239
+  - Percentage range of land area that is green space: 11-20%
+  - Current (or most recent) population size^: 9166840
+  - Population year^: 2021
+  - Projected population size: 13500000
+  - Projected population year: 2040
+  - Select the currency used for all financial information reported throug: VND Vietnamese đồng
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Relevant departments, committees and/or subcommittees are informed by management about climate-related issues
+  - Provide further details on your jurisdiction's oversight of climate-re: issued Decision No. 3273/QD-UBND dated September 8, 2021 on promulgating the Action Plan to respond to climate change for the period 2021-2030, with a vision to 2050 in Ho Chi Minh City and Decision No. 3924/QD-UBND dated October 20, 2020 on the Plan to implement the Paris Agreement on climate change in Ho Chi Minh City
+  - Describe how climate-related issues have impacted your jurisdiction's : Propose orientations to improve the ground elevation and surface water drainage in the whole urban area, considering the dual effects of ground subsidence and climate change. To divide water drainage basins, determine a reasonable rainwater drainage system and separate it from the wastewater drainage system, ensure to control inundation caused by rain, high tide and ensure flood drainage.
+  - Describe how climate-related issues have impacted your jurisdiction's : increase cost of flood control, agricultural development, seasonal diseases
+  - Describe the risks to your jurisdiction related to the transition to a: weak technical infrastructure, inconsistent digitization, the legal document system is in the process of being built and issued.
+
+[0.4 fila 1] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate action plan
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Outline the purpose of this engagement: The development of this component is required by the national government (e.g., by law, regulation and/or agreement)
+
+[0.5 fila 1] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): Public authority
+  - Primary entity collaborated with (selection mandatory)_G: Government/Public body
+  - Mechanisms used to collaborate: Capacity development
+  - Areas collaboration focused on: Inclusive climate action and/or equity
+  - Areas collaboration focused on: Resilience
+  - Description of collaboration: Implementing training program on climate change for stakeholders, public authorities from all of districts and wards in Hochiminh City
+  - Other entities collaborated with: Vulnerable population groups
+  - Other entities collaborated with: Academia
+  - Other entities collaborated with: Education sector
+  - Other entities collaborated with: Residents/community groups
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: Yes, a climate risk and vulnerability assessment has been undertaken
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Water stress
+  - Vulnerable population groups most exposed: Low-income households
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Agriculture
+  - Describe the impacts on vulnerable populations and sectors^: Saline in The Mekong Delta already happened during the dry season of 2015-2016 and is expected to increase in the future because of sea level rise (Viet Dung Nguyen, 2019). The salinity concentration is expected to increase by 1.2% to nearly 10% in the future. This means that saltwater will move deeply inland in the future and have significant impacts on agricultural activities and livelihoods of farmers in the Mekong Delta (Ha, 2016).
+  - Proportion of the population exposed to the hazard: <10%
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Long-term (after 2050)
+
+[1.2 fila 2] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Heat stress
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Elderly
+  - Sectors most exposed^: Human health and social work activities
+  - Describe the impacts on vulnerable populations and sectors^: In the South region, where Ho Chi Minh City is located, has experienced a steady rise in average annual temperature from 1960 to 2010 (Katzfey et al., 2014). In this period, annual temperature in the South Delta region has significantly increased from 0.04°C to 0.28°C per decade. Maximum and minimum temperatures have increased by up to 0.36°C per decade (Katzfey et al., 2014).For the southern Mekong Delta region, where Ho Chi Minh City is located, projections show a very clear warming signal, with an increase in average annual temperature of around 1.4°C  to 2.8°C  by mid-century and 2.8°C  to 4.7°C by end-of-century under the RCP 8.5 scenario. The warming is approximately uniform over the year (MONRE, 2016).The amount of days with extreme temperatures will also increase. The Southern Delta and Ho Chi Minh City currently experience on average 30-60 extremely hot days per year (IPONRE, 20
+  - Proportion of the population exposed to the hazard: 70-80%
+  - Current probability of hazard^: Medium
+  - Current magnitude of impact of hazard^: Medium High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Decreasing
+  - Timeframe of expected future changes^: Long-term (after 2050)
+
+[1.2 fila 3] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Heavy precipitation
+  - Vulnerable population groups most exposed: Low-income households
+  - Sectors most exposed^: Public administration and defence; compulsory social security
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Wholesale and retail trade; repair of motor vehicles and motorcycles
+  - Describe the impacts on vulnerable populations and sectors^: Observed rainfall records from the last 50 years (1961–2010) do not show a significant trend in total rainfall (Katzfey et al., 2014). However, the story is different for heavy rainfall events. Between 1962 and 2001, Ho Chi Minh City and the surrounding region experienced only one “extremely heavy” precipitation event (i.e. 3-hour accumulated rainfall exceeding 100 millimeters) every 4 years. Nevertheless, heavy precipitation events have become more frequent (Khoi and Trang, 2016). From 2002 to 2017, heavy precipitation events occurred 3 times per year (C40, 2018). Projections for future rainfall show larger variations in the direction of change than were projected for temperature. Nevertheless, projections of the RCP 8.5 scenario show an increase in rainfall of 7.3 - 20.2% in 2050 compared to 1986-2005 for Ho Chi Minh City. The summer monsoon will lengthen and the monsoonal rainfall wil
+  - Proportion of the population exposed to the hazard: 60-70%
+  - Current probability of hazard^: Medium
+  - Current magnitude of impact of hazard^: Medium
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Long-term (after 2050)
+
+[1.2 fila 4] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Coastal flooding (incl. sea level rise)
+  - Vulnerable population groups most exposed: Low-income households
+  - Sectors most exposed^: Public administration and defence; compulsory social security
+  - Sectors most exposed^: Administrative and support service activities
+  - Describe the impacts on vulnerable populations and sectors^: Using observed data from sea level gauges across the Vietnam coastline, the increase in sea level between 1993 and 2014 was approximately 3.34 mm/year (MONRE, 2016, page 36). The Southern region of Vietnam, including Ho Chi Minh City, experienced an even more pronounced rise of around 5.58 mm/year in this time period (MONRE, 2016, page 36). Following the RCP 8.5 scenario, the average sea level rise for coastal areas throughout Vietnam would be 250 mm by 2050 and 730 mm by 2100 (MONRE, 2016)
+  - Proportion of the population exposed to the hazard: 10-20%
+  - Current probability of hazard^: Medium Low
+  - Current magnitude of impact of hazard^: Medium Low
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 5] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Storm
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Elderly
+  - Sectors most exposed^: Public administration and defence; compulsory social security
+  - Describe the impacts on vulnerable populations and sectors^: Far from now, I haven't hear any storm that really cross Ho Chi Minh city. There are just thunderstorms and tornadoes that rarely cause human damage. But climate change happend. Extreme rainfall events will occur more often and become more intense through climate change. The average maximum 1-day rainfall will increase by 30-40 % in 2050 (RCP 8.5, compared to 1986-2005) (MONRE, 2016). In recent decades, tropical cyclones have become more common in Ho Chi Minh City (Ho Chi Minh City Atlas, 2013). Projections for the south region suggest that although the number of tropical cyclones may decrease in the East Vietnam Sea by mid-century, the intensity may increase by the end-of-century (Katzfey et al., 2014 ). Furthermore, tropical depressions and typhoons will likely occur at the end of the typhoon season. As a result, Ho Chi Minh City will become more vulnerable to extreme rainfall events d
+  - Proportion of the population exposed to the hazard: 10-20%
+  - Current probability of hazard^: Low
+  - Current magnitude of impact of hazard^: Low
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 6] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Mass movement
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Indigenous peoples
+  - Sectors most exposed^: Public administration and defence; compulsory social security
+  - Sectors most exposed^: Administrative and support service activities
+  - Describe the impacts on vulnerable populations and sectors^: Overload the exit infrastructure, make more people subsidence to climate change.
+  - Proportion of the population exposed to the hazard: 10-20%
+  - Current probability of hazard^: Medium Low
+  - Current magnitude of impact of hazard^: Medium Low
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Long-term (after 2050)
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Political engagement / transparency
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Climate change make urban management more complex and require the big fix on political.
+
+[1.3 fila 2] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Rapid urbanization
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: the lack on resource of city make the adaption to climate change is limited more.
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Data availability: Data is available for the percentage of households with access to safely managed sanitation services
+  - Percentage of households with access to safely managed drinking water : Question not applicable
+  - Percentage of households with access to safely managed sanitation serv: 100
+  - Household water consumption (litres/capita/day): Question not applicable
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: No, due to a reason not listed above
+
+[4.1a fila 0] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Question not applicable
+  - Adaptation goal^: Question not applicable
+  - Climate hazards that goal addresses^: Question not applicable
+  - Base year of goal (or year goal was established if no base year)^: Question not applicable
+  - Target year of goal^: Question not applicable
+  - Description of metric / indicator used to track goal^: Question not applicable
+  - Comment: Question not applicable
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: Yes, our jurisdiction has a climate action plan or strategy
+
+[7.1a fila 1] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Integrated climate plan (addressing mitigation and adaptation)
+  - Attachment/link and name of plan^: Action Plan to respond to climate change phase 2021-2030, vision to 2050 in Ho Chi Minh City
+  - Confirm attachment/link provided to plan (selection mandatory): The plan has been attached
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Monitoring:  Information on progress of plan is monitored and publicly reported annually
+  - Processes for monitoring evaluation and updates of plan^: Evaluation: Evaluation of plan takes place at least every 5 years
+  - Funding sources and financial instruments to finance plan: International (including ODA)
+  - Funding sources and financial instruments to finance plan: Private
+  - Funding sources and financial instruments to finance plan: Regional funds and programmes
+  - Communities and organizations engaged^: Citizens
+  - Communities and organizations engaged^: Vulnerable population groups
+  - Communities and organizations engaged^: Local government (s) and/or agencies
+  - Communities and organizations engaged^: Business and private sector
+  - Primary author(s) of plan^: International organization
+  - Primary author(s) of plan^: Consultant
+  - Primary author(s) of plan^: Relevant department within jurisdiction
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan does not assess synergies, trade-offs and co-benefits of actions
+  - Year of formal approval of plan^: 2021
+  - End year of plan: 2030
+  - Sectors covered by action plan: Construction
+  - Sectors covered by action plan: Fishing
+  - Sectors covered by action plan: Administrative and support service activities
+  - Sectors covered by action plan: Public administration and defence; compulsory social security
+  - Sectors covered by action plan: Water supply
+  - Sectors covered by action plan: Waste management
+  - Sectors covered by action plan: Human health and social work activities
+  - Sectors covered by action plan: Sewerage, wastewater management and remediation activities
+  - Sectors covered by action plan: Electricity, gas, steam and air conditioning supply
+  - Sectors covered by action plan: Professional, scientific and technical activities
+  - Sectors covered by action plan: Agriculture
+  - Sectors covered by action plan: Manufacturing
+  - Sectors covered by action plan: Transportation and storage
+  - Sectors covered by action plan: Forestry
+  - Sectors covered by action plan: Information and communication
+  - Sectors covered by action plan: Education
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Transport
+  - Project title: Develop e-bus for Ho Chi Minh city
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking partial funding
+  - Project description and attach project proposal: With limited financial and human resources, the city can consider and coordinate with stakeholders to study the option of building an electric bus rental model to move towards electrification of the public passenger transport system with the most economical cost. In this model, some, or all, of the electric bus parts manufactured by a third party will be leased by the public passenger transport system operator. The parts to be rented can be batteries or the whole bus. The bus operator will pay a flat monthly fee to the lessor based on specific conditions, possibly with a monthly surcharge based on the distance traveled. If the battery-only model is adopted, the upfront cost for electric buses will be significantly reduced and almost equivalent to the cost of buying a traditional diesel bus. As a result, the bus operator can purchase an electric bus without incurring any additional additi
+
+[7.5 fila 2] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Transport
+  - Project title: Development of a charging station system for electric buses
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking partial funding
+  - Project description and attach project proposal: In order to support the implementation of the policy on building a modern and environmentally friendly public transport system, Ho Chi Minh City is currently preparing to pilot five electric bus routes in the city. To successfully replicate the electric bus model, Ho Chi Minh City will need to plan and develop a system of charging stations for electric buses. The development of the charging station system is an indispensable piece to complete the implementation of the electric bus system, contributing to the construction of a modern and friendly public transport system, thereby reducing traffic congestion and pollution, environment.
+
+[7.6 fila 1] Report the factors that support climate-related investment and financial planning in your jurisdiction.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction utilises foreign debt and/or foreign investments and requires the support of the national government to access international finance
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction’s own funds and budgetary means
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction accesses finance from public-private partnerships
+  - Credit rating of jurisdiction: Do not know
+  - Decarbonising jurisdiction's investments: Do not know
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Action (selections mandatory)^: Green infrastructure
+  - Climate hazard(s) that action addresses^: Coastal flooding (incl. sea level rise)
+  - Climate hazard(s) that action addresses^: Heat stress
+  - Action description and web link to further information^: Expand and connect the base of trees on the sidewalk with absorbent materials and structures to increase surface water collection and growth and development conditions for shade trees.
+  - Co-benefits realized^: Improved mobility and access
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: <10%
+  - Funding source(s): Jurisdiction's own resources
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 2] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Action (selections mandatory)^: Flood defence, such as flood levees and culverts
+  - Climate hazard(s) that action addresses^: Coastal flooding (incl. sea level rise)
+  - Action description and web link to further information^: Construction of 6 big tidal control sluice gates includes: tide control gates "Ben Nghe", "Tan Thuan" tide control culvert, "Phu Xuan" tide control culvert, "Muong Chuoi" tide control culvert, tide control culvert "Dry tree", the control gate of "Phu Dinh" tide.Constructing Saigon river dyke from Vam Thuat to Kinh River - Phase 1: 7.81 km of dyke / revetment in the vital sections, 25 small culverts with aperture of 2.0 m - 10.0 m from " Vam Thuat"to Muong Chuoi;
+  - Sectors adaptation action applies to^: Sewerage, wastewater management and remediation activities
+  - Co-benefits realized^: Improved mobility and access
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Total cost of action (in currency specified in 0.1): 9616176154000
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable

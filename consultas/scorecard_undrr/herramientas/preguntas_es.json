@@ -1,0 +1,600 @@
+[
+ {
+  "sheet": "E01",
+  "ref": "A1.1",
+  "title": "A.1.1 El sector de la salud forma parte de la gobernabilidad para la gestión multisectorial del riesgo.",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "",
+  "guidance": "Tal como se utiliza aquí este término, entre las “funciones de la salud pública” se incluyen, entre otras, todas las establecidas en el anexo 2 del marco de salud y gestión del riesgo de desastres de la OMS mencionado anteriormente, a saber:\n\nTratamiento y control de enfermedades infecciosas.\nAtención de traumas.\nAtención primaria de la salud.\nAtención pediátrica o geriátrica.\nAtención de emergencias.\nSalud ambiental.\nEpidemiología.\nControl de vectores.\nAmbulancias y transporte médico/salud.\nSuministro de equipo médico y farmacéutico.\nAgua y saneamiento.\nInocuidad alimentaria, almacenamiento en frío y distribución.\nSeguridad de materiales químicos y peligrosos (HAZMAT, por su abreviatura en inglés) (por ejemplo, en lugares con plantas químicas).\nSalud mental, incluida la de tipo comunitario, como duelo y ayuda profesional para traumas mentales.\nAdministradores de salud pública a nivel municipal, estatal y nacional.\n\nLos representantes de estas funciones deben poder hablar con autoridad sobre los recursos disponibles en la ciudad y la región para mantener el sistema de salud pública.",
+  "options": [
+   "5 – Toda la variedad de funciones de la salud pública (véase la columna de la derecha) ofrecen insumos de forma regular a los mecanismos/las reuniones de gobernabilidad para la resiliencia de la ciudad frente a los desastres, y contribuye rutinariamente a todos los documentos y programas principales de resiliencia frente a los desastres (La participación puede ser a través de un punto focal que se haya nombrado, combinando insumos provenientes de diversas disciplinas).",
+   "4 – Por lo general, los representantes de la mayoría de las funciones de salud pública asisten a las reuniones principales de la ciudad sobre resiliencia frente a los desastres y también contribuyen a los programas principales, pero no forman parte de todas las actividades relevantes.",
+   "3 – Las funciones de la salud pública realizan sus propios foros y tienen sus propios mecanismos sobre resiliencia, pero si bien se incluye toda la variedad de disciplinas, estos no se coordinan plenamente con otros actores, tales como municipalidades, operadores de logísticas o grupos comunitarios. La atención podría centrarse estrictamente en una respuesta inmediata después de un evento, en lugar de asuntos más amplios sobre la resiliencia como efectos a más largo plazo.",
+   "2 – Algunas disciplinas de la salud pública participan en ciertas actividades de la ciudad sobre resiliencia, pero la participación no es total.",
+   "1 – Solo hay una participación rudimentaria de las disciplinas de la salud pública en las actividades de la ciudad sobre resiliencia.",
+   "0 – No hay ninguna función de la salud pública en la región, o bien, si la hay, no participa del todo en la resiliencia frente a los desastres."
+  ],
+  "shapes": [
+   "_x0000_s33864",
+   "_x0000_s33865",
+   "_x0000_s33866",
+   "_x0000_s33870",
+   "_x0000_s33871",
+   "_x0000_s33872"
+  ]
+ },
+ {
+  "sheet": "E02",
+  "ref": "A2.3",
+  "title": "A2.3 Inclusión de enfermedades crónicas preexistentes, incluidas enfermedades no transmisible, en la planificación en caso de desastres.",
+  "ref_row": 31,
+  "resp_cell": "E35",
+  "comment_cell": "C35",
+  "question": "¿Hasta qué punto se incluyen los problemas crónicos preexistentes de salud en aquellos escenarios en los que es posible que los desastres los exacerban o impidan la recuperación?",
+  "guidance": "Las enfermedades crónicas que existen en una zona–por ejemplo, la malnutrición, enfermedades endémicas como malaria o cólera, una adicción crónica a las drogas o una gran proporción de ancianos dentro de la población– interactúan con los desastres al:\n\nGenerar un impacto más severo;\nImponer cargas adicionales en los esfuerzos de recuperación;\nSuperar el punto de inflexión, generando así un aumento en las epidemias y transformándose en desastres por sí mismos (véase el punto 2.1 anterior).\n\nSe deben incluir esto en las evaluaciones del riesgo.",
+  "options": [
+   "5 – Se revisan exhaustivamente las enfermedades crónicas y se las incluye en la definición del escenario y la planificación, O BIEN, se considera que no son pertinentes.",
+   "4 – Se identifican ampliamente las enfermedades crónicas y se las incluye en la definición del escenario y la planificación.",
+   "3 – Se incluyen las enfermedades crónicas que son más pertinentes en la definición del escenario o la planificación, con ciertos vacíos.",
+   "2 – Aunque se tiene conocimiento de las enfermedades crónicas, estos no se incluyen en la definición del escenario o la planificación.",
+   "1 – Hay grandes vacíos en la identificación y la inclusión de las enfermedades crónicas.",
+   "0 – No hay ninguna intención de identificar o de tener en cuenta las enfermedades crónicas."
+  ],
+  "shapes": [
+   "_x0000_s34833",
+   "_x0000_s34834",
+   "_x0000_s34835",
+   "_x0000_s34836",
+   "_x0000_s34837",
+   "_x0000_s34838"
+  ]
+ },
+ {
+  "sheet": "E02",
+  "ref": "A2.1",
+  "title": "A2.1 Inclusión de un amplio abanico de emergencias y los desastres (por ejemplo, brotes epidémicos, pandemias, hambrunas, escasez de agua, etc.) como un escenario de desastre por sí mismo.",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "¿Hasta qué punto se incluyen las emergencias y los desastres, incluidos los brotes epidémicos, en la planificación del riesgo de desastres?",
+  "guidance": "Con la herramienta de autoevaluación, se requiere el desarrollo de (al menos) un escenario “más severo” (el peor caso) y uno “habitual” bajo los cuales se planifica la resiliencia frente a los desastres. En este tema se aborda el grado al que se incluyen las emergencias y los desastres, incluidos los brotes epidémicos, en los escenarios del riesgo adoptados por la ciudad. La siguiente pregunta aborda el impacto de los asuntos de salud en la planificación de la gestión de desastres, la respuesta y su recuperación.",
+  "options": [
+   "5 – La ciudad incluye plenamente las emergencias y los desastres, incluidos los brotes epidémicos, como un escenario del riesgo por sí mismo, o como uno de los componentes de un escenario “compuesto”. Se planifica y se modela el posible impacto en la disponibilidad de personal y en los centros de salud tanto de forma individual como en combinación con otros riesgos, cuando una epidemia o pandemia podría obstaculizar la capacidad de respuesta.",
+   "4 – De forma similar a lo anterior, se abordan las emergencias y los desastres, incluidos los brotes epidémicos, pero hay una tendencia a tenerlos en cuenta de forma aislada de otros riesgos y, por consiguiente, es posible que no se aborde plenamente su interacción con otros riesgos.",
+   "3 – Se tienen en cuenta las emergencias y los desastres, incluidos los brotes epidémicos, junto con sus posibles efectos, pero estos impactos no se modelan por completo.",
+   "2 – Es posible que se tomen en cuenta las emergencias y los desastres, incluidos los brotes epidémicos, pero solamente los de alto nivel.",
+   "1 – Se puede mencionar como problema el riesgo de brotes epidémicos, pero sin ningún tipo de consideración activa de los efectos o de las respuestas que se requieren.",
+   "0 – No se tienen en cuenta las pandemias del todo."
+  ],
+  "shapes": [
+   "_x0000_s34849",
+   "_x0000_s34850",
+   "_x0000_s34851",
+   "_x0000_s34852",
+   "_x0000_s34853",
+   "_x0000_s34854"
+  ]
+ },
+ {
+  "sheet": "E02",
+  "ref": "A2.2",
+  "title": "A2.2 Inclusión de los efectos predecibles en la salud pública, a partir de otros escenarios del riesgo de desastres (tales como inundaciones, olas de calor y terremotos).",
+  "ref_row": 18,
+  "resp_cell": "E22",
+  "comment_cell": "C22",
+  "question": "¿Hasta qué punto se incluyen los efectos en la salud pública dentro de la planificación de escenarios de la ciudad para otros riesgos de desastres?",
+  "guidance": "Con la herramienta de autoevaluación, se requiere el desarrollo de (al menos) un escenario “más severo” (el peor caso) y uno “más probable” (el caso habitual) bajo los cuales se planifica la resiliencia frente a los desastres. En este tema se aborda la inclusión de los posibles asuntos de salud en caso de desastre en el análisis del riesgo de la ciudad, así como el desarrollo de escenarios y la planificación.\n\nTal como se enuncia en el marco de salud y gestión del riesgo de desastres, entre estos asuntos figuran:\n\nAtención a eventos traumáticos y postraumáticos;\nTratamiento y atención a afecciones crónicas;\nAtención pediátrica y geriátrica;\nEnfermedades transmitidas por el agua y los alimentos (a lo cual a veces se denomina salud ambiental);\nCentros para cuarentenas;\nAlbergues de emergencia; y\nEfectos en la salud mental, tales como duelo y traumas mentales.\n\nSe puede analizar, además, el impacto de los desastres en la gestión de los asuntos ya existentes de seguridad pública y la forma en que estos, a su vez, pueden impedir la recuperación.",
+  "options": [
+   "5 – Se incluye un conjunto integral de asuntos de salud en caso de desastre en los escenarios de planificación en caso de desastres. Se planifica y se modela el impacto probable en la disponibilidad de personal, los centros de salud, el tratamiento del agua y el saneamiento, el tratamiento y la atención de la salud.",
+   "4 – Se abordan plenamente diversos asuntos de salud en caso de desastre, tal como en el párrafo anterior, pero tienden a considerarlas de forma aislada a otros impactos, y por consiguiente el efecto que podrían generar es que no se evalúe por completo la recuperación por desastres.",
+   "3 – Se abordan diversos asuntos de salud en caso de desastre, quizás de forma detallada, pero no hay una cobertura total. Es posible que se omitan asuntos de salud física y mental a más largo plazo.",
+   "2 – Se tienen en cuenta y se planifican algunos asuntos inmediatos de salud en caso de desastre, pero solamente a grandes rasgos.",
+   "1 – Es posible que se reconozcan los asuntos de salud en caso de desastre, pero sin ninguna verdadera planificación para abordarlos.",
+   "0 – No hay ningún tipo de consideración de los asuntos de salud después de un desastre."
+  ],
+  "shapes": [
+   "_x0000_s34856",
+   "_x0000_s34857",
+   "_x0000_s34858",
+   "_x0000_s34859",
+   "_x0000_s34860",
+   "_x0000_s34861"
+  ]
+ },
+ {
+  "sheet": "E03",
+  "ref": "A3.1",
+  "title": "A3.1 Financiamiento para los aspectos de resiliencia de la salud pública.",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "¿Hasta qué punto se identifica el financiamiento y este se encuentra disponible para abordar los riesgos e impactos de los desastres en la salud pública?",
+  "guidance": "Tal como se plantea en la herramienta principal de autoevaluación, el análisis de las fuentes de financiamiento debe incluir “dividendos”, los cuales pueden ser:\n\n“Entrantes”: Gastos u otras cosas que pueden generar ciertos beneficios para la salud pública/ resiliencia. Por ejemplo, trasladar los servicios hospitalarios esenciales a lugares más altos en las áreas de inundación, contar con generadores de emergencia en los centros de atención primaria o cuando un nuevo centro comunitario también podría utilizarse como un centro temporal de tratamiento.\n“Salientes”: Gastos en artículos relacionados con la salud pública/resiliencia de los cuales surgen otros beneficios. Por ejemplo, cuando las preocupaciones en torno a las enfermedades transmitidas por el agua dan origen a la modernización o la reubicación de una planta para el tratamiento del agua, o las rutas de transporte en caso de inundaciones permiten el acceso continuo a suministros médicos.",
+  "options": [
+   "5 – Se identifica financiamiento y está accesible para abordar todas las implicaciones de salud conocidas en el escenario más severo del aspecto esencial 2.",
+   "4 – Se identifica financiamiento y está accesible para abordar todas las implicaciones de salud conocidas en el escenario más probable del aspecto esencial 2.",
+   "3 – Se conocen las necesidades de financiamiento, pero se sabe que existe cierta falta de fondos, lo cual se está abordando de forma activa.",
+   "2 – No se conocen plenamente las necesidades y cuando se conocen, se identifican deficiencias. El hecho de abordar esto podría o no estar bajo control.",
+   "1 – Las necesidades de financiamiento en salud sólo se han evaluado a grandes rasgos y solo hay disponible conocimiento generalizado sobre las fuentes de financiamiento. Estas no se han buscado.",
+   "0 – No hay ningún análisis de las necesidades o las fuentes de financiamiento."
+  ],
+  "shapes": [
+   "_x0000_s24720",
+   "_x0000_s24721",
+   "_x0000_s24722",
+   "_x0000_s24723",
+   "_x0000_s24724",
+   "_x0000_s24725"
+  ]
+ },
+ {
+  "sheet": "E04",
+  "ref": "A4.1",
+  "title": "A4.1 Conformidad con los códigos de ordenamiento territorial y construcción resiliente por parte de los principales centros de salud.",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "¿Hasta qué punto están ubicados y construidos los principales centros de salud de forma tal que les permitiría continuar funcionando después de un desastre?",
+  "guidance": "El aspecto esencial 8 en la herramienta principal de autoevaluación aborda asuntos sobre hospitales y la distribución de alimentos. Los usuarios pueden optar por incluir esos datos en esta evaluación. Entre otros centros principales de salud se pueden incluir, sin limitación alguna:\n\nHospitales, cuando no se abordaron bajo el aspecto esencial 8.\nClínicas comunitarias, centros de salud y hogares de ancianos, especialmente aquello con funciones regionales (por ejemplo, unidades de diálisis o para tratar quemaduras).\nFarmacias y dispensarios.\nCentros de alimentación.\nCentros de refrigeración o de calentamiento.\nLaboratorios y centros para pruebas.\nCapacidades de aislamiento.\nCentros asistenciales residenciales y residencias con servicios de asistencia.\nSuministros médicos, así como aspectos logísticos y centros para cadenas de suministro.\nCentros de distribución de alimentos en caso de emergencias, cuando no se aborden bajo el aspecto esencial 8.\nSuministros de agua y energía eléctrica, y rutas de acceso a cualquiera de los centros y servicios anteriores.\nDisponibilidad de la fuerza laboral después de un desastre.",
+  "options": [
+   "5 – Todos los principales centros de salud (véase la columna de la derecha) estén en lugares y cumplen con códigos que les permitiría sobrevivir bajo el escenario “más severo” de desastres.",
+   "4 – Todos los centros principales de salud están en lugares y cumplen con códigos que les permitiría sobrevivir bajo el escenario “más probable” de desastres.",
+   "3 – Algunos centros principales de salud no están ubicados en lugares o no cumplen con códigos que les permitiría sobrevivir bajo el escenario “más probable” de desastres.",
+   "2 – Más del 50% de los centros principales de salud no se encuentran en lugares o no cumplen con códigos que les permitiría sobrevivir bajo el escenario “más probable” de desastres.",
+   "1 – Más del 75% de los centros principales de salud no se encuentran en lugares o no cumplen con códigos que les permitiría sobrevivir bajo el escenario “más probable” de desastres.",
+   "0 – No assessment carried out."
+  ],
+  "shapes": [
+   "_x0000_s47113",
+   "_x0000_s47115",
+   "_x0000_s47116",
+   "_x0000_s47117",
+   "_x0000_s47118",
+   "_x0000_s47119"
+  ]
+ },
+ {
+  "sheet": "E05",
+  "ref": "A5.1",
+  "title": "A5.1 Preservación y gestión de servicios de ecosistemas que ofrecen beneficios a la salud pública.",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "¿Hasta qué punto se identifican y se protegen los servicios de los ecosistemas que ofrecen beneficios a la salud pública?",
+  "guidance": "Entre los ejemplos de servicios de los ecosistemas que ofrecen beneficios a la salud pública se incluyen, sin limitación alguna, los siguientes:\n\nFiltración natural de agua (a través de humedales y acuíferos).\nCobertura boscosa para reducir los efectos de “islas de calor” o reducir la contaminación atmosférica.\nEspecies que se alimentan de mosquitos y otros posibles portadores de enfermedades.\nSuministro de alimentos (por ejemplo, peces) y tierras para artículos nutricionales de gran importancia.",
+  "options": [
+   "5 – Se identifican y protegen todos los servicios de los ecosistemas relevantes y se sabe que están prosperando.",
+   "4 – Se identifican todos los servicios de los ecosistemas relevantes y en teoría se protegen, pero no están prosperando.",
+   "3 – Se identifican algunos, más no todos los servicios de los ecosistemas relevantes. Los que se identifican se protegen, al menos en teoría, pero podrían no estar prosperando.",
+   "2 – Se observa una amplia brecha en la identificación y la protección de los servicios de los ecosistemas relevantes. Se observan problemas considerables en la salud de algunos de los ecosistemas cuyos servicios se monitorean.",
+   "1 – Hay esfuerzos rudimentarios para identificar y proteger los servicios de los ecosistemas relevantes. Hay problemas generalizados con la situación y la salud de aquellos que se han identificado.",
+   "0 – No se han realizado esfuerzos para identificar o proteger los servicios de los ecosistemas relevantes y existe una alta probabilidad de que, si se les identificara formalmente, su evaluación mostraría que están degradados de forma severa."
+  ],
+  "shapes": [
+   "_x0000_s49160",
+   "_x0000_s49161",
+   "_x0000_s49162",
+   "_x0000_s49163",
+   "_x0000_s49164",
+   "_x0000_s49165"
+  ]
+ },
+ {
+  "sheet": "E06",
+  "ref": "A6.1",
+  "title": "A6.1 Disponibilidad de personal de salud pública con competencias y destrezas relevantes para la resiliencia ante desastres.",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "¿Hasta qué punto se cuenta con personal con las competencias y destrezas necesarias para planificar y mantener los sistemas y servicios de salud pública resilientes ante desastres en la ciudad?",
+  "guidance": "El aspecto esencial 8 en la herramienta principal de autoevaluación aborda los números y las destrezas de los médicos, las enfermeras y los encargados de primera respuesta. Los usuarios pueden decidir incluir esos datos en esta evaluación.\n\nTal como se enuncia en el marco de salud y gestión del riesgo de desastres, entre otras destrezas claves sobre la salud pública se incluyen:\n\nMédicos, enfermeras y demás personal de salud, si no se abordan bajo el aspecto esencial 8.\nEncargado de primera respuesta, si no se abordan bajo el aspecto esencial 8.\nOtro personal de hospitales o de centros de salud.\nAtención psiquiátrica: médicos y enfermeras.\nPersonal de centros asistenciales.\nFarmacéuticos.\nEspecialistas en salud ambiental (se incluyen expertos en agua y saneamiento, inspectores de alimentos y control de vectores).\nEpidemiólogos.\nPersonal de laboratorios y pruebas.\nTrabajadores de la cadena de suministros.",
+  "options": [
+   "5 – Se identifican y evalúan todas las competencias y destrezas relevantes del personal, y estas son adecuadas para los servicios de salud en planificación en caso de desastres y la recuperación posterior, tanto en términos de la solidez como del número de destrezas.",
+   "4 – Se identifican todas las destrezas relevantes y se sabe que existen ciertas deficiencias en algunas de estas o en su número.",
+   "3 – Se identifican todas las destrezas relevantes y se sabe que existen deficiencias más considerables, tanto en su solidez como en el número de estas.",
+   "2 – Hay una identificación incompleta de las destrezas y se sabe que hay deficiencias considerables, tanto en su solidez como en el número de estas.",
+   "1 – Se realiza un esfuerzo rudimentario para identificar las destrezas. Se sospecha que las deficiencias, tanto en cuanto a su solidez como a su número, son universales.",
+   "0 – No se analiza de ninguna forma este asunto."
+  ],
+  "shapes": [
+   "_x0000_s51301",
+   "_x0000_s51302",
+   "_x0000_s51303",
+   "_x0000_s51304",
+   "_x0000_s51305",
+   "_x0000_s51306"
+  ]
+ },
+ {
+  "sheet": "E06",
+  "ref": "A6.2",
+  "title": "A6.2 Socialización de datos sobre el sistema de salud pública con otros grupos interesados.",
+  "ref_row": 18,
+  "resp_cell": "E22",
+  "comment_cell": "C22",
+  "question": "",
+  "guidance": "A manera de ejemplo, entre los datos relevantes en este contexto se pueden incluir, sin limitación alguna, los siguientes:\n\nAlertas tempranas y datos de control sobre brotes.\nUbicación, capacidad y situación de los bienes y las instalaciones de salud pública, antes y después de un desastre.\nNiveles de destreza y cantidad del personal disponible.\nAsuntos relativos a los suministros.\nEfectos probables de los desastres, posiblemente problemas de salud pública, disminución de capacidades, etc.\nSituación, resultados de los datos sobre el panorama general para las medidas de respuesta ante un desastre y problemas relacionados con la salud pública después de un desastre, tal como el alcance de las enfermedades (incluidas las enfermedades crónicas, las poblaciones que no están recibiendo atención, etc.)\n\nLa distribución puede realizarse mediante un punto central, tal como un coordinador de la gestión de emergencias.",
+  "options": [
+   "5 – Se identifican fuentes y datos relevantes sobre salud pública: se distribuyen de forma confiable datos de calidad entre todos los grupos interesados que los necesitan, incluido el público, según sea pertinente.",
+   "4 – Se identifican todas las fuentes y los elementos de datos principales sobre salud pública y se distribuyen de forma confiable datos de calidad entre la mayoría de los grupos interesados, incluido el público, según sea pertinente.",
+   "3 – Se identifica y se distribuye la mayoría de las fuentes y los elementos de datos, pero podrían ser de menor calidad y confiabilidad, y la distribución se limita solo a un subgrupo de partes interesadas.",
+   "2 – Se identifican y se distribuyen algunos elementos y fuentes de datos solo a uno o dos grupos interesados. Se sabe que la calidad y la confiabilidad son un problema.",
+   "1 – Hay una identificación y distribución rudimentarias de los datos. Cuando se suministran, son erráticos y poco confiables.",
+   "0 – No se identifican ni se distribuyen datos sobre la salud pública."
+  ],
+  "shapes": [
+   "_x0000_s51316",
+   "_x0000_s51317",
+   "_x0000_s51318",
+   "_x0000_s51319",
+   "_x0000_s51320",
+   "_x0000_s51321"
+  ]
+ },
+ {
+  "sheet": "E06",
+  "ref": "A6.2.1",
+  "title": "A6.2.1 Socialización de otros datos con los grupos interesados en el sistema de salud pública.",
+  "ref_row": 31,
+  "resp_cell": "E35",
+  "comment_cell": "C35",
+  "question": "¿Hasta qué punto se comparten los datos de otros sistemas críticos con los grupos interesados en el sistema de salud pública que los necesitan?",
+  "guidance": "A manera de ejemplo, entre los datos relevantes en este contexto se pueden incluir, sin limitación alguna, los siguientes:\n\nCambios en los escenarios de riesgo (aspecto esencial 2) que repercuten en la salud pública.\nPronósticos (por ejemplo, eventos meteorológicos) y amplitud y magnitud de los desastres.\nSituación de otros sistemas críticos de salud (por ejemplo, suministro de energía y de agua, rutas de acceso, etc.) y los posibles efectos en la salud pública.",
+  "options": [
+   "5 – Se identifican fuentes y datos relevantes para otros sistemas críticos: se distribuyen de forma confiable datos de calidad entre todos los grupos interesados que los necesitan.",
+   "4 – Se identifican todas las fuentes y los elementos de datos principales, y se distribuyen de forma confiable datos de calidad entre la mayoría de los grupos interesados en el área de salud pública.",
+   "3 – Se identifica y se distribuye la mayoría de las fuentes y los elementos de datos, pero podrían ser de menor calidad y confiabilidad, y la distribución se limita solo a un subgrupo de partes interesadas en el área de salud pública.",
+   "2 – Se distribuyen algunos elementos y fuentes de datos solo a uno o dos grupos interesados en el área de salud pública. Se sabe que la calidad y la confiabilidad son un problema.",
+   "1 – Hay una identificación y distribución rudimentarias de los datos. Cuando se suministran, son erráticos y poco confiables.",
+   "0 – No se identifican ni se distribuyen datos sobre sistemas críticos entre los grupos interesados en salud pública."
+  ],
+  "shapes": [
+   "_x0000_s51323",
+   "_x0000_s51324",
+   "_x0000_s51325",
+   "_x0000_s51326",
+   "_x0000_s51327",
+   "_x0000_s51328"
+  ]
+ },
+ {
+  "sheet": "E06",
+  "ref": "A6.2.2",
+  "title": "A6.2.2 Protección y acceso a registros individuales de salud.",
+  "ref_row": 44,
+  "resp_cell": "E48",
+  "comment_cell": "C48",
+  "question": "¿Hasta qué punto se protegen contra desastres los registros individuales de salud y de recetas médicas, y estos son accesibles después de un desastre?",
+  "guidance": "Es necesario proteger los registros de salud de los ciudadanos contra todo daño o pérdida (idóneamente, mediante sistemas de respaldo y/o redundantes que se encuentren ubicados fuera de esa área), y deben seguir siendo accesibles después de un desastre, en una situación en la que las personas podrían estar heridas, lesionadas o en albergues y que requieran atención médica por parte de profesionales que no están familiarizados con su historial médico.\n\nPodría surgir alguna tensión entre el sistema de respaldo fuera del área y la accesibilidad después de un desastre. Esto supone la necesidad de contar con comunicaciones resilientes entre el lugar del desastre y el del sistema de respaldo.\n\nTambién podrían surgir tensiones entre las regulaciones que rigen la protección y la divulgación de información de salud y los requisitos de la respuesta ante un desastre y la resiliencia. Algunos países (tal como Japón) abordan esto al solicitar a las personas que mantengan una tarjeta de registro con etiquetas adhesivas manuales que puedan presentar en los albergues, aunque estas tarjetas de registro podrían perderse y el sistema podría requerir un estatuto que permita su establecimiento.",
+  "options": [
+   "5 – Todos los registros de salud de los ciudadanos (afecciones, recetas médicas) están seguros y los trabajadores encargados de las respuestas de emergencia tienen acceso a estos (por ejemplo, el personal que ofrece atención médica en los albergues y los hospitales a los que han podido acudir las personas si han resultado heridas o lesionadas).",
+   "4 – En gran medida, los registros de salud de los ciudadanos están seguros, pero hay algunas excepciones; por ejemplo, los que se relacionan con algunos especialistas de salud, o los de un pequeño segmento del a población más alejada (en la periferia).",
+   "3 – En gran medida, los registros de salud están seguros, pero podrían no ser accesibles debido a problemas de comunicación que se pueden prever antes de un desastre.",
+   "2 – Hay brechas más considerables en la seguridad de los registros de salud.",
+   "1 – Se observan grandes brechas: es probable que se pierdan datos para grandes segmentos de la población.",
+   "0 – No se realiza ningún esfuerzo para garantizar la seguridad o la accesibilidad de los registros de salud."
+  ],
+  "shapes": [
+   "_x0000_s51334",
+   "_x0000_s51335",
+   "_x0000_s51337",
+   "_x0000_s51338",
+   "_x0000_s51340",
+   "_x0000_s51341"
+  ]
+ },
+ {
+  "sheet": "E07",
+  "ref": "A7.1",
+  "title": "A7.1 Eficacia del sistema de salud pública para hacer partícipe a la comunidad en el contexto de la gestión del riesgo de desastres.",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "¿Hasta qué punto las comunidades comprenden y pueden cumplir sus funciones para mantener ciertos niveles de salud pública y bienestar antes, durante y después de un desastre?",
+  "guidance": "Las funciones comunitarias pueden incluir (sin limitación alguna) lo siguiente:\n\nControl comunitario de las enfermedades infecciosas (detección, monitoreo y alertas).\nPruebas del aire y del agua (ciencia ciudadana).\nSensibilización.\nAsistencia a personas con enfermedades crónicas (por ejemplo, apoyo al suministro y la distribución de medicamentos).\nDistribución de información sobre salud pública.\nDistribución de recursos (por ejemplo, botellas de agua, pañales y frazadas).\nAsistencia a personas con discapacidad física o mental, apoyo a personas con vulnerabilidades (por ejemplo, personas de edad avanzada, en situación de pobreza, etc.).\nAsistencia a familias con bebés y niños pequeños.\nComunicación de las necesidades a los proveedores de servicios de salud y a los encargados de respuestas de emergencia.\n\nLas organizaciones designadas pueden ser organizaciones o redes comunitarias encargadas de respuestas de emergencia, un hospital local o un consultorio médico, de haberlo, o con la capacitación debida, grupos confesionales, una escuela u otro grupo comunitario, entre otros.",
+  "options": [
+   "5 – Cada comunidad o barrio en la ciudad comprende, acepta y puede desempeñar las funciones previstas antes, durante y después de un desastre, con una organización designada que dirija estas tareas.",
+   "4 – El 90% de las comunidades comprende, acepta y puede desempeñar las funciones que se espera de estas.",
+   "3 – El 75% de las comunidades ha adquirido una amplia comprensión y puede desempeñar elementos principales de sus funciones.",
+   "2 – La mitad o un menor número de comunidades comprende sus funciones y en estos casos solo puede desempeñar parte de estas.",
+   "1 – Solo hay una comprensión rudimentaria a nivel comunitario en la ciudad sobre sus funciones en la salud pública, al igual que una habilidad limitada para asumirlas.",
+   "0 – No se definen o se comunican realmente cuáles son las funciones comunitarias. No se conoce su habilidad de asumirlas."
+  ],
+  "shapes": [
+   "_x0000_s53270",
+   "_x0000_s53271",
+   "_x0000_s53272",
+   "_x0000_s53273",
+   "_x0000_s53274",
+   "_x0000_s53275"
+  ]
+ },
+ {
+  "sheet": "E07",
+  "ref": "A7.1.2",
+  "title": "A7.1.2 Acceso comunitario y confianza en la información sobre salud pública.",
+  "ref_row": 18,
+  "resp_cell": "E22",
+  "comment_cell": "C22",
+  "question": "¿Hasta qué punto las comunidades reciben, respetan y están dispuestas a tomar acciones con base en la información sobre salud pública?",
+  "guidance": "Entre otras cosas, la información sobre salud pública incluye, sin limitación alguna, las siguientes necesidades después de un desastre:\n\nAlertas sobre contaminación (por ejemplo, notificaciones para hervir agua, avisos para permanecer en casa, etc.)\nConsejos de higiene en casos de emergencia, así como sobre la prevención de enfermedades.\nConsejos sobre inocuidad alimentaria.\nConsejos sobre el cuidado de personas con afecciones físicas o mentales previas.\nConsejos para personas con enfermedades crónicas (por ejemplo, enfermedades cardíacas, cáncer, diabetes, afecciones respiratorias, etc.)\nInformación sobre brotes de enfermedades, indicios y síntomas de estas, cuándo y dónde buscar atención médica y tratamiento.\nUbicación de los centros de atención médica en casos de emergencia.\nLa población debería también ser consciente de lo que es seguro o inseguro en términos de salud pública antes, durante y después de un desastre.\n\nEntre las medidas de seguridad figuran:\n\nAlimentación: qué se puede comer y qué no\nAgua: ¿Es potable o no?\nCalidad del aire o riesgos de inhalación\nAsegurarse de que la población tenga conciencia de ciertas zonas peligrosas\nConstrucción de seguridad\nRutas de transporte seguras\nOtros requisitos conductuales, como medidas de higiene adicionales",
+  "options": [
+   "5 – Ha quedado demostrado en desastres anteriores que los consejos sobre salud pública se reciben, aceptan y acatan de forma universal.",
+   "4 – Se prevé que los consejos sobre salud pública se recibirían, aceptarían y acatarían ampliamente.",
+   "3 – Es posible que algunas comunidades u otros subgrupos no puedan recibir, aceptar o tomar acciones con base en la información sobre salud pública.",
+   "2 – Más del 50% de la ciudad podrían no recibir, aceptar o tomar acciones con base en información importante sobre salud pública después de un desastre.",
+   "1 – Solo se recibe y se acepta de forma dispersa información sobre salud pública.",
+   "0 – No hay ningún esfuerzo dirigido a transmitir información sobre salud pública."
+  ],
+  "shapes": [
+   "_x0000_s53277",
+   "_x0000_s53278",
+   "_x0000_s53279",
+   "_x0000_s53280",
+   "_x0000_s53281",
+   "_x0000_s53282"
+  ]
+ },
+ {
+  "sheet": "E07",
+  "ref": "A7.2",
+  "title": "A7.2 Habilidad de la comunidad para “regresar a la normalidad” — salud mental.",
+  "ref_row": 31,
+  "resp_cell": "E35",
+  "comment_cell": "C35",
+  "question": "¿Hasta qué punto se abordan las necesidades de salud mental de las comunidades?",
+  "guidance": "Entre las organizaciones comunitarias se deben incluir grupos comunitarios de apoyo para un desastre. Se deben tener en cuenta apoyo psicológico de emergencia, centros para traumas psicológicos y terapeutas para tratar efectos psicológicos como casos de duelo y de trastornos de estrés postraumático (TEPT).\n\nEl aspecto esencial 10 también aborda efectos psicológicos a largo plazo en las poblaciones y los encargados de respuestas que resultan afectados.",
+  "options": [
+   "5 – Hay organizaciones comunitarias, apoyo psicosocial, escuelas, centros para traumas psicológicos y terapeutas, y se encuentran debidamente equipados para abordar toda la variedad de aspectos de salud mental en cada barrio, sin importar su estatus económico, edad, perfil demográfico, etc.",
+   "4 – Más del 75% de los barrios están cubiertos. Hay disponibles grupos comunitarios de apoyo y centros para traumas.",
+   "3 – Más del 50 -75% de los barrios están cubiertos.",
+   "2 – Más del 25-50% de los barrios están cubiertos.",
+   "1 – Existen planes para hacer partícipes a los barrios, pero no se han aplicado, salvo quizás en uno o dos casos iniciales.",
+   "0 – No se han abordado las necesidades de salud mental."
+  ],
+  "shapes": [
+   "_x0000_s53284",
+   "_x0000_s53285",
+   "_x0000_s53286",
+   "_x0000_s53287",
+   "_x0000_s53288",
+   "_x0000_s53289"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "A8.2",
+  "title": "A8.2 Capacidad de reacción para la infraestructura de salud pública, cuando no se toman en consideración bajo el aspecto esencial 8.",
+  "ref_row": 18,
+  "resp_cell": "E22",
+  "comment_cell": "C22",
+  "question": "¿Hasta qué punto pueden los hospitales y centros de atención de emergencia gestionar una afluencia repentina de pacientes?",
+  "guidance": "La capacidad de respuesta extraordinaria debe basarse en los sistemas de gestión de víctimas masivas, incluida la función de los establecimientos de salud. Esta evaluación debe ir de la mano de las pérdidas estimadas de días cama críticos y el cálculo de suministros médicos urgentes para la atención de traumas y personas con enfermedades crónicas.\n\nEsta evaluación debe tener en cuenta la habilidad del personal médico y de salud clave para tener acceso a instalaciones críticas de salud, a fin de abordar las necesidades de salud en respuesta a un desastre.\n\nEs posible que se logre la capacidad necesaria a través de acuerdos de ayuda mutua con centros e instalaciones en zonas aledañas, pero será importante asegurarse de que exista la posibilidad de que las rutas de transporte se mantengan abiertas para poder llegar hasta esas instalaciones.\n\nLa capacidad de respuesta extraordinaria incluye al personal de salud y otros, instalaciones, bienes y suministros (por ejemplo, equipo de protección personal) y apoyo de otras infraestructuras al sector de la salud.",
+  "options": [
+   "5 – Existe capacidad de reacción para abordar necesidades adicionales de salud, las cuales surgirán posiblemente bajo el escenario “más severo” y se somete a prueba, ya sea en situaciones reales o mediante simulacros de práctica. Este tipo de capacidad se puede activar en un plazo de 6 horas.",
+   "4 – Existe capacidad de reacción para abordar necesidades adicionales de salud, las cuales surgirán posiblemente bajo el escenario “más probable” y se somete a prueba, ya sea en situaciones reales o mediante simulacros de práctica. Este tipo de capacidad se puede activar en un plazo de 6 horas",
+   "3 – Existe capacidad de reacción, pero se sabe o se sospecha que presenta insuficiencias menores con relación al escenario “más probable”. Este tipo de capacidad se puede activar en un plazo de 6 horas. Bajo el escenario “más severo”, se observan deficiencias más significativas en la cobertura geográfica o en el tipo de servicio disponible, y la capacidad de reacción solo puede activarse en un plazo de 12 horas o más.",
+   "2 – Existe capacidad de reacción, pero se sabe o se sospecha que presenta grandes insuficiencias en la cobertura geográfica o en el tipo de servicio disponible, y la capacidad de reacción solo puede activarse en un plazo de 12 horas o más. Nunca se ha evaluado esta capacidad para el escenario “más severo”.",
+   "1 – En teoría, hay disponible capacidad de reacción, pero nunca se ha evaluado o sometido a prueba para el escenario “más probable”.",
+   "0 – No se ha identificado ninguna capacidad de reacción."
+  ],
+  "shapes": [
+   "_x0000_s64537",
+   "_x0000_s64538",
+   "_x0000_s64539",
+   "_x0000_s64540",
+   "_x0000_s64541",
+   "_x0000_s64559"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "A8.3",
+  "title": "A8.3 Continuidad de la atención a aquellas personas que ya están enfermas, cuando no se tengan en cuenta en el aspecto esencial 8.",
+  "ref_row": 31,
+  "resp_cell": "E35",
+  "comment_cell": "C35",
+  "question": "¿Hasta qué punto se puede mantener la atención prestada a aquellas personas que ya están enfermas o que son dependientes?",
+  "guidance": "Esta evaluación debe ir de la mano de las pérdidas estimadas de días cama críticos y el cálculo de suministros médicos urgentes.",
+  "options": [
+   "5 – Bajo el escenario “más severo”, se podría mantener la atención a todas las categorías de pacientes existentes. Si es necesario trasladar a los pacientes, se sabe que los centros de transporte y las rutas cuentan con la capacidad y la resiliencia que requieren.",
+   "4 – Bajo el escenario “más probable”, se podría mantener la atención a todas las categorías de pacientes existentes. Si es necesario trasladar a los pacientes, se sabe que los centros de transporte y las rutas cuentan con la capacidad y la resiliencia que requieren.",
+   "3 – Bajo el escenario “más probable”, hay ciertos efectos en la atención prestada a categorías específicas de pacientes. Es probable que el traslado de algunos pacientes sea problemático. Bajo el escenario “más severo” hay efectos más amplios en la atención prestada a pacientes específicos. Es probable que el traslado de muchos pacientes sea problemático.",
+   "2 – Bajo el escenario “más probable”, hay efectos más amplios en la atención prestada a categorías específicas de pacientes. Es probable que el traslado de muchos pacientes sea problemático. Bajo el escenario “más severo” hay graves efectos en la atención a casi todos los pacientes existentes y es probable que su traslado solo sea posible para los casos más urgentes.",
+   "1 – Bajo el escenario “más probable” hay efectos graves en la atención prestada a casi todos los pacientes existentes y es probable que su traslado solo sea posible para los casos más urgentes. Bajo el escenario “más severo”, fallaría por completo la atención a los pacientes existentes.",
+   "0 – Bajo el escenario “más probable”, fallaría por completo o casi por completo la atención prestada a los pacientes existentes."
+  ],
+  "shapes": [
+   "_x0000_s64544",
+   "_x0000_s64545",
+   "_x0000_s64546",
+   "_x0000_s64547",
+   "_x0000_s64548",
+   "_x0000_s64560"
+  ]
+ },
+ {
+  "sheet": "E08",
+  "ref": "A8.1",
+  "title": "A8.1 Fortalecimiento de los elementos estructurales y no estructurales de seguridad y funcionalidad de la infraestructura de salud pública que no se toman en consideración en el aspecto esencial 8.",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "¿En qué medida la infraestructura de salud pública (aparte de los hospitales) es resiliente?",
+  "guidance": "El aspecto esencial 8 de la herramienta principal de autoevaluación aborda aspectos sobre los hospitales y la distribución de alimentos. Los usuarios pueden decidir si incluyen o no esos datos en esta evaluación. Entre otras instalaciones esenciales de salud pública, se pueden incluir, sin limitación alguna, las siguientes:\n\nHospitales que no se abordaron bajo el aspecto esencial 8.\nClínicas comunitarias, centros de salud y hogares de ancianos, especialmente aquello con funciones regionales (por ejemplo, unidades de diálisis o para tratar quemaduras).\nFarmacias y dispensarios.\nCentros de alimentación.\nCentros de refrigeración o de calentamiento.\nLaboratorios y centros para pruebas.\nCapacidades de aislamiento.\nCentros asistenciales residenciales y residencias con servicios de asistencia.\nSuministros médicos, así como aspectos logísticos y centros para cadenas de suministro.\nCentros de distribución de alimentos en caso de emergencias, cuando no se aborden bajo el aspecto esencial 8.\nProtección y control de infecciones en las instalaciones de salud.\nDisponibilidad de la fuerza laboral después de un desastre.\n\nLa evaluación debe tener en cuenta la resiliencia de las instalaciones de salud con relación a la pérdida de infraestructura clave de apoyo, tales como comunicaciones, electricidad, agua y saneamiento, transporte, combustible, estado de derecho, etc.",
+  "options": [
+   "5 – Se considera que toda la infraestructura de salud pública, incluidos los servicios de los que depende, tiene la capacidad de enfrentar el escenario “más severo” con una pérdida mínima de servicios.",
+   "4 – Se considera que toda la infraestructura de salud pública, incluidos los servicios de los que depende, tiene la capacidad de enfrentar el escenario “más probable” con una pérdida mínima de servicios.",
+   "3 – La infraestructura de salud pública experimentaría interrupciones considerables bajo el escenario “más severo”, pero algunos servicios continuarían para el 75% de la población de la ciudad. Sin embargo, se mitigaría la mayor parte del escenario “más probable”.",
+   "2 – La infraestructura de salud pública experimentaría interrupciones considerables bajo el escenario “más probable”, pero algunos servicios continuarían para el 75% de la población de la ciudad, y para el 50% bajo el escenario “más severo”.",
+   "1 – La infraestructura de salud pública experimentaría interrupciones considerables o se suspendería para el 50% o más de la población de la ciudad. Dejaría de funcionar bajo el escenario “más severo”.",
+   "0 – No hay otra infraestructura de salud pública que no sean hospitales."
+  ],
+  "shapes": [
+   "_x0000_s64550",
+   "_x0000_s64551",
+   "_x0000_s64552",
+   "_x0000_s64553",
+   "_x0000_s64554",
+   "_x0000_s64555"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "A9.3",
+  "title": "A9.3 Consideración de las poblaciones en mayor riesgo o de aquellas personas que viven en el hogar con condiciones preexistentes.",
+  "ref_row": 31,
+  "resp_cell": "E35",
+  "comment_cell": "C35",
+  "question": "¿Hasta qué punto se tienen en cuenta las necesidades de las poblaciones en mayor riesgo, como los ciudadanos con condiciones preexistentes de salud, pérdida de funcionalidad o discapacidad, lo cual podría significar que necesitan apoyo adicional?",
+  "guidance": "Es posible que entre las personas que necesiten ayuda adicional o medidas específicas se incluyan, sin restricción alguna, las siguientes:\n\nNiños, ancianos y las personas que los cuidan.\nPersonas con discapacidad o con una movilidad limitada.\nPacientes con diversas afecciones de salud, pacientes que necesitan diálisis, u otros pacientes con equipo esencial de salud en sus hogares.\nAquellas personas (por ejemplo, con diabetes y asma) que necesitan medicamentos adicionales.\nAquellas personas con necesidades temporales de salud, tales como mujeres embarazadas.\nAquellas personas con discapacidad o enfermedades mentales.",
+  "options": [
+   "5 – Se han identificado todos los ciudadanos que posiblemente necesiten apoyo adicional o medidas específicas en toda la ciudad y hay suministros para ayudarlos.",
+   "4 – Se ha identificado al 95% de los ciudadanos que posiblemente necesiten apoyo adicional o medidas específicas en toda la ciudad y hay suministros para ayudarlos.",
+   "3 – Se ha identificado al 75% de los ciudadanos que posiblemente necesiten apoyo adicional o medidas específicas en toda la ciudad y hay suministros para ayudarlos.",
+   "2 – Se ha identificado al 50% de los ciudadanos que posiblemente necesiten apoyo adicional o medidas específicas en toda la ciudad, pero no hay suministros suficientes para ayudarlos a todos.",
+   "1 – Se ha identificado a menos del 50% de los ciudadanos que posiblemente necesiten apoyo adicional o medidas específicas y hay vacíos generalizados en cuanto a los suministros para ayudarlos.",
+   "0 – No hay ninguna disposición para identificar u ofrecer apoyo adicional o medidas específicas a los ciudadanos que la necesiten."
+  ],
+  "shapes": [
+   "_x0000_s70673",
+   "_x0000_s70674",
+   "_x0000_s70675",
+   "_x0000_s70676",
+   "_x0000_s70677",
+   "_x0000_s70678"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "A9.1",
+  "title": "A9.1 Sistemas de alerta temprana para emergencias relacionadas con la salud",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "¿Hasta qué punto existen sistemas de alerta temprana para casos inminentes de emergencia con efectos potenciales para la salud?",
+  "guidance": "",
+  "options": [
+   "5 – Existen tareas integrales y eficientes de monitoreo y se emitirán alertas tempranas eficaces para tratar los impactos y riesgos de salud de todas las amenazas a las que se enfrenta la ciudad. Se considerará el tiempo de reacción (dentro de los límites de la tecnología)",
+   "4 – Existen tareas integrales de monitoreo, aún si no son totalmente eficientes en todos los casos. Existen las alertas, pero estas deberían ser más rápidas de lo que la tecnología permite. Se considera que las alertas son confiables y específicas.",
+   "3 – Existen tareas de monitoreo para la mayoría de los posibles riesgos relacionados con la atención médica y son ampliamente eficaces. Sin embargo, no se abarca uno o más riesgos importantes. Se excluyen algunas amenazas, y las alertas deberían ser más rápidas de lo que la tecnología permite.",
+   "2 – Existen ciertas tareas de monitoreo, pero se observan vacíos considerables. Los tiempos de alerta deberían ser más rápidas de lo que la tecnología permite y puede haber algunos falsos positivos; la confiabilidad de los sistemas de alerta puede ser percibida como dudosa.",
+   "1 – En el mejor de los casos, el monitoreo es rudimentario y es posible que no se emitan alertas. Las alertas son percibidas como improvisadas y poco confiables, es fácil que se ignoren.",
+   "0 – No hay tareas de monitoreo ni alertas."
+  ],
+  "shapes": [
+   "_x0000_s70700",
+   "_x0000_s70701",
+   "_x0000_s70702",
+   "_x0000_s70703",
+   "_x0000_s70704",
+   "_x0000_s70705"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "A9.2",
+  "title": "A9.2 Integración de la salud pública en la gestión de emergencias.",
+  "ref_row": 18,
+  "resp_cell": "E22",
+  "comment_cell": "C22",
+  "question": "¿Hasta qué punto están los profesionales y el sector de la salud pública integrados con equipo de gestión de emergencias?",
+  "guidance": "Esta evaluación abarca la calidad y la profundidad de los acuerdos de trabajo entre los profesionales de salud pública (según se definieron anteriormente) y otros encargados de respuestas de emergencia, en el marco de una respuesta a un desastre.",
+  "options": [
+   "5 – La salud pública está plenamente representada y hay interacción con esta en el equipo de gestión de emergencias. Además, se integra en todas las tomas de decisiones relacionadas con la emergencia, a través de la afiliación al equipo principal de gestión de desastres. Se ha sometido a prueba la participación a través de simulacros (en el último año) o mediante respuestas en vivo.",
+   "4 – Se integra la salud pública, pero a través de insumos por vías remotas (teléfono, mensajes). Se ha sometido a prueba la participación, pero quizás esto se hizo hace más de 12 meses.",
+   "3 – La salud pública está representada, pero no se ha sometido a prueba la participación en los últimos tres años, o bien, aunque está representada, se omiten ciertas disciplinas claves.",
+   "2 – Los procesos para la gestión de desastres contemplan consultas sobre salud pública, pero en las actividades de seguimiento y no según vayan sucediendo los acontecimientos. Los procesos no se someten a prueba.",
+   "1 – La gestión de desastres se basa en llamadas telefónicas específicas con profesionales y centros de salud pública.",
+   "0 – Hay una verdadera desconexión entre la salud pública y la gestión de desastres."
+  ],
+  "shapes": [
+   "_x0000_s70707",
+   "_x0000_s70708",
+   "_x0000_s70709",
+   "_x0000_s70710",
+   "_x0000_s70711",
+   "_x0000_s70712"
+  ]
+ },
+ {
+  "sheet": "E09",
+  "ref": "A9.4",
+  "title": "A9.4 Habilidad de entregar suministros de salud pública a personas con necesidades.",
+  "ref_row": 44,
+  "resp_cell": "E48",
+  "comment_cell": "C48",
+  "question": "¿Hasta qué punto tiene la ciudad los suministros y el equipo que se requieren para mantener la salud pública durante y después de un desastre?",
+  "guidance": "Entre los suministros para gestionar una emergencia en comunidades, hogares y refugios se incluyen, sin limitación alguna, lo siguientes:\n\nRedundancia en el sistema eléctrico o la cadena de frío para suministros que sean sensibles a la temperatura.\nSuministros de primeros auxilios y para el control de infecciones.\nAgua y equipo y tabletas para purificar agua.\nSuministros sanitarios y de higiene.\nInsumos para cuidado de bebés.\nMedicamentos comunes y suministros para equipo médico en el hogar, con formulaciones y tamaños adecuados para cada segmento de la comunidad.\nEquipos de protección personal.\nAlimentos adecuados desde el punto de vista cultural y para cada edad.\n\nEn algunos países, los ministerios de salud y las agencias para la gestión de emergencias especificarán las listas de estos artículos.",
+  "options": [
+   "5 – Existe una lista exhaustiva de los artículos necesarios y se sabe que los planes sometidos a prueba son adecuados para entregarlos rápidamente a toda la población.",
+   "4 – Existe una lista, pero esta podría no ser exhaustiva, y es posible que los planes no se hayan sometido a prueba o no sean totalmente adecuados para la ciudad.",
+   "3 – Existe una lista y los artículos más importantes estarán disponibles para el 75% de la población.",
+   "2 – No se cuenta con una lista, pero hay reservas e inventarios de algunos artículos. La capacidad de distribución puede llegar al 50% de la población.",
+   "1 – Se cuenta con reservas de algunos de los artículos más importantes, pero no se ha hecho ningún esfuerzo para su planificación y es poco probable que el mecanismo de distribución tenga éxito, si es que este existe.",
+   "0 – No se ha realizado ningún esfuerzo para abordar este asunto."
+  ],
+  "shapes": [
+   "_x0000_s70717",
+   "_x0000_s70718",
+   "_x0000_s70719",
+   "_x0000_s70720",
+   "_x0000_s70721",
+   "_x0000_s70722"
+  ]
+ },
+ {
+  "sheet": "E10",
+  "ref": "A10.2",
+  "title": "A10.2 Aprendizaje y mejoramiento.",
+  "ref_row": 18,
+  "resp_cell": "E22",
+  "comment_cell": "C22",
+  "question": "¿En qué medida se cuenta con un mecanismo formalizado para aprender a partir del desempeño del sistema de salud pública antes, durante y después de un desastre?",
+  "guidance": "",
+  "options": [
+   "5 – Existe un mecanismo definido de aprendizaje que integra la salud pública con otras lecciones y se ha utilizado con resultados demostrables.",
+   "4 – Existe un mecanismo definido de aprendizaje que integra la salud pública con otras lecciones, pero todavía no se ha utilizado –no ha habido desastres.",
+   "3 – Se realizará el aprendizaje a través de un mecanismo de revisión de la salud pública, pero este solo es unilateral o bilateral –las lecciones permanecen dentro de las responsabilidades funcionales restringidas de la salud pública y no se tiene la intención de integrar el aprendizaje de este sector con otras disciplinas en la ciudad. Además, la salud pública no es capaz de ejercer ninguna influencia en los aprendizajes sobre otros servicios.",
+   "2 – No se cuenta con un mecanismo verdaderamente definido, pero se han utilizado o se utilizarán en desastres futuros ejercicios para abordar propósitos específicos.",
+   "1 – Se han realizado esfuerzos momentáneos y dispersos para aprender y mejorar, o se espera que estos se realicen en el futuro.",
+   "0 – No se ha realizado ningún esfuerzo para aprender y mejorar."
+  ],
+  "shapes": [
+   "_x0000_s61449",
+   "_x0000_s61450",
+   "_x0000_s61451",
+   "_x0000_s61452",
+   "_x0000_s61453",
+   "_x0000_s61454"
+  ]
+ },
+ {
+  "sheet": "E10",
+  "ref": "A10.1",
+  "title": "A10.1 Mitigación de los impactos a largo plazo en el bienestar y la salud pública.",
+  "ref_row": 5,
+  "resp_cell": "E9",
+  "comment_cell": "C9",
+  "question": "¿En qué medida existen planes integrales de salud pública después de un evento?",
+  "guidance": "Un plan integral de salud pública después de un evento debe incluir lo siguiente (no es una lista exhaustiva):\n\nEl impacto del desastre en enfermedades no transmisibles.\nUn plan a largo plazo que aborde las necesidades psicosociales de las poblaciones y los encargados de respuestas que resulten afectados.\nServicios de rehabilitación.\nLa restauración de los servicios de salud y la seguridad ambiental a los niveles que existían antes del evento y reducción del riesgo de futuros eventos.\nEl mantenimiento de servicios rutinarios de salud, tales como vacunas (con frecuencia problemáticos con interrupciones en la cadena de frío).\nEl almacenamiento y la distribución de medicamentos.\nLa distribución de alimentos.\nLa gestión del agua.\nLas necesidades de la fuerza laboral.",
+  "options": [
+   "5 – Existen planes totalmente integrales, los cuales abordan las necesidades de salud pública a más largo plazo después de los escenarios “más probable” y “más severo”.",
+   "4 – Existen planes totalmente integrales, los cuales abordan las necesidades de salud pública a más largo plazo después del escenario “más probable”.",
+   "3 – Existen planes para aplicarlos después del evento “más probable”, pero estos presentan deficiencias. Las deficiencias más considerables son para el escenario “más severo”.",
+   "2 – Existen planes para aplicarlos después del evento “más probable”, pero estos presentan deficiencias considerables. Hay una deficiencia generalizada para el escenario “más severo”.",
+   "1 – Existen planes para aplicarlos después del evento “más probable”, pero estos presentan deficiencias generalizadas.",
+   "0 – No existe ningún plan."
+  ],
+  "shapes": [
+   "_x0000_s61455",
+   "_x0000_s61456",
+   "_x0000_s61457",
+   "_x0000_s61458",
+   "_x0000_s61459",
+   "_x0000_s61460"
+  ]
+ }
+]

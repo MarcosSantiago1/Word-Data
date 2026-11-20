@@ -1,0 +1,1542 @@
+# CDP Cities 2023 - Antalya Metropolitan Municipality (org 74670) https://www.cdp.net/en/responses/74670
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: Local government area within a greater city / metropolitan area
+  - Next highest level of government: County / Province
+  - Next lowest level of government: City/Municipality
+  - Land area of the jurisdiction boundary (in square km)^: 20177
+  - Percentage range of land area that is green space: 51-60%
+  - Current (or most recent) population size^: 2688004
+  - Population year^: 2022
+  - Projected population size: 2773397
+  - Projected population year: 2025
+  - Select the currency used for all financial information reported throug: TRY New Turkish Lira
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking budgeting and/or major capital expenditures
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking plans and/or strategies
+  - Select the processes that reflect your jurisdiction's oversight of cli: Council (or equivalent) is informed by relevant departments, committees and/or subcommittees about climate-related issues
+  - Select the processes that reflect your jurisdiction's oversight of cli: Relevant departments, committees and/or subcommittees are informed by management about climate-related issues
+  - Provide further details on your jurisdiction's oversight of climate-re: In order to combat climate change and reduce the urban emissions in the city officially, the municipality has signed  Covenant of Mayors, CoM in 2013 under the coordination of Foreign Affairs. In 2020, the Climate Change and Clean Energy department was established with the approval of municipality parliament to collect all of the climate change mitigation and adaptation projects.  The department created Sustainable Energy Action Plan (SEAP) to control the energy consumption and develop renewable energy usage in the city in 2019. The SEAP process has been prepared in accordance with the CoM methodology used by all cities preparing a Sustainable Energy Action Plan. The following basic steps were followed in the process carried out in accordance with CoM's SEAP reporting template and accompanying method report: a) Preparing the greenhouse gas emission inventory and evaluating the current si
+  - Describe how climate-related issues have impacted your jurisdiction's : As we all know, global climate change is a situation that should be recognized as affecting the whole world. Our country, which is located in the Mediterranean Basin, will be exposed to many effects from this situation, especially drought, floods and an increase in extreme weather events. The fact that Antalya, the city we live in, has a livable, healthy and sustainable environment and economy reveals that this issue should be taken into consideration in the coming period. The issue of adaptation to climate change is gaining importance in order to take appropriate measures to prevent or minimize the damage that may be caused by predicting the negative effects of climate change and to take advantage of the opportunities that may arise. We are determinedly continuing our efforts to make Antalya, the capital of agriculture and tourism and the 5th largest city with a population of approximat
+  - Describe how climate-related issues have impacted your jurisdiction's : There are two sub-steps in the Metropolitan Municipality's financial planning for the management of climate-related issues. The first one is funds, grants and loans from national sources. The existing budget and national resources of Metropolitan Municipalities are not sufficient for the development and implementation of climate-related projects. Therefore, there is also a need for international support (World Bank, ICLE, Covenant of Mayors, UNDP, etc.). The budgets created with the support received shape the financial steps that Antalya will take in combating and adapting to climate change, especially in the face of floods, heat waves and public health problems caused by climate change. Here, knowing that not only the methods to be applied as a municipality, but also the financial supports, political decisions and steps are also important guides us on how to direct project financing res
+  - Describe the risks to your jurisdiction related to the transition to a: Antalya is the 5th most populous city in Turkey with a rapidly growing population and continuous migration. With increasing population and urbanization, inadequate urban infrastructure and lack of sufficient budget cause great difficulty in the transition to a low-carbon economy. In addition, although the education level of the people is around average, they are often weak in terms of awareness. The budget problems of municipalities with the central government, exchange rate differences and increasing inflation also negatively affect Antalya Metropolitan Municipality, just like the municipalities in our country. An important problem is that the infrastructure needed for the transition to a low carbon economy is not domestically produced and this creates difficulties due to the exchange rate.
+
+[0.4 fila 1] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Not engaging with other levels of governments regarding climate action
+  - Level of governments engaged in the development, implementation and/or: Question not applicable
+  - Outline the purpose of this engagement: Question not applicable
+
+[0.5 fila 1] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Government/Public body
+  - Primary entity collaborated with (selection mandatory): National government
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Mechanisms used to collaborate: Multi-jurisdictional regional collaboratives
+  - Mechanisms used to collaborate: Reporting of climate and/or environmental data
+  - Areas collaboration focused on: Education
+  - Areas collaboration focused on: Agriculture
+  - Areas collaboration focused on: Ecosystem restoration
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Emissions reduction
+  - Areas collaboration focused on: Building and Infrastructure
+  - Areas collaboration focused on: Finance
+  - Areas collaboration focused on: Adaptation
+  - Description of collaboration: Cooperation is or will be made with public institutions for our actions that we would like to give examples below: Increasing the use of organic fertilizers instead of chemical fertilizers in agriculture, Increasing the use of renewable energy in agricultural irrigation, Conducting innovation / R&D studies in existing agricultural practices, Developing good agricultural practices with smart systems, Expanding water-free landscaping practices throughout the city, Creating feeder public transport lines between the existing transportation network to new development / urban transformation areas and increasing accessibility to the tram and expanding transportation transfer systems, Increasing the share of bicycles in transportation by developing bicycle infrastructures, displaying bicycle routes on web-based systems, developing applications such as scooters and bicycle sharing, using efficien
+  - Other entities collaborated with: Public authority
+
+[0.5 fila 2] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): Academia
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Reporting of climate and/or environmental data
+  - Areas collaboration focused on: Building and Infrastructure
+  - Areas collaboration focused on: Adaptation
+  - Areas collaboration focused on: Emissions reduction
+  - Areas collaboration focused on: Ecosystem restoration
+  - Areas collaboration focused on: Agriculture
+  - Areas collaboration focused on: Education
+  - Description of collaboration: The details of cooperation with universities are as follows: University academics provide us with the necessary consultancy in the development, implementation and follow-up of climate actions. In addition, our municipal experts are trained by academics in terms of capacity building. Information and data sharing with the university is carried out at every stage and our practices are consulted with them; as well as cooperation with joint projects.
+
+[0.5 fila 3] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Primary entity collaborated with (selection mandatory): NGO and associations
+  - Mechanisms used to collaborate: Reporting of climate and/or environmental data
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Capacity development
+  - Areas collaboration focused on: Ecosystem restoration
+  - Areas collaboration focused on: Agriculture
+  - Areas collaboration focused on: Education
+  - Areas collaboration focused on: Adaptation
+  - Areas collaboration focused on: Emissions reduction
+  - Description of collaboration: Our collaborations with NGOs, which are our stakeholders, include efforts such as mandatory green roofs on commercial buildings, combating forest fires, and making vulnerable groups resilient to climate change.
+
+[0.5 fila 4] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): Residents/community groups
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Capacity development
+  - Areas collaboration focused on: Agriculture
+  - Areas collaboration focused on: Education
+  - Areas collaboration focused on: Building and Infrastructure
+  - Description of collaboration: Our collaborations with these stakeholders include joint work with farmers against climatic risks, the Environment and Innovation Center that we opened in 2022, and the public's participation in the public health and safety projects.
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: Yes, a climate risk and vulnerability assessment has been undertaken
+
+[1.1a fila 1] Provide details on your climate risk and vulnerability assessment.
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2022
+  - Factors considered in assessment: Assessment includes consultation with partners
+  - Factors considered in assessment: Assessment considers transition risks
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: A process has been established to update the assessment at least every five years
+  - Factors considered in assessment: Assessment includes sectors and/or urban systems
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Please explain: The assessment aimed to understand the current and future climate risks faced by Antalya and identify areas requiring urgent measures for climate change adaptation. The assessment considered various climatic hazards, including heat and cold waves, extreme precipitation, floods, sea level rise, storms and tornadoes, water scarcity and drought, forest fires, and infectious diseases. The assessment followed a framework that included the components of hazard, exposure, and vulnerability. It aimed to analyze the risks specific to Antalya and develop an understanding of the area's resilience to climate-related shocks and stresses. To assess vulnerability, the assessment examined Antalya's infrastructure systems, built environment, transportation and waste management, green infrastructure and forest areas, water resources and management, public health, and disaster management. It also considere
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Heat stress
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Elderly
+  - Sectors most exposed^: Fishing
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Forestry
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Describe the impacts on vulnerable populations and sectors^: Heat stress has significant impacts on vulnerable populations and sectors. The elderly are particularly susceptible to heat stress due to reduced ability to regulate body temperature, putting them at risk of heat-related illnesses and heatstroke. Children, especially infants and young children, are also vulnerable due to their smaller body mass and higher metabolic rates, making them prone to heat-related illnesses and dehydration. Individuals with chronic illnesses face exacerbated symptoms and health complications during heatwaves, with heat stress straining their cardiovascular and respiratory systems. Low-income groups may struggle to access cooling facilities or maintain adequate cooling in their homes, increasing their vulnerability to heat-related health issues. Outdoor workers in industries like construction and agriculture face a higher risk of heat-related illnesses due to prol
+  - Proportion of the population exposed to the hazard: 70-80%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.2 fila 2] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Water stress
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Children and youth
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Agriculture
+  - Describe the impacts on vulnerable populations and sectors^: Water stress has significant impacts on vulnerable populations and sectors. Key vulnerable populations include rural communities, urban poor, marginalized communities, women and girls. Water stress affects their access to clean water, sanitation, and overall well-being, exacerbating poverty, food insecurity, health issues, and deepening existing inequalities.The impacts on sectors are notable in agriculture, energy production, industry and manufacturing, tourism and recreation, health and sanitation, and ecosystems. Water stress leads to reduced crop yields, financial losses for farmers, energy shortages, disrupted industrial operations, compromised tourism experiences, increased risk of waterborne diseases, and harm to freshwater ecosystems and biodiversity.
+  - Proportion of the population exposed to the hazard: 50-60%
+  - Did this hazard significantly impact your jurisdiction before this rep: No
+  - Current probability of hazard^: Medium High
+  - Current magnitude of impact of hazard^: Medium
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 3] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Fire weather (risk of wildfires)
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Indigenous peoples
+  - Sectors most exposed^: Forestry
+  - Describe the impacts on vulnerable populations and sectors^: Fire weather conditions and the risk of wildfires have significant impacts on vulnerable populations and sectors, endangering their safety, livelihoods, and overall well-being. Here's a brief overview of these impacts:    Vulnerable Populations:Rural Communities:    Rural communities often reside in fire-prone areas, such as forests or rural landscapes.    Increased risk of property damage, loss of homes, and displacement due to wildfires.    Loss of livelihoods, particularly for those dependent on agriculture, forestry, or livestock.    Compromised physical and mental health due to exposure to smoke and stress.Urban Areas:    Urban areas located near wildland-urban interfaces are particularly susceptible to wildfires.    Residents face risks to their lives, properties, and infrastructure.    Disruption of daily activities, evacuation requirements, and potential economic losses.    Impac
+  - Proportion of the population exposed to the hazard: 60-70%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium High
+  - Current magnitude of impact of hazard^: Medium High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.2 fila 4] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Urban flooding
+  - Vulnerable population groups most exposed: Indigenous peoples
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Sectors most exposed^: Administrative and support service activities
+  - Sectors most exposed^: Accommodation and food service activities
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Construction
+  - Sectors most exposed^: Real estate activities
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Financial and insurance activities
+  - Describe the impacts on vulnerable populations and sectors^: Vulnerable Populations:    Elderly, disabled, and low-income communities face challenges accessing essential services during flooding.    Informal settlements lack proper drainage, making them susceptible to flood risks.    Children and marginalized groups experience health risks and educational disruptions.    Health Impacts:    Waterborne and vector-borne diseases spread due to contaminated floodwaters.    Mental health issues arise from displacement and property loss.    Physical injuries occur from hazards in floodwaters.    Housing and Infrastructure:    Property damage and displacement affect low-income households.    Disruption of services, especially in informal settlements.    Economic impacts on businesses and the tourism industry.    Social Impacts:    Disruption of community networks and strained relationships.    Educational disruptions and limited access to schools.
+  - Proportion of the population exposed to the hazard: 60-70%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.2 fila 5] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Infectious disease
+  - Vulnerable population groups most exposed: Indigenous peoples
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Conservation
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Accommodation and food service activities
+  - Describe the impacts on vulnerable populations and sectors^: Health and Healthcare Systems: Vulnerable populations are more susceptible to severe illness, and infectious diseases can strain healthcare systems.    Socio-Economic Impacts: Low-income individuals and marginalized communities face additional socio-economic burdens, such as increased healthcare costs and disrupted livelihoods.    Education: Outbreaks can lead to school closures and interrupted learning, disproportionately affecting disadvantaged children and students with disabilities.    Tourism and Economy: Infectious disease outbreaks can decrease tourism revenue, leading to job losses and economic downturns, impacting vulnerable workers and businesses in the tourism sector.    Informal Labor and Migrant Workers: Populations engaged in informal labor and migrant workers face increased vulnerability due to crowded living and working conditions.    Mental Health and Well-being: Outbrea
+  - Proportion of the population exposed to the hazard: 40-50%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Low
+  - Current magnitude of impact of hazard^: Low
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.2 fila 6] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Coastal flooding (incl. sea level rise)
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Indigenous peoples
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Sectors most exposed^: Conservation
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Accommodation and food service activities
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Construction
+  - Describe the impacts on vulnerable populations and sectors^: Coastal Communities: Low-lying coastal areas face displacement and loss of homes, leading to forced migration and increased vulnerability to poverty and homelessness.Infrastructure and Utilities: Critical infrastructure, such as roads, power plants, and water systems, can be damaged or submerged, resulting in the loss of essential services and disrupting the functioning of the city.Tourism and Economy: Coastal resorts, beaches, and tourist attractions are at risk, leading to decreased tourism revenue, economic downturns, and potential job losses.Agriculture and Food Security: Saltwater intrusion affects agricultural land, reducing crop production and impacting local food systems and food security.Ecosystems and Biodiversity: Coastal ecosystems are degraded or destroyed, resulting in the loss of biodiversity, reduced natural defenses against erosion, and diminished fishery resources.Healt
+  - Proportion of the population exposed to the hazard: <10%
+  - Did this hazard significantly impact your jurisdiction before this rep: No
+  - Current probability of hazard^: Low
+  - Current magnitude of impact of hazard^: Low
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Long-term (after 2050)
+
+[1.2 fila 7] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Hurricanes, cyclones, and/or typhoons
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Indigenous peoples
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Administrative and support service activities
+  - Sectors most exposed^: Conservation
+  - Sectors most exposed^: Financial and insurance activities
+  - Sectors most exposed^: Real estate activities
+  - Sectors most exposed^: Construction
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Accommodation and food service activities
+  - Sectors most exposed^: Human health and social work activities
+  - Describe the impacts on vulnerable populations and sectors^: Human Lives and Safety: These extreme weather events pose risks to human lives, causing injuries, loss of life, and displacement.    Housing and Infrastructure: Vulnerable populations are more susceptible to damage to homes, buildings, and infrastructure, leading to homelessness and disruption of services.    Water Supply and Sanitation: Water supply systems can be disrupted, resulting in shortages of clean drinking water and increased risks of waterborne diseases.    Economy and Livelihoods: Sectors such as agriculture, fisheries, tourism, and small businesses can suffer losses, leading to economic setbacks, job losses, and increased vulnerability.    Health and Public Services: Healthcare systems may be strained, access to medical care may be limited, and public services such as transportation, electricity, and communication networks can be disrupted.
+  - Proportion of the population exposed to the hazard: 50-60%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium High
+  - Current magnitude of impact of hazard^: Medium High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Cost of living
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Problems such as the high cost of climate resilient and smart homes in urban areas, high inflation, and the prioritization of food supply, shelter and other basic needs over climate change adaptation reduce awareness and capabilities related to adaptation.
+
+[1.3 fila 2] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Unemployment
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: The material deprivation and stress of unemployment can lead people to deprioritize climate change or climate change adaptation.
+
+[1.3 fila 3] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Migration
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: The fact that people fleeing war from neighboring countries prefer Antalya because of its climate and nature, as well as uncontrolled migration from neighboring provinces, makes the adaptation process in terms of construction and transportation difficult.
+
+[1.3 fila 4] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Political engagement / transparency
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Inter-institutional cooperation and alignment with national policies, as well as annual annual activity reports and international networks and reporting are incentives to improve our adaptive capacity.
+
+[1.3 fila 5] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Budgetary capacity
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: The fact that the shares allocated to local governments from the national government remain weak in terms of adaptation to climate change, and that there is no budgeting independent from the national government, causes us to carry out our adaptation efforts with a limited budget or dependent on loans, grants and project financing.
+
+[1.3 fila 6] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Land use planning
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Due to the fact that Antalya has experienced incorrect land use expansion from the past to the present, and that land use planning is financially prioritized, there may be difficulties in urban adaptation efforts.
+
+[1.3 fila 7] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Rapid urbanization
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: The increase in Antalya's population due to domestic and foreign tourists coming due to tourism and immigrants fleeing from wars and civil unrest in neighboring countries paves the way for rapid urbanization and this situation can make the adaptation process of the city difficult.
+
+[3.8 fila 1] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: Health outcomes
+  - Identify the climate hazard(s) that most significantly impact the sele: Infectious disease
+  - Identify the climate hazard(s) that most significantly impact the sele: Storm
+  - Identify the climate hazard(s) that most significantly impact the sele: Heavy precipitation
+  - Identify the climate hazard(s) that most significantly impact the sele: Heat stress
+  - Identify the climate hazard(s) that most significantly impact the sele: Extreme wind
+  - Identify the climate hazard(s) that most significantly impact the sele: Urban flooding
+  - Identify the climate hazard(s) that most significantly impact the sele: Fire weather (risk of wildfires)
+  - Identify the health issues driven by the selected climate hazard(s): Vector-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Lack of climate-informed surveillance, preparedness, early warning and response
+  - Identify the health issues driven by the selected climate hazard(s): Cold-related illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Heat-related illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Water-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Direct physical injuries and deaths due to extreme weather events
+  - Timeframe of impact: Short-term (by 2025)
+  - Identify which vulnerable populations are affected by the selected hea: Elderly
+  - Identify which vulnerable populations are affected by the selected hea: Outdoor workers
+  - Identify which vulnerable populations are affected by the selected hea: Children and youth
+  - Identify which vulnerable populations are affected by the selected hea: Indigenous peoples
+  - Identify which vulnerable populations are affected by the selected hea: Women and girls
+  - Identify which vulnerable populations are affected by the selected hea: Low-income households
+  - Identify which vulnerable populations are affected by the selected hea: Vulnerable health groups
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of financial capacity and expertise/technical capacity
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of financial capacity
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of expertise/technical capacity
+  - Comment: Antalya is one of the provinces with the highest number of storms and tornadoes in Turkey, but it is also affected by high temperatures, especially in summer. Therefore, it is essential to take precautions knowing that the effects of climate change will create more risks in certain areas and population groups. It is clear that there has not been a detailed study on the direct effects of climate change on public health in the city, but there is a need for such a detailed study on extreme weather events.  In the report prepared by AFAD in 2021, the number of vulnerable population groups was determined based on data from the Provincial Directorate of Family and Social Services.  The ratio of the number of people with severe disabilities and in need of care in Antalya was calculated as 0.92. Although this rate remains low compared to the population, the number of vulnerable population in Kep
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Data availability: Data is available for the average household water consumption in litres per capita per day
+  - Data availability: Data is available for the percentage of households with access to safely managed drinking water services
+  - Data availability: Data is available for the percentage of households with access to safely managed sanitation services
+  - Percentage of households with access to safely managed drinking water : 100
+  - Percentage of households with access to safely managed sanitation serv: 75
+  - Household water consumption (litres/capita/day): 283
+  - Comment: https://data.tuik.gov.tr/Bulten/Index?p=Su-ve-Atiksu-Istatistikleri-2020-37197 https://biruni.tuik.gov.tr/ilgosterge/?locale=tr
+
+[3.13 fila 1] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Ground water (non-renewable)
+  - Are you able to report volumetric data for this source?: Yes
+  - Annual volume of water withdrawn per source (in megalitres) : 290971
+  - Projected level of change over next 5-10 years: Do not know
+  - Comment: DSI 13th Regional Director Our 4 dams in operation have the purpose of drinking water. These dams are:1- Alanya Dim Dam2- Karacaören II Dam3- Manavgat Dam4- Oymapinar DamThe reservoir areas of these dams are protected in accordance with the provisions of the Regulation on the Protection of Drinking-Double Water Basins.According to the 2018 data of the Turkish Statistical Institute, 216,771,000 m3 of the total 290,971,000 m3 of water supplied by the municipalities to be distributed through drinking and utility water networks is obtained from wells and 74,200,000 m3 from sources. (Environmental data made by the Turkish Statistical Institute are published every 2 years.)Despite the 20 municipalities that are served by drinking and utility water networks in the province, the number of people served increased by 4.2% for 2018 and became 2,426,356. (Environmental data made by the Turkish Stati
+
+[3.13 fila 2] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Are you able to report volumetric data for this source?: Question not applicable
+  - Annual volume of water withdrawn per source (in megalitres) : Question not applicable
+  - Projected level of change over next 5-10 years: Question not applicable
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: Yes, our jurisdiction has an adaptation goal(s)
+
+[4.1a fila 1] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 1
+  - Adaptation goal^: Preparation of vulnerability maps in the context of urban heat island
+  - Climate hazards that goal addresses^: Heat stress
+  - Climate hazards that goal addresses^: Extreme heat
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: The indicator of this goal is genaration of spatio-temporal risk and vulnerability maps by expert teams.-Advance warning of city administrations and citizens of a possible heat wave situation.- Cooperation with institutions engaged in weather data collection, measurement and forecasting to ensure reliable weather forecasts.- Identifying the population (respiratory, heart diseases, pregnancy, etc.) that may be affected in the 1st degree in a possible heat wave event and being prepared in awareness raising and intervention types.- Covering urban buildings and their surroundings with trees and various plants that are natural coolers.
+  - Comment: As risky as tornadoes, storms and excessive rainfall are for Antalya, the destruction caused by heat waves and the urban heat island effect is just as risky. Heat waves, which will directly affect the health of people living in urban areas, are even more effective due to buildings, roads and other gray infrastructure systems. For this reason, it is very important for Antalya to identify areas with urban heat island effect and to transform these areas into ecosystem services with natural-based solutions. Considering the urbanization rate and population density, it is possible to talk about the large number of areas where the urban heat island effect is intense throughout the city of Antalya. Therefore, it is clear that risk and vulnerability maps should be made by expert teams in order to reduce and prevent the impact.
+
+[4.1a fila 2] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 2
+  - Adaptation goal^: Afforestation of stream banks and floodplain boundaries
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Climate hazards that goal addresses^: River flooding
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: Coastal flooding (incl. sea level rise)
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: In-situ measurement and observation and remote sensing techniques.- Increasing the cool air corridor effect by afforesting around stream beds.- Ensuring the protection of existing old and large trees while afforestation is carried out throughout the province.-Ensuring that tree planting and planting (arid landscaping practices) with less water needs are carried out in Antalya.
+  - Comment: As revealed in the risk and vulnerability assessment of Antalya and scientific studies, the city is under high risk in terms of excessive rainfall, floods and overflows. In addition, the presence of rivers and streams throughout the city is quite high. Therefore, according to the worst possible scenario, construction should not be allowed on the banks of streams and rivers. In order to protect the safety of life and property, the living areas of existing constructions should be moved outside the flood boundary. Especially the materials used on the banks of streams and rivers passing through urban areas should be water permeable and intensive afforestation works should be carried out in these areas. This is one of the most important effects that will significantly reduce the risk of flooding and flooding.
+
+[4.1a fila 3] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 3
+  - Adaptation goal^: Establishing orchards in the city
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Heat stress
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: In-situ measurement and observation and remote sensing techniques.-Conducting a determination study on the establishment of fruit orchards in 19 district centres, taking into account the relevant climatic conditions.- Establishment of orchards in various urban areas to increase biodiversity.
+  - Comment: Increasing green areas in urban areas of Antalya and establishing urban orchards in existing green areas will provide many ecological benefits. Urban orchards are a highly functional nature-based solution both in terms of improving biodiversity and reducing the urban heat island effect. In addition to these, the low maintenance cost of urban orchards is another issue. Therefore, it is important to establish and popularize urban orchards in the city where many agricultural products can be grown thanks to its climatic characteristics and soil structure.
+
+[4.1a fila 4] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 4
+  - Adaptation goal^: Providing green corridor function to transportation axes
+  - Climate hazards that goal addresses^: Heat stress
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Climate hazards that goal addresses^: Extreme heat
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: - Planning of urban greenways, bicycle parking areas and sightseeing routes.- Ensuring the integration of green areas with rail systems in order to ensure their accessibility.- Increasing bicycle lanes and encouraging the public to use bicycles.- Ensuring the greening of horizontal and vertical transportation axes.- Increase green areas to encourage walking and public transportation.
+  - Comment: Giving green corridor function to suitable transportation axes and expanding this function within the city is one of the most important strategies for Antalya to reach sustainable solutions and adapt to climate change. Considering the existing transportation axes and tram routes in Antalya, afforestation of suitable areas or implementation of other nature-based solutions will both reduce the urban heat island effect, increase urban biodiversity and contribute to ecosystem services.
+
+[4.1a fila 5] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 5
+  - Adaptation goal^: Conduct long-term monitoring for ecosystem restoration
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: The city's ecosystems will be monitored periodically with various digital tools (such as using databases obtained from satellite images and creating new GIS-based data sets), degradation will be detected and methods to prevent degradation will be applied by expert teams.- Increase the number and area of protected areas to protect biodiversity and rare ecosystems and declare them urgently.- Conducting illegal hunting inspections.- Conducting information and training activities.- Rehabilitation of forests, implementation of the action plan and national afforestation campaign.- Preparation of environmental baselines for natural ecosystems using GIS and satellite imagery.
+  - Comment: Climate change and urbanization pressure lead to the deterioration of ecosystems, causing damage to both natural areas and people. Especially in Antalya, which is one of the leading cities in terms of ecosystem richness, the demand for new settlement areas created by the rapidly increasing population after the 1980s has led to the shrinkage of natural areas and the growth of artificial areas. Consequently, the artificial boundaries of the city have expanded, resulting in the destruction of ecosystems. In addition, climate change, which has been increasing in recent years, causes extremely negative impacts on ecosystems. Ecosystem degradation is both caused by climate change and increases the effects of climate change. Therefore, restoration of ecosystems in Antalya is extremely important. In order to carry out ecosystem restoration, the city's ecosystems should be monitored periodically 
+
+[4.1a fila 6] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 6
+  - Adaptation goal^: Integration of blue infrastructure in green areas
+  - Climate hazards that goal addresses^: Coastal flooding (incl. sea level rise)
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Climate hazards that goal addresses^: River flooding
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Field operations and monitoring.- Expansion of arid landscaping and water-free turf application areas.- Ensuring that dry stream beds are transformed into green corridors.- Raising awareness by establishing green rings in the districts.- The green corridor to be created for adaptation to climate change should be planned to connect green areas in coastal areas with green areas within the city.- Ensuring that trees with less water demand are planted and planted in green areas as a precaution against the risk of a decrease in expected rainfall in Antalya.
+  - Comment: For Antalya, which is at risk in terms of extreme precipitation, flooding and flooding, it is very important to develop sustainable urban development systems together with improvement. The use of nature-based landscape components, especially in green areas, should also be considered in terms of the integration of blue and green infrastructure.
+
+[4.1a fila 7] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 7
+  - Adaptation goal^: Introduce a green roof obligation for commercial buildings
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Heat stress
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Field operations and monitoring.- Green roof sample applications.- Supporting rainwater retention through green roof applications.-Encouraging the application of green roofs on large buildings such as municipal buildings, industrial facilities and shopping malls.- Inclusion of green roof applications in new regulations.- Prioritizing green roof applications in new architectural works and conducting feasibility studies including load calculations.- Applying green roofs to all possible areas gradually, starting from the largest areas.
+  - Comment: In Antalya, where urbanization pressure and population growth is intense, increasing green areas are solutions that can be realized in long processes due to property problems. For this reason, it is important to popularize the green roof application in Antalya, which reduces the urban heat island effect, increases biodiversity and can be utilized as an ecosystem service. In order to increase applicability and set an example, it should be planned to start with commercial buildings and public buildings. It is clear that if incentive systems such as tax reductions are put in place for green roof applications, especially in public buildings, these applications will increase and become widespread in the city.
+
+[4.1a fila 8] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 8
+  - Adaptation goal^: Combating Forest fires, inter-institutional communication
+  - Climate hazards that goal addresses^: Loss of green space/green cover
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Fire weather (risk of wildfires)
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: All institutions and organizations that may be related to fire will be periodically informed and teams will be kept on alert against the temperature increases experienced in recent years and the prolonged duration of heat waves. The continuous deployment of certain teams, especially in risky parts of the city, and the scanning of forest areas with thermal camera requests 24 hours a day under risky conditions are extremely important in terms of preventing fires.- Protecting and expanding forested areas, protecting vegetation along coastlines, creating sheltered areas for plant survival, protecting and increasing urban green spaces.- Identifying areas with high fire risk and taking measures in line with these risks- Proper planning with the creation of response systems and risk maps.- Ensuring that work is carried out in cooperation with public institutions and organizations.
+  - Comment: Antalya is one of the richest cities in Turkey in terms of forest cover. Both the heat waves and wind conditions that frequently occur in the summer season and the abundance of forests make the city very risky in terms of forest fires. For this reason, different groups and specialties should work together and be ready to respond to fire with adequate equipment preparation and fire prevention measures should be increased. All institutions and organizations that may be related to fire should be periodically informed and teams should be kept on alert against the temperature increases experienced in recent years and the prolonged duration of heat waves. The continuous deployment of certain teams, especially in risky parts of the city, and the scanning of forest areas with thermal camera requests 24 hours a day under risky conditions are extremely important in terms of preventing fires.
+
+[4.1a fila 9] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 9
+  - Adaptation goal^: Establish guidelines for water conservation in commercial buildings
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: Drought
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: - Collecting rainwater and using it in the facility to save water.-Providing incentives for the reuse of wastewater in the industrial sector.-Organizing meetings to share experiences between sectors.-Increasing investments in new water-saving technologies.
+  - Comment: Against the risk of drought and water scarcity, water saving practices should be applied throughout the city. If water savings are started especially in public and commercial buildings, an example can be set for residential areas and the water saving mechanism can be generalized throughout the city. Guidelines can be created for water saving practices of commercial buildings and some incentive mechanisms such as tax reductions can be created for those who can save water within the set targets.
+
+[4.1a fila 10] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 10
+  - Adaptation goal^: Expand rain gardens and water ponds
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: Increased water demand
+  - Climate hazards that goal addresses^: Drought
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: -Creation of rainwater retention ponds, use of the accumulated water in areas such as street washing and plant irrigation.-Ensuring that the use of permeable materials is made compulsory for intermediate arteries, except for main arteries, in street renovation and arrangement projects.-Studies for the use of rainwater for own needs in sites and buildings (such as garden irrigation, use as gray water).-Creation of urban water retention reservoirs to increase rainwater harvesting.-Application of natural urban pavements (stone, soil), avoiding pavements that prevent groundwater recharge
+  - Comment: In densely urbanized areas where it is difficult for rainwater to meet the soil, the use of nature-based solution strategies can make a big difference. Rain gardens and water ponds are effective ways to collect rainwater and then use it for irrigation. Both in urban and agricultural areas, collecting rainwater and using it for irrigation activities will be very beneficial in terms of saving water and reducing resource use.-Use of underground storages for effective management of rainwater.
+
+[4.1a fila 11] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 11
+  - Adaptation goal^: Use of water transfer schemes
+  - Climate hazards that goal addresses^: Drought
+  - Climate hazards that goal addresses^: Increased water demand
+  - Climate hazards that goal addresses^: Water stress
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Field measurement and monitoring-Preventing water losses by renovating drinking water tanks.-Ensuring water control through the SCADA system.-Coordinated work during the planning process.-Designing integrated management of groundwater and surface waters.-Ensuring stakeholder participation in feasibility studies.
+  - Comment: Drought and shortage of water resources can sometimes affect the whole city, and sometimes affect certain regions more. The location of groundwater resources or the frequency of use in that region is also a factor affecting the capacity of water resources. In such cases, water transfer schemes can be used from distribution centres where the main water sources are located to supply water to areas experiencing water scarcity and drought. In addition, reducing the loss and leakage rates that occur during the circulation of network water is very important in terms of water saving and protection of water resources.
+
+[4.1a fila 12] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 12
+  - Adaptation goal^: Scaling up the use of water-saving mechanisms
+  - Climate hazards that goal addresses^: Drought
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: Increased water demand
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Surveys and field observations & in-situ measurements- Encouraging the use of water-saving aerators installed on faucet heads in households, public and commercial buildings.- Expanding the use of photocell faucets in public and commercial buildings to save water.- Promote the use of communal dispensers instead of disposable products (bottles, cups, etc.) in public and commercial buildings.- Carrying out information and awareness raising activities on water conservation.-Drawing attention to the issue of climate change by organizing activities throughout the city on World Water Day.
+  - Comment: Water-saving mechanisms need to be expanded throughout the city against the risks of drought and water scarcity. Water-saving practices that can be achieved through nature-based solutions in public spaces should be widespread throughout the city. In addition to this, it is important to work on making existing systems in households, public and commercial buildings compatible with water saving.
+
+[4.1a fila 13] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 13
+  - Adaptation goal^: Utilization of sustainable urban drainage system
+  - Climate hazards that goal addresses^: Drought
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: Increased water demand
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: -Ensuring the realization of urban drainage solutions.-Creating a sustainable urban drainage system and ensuring storm water management.-Conducting R&D studies on sustainable drainage system and water sensitive urban design.-Within the scope of the development of green infrastructure strategies, sustainable urban drainage and water sensitive urban design principles will be implemented in all planned green areas and buildings.-Separate collection of rainwater to reduce the burden on the drainage network and wastewater treatment plants.
+  - Comment: Changing weather and temperature conditions with the effects of climate change cause changes in infrastructure systems. It is very important to adapt drainage systems to the effects of climate change in terms of protecting water resources and supplying recyclable water. It is possible to say that the cost of adapting the drainage system to climate change can be much higher than the cost of the negative effects that will occur in possible risks. As a long-term investment, it is clear that infrastructure systems throughout the city should be climate compatible.
+
+[4.1a fila 14] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 14
+  - Adaptation goal^: Modification of water treatment lines according to drought and increasing temperature factors
+  - Climate hazards that goal addresses^: Increased water demand
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: Drought
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: - Installation of GES (solar energy systems) on water canals.- Covering the water surface with a white, light, water-insoluble and non-toxic substance.
+  - Comment: Increasing temperatures due to climate change cause an increase in the amount of evaporation in dams and open water pools, resulting in water losses. Therefore, these systems need to be revised according to the new climate conditions. In addition, it is essential to establish water treatment lines and adapt them to the climate in order to protect natural water resources.
+
+[4.1a fila 15] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 15
+  - Adaptation goal^: Minimization of food waste
+  - Climate hazards that goal addresses^: Other, please specify: Food security
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: - Separation of waste through recycling.-Conducting feasibility studies for the development of a penalty and reward system for solid wastedisposal for enterprises.-Taking the waste disposal tax on the agenda and conducting research for spreading it throughout theprovince.
+  - Comment: In Antalya, where the tourism and agriculture sectors are leading the way, the collection and recycling of food waste is very important in combating climate change. Incentivizing the separation of food waste in hotels and restaurants as well as in the municipality's own enterprises will lead to the expansion of this system. The collection and recycling of the separated waste will both create a circular economy and minimize waste.
+
+[4.1a fila 16] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 16
+  - Adaptation goal^: Raising awareness on waste
+  - Climate hazards that goal addresses^: Other, please specify: Food security
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: - Identification of businesses that use single-use plastics intensively in Antalya.- Create an incentive mechanism to reduce single.- use plastics in local businesses. Reducing the use of single-use plastics in public institutions and organizations.- Creating incentive mechanisms to increase recycling and recovery and organizing events on this issue.- Carrying out information and awareness raising activities for students and citizens.
+  - Comment: The society needs to be informed in order to reduce the use of plastics, which has been increasing in recent years, and to ensure that household waste is collected separately or that waste is separated in households. Waste awareness should be raised in schools, especially from a young age. Local governments should organize reward-based campaigns to encourage citizens to separate waste at home.
+
+[4.1a fila 17] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 17
+  - Adaptation goal^: Placing recycling bins in public spaces
+  - Climate hazards that goal addresses^: Other, please specify: Food security and Public Health
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: - Develop pilot projects with universities for sustainable and innovative waste management.- Smart route planning for waste collection and transfer vehicles.- Determination of the recycling infrastructure needed in Antalya province.- Cooperation with relevant institutions for investments in recycling.- Development of R&D projects with universities for investment planning in waste sorting and recovery facilities.
+  - Comment: In addition to waste segregation and minimizing waste generation, recycling bins should be placed in publicly used indoor and outdoor areas and buildings according to waste type. Local governments should collect these recycling bins separately according to frequency of use and waste type and deliver them to recycling centers. In this way, over time, society's waste habits will change for the better.
+
+[4.1a fila 18] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 18
+  - Adaptation goal^: Separate collection of hotel, restaurant and café waste
+  - Climate hazards that goal addresses^: Other, please specify: Food security and Public Health
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: - Making separate collection of materials with high recycling rates compulsory.- Incentivizing the citizens about the wastes that can be turned into compost and organizing events forcomposting by the municipality.- Investigating the potential of waste collection services for the food sector.
+  - Comment: Collecting food waste from restaurants, cafes, hotels, catering establishments and ensuring that the wasteis converted into fertilizer to be used in agricultural production. Creating guidelines for food wastegenerators to segregate and minimize their waste to save on waste disposal and transformation processes.
+
+[4.1a fila 19] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 19
+  - Adaptation goal^: Use light-coloured materials for floor coverings
+  - Climate hazards that goal addresses^: Heat stress
+  - Climate hazards that goal addresses^: Extreme heat
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: - Ensuring that the spatial development of the city is realized by considering the creation of green areas and green corridors.- Establishment and implementation of a green infrastructure system in harmony with nature.- Preparation of feasibility reports by identifying locations where pilot studies can be carried out for sustainability purposes
+  - Comment: Increasing air temperatures, especially in the summer months, and the sensitivity of the urban heat island effect are also highly related to the type of material in the environment. By ensuring that the floor coverings are light coloured in areas with dense buildings, more absorption of sunlight can be prevented. For the dissemination of this action, it will be possible to observe the positive effect of the material on the heat island after determining pilot areas and monitoring the temperature in certain periods. In the following process, pilot applications can be increased and the use of light-coloured materials in floor coverings throughout the city can be made widespread.
+
+[4.1a fila 20] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 20
+  - Adaptation goal^: Increase water permeable surfaces (sidewalks, roads, traffic-free areas, parks)
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: - Covering the floors of areas such as commercial areas, building gardens, parking lots, public areas with permeable surfaces.- Implementation of good practice examples on the design of permeable surfaces in infrastructure works
+  - Comment: The urban growth in Antalya in recent years with the increasing population has led to the expansion of artificial areas in the city. The risk of flooding and flooding increases as rainwater cannot reach the ground. In this respect, first of all, the ground of certain places in risky areas in the city should be covered with a water-permeable surface. Then, the use of water-permeable surfaces should be expanded throughout the city. Especially covering the hard floors in areas closed to traffic, sidewalks, bicycle paths and parks with this material is one of the solutions that will minimize the risk of flooding and flooding in these areas in a possible rainfall.
+
+[4.1a fila 21] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 21
+  - Adaptation goal^: Increase the number of bicycle lanes and ensure their integration with green corridors
+  - Climate hazards that goal addresses^: Heat stress
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: - Establishing green rings in neighbourhoods to increase accessibility (bicycle paths, fusion of passive and active green spaces). - Using web-based systems for structuring the bicycle transportation network- Making arrangements to transform bicycle paths into ecosystem services by integrating them with nature-based solutions.- Ensuring that the use of electric vehicles is preferred in public institutions and organizations.
+  - Comment: Emission rates from intensive vehicle use are among the most important issues that increase climate change. Therefore, in addition to encouraging the use of low-emission, hybrid and electric vehicles in mitigation targets, it is also very important to encourage bicycle use and walkability. In this regard, it is very important to increase the number of bicycle routes in Antalya and to integrate existing roads with nature-based solutions and transform them into ecosystem services. Giving the bicycle network a green corridor function will both reduce the heat island effect and increase biodiversity.
+
+[4.1a fila 22] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 22
+  - Adaptation goal^: Providing information on diseases and prevention methods
+  - Climate hazards that goal addresses^: Infectious disease
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: - Performing awareness-raising activities to protect against the negative impacts of climate change onhealth.- Raising awareness of primary health care workers (community health and family health centers) on healthrisks related to climate change.- Embedding climate change in the curriculum -Training of managers and staff working in public livingareas (dormitories, kindergartens, care homes, nursing homes, retirement homes, etc.) to improve theirbehavioral capacities during extreme weather events.- Organization of climate education in adult education centers.- Integrating climate change adaptation into in-house training programs.
+  - Comment: Antalya is a city that welcomes tourists from all over the world, with a big difference between its generalpopulation and its population during tourism months. For this reason, it is extremely important to preventinfectious diseases and to explain them to the public. Every citizen should be periodically informed aboutinfectious diseases and methods of protection against them
+
+[4.1a fila 23] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 23
+  - Adaptation goal^: Implementing practices to prevent vector breeding
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Climate hazards that goal addresses^: Soil degradation/erosion
+  - Climate hazards that goal addresses^: Infectious disease
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: - Take appropriate steps in urban planning to prevent vector breeding and to consider air currents.- Investigating the increase in vector-borne diseases due to climate change and environmental problems.- Establishment of working groups across the city
+  - Comment: Separate efforts should be carried out against vector-borne diseases, especially in areas where pollution and population density are high. At the same time, along with vector-borne diseases that are contagious, the reproduction of vectors that are harmful to plants and forests due to climate change should be prevented
+
+[4.1a fila 24] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 24
+  - Adaptation goal^: Monitoring air and water quality values and developing a warning system
+  - Climate hazards that goal addresses^: Increased water demand
+  - Climate hazards that goal addresses^: Infectious disease
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: - Strengthening existing early warning systems.- Ensure appropriate shelter conditions for those adversely affected by extreme weather events.- Adding climate change-related diseases to the early warning system and ensuring case-based followup.-Developing an early warning system by eliminating the lack of interfaces in areas where measurementand monitoring are carried out, especially air quality and water quality- Development of early warning systems for changes in air quality and heatwave risk within action plans
+  - Comment: It is very important to monitor Antalya's water and air quality values. Developing warning systems against possible risks will both ensure that precautions are taken and minimize the vulnerability
+
+[4.1a fila 25] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 25
+  - Adaptation goal^: Identify areas that will be most affected by extreme weather events
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Climate hazards that goal addresses^: Extreme wind
+  - Climate hazards that goal addresses^: Storm
+  - Base year of goal (or year goal was established if no base year)^: 2022
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: - Work to prevent extreme weather events from adversely affecting the health of the chronically ill,disabled, new-borns, the elderly and other vulnerable groups.- Ensure appropriate shelter conditions for those adversely affected by extreme weather events.- Planning allergy sensitive areas.- Realization of awareness-raising activities to protect against the negative effects of climate change onhealth at the social and individual level.
+  - Comment: The effects of climate change are not seen equally in all areas of the city, and its impact on some groups is different. Especially in areas where urbanization is dense and green areas are scarce, the impact of climatic risks is generally higher. In addition, vulnerable groups such as the elderly population, those with chronic diseases, and low-income groups are much more affected by the impacts of climate change. For this reason, the implementation of climate adaptation actions should be expanded throughout the city, starting from the vulnerable and more at-risk areas. Therefore, it is extremely important to identify the areas and groups in Antalya that will be more affected by extreme weather events.
+
+[4.1a fila 26] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 25
+  - Adaptation goal^: Kuraklık riskine karşı gıda ve beslenme güvenliğinin sağlanması
+  - Climate hazards that goal addresses^: Increased water demand
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: Drought
+  - Target year of goal^: 2030
+  - Comment: Kuraklık ve su kıtlığı tüm sektörleri olumsuz etkiliyor bile olsa tarımsal üretimi çok daha ciddi etkilemektedir. Bu nedenle yeni ve teknolojik gelişmelerden faydalanılarak geliştirilebilecek tarımsal üretim modelleri Antalya’da yaygınlaştırılmalıdır. (örn: topraksız tarım gibi)
+
+[4.1a fila 27] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 4
+  - Adaptation goal^: İklimsel afet risklerinin topluma anlatılması
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Climate hazards that goal addresses^: Storm
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazards that goal addresses^: Extreme wind
+  - Climate hazards that goal addresses^: Extreme cold
+  - Climate hazards that goal addresses^: Drought
+  - Climate hazards that goal addresses^: Fire weather (risk of wildfires)
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Target year of goal^: 2030
+  - Comment: İklimsel afetlerin ve iklim değişikliği etkilerinin toplumun her kesime anlatılması, olayın ciddiyetinin kavranmasının sağlanması olası risklerin azaltılması bakımından oldukça önemlidir. İklimsel riskler ve riskler karşısında alınması gereken önlemler periyodik olarak okullarda her yaş gruplarına anlatılmalıdır. Bunun yanı sıra tarımsal üretimle uğraşan ve turizm sektöründe bulunan herkes için bilgilendirme toplantıları düzenlenmeli, kırdan kente tüm kesimlere ulaşılması sağlanmalıdır.
+
+[4.1a fila 28] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 4
+  - Adaptation goal^: Afet erken uyarı sistemlerinin geliştirilmesi
+  - Climate hazards that goal addresses^: Extreme cold
+  - Climate hazards that goal addresses^: Fire weather (risk of wildfires)
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazards that goal addresses^: Extreme wind
+  - Climate hazards that goal addresses^: Storm
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Target year of goal^: 2030
+  - Comment: Birçok afet riskiyle karşı karşıya olan Antalya’da olası can ve mal kayıplarının önüne geçmek için, uyarı sistemlerinin geliştirilmesi ve kullanılması çok önemlidir. Kentin risk haritalarının çıkarılmasıyla birlikte, mevcut risklere göre teknolojik araçlar kullanılarak toplumu uyaracak uyarı sistemlerinin tüm kent genelinde yaygınlaştırılması gerekmektedir. Mevcut koşullarda olası hava havadislerine karşı uyarılar her ne kadar internet ve televizyon kanalları aracılığı ile vatandaşlara aktarılmaya çalışıyor da olsa, kırsal kesimleri de kapsayacak şekilde daha gelişmiş sistemlere ihtiyaç duyulmaktadır. Bu tür uyarılar esnasında vatandaşların uyarıları dikkate almasını sağlamak da diğer önemli noktadır.
+
+[4.1a fila 29] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 4
+  - Adaptation goal^: CBS tabanlı risk haritalarının geliştirilmesi
+  - Climate hazards that goal addresses^: Extreme wind
+  - Climate hazards that goal addresses^: Fire weather (risk of wildfires)
+  - Climate hazards that goal addresses^: Storm
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Extreme cold
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Climate hazards that goal addresses^: Snow and ice
+  - Target year of goal^: 2030
+  - Comment: Afet yönetiminin en önemli adımlarından biri olarak, tüm kent genelinde en riskli alanlardan başlayarak coğrafi bilgi sistemine dayalı risk haritaları geliştirilmesi çok önemlidir. Antalya’nın iklim değişikliğinden etkilenebilirliğinin ve risk durumunun net olarak ortaya konması, teknik ekiplerin bilimsel yöntemlerle oluşturabileceği CBS risk haritaları ile mümkün olacaktır.
+
+[4.1a fila 30] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 5
+  - Adaptation goal^: Tarımsal sulama kanalları boyunca bitkili tampon şeritlerin oluşturulması.
+  - Climate hazards that goal addresses^: Mass movement
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Climate hazards that goal addresses^: Soil degradation/erosion
+  - Climate hazards that goal addresses^: Loss of green space/green cover
+  - Target year of goal^: 2030
+  - Comment: Yağmur suyunun toplanması ve erezyon riskinin azaltılması için tarım alanlarına yağmur toplama ve sulama kenarları açılarak bitkili tampon şeritlerle desteklenmelidir.
+
+[4.1a fila 31] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 5
+  - Adaptation goal^: İklimsel risklere göre çiftçilerin bilgilendirilmesi
+  - Climate hazards that goal addresses^: Soil degradation/erosion
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Climate hazards that goal addresses^: Increased water demand
+  - Target year of goal^: 2030
+  - Comment: İklim değişikliği etkilerinin tarımsal üretim ve gıda güvenliği üzerinde çok ciddi bir baskısı mevcuttur. Değişen iklim ve sıcaklık koşulları, tarım ürünlerinin üretilme süreleri ve bölgeleri gibi birçok konuda değişikliğe neden olmaktadır. Bu tür değişimlerin ve çözüm önerilerinin üreticiyle paylaşılması elzem bir konudur. Ürün çeşidine ve üretim ihtiyaçlarına göre çiftçilerin iklim değişikliği etkileri bağlamında periyodik olarak bilgilendirilmeleri gerekmektedir. Bunun yanı sıra iklim değişikliğine uyum sağlanacak üretim tiplerinin çiftçilere anlatılması mühimdir.
+
+[4.1a fila 32] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 5
+  - Adaptation goal^: Uygun alanlarda doğa esaslı çözüm uygulamalarının yapılması
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Climate hazards that goal addresses^: Increased water demand
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: Soil degradation/erosion
+  - Climate hazards that goal addresses^: Drought
+  - Target year of goal^: 2030
+  - Comment: Doğa esaslı çözümler yalnızca kent içinde değil tarımsal alanlarda da uygulanabilmektedir. Özellikle su kıtlığı ve kuraklık riskiyle karşı karşıya olan bölgelerde tarımsal sulama için yağmur suyu toplama alanlarının yapılması, tarım alanlarının kenarlarına bitkili tampon şeritlerinin yapılması, toprakların türüne ve ürünlere göre toprakların işlenmeden bırakılması, erozyon kontrol sistemleri gibi uygulamalar doğa esaslı çözümlerdir. Bu tip uygulamaların alanların ihtiyaçları belirlendikten sonra tarımsal alanlarda yaygınlaştırılması gerekmektedir.
+
+[4.1a fila 33] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 5
+  - Adaptation goal^: Seraların iklimsel risklere karşı dirençli hale getirilmesi
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazards that goal addresses^: Storm
+  - Climate hazards that goal addresses^: Extreme wind
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Target year of goal^: 2030
+  - Comment: Sel ve taşkın, yangın, fırtına ve hortum, aşırı yağışlar, don olayları sera alanlarını oldukça ciddi etkilemektedir. Özellikle fırtına ve hortumun sık yaşandığı Antalya’da seracılık faaliyetleri bir rehbere tabi gerçekleştirilmelidir. Olası risklere dirençli sera yapılarının hayata geçirilmesi, mevcut seraların risklere göre dirençli hale getirilmesi pilot uygulamalarla başlayarak tüm üretim mekanizmasında yaygınlaştırılmalıdır. Bunun yanı sıra üretim sürecinden ve maliyet yükünden kaynaklı seracılığa yoğun talep konusunda ayrı bir rehber oluşturulmalıdır. İklimsel risklere göre seraların hangi bölgelerde ve hangi yoğunlukta yapılabileceği konusu hakkında da bir rehber oluşturulması son derece önemlidir.
+
+[4.1a fila 34] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 5
+  - Adaptation goal^: Üretim çeşitliliğinin ve miktarının artırılması için çiftçilere destek sağlanması
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Climate hazards that goal addresses^: Other, please specify
+  - Target year of goal^: 2030
+  - Comment: İklim değişikliğinin en önemli etkilerinden biri gıda güvenliğinin riske girmesidir. Değişen iklim koşulları, artan nüfus, kullanılan kimyasallar, üretim maliyetleri gibi konular üretim süreçlerini ve miktarlarını etkilemektedir. Bu nedenle tarımsal üretimde öncü kentlerden biri olan Antalya’da üretim kapasitelerinin ve çeşitlerinin artırılması için iş modelleri geliştirilerek üreticilere destek sağlanması çok önemlidir. Üretim rekoltelerinin iklim nedeniyle düştüğü bölgelerin tespit edilmesi, yeni iklim koşullarına göre yeni üretim modellerinin yaygınlaştırılması da oldukça önemlidir. Üretim maliyetlerinin düşürülmesi ve ürünlerin doğrudan kullanıcıya ulaştırılması için yeni iş modelleri de geliştirilerek, üreticinin üretime teşvikinin sağlanması gerektiği de açıktır.
+
+[4.1a fila 35] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 5
+  - Adaptation goal^: Tarımsal sulama için yağmur suyu depolarının oluşturulması
+  - Climate hazards that goal addresses^: Drought
+  - Climate hazards that goal addresses^: Increased water demand
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: Other, please specify
+  - Target year of goal^: 2030
+  - Comment: Tarım sektörünün oldukça büyük payı olan Antalya’da sulama faaliyetlerinin de kesintisiz devam ettirilmesi gıda güvenliği ve tarımsal üretim bakımından önemlidir. Özellikle seraların yoğun olduğu alanlarda yağmur suyunun toprakla buluşamaması hem sel ve taşkın riskini artırmakta, hem de toplanmasını engellemektedir. Bu nedenle özellikle bu alanlardan başlayarak yağmur suyu toplama havuzlarının artırılması gerekmektedir. Bunun yanı sıra örtü altı tarım yapılmayan alanlarda, yağmur suyu toplama sistemlerinin oluşturularak tarımsal sulamada kullanımının sağlanması gerekmektedir. Bu uygulamaların tüm tarımsal alanlar için yaygınlaştırılmasıyla Antalya’nın kuraklık ve su kıtlığı riskinin azalacağı ön görülmektedir.
+
+[4.1a fila 36] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 6
+  - Adaptation goal^: Sorumlu turizm kavramının yaygınlaştırılması
+  - Climate hazards that goal addresses^: Other, please specify
+  - Climate hazards that goal addresses^: Extreme wind
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Increased water demand
+  - Climate hazards that goal addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazards that goal addresses^: Storm
+  - Climate hazards that goal addresses^: Heat stress
+  - Climate hazards that goal addresses^: Fire weather (risk of wildfires)
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Target year of goal^: 2030
+  - Comment: Turizm faaliyetlerini ve işletmelerini iklim değişikliğine duyarlı hale getirebilmek için çeşitli teşvik mekanizmaları kurularak, sorumlu turizm kavramının Antalya genelinde yaygınlaştırılması gerekmektedir.
+
+[4.1a fila 37] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 6
+  - Adaptation goal^: Belirli turizm aktivitelerinin sınırlandırılması ve denetlenmesi
+  - Climate hazards that goal addresses^: Extreme wind
+  - Climate hazards that goal addresses^: Fire weather (risk of wildfires)
+  - Climate hazards that goal addresses^: Storm
+  - Climate hazards that goal addresses^: Heat stress
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Increased water demand
+  - Climate hazards that goal addresses^: Other, please specify
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Target year of goal^: 2030
+  - Comment: Yoğun su kullanımının yaşandığı ve doğal alanların tahrip edildiği turizm aktivitelerinin sınırlandırılması ve denetlenmesi oldukça önemlidir. Bu aktivitelerin yerine iklimle ve doğayla uyumlu turizm aktivitelerinin yaygınlaştırılması ve tanımı sağlanmalıdır.
+
+[4.1a fila 38] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 6
+  - Adaptation goal^: Doğal alanların turizm amacıyla tahrip edilmemesi
+  - Climate hazards that goal addresses^: Extreme wind
+  - Climate hazards that goal addresses^: Fire weather (risk of wildfires)
+  - Climate hazards that goal addresses^: Increased water demand
+  - Climate hazards that goal addresses^: Other, please specify
+  - Climate hazards that goal addresses^: Heat stress
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Climate hazards that goal addresses^: Storm
+  - Target year of goal^: 2030
+  - Comment: Turizm aktiviteleri altında doğal alanların tahrip edilmesi, kirletilmesi gibi konuları denetleyen birimlerin periyodik olarak eğitime tabi tutulması ve bu alanların tahribatının önüne geçilmesi gerekmektedir.
+
+[4.1a fila 39] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 6
+  - Adaptation goal^: İşletmelerin yenilenebilir enerji kullanımının teşvik edilmesi.
+  - Climate hazards that goal addresses^: Other, please specify
+  - Target year of goal^: 2030
+  - Comment: Turizm işletmelerinin yenilenebilir enerji kullanımlarına teşvik sağlanması için, vergi indirimi, tanıtım ve marka desteği gibi teşvik sistemleri kullanılabilir. Örneğin geri dönüştürülmüş malzeme kullanan ve minimum atık üretimine dikkat eden işletmeler yerel yönetimlerin ve bakanlığın belirleyeceği bir kategoride, enerji ihtiyacının belirli bir kısmını yenilenebilir enerji kaynaklarıyla sağlayan işletmeler de başka bir kategoride yer alarak işletmeye teşvik sağlanabilir.
+
+[4.1a fila 40] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 6
+  - Adaptation goal^: Turizm işletmelerinde doğal kaynak kullanımlarının sınırlandırılması.
+  - Climate hazards that goal addresses^: Other, please specify
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Climate hazards that goal addresses^: Water stress
+  - Target year of goal^: 2030
+  - Comment: İklim değişikliği etkilerinin azaltılması ve etkilerine uyum sağlanması doğal kaynak tüketiminin sınırlandırılmasıyla mümkün olacaktır. Dolayısıyla turizm işletmelerinin yoğun olduğu kentte, bu tür kullanımların sınırlandırılması ve yenilenebilir kaynaklara teşvik mekanizmalarının kurulması önemlidir. Doğal kaynaklara zarar veren faaliyetlerin de engellenmesi ve başka turizm faaliyet alanlarının kente kazandırılması bir diğer önemli adım olmalıdır.
+
+[4.1a fila 41] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 6
+  - Adaptation goal^: Turizm işletmeleri arasında çevrenin korunması amacıyla iş birliklerinin sağlanması
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Climate hazards that goal addresses^: Increased water demand
+  - Climate hazards that goal addresses^: Other, please specify
+  - Climate hazards that goal addresses^: Fire weather (risk of wildfires)
+  - Target year of goal^: 2030
+  - Comment: Turizm sektörünün öncü olduğu Antalya’da, doğal çevrenin korunması ve iklim değişikliği etkileri bağlamında turizm işletmeleri, bakanlıklar, STK’lar ve yerel yönetimler iş birliği içinde çalışmalıdırlar. Bu konu bağlamında sürdürülebilir turizm rehberleri oluşturularak, kentte sürdürülebilir turizm modelinin yaygınlaştırılması sağlanabilir. Yenilenebilir enerji kaynak kullanımının teşviki, minimum atık üretimi, yeşil tedarik ürünlerin kullanımının sağlanması, alternatif turizm faaliyetlerinin geliştirilmesi tanıtılması gibi konular bu rehberde yer alarak iş birlikleriyle yaygınlaştırılabilir.
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: Yes, our jurisdiction has a climate action plan or strategy
+
+[7.1a fila 1] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Integrated climate plan (addressing mitigation, adaptation and energy-related issues)
+  - Confirm attachment/link provided to plan (selection mandatory): The plan has been attached
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Update: Updates to the plan are published at least every 3 years
+  - Processes for monitoring evaluation and updates of plan^: Evaluation: Evaluation of plan takes place at least every 3 years
+  - Processes for monitoring evaluation and updates of plan^: Monitoring:  Information on progress of plan is monitored and publicly reported at least every 3 years
+  - Funding sources and financial instruments to finance plan: Jurisdiction's own resources
+  - Funding sources and financial instruments to finance plan: National funds and programmes
+  - Funding sources and financial instruments to finance plan: Public-private partnerships
+  - Funding sources and financial instruments to finance plan: International (including ODA)
+  - Communities and organizations engaged^: Business and private sector
+  - Communities and organizations engaged^: Local government (s) and/or agencies
+  - Communities and organizations engaged^: Non-governmental organisations
+  - Communities and organizations engaged^: State/regional government(s) and/or agencies
+  - Communities and organizations engaged^: Citizens
+  - Communities and organizations engaged^: Academia
+  - Communities and organizations engaged^: National government and/or agencies
+  - Communities and organizations engaged^: Vulnerable population groups
+  - Describe if and how climate-related scenarios have informed the plan: The General Directorate of Meteorology (MGM) in Turkey has created regional climate projections based on the models preferred in the IPCC 5th Assessment Report. In the study, the years between 1971-2000 were taken as the reference period and the years between 2016-2040, 2041-2070, 2071-2099 were taken for projections.
+  - Primary author(s) of plan^: Relevant department within jurisdiction
+  - Primary author(s) of plan^: Consultant
+  - Primary author(s) of plan^: Dedicated team within jurisdiction
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses synergies of actions
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses co-benefits of actions
+  - Year of formal approval of plan^: 2022
+  - End year of plan: 2030
+  - Sectors covered by action plan: Waste management
+  - Sectors covered by action plan: Agriculture
+  - Sectors covered by action plan: Water supply
+  - Sectors covered by action plan: Electricity, gas, steam and air conditioning supply
+  - Sectors covered by action plan: Fishing
+  - Sectors covered by action plan: Forestry
+  - Sectors covered by action plan: Manufacturing
+  - Sectors covered by action plan: Mining and quarrying
+  - Sectors covered by action plan: Sewerage, wastewater management and remediation activities
+  - Please explain: This report sets out the targets determined with the participation of the stakeholders of Antalya province and aimed at reducing emissions from energy consumption and greenhouse gases in different sectors. The most important bases of this report, the starting point of which is the Antalya province-scale greenhouse gas inventory, are the reports prepared or commissioned by Antalya Metropolitan Municipality and different institutions regarding the future of Antalya province, and the visions of the city stakeholders for the future of the city. In the preparation of the baseline Emissions Inventory, the activity-based approach most commonly used by cities was used. In this approach, all CO2e (or GHG) emissions from direct (through fuel combustion) or indirect (through electricity consumption) energy consumption in Antalya are included. Most GHG emissions are CO2 emissions, while CH4 and N2O 
+
+[7.2 fila 1] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Biodiversity
+  - Current status of plan: In implementation
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2022
+  - End of year plan: 2030
+  - Comment: Actions:E1: Preparation of vulnerability maps in the context of urban heat island.E2: Afforestation of stream banks and floodplain boundaries.E3: Establishment of orchards in the city.E4: Giving the transportation axes a green corridor function.E5: Conducting long-term monitoring activities for ecosystem restoration.E6: Ensuring the integration of blue infrastructure into green areas.E7: Enforcement of green roof requirement in commercial buildings.E8: Combating forest fires, communication between institutions.
+
+[7.2 fila 2] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Water security/quality
+  - Current status of plan: In implementation
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2022
+  - End of year plan: 2030
+  - Comment: Actions:WT1: Establishing guidelines for water saving in commercial buildings.WT2: Dissemination of rain gardens and water pools.WT3: Using water transfer schemes WT4: Expanding the use of water-saving mechanisms.WT5: Use of sustainable urban drainage system.WT6: Replacement of water treatment lines according to drought and increasing temperature factors.
+
+[7.2 fila 3] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Waste management (inc. recycling)
+  - Current status of plan: In implementation
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2022
+  - End of year plan: 2030
+  - Comment: Actions:C1: Minimizing food waste.C2: Conducting awareness raising activities on waste.C3: Placing recycling bins in public areas.C4: Separate collection of hotel, restaurant, cafe waste.C5: Using light-colored materials in floor coverings.C6: Increasing water permeable surfaces (sidewalks, roads, traffic-free areas, parks)C7: Increasing bike lanes and ensuring their integration with green corridors.
+
+[7.2 fila 4] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Health and wellbeing
+  - Current status of plan: In implementation
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2022
+  - End of year plan: 2030
+  - Comment: Actions:PD1: Giving information about diseases and prevention methods.PD2: Making applications to prevent vector reproduction.PD3: Monitoring air and water quality values and developing a warning system.PD4: Identify areas that will be most affected by extreme weather events.PD5: Ensuring food and nutrition security against the risk of drought.PD6: Explaining the risks of climatic disasters to the society.PD7: Developing disaster early warning systems.PD8: Development of GIS-based risk maps.
+
+[7.2 fila 5] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Food policy
+  - Current status of plan: In implementation
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2022
+  - End of year plan: 2030
+  - Comment: Actions:AG1: Creation of vegetated buffer strips along agricultural irrigation channels.AG2: Informing farmers about climatic risks. AG3: Implementation of nature-based solutions in appropriate areas.AG4: Making greenhouses resistant to climatic risks.AG5: Providing support to farmers to increase production variety and quantity.AG6: Establishment of rainwater tanks for agricultural irrigation.
+
+[7.2 fila 6] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Other, please specify: Tourism
+  - Current status of plan: In implementation
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2022
+  - End of year plan: 2030
+  - Comment: Actions:TO1: Dissemination of the concept of responsible tourism.TO2: Limitation and control of certain tourism activities.TO3: Not destroying natural areas for tourism purposes.TO4: Promoting the use of renewable energy by businesses.TO5: Limiting the use of natural resources in tourism establishments.TO6: Establishing cooperation between tourism enterprises in order to protect the environment.
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Transport
+  - Project title: PUBLIC TRANSPORT ON THE ROAD TO ZERO CARBON
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Loans from commercial banks
+  - Identified financing model: Public-private partnership
+  - Identified financing model: Loans from International Financial Institutions
+  - Identified financing model: Public finance - national government
+  - Identified financing model: Grants
+  - Project description and attach project proposal: Antalya is one of the cities with the highest population growth in our country. Considering the number of registered vehicles, there is one vehicle for every two people. For this reason, according to the calculations made within the framework of the Sustainable Energy and Climate Action Plan (SECAP) implemented by our municipality, transport ranks second with a rate of 30.2% after building-related emissions. Considering the growth potential of Antalya, it is important to reduce carbon emissions within the scope of combating climate change, especially in this area, thanks to the support to be provided. The most important among the projects to be developed regarding transport is the development of Antalya's environmentally friendly public transport system. Making public transport more widespread and accessible can reduce the use of individual vehicles, reduce carbon emissions and alleviate
+  - Total cost of project (in currency specified in 0.1): 11000000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 11000000
+
+[7.5 fila 2] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Water management
+  - Project title: RENEWABLE ENERGY SOURCES IN WATER MANAGEMENT
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Loans from commercial banks
+  - Identified financing model: Public finance - national government
+  - Identified financing model: Grants
+  - Identified financing model: Public-private partnership
+  - Identified financing model: Loans from International Financial Institutions
+  - Project description and attach project proposal: 98% of Antalya's water supply is provided from groundwater sources and fossil fuelled electrical energy is used for this supply. Energy costs are increasing day by day in processes such as providing, transporting and treating these supplies. While 15.6% of ASAT Water and Wastewater Administration's expenses in 2018 were electricity expenses, this rate was 54% in 2022. This situation also increases carbon emissions.  These challenges can be solved with renewable energy resources projects in water management to be realised with the support to be given in water management and water supply. These include:1. Utilization of renewable energy systems and development of the necessary infrastructure (roof type or storage solar energy systems, hydraulic pressure breaker energy systems),  Places to build: Kumluca (4), Alanya (2), Termessos (1) Potential Budget: € 10 million 2. Supporting renewable e
+  - Total cost of project (in currency specified in 0.1): 13000000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 13000000
+
+[7.5 fila 3] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Water management
+  - Project title: ENVIRONMENTALLY FRIENDLY VEHICLES IN WASTE MANAGEMENT
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Grants
+  - Identified financing model: Public-private partnership
+  - Identified financing model: Loans from International Financial Institutions
+  - Identified financing model: Loans from commercial banks
+  - Identified financing model: Public finance - national government
+  - Project description and attach project proposal: The density of population and tourism activities in Antalya increases the amount of waste. The city is struggling with a demand for services beyond its capacity due to both tourism and increased migration. Added to this is the volume of waste generated by hotels, restaurants and other tourism facilities during the tourism season.  Despite all this, Antalya Metropolitan Municipality provides transfer to waste collection facilities with approximately 45 trucks with a capacity of 30 tonnes. These trucks consume 1 litre of fuel oil per 2 km. And this process continues continuously. The development of environmentally friendly vehicles (hydrogen fuelled or electric trucks) in waste management with the support to be given is of great importance in terms of both reducing carbon emissions and reducing our costs. In addition, the fact that urban cleaning brooms, of which there are currently 6, are
+  - Total cost of project (in currency specified in 0.1): 10100000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 10100000
+
+[7.5 fila 4] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Public and green spaces
+  - Project title: Green Corridor, Climate Street
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Loans from International Financial Institutions
+  - Identified financing model: Public-private partnership
+  - Identified financing model: Grants
+  - Identified financing model: Public finance - national government
+  - Identified financing model: Loans from commercial banks
+  - Project description and attach project proposal: By identifying areas of need to reduce the heat island effect at various points in the city and creating green corridors, gains such as reduction of the urban heat island effect, green area accessibility, flood control, increase in carbon sequestration, adaptation to climate change, etc. can be achieved.Creating a blue line between Güllük Street and Karaoğlan Park for e-buses and bicycles only, and ensuring that other vehicles do not use this road, emission reduction can be achieved by creating zero emission areas.
+
+[7.5 fila 5] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Water management
+  - Project title: Rain Harvesting Application
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Loans from International Financial Institutions
+  - Identified financing model: Grants
+  - Identified financing model: Loans from commercial banks
+  - Identified financing model: Public finance - national government
+  - Identified financing model: Public-private partnership
+  - Project description and attach project proposal: Rain harvesting; rainwater can be stored in municipal service areas and some of the water needs can be met in this way.With the rainwater harvesting to be carried out in Metropolitan Parks, it will be possible to meet the water needs of park gardens.
+
+[7.5 fila 6] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Health systems and services
+  - Project title: GIS Based Air Quality Monitoring Source Identification and Improvement Project
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Public finance - national government
+  - Identified financing model: Loans from commercial banks
+  - Identified financing model: Loans from International Financial Institutions
+  - Identified financing model: Public-private partnership
+  - Identified financing model: Grants
+  - Project description and attach project proposal: By developing a portal containing information on all pollutant sources in 19 districts of Antalya Province, projects can be developed to reduce emissions in areas arising from other sectors, especially transportation, by using the air quality maps prepared with the help of this portal, through cooperation between institutions and units.  Collaborations in Sustainable Cities and GIS-based city projects, digital transformation and green energy options in transportation, alternative fuel changes in heating, etc. application and project studies can be carried out.
+
+[7.5 fila 7] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Transport
+  - Project title: Organizing City Tours for Tourists with Electric Vehicles
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Public-private partnership
+  - Identified financing model: Loans from International Financial Institutions
+  - Identified financing model: Loans from commercial banks
+  - Identified financing model: Public finance - national government
+  - Identified financing model: Grants
+  - Project description and attach project proposal: To provide short and medium distance passenger transportation with a bicycle-like vehicle that gets its energy from the sun by developing a vehicle that can be pedaled or seated... Vehicles that can reach speeds of 40-50 km per hour. Providing part-time job opportunities for university students by letting them use this vehicle... Transporting the disabled with the same electric vehicle (now they use minibuses).
+
+[7.5 fila 8] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Transport
+  - Project title: GES Installation and Electric Vehicle Charging Station in Multi-storey Parking Lots
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Loans from International Financial Institutions
+  - Identified financing model: Public-private partnership
+  - Identified financing model: Public finance - national government
+  - Identified financing model: Loans from commercial banks
+  - Identified financing model: Grants
+  - Project description and attach project proposal: Using the roofs of the multi-storey car parks, which are also used as market areas between the neighborhoods, as SPPs in order to encourage and popularize the use of electric vehicles. With the electrical energy to be produced by the SPPs planned to be built on the roofs of the parking lots, it will be ensured that the public will be served by providing energy to the charging stations for charging hybrid and electric vehicles, which are increasing in use today, and at the same time, the parking lot building will be able to save energy and be self-sustaining by meeting the energy needs of lighting, etc.
+
+[7.5 fila 9] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Other, please specify: CLIMATE-TOURISM-SOCIAL SERVICES
+  - Project title: Supporting Local Development in Tourism Sector
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Loans from International Financial Institutions
+  - Identified financing model: Grants
+  - Identified financing model: Public finance - national government
+  - Identified financing model: Public-private partnership
+  - Identified financing model: Loans from commercial banks
+  - Project description and attach project proposal: In cooperation with municipalities, tourism sector representatives and cooperatives; establish cooperatives to create systems that encourage the supply of food for the tourism sector through food produced by local people and ensure food supply. Reducing logistics-related costs and greenhouse gas emissions.  In addition, ensuring the participation of local people in the promotion and sale of handmade souvenirs and local products. Supporting the community.
+
+[7.5 fila 10] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Landscape and Jurisdictional Approaches
+  - Project title: Feasibility study on risk areas for extreme weather events
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Loans from International Financial Institutions
+  - Identified financing model: Public-private partnership
+  - Identified financing model: Grants
+  - Identified financing model: Loans from commercial banks
+  - Identified financing model: Public finance - national government
+  - Project description and attach project proposal: Identifying risky areas and buildings in the city to prevent disasters due to extreme weather events and thus loss of life and property, and ensuring that measures are taken to minimize the loss of life and property.
+
+[7.5 fila 11] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Energy efficiency (including public lighting)
+  - Project title: Creating areas with high energy efficiency
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Loans from commercial banks
+  - Identified financing model: Loans from International Financial Institutions
+  - Identified financing model: Public-private partnership
+  - Identified financing model: Grants
+  - Identified financing model: Public finance - national government
+  - Project description and attach project proposal: Identifying the districts, neighborhoods and regions with the highest energy consumption in relation to the buildings with the highest rate as the source of emission in the city and prioritizing the work for energy efficiency in buildings in these areas and carrying out the necessary work.
+
+[7.5 fila 12] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Landscape and Jurisdictional Approaches
+  - Project title: Identification & mapping of heat islands, especially in Antalya city center
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Loans from commercial banks
+  - Identified financing model: Grants
+  - Identified financing model: Public-private partnership
+  - Identified financing model: Loans from International Financial Institutions
+  - Identified financing model: Public finance - national government
+  - Project description and attach project proposal: To identify heat islands in the city and to carry out studies to ensure livable thermal comfort by reducing the heat effect by increasing green areas and green building applications in these areas.
+
+[7.5 fila 13] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Landscape and Jurisdictional Approaches
+  - Project title: Virtual Reality
+  - Stage of project development: Project structuring
+  - Status of financing: Project partially funded and seeking additional funding
+  - Identified financing model: Loans from International Financial Institutions
+  - Identified financing model: Grants
+  - Identified financing model: Loans from commercial banks
+  - Identified financing model: Public-private partnership
+  - Identified financing model: Public finance - national government
+  - Project description and attach project proposal: Virtual reality applications will be carried out in order to raise awareness of children and citizens on environmental protection, climate change, waste, etc. and to ensure that they are included in the subject with virtual reality.
+
+[7.5 fila 14] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Public and green spaces
+  - Project title: Green Building Project
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Grants
+  - Identified financing model: Public finance - national government
+  - Identified financing model: Loans from commercial banks
+  - Identified financing model: Loans from International Financial Institutions
+  - Identified financing model: Public-private partnership
+  - Project description and attach project proposal: A building belonging to our municipality will be designed to receive a green building certificate.
+
+[7.5 fila 15] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Renewable energy
+  - Project title: Installation of Solar Power Plants
+  - Stage of project development: Implementation
+  - Status of financing: Project partially funded and seeking additional funding
+  - Identified financing model: Loans from commercial banks
+  - Identified financing model: Loans from International Financial Institutions
+  - Identified financing model: Public-private partnership
+  - Identified financing model: Public finance - national government
+  - Identified financing model: Grants
+  - Project description and attach project proposal: Installation of solar power plants for the energy needs of municipal service buildings and facilities located within the borders of 19 districts
+
+[7.5 fila 16] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Nature-Based Solutions
+  - Project title: Nature-based solutions Project
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Loans from commercial banks
+  - Identified financing model: Loans from International Financial Institutions
+  - Identified financing model: Public finance - national government
+  - Identified financing model: Public-private partnership
+  - Identified financing model: Grants
+  - Project description and attach project proposal: Realization of nature-based solution practices within the boundaries of the municipality
+
+[7.6 fila 1] Report the factors that support climate-related investment and financial planning in your jurisdiction.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction’s own funds and budgetary means
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction utilises foreign debt and/or foreign investments
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction accesses finance from public-private partnerships
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction partners with other jurisdictions to access finance
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction accesses finance from Regional Development Banks
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction accesses finance from national government funds, grants etc.
+  - Credit rating of jurisdiction: Do not know
+  - Decarbonising jurisdiction's investments: Do not know
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Community engagement/education
+  - Action (selections mandatory)^_G: Educational/Informational actions
+  - Climate hazard(s) that action addresses^: Fire weather (risk of wildfires)
+  - Action description and web link to further information^: Action E8: Combating Forest fires, inter-institutional communication.After the 2021 Manavgat Forest Fire, we also took steps to restore our damaged tree richness in cooperation with the Turkish Education Association, the International Agriculture and Food Confederation (TARIMKON) and the Ankara Metropolitan Municipality. As a metropolitan municipality that knows the power of collaborations, as of today, we are cooperating with the Turkish Foresters Association, which supported us with a laurel donation during the SECAP process, within the scope of conducting studies for the prevention of forest fires. With this protocol, we will cooperate in order to support the replacement of sink areas damaged and destroyed by fire, other natural disasters and natural processes. - increasing environmental sensitivity, - training on forest and other open area fires, - organizing information and awarenes
+  - Sectors adaptation action applies to^: Professional, scientific and technical activities
+  - Sectors adaptation action applies to^: Forestry
+  - Sectors adaptation action applies to^: Education
+  - Co-benefits realized^: Improved air quality
+  - Co-benefits realized^: Protected/improved biodiversity and ecosystem services
+  - Co-benefits realized^: Reduced GHG emissions
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Co-benefits realized^: Reduced natural resource depletion
+  - Co-benefits realized^: Increased security/protection for poor/vulnerable populations
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: <10%
+  - Proportion of natural systems with increased resilience due to adaptat: <10%
+  - Funding source(s): Other, please specify source(s): NGO partnership
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Implementation complete in the reporting year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 2] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Educational/Informational actions
+  - Action (selections mandatory)^: Community engagement/education
+  - Climate hazard(s) that action addresses^: Action does not address hazard
+  - Action description and web link to further information^: A first in environmental education and awareness raising; Environmental Education and Innovation Center: We broke new ground in Turkey and opened our Environmental Education and Innovation Center with the aim of creating a city consciousness sensitive to the environment. Environmental workshops, exhibition hall from waste to art, virtual reality, solar and wind energy in our center where many environmental issues such as our awareness-raising activities are carried out by our professional trainers. Our Environmental Education and Innovation Center sets an example for Turkey and the world with the Best Practice Award from the Union of Healthy Cities, the National Award for Best Environmental Education Activities from TURÇEV and the Blue Flag International Best Practice Examples Third Prize from the International Foundation for Environmental Education (FEE). Our municipality won this award
+  - Sectors adaptation action applies to^: Arts, entertainment and recreation
+  - Sectors adaptation action applies to^: Education
+  - Co-benefits realized^: Other impacts from climate actions, please specify: Capacity Building
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: <10%
+  - Proportion of natural systems with increased resilience due to adaptat: <10%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is not included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 3] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Fisheries co-management
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Climate hazard(s) that action addresses^: Action does not address hazard
+  - Action description and web link to further information^: Fighting alien invasive species:We fight against alien invasive species. The lionfish and pufferfish, which arrived on our coasts and spread rapidly, are among the foreign invasive species that cause the most damage to our marine ecosystem. These species, which feed on our native fish species and are not predatory sea creatures, had become a great threat to our sea in terms of marine biodiversity and to our fishermen in terms of economy. By organizing lion and puffer fish fishing competitions and awareness-raising events, we are eliminating the invasive species as a threat.
+  - Sectors adaptation action applies to^: Accommodation and food service activities
+  - Sectors adaptation action applies to^: Fishing
+  - Co-benefits realized^: Undertaken in collaboration with Indigenous peoples
+  - Co-benefits realized^: Job creation
+  - Co-benefits realized^: Increased water security
+  - Co-benefits realized^: Revenue generation
+  - Co-benefits realized^: Increased labor productivity
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 10-20%
+  - Proportion of natural systems with increased resilience due to adaptat: 10-20%
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): Public-private partnerships
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is not included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 4] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Action (selections mandatory)^: Water storage and pump storage
+  - Climate hazard(s) that action addresses^: Water stress
+  - Action description and web link to further information^: Closed Circuit Irrigation SystemsWater use and sustainability are of great importance in the fight against climate change. In Turkey, 73% of fresh water consumption is realized in agriculture, 11% in industry and 16% in domestic use. Our efforts to ensure the efficient use and continuity of water continue uninterruptedly.  Thanks to our closed-circuit irrigation systems, we have achieved a 60% saving in water use. Efficiency has increased by 55%.
+  - Sectors adaptation action applies to^: Water supply
+  - Sectors adaptation action applies to^: Agriculture
+  - Co-benefits realized^: Reduced disruption of energy, transport, water or communications networks
+  - Co-benefits realized^: Improved water/soil quality
+  - Co-benefits realized^: Reduced natural resource depletion
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 20-30%
+  - Proportion of natural systems with increased resilience due to adaptat: 30-40%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is not included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 5] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Services actions
+  - Action (selections mandatory)^: Municipal services (including water and sanitation)
+  - Climate hazard(s) that action addresses^: Water stress
+  - Action description and web link to further information^: Action WT4: Expanding the use of water-saving mechanisms.Implementation details:- Encouraging the use of water-saving aerators installed on faucet heads in households, public and commercial building.- Promote the use of communal dispensers instead of disposable products (bottles, cups, etc.) in public and commercial buildings.- Carrying out information and awareness raising activities on water conservation.-Drawing attention to the issue of climate change by organizing activities throughout the city on World Water Day.
+  - Sectors adaptation action applies to^: Water supply
+  - Co-benefits realized^: Reduced natural resource depletion
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 30-40%
+  - Proportion of natural systems with increased resilience due to adaptat: 30-40%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 6] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Water storage and pump storage
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Climate hazard(s) that action addresses^: Water stress
+  - Action description and web link to further information^: Action WT3: Use of water transfer schemesImplementation details:-Preventing water losses by renovating drinking water tanks.-Ensuring water control through the SCADA system.-Coordinated work during the planning process.-Designing integrated management of groundwater and surface waters.-Ensuring stakeholder participation in feasibility studies.
+  - Sectors adaptation action applies to^: Water supply
+  - Co-benefits realized^: Reduced natural resource depletion
+  - Co-benefits realized^: Increased water security
+  - Co-benefits realized^: Reduced disruption of energy, transport, water or communications networks
+  - Co-benefits realized^: Business/technological innovation
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 50-60%
+  - Proportion of natural systems with increased resilience due to adaptat: 60-70%
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): Regional funds and programmes
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 7] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Action (selections mandatory)^: Water storage and pump storage
+  - Climate hazard(s) that action addresses^: Water stress
+  - Action description and web link to further information^: Action WT5: Utilization of sustainable urban drainage systemImplementation details:-Separate collection of rainwater to reduce the burden on the drainage network and wastewater treatment plants.
+  - Sectors adaptation action applies to^: Water supply
+  - Co-benefits realized^: Reduced disruption of energy, transport, water or communications networks
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 20-30%
+  - Proportion of natural systems with increased resilience due to adaptat: 20-30%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 8] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Services actions
+  - Action (selections mandatory)^: Municipal services to reduce food waste (including composting)
+  - Climate hazard(s) that action addresses^: Action does not address hazard
+  - Action description and web link to further information^: Action C1: Minimization of food wasteImplementation details:- Separation of waste through recycling.- Taking the waste disposal tax on the agenda and conducting research for spreading it throughout the province.
+  - Sectors adaptation action applies to^: Waste management
+  - Co-benefits realized^: Improved waste management
+  - Co-benefits realized^: Increased labor productivity
+  - Co-benefits realized^: Increased economic production
+  - Co-benefits realized^: Revenue generation
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 70-80%
+  - Proportion of natural systems with increased resilience due to adaptat: 60-70%
+  - Funding source(s): Private partnerships (e.g., a combination of private investments)
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): Public-private partnerships
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 9] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Educational/Informational actions
+  - Action (selections mandatory)^: Other, please specify: Raising awareness on waste
+  - Climate hazard(s) that action addresses^: Action does not address hazard
+  - Action description and web link to further information^: Action C2: Raising awareness on wasteImplementation details:- Create an incentive mechanism to reduce single use plastics in local businesses. - Reducing the use of single-use plastics in public institutions and organizations.- Creating incentive mechanisms to increase recycling and recovery and organizing events on this issue. - Carrying out information and awareness raising activities for students and citizens.
+  - Sectors adaptation action applies to^: Waste management
+  - Co-benefits realized^: Improved waste management
+  - Co-benefits realized^: Reduced GHG emissions
+  - Co-benefits realized^: Reduced costs
+  - Co-benefits realized^: Revenue generation
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 50-60%
+  - Proportion of natural systems with increased resilience due to adaptat: 30-40%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 10] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Other, please specify: Placing recycling bins in public spaces
+  - Action (selections mandatory)^_G: Other, please specify
+  - Climate hazard(s) that action addresses^: Action does not address hazard
+  - Action description and web link to further information^: Action C3: Placing recycling bins in public spacesImplementation details:- Develop pilot projects with universities for sustainable and innovative waste management. - Smart route planning for waste collection and transfer vehicles.- Cooperation with relevant institutions for investments in recycling.
+  - Sectors adaptation action applies to^: Waste management
+  - Co-benefits realized^: Reduced GHG emissions
+  - Co-benefits realized^: Improved waste management
+  - Co-benefits realized^: Improved air quality
+  - Co-benefits realized^: Reduced costs
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 30-40%
+  - Proportion of natural systems with increased resilience due to adaptat: 40-50%
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): Public-private partnerships
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 11] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Services actions
+  - Action (selections mandatory)^: Municipal services to reduce food waste (including composting)
+  - Climate hazard(s) that action addresses^: Action does not address hazard
+  - Action description and web link to further information^: Action C4: Separate collection of hotel, restaurant and café wasteImplementation details:- Incentivizing the citizens about the wastes that can be turned into compost and organizing events for composting by the municipality.
+  - Sectors adaptation action applies to^: Waste management
+  - Co-benefits realized^: Reduced GHG emissions
+  - Co-benefits realized^: Improved waste management
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 50-60%
+  - Proportion of natural systems with increased resilience due to adaptat: 50-60%
+  - Funding source(s): Public-private partnerships
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 12] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Other, please specify: Increase the number of bicycle lanes and ensure their integration with green corridors
+  - Action (selections mandatory)^_G: Other, please specify
+  - Climate hazard(s) that action addresses^: Action does not address hazard
+  - Action description and web link to further information^: Action C7: Increase the number of bicycle lanes and ensure their integration with green corridorsImplementation details:- Establishing green rings in neighbourhoods to increase accessibility (bicycle paths, fusion of passive and active green spaces).- Using web-based systems for structuring the bicycle transportation network- Making arrangements to transform bicycle paths into ecosystem services by integrating them with nature-based solutions.
+  - Sectors adaptation action applies to^: Transportation and storage
+  - Co-benefits realized^: Increased labor productivity
+  - Co-benefits realized^: Improved air quality
+  - Co-benefits realized^: Reduced GHG emissions
+  - Co-benefits realized^: Increased/improved green space
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 20-30%
+  - Proportion of natural systems with increased resilience due to adaptat: 20-30%
+  - Funding source(s): Public-private partnerships
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 13] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Public preparedness (including exercises/drills)
+  - Action (selections mandatory)^_G: Educational/Informational actions
+  - Climate hazard(s) that action addresses^: Water stress
+  - Climate hazard(s) that action addresses^: Infectious disease
+  - Climate hazard(s) that action addresses^: Coastal flooding (incl. sea level rise)
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Climate hazard(s) that action addresses^: Fire weather (risk of wildfires)
+  - Climate hazard(s) that action addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazard(s) that action addresses^: Heat stress
+  - Action description and web link to further information^: Action PD1: Providing information on diseases and prevention methods.Antalya is a city that welcomes tourists from all over the world, with a big difference between its general population and its population during tourism months. For this reason, it is extremely important to prevent infectious diseases and to explain them to the public. Every citizen should be periodically informed about infectious diseases and methods of protection against them.Implementation details:- Performing awareness-raising activities to protect against the negative impacts of climate change on health. - Embedding climate change in the curriculum
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 40-50%
+  - Proportion of natural systems with increased resilience due to adaptat: 40-50%
+  - Funding source(s): Regional funds and programmes
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 14] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Action (selections mandatory)^: Other, please specify: Prevent vector breeding
+  - Climate hazard(s) that action addresses^: Infectious disease
+  - Action description and web link to further information^: Action PD2: Implementing practices to prevent vector breeding.Separate efforts should be carried out against vector-borne diseases, especially in areas where pollution and population density are high. At the same time, along with vector-borne diseases that are contagious, the reproduction of vectors that are harmful to plants and forests due to climate change should be prevented.Implementation details:-Take appropriate steps in urban planning to prevent vector breeding and to consider air currents.
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Co-benefits realized^: Reduced health costs
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 50-60%
+  - Proportion of natural systems with increased resilience due to adaptat: 50-60%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 15] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Other, please specify
+  - Action (selections mandatory)^: Other, please specify: Identify areas that will be most affected by extreme weather events.
+  - Climate hazard(s) that action addresses^: Fire weather (risk of wildfires)
+  - Climate hazard(s) that action addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazard(s) that action addresses^: Infectious disease
+  - Action description and web link to further information^: Action PD4: Identify areas that will be most affected by extreme weather events.The effects of climate change are not seen equally in all areas of the city, and its impact on some groups is different. Especially in areas where urbanization is dense and green areas are scarce, the impact of climatic risks is generally higher. In addition, vulnerable groups such as the elderly population, those with chronic diseases, and low-income groups are much more affected by the impacts of climate change. For this reason, the implementation of climate adaptation actions should be expanded throughout the city, starting from the vulnerable and more at-risk areas. Therefore, it is extremely important to identify the areas and groups in Antalya that will be more affected by extreme weather events.Implementation details:- Realization of awareness-raising activities to protect against the negative effects 
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 40-50%
+  - Proportion of natural systems with increased resilience due to adaptat: 40-50%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 16] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Community engagement/education
+  - Action (selections mandatory)^_G: Educational/Informational actions
+  - Climate hazard(s) that action addresses^: Infectious disease
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Climate hazard(s) that action addresses^: Coastal flooding (incl. sea level rise)
+  - Climate hazard(s) that action addresses^: Fire weather (risk of wildfires)
+  - Climate hazard(s) that action addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazard(s) that action addresses^: Heat stress
+  - Climate hazard(s) that action addresses^: Water stress
+  - Action description and web link to further information^: Action PD6: Communicating climate disaster risks to the public.Explaining climatic disasters and the effects of climate change to all segments of the society and ensuring that the seriousness of the event is understood is very important in terms of reducing possible risks. The measures to be taken against climatic risks should be periodically explained to all age groups in schools. In addition, informative meetings should be organized for all those engaged in agricultural production and in the tourism sector, and all segments from rural to urban areas should be reached.Implementation details:- Establish plans to inform the public.- Awareness raising activities by experts on global warming and climate change, especially starting from primary education level.- Organizing informative meetings for all those involved in agricultural production and the tourism sector.
+  - Sectors adaptation action applies to^: Education
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 50-60%
+  - Proportion of natural systems with increased resilience due to adaptat: 50-60%
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): National funds and programmes
+  - Funding source(s): Regional funds and programmes
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 17] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Educational/Informational actions
+  - Action (selections mandatory)^: Public preparedness (including exercises/drills)
+  - Climate hazard(s) that action addresses^: Water stress
+  - Action description and web link to further information^: Action AG1: Creation of vegetated buffer strips along agricultural irrigation canals.In order to collect rainwater and reduce the risk of erosion, rain collection and irrigation borders should be opened in agricultural areas and supported with vegetated buffer strips.Implementation details:-Informing the producer.
+  - Sectors adaptation action applies to^: Agriculture
+  - Sectors adaptation action applies to^: Education
+  - Co-benefits realized^: Increased security/protection for poor/vulnerable populations
+  - Co-benefits realized^: Reduced costs
+  - Co-benefits realized^: Improved labor conditions
+  - Co-benefits realized^: Increased labor productivity
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 30-40%
+  - Proportion of natural systems with increased resilience due to adaptat: 30-40%
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): Regional funds and programmes
+  - Funding source(s): National funds and programmes
+  - Funding source(s): Public-private partnerships
+  - Funding source(s): Other, please specify source(s): NGOs
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 18] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Educational/Informational actions
+  - Action (selections mandatory)^: Community engagement/education
+  - Climate hazard(s) that action addresses^: Coastal flooding (incl. sea level rise)
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Climate hazard(s) that action addresses^: Infectious disease
+  - Climate hazard(s) that action addresses^: Water stress
+  - Climate hazard(s) that action addresses^: Fire weather (risk of wildfires)
+  - Climate hazard(s) that action addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazard(s) that action addresses^: Heat stress
+  - Action description and web link to further information^: Action AG2: Informing farmers according to climatic risks.Climate change impacts have a very serious impact on agricultural production and food security. Changing climate and temperature conditions cause changes in many issues such as the production periods and regions of agricultural products. It is essential to share such changes and solutions with producers. Farmers need to be periodically informed about the impacts of climate change according to the product type and production needs. In addition, it is important to explain to farmers the types of production that will be adapted to climate change.Implementation details:- Engage with farming communities and cooperatives to identify the most effective training formats and the support needed to transition to more sustainable practices. - Working with farming communities and cooperatives to increase farm biodiversity. -Organization of app
+  - Sectors adaptation action applies to^: Water supply
+  - Sectors adaptation action applies to^: Education
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Sectors adaptation action applies to^: Agriculture
+  - Co-benefits realized^: Protected/improved biodiversity and ecosystem services
+  - Co-benefits realized^: Improved labor conditions
+  - Co-benefits realized^: Revenue generation
+  - Co-benefits realized^: Job creation
+  - Co-benefits realized^: Reduced costs
+  - Co-benefits realized^: Increased security/protection for poor/vulnerable populations
+  - Co-benefits realized^: Increased/improved green space
+  - Co-benefits realized^: Reduced GHG emissions
+  - Co-benefits realized^: Increased labor productivity
+  - Co-benefits realized^: Improved water/soil quality
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 40-50%
+  - Proportion of natural systems with increased resilience due to adaptat: 30-40%
+  - Funding source(s): Other, please specify source(s): NGOs
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): National funds and programmes
+  - Funding source(s): Regional funds and programmes
+  - Funding source(s): Public-private partnerships
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 19] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Other, please specify
+  - Action (selections mandatory)^: Other, please specify: nature-based solutions
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Climate hazard(s) that action addresses^: Water stress
+  - Climate hazard(s) that action addresses^: Coastal flooding (incl. sea level rise)
+  - Action description and web link to further information^: Action AG3: Implementing nature-based solutions in appropriate areas.Nature-based solutions can be implemented not only in urban areas but also in agricultural areas. Especially in regions facing the risk of water scarcity and drought, practices such as the construction of rainwater harvesting areas for agricultural irrigation, the application of vegetated buffer strips on the edges of agricultural areas, leaving soils uncultivated according to the type of soil and crops, and erosion control systems are nature-based solutions. Such practices need to be implemented and expanded according to the needs of agricultural areas.Implementation details:- Taking institutional and technical measures to reduce water consumption-  Increasing public investments for improving soil quality (increasing organic matter, etc.).- Increase support mechanisms for sustainable land management and climate-friendl
+  - Sectors adaptation action applies to^: Agriculture
+  - Sectors adaptation action applies to^: Water supply
+  - Co-benefits realized^: Increased labor productivity
+  - Co-benefits realized^: Reduced natural resource depletion
+  - Co-benefits realized^: Improved water/soil quality
+  - Co-benefits realized^: Increased water security
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 40-50%
+  - Proportion of natural systems with increased resilience due to adaptat: 40-50%
+  - Funding source(s): Other, please specify source(s): NGOs
+  - Funding source(s): Regional funds and programmes
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 20] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Other, please specify: Promote the concept of responsible tourism.
+  - Action (selections mandatory)^_G: Other, please specify
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Climate hazard(s) that action addresses^: Water stress
+  - Climate hazard(s) that action addresses^: Infectious disease
+  - Climate hazard(s) that action addresses^: Fire weather (risk of wildfires)
+  - Climate hazard(s) that action addresses^: Hurricanes, cyclones, and/or typhoons
+  - Climate hazard(s) that action addresses^: Coastal flooding (incl. sea level rise)
+  - Climate hazard(s) that action addresses^: Heat stress
+  - Action description and web link to further information^: Action TO1: Promote the concept of responsible tourism.In order to make tourism activities and businesses sensitive to climate change, various incentive mechanisms should be established, and the concept of responsible tourism should be promoted throughout Antalya.Implementation details:- Conducting studies to investigate the direct and indirect positive and negative impacts of climate change on tourism and making recommendations to increase the resilience of the sector.
+  - Sectors adaptation action applies to^: Financial and insurance activities
+  - Sectors adaptation action applies to^: Accommodation and food service activities
+  - Sectors adaptation action applies to^: Arts, entertainment and recreation
+  - Co-benefits realized^: Reduced disruption of energy, transport, water or communications networks
+  - Co-benefits realized^: Increased economic production
+  - Co-benefits realized^: Increased labor productivity
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 40-50%
+  - Proportion of natural systems with increased resilience due to adaptat: 40-50%
+  - Funding source(s): Public-private partnerships
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 21] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Educational/Informational actions
+  - Action (selections mandatory)^: Other, please specify: Informing
+  - Climate hazard(s) that action addresses^: Action does not address hazard
+  - Action description and web link to further information^: Action TO3: Natural areas should not be destroyed for tourism purposes.The units that supervise the destruction and pollution of natural areas under tourism activities should be periodically trained and the destruction of these areas should be prevented.Implementation details:-Informing city councils.
+  - Sectors adaptation action applies to^: Financial and insurance activities
+  - Sectors adaptation action applies to^: Accommodation and food service activities
+  - Sectors adaptation action applies to^: Information and communication
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: <10%
+  - Proportion of natural systems with increased resilience due to adaptat: 30-40%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable

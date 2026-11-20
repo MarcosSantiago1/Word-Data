@@ -1,0 +1,564 @@
+# CDP Cities 2023 - Fuzhou Municipal People's Government (org 827047) https://www.cdp.net/en/responses/827047
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: City/Municipality
+  - Next highest level of government: County / Province
+  - Next lowest level of government: Consolidated city-county
+  - Land area of the jurisdiction boundary (in square km)^: 11968
+  - Current (or most recent) population size^: 8448000
+  - Population year^: 2022
+  - Select the currency used for all financial information reported throug: CNY Yuan Renminbi
+
+[0.5 fila 1] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Primary entity collaborated with (selection mandatory): NGO and associations
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: Yes, a climate risk and vulnerability assessment has been undertaken
+
+[1.1a fila 1] Provide details on your climate risk and vulnerability assessment.
+  - Confirm attachment/link provided to assessment (selection mandatory): Unable to provide an attachment and/or direct link to the assessment as it is not yet published
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Factors considered in assessment: Assessment includes consultation with partners
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Assessment includes a high-emissions scenario (i.e., RCP 8.5)
+  - Factors considered in assessment: Assessment includes sectors and/or urban systems
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: Other, please specify
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: None of the above
+  - Primary author(s) of assessment^: International organization
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Primary author(s) of assessment^: Dedicated team within jurisdiction
+  - Primary author(s) of assessment^: Other, please specify
+  - Primary author(s) of assessment^: Consultant
+
+[1.1a fila 2] Provide details on your climate risk and vulnerability assessment.
+  - Confirm attachment/link provided to assessment (selection mandatory): Unable to provide an attachment and/or direct link to the assessment as it is not yet published
+  - Factors considered in assessment: A process has been established to update the assessment at least every five years
+  - Factors considered in assessment: Assessment includes a high-emissions scenario (i.e., RCP 8.5)
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Assessment includes consultation with partners
+  - Factors considered in assessment: None of the above
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: Other, please specify
+  - Factors considered in assessment: Assessment includes sectors and/or urban systems
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Primary author(s) of assessment^: Dedicated team within jurisdiction
+  - Primary author(s) of assessment^: Regional/ state/ provincial government
+  - Primary author(s) of assessment^: Consultant
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Primary author(s) of assessment^: Community group
+
+[1.1a fila 3] Provide details on your climate risk and vulnerability assessment.
+  - Confirm attachment/link provided to assessment (selection mandatory): Unable to provide an attachment and/or direct link to the assessment as it is not yet published
+  - Factors considered in assessment: Assessment includes a high-emissions scenario (i.e., RCP 8.5)
+  - Factors considered in assessment: Assessment includes consultation with partners
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Other, please specify
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: A process has been established to update the assessment at least every five years
+  - Factors considered in assessment: None of the above
+  - Factors considered in assessment: Assessment includes sectors and/or urban systems
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Primary author(s) of assessment^: Dedicated team within jurisdiction
+  - Primary author(s) of assessment^: International organization
+  - Primary author(s) of assessment^: Other, please specify
+  - Primary author(s) of assessment^: Consultant
+
+[1.1a fila 4] Provide details on your climate risk and vulnerability assessment.
+  - Confirm attachment/link provided to assessment (selection mandatory): Unable to provide an attachment and/or direct link to the assessment as it is not yet published
+  - Factors considered in assessment: None of the above
+  - Factors considered in assessment: Assessment includes sectors and/or urban systems
+  - Factors considered in assessment: Assessment includes a high-emissions scenario (i.e., RCP 8.5)
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: Other, please specify
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Primary author(s) of assessment^: National/ central government
+  - Primary author(s) of assessment^: Other, please specify
+  - Primary author(s) of assessment^: Regional/ state/ provincial government
+  - Primary author(s) of assessment^: Dedicated team within jurisdiction
+  - Primary author(s) of assessment^: Consultant
+  - Primary author(s) of assessment^: International organization
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+
+[1.1a fila 5] Provide details on your climate risk and vulnerability assessment.
+  - Confirm attachment/link provided to assessment (selection mandatory): Unable to provide an attachment and/or direct link to the assessment as it is not yet published
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: A process has been established to update the assessment at least every five years
+  - Factors considered in assessment: Assessment includes sectors and/or urban systems
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: None of the above
+  - Factors considered in assessment: Assessment includes a high-emissions scenario (i.e., RCP 8.5)
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Assessment includes consultation with partners
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Primary author(s) of assessment^: Regional/ state/ provincial government
+  - Primary author(s) of assessment^: Dedicated team within jurisdiction
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Hurricanes, cyclones, and/or typhoons
+  - Current probability of hazard^: Medium
+  - Current magnitude of impact of hazard^: Medium
+
+[1.2 fila 2] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Heavy precipitation
+  - Current probability of hazard^: Medium
+  - Current magnitude of impact of hazard^: Medium
+
+[1.2 fila 3] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Extreme heat
+  - Current probability of hazard^: Low
+  - Current magnitude of impact of hazard^: Low
+
+[1.2 fila 4] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Vulnerable population groups most exposed: Question not applicable
+  - Sectors most exposed^: Question not applicable
+  - Describe the impacts on vulnerable populations and sectors^: Question not applicable
+  - Proportion of the population exposed to the hazard: Question not applicable
+  - Did this hazard significantly impact your jurisdiction before this rep: Question not applicable
+  - Current probability of hazard^: Question not applicable
+  - Current magnitude of impact of hazard^: Question not applicable
+  - Expected future change in hazard intensity^: Question not applicable
+  - Expected future change in hazard frequency^: Question not applicable
+  - Timeframe of expected future changes^: Question not applicable
+
+[1.2 fila 5] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Vulnerable population groups most exposed: Question not applicable
+  - Sectors most exposed^: Question not applicable
+  - Describe the impacts on vulnerable populations and sectors^: Question not applicable
+  - Proportion of the population exposed to the hazard: Question not applicable
+  - Did this hazard significantly impact your jurisdiction before this rep: Question not applicable
+  - Current probability of hazard^: Question not applicable
+  - Current magnitude of impact of hazard^: Question not applicable
+  - Expected future change in hazard intensity^: Question not applicable
+  - Expected future change in hazard frequency^: Question not applicable
+  - Timeframe of expected future changes^: Question not applicable
+
+[1.2 fila 6] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Vulnerable population groups most exposed: Question not applicable
+  - Sectors most exposed^: Question not applicable
+  - Describe the impacts on vulnerable populations and sectors^: Question not applicable
+  - Proportion of the population exposed to the hazard: Question not applicable
+  - Did this hazard significantly impact your jurisdiction before this rep: Question not applicable
+  - Current probability of hazard^: Question not applicable
+  - Current magnitude of impact of hazard^: Question not applicable
+  - Expected future change in hazard intensity^: Question not applicable
+  - Expected future change in hazard frequency^: Question not applicable
+  - Timeframe of expected future changes^: Question not applicable
+
+[1.2 fila 7] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Vulnerable population groups most exposed: Question not applicable
+  - Sectors most exposed^: Question not applicable
+  - Describe the impacts on vulnerable populations and sectors^: Question not applicable
+  - Proportion of the population exposed to the hazard: Question not applicable
+  - Did this hazard significantly impact your jurisdiction before this rep: Question not applicable
+  - Current probability of hazard^: Question not applicable
+  - Current magnitude of impact of hazard^: Question not applicable
+  - Expected future change in hazard intensity^: Question not applicable
+  - Expected future change in hazard frequency^: Question not applicable
+  - Timeframe of expected future changes^: Question not applicable
+
+[1.2 fila 8] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Vulnerable population groups most exposed: Question not applicable
+  - Sectors most exposed^: Question not applicable
+  - Describe the impacts on vulnerable populations and sectors^: Question not applicable
+  - Proportion of the population exposed to the hazard: Question not applicable
+  - Did this hazard significantly impact your jurisdiction before this rep: Question not applicable
+  - Current probability of hazard^: Question not applicable
+  - Current magnitude of impact of hazard^: Question not applicable
+  - Expected future change in hazard intensity^: Question not applicable
+  - Expected future change in hazard frequency^: Question not applicable
+  - Timeframe of expected future changes^: Question not applicable
+
+[1.2 fila 9] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Vulnerable population groups most exposed: Question not applicable
+  - Sectors most exposed^: Question not applicable
+  - Describe the impacts on vulnerable populations and sectors^: Question not applicable
+  - Proportion of the population exposed to the hazard: Question not applicable
+  - Did this hazard significantly impact your jurisdiction before this rep: Question not applicable
+  - Current probability of hazard^: Question not applicable
+  - Current magnitude of impact of hazard^: Question not applicable
+  - Expected future change in hazard intensity^: Question not applicable
+  - Expected future change in hazard frequency^: Question not applicable
+  - Timeframe of expected future changes^: Question not applicable
+
+[1.2 fila 10] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Vulnerable population groups most exposed: Question not applicable
+  - Sectors most exposed^: Question not applicable
+  - Describe the impacts on vulnerable populations and sectors^: Question not applicable
+  - Proportion of the population exposed to the hazard: Question not applicable
+  - Did this hazard significantly impact your jurisdiction before this rep: Question not applicable
+  - Current probability of hazard^: Question not applicable
+  - Current magnitude of impact of hazard^: Question not applicable
+  - Expected future change in hazard intensity^: Question not applicable
+  - Expected future change in hazard frequency^: Question not applicable
+  - Timeframe of expected future changes^: Question not applicable
+
+[1.2 fila 11] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Vulnerable population groups most exposed: Question not applicable
+  - Sectors most exposed^: Question not applicable
+  - Describe the impacts on vulnerable populations and sectors^: Question not applicable
+  - Proportion of the population exposed to the hazard: Question not applicable
+  - Did this hazard significantly impact your jurisdiction before this rep: Question not applicable
+  - Current probability of hazard^: Question not applicable
+  - Current magnitude of impact of hazard^: Question not applicable
+  - Expected future change in hazard intensity^: Question not applicable
+  - Expected future change in hazard frequency^: Question not applicable
+  - Timeframe of expected future changes^: Question not applicable
+
+[1.2 fila 12] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Vulnerable population groups most exposed: Question not applicable
+  - Sectors most exposed^: Question not applicable
+  - Describe the impacts on vulnerable populations and sectors^: Question not applicable
+  - Proportion of the population exposed to the hazard: Question not applicable
+  - Did this hazard significantly impact your jurisdiction before this rep: Question not applicable
+  - Current probability of hazard^: Question not applicable
+  - Current magnitude of impact of hazard^: Question not applicable
+  - Expected future change in hazard intensity^: Question not applicable
+  - Expected future change in hazard frequency^: Question not applicable
+  - Timeframe of expected future changes^: Question not applicable
+
+[1.2 fila 13] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Vulnerable population groups most exposed: Question not applicable
+  - Sectors most exposed^: Question not applicable
+  - Describe the impacts on vulnerable populations and sectors^: Question not applicable
+  - Proportion of the population exposed to the hazard: Question not applicable
+  - Did this hazard significantly impact your jurisdiction before this rep: Question not applicable
+  - Current probability of hazard^: Question not applicable
+  - Current magnitude of impact of hazard^: Question not applicable
+  - Expected future change in hazard intensity^: Question not applicable
+  - Expected future change in hazard frequency^: Question not applicable
+  - Timeframe of expected future changes^: Question not applicable
+
+[1.2 fila 14] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Vulnerable population groups most exposed: Question not applicable
+  - Sectors most exposed^: Question not applicable
+  - Describe the impacts on vulnerable populations and sectors^: Question not applicable
+  - Proportion of the population exposed to the hazard: Question not applicable
+  - Did this hazard significantly impact your jurisdiction before this rep: Question not applicable
+  - Current probability of hazard^: Question not applicable
+  - Current magnitude of impact of hazard^: Question not applicable
+  - Expected future change in hazard intensity^: Question not applicable
+  - Expected future change in hazard frequency^: Question not applicable
+  - Timeframe of expected future changes^: Question not applicable
+
+[1.2 fila 15] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Vulnerable population groups most exposed: Question not applicable
+  - Sectors most exposed^: Question not applicable
+  - Describe the impacts on vulnerable populations and sectors^: Question not applicable
+  - Proportion of the population exposed to the hazard: Question not applicable
+  - Did this hazard significantly impact your jurisdiction before this rep: Question not applicable
+  - Current probability of hazard^: Question not applicable
+  - Current magnitude of impact of hazard^: Question not applicable
+  - Expected future change in hazard intensity^: Question not applicable
+  - Expected future change in hazard frequency^: Question not applicable
+  - Timeframe of expected future changes^: Question not applicable
+
+[1.2 fila 16] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Vulnerable population groups most exposed: Question not applicable
+  - Sectors most exposed^: Question not applicable
+  - Describe the impacts on vulnerable populations and sectors^: Question not applicable
+  - Proportion of the population exposed to the hazard: Question not applicable
+  - Did this hazard significantly impact your jurisdiction before this rep: Question not applicable
+  - Current probability of hazard^: Question not applicable
+  - Current magnitude of impact of hazard^: Question not applicable
+  - Expected future change in hazard intensity^: Question not applicable
+  - Expected future change in hazard frequency^: Question not applicable
+  - Timeframe of expected future changes^: Question not applicable
+
+[1.2 fila 17] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Vulnerable population groups most exposed: Question not applicable
+  - Sectors most exposed^: Question not applicable
+  - Describe the impacts on vulnerable populations and sectors^: Question not applicable
+  - Proportion of the population exposed to the hazard: Question not applicable
+  - Did this hazard significantly impact your jurisdiction before this rep: Question not applicable
+  - Current probability of hazard^: Question not applicable
+  - Current magnitude of impact of hazard^: Question not applicable
+  - Expected future change in hazard intensity^: Question not applicable
+  - Expected future change in hazard frequency^: Question not applicable
+  - Timeframe of expected future changes^: Question not applicable
+
+[1.2 fila 18] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Vulnerable population groups most exposed: Question not applicable
+  - Sectors most exposed^: Question not applicable
+  - Describe the impacts on vulnerable populations and sectors^: Question not applicable
+  - Proportion of the population exposed to the hazard: Question not applicable
+  - Did this hazard significantly impact your jurisdiction before this rep: Question not applicable
+  - Current probability of hazard^: Question not applicable
+  - Current magnitude of impact of hazard^: Question not applicable
+  - Expected future change in hazard intensity^: Question not applicable
+  - Expected future change in hazard frequency^: Question not applicable
+  - Timeframe of expected future changes^: Question not applicable
+
+[1.2 fila 19] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Vulnerable population groups most exposed: Question not applicable
+  - Sectors most exposed^: Question not applicable
+  - Describe the impacts on vulnerable populations and sectors^: Question not applicable
+  - Proportion of the population exposed to the hazard: Question not applicable
+  - Did this hazard significantly impact your jurisdiction before this rep: Question not applicable
+  - Current probability of hazard^: Question not applicable
+  - Current magnitude of impact of hazard^: Question not applicable
+  - Expected future change in hazard intensity^: Question not applicable
+  - Expected future change in hazard frequency^: Question not applicable
+  - Timeframe of expected future changes^: Question not applicable
+
+[3.8 fila 2] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: Areas outside the health sector
+  - Timeframe of impact: Short-term (by 2025)
+  - Comment: 事故发生，相关部门立即采取行动保障受影响群众的生命财产安全
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Percentage of households with access to safely managed drinking water : Question not applicable
+  - Percentage of households with access to safely managed sanitation serv: Question not applicable
+  - Household water consumption (litres/capita/day): Question not applicable
+
+[3.13 fila 1] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Fresh surface water, including rainwater, water from wetlands, rivers and lakes
+  - Annual volume of water withdrawn per source (in megalitres) : Question not applicable
+  - Projected level of change over next 5-10 years: Question not applicable
+
+[3.13 fila 2] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Fresh surface water, including rainwater, water from wetlands, rivers and lakes
+  - Annual volume of water withdrawn per source (in megalitres) : Question not applicable
+  - Projected level of change over next 5-10 years: Question not applicable
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: Yes, our jurisdiction has an adaptation goal(s)
+
+[4.1a fila 1] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 1
+  - Adaptation goal^: 完善城市能源、交通等领域基础设施建设
+
+[4.1a fila 2] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 2
+  - Adaptation goal^: 推进海绵城市建设
+
+[4.1a fila 3] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 3
+  - Adaptation goal^: 深化国家森林城市建设
+
+[4.1a fila 4] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 4
+  - Adaptation goal^: 提高农林牧渔业等气候敏感产业适应气候变化能力
+
+[4.1a fila 5] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 5
+  - Adaptation goal^: 增强海岸带适应能力
+
+[4.1a fila 6] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 6
+  - Adaptation goal^: 提高气象预测预报能力和防灾减灾能力
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: Yes, our jurisdiction has a climate action plan or strategy
+
+[7.1a fila 1] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Integrated climate plan (addressing mitigation, adaptation and energy-related issues)
+  - Confirm attachment/link provided to plan (selection mandatory): Unable to provide an attachment and/or direct link to the plan
+  - End year of plan: 2025
+
+[7.2 fila 1] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Air quality
+  - Current status of plan: In implementation
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2023
+  - End of year plan: 2025
+
+[7.2 fila 2] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Air quality
+  - Current status of plan: In implementation
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2023
+  - End of year plan: 2025
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project title: Question not applicable
+  - Stage of project development: Question not applicable
+  - Status of financing: Question not applicable
+  - Identified financing model: Question not applicable
+  - Project description and attach project proposal: Question not applicable
+  - Total cost of project (in currency specified in 0.1): Question not applicable
+  - Total investment cost needed if relevant (in currency specified in 0.1: Question not applicable
+
+[7.5 fila 2] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project title: Question not applicable
+  - Stage of project development: Question not applicable
+  - Status of financing: Question not applicable
+  - Identified financing model: Question not applicable
+  - Project description and attach project proposal: Question not applicable
+  - Total cost of project (in currency specified in 0.1): Question not applicable
+  - Total investment cost needed if relevant (in currency specified in 0.1: Question not applicable
+
+[7.5 fila 3] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project title: Question not applicable
+  - Stage of project development: Question not applicable
+  - Status of financing: Question not applicable
+  - Identified financing model: Question not applicable
+  - Project description and attach project proposal: Question not applicable
+  - Total cost of project (in currency specified in 0.1): Question not applicable
+  - Total investment cost needed if relevant (in currency specified in 0.1: Question not applicable
+
+[7.5 fila 4] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project title: Question not applicable
+  - Stage of project development: Question not applicable
+  - Status of financing: Question not applicable
+  - Identified financing model: Question not applicable
+  - Project description and attach project proposal: Question not applicable
+  - Total cost of project (in currency specified in 0.1): Question not applicable
+  - Total investment cost needed if relevant (in currency specified in 0.1: Question not applicable
+
+[7.5 fila 5] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project title: Question not applicable
+  - Stage of project development: Question not applicable
+  - Status of financing: Question not applicable
+  - Identified financing model: Question not applicable
+  - Project description and attach project proposal: Question not applicable
+  - Total cost of project (in currency specified in 0.1): Question not applicable
+  - Total investment cost needed if relevant (in currency specified in 0.1: Question not applicable
+
+[7.5 fila 6] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project title: Question not applicable
+  - Stage of project development: Question not applicable
+  - Status of financing: Question not applicable
+  - Identified financing model: Question not applicable
+  - Project description and attach project proposal: Question not applicable
+  - Total cost of project (in currency specified in 0.1): Question not applicable
+  - Total investment cost needed if relevant (in currency specified in 0.1: Question not applicable
+
+[7.5 fila 7] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project title: Question not applicable
+  - Stage of project development: Question not applicable
+  - Status of financing: Question not applicable
+  - Identified financing model: Question not applicable
+  - Project description and attach project proposal: Question not applicable
+  - Total cost of project (in currency specified in 0.1): Question not applicable
+  - Total investment cost needed if relevant (in currency specified in 0.1: Question not applicable
+
+[7.5 fila 8] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project title: Question not applicable
+  - Stage of project development: Question not applicable
+  - Status of financing: Question not applicable
+  - Identified financing model: Question not applicable
+  - Project description and attach project proposal: Question not applicable
+  - Total cost of project (in currency specified in 0.1): Question not applicable
+  - Total investment cost needed if relevant (in currency specified in 0.1: Question not applicable
+
+[7.5 fila 9] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project title: Question not applicable
+  - Stage of project development: Question not applicable
+  - Status of financing: Question not applicable
+  - Identified financing model: Question not applicable
+  - Project description and attach project proposal: Question not applicable
+  - Total cost of project (in currency specified in 0.1): Question not applicable
+  - Total investment cost needed if relevant (in currency specified in 0.1: Question not applicable
+
+[7.5 fila 10] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project title: Question not applicable
+  - Stage of project development: Question not applicable
+  - Status of financing: Question not applicable
+  - Identified financing model: Question not applicable
+  - Project description and attach project proposal: Question not applicable
+  - Total cost of project (in currency specified in 0.1): Question not applicable
+  - Total investment cost needed if relevant (in currency specified in 0.1: Question not applicable
+
+[7.5 fila 11] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project title: Question not applicable
+  - Stage of project development: Question not applicable
+  - Status of financing: Question not applicable
+  - Identified financing model: Question not applicable
+  - Project description and attach project proposal: Question not applicable
+  - Total cost of project (in currency specified in 0.1): Question not applicable
+  - Total investment cost needed if relevant (in currency specified in 0.1: Question not applicable
+
+[7.5 fila 12] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project title: Question not applicable
+  - Stage of project development: Question not applicable
+  - Status of financing: Question not applicable
+  - Identified financing model: Question not applicable
+  - Project description and attach project proposal: Question not applicable
+  - Total cost of project (in currency specified in 0.1): Question not applicable
+  - Total investment cost needed if relevant (in currency specified in 0.1: Question not applicable
+
+[7.5 fila 13] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project title: Question not applicable
+  - Stage of project development: Question not applicable
+  - Status of financing: Question not applicable
+  - Identified financing model: Question not applicable
+  - Project description and attach project proposal: Question not applicable
+  - Total cost of project (in currency specified in 0.1): Question not applicable
+  - Total investment cost needed if relevant (in currency specified in 0.1: Question not applicable
+
+[7.5 fila 14] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project title: Question not applicable
+  - Stage of project development: Question not applicable
+  - Status of financing: Question not applicable
+  - Identified financing model: Question not applicable
+  - Project description and attach project proposal: Question not applicable
+  - Total cost of project (in currency specified in 0.1): Question not applicable
+  - Total investment cost needed if relevant (in currency specified in 0.1: Question not applicable
+
+[7.5 fila 15] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project title: Question not applicable
+  - Stage of project development: Question not applicable
+  - Status of financing: Question not applicable
+  - Identified financing model: Question not applicable
+  - Project description and attach project proposal: Question not applicable
+  - Total cost of project (in currency specified in 0.1): Question not applicable
+  - Total investment cost needed if relevant (in currency specified in 0.1: Question not applicable
+
+[7.5 fila 16] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project title: Question not applicable
+  - Stage of project development: Question not applicable
+  - Status of financing: Question not applicable
+  - Identified financing model: Question not applicable
+  - Project description and attach project proposal: Question not applicable
+  - Total cost of project (in currency specified in 0.1): Question not applicable
+  - Total investment cost needed if relevant (in currency specified in 0.1: Question not applicable
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Action (selections mandatory)^: Ecological restoration (including wetland and floodplain conservation and restoration)
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 2] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Action (selections mandatory)^: Increasing biological diversity
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 3] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Action (selections mandatory)^: Afforestation and reforestation
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 4] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Storm and wastewater management
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 5] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Action (selections mandatory)^: Improved drainage
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 6] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Action (selections mandatory)^: Storm and wastewater management
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 7] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Action (selections mandatory)^: Improved drainage
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable

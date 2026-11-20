@@ -1,0 +1,1161 @@
+# CDP Cities 2023 - New Taipei City Government (org 56276) https://www.cdp.net/en/responses/56276
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: City/Municipality
+  - Next highest level of government: National
+  - Next lowest level of government: Sub-municipal district
+  - Land area of the jurisdiction boundary (in square km)^: 2053
+  - Percentage range of land area that is green space: >60%
+  - Current (or most recent) population size^: 4017000
+  - Population year^: 2023
+  - Projected population size: 3645000
+  - Projected population year: 2050
+  - Select the currency used for all financial information reported throug: TWD New Taiwan Dollar
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking plans and/or strategies
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when setting performance objectives
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking risk management policies
+  - Select the processes that reflect your jurisdiction's oversight of cli: Relevant departments, committees and/or subcommittees are informed by management about climate-related issues
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related responsibilities are assigned to a committee(s) or a subcommittee(s) in the government
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking budgeting and/or major capital expenditures
+  - Select the processes that reflect your jurisdiction's oversight of cli: Council (or equivalent) is informed by relevant departments, committees and/or subcommittees about climate-related issues
+  - Provide further details on your jurisdiction's oversight of climate-re: In response to international climate change and global warming, New Taipei City has been promoting climate change adaptation and mitigation, and in 2007 established the Low Carbon Community Development Center under the Environmental Protection Department, New Taipei City Government - the first local government in Taiwan to establish an independent center to implement carbon emission reduction measures.In 2016, the city government established an interdepartmental "Climate Change Mitigation and Adaptation Promotion Group" consisting of 17 departments to jointly discuss strategies to reduce greenhouse gasses in response to climate change, which was expanded and transformed into the "New Taipei City Climate Change and Energy Countermeasures Implementation Committee" in 2020, and changed into New Taipei City Climate Change Response Steering Groups in 2023. The Committee integrates the resourc
+  - Describe how climate-related issues have impacted your jurisdiction's : In order to manage its land use in a sustainable manner, the City has established the New Taipei City Land Plan, which is reviewed every five years and continues to adapt to climate change and resource use and management through this plan.  Under the objective of sustainable development of the National Land Plan,  the planning strategy of the New Taipei City Regional Plan to guide urban and rural development and the spatial layout of the Three Rings and Six Lines of the MRT network is converged, and through the perspective of sustainable development of life, ecology, production and living, environmentally sensitive areas and excellent agricultural land are maintained, and an excellent environment for industrial development, residential space and a perfect public facility system is created to improve the disaster prevention and response capability of urban and rural areas. Through the dev
+  - Describe how climate-related issues have impacted your jurisdiction's : The New Taipei City Government has proposed 80 net-zero carbon projects  actively participate in sustainable development. The 80 projects are tracked by the Executive Committee on Climate Change and Energy Policy, and the progress is updated quarterly. Beyond that, there is no additional investment for the implementation of the New Taipei City 2050 Net Zero Roadmap and Climate Action White Paper.
+  - Describe the risks to your jurisdiction related to the transition to a: 1. Low carbon equipment market risksIn the early stages of the transition to a low-carbon economy, the market for energy-efficient products is not fully developed, a large among of capital is needed, and other city policy budgets are being crowded out.In implementing its low-carbon transition, the city government introduced the Energy Service Company (ESCO) model and the Private Finance Initiative (PFI) model to reduce the city government’s initial financial burden and the risk of large capital investment.Taking the replacement of equipment LED lights for example: instead of budgeting for the purchase, the government will first provide the replacement service through the provider and use the electricity savings to pay the energy technology service provider. They will replace the lights in the community parking lots and schools with LED lights, using the ESCO model, and replace the street
+
+[0.4 fila 1] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate mitigation target
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Outline the purpose of this engagement: Progress tracking and/or updates associated with this component are shared with a higher-level of government (e.g., via a digital platform)
+  - Outline the purpose of this engagement: To facilitate capacity building across different levels of government
+  - Comment: The total budget for the Sanying Line, Danhai LRT and Ankeng LRT is NT$82.1 billion, of which the central government subsidizes NT$20.3 billion. In addition, the feasibility study report of the Bali LRT has been processed in 2021 and submitted to the Ministry of Transportation for presentation to the Executive Yuan for consideration, and construction is expected to begin in 2025.The construction of the New Taipei Circular Line will significantly reduce the number of passenger transfers, save travel time, and increase the public's willingness to use public transportation. By linking the "points" of each station along the "lines" of development, and then contributing to the "surface" of large development areas, New Taipei City is gradually shaping into a TOD (Transit-Oriented Development) city. A multi-layered and complete public transportation system is being established with "walking or 
+
+[0.4 fila 2] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate mitigation target
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Outline the purpose of this engagement: To facilitate capacity building across different levels of government
+  - Comment: Since 2014, the central government (The Environmental Protection Administration) has been working with city governments to encourage villages to participate in the "Certification Program for Low Carbon Sustainable Homeland" to build the capacity of residents to take action to mitigate and adapt to climate change and to live a low-carbon lifestyle.  This certification can raise the awareness of environmental protection and the concept of energy saving and carbon reduction, accumulate the outcomes from bottom to top, and guide residents to implement a low carbon lifestyle from top to bottom.A number of low-carbon sustainability initiatives in New Taipei City are working well, such as phasing out indoor lighting, protecting wetlands and urban ponds, storing and reusing rainwater, promoting community gardens, and encouraging wall plantings or green hedges, etc. These initiatives are being re
+
+[0.4 fila 3] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate mitigation target
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the Nationally Determined Contribution (NDC)
+  - Comment: In order to implement the policy goals of energy saving, carbon reduction, and green transportation, and to provide a more comfortable transportation and living environment for the public, in line with the Executive Yuan's "2030 Urban Bus Electrification" policy in the year 2017, we are encouraging bus operators to purchase electric buses, and we are planning to increase the subsidy amount for the replacement of electric buses with low-floor buses, and to obtain subsidies from the Ministry of Transportation. We have already added 36 new electric buses in 2021 for the city and expect to add 40 new buses each year from 2022 to 2025.In 2011, New Taipei City Government established the "New Taipei City Government Green Bus Subsidy Rules" and launched the first electric buses in Taiwan. The rules regulate subsidies for electric buses and clean fuel buses (fueled by natural gas, dual fuel oil, 
+
+[0.4 fila 4] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate mitigation target
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Outline the purpose of this engagement: Other, please specify: Promoting the use of shared transportation by local governments.
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the Nationally Determined Contribution (NDC)
+  - Comment: New Taipei City and Taipei City, commonly known as the Twin Taipei or the Greater Taipei Metropolitan Area, are closely related in many ways, including politics, economics, living, schooling, and work. Of course, in transportation is no exception, public bike YouBike plays the role of the first mile and the last mile of public transportation into the life of the public, and still continues to build and expand the number of stations. Since 2014, more than 669 YouBike 1.0 stations have been installed in New Taipei City. There are over 1104 YouBike 2.0 stations and a total of 28,647 public bicycles plying the streets of New Taipei City. We hope that by promoting the use of bicycles as a short-haul transportation mode and the seamless transfer function of public transportation system stations, the public will be encouraged to use low-cost, energy-free, and zero-pollution means of transportat
+
+[0.4 fila 5] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate mitigation target
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the Nationally Determined Contribution (NDC)
+  - Comment: In 2021, the "New Taipei Safe Business Epidemic Prevention and Energy-Saving Measures Subsidy" program was launched to provide subsidies to local businesses and service providers for installing PVC door curtains and ceiling fans. PVC door curtains can separate indoor and outdoor spaces or front and back counter areas, effectively preventing droplet transmission and air conditioning leakage. Ceiling fans promote indoor air circulation and energy efficiency, saving 18% of air conditioning energy consumption. This program subsidized a total of 95 applications, with an estimated annual electricity saving of 999,470 kWh.In 2022, the "New Taipei Service Industry Insulation Equipment Subsidy" program was introduced, providing subsidies to local service providers for purchasing "air curtains," "ceiling fans," and "glass insulation improvements." The subsidy amount can reach up to 50%, with a max
+
+[0.5 fila 1] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): NGO and associations
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Requirement to develop and implement emissions reduction target
+  - Mechanisms used to collaborate: Cleaner production industry support
+  - Mechanisms used to collaborate: Policy and regulation development/ implementation
+  - Mechanisms used to collaborate: Climate action plan implementation
+  - Mechanisms used to collaborate: Project implementation and management
+  - Mechanisms used to collaborate: Nationally Determined Contribution (NDC) development/ implementation
+  - Mechanisms used to collaborate: Circular economy business model support
+  - Areas collaboration focused on: Inclusive climate action and/or equity
+  - Areas collaboration focused on: Building and Infrastructure
+  - Areas collaboration focused on: Water
+  - Areas collaboration focused on: Landscape and jurisdictional approaches
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Forestry
+  - Areas collaboration focused on: Waste
+  - Areas collaboration focused on: Agriculture
+  - Areas collaboration focused on: Food
+  - Areas collaboration focused on: Public health
+  - Areas collaboration focused on: Finance
+  - Areas collaboration focused on: Education
+  - Areas collaboration focused on: Social Services
+  - Areas collaboration focused on: Industry
+  - Areas collaboration focused on: Adaptation
+  - Areas collaboration focused on: Transport (Mobility)
+  - Areas collaboration focused on: Resilience
+  - Areas collaboration focused on: Emissions reduction
+  - Description of collaboration: The members of the "New Taipei City Climate Change Response Steering Groups" consist of representatives from social organizations, experts and academics, industry representatives, and agency representatives to give advice on the city’s climate change mitigation and adaptation actions. The representatives of social groups are composed of members of the more representative civic groups in Taiwan, including the Green Citizen Action Coalition, Green Peace, and the Taiwan Youth Climate Coalition. “New Taipei City Climate Change Response Steering Groups” invites at least one representative of the public to give their opinion from the public’s point of view when it convenes its annual general meeting or when the 4 groups meet twice a year, and incorporates their opinions into the decision-making process.
+  - Other entities collaborated with: Other, please specify: Representatives from the industries (including representatives from disaster prevention, energy saving and transportation)
+  - Other entities collaborated with: Academia
+  - Other entities collaborated with: NGO and associations
+
+[0.5 fila 2] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Primary entity collaborated with (selection mandatory): NGO and associations
+  - Mechanisms used to collaborate: Climate action plan implementation
+  - Mechanisms used to collaborate: Other, please specify: environmental activities
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Education
+  - Description of collaboration: Since 2014, the New Taipei City Government has been responding to the Earth Hour campaign initiated by the World Wide Fund for Nature (WWF). This initiative invites public and private organizations to join the lights-off movement. In 2023, the New Taipei City Government building, various public agencies, 138 low-carbon communities, 9 environmental education facilities in New Taipei City, and 11 major business districts participated in this event by turning off unnecessary lighting and electrical equipment.
+  - Other entities collaborated with: Consumer Staples
+  - Other entities collaborated with: Education sector
+  - Other entities collaborated with: Residents/community groups
+  - Other entities collaborated with: Climate initiatives/networks
+
+[0.5 fila 3] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Primary entity collaborated with (selection mandatory): NGO and associations
+  - Mechanisms used to collaborate: Climate action plan implementation
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Water
+  - Areas collaboration focused on: Social Services
+  - Areas collaboration focused on: Resilience
+  - Areas collaboration focused on: Adaptation
+  - Areas collaboration focused on: Natural environment
+  - Areas collaboration focused on: Ecosystem restoration
+  - Areas collaboration focused on: Education
+  - Areas collaboration focused on: Forestry
+  - Areas collaboration focused on: Emissions reduction
+  - Areas collaboration focused on: Waste
+  - Areas collaboration focused on: Landscape and jurisdictional approaches
+  - Areas collaboration focused on: Agriculture
+  - Areas collaboration focused on: Building and Infrastructure
+  - Areas collaboration focused on: Industry
+  - Areas collaboration focused on: Food
+  - Areas collaboration focused on: Transport (Mobility)
+  - Description of collaboration: Deputy Mayor of the City, Mr. Hsieh Cheng-Ta, became a member of the ICLEI East Asia Executive Committee for 2021-2024 in the area of Climate Adaptation and Urban Resilience, and the City actively participated in ICLEI meetings and conferences and the following activities in 2021:1. Participate in “Daring Cities 2021”At the invitation of Gino Van Begin, World Secretary of the ICLEI, and Katja Dörner, Mayor of Bonn, Germany, Deputy Mayor Hsieh Cheng-Ta attended the “Daring Cities 2021 - Global Online Forum for City Leaders on Climate Emergencies” on October 4, 2021, German time, to share experiences in dealing with climate change and energy transition issues at the “Climate Emergency Action Day” online conference, and to share their responsibilities for carbon reduction with other global cities. 2. Participating in the 2021 and 2022 ICLEI East Asia Executive Committee MeetingDeputy Mayor 
+  - Other entities collaborated with: Local government within country/area
+  - Other entities collaborated with: Local government outside of country/area
+  - Other entities collaborated with: Neighboring local government
+
+[0.5 fila 4] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Business
+  - Primary entity collaborated with (selection mandatory): Other, please specify: manufacturing industry
+  - Mechanisms used to collaborate: Climate action plan implementation
+  - Mechanisms used to collaborate: Other, please specify: Permit control of pollution sources, counseling, consultation
+  - Mechanisms used to collaborate: Financing (investment)
+  - Mechanisms used to collaborate: Funding (grants)
+  - Mechanisms used to collaborate: Circular economy business model support
+  - Mechanisms used to collaborate: Policy and regulation development/ implementation
+  - Mechanisms used to collaborate: Cleaner production industry support
+  - Areas collaboration focused on: Emissions reduction
+  - Areas collaboration focused on: Other, please specify: manufacturing industry
+  - Description of collaboration: To encourage the transformation of coal-fired boilers to gas-fired boilers, the New Taipei City Government subsidized each boiler with NT$500,000 and laid natural gas pipelines to accelerate the transformation of industries within its jurisdiction. In recent years, there has been a rise in awareness of environmental protection and public support for coal-fired retirement policies. The industry recognizes the importance of environmental protection and is willing to cooperate. The public sector is using feasible control techniques and subsidies to accelerate environmental justice.1. Stopped the approval of coal mine permit, and the coal-fired boiler was completely phased out. The existing coal-fired license was issued for 2019/12/31, and the coal-fired boiler was completely replaced by 2020. The city subsidies for the replacement of natural gas equipment for operators with coal use permits
+  - Other entities collaborated with: Utilities
+
+[0.5 fila 5] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Business
+  - Primary entity collaborated with (selection mandatory): Real Estate
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Other, please specify: Industries response to government policies
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: City business partnership platform
+  - Areas collaboration focused on: Emissions reduction
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Building and Infrastructure
+  - Description of collaboration: 1. According to the analysis of New Taipei City’s 2020 greenhouse gas inventory data, greenhouse gas emissions from the construction sector account for about 40% of the city’s total greenhouse gas emissions. New Taipei City launched the “New Taipei Energy-Saving E-House Project” in 2022. The E in “E-House Project” stands for “energy efficiency” – to put an emphasis on good houses that focus on energy efficiency, where the source efficiency is marked by a grading scale. By partnering with real estate agents, communities with excellent energy savings are posted on the real estate agent’s home sales website so the public can learn about the performance of the buildings in the community when purchasing or renting a home.2. The “New Taipei Energy-Saving E-House Project” converts the energy consumption of public utilities from the energy consumption density of public utilities (EUI for short),
+  - Other entities collaborated with: Residents/community groups
+
+[0.5 fila 6] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): Residents/community groups
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Technical assistance
+  - Mechanisms used to collaborate: Financing (investment)
+  - Areas collaboration focused on: Building and Infrastructure
+  - Areas collaboration focused on: Emissions reduction
+  - Description of collaboration: Encouraging or subsidizing the gradual introduction of innovation, smart technology and the establishment of energy management in buildings(1) Action plan highlights:To conduct a demonstration program for the promotion of residential smart electricity consumption, and to install smart meters in households or community communal areas by the management committee.(2) Year-by-year target:A. Year 2021: 10 households (starting year)B. Years 2021-2025: 80 households per year(3) Results for year 2021:Subsidization of 21 community utility areas for setting up electricity meters and providing operation mode or equipment retirement suggestions has been approved. The estimated energy saving potential can reach 33,747 kWh/year, equivalent to reducing greenhouse gas emissions by 14.14 tons of CO2e/year and saving energy costs by NT$121,964/year, with the community utility EUI value possibly being redu
+  - Other entities collaborated with: Other, please specify: Property Management Companies
+
+[0.5 fila 7] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): Consumer Discretionary
+  - Primary entity collaborated with (selection mandatory)_G: Business
+  - Mechanisms used to collaborate: Circular economy business model support
+  - Mechanisms used to collaborate: Project implementation and management
+  - Mechanisms used to collaborate: Other, please specify: Waste reduction and helping the vulnerable groups
+  - Areas collaboration focused on: Social Services
+  - Areas collaboration focused on: Food
+  - Description of collaboration: The changes in people's living habits and economic environment in recent years have led to an increase in the quantity and variety of surplus materials year after year. In order to reuse resources and reduce waste of resources, an action strategy based on the public market, the principle of cross-agency integration, and private and public cooperation hereby have been adopted so that surplus resources can be effectively distributed to the disadvantaged. Since the year 2016, a food sharing network, which is implemented as follows, has been established.1. Constructing a public welfare-oriented resource supply and demand networkThrough cross-departmental cooperation, the city government has integrated the concept of food conservation into its existing policies to promote and publicize the concept of food conservation at the industry and educational levels.In cooperation with fruit and vegeta
+  - Other entities collaborated with: Food & Beverage
+  - Other entities collaborated with: Other, please specify: Marketing, social welfare organizations
+  - Other entities collaborated with: Vulnerable population groups
+  - Other entities collaborated with: Education sector
+  - Other entities collaborated with: NGO and associations
+
+[0.5 fila 8] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Primary entity collaborated with (selection mandatory): NGO and associations
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Areas collaboration focused on: Education
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Waste
+  - Areas collaboration focused on: Emissions reduction
+  - Description of collaboration: There are more than 5,000 organizations in the city. The city government actively trains the chairmen, directors and supervisors of people's organizations to become "community navigators" to serve as a bridge between the government and the people's organizations (citizens), and to assist the government in community counseling and policy advocacy. In 2022, the New Taipei City Association Navigators' Day Electricity Public Program was held. Through the leaders of organizations, we promote the concept of energy saving, carbon reduction and electricity saving to their respective clubs, communities and the general public, to strengthen people's awareness of energy saving and carbon reduction, and to fully understand the national energy policy. It is expected that by the end of September 2022, there will be about 200 sessions and at least 6,000 visits.
+  - Other entities collaborated with: Other, please specify: none
+
+[0.5 fila 9] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): Other, please specify: Hotel Industry
+  - Primary entity collaborated with (selection mandatory)_G: Business
+  - Mechanisms used to collaborate: City business partnership platform
+  - Mechanisms used to collaborate: Technical assistance
+  - Mechanisms used to collaborate: Climate action plan implementation
+  - Areas collaboration focused on: Emissions reduction
+  - Areas collaboration focused on: Waste
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Water
+  - Description of collaboration: The “Counseling and Practical Training for Hotel Industry Practitioners” project is being implemented, and the industry is encouraged to use energy-saving and carbon-reducing devices and to obtain the “New Taipei Excellent Hotel” label of the Council’s Quality Inn or the gold-level environmental label of Environmental Protection Department(including waste reduction, water conservation and energy conservation aspects). In the future, for the aforementioned owners who have been awarded the seal, priority will be given to those who are recommended by the city for lodging and marketing activities.
+  - Other entities collaborated with: Other, please specify: none
+
+[0.5 fila 10] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): Residents/community groups
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Mechanisms used to collaborate: City business partnership platform
+  - Areas collaboration focused on: Transport (Mobility)
+  - Areas collaboration focused on: Emissions reduction
+  - Description of collaboration: Since 2016, in order to meet the demand for future electric motorcycles, the New Taipei City Government has collaborated with electric motorcycle exchange station operators through mechanisms such as public land leasing and matching with private land. They have established battery exchange stations in various districts throughout the city. As of April 2023, a total of 699 stations have been built in collaboration with operators. Among them, the total number of operation stations established by the New Taipei City government is 152, making it the top-ranking city in the country in terms of the proportion of public-private cooperation in setting up these stations.
+  - Other entities collaborated with: Other, please specify: NO
+
+[0.5 fila 11] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): Residents/community groups
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Mechanisms used to collaborate: Policy and regulation development/ implementation
+  - Mechanisms used to collaborate: Development of local/regional adaptation plans, National Adaptation Plans and/or National Adaptation Programmes of Action (NAPAs)
+  - Mechanisms used to collaborate: City business partnership platform
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Capacity development
+  - Areas collaboration focused on: Resilience
+  - Areas collaboration focused on: Social Services
+  - Areas collaboration focused on: Transport (Mobility)
+  - Areas collaboration focused on: Adaptation
+  - Areas collaboration focused on: Emissions reduction
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Inclusive climate action and/or equity
+  - Description of collaboration: For urban sustainability, New Taipei City took the lead in 2019 by issuing Taiwan's first "2021 New Taipei SDGs Voluntary Local Review." In 2022, they further presented the "New Taipei City 2050 Net Zero Roadmap and Climate Action White Paper." In response to global energy transition concerns, the city government requested each department to formulate policy directions. To ensure that industries are on the right path, the "2022 Sustainable City Symposium - Zero Carbon Transformation, New Taipei Leading the Way" was held.This event focused on three main themes: "Transforming New Taipei, Green Transportation, Sustainable Living." The Taiwan Power Company Research Institute provided insights into how New Taipei City can keep up with energy transition challenges. The CEO of WeMo Scooter discussed the revolutionary era of green transportation, and the Chairman of the Green Industry Alliance p
+  - Other entities collaborated with: Other, please specify: Transportation industry
+  - Other entities collaborated with: Energy
+
+[0.5 fila 12] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Primary entity collaborated with (selection mandatory): Residents/community groups
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: City business partnership platform
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Development of local/regional adaptation plans, National Adaptation Plans and/or National Adaptation Programmes of Action (NAPAs)
+  - Areas collaboration focused on: Adaptation
+  - Areas collaboration focused on: Resilience
+  - Areas collaboration focused on: Natural environment
+  - Areas collaboration focused on: Social Services
+  - Areas collaboration focused on: Emissions reduction
+  - Areas collaboration focused on: Inclusive climate action and/or equity
+  - Areas collaboration focused on: Waste
+  - Description of collaboration: People can sort their recyclable materials generated at home and bring them to the "Recycling Rewards Service System" at the neighborhood office. They can exchange the points they earn for dedicated garbage bags or environmentally friendly products. The neighborhood leaders sell the collected materials, and the proceeds are used for public welfare purposes such as community development or emergency assistance.The achievements from 2011 to 2023 are as follows:1. A total of 336 Recycling Rewards Service System stations were established.2. A total of 284,366 metric tons of recyclable materials were collected.3. Approximately NT$689.45 million was added to the construction fund of New Taipei City, which was used for green beautification, environmental sanitation improvement, and social care.4. People exchanged rewards worth over NT$806.42 million for environmentally friendly products.5. The 
+  - Other entities collaborated with: Consumer Discretionary
+
+[0.5 fila 13] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Primary entity collaborated with (selection mandatory): Residents/community groups
+  - Mechanisms used to collaborate: City business partnership platform
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Capacity development
+  - Areas collaboration focused on: Inclusive climate action and/or equity
+  - Areas collaboration focused on: Social Services
+  - Areas collaboration focused on: Landscape and jurisdictional approaches
+  - Areas collaboration focused on: Resilience
+  - Areas collaboration focused on: Emissions reduction
+  - Areas collaboration focused on: Adaptation
+  - Description of collaboration: Taiwan is located in the Pacific Ring of Fire and experiences a subtropical island climate prone to typhoon impacts. In 2012, the city established the "Disaster Prevention and Awareness Interactive Website" to provide real-time disaster information to the public. This includes updates on heavy rainfall, flooding, landslides, COVID-19, water supply suspension, road closures, and shelter locations, among others.In May 2021, the website underwent a redesign to optimize its layout and enhance interaction with the public through social sharing features. This enables more effective communication of disaster prevention and response information.
+  - Other entities collaborated with: Other, please specify: NO
+
+[0.5 fila 14] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Government/Public body
+  - Primary entity collaborated with (selection mandatory): Neighboring local government
+  - Mechanisms used to collaborate: Other, please specify: Cross-area cooperation with other county and municipal governments
+  - Mechanisms used to collaborate: Multi-jurisdictional regional collaboratives
+  - Mechanisms used to collaborate: Circular economy business model support
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Areas collaboration focused on: Social Services
+  - Areas collaboration focused on: Resilience
+  - Areas collaboration focused on: Inclusive climate action and/or equity
+  - Areas collaboration focused on: Emissions reduction
+  - Description of collaboration: The New Taipei City Government collaborates with Taipei City's movable property lending institution to auction various furniture and vehicles that are no longer in use by the city government through the "Taipei Treasure Exchange Network." This includes items such as cars, televisions, computers, desks, and chairs, which are made available for purchase and reuse by the public. Simultaneously, it also generates additional revenue for the city government's treasury. The "Taipei Treasure Exchange Network" is a cross-domain collaboration among county and city governments, with a total of 4,100 government agencies nationwide participating in the initiative.
+  - Other entities collaborated with: Residents/community groups
+
+[0.5 fila 15] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Business
+  - Primary entity collaborated with (selection mandatory): Industry trade group
+  - Mechanisms used to collaborate: Technical assistance
+  - Mechanisms used to collaborate: Labour market training initiatives
+  - Mechanisms used to collaborate: City business partnership platform
+  - Mechanisms used to collaborate: Multi-jurisdictional regional collaboratives
+  - Mechanisms used to collaborate: Financing (investment)
+  - Mechanisms used to collaborate: Convening industry groups
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Trade union engagement
+  - Mechanisms used to collaborate: Economic development
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Areas collaboration focused on: Social Services
+  - Areas collaboration focused on: Resilience
+  - Areas collaboration focused on: Emissions reduction
+  - Areas collaboration focused on: Finance
+  - Areas collaboration focused on: Adaptation
+  - Areas collaboration focused on: Inclusive climate action and/or equity
+  - Description of collaboration: In 2023, New Taipei City established the first-ever "New Taipei Net Zero Carbon Health Check Center" in the country to assist businesses in establishing carbon assessments and decarbonization strategies.The New Taipei Carbon Health Check Center leverages resources from central government agencies responsible for industry, energy, and finance, the Taiwan Institute of Certified Public Accountants, the New Taipei City Green Energy Industry Alliance, major trade associations, and inspection companies. Through initiatives such as industrial energy efficiency enhancement, energy-saving upgrades, subsidies for renewable energy, incentives for volumetric energy management in New Taipei industrial zones, guidance and project loans from the Industrial Development Bureau for low-carbon transformation, green finance action plans, consultations on carbon reduction programs from central government dep
+  - Other entities collaborated with: National government
+  - Other entities collaborated with: Trade/labor unions
+  - Other entities collaborated with: Consumer Staples
+  - Other entities collaborated with: Construction
+  - Other entities collaborated with: Financials
+  - Other entities collaborated with: Information Technology
+  - Other entities collaborated with: Materials
+  - Other entities collaborated with: Food & Beverage
+  - Other entities collaborated with: Industry trade group
+  - Other entities collaborated with: NGO and associations
+  - Other entities collaborated with: Real Estate
+  - Other entities collaborated with: Energy
+  - Other entities collaborated with: Industrials
+  - Other entities collaborated with: Health Care
+  - Other entities collaborated with: Consumer Discretionary
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: Yes, a climate risk and vulnerability assessment has been undertaken
+
+[1.1a fila 1] Provide details on your climate risk and vulnerability assessment.
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2022
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Assessment includes sectors and/or urban systems
+  - Factors considered in assessment: Assessment includes a high-emissions scenario (i.e., RCP 8.5)
+  - Factors considered in assessment: Assessment considers transition risks
+  - Factors considered in assessment: Assessment includes consultation with partners
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Primary author(s) of assessment^: Consultant
+  - Please explain: To enhance the climate resilience and adaptation capacity of the urban system, New Taipei City has implemented 16 action plans. These include implementing control mechanisms for hillside development, establishing disaster warning systems, constructing river environmental information and pollution alert monitoring systems, implementing real-time monitoring systems (comprehensive disaster-type intelligent command and control center), and creating low-carbon sustainable communities. These actions aim to improve the regional environmental adaptation capacity, utilize technology for comprehensive disaster prevention and response, and foster community-based adaptation as the three major strategies to create a resilient and livable city.
+
+[1.1a fila 2] Provide details on your climate risk and vulnerability assessment.
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2016
+  - Factors considered in assessment: Assessment considers transition risks
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Assessment includes a high-emissions scenario (i.e., RCP 8.5)
+  - Factors considered in assessment: Assessment includes sectors and/or urban systems
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: Assessment considers water security
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Primary author(s) of assessment^: Consultant
+  - Please explain: New Taipei City, with its vast territory and large population, shoulders significant responsibilities in addressing climate change issues. Since 2016, the concept of climate change adaptation has been integrated into the city's regional planning, taking into account the future urban development of New Taipei City. In November 2020, the city officially signed the Climate Emergency Declaration, presenting the "2030 Climate Vision," and planned to establish the Climate Change and Energy Strategy Implementation Committee, which later transformed into the New Taipei City Climate Change Response Steering Groups in 2023. The aim is to build the city's mitigation and adaptation capabilities. The Steering Groups were approved on January 10, 2021 and include the "Resilience Adaptation Team" task force, focused on strengthening adaptation capacity, enhancing resilience, and reducing vulnerability t
+
+[1.1a fila 3] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: https://www.planning.ntpc.gov.tw/home.jsp?id=7e847f161244df23&act=be4f48068b2b0031&dataserno=5046ba3b5376d5904b02bf6d9b0ef504
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2021
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: A process has been established to update the assessment at least every five years
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Assessment includes a high-emissions scenario (i.e., RCP 8.5)
+  - Factors considered in assessment: Assessment considers transition risks
+  - Factors considered in assessment: Assessment includes sectors and/or urban systems
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: Assessment considers nature
+  - Primary author(s) of assessment^: Consultant
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Please explain: New Taipei City Land ProjectIn order to implement land conservation and to guide the sustainable use of urban and rural areas, the City has formulated the New Taipei City Land Plan, which is a statutory plan to guide the City's major development and urban planning, and to establish land use principles for urban and rural development in accordance with national regional plans.In response to climate change, the plan has set 8 strategic goals for adaptation and the six major principles of the adaptation plan, namely "mastering basic maps," "enacting relevant ordinances," "increasing the number of urban green spaces," "mitigating the heat island effect," "implementing the concept of a permeable city," and "promoting wind environment control.", to create an excellent environment for industrial development, residential space and a perfect public facility system and to improve the disaster prev
+
+[1.1a fila 4] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: https://www.tamsui.ntpc.gov.tw/userfiles/3120400/files/%E6%96%B0%E5%8C%97%E5%B8%82%E5%9C%B0%E5%8D%80%E7%81%BD%E5%AE%B3%E9%98%B2%E6%95%91%E8%A8%88%E7%95%AB.pdf
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment can be accessed (unrestricted) on the link provided
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2021
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: Assessment includes sectors and/or urban systems
+  - Factors considered in assessment: A process has been established to update the assessment at least every five years
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Assessment considers nature
+  - Factors considered in assessment: Assessment considers water security
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Primary author(s) of assessment^: Consultant
+  - Please explain: The City has established the “New Taipei City Regional Disaster Prevention and Relief Plan” to identify the types of disasters, characteristics of various types of disasters, historical cases, analysis of disaster potential (or survey of disaster-prone population), situation simulation, disaster prevention and relief planning, disaster mitigation measures and promotion, etc., and to review and revise the plan every two years so that the regional disaster prevention and relief plan can accurately meet the current situation of disaster prevention and relief in the City.
+
+[1.1a fila 5] Provide details on your climate risk and vulnerability assessment.
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2020
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Factors considered in assessment: Assessment includes sectors and/or urban systems
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Assessment considers nature
+  - Primary author(s) of assessment^: Consultant
+  - Primary author(s) of assessment^: Relevant department within jurisdiction
+  - Please explain: In response to climate change phenomena such as rising temperatures, extreme high temperatures, and extreme rainfall, New Taipei City analyzed the possible future climate impacts and the issues arising from them, and collaborated with other city government bureaus such as the Fire Department, Agriculture Department, Education Department, Water Resources Department, Social Welfare Department, Department of Health, Department of Environmental Protection, Department of Urban and Rural Affairs, and Public Works Department to develop 23 mitigation and adaptation strategies focusing on the key areas of “disaster” and “health” as well as the priority areas of “land use” and “energy supply and industry.
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Extreme heat
+  - Vulnerable population groups most exposed: Frontline workers
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Indigenous peoples
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Construction
+  - Sectors most exposed^: Forestry
+  - Sectors most exposed^: Fishing
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Water supply
+  - Describe the impacts on vulnerable populations and sectors^: Regarding the phenomena and trends of climate change, as assessed in IPCC AR6, the estimated global surface warming caused by human activities from 1850-1900 to 2010-2019 is 1.07°C (0.8°C-1.3°C). Various greenhouse gases are responsible for approximately 1.0°C-2.0°C of warming, while other human-driven factors such as aerosols have led to a cooling effect of 0-0.8°C. Natural drivers have influenced surface temperature changes within the range of -0.1°C to +0.1°C. Climate change, such as extreme heat, has impacts on the emergence of new types of diseases, which may pose challenges for timely responses by certain medical institutions and organizations in specific regions.New forms of diseases are affected by climate change (e.g., extreme high temperatures) and can lead to a variety of patterns that may not be addressed in a timely manner by medical institutions and units in some areas. As 
+  - Proportion of the population exposed to the hazard: 30-40%
+  - Did this hazard significantly impact your jurisdiction before this rep: No
+  - Current probability of hazard^: Medium
+  - Current magnitude of impact of hazard^: Medium
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Long-term (after 2050)
+
+[1.2 fila 2] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Drought
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Indigenous peoples
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Frontline workers
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Forestry
+  - Sectors most exposed^: Water supply
+  - Describe the impacts on vulnerable populations and sectors^: Regarding the phenomena and trends of climate change, as assessed in IPCC AR6, it is projected that with further warming, each region will experience an increasing number of events driven by multiple climate influences. Compound heatwaves, heavy rainfall, and droughts are expected to become more frequent. The probability of extreme sea-level events that historically occurred once in a century is increasing. Tropical cyclones or extratropical storms may intensify, and droughts and wildfires are likely to increase.New Taipei City is located in a subtropical region, adjacent to the coast. Based on the downscaled information from the Taiwan Climate Change Projection and Information Platform (TCCIP) using AR6 data, it is estimated that future disasters that pose the greatest risks to vulnerable populations in the city include heatwaves and damage to infrastructure caused by storms. High tempe
+  - Proportion of the population exposed to the hazard: <10%
+  - Did this hazard significantly impact your jurisdiction before this rep: No
+  - Current probability of hazard^: Medium
+  - Current magnitude of impact of hazard^: Medium
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Long-term (after 2050)
+
+[1.2 fila 3] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Urban flooding
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Elderly
+  - Sectors most exposed^: Human health and social work activities
+  - Describe the impacts on vulnerable populations and sectors^: According to the "New Taipei City Regional Disaster Prevention and Relief Plan", in recent years, due to the low-lying topography of the city and the high level of urban land development and utilization, surface runoff has increased relatively. In addition, due to the influence of climate change, heavy rainfall occurs repeatedly within a short period of time, and the drainage system is unable to release water quickly, resulting in flooding conditions of varying sizes in various places.According to the "New Taipei City Climate Action Plan" flood potential simulation results, it is estimated that 258,333 people (6.57%) will be affected by flooding of 0.3 meters or more in the city. The number of people affected in the city over 0.5 meters will be 82,878 (2.10%).
+  - Proportion of the population exposed to the hazard: <10%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Low
+  - Current magnitude of impact of hazard^: Medium
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Long-term (after 2050)
+
+[1.2 fila 4] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Mass movement
+  - Vulnerable population groups most exposed: Other, please specify: People living near the landslide potential area
+  - Sectors most exposed^: Transportation and storage
+  - Describe the impacts on vulnerable populations and sectors^: Regarding the phenomena and trends of climate change, as assessed in IPCC AR6, it is evaluated that climate change has already caused significant damage to terrestrial, freshwater, cryosphere, coastal, and marine ecosystems, and the losses are increasingly irreversible. The intensification of extreme heat has led to the disappearance of hundreds of local species, and large-scale species mortality events have been observed in both terrestrial and marine environments.The increased frequency of rainstorms may increase the chance of flooding and landslide hazards.According to the environmental geological map of the Central Geological Survey, Ministry of Economic Affairs, slope hazards in the city can be classified as rock fall, rock chip avalanche, rock slide, downward slope slide, and soil and rock flow. The above disaster maps were overlaid with the location of the door signs in the city t
+  - Proportion of the population exposed to the hazard: <10%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium
+  - Current magnitude of impact of hazard^: Medium High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Long-term (after 2050)
+
+[1.2 fila 5] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Infectious disease
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Indigenous peoples
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Children and youth
+  - Sectors most exposed^: Human health and social work activities
+  - Describe the impacts on vulnerable populations and sectors^: As climate change impacts, biodiversity in alpine ecosystems has been reduced, with the most significant effects observed in alpine shrubland and subalpine forests.Furthermore, Taiwan is located in a subtropical region with abundant rainfall, providing favorable conditions for the breeding of dengue fever mosquitoes. In the future, the distribution of Aedes aegypti mosquitoes may extend beyond the existing boundaries of Tainan and Chiayi, leading to an increased risk of dengue fever occurrence in New Taipei City. The extended activity and reproductive capacity of disease-carrying mosquitoes can result in prolonged transmission and increased risk of infection. From 2018 to 2021, there were a total of 366 indigenous cases of dengue fever in Taiwan, primarily transmitted by mosquitoes breeding in containers found in vegetable gardens.
+  - Proportion of the population exposed to the hazard: <10%
+  - Did this hazard significantly impact your jurisdiction before this rep: No
+  - Current probability of hazard^: Medium Low
+  - Current magnitude of impact of hazard^: Medium Low
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Long-term (after 2050)
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Political stability
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Describe how the factor supports or challenges the adaptive capacity o: New Taipei City has a stable political structure and a good working relationship with the national and city governments on climate change in terms of resources and knowledge sharing. The city plans to invest in the climate budget in the future to stimulate private green investment and green jobs.
+
+[1.3 fila 2] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Legal/Institutional constraints
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Describe how the factor supports or challenges the adaptive capacity o: New Taipei City signed the “Climate Emergency Declaration” in November 2020 and established the “New Taipei City Climate Change Response Steering Groups”  to build up New Taipei City’s urban mitigation and adaptation capacity for the next 10 years.The tasks of the Steering Groups and the project teams are described as follows.1. The Steering Groups(1) To develop a vision and strategy for climate change and energy transformation in New Taipei City. To deliberate on major issues related to climate change and energy transformation. To promote participation in international and national conferences, and to cooperate with international cities, counties, and municipalities involved in climate change and energy transformation.(2) To Coordinate the promotion of energy transformation, energy efficiency improvement, smart transportation, the circular economy and resilient disaster prevention. To r
+
+[3.8 fila 1] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: Health outcomes
+  - Identify the climate hazard(s) that most significantly impact the sele: Heat stress
+  - Identify the climate hazard(s) that most significantly impact the sele: Extreme heat
+  - Identify the climate hazard(s) that most significantly impact the sele: Extreme cold
+  - Identify the health issues driven by the selected climate hazard(s): Exacerbation of non-communicable disease symptoms - cardiovascular disease
+  - Identify the health issues driven by the selected climate hazard(s): Heat-related illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Cold-related illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Emotional and/or spiritual health impacts
+  - Identify the health issues driven by the selected climate hazard(s): Mental health impacts
+  - Timeframe of impact: Long-term (after 2050)
+  - Identify which vulnerable populations are affected by the selected hea: Children and youth
+  - Identify which vulnerable populations are affected by the selected hea: Elderly
+  - Identify which vulnerable populations are affected by the selected hea: Outdoor workers
+  - Identify which vulnerable populations are affected by the selected hea: Vulnerable health groups
+  - Identify which vulnerable populations are affected by the selected hea: Low-income households
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of financial capacity and expertise/technical capacity
+  - Comment: Due to the impact of global warming, Taiwan has experienced not only an increase in average temperatures in recent years but also an increase in the number of hot days throughout the year. In response to this, the New Taipei City Government has developed the "New Taipei City Government Heatwave Response Implementation Plan" and the "New Taipei City Government Cold Wave Preparedness Measures Implementation Plan" to ensure proper care and minimize harm to vulnerable groups such as homeless individuals and elderly people living alone during extreme heatwaves and cold waves.Groups vulnerable to high temperatures span regions, races, and ages. Young children, the elderly, outdoor workers (e.g., farmers, land builders, and motorcycle couriers), low-income households, travellers, the sick, people receiving medication that affects body temperature regulation, and institutional residents (e.g., n
+
+[3.8 fila 2] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: Health outcomes
+  - Identify the climate hazard(s) that most significantly impact the sele: Infectious disease
+  - Identify the health issues driven by the selected climate hazard(s): Vector-borne infections and illnesses
+  - Timeframe of impact: Long-term (after 2050)
+  - Identify which vulnerable populations are affected by the selected hea: Marginalized / minority communities
+  - Identify which vulnerable populations are affected by the selected hea: Indigenous peoples
+  - Identify which vulnerable populations are affected by the selected hea: Outdoor workers
+  - Identify which vulnerable populations are affected by the selected hea: Low-income households
+  - Identify which vulnerable populations are affected by the selected hea: Children and youth
+  - Identify which vulnerable populations are affected by the selected hea: Frontline workers
+  - Identify which vulnerable populations are affected by the selected hea: Women and girls
+  - Identify which vulnerable populations are affected by the selected hea: Vulnerable health groups
+  - Identify which vulnerable populations are affected by the selected hea: Elderly
+  - What factors affect your jurisdiction’s ability to address the selecte: Other, please specify: Public awareness and behavioral changes
+  - Comment: Under continuous warming, the dengue fever vector mosquitoes have spread to central and northern Taiwan in recent years, plus extreme rainfall has caused flooding in low-lying areas, also providing a breeding environment for vector mosquitoes, contributing to the spread of mosquito-borne diseases. There were 44 cases of dengue fever in New Taipei City in 2018, mostly related to activities in vegetable gardens. In order to control the outbreak, the city has put six high-risk vegetable gardens under control and has prohibited access.According to the statistics from the Taiwan Centers for Disease Control (CDC) under the Ministry of Health and Welfare, there were four confirmed cases of dengue fever in New Taipei City in 2022.
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Data availability: Data is available for the average household water consumption in litres per capita per day
+  - Data availability: Data is available for the percentage of households with access to safely managed drinking water services
+  - Percentage of households with access to safely managed drinking water : 97.9
+  - Percentage of households with access to safely managed sanitation serv: Question not applicable
+  - Household water consumption (litres/capita/day): 311
+  - Comment: "The percentage of households with access to safe drinking water is based on the actual number of people in the water supply area divided by the number of people in the administrative area.The source of "household water consumption" is the annual report of the Water Resources Agency.
+
+[3.13 fila 1] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Fresh surface water, including rainwater, water from wetlands, rivers and lakes
+  - Are you able to report volumetric data for this source?: Yes
+  - Annual volume of water withdrawn per source (in megalitres) : 656625
+  - Projected level of change over next 5-10 years: About the same volume projected to be withdrawn
+
+[3.13 fila 2] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Are you able to report volumetric data for this source?: Question not applicable
+  - Annual volume of water withdrawn per source (in megalitres) : Question not applicable
+  - Projected level of change over next 5-10 years: Question not applicable
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: Yes, our jurisdiction has an adaptation goal(s)
+
+[4.1a fila 1] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 1
+  - Adaptation goal^: Enhancing control mechanisms for hillside development and increasing the integration rate of disaster warning systems to reduce the likelihood of hillside disasters through source control and pre-disaster warning mechanisms.
+  - Climate hazards that goal addresses^: Mass movement
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Year 2030: The proportion of hillside building license applications equipped with automatic monitoring equipment and interfaced with this "New Taipei City All-Disaster Intelligent Command and Control Platform" (EDP) will reach 85% or more.
+  - Comment: Regulations:Develop a guideline to review constructions on the hillsides.Management measures:1. Source Control: Strenghen the review of Hillside Building Permit Applications 2. Pre-disaster warning: Setting up automatic monitoring equipments and connect with the government's intelligent disaster prevention real-time warning monitoring platform.
+
+[4.1a fila 2] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 2
+  - Adaptation goal^: Enhancing urban water retention and permeability mechanisms to reduce the likelihood of disasters caused by extreme rainfall and increasing the storage capacity of water retention facilities to ensure water supply during drought periods.
+  - Climate hazards that goal addresses^: Drought
+  - Climate hazards that goal addresses^: Urban flooding
+  - Base year of goal (or year goal was established if no base year)^: 2011
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: 1.Year 2030: The total amount of water permeable to the building development reaches 3.22 million tons2.The cumulative total of outflow control facilities reached 680,000 metric tons.
+  - Comment: Regulations: 1.New Taipei Permeability and Water Conservation Autonomy Regulations2.Review points for outflow control in New Taipei City.Application facilities:  Building development needs to be equipped with permeable water retention facilities. Finish  2 campuses demonstration sites per yearManagement Measure:Water retention facilities with an area of over 2,000 square meters are required to be inspected for maintenance annually by a commissioned team of professional engineers.
+
+[4.1a fila 3] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 3
+  - Adaptation goal^: Increase urban wastewater treatment rate to prevent essential infrastructure from being affected by extreme weather conditions.
+  - Climate hazards that goal addresses^: Water stress
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Year 2030: Increase urban wastewater treatment rate to prevent essential infrastructure from being affected by extreme weather conditions.
+  - Comment: Improve the sewage collection rate in the city.
+
+[4.1a fila 4] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 4
+  - Adaptation goal^: Establishing a level-2 coastal protection plan to prevent coastal events such as flooding, degradation and erosion of the city's coast
+  - Climate hazards that goal addresses^: Coastal flooding (incl. sea level rise)
+  - Climate hazards that goal addresses^: Other coastal events
+  - Climate hazards that goal addresses^: Soil degradation/erosion
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: 1.Year 2030:According to the authorities in charge of the relevant purpose (Taipei Port and Taipower) should complete the compensation of sand sources and coastal monitoring at Lin Kou Power Plant and Taipei Port.2.The coastal erosion hazard will be reviewed for mitigation in years 2026 and 2031.
+  - Comment: Management Measures:Engineering:Check whether the responsible authorities (Taipei Port, Taiwan Power Company) have reviewed and implemented compensation measures for coastal sand sources and maintenance of existing protective facilities in accordance with the coastal protection plan.Non-engineering:The responsible authorities (Taipei Port, Taiwan Power Company) conduct basic data investigation and monitoring of the coast.Conduct a comprehensive review of the coastal protection plan every 5 years to assess whether coastal disasters have been alleviated.
+
+[4.1a fila 5] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 5
+  - Adaptation goal^: Enhance green beautification of idle public lands to increase water retention, improve urban flood resilience, and reduce the likelihood of urban flooding and flood hazards.
+  - Climate hazards that goal addresses^: Urban flooding
+  - Base year of goal (or year goal was established if no base year)^: 2011
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Year 2030: The "New Taipei Green Home Project" will  finish greening for 220 hectares in total.
+  - Comment: Application facilities:Through the City's Green Home Project, we are increasing the permeable area of the city and mitigating the urban heat island effect. As of April 2023, a total of 206.28 hectares of green beautification area has been completed, achieving a completion rate of 93.8%.
+
+[4.1a fila 6] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 6
+  - Adaptation goal^: Assisting the public in improving the structural safety of hazardous buildings, reducing the vulnerability of disaster-prone areas and buildings.
+  - Climate hazards that goal addresses^: Urban flooding
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2023
+  - Description of metric / indicator used to track goal^: Year 2023: 40 cases of disaster prevention by redevelopment
+  - Comment: We provide supports through the "Disaster Prevention Autonomy Ordinance" and "Disaster Prevention Building Improvement Points" to help the public improve the safety of their dangerous buildings.Application facilities:Since the implementation of the disaster prevention urban renewal policy in 2018, there have been 46 applications, and 28 cases have been approved.
+
+[4.1a fila 7] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 7
+  - Adaptation goal^: Increase the proportion of reconstruction for hazardous old buildings to enhance urban water retention and permeability functions, reducing the likelihood of urban flooding and flood hazards.
+  - Climate hazards that goal addresses^: Urban flooding
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2027
+  - Description of metric / indicator used to track goal^: Year 2027: The number of approved projects for the redevelopment of dangerous buildings reaches 540.
+  - Comment: Urban areas shall be encouraged to reconstruct by means of the Regulation for Accelerating Reconstruction of Urban Unsafe and Old Buildings, so as to enable the excavation rate of new buildings to be in accordance with the provisions on land use control in new Taipei city, and to enhance the water-retaining and water-permeable functions of the city. Since the opening of applications for hazardous old buildings in 2017, there have been 612 cases applied for, and 492 cases have been approved.
+
+[4.1a fila 8] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 8
+  - Adaptation goal^: Complete the improvement of all natural gas pipelines covered by box culverts to reduce the likelihood of damage caused by extreme weather-induced pipeline displacement.
+  - Climate hazards that goal addresses^: Other, please specify: Stratigraphic Subsidence
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2022
+  - Description of metric / indicator used to track goal^: Completing the improvement of all cases of listed pipes whose lines are encased by box culverts
+  - Comment: A total of 164 cases of natural gas pipelines covered by box culverts were found within the city. As of the end of May in the 2023, 140 cases of pipelines covered by box culverts have been improved.
+
+[4.1a fila 9] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 9
+  - Adaptation goal^: Increase the supply of green energy to address the increased electricity demand caused by extreme high temperatures and reduce the likelihood of insufficient peak electricity supply.
+  - Climate hazards that goal addresses^: Extreme heat
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2050
+  - Description of metric / indicator used to track goal^: 1.Year 2030: (1)The cumulative installation of solar and geothermal power reaches 170MW or more.  (2)The cumulative installed capacity of geothermal energy reaches 10MW.2.Year 2050: (1)The cumulative installed capacity of solar photovoltaic systems reaches over 250MW.(2)The cumulative installed capacity of geothermal energy reaches over 350MW.
+  - Comment: Management Measures:Short-term goals: Public bidding, citizen participation, and incentive grants to promote solar photovoltaics.Medium- and long-term goal: New Taipei City has been actively exploring geothermal power sites and introducing technologies and jointtly establish a geothermal demonstration area with the central government to continue research and development of geothermal potential areas
+
+[4.1a fila 10] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 10
+  - Adaptation goal^: Phase out coal-fired plants and strengthening the control of mobile pollution sources to  reduce the chance of damage to the respiratory system
+  - Base year of goal (or year goal was established if no base year)^: 2019
+  - Target year of goal^: 2023
+  - Description of metric / indicator used to track goal^: Year 2030Phase out all coal-fired units from the co-generation of steam and electricity.The annual average concentration of fine suspended particulates PM2.5 is <10.0μg/m3 or less.
+  - Comment: Management measures:1.From year 2016, no new raw  coal use permits will be issued.2. Through enterprise negotiation and permit management, existing industrial coal-fired boiler users will no longer be allowed to use raw coal as fuel starting in year 2020.3. The coal-fired steam and electricity co-generation units are to be retired by the end of year 2022.4. The goal is to have no coal-fired industries in the city by year 2023.5. Air quality micro-sensors are used to control air quality changes in the hot zone of the vehicle flow. Mobile source flow control is conducted. We also continue to subsidize electric locomotives and retire high-polluting vehicles to improve the city's air quality.
+
+[4.1a fila 11] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 11
+  - Adaptation goal^: Carry out inter-agency watershed management to improve and maintain the water quality of the Danshui River system.
+  - Climate hazards that goal addresses^: Water stress
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Year 2030: The entire watershed will be free from severe pollution, restoring the vitality of the rivers.
+  - Comment: Management:Continuously implement strategies such as source pollution control, engineering improvements, riverbank construction, and end-point inspection and regulation.
+
+[4.1a fila 12] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 12
+  - Adaptation goal^: Measures for homelessness to help protect them from extreme high and low temperatures and to maintain their safety.
+  - Climate hazards that goal addresses^: Extreme cold
+  - Climate hazards that goal addresses^: Extreme heat
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2025
+  - Description of metric / indicator used to track goal^: Year 2025: 230 care visits during high temperature and 850 visits during low temperature (including the provision of space for summer and cold shelter and supplies for keeping warm).
+  - Comment: 1. Regulations: "New Taipei City Hall homeless shelter Counseling on the key points of handling"2. We have set up 3 halfway houses for homelessness, providing 119 beds for homelessness, and have cooperated with 16 hotels in the city to provide short-term placement services when needed.3. When the Weather Bureau announce special report on the city's high and low temperatures, the measures for the care of homelessness will be activated.
+
+[4.1a fila 13] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 13
+  - Adaptation goal^: To help the elderly living alone to avoid extreme high and low temperatures and to maintain the safety of the elderly living alone
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Extreme cold
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2025
+  - Description of metric / indicator used to track goal^: Year 2025: 17,500 people will be provided with high-temperature care for the elderly living alone, and 37,500 people will be provided with low-temperature care for the elderly living alone, and 37,500 people will be provided with warmth.
+  - Comment: 1.Establishing regulations: "New Taipei City Elderly Singleton Care and Care Service Program"2.Providing public summer/winter shelter indoor space (e.g. district offices, elderly clubs, community care and concern points, libraries, police stations, fire departments, civic centers, visitor centers, supermarkets and publicly owned retail markets, etc.).3.management measures:The municipal government has established a supervisory mechanism for the implementation plans of cold wave preparedness measures and heatwave response measures.
+
+[4.1a fila 14] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 14
+  - Adaptation goal^: Enhance surveillance and impact assessment of disease-carrying mosquitoes, strengthen related disease prevention mechanisms, and reduce the risk of disease transmission.
+  - Climate hazards that goal addresses^: Infectious disease
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Year 2030: Reducing the number of confirmed dengue fever cases reported by medical institutions to less than 3 days.
+  - Comment: 1.Shortening the time to confirm the diagnosis, detecting the cases early and preventing the expansion of the disease2.A dengue vector mosquito index survey was conducted in 1,032 administrative villages of the city. (1) Checking at least 10% of each administrative village in the non-epidemic season(2) Checks at least 20% of administrative villages during dengue seasons(3) Surveying all 1032 administrative villages once a year to implement vector mosquito surveillance
+
+[4.1a fila 15] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 15
+  - Adaptation goal^: Strengthen climate change disaster prevention education and establish and operate "disaster-resilient communities" to enhance the local and community's adaptive capacity to extreme climate events. Train disaster prevention specialists to strengthen local responses to extreme climate events.
+  - Climate hazards that goal addresses^: Extreme cold
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Urban flooding
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2026
+  - Description of metric / indicator used to track goal^: Year 2030: 330 disaster-proof communities are expected to be completed in year 2026.
+  - Comment: Management Measures:By promoting disaster and rescue-related knowledge and techniques, community members can "save themselves and each other" in the event of a disaster, and can quickly participate in promoting reconstruction.
+
+[4.1a fila 16] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 16
+  - Adaptation goal^: Establish a real-time monitoring system (Integrated Command and Control Center for All Disasters) to effectively monitor real-time disaster situations, issue early warnings, and safeguard the lives and properties of the public.
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: Extreme cold
+  - Climate hazards that goal addresses^: Extreme heat
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2050
+  - Description of metric / indicator used to track goal^: Year 2030-2050:  The utilization rate of the "All-Disaster Emergency Data Platform" (EDP) reach 100%, when the Emergency Operation Center (EOC) is opened due to emergency situations.
+  - Comment: The dynamic spot map, disaster statistics, and estimation of the flooding area and depth in the next 48 hours are presented in a dynamic visualization for the commander's reference and decision making.
+
+[4.1a fila 17] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 17
+  - Adaptation goal^: Promote eco-friendly rural area planning by avoiding the use of chemical fertilizers to prevent adverse effects on the soil.
+  - Climate hazards that goal addresses^: Soil degradation/erosion
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Year 2030: The area under friendly cultivation will increase by 20 hectares per year and is expected to reach 400 hectares by year 2030.
+  - Comment: Management measures:Promote organic and eco-friendly farming methods and prohibit the use of chemical fertilizers and pesticides.According to statistics from the Council of Agriculture (2017), the average fertilizer application rate per hectare of farmland in Taiwan is 1.338 metric tons.Additionally, according to the Council of Agriculture (2021), for every 10,000 metric tons reduction in chemical fertilizer use, approximately 0.52 million metric tons of carbon dioxide emissions can be reduced (equivalent to a reduction of 1 ton of fertilizer resulting in a 0.52-ton reduction in carbon emissions).
+
+[4.1a fila 18] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 18
+  - Adaptation goal^: Planting vegetation extensively along important roads in the city to reduce urban heat island effect and minimize land exposure.
+  - Climate hazards that goal addresses^: Extreme heat
+  - Base year of goal (or year goal was established if no base year)^: 2021
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Year 2030: Maintaining the annual planting of nearly 1 million trees, shrubs, groundcovers and other types of vegetation, totaling 10 million plants
+  - Comment: Planting on important roads in the city.
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: Yes, our jurisdiction has a climate action plan or strategy
+
+[7.1a fila 1] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Integrated climate plan (addressing mitigation and adaptation)
+  - Confirm attachment/link provided to plan (selection mandatory): The plan has been attached
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Monitoring:  Information on progress of plan is monitored and publicly reported at least every 3 years
+  - Processes for monitoring evaluation and updates of plan^: Evaluation: Evaluation of plan takes place at least every 3 years
+  - Processes for monitoring evaluation and updates of plan^: Update: Updates to the plan are published at least every 3 years
+  - Funding sources and financial instruments to finance plan: Jurisdiction's own resources
+  - Funding sources and financial instruments to finance plan: National funds and programmes
+  - Funding sources and financial instruments to finance plan: Public-private partnerships
+  - Communities and organizations engaged^: Vulnerable population groups
+  - Communities and organizations engaged^: Academia
+  - Communities and organizations engaged^: Local government (s) and/or agencies
+  - Communities and organizations engaged^: Non-governmental organisations
+  - Communities and organizations engaged^: Citizens
+  - Communities and organizations engaged^: Business and private sector
+  - Communities and organizations engaged^: Other, please specify: Industry representatives
+  - Communities and organizations engaged^: National government and/or agencies
+  - Describe if and how climate-related scenarios have informed the plan: In the preparation of this report, the actual population growth rate of the New Taipei City from 1996 to 2020 was referred to, and the population growth trend provided by the National Development Council was used to estimate the population in 2050. Considering that the transportation network of New Taipei City continues to expand to form a communal living circle with neighboring cities, the scenario with a high future population growth rate is adopted.According to the plan, the residential and commercial sectors in New Taipei City will reduce the use of natural gas and fuel oil through the full use of electronic stoves and electric water heaters in 2050; in agriculture and fishery, diesel which is originally used by fishing boats will be replaced by biofuels and hydrogen energy; on waste treatment, zero burial will be practiced, and biological decomposition (black soldier fly) and biogas
+  - Primary author(s) of plan^: Relevant department within jurisdiction
+  - Primary author(s) of plan^: Consultant
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses co-benefits of actions
+  - Year of formal approval of plan^: 2022
+  - End year of plan: 2050
+  - Total cost of implementation of plan (in currency specified in 0.1): 180000000000
+  - Sectors covered by action plan: Information and communication
+  - Sectors covered by action plan: Water supply
+  - Sectors covered by action plan: Accommodation and food service activities
+  - Sectors covered by action plan: Forestry
+  - Sectors covered by action plan: Construction
+  - Sectors covered by action plan: Waste management
+  - Sectors covered by action plan: Real estate activities
+  - Sectors covered by action plan: Transportation and storage
+  - Sectors covered by action plan: Conservation
+  - Sectors covered by action plan: Agriculture
+  - Sectors covered by action plan: Education
+  - Sectors covered by action plan: Sewerage, wastewater management and remediation activities
+  - Sectors covered by action plan: Electricity, gas, steam and air conditioning supply
+  - Sectors covered by action plan: Fishing
+  - Sectors covered by action plan: Wholesale and retail trade; repair of motor vehicles and motorcycles
+  - Sectors covered by action plan: Professional, scientific and technical activities
+  - Please explain: In this report, the promotion strategies of 30% greenhouse gas reduction in 2030 and zero climate net emissions in 2050 are planned in five major sectors, namely residential and commercial, industrial, transportation, agricultural and forestry, and waste. In addition, based on the four core supporting measures of "New Taipei City Climate Change Response Steering Groups", "regulatory system - New Taipei City Zero Carbon City Self-Government Regulations", "industrial development - Smart Industrial Area" and "financial support - green budget and climate fund", the foundation is laid for the construction and accelerated expansion of the capacity required for net zero. The climate vulnerable groups in the City are wanderers and the elderly living alone. In order to avoid the impact of extreme weather on them, the City starts the care mechanism during high and low temperatures.In addition, the
+
+[7.1a fila 2] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Integrated climate plan (addressing mitigation and adaptation)
+  - Confirm attachment/link provided to plan (selection mandatory): The plan has been attached
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Monitoring:  Information on progress of plan is monitored and publicly reported at least every 5 years
+  - Processes for monitoring evaluation and updates of plan^: Evaluation: Evaluation of plan takes place at least every 5 years
+  - Processes for monitoring evaluation and updates of plan^: Update: Updates to the plan are published at least every 5 years
+  - Funding sources and financial instruments to finance plan: Jurisdiction's own resources
+  - Communities and organizations engaged^: Business and private sector
+  - Communities and organizations engaged^: Local government (s) and/or agencies
+  - Communities and organizations engaged^: Citizens
+  - Describe if and how climate-related scenarios have informed the plan: Considering the long-term phenomena brought about by climate change such as temperature rise, extreme high temperature and extreme rainfall, 10 impacts and 12 derivative issues that may be faced in the future are identified, and various municipal agencies, including the Fire Agency, Agriculture Agency, Education Agency, Water Resources Agency, Social Affairs Agency, Health Agency, Environmental Protection Agency, Urban and Rural Affairs Agency, and Public Works Agency, worked together to formulate 23 corresponding mitigation and adaptation strategies for issues in the key areas of "disaster" and "health", as well as the priority areas of "land use" and "energy supply and industry".
+  - Primary author(s) of plan^: Relevant department within jurisdiction
+  - Primary author(s) of plan^: Consultant
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses co-benefits of actions
+  - Year of formal approval of plan^: 2020
+  - End year of plan: 2030
+  - Total cost of implementation of plan (in currency specified in 0.1): 37100000000
+  - Sectors covered by action plan: Education
+  - Sectors covered by action plan: Sewerage, wastewater management and remediation activities
+  - Sectors covered by action plan: Water supply
+  - Sectors covered by action plan: Conservation
+  - Sectors covered by action plan: Human health and social work activities
+  - Sectors covered by action plan: Construction
+  - Sectors covered by action plan: Other, please specify: Residential, Land utilization, Animal husbandry
+  - Sectors covered by action plan: Information and communication
+  - Sectors covered by action plan: Waste management
+  - Sectors covered by action plan: Electricity, gas, steam and air conditioning supply
+  - Please explain: In response to international climate change and global warming trends, New Taipei City has been promoting climate change adaptation and mitigation for a long time. In 2007, it established the "Low-Carbon Community Development Centre" under the Environmental Protection Agency which became the first local government in Taiwan to set up an independent unit to implement carbon reduction work. In 2016, the city government established the "Climate Change Mitigation and Adaptation Promotion Team" across agencies, with 17 agencies working together to address climate change and discuss greenhouse gas reduction measures.The City actively promotes climate change mitigation and adaptation. In 2020, a "New Taipei City Climate Action Plan" was specially compiled, which divides mitigation work into the sectors of renewable energy, industrial energy conservation, energy-efficient buildings, energy conse
+
+[7.1a fila 3] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Integrated climate plan (addressing mitigation, adaptation and energy-related issues)
+  - Confirm attachment/link provided to plan (selection mandatory): The plan has been attached
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Evaluation: Evaluation of plan takes place at least every 5 years
+  - Processes for monitoring evaluation and updates of plan^: Update: Updates to the plan are published at least every 5 years
+  - Processes for monitoring evaluation and updates of plan^: Monitoring:  Information on progress of plan is monitored and publicly reported at least every 5 years
+  - Funding sources and financial instruments to finance plan: National funds and programmes
+  - Funding sources and financial instruments to finance plan: Public-private partnerships
+  - Funding sources and financial instruments to finance plan: Jurisdiction's own resources
+  - Communities and organizations engaged^: Local government (s) and/or agencies
+  - Communities and organizations engaged^: National government and/or agencies
+  - Describe if and how climate-related scenarios have informed the plan: This report is based on the data from the "New Taipei City 2050 Net Zero Roadmap and Climate Action White Paper" to estimate future scenarios regarding population, carbon intensity of electricity, and other factors. These estimations are used to plan various climate actions in order to achieve the net zero goal by 2050. The report also takes into account the United Nations Intergovernmental Panel on Climate Change (IPCC) "Special Report on Global Warming of 1.5°C" and the National Development Council's "Taiwan 2050 Net Zero Emission Pathway" to ensure that the strategies and goals align with the blueprint for the net zero pathway by 2050.In accordance with the "Climate Change Response Act" implemented and announced in Taiwan on February 15, 2023, local governments are required to propose context-specific greenhouse gas reduction strategies, taking into account the action plan and sectora
+  - Primary author(s) of plan^: Consultant
+  - Primary author(s) of plan^: Dedicated team within jurisdiction
+  - Primary author(s) of plan^: Relevant department within jurisdiction
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses co-benefits of actions
+  - Year of formal approval of plan^: 2021
+  - End year of plan: 2025
+  - Sectors covered by action plan: Public administration and defence; compulsory social security
+  - Sectors covered by action plan: Mining and quarrying
+  - Sectors covered by action plan: Agriculture
+  - Sectors covered by action plan: Water supply
+  - Sectors covered by action plan: Electricity, gas, steam and air conditioning supply
+  - Sectors covered by action plan: Fishing
+  - Sectors covered by action plan: Education
+  - Sectors covered by action plan: Waste management
+  - Sectors covered by action plan: Construction
+  - Sectors covered by action plan: Accommodation and food service activities
+  - Sectors covered by action plan: Sewerage, wastewater management and remediation activities
+  - Sectors covered by action plan: Financial and insurance activities
+  - Sectors covered by action plan: Real estate activities
+  - Sectors covered by action plan: Information and communication
+  - Sectors covered by action plan: Forestry
+  - Sectors covered by action plan: Conservation
+  - Sectors covered by action plan: Professional, scientific and technical activities
+  - Sectors covered by action plan: Transportation and storage
+  - Sectors covered by action plan: Manufacturing
+  - Please explain: According to the "Climate Change Response Act" implemented in Taiwan in 2023, local governments are required to propose context-specific greenhouse gas reduction strategies and establish "Greenhouse Gas Reduction Implementation Plans" based on the action plan and sectoral action plans. These plans serve as directions for cities to implement carbon reduction policies. New Taipei City has already released the second phase (2021-2025) of the "Greenhouse Gas Control Implementation Plan." The city has also established the "New Taipei City Climate Change Response Steering Groups ," which promotes cross-departmental collaboration in areas such as "Residential and Commercial," "Environment and Agriculture," "Energy," "Industry," and "Transportation" to achieve carbon reduction goals. The city aims to reduce carbon emissions by 30% by 2030 (compared to 2005) and achieve net zero emissions by 2050
+
+[7.2 fila 1] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Other, please specify: climate mitigation and adaptation
+  - Attachment/ link and name of plan: https://drive.google.com/file/d/1Sk0UWJzVAgCjFsjISASlUVG6TR4tCfl4/view
+  - Current status of plan: Other, please specify:  "New Taipei City Climate Change Response Action Autonomy Ordinance (Draft)"  is currently under development
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2022
+  - End of year plan: 2100
+  - Comment: The "New Taipei City Climate Change Response Action Autonomy Ordinance (Draft)", which will serve as the basis for New Taipei City to promote net-zero transformation in the future, is being drafted and is expected to be submitted to the parliament for review in 2022. The city government proposed four general principles including "integrated governance and flexible operation", "climate fund premium subsidy", "green financial investment market" and "giving consideration to both fair transformation and development" when formulating the self-governance regulations.“Integrated governance and flexible operation” means that the formulation of provisions is task-oriented by first taking stock of important transformation promotion projects, and then splitting them into authorities. If there is any uncertainty, the measures shall be specified in the article, but the promotion schedule, responsibil
+
+[7.2 fila 2] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Other, please specify: net zero demonstration zone
+  - Attachment/ link and name of plan: https://lowcarbon.epd.ntpc.gov.tw/ntpcepd/file_service/download/general/21382615__7f093e41da1b9f1c0112e89a3effbe5b
+  - Current status of plan: In implementation
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2021
+  - End of year plan: 2030
+  - Comment: Promoting Bali District to become a demonstration site for a net-zero lifestyle by 2030 and take the lead in the City to achieve net-zero carbon emissions, and using the implementation experience of the demonstration area as the basis for New Taipei City to expand and promote the City's carbon reduction work and climate change adaptation.The current GHG emissions in Bali District are dominated by industries (42%), followed by residential and commercial sectors (30%) and transportation (28%). Due to the vigorous development of industry and commerce, the electricity consumption continues to rise. In the future, three major strategies and five major policies will be promoted to build a "net-zero carbon demonstration district".The three major strategies are phasing out chemical and petroleum fuels, improving equipment energy efficiency, and using clean energy and renewable energy. In additio
+
+[7.2 fila 3] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Other, please specify: financial support
+  - Attachment/ link and name of plan: https://lowcarbon.epd.ntpc.gov.tw/ntpcepd/file_service/download/general/21382615__7f093e41da1b9f1c0112e89a3effbe5b
+  - Current status of plan: In implementation
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2023
+  - End of year plan: 2100
+  - Comment: In the future, New Taipei City will invest  in its green budget every year to stimulate private green investment and green employment opportunities at the same time. In addition, the "New Taipei Climate Fund" will be set up in the future, with the carbon fee collected by the Environmental Protection Administration and voluntary donations from enterprises as the main source of income for the applications by communities, enterprises, households and schools, in order to promote the improvement of equipment energy efficiency, renewable energy installation and energy transformation. The City will also apply for international carbon certification for the carbon reduction quota of policy measures to assist the city government and enterprises to jointly achieve the carbon neutrality goal.In addition, the New Taipei  City will integrate the resources of the central government to promote the imple
+
+[7.2 fila 4] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Other, please specify: Green Industry
+  - Attachment/ link and name of plan: https://wedid.ntpc.gov.tw/career/detail/yPxe2kjWmEgL
+  - Current status of plan: In implementation
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2018
+  - End of year plan: 2050
+  - Comment: The development of "Bao Gao Smart Industrial Park" has become an important base for green industries. At present, green transportation-related industries such as electric vehicles have been attracted and invested in, and the construction of the whole area is aimed at the gold level of the green building label, with the supplement of the ecological restoration plan for the surrounding. It is estimated that the CO2 emission of the building life cycle will be reduced by more than 20%, the annual energy consumption will be saved by more than 25%, the tap water consumption will be saved by 35%, and the resource recovery rate will be 60%. For the building materials, recycled materials will be introduced and the Building Information Modeling (BIM) technology will be adopted to ensure overall environmental benefits throughout the entire life cycle.
+
+[7.2 fila 5] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Green infrastructure
+  - Attachment/ link and name of plan: https://lowcarbon.epd.ntpc.gov.tw/ntpcepd/file_service/download/general/21382615__7f093e41da1b9f1c0112e89a3effbe5b
+  - Current status of plan: Other, please specify: planning
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2023
+  - End of year plan: 2100
+  - Comment: It is expected that the "New Taipei Zero-Carbon Urban Development Design Outline" will be completed in 2023 as the overall guiding principles, and smart and resilient design will be required to be incorporated into large-scale development projects.
+
+[7.2 fila 6] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Other, please specify: Sustainable development
+  - Current status of plan: In implementation
+  - Boundary of plan relative to jurisdiction boundary: Same – covers entire jurisdiction and nothing else
+  - Year of formal approval of plan: 2021
+  - End of year plan: 2030
+  - Comment: In 2019, New Taipei City issued Taiwan's first Voluntary Local Review (VLR). Despite the impact of the pandemic, the city remained committed to the spirit of the Sustainable Development Goals (SDGs) by "Leaving no one behind" and fulfilling the Mayor's commitment to the well-being and prosperity of its citizens. In 2021, the city released its second VLR, which includes 60 SDGs projects for New Taipei City. These projects encompass sustainable policies such as transforming landfill sites into Xagu Green Park, New Taipei Women Empowerment initiatives, Smart Flood Prevention System, construction of the Three Rings and Six Lines transportation network, and promoting green transportation.
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Other, please specify: manufacturing industry
+  - Project title: Baogao Smart Industrial Area
+  - Stage of project development: Implementation
+  - Status of financing: Other, please specify: Funding has been secured
+  - Identified financing model: Public finance - own budget
+  - Project description and attach project proposal: The goal of "Baogao Smart Industrial Park" is to introduce production processes that meet the requirements of "low and zero pollution", with the main focus on smart city industries such as digital health, AI, information and communication and cloud computing, and low-polluting manufacturing. Electric vehicle industries such as Hon Hai and Tesla have entered this area.The first phase of Baogao Park has an investment of NT$4.1 billion and is already completed in 2022. The buildings in the park have obtained the "Gold-level Green Building Label" and "Silver-level Smart Building Label", and integrates "production", "life" and "ecology" concepts. In addition to integrating in the park the R&D, design, experiment and manufacturing required by the smart city industry to provide a flexible and mutually beneficial industrial space, it also has a 5G environment and various life functions, shaping 
+  - Total cost of project (in currency specified in 0.1): 4100000000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 27000000000
+
+[7.5 fila 2] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Waste management (including waste recycling)
+  - Project title: New Taipei City Bali Waste Incineration Plant Reconstruction and Operation Transfer Project
+  - Stage of project development: Implementation
+  - Status of financing: Other, please specify: ROT
+  - Identified financing model: Private investment
+  - Identified financing model: Other, please specify: ROT
+  - Project description and attach project proposal: The Bali Waste Incineration Plant in New Taipei City was built in 1991 and started working in 2001 to mainly treat household waste within the jurisdiction. The Bali Waste Incineration Plant (together with the Bali Fly Ash Solidification Plant) is expected to be completed in 2028. Through the Act for Promotion of Private Participation in Infrastructure Projects, private funds and technologies are introduced to update the central control system, improve the efficiency of pollution prevention and control, reduce the production of nitrogen oxides, sulfur oxides, carbon monoxide and reactive ash, and improve power generation efficiency; these have a positive impact on waste reduction, air quality improvement, greenhouse gas reduction and renewable energy production.Links:1. Preliminary plan of the "New Taipei City Bali Waste Incineration Plant Reconstruction and Operation Transfer Project" ht
+  - Total cost of project (in currency specified in 0.1): 1465600000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 0
+
+[7.5 fila 3] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Waste management (including waste recycling)
+  - Project title: The New Taipei City Biomass Energy Center
+  - Stage of project development: Transaction preparation
+  - Status of financing: Project not funded and seeking partial funding
+  - Identified financing model: Private investment
+  - Identified financing model: Other, please specify: BOO
+  - Project description and attach project proposal: At present, it is still in the process of announcement and seeking partners, so there is no funding figure to fill in. The New Taipei City Biomass Energy Center is expected to be established in the BOO (Build, Own, Operation) model in accordance with the Act for Promotion of Private Participation in Infrastructure Projects. The private sector will prepare a feasibility assessment report and prepare its own private land, and apply to the Environmental Protection Department for investment and development. The construction and operation period is totally 25.5 years. Using anaerobic fermentation combined with the biogas power generation technology, the whole process is sealed in an anaerobic environment for food waste digestion. It is estimated that the daily processing capacity is 200 tons and the biogas power generation is about 11.6 million kWh per year, which can be used by 3,200 househo
+  - Total cost of project (in currency specified in 0.1): 0
+  - Total investment cost needed if relevant (in currency specified in 0.1: 0
+
+[7.5 fila 4] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Energy efficiency (including public lighting)
+  - Project title: Replace streetlights in New Taipei City with PFI model
+  - Stage of project development: Post-implementation
+  - Status of financing: Other, please specify: Project has financed
+  - Identified financing model: Other, please specify: PFI
+  - Project description and attach project proposal: New Taipei City used PFI (Private Finance Initiative) to replace 240,000 street lamps with LED street lamps in 2015. The total cost is NT2,181,000,000.Benefits:On the economy: It can save a lot of investment in replacing energy-saving street lamps, save huge annual electricity expenses, and achieve the best benefits for lamp purchase and maintenance.On the environment: It can reduce carbon dioxide emissions by about 99,000 tons per year, which is equivalent to planting about 64 million trees; it also reduces the pollution of mercury lamps to the environment.On energy saving: About 185 million kWh of electricity is saved every year, which greatly reduces the electricity consumption of street lamps, and reduces the power generation load and power generation cost of the power company.At present, the second phase of street lamp replacement is being implemented to replace the old LED street l
+  - Total cost of project (in currency specified in 0.1): 2181000000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 0
+
+[7.5 fila 5] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Transport
+  - Project title: New Taipei City Government Green Bus Subsidy Rules
+  - Stage of project development: Implementation
+  - Status of financing: Other, please specify: Funded by national government
+  - Identified financing model: Public finance - national government
+  - Identified financing model: Grants
+  - Identified financing model: Public finance - own budget
+  - Project description and attach project proposal: In order to achieve the policy goals of energy saving, carbon reduction, and environment-protective green transportation to enable people to have a more comfortable transportation and living environment, in line with the Executive Yuan's 2017 "Full Electrification of  Urban Buses by 2030" policy, bus operators are encouraged to purchase electric buses. It is proposed to increase the subsidy amount for replacing low-floor electric buses and seek subsidies from the Ministry of Transportation and Communications. In 2011, New Taipei City Government established the "New Taipei City Government Green Bus Subsidy Rules" and launched the first electric buses in Taiwan. The rules regulate subsidies for electric buses and clean fuel buses (fueled by natural gas, dual fuel oil and gas, hybrid oil and electricity, and hydrogen, etc.) to speed up the phasing out of diesel fuel buses. By the end of 202
+  - Total cost of project (in currency specified in 0.1): 17336000000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 17336000000
+
+[7.5 fila 6] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Energy efficiency (including public lighting)
+  - Project title: New Taipei City Net-Zero Carbon Demonstration Site Promotion Subsidy Program
+  - Stage of project development: Implementation
+  - Status of financing: Other, please specify: Funded by the New Taipei City Government
+  - Identified financing model: Loans from International Financial Institutions
+  - Identified financing model: Public-private partnership
+  - Identified financing model: Public finance - national government
+  - Project description and attach project proposal: In 2023, New Taipei City launched the "New Taipei City Net-Zero Carbon Demonstration Site Promotion Subsidy Program" to assist industrial and service organizations within its jurisdiction in adopting "generation, storage, and conservation" smart microgrid systems and establishing net-zero carbon building demonstration sites. The program provides a maximum subsidy of 1.5 million NTD per project. Additionally, the city continues to implement the "Solar Photovoltaic System Installation Program" to encourage public participation in solar photovoltaic system installation, with a maximum subsidy of 500,000 NTD per project.LINK:https://www.economic.ntpc.gov.tw/Custom/111%E5%B9%B4%E5%BA%A6%E6%96%B0%E5%8C%97%E5%B8%82%E6%B7%A8%E9%9B%B6%E7%A2%B3%E7%A4%BA%E7%AF%84%E5%A0%B4%E5%9F%9F%E6%8E%A8%E5%BB%A3%E8%A3%9C%E5%8A%A9%E8%A8%88%E7%95%AB
+  - Total cost of project (in currency specified in 0.1): 3000000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 3000000
+
+[7.6 fila 1] Report the factors that support climate-related investment and financial planning in your jurisdiction.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction has established a fund to invest in climate-related projects
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction’s own funds and budgetary means
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction accesses finance from national government funds, grants etc.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction uses land value capture (LVC) to help finance climate-related projects
+  - Comment: 1. Self-funded or budgeted, self-established climate fund - the city’s green budget and climate fundNew Taipei City will invest at least NT$20 billion in green budgets each year to promote private green investment and green jobs. A “New Taipei Climate Fund” will be established in the future. The main source of income is the carbon fee collected by the Environmental Protection Administration(centeral government) and voluntary donations from enterprises. We will also apply for international carbon certification for the carbon reduction credits of the policy measures.2. Funded by the national governmentTaiwan’s central government has announced its 2050 net-zero goal and decided to include the goal in law and published the “Taiwan’s Pathway to Net-Zero Emissions in 2050”. The central government has prepared a nearly NT$900 billion budget and will levy carbon fees dedicated to the Greenhouse 
+  - Credit rating of jurisdiction: Jurisdiction does not have an international or domestic credit rating
+  - Decarbonising jurisdiction's investments: Other, please specify: According to the New Taipei City Finance Department, the city has no pension fund or investments related to decarbonization.
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Government policies and programs actions
+  - Action (selections mandatory)^: Disaster planning and preparedness
+  - Climate hazard(s) that action addresses^: Mass movement
+  - Climate hazard(s) that action addresses^: Extreme heat
+  - Climate hazard(s) that action addresses^: Drought
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Climate hazard(s) that action addresses^: Infectious disease
+  - Action description and web link to further information^: In order to effectively grasp the real-time water conditions in flood-prone areas, New Taipei City began to build a real-time monitoring system - the "All-disaster Intelligent Command and Monitoring Center" in 2018, which will be used when the "Emergency Operation Center (EOC)" is opened. The functions such as the dynamic spot map of the disaster situation and the disaster situation statistics are presented in a dynamic visualization, which can be used by the commander for reference and decision-making to maintain the safety of life and property of the people in potential disaster areas. The system has been completed in stages, and the function is still being updated.EDP will implement advanced technological measures through Open API integration, automated data crawling, and spatial big data AI analysis. This will enable the integration of previously time-consuming information, reducing 
+  - Sectors adaptation action applies to^: Water supply
+  - Sectors adaptation action applies to^: Public administration and defence; compulsory social security
+  - Sectors adaptation action applies to^: Other, please specify: Disaster Prevention and Relief
+  - Sectors adaptation action applies to^: Waste management
+  - Sectors adaptation action applies to^: Information and communication
+  - Sectors adaptation action applies to^: Sewerage, wastewater management and remediation activities
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Co-benefits realized^: Reduced health impacts from extreme heat or cold weather
+  - Co-benefits realized^: Reduced disruption of energy, transport, water or communications networks
+  - Co-benefits realized^: Other impacts from climate actions, please specify: Protecting the lives and property of people in potential disaster areas
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 90-100%
+  - Proportion of natural systems with increased resilience due to adaptat: 90-100%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 1680000
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 2] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Resilience and resistance measures for buildings
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Climate hazard(s) that action addresses^: Mass movement
+  - Action description and web link to further information^: Strengthen the development and control mechanism of hillside land, and establish a disaster prevention and early warning system to reduce the probability of hillside land disasters through a source control and pre-disaster early warning mechanism.1. Regulations to be formulated:The Key Points of New Taipei City Government's Review of Hillside Constructions are to be formulated.2. Management measures:  (1) Source control: Strengthen the review of miscellaneous hillside licenses on the applications for hillside construction licenses.  (2) Pre-disaster warning: Set up automatic monitoring equipment to interface with the government’s smart disaster prevention and real-time warning monitoring platform.The "total cost of action" is approximately 5.8 million per year, including:Costs related to slope community disaster risk management: 4 million per year.Miscellaneous permit review expenses for
+  - Sectors adaptation action applies to^: Sewerage, wastewater management and remediation activities
+  - Sectors adaptation action applies to^: Professional, scientific and technical activities
+  - Sectors adaptation action applies to^: Conservation
+  - Sectors adaptation action applies to^: Real estate activities
+  - Sectors adaptation action applies to^: Waste management
+  - Sectors adaptation action applies to^: Agriculture
+  - Sectors adaptation action applies to^: Water supply
+  - Sectors adaptation action applies to^: Construction
+  - Co-benefits realized^: Reduced natural resource depletion
+  - Co-benefits realized^: Improved road safety
+  - Co-benefits realized^: Reduced health impacts from extreme heat or cold weather
+  - Co-benefits realized^: Increased economic production
+  - Co-benefits realized^: Increased water security
+  - Co-benefits realized^: Improved water/soil quality
+  - Co-benefits realized^: Increased energy security
+  - Co-benefits realized^: Reduced costs
+  - Co-benefits realized^: Reduced disruption of energy, transport, water or communications networks
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Co-benefits realized^: Reduced health costs
+  - Co-benefits realized^: Increased transparency and accountability
+  - Co-benefits realized^: Improved mental wellbeing/quality of life
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Co-benefits realized^: Increased social inclusion, equality and justice
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 10-20%
+  - Proportion of natural systems with increased resilience due to adaptat: 90-100%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 5800000
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 3] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Action (selections mandatory)^: Green infrastructure
+  - Climate hazard(s) that action addresses^: Extreme heat
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Action description and web link to further information^: To promote sustainable urban development and enhance environmental carrying capacity, our city has initiated the " New Taipei City Green Homeland " program. This program focuses on beautifying and greening idle public lands before they have designated usage plans. It aims to eliminate urban blight and enhance the aesthetics of the city, while also promoting water retention and improving urban flood resilience to reduce issues such as urban flooding. As of April 2023, a total of 363 sites covering an area of 206.28 hectares have undergone greening and beautification efforts, with the goal of mitigating the urban heat island effect.Total cost of action: large base: $22 million, small base: $3.5 million for a total of $25.5 million.Link:Urban and Rural Affairs Agency website - The New Taipei City Green Homeland Project https://www.planning.ntpc.gov.tw/home.jsp?id=af495e8d465faf30
+  - Sectors adaptation action applies to^: Conservation
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Co-benefits realized^: Improved mental wellbeing/quality of life
+  - Co-benefits realized^: Protected/improved biodiversity and ecosystem services
+  - Co-benefits realized^: Increased/improved green space
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: I do not have this data
+  - Proportion of natural systems with increased resilience due to adaptat: 10-20%
+  - Funding source(s): Regional funds and programmes
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 25500000
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 4] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Action (selections mandatory)^: Watershed preservation
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Action description and web link to further information^: To improve and maintain the water quality of the Tamsui River system, a cross-agency watershed management approach is being implemented. This includes pollution source control, engineering improvements, riverbank restoration, and end-point inspection and regulation. Strategies are jointly discussed and actively pursued to achieve the vision of eliminating severe pollution in the entire basin by 2030. As of April (Year 112), the average proportion of severely polluted river length in the Tamsui River basin is 3.5%.Links:Environmental Protection Department - Water Environment Monitoring Program Websitehttps://www.epd.ntpc.gov.tw/Article?catID=481Revitalizing the Tamsui River to make New Taipei City a great river city.https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=5d2ca0b3f2ef1dbcbffc6c35751963e6
+  - Sectors adaptation action applies to^: Water supply
+  - Sectors adaptation action applies to^: Waste management
+  - Sectors adaptation action applies to^: Sewerage, wastewater management and remediation activities
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Co-benefits realized^: Improved water/soil quality
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 90-100%
+  - Proportion of natural systems with increased resilience due to adaptat: 90-100%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 5] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Government policies and programs actions
+  - Action (selections mandatory)^: Disease prevention measures
+  - Climate hazard(s) that action addresses^: Infectious disease
+  - Action description and web link to further information^: In order to prevent the northward migration of dengue fever vector mosquitoes under the effect of climate warming, New Taipei City has strengthened dengue fever prevention and control work in the following ways:1. Conduct a survey on the dengue vector mosquito index in the 1,032 administrative villages in this City to early identify the main breeding sites of vector mosquitoes, and eliminate vector mosquitoes as soon as possible.2. Strengthen the elimination of breeding sources, and the publicity of dengue disease-related knowledge to community residents.3. Shorten the time for diagnosis, detect cases early, and prevent the spread of the epidemic.Link:Environmental Protection Department- Vector Control Informationhttps://www.epd.ntpc.gov.tw/Article?catID=1982
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 80-90%
+  - Proportion of natural systems with increased resilience due to adaptat: 80-90%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Implementation complete in the reporting year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 0
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 6] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Government policies and programs actions
+  - Action (selections mandatory)^: Disaster planning and preparedness
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Climate hazard(s) that action addresses^: Mass movement
+  - Action description and web link to further information^: Enhancing climate change disaster prevention education and establishing and operating "disaster-resilient communities" are important initiatives to strengthen the local and community adaptation capacity to extreme climate events. By providing disaster-related knowledge and skills, residents are empowered to engage in self-help and mutual assistance during disasters and actively participate in the reconstruction process. As of the end of Year 2022, a total of 227 disaster-resilient communities have been established. In Year2023, an additional 54 communities will be added, bringing the total number of disaster-resilient communities in the city to 281 by the end of Year 2023.Link:New Taipei City Disaster Prevention Community Websitehttp://pc183.hy.ntu.edu.tw/ntpcdrc/index.php
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Sectors adaptation action applies to^: Public administration and defence; compulsory social security
+  - Co-benefits realized^: Reduced disruption of energy, transport, water or communications networks
+  - Co-benefits realized^: Other impacts from climate actions, please specify: Enhancing community resilience to protect people's lives and property in disaster-prone areas
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 10-20%
+  - Proportion of natural systems with increased resilience due to adaptat: <10%
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Implementation complete in the reporting year
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)
+
+[8.1 fila 7] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Other, please specify
+  - Action (selections mandatory)^: Other, please specify: Increasing the resilience and/or diversity of power/energy supply.
+  - Climate hazard(s) that action addresses^: Extreme heat
+  - Action description and web link to further information^: Creating a green energy supply through geothermal and solar energy to address the increased electricity demand caused by extreme high temperatures and reduce the likelihood of insufficient peak electricity supply.Management measures:To effectively utilize local resources, factors such as technological maturity and market acceptance are considered. In the short term, the focus is on solar photovoltaic (PV) development, while geothermal development is prioritized in the medium to long term.Solar PV:Promoted through open bidding, citizen participation, and incentive subsidies. Approximately 140 MW of solar PV installations have been implemented in schools, activity centers, factories, and residential areas, generating an annual electricity output of 147 million kWh and reducing over 73,794 metric tons of CO2 emissions per year.Geothermal:(1) In 2018, a geothermal demonstration zone was join
+  - Sectors adaptation action applies to^: Education
+  - Sectors adaptation action applies to^: Professional, scientific and technical activities
+  - Sectors adaptation action applies to^: Administrative and support service activities
+  - Sectors adaptation action applies to^: Electricity, gas, steam and air conditioning supply
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Co-benefits realized^: Increased energy security
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 80-90%
+  - Proportion of natural systems with increased resilience due to adaptat: 80-90%
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): Public-private partnerships
+  - Status of action in the reporting year^: Action in operation (across most of jurisdiction)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Yes
+  - Select the related energy access and/or poverty indicator(s) for this : Source mix of thermal energy (heating and cooling) consumed within local boundary (decrease)
+  - Select the related energy access and/or poverty indicator(s) for this : Energy consumption from renewable energy sources (increase)
+  - Select the related energy access and/or poverty indicator(s) for this : Source mix of thermal energy (heating and cooling) consumed within local boundary (increase)
+
+[10.1 fila 0] Use this field to provide any additional information or context that you feel is relevant to your jurisdiction's respons
+  - nan: According to Article 3 of the Electricity Act in Taiwan, the "analysis, formulation, and promotion of electricity policies" fall under the jurisdiction of the central government. The provision of electricity in Taiwan is managed by the Taiwan Power Company, which is granted a special license by the central government for planning and administration. The Taiwan Power Company operates power plants nationwide and coordinates the distribution to various counties and cities.Electricity supply in Taiwan is planned and managed by Taipower(Taiwan Power Company), which is chartered by the central government. Taipower set up power plants throughout the country and coordinated their distribution to all parts over the country. Therefore, in this questionnaire 3.1, 3.2, 6.1, and 9.1, the targets of power restructuring and the percentage of renewable energy and the implementation progress should take 

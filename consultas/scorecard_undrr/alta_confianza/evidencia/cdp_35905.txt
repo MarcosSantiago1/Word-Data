@@ -1,0 +1,200 @@
+# CDP Cities 2023 - Corporation of Chennai (org 35905) https://www.cdp.net/en/responses/35905
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: City/Municipality
+  - Next highest level of government: State/regional
+  - Next lowest level of government: City/Municipality
+  - Land area of the jurisdiction boundary (in square km)^: 426
+  - Percentage range of land area that is green space: 11-20%
+  - Current (or most recent) population size^: 8500000
+  - Population year^: 2021
+  - Projected population size: 17181897
+  - Projected population year: 2050
+  - Select the currency used for all financial information reported throug: INR Indian Rupee
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related responsibilities are assigned to management-level positions in the government
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking budgeting and/or major capital expenditures
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking plans and/or strategies
+  - Provide further details on your jurisdiction's oversight of climate-re: The state of Tamil Nadu through the Department of Environment, Forests and Climate Change (DoEFCC) has established the Tamil Nadu Climate Change Mission in 2022 under which a SPV namely Tamil Nadu Green Climate Company (TNGCC) has been set up. TNGCC works as a project management unit in studying, documenting climate change related issues/ risks across the state of Tamil Nadu  and  developing solutions to address these risks. The Greater Chennai Corporation under the Smart Cities Mission through the Chennai Smart City Limited - SPV have worked on implementing a number of climate initiatives and projects.
+  - Describe how climate-related issues have impacted your jurisdiction's : The 3 major climate issues affecting Chennai are Urban Floods/ Cyclones, Sea Level Rise and Heat waves. The Chennai Metropolitan Development Authority (CMDA) is preparing the 3rd Master Plan of Chennai. Under the preparation of the Master Plan number of studies such as Climate and Resilience Strategy, Blue-Green network study and Heat Island study have been taken up. Outcomes of these studies will help spatially identify areas at risk in the city and further help the city adopt policies to mitigate these risks.  The Chennai Climate Action Plan has been prepared by C40 in coordination with TN Govt. and GCC, and is also being considering for mainstreaming into the 3rd Master Plan of Chennai.
+  - Describe how climate-related issues have impacted your jurisdiction's : 1. Increased Expenditure incurred for relaying of roads, and desilting/ cleaning of canals.2. Expenditure on upgrading storm water drains in the city and increasing their capacity.
+  - Describe the risks to your jurisdiction related to the transition to a: 1. Increased use of EVs also means disposing of batteries at the end of life, if not done scientifically then it can be a risk. 2. With a major shift towards renewables going forward, unless we develop technology for energy storage- managing peak energy demand will be a challenge.
+
+[0.4 fila 1] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate action plan
+  - Level of governments engaged in the development, implementation and/or: Lower level of government
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Level of governments engaged in the development, implementation and/or: Higher level of government (not listed above)
+  - Outline the purpose of this engagement: To facilitate the integration of this component into assessments and policy developed across different levels of government
+  - Outline the purpose of this engagement: To facilitate capacity building across different levels of government
+  - Comment: Chennai's Climate Action Plan was launched on June 13 by the Hon' CM of Tamil Nadu. The state and local govt depts are working on integration of the climate actions into its existing plans/ projects.https://www.thehindu.com/news/cities/chennai/govt-releases-climate-action-plan-for-chennai-to-become-carbon-neutral-by-2050/article66965200.ece
+
+[0.5 fila 1] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Government/Public body
+  - Primary entity collaborated with (selection mandatory): Regional government
+  - Mechanisms used to collaborate: Multi-jurisdictional regional collaboratives
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Areas collaboration focused on: Natural environment
+  - Areas collaboration focused on: Adaptation
+  - Description of collaboration: The state government has set up the Climate Change Mission. Under this a framework has been created wherein all the districts in the state prepare climate action plans and work towards implementation of the same. https://currentaffairs.adda247.com/tamil-nadu-becomes-first-state-to-launch-its-own-climate-change-mission/https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-sets-up-climate-change-missions-in-all-38-districts/article65635181.ece
+  - Other entities collaborated with: Regional government
+  - Other entities collaborated with: Neighboring local government
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: Yes, a climate risk and vulnerability assessment has been undertaken
+
+[1.1a fila 1] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: https://data.opencity.in/dataset/chennai-climate-action-plan/resource/climate-action-plan-chennai---2022
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment can be accessed (unrestricted) on the link provided
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2023
+  - Factors considered in assessment: Assessment considers water security
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Factors considered in assessment: Assessment includes a high-emissions scenario (i.e., RCP 8.5)
+  - Factors considered in assessment: Identified hazards have been incorporated into the jurisdictions overall risk management framework
+  - Primary author(s) of assessment^: Consultant
+  - Please explain: with respect to water supply and sanitation - to increase groundwater table  - RWH and water body restoration has been done. Waste management- Biomining work on legacy waste , Macro and Micro Composting units in all zones, plastic waste sent to recyclers  , Energy With respect to energy to increase the supply of renewable energy through national, state and city solar programs.
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Coastal flooding (incl. sea level rise)
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Sectors most exposed^: Fishing
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Water supply
+  - Describe the impacts on vulnerable populations and sectors^: Many areas of the city adjoining the river banks are particularly vulnerable. The city administration has provided and relocated much of the vulnerable population by providing housing and other ameneties.
+  - Proportion of the population exposed to the hazard: <10%
+  - Did this hazard significantly impact your jurisdiction before this rep: No
+  - Current probability of hazard^: Medium Low
+  - Current magnitude of impact of hazard^: Medium Low
+  - Expected future change in hazard intensity^: Do not know
+  - Expected future change in hazard frequency^: Do not know
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Rapid urbanization
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: With growing population density in the city, more communities are at risk.
+
+[1.3 fila 2] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Budgetary capacity
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+
+[1.3 fila 3] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Infrastructure capacity
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: The city requires infrasturcture upgrades with respect to storm water drainage network, solid waste management infrastructure etc.
+
+[3.8 fila 1] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Identify the climate hazard(s) that most significantly impact the sele: Heavy precipitation
+  - Identify the health issues driven by the selected climate hazard(s): Vector-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Water-borne infections and illnesses
+  - Timeframe of impact: Medium-term (2026-2050)
+  - Identify which vulnerable populations are affected by the selected hea: Women and girls
+  - Identify which vulnerable populations are affected by the selected hea: Elderly
+  - Identify which vulnerable populations are affected by the selected hea: Children and youth
+  - Comment: stagnant water at few places is the main cause for water-born diseases which is been addressed by GCC.  Also low lying areas and human habitation around them is causing a problem of health and hygiene.
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Data availability: Data is available for the average household water consumption in litres per capita per day
+  - Data availability: Data is available for the percentage of households with access to safely managed drinking water services
+  - Percentage of households with access to safely managed drinking water : 90
+  - Percentage of households with access to safely managed sanitation serv: Question not applicable
+  - Household water consumption (litres/capita/day): 145
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: Yes, our jurisdiction has an adaptation goal(s)
+
+[4.1a fila 1] Report your jurisdiction’s main adaptation goals.
+  - Adaptation goal^: An Efficient Storm Water Management System to prevent pluvial flooding, Conservation of Natural Water Ecosystem and Water Resource Management and Disaster Risk Reduction
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Drought
+  - Climate hazards that goal addresses^: Water stress
+  - Base year of goal (or year goal was established if no base year)^: 2023
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: Storm Water Drain System Coverage in the City to reach 100% in extended areas. 35% green cover in the city by 2050.
+  - Comment: Chennai as a C40 city , we are inline with carbon reduction by 2030 and carbon neutrality by 2050
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: Yes, our jurisdiction has a climate action plan or strategy
+
+[7.1a fila 1] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Integrated climate plan (addressing mitigation, adaptation and energy-related issues)
+  - Attachment/link and name of plan^: https://data.opencity.in/dataset/bedee49c-deeb-4aab-be30-ec7ceac60d74/resource/42465716-438e-492c-8559-89cae8deb718/download/ccap_gcc_cscl_english.pdf
+  - Confirm attachment/link provided to plan (selection mandatory): The plan can be accessed (unrestricted) on the link provided
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Evaluation: Evaluation of plan takes place annually
+  - Funding sources and financial instruments to finance plan: National funds and programmes
+  - Funding sources and financial instruments to finance plan: Regional funds and programmes
+  - Funding sources and financial instruments to finance plan: Private partnerships (e.g., a combination of private investments)
+  - Funding sources and financial instruments to finance plan: Climate finance (carbon credits)
+  - Funding sources and financial instruments to finance plan: International (including ODA)
+  - Funding sources and financial instruments to finance plan: Jurisdiction's own resources
+  - Communities and organizations engaged^: Local government (s) and/or agencies
+  - Describe if and how climate-related scenarios have informed the plan: Detailed Climate Change Risk Assessment has been completed.
+  - Year of formal approval of plan^: 2019
+  - End year of plan: 2023
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Transport
+  - Project title: Public Cycle Share
+  - Stage of project development: Implementation
+  - Status of financing: Other, please specify
+  - Project description and attach project proposal: The project plans to implement 5000 cycles in phase 1.
+  - Total cost of project (in currency specified in 0.1): 1000000
+
+[7.5 fila 2] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Transport
+  - Project title: Mega Streets Project
+  - Stage of project development: Pre-feasibility/impact assessment
+  - Status of financing: Project not funded and seeking full funding
+  - Project description and attach project proposal: 120 Km mega street with walking space, playing areas, child and women-friendly streets, cycle lanes, parking management.The overall objective of the project is to reduce the dependency on personal motor vehicles and make Chennai a more pedestrian/ cycle friendly city.
+  - Total cost of project (in currency specified in 0.1): 1400000000
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Action (selections mandatory)^: Conservation and replanting mangrove forest
+  - Action description and web link to further information^: Creation of open space and parks, Waterbody restoration-Rejuvenation of lakes and ground water recharge.,  waste to energy, Cycle sharing, Also low lying areas and human habitation around them is causing a problem of health and hygiene.Cleaning of drains and nallasCreation of storm water drains and linking of storm water drains, cleaning and desilting ,Also low lying areas and human habitation around them is causing a problem of health and hygiene.
+  - Sectors adaptation action applies to^: Sewerage, wastewater management and remediation activities
+  - Sectors adaptation action applies to^: Waste management
+  - Sectors adaptation action applies to^: Conservation
+  - Co-benefits realized^: Increased social inclusion, equality and justice
+  - Co-benefits realized^: Increased water security
+  - Co-benefits realized^: Reduced disruption of energy, transport, water or communications networks
+  - Co-benefits realized^: Improved mobility and access
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 10-20%
+  - Proportion of natural systems with increased resilience due to adaptat: 30-40%
+  - Funding source(s): International (including ODA)
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): Regional funds and programmes
+  - Funding source(s): National funds and programmes
+  - Funding source(s): Climate finance (carbon credits)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 2000
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable
+
+[8.1 fila 2] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Action (selections mandatory)^: Improved drainage
+  - Climate hazard(s) that action addresses^: Coastal flooding (incl. sea level rise)
+  - Action description and web link to further information^: Platform has been set up with Anna University for spatial mapping  technology and monitoring, Information of command control center has also been setup by GCC. GCC is working on upgrading the capacity of existing storm water drains in Chennai.
+  - Sectors adaptation action applies to^: Sewerage, wastewater management and remediation activities
+  - Sectors adaptation action applies to^: Water supply
+  - Co-benefits realized^: Job creation
+  - Co-benefits realized^: Revenue generation
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 30-40%
+  - Proportion of natural systems with increased resilience due to adaptat: 40-50%
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 120
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable

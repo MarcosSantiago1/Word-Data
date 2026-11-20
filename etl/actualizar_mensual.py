@@ -8,7 +8,8 @@ Cómo funciona (paso a paso):
   2. Corre los scripts en orden, con ETL_REFRESCAR=1 para que vuelvan a bajar las fuentes:
        panel de países (paso 1 + paso 2) -> maestros -> alianzas -> Argentina por provincia
        -> Latinoamérica por subdivisión -> dimensiones nuevas y suicidio estandarizado (OMS)
-       -> paso 3 (las suma al panel) -> indicadores sociales -> modelo unificado (SQLite) -> bases regionales -> base absoluta
+       -> paso 3 (las suma al panel) -> indicadores sociales -> riesgo en ciudades
+       -> scorecard mundial -> cuatro enfoques urbanos -> k-means de ciudades -> metro por ciudad -> modelo unificado (SQLite) -> bases regionales -> base absoluta
   3. Si un paso falla (fuente caída, dominio bloqueado, cambio de formato), ese paso vuelve
      a su versión anterior y los siguientes siguen con ella. Nunca se pisan datos buenos.
   4. Controla cada archivo nuevo contra el anterior: si desaparece un archivo, se pierden
@@ -75,6 +76,16 @@ PASOS = [
      [["paso3_dimensiones_nuevas.py"]], ["datos_procesados"]),
     ("indicadores_sociales", "Educación, redes, videojuegos, construcción, cultura, apuestas y medallero",
      [["indicadores_sociales_digitales/extraer_indicadores_sociales.py"]], ["indicadores_sociales_digitales"]),
+    ("riesgo_ciudades", "Pérdidas por desastres y gasto en gestión del riesgo de 16 ciudades (DesInventar, S2iD, UNGRD, SICONFI, CUIPO)",
+     [["riesgo_ciudades/extraer_riesgo_ciudades.py"], ["riesgo_ciudades/cruce_scorecard.py"]], ["riesgo_ciudades"]),
+    ("riesgo_ciudades_mundo", "Scorecard UNDRR de las 375 ciudades del mundo de +2 millones: GHSL, sismos USGS y puntajes (sin rehacer los .xlsm)",
+     [["riesgo_ciudades_mundo/actualizar_mundo.py"]], ["riesgo_ciudades_mundo"]),  # lee datos_procesados/ y maestros/
+    ("enfoques_urbanos", "Cuatro enfoques del riesgo urbano en las 375 ciudades (ecología política, vulnerabilidad, metabolismo, gobernanza)",
+     [["enfoques_urbanos/construir_enfoques.py"]], ["enfoques_urbanos"]),  # lee riesgo_ciudades_mundo/ (después de ese paso)
+    ("clusters_ciudades", "K-means de las 375 ciudades: completo (31 indicadores) y urbano (17 que cambian dentro del país)",
+     [["clusters_ciudades/kmeans_ciudades.py"]], ["clusters_ciudades"]),  # lee enfoques_urbanos/datos (después de ese paso)
+    ("metro_ciudades", "Kilómetros de metro/subte por ciudad (375 ciudades) y por país (Wikipedia, Wikidata)",
+     [["metro_ciudades/extraer_metro.py"]], ["metro_ciudades"]),  # lee riesgo_ciudades_mundo/, maestros/ y datos_procesados/
     ("modelo_unificado", "Modelo unificado (SQLite)",
      [["modelo_unificado/construir_master.py"]], ["modelo_unificado"]),
     ("bases_regionales", "Bases Argentina, Latinoamérica y mundial (SQLite)",  # lee el master

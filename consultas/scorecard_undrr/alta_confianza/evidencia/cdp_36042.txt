@@ -1,0 +1,214 @@
+# CDP Cities 2023 - Ville de Douala (org 36042) https://www.cdp.net/en/responses/36042
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: Independent city / municipality
+  - Next highest level of government: State/regional
+  - Next lowest level of government: City/Municipality
+  - Land area of the jurisdiction boundary (in square km)^: 983
+  - Percentage range of land area that is green space: >60%
+  - Current (or most recent) population size^: 3926645
+  - Population year^: 2022
+  - Projected population size: 5700000
+  - Projected population year: 2025
+  - Select the currency used for all financial information reported throug: XAF CFA Franc BEAC
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Question not applicable
+  - Provide further details on your jurisdiction's oversight of climate-re: Question not applicable
+  - Describe how climate-related issues have impacted your jurisdiction's : Question not applicable
+  - Describe how climate-related issues have impacted your jurisdiction's : Question not applicable
+  - Describe the risks to your jurisdiction related to the transition to a: Question not applicable
+
+[0.4 fila 0] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Question not applicable
+  - Level of governments engaged in the development, implementation and/or: Question not applicable
+  - Outline the purpose of this engagement: Question not applicable
+  - Comment: Question not applicable
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: No, and we are not intending to undertake due to lack of financial capacity
+
+[1.1a fila 0] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: Question not applicable
+  - Confirm attachment/link provided to assessment (selection mandatory): Question not applicable
+  - Boundary of assessment relative to jurisdiction boundary^: Question not applicable
+  - Year of publication or approval^: Question not applicable
+  - Factors considered in assessment: Question not applicable
+  - Primary author(s) of assessment^: Question not applicable
+  - Please explain: Question not applicable
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Heat stress
+  - Vulnerable population groups most exposed: Low-income households
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Forestry
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Manufacturing
+  - Sectors most exposed^: Electricity, gas, steam and air conditioning supply
+  - Sectors most exposed^: Water supply
+  - Describe the impacts on vulnerable populations and sectors^: Le secteur Agricole dans la Ville de Douala fait face au stress thermique qui se traduit par le bouleversement des cycles de productions des principaux aliments de base cultivés (céréales, légumineuses, produits maraichers). les températures autour de 40 favorisent une forte variabilité de la productivité agricole, la baisse du niveau de la nappe phréatique, l'augmentation des niveaux d'évaporation des eaux douces, la réduction humidité du sol,  le raccourcissement des cycles végétatifs, et des menaces sur la sécurité alimentaire.Pour le secteur de la sylviculture, le stress thermique provoque :  l'augmentation de l’aridité et perte des habitats des espèces, la Diminution des espèces, Forte mortalité des espèces, biens et personnes exposés, Réduction des moyens de subsistance, diminution des revenus des professionnels du secteur. Le secteur  assainissement caractérisé par un réseau de 25
+  - Proportion of the population exposed to the hazard: 30-40%
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: Medium High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Not known (not possible to define)
+
+[1.2 fila 2] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Increased water demand
+  - Vulnerable population groups most exposed: Low-income households
+  - Sectors most exposed^: Manufacturing
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Describe the impacts on vulnerable populations and sectors^: A Douala c'est le Concessionnaire national en charge de la fourniture en eau potable qui est l'unique pourvoyeur des besoins en eau potable à la fois pour les ménages et les industries. Le changement climatique a provoqué une très grande variation du cycle des saisons  provoquant une diminution des capacités de pompage d'eau dans les ources d'approvisionnement de la Ville.  Face à l'augmentation de la population qui entraine, une augmentation de la consommation, les industries aussi voient leurs besoins en eau explosés. Cette forte demande peine à être satisfaite par le concessionnaire du réseau d'eau potable. cette situation contraint les ménages et les industries à engager l'aménagement des forages de plus en plus sophistiqués qui vont puisés dans des nappes de plus en plus profondes. la proximité avec la mer (océan atlantique) fait craindre une salinisation et  autre pollution des des
+  - Proportion of the population exposed to the hazard: 30-40%
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Budgetary capacity
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Les Elus locaux ont des difficultés pour mener à bien les actions et les activités identifiées ou alors programmées dans le cadre  de la lutte contre les changements climatiques. par exemple dans la ville de Douala. En effet, la Ville de Douala dispose d'un Plan directeur d'urbanisme d'une validité de 15 ans et dont la mise en œuvre a été chiffrée à un peu plus de 1500 milliards de F CFA tandis que  le budget de la ville se situe en moyenne à 60 milliards par an. Par ailleurs la structure de ce budget est structuré comme suit : 80% des ressources transférées de l'Etat et 20% de ressources propres. les actions d'atténuation des effets du changement climatique font l'objet du programme numéro 3 (faire de Douala une ville pilote en matière d'environnement), il prévoit l'aménagement de 250 km de drains, la construction des bassins de retenue, l'aménagement de lacs, de forêts urbaines, d'espa
+
+[3.8 fila 1] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: The jurisdiction is not yet able to measure climate change related health impacts, please explain
+  - Timeframe of impact: Question not applicable
+  - Identify which vulnerable populations are affected by the selected hea: Question not applicable
+  - What factors affect your jurisdiction’s ability to address the selecte: Question not applicable
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Data availability: Data is available for the average household water consumption in litres per capita per day
+  - Data availability: Data is available for the percentage of households with access to safely managed sanitation services
+  - Data availability: Data is available for the percentage of households with access to safely managed drinking water services
+  - Percentage of households with access to safely managed drinking water : 99.1
+  - Percentage of households with access to safely managed sanitation serv: 41.3
+  - Household water consumption (litres/capita/day): 11.34
+  - Comment: Il ressort d' une étude réalisée à Douala en 2019, que 65,55 de ménages consommaient de l'eau non potable et non sécurisée 53,69 de ménage  parcouraient entre 1 à 5 km et 49,25% marchaient plus de 15 minutes pour avoir de l'eau
+
+[3.13 fila 0] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Question not applicable
+  - Are you able to report volumetric data for this source?: Question not applicable
+  - Annual volume of water withdrawn per source (in megalitres) : Question not applicable
+  - Projected level of change over next 5-10 years: Question not applicable
+  - Comment: Question not applicable
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: Yes, our jurisdiction has an adaptation goal(s)
+
+[4.1a fila 1] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 1
+  - Adaptation goal^: Le PNACC Camerounais a pour objectif de :  1. Réduire la vulnérabilité du pays aux incidences des changements climatiques en  renforçant sa capacité d’adaptation et de résilience;  2. Faciliter l’intégration, de manière cohérente, de l’adaptation aux changements  climatiques dans les politiques, programmes et travaux pertinents, nouveaux ou en  cours, en particulier les processus et stratégies de planification du développement,  dans tous les secteurs concernés et à différents niveaux, selon qu’il convient.
+  - Climate hazards that goal addresses^: Heat stress
+  - Climate hazards that goal addresses^: Increased water demand
+  - Base year of goal (or year goal was established if no base year)^: 2015
+  - Target year of goal^: 2019
+  - Description of metric / indicator used to track goal^: Nombre de supports produits pour la sensibilisation aux changements climatiques (dépliants, documentaires, spots, communiqués, sites Web) Nombre de personnes sensibilisées Nombre de séminaires de sensibilisation organisés Nombre d’organes de liaison spécialisés sur le Changements climatiques (bulletins d’information, magazine, journaux) à bonne fréquence Nombre des émissions radio ou télévision spécialisées dans la diffusion de l’information climatique Nombre de personnes ayant consulté le site sur les changements climatiques Nombre de relais régionaux, départementaux, communaux et locaux (quartiers ou village)
+  - Comment: Risques pouvant entraver le fonctionnement du programme Absence de financement Interruption de financement Évènement climatique extrême et exceptionnel ou Insécurité
+
+[4.1a fila 2] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 2
+  - Adaptation goal^: Améliorer la résilience des populations aux effets du changement  climatique en les intégrant dans les Plans d’Affectation des Terres
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: Drought
+  - Base year of goal (or year goal was established if no base year)^: 2016
+  - Target year of goal^: 2020
+  - Description of metric / indicator used to track goal^: Nombre et qualité des cartes d’occupations des sols à diverses échelles Existence d’une évaluation des besoins futurs en terres suivant les grandes utilisations Diffusion par au moins deux canaux du schéma directeur d’aménagement national et des zones Nombre de plans de zonage au niveau national (aires protégées, forêts communautaires, terrains de parcours, etc.), des zones agro écologiques, des régions et des communes
+  - Comment: Risques pouvant entraver le fonctionnement du programme Manque de financement Conflit d’intérêt
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: No, and we are not intending to undertake due to lack of financial capacity
+
+[7.1a fila 0] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Question not applicable
+  - Attachment/link and name of plan^: Question not applicable
+  - Confirm attachment/link provided to plan (selection mandatory): Question not applicable
+  - Boundary of plan relative to jurisdiction boundary^: Question not applicable
+  - Processes for monitoring evaluation and updates of plan^: Question not applicable
+  - Funding sources and financial instruments to finance plan: Question not applicable
+  - Communities and organizations engaged^: Question not applicable
+  - Describe if and how climate-related scenarios have informed the plan: Question not applicable
+  - Primary author(s) of plan^: Question not applicable
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Question not applicable
+  - Year of formal approval of plan^: Question not applicable
+  - End year of plan: Question not applicable
+  - Total cost of implementation of plan (in currency specified in 0.1): Question not applicable
+  - Sectors covered by action plan: Question not applicable
+  - Please explain: Question not applicable
+
+[7.2 fila 0] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Question not applicable
+  - Attachment/ link and name of plan: Question not applicable
+  - Current status of plan: Question not applicable
+  - Boundary of plan relative to jurisdiction boundary: Question not applicable
+  - Year of formal approval of plan: Question not applicable
+  - End of year plan: Question not applicable
+  - Comment: Question not applicable
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Waste management (including waste recycling)
+  - Project title: DOUALA V PLASTIC WASTE RECYCLING  ( Recyclage et pavé en plastique )
+  - Stage of project development: Implementation
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Public finance - own budget
+  - Identified financing model: Grants
+  - Project description and attach project proposal: CONTEXTE : la ville de Douala aspire à etre une ville durable en 2035 . l'un des dégats écologiques récurant et actuel est la proliferation des dechets et plus particulirement des dechets plastique. En realité la problematique des dechets est un probleme environnemental. Malgré les differentes techniques de gestion des dechets et les reglementations relatives  aux activités de production, d'importation  et de commercialisation des emplaballages plastiques non biodegradables , la production de ce type de dechets dans notre ville est enorme à moyenne 600.000 tonnes par an  et la ville n'en reclycle que 17% et le reste se retrouve dans les caniveaux , les drains , les cours d'eau et contribuent à la survenance d'inondations qui sont le cauchemart des populations de le ville de Douala . Ce projet offre l'opportunité de recycler 60% des produits plastiques, tout en offrant la possibilité d'av
+  - Total cost of project (in currency specified in 0.1): 99.339
+  - Total investment cost needed if relevant (in currency specified in 0.1: 93.339
+
+[7.5 fila 2] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Energy efficiency (including public lighting)
+  - Project title: Projet d'éclairage public intelligent de la ville de Douala
+  - Stage of project development: Project feasibility
+  - Status of financing: Project not funded and seeking partial funding
+  - Identified financing model: Grants
+  - Identified financing model: Private investment
+  - Project description and attach project proposal: Le projet vise à mettre en place un système d'éclairage public qui comprendra (i) la modernisation des appareilsd'éclairage existants ainsi que (ii) l'installation complète de nouveaux appareils d'éclairage et de lampes.Il s’agira d’un réseau mixte composé de lampadaires alimentés par l'énergie conventionnelle du réseauélectrique national et de certains alimentés par les énergies renouvelables.Un système de gestion centralisée, servira de point d'ancrage du réseau, garantissant le contrôle et la gestionà distance des lampadaires.Le système disposera de fonctions télécommandées qui permettent la gradation dynamique, l'ajustement et ladétection des pannes, l'allumage et l'extinction automatiques le soir et à l'aube, ainsi qu'une infrastructure de mesure avancée de la consommation d'énergie.Principaux impacts attendus Système de gestion à distance Suivi en temps réel de la consommation R
+  - Total cost of project (in currency specified in 0.1): 152000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 200000
+
+[7.5 fila 3] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Water management
+  - Project title: Projet de Sauvegarde et de Valorisation du Fleuve Dibamba
+  - Stage of project development: Pre-feasibility/impact assessment
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Public finance - own budget
+  - Project description and attach project proposal: Ce bassin fait partie de la plaine côtière du Cameroun. C’est un milieu naturel spécifique à écologie fragile caractérisé par la présence de mangroves, de la forêt atlantique avec une biodiversité riche (faune et flore). Au gré de diverses contingences, le Bassin est désormais au cœur de multiples pressions qui induisent sa dégradation et formulent des préoccupations quant à la sauvegarde des écosystèmes naturels et de la biodiversité qu’il abrite. Les moteurs de cette dynamique dégradante agrègent à la fois, l’urbanisation galopante dans la partie Est de Douala, les pollutions industrielles, l’essor de l’extraction de sable dans le lit du fleuve, l’intensification de la pêche artisanale ; mais aussi le développement des activités agricoles à l’intérieur de la plaine alluviale voire globalement du bassin versant du fleuve.Face à pression urbaine et démographique susmentionnées, ces probl
+  - Total cost of project (in currency specified in 0.1): 200000000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 4000000000
+
+[7.6 fila 1] Report the factors that support climate-related investment and financial planning in your jurisdiction.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction’s own funds and budgetary means
+  - Comment: La  ville de Douala a besoin de mobiliser des ressources financières additionnelles pour son adaptation aux Changements Climatiques. Trois principales sources de financement sont souvent  mises à contribution : il s'agit du Budget d’investissement public de l’État ,des  Financements régionaux et internationaux , le Secteur privé ainsi que le  partenariat au niveau national avec des organismes et fonds spécialisés ainsi qu’avec les OSC internationales .
+  - Credit rating of jurisdiction: Jurisdiction has a domestic credit rating
+  - Comment: Dans la ville de Douala
+  - Decarbonising jurisdiction's investments: Jurisdiction has taken steps to decarbonise municipal investments
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Flood defence, such as flood levees and culverts
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Climate hazard(s) that action addresses^: Increased water demand
+  - Climate hazard(s) that action addresses^: Heat stress
+  - Action description and web link to further information^: S’adapter efficacement aux effets des changements climatiques nécessite un engagement de toute la société. Les consultations menées pendant le processus  Plan National d'adaptation aux changements climatiques du Cameroun (PNACC) ont montré qu’une grande majorité des populations et des décideurs est encore ignorantes des questions des changements climatiques. C’est pourquoi l’information sur les changements climatiques est un axe stratégique de ce premier PNACC. Il favorisera l’accès à l’information aux populations (en particulier en milieu rural), aux élus et aux étudiants. Il s’agit donc, à l’aide de la stratégie nationale de communication sur l’adaptation aux changements climatiques (élaborée en octobre 2011 en préambule du processus PNACC), de vulgariser l’information sur les risques dus aux impacts des changements climatiques et de promouvoir les mesures d’adaptation nécessaire. Deux
+  - Sectors adaptation action applies to^: Agriculture
+  - Sectors adaptation action applies to^: Sewerage, wastewater management and remediation activities
+  - Sectors adaptation action applies to^: Electricity, gas, steam and air conditioning supply
+  - Sectors adaptation action applies to^: Water supply
+  - Sectors adaptation action applies to^: Manufacturing
+  - Co-benefits realized^: Increased energy security
+  - Co-benefits realized^: Job creation
+  - Co-benefits realized^: Increased economic production
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 30-40%
+  - Funding source(s): Public-private partnerships
+  - Funding source(s): Private partnerships (e.g., a combination of private investments)
+  - Funding source(s): National funds and programmes
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 3.25
+
+[10.1 fila 0] Use this field to provide any additional information or context that you feel is relevant to your jurisdiction's respons
+  - nan: La Ville de Douala s'est investit dans la recherches de solutions aux effets du Changement climatique. C'est ainsi qu'elle a conclu avec la Direction de la Météorologie Nationale du Ministère des Transports camerounais, un accord-cadre de collaboration.Plusieurs axes, structurent cette collaboration, au rang desquels :•La réalisation de projets en lien avec les problématiques sur la météorologie et le climat, ou d’actions spécifiques décidés de commun accord ;•La collecte, le traitement, l’échange et la diffusion de l’information météorologique et climatologique ;•L’élaboration des prévisions météorologiques et la diffusion des informations y afférentes ;•Les actions de renforcement de capacités de personnels ;•La documentation dans le cadre des changements climatiques ;•La participation aux manifestations et activités de valorisation et de promotion des informations dans le cadre de la 

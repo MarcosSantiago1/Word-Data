@@ -1,0 +1,248 @@
+# CDP Cities 2023 - Dhaka South City (org 884005) https://www.cdp.net/en/responses/884005
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: City/Municipality
+  - Next highest level of government: State/regional
+  - Next lowest level of government: No lower level of government
+  - Land area of the jurisdiction boundary (in square km)^: 109.251
+  - Percentage range of land area that is green space: 11-20%
+  - Current (or most recent) population size^: 4299345
+  - Population year^: 2022
+  - Projected population size: 7492439
+  - Projected population year: 2050
+  - Select the currency used for all financial information reported throug: BDT Bangladeshi Taka
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Relevant departments, committees and/or subcommittees are informed by management about climate-related issues
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking plans and/or strategies
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking risk management policies
+  - Provide further details on your jurisdiction's oversight of climate-re: Prior to undertaking any climate-related initiatives, the Urban Planning Department of Dhaka North City Corporation (DSCC) and the Environment, Climate, and Disaster Management Circle play a pivotal role in addressing and assessing these matters. Various standing committees, including the DSCC’s Disaster Management Committee and Environment Development Standing Committee are dedicated to overseeing specific climate issues. Notably, a Climate Action Plan (CAP) is currently in development for DSCC and in this regard, a dedicated Climate Core Team has been assembled with representation of DSCC’s different sectoral departments to spearhead the preparation of the CAP.More can be found at this website: https://dscc.gov.bd/
+  - Describe how climate-related issues have impacted your jurisdiction's : Flooding: Dhaka is vulnerable to severe flooding due to its low-lying geography, inadequate drainage systems, and heavy monsoon rains. Flooding disrupts transportation, damages infrastructure, and affects livelihoods. In response, the city's master development plans have had to incorporate measures for improved urban drainage and flood management systems, such as building resilient infrastructure, elevating roads, and creating water retention areas. Major affected areas are ward number 52,53,60,61,62,65,66,67,68,75Water Scarcity: Despite being prone to flooding, Dhaka also faces water scarcity issues during dry periods. This has necessitated the implementation of water conservation measures, improved water supply systems, and the promotion of rainwater harvesting in the city's development planning.Heat Island Effect: The urban heat island effect in Dhaka is exacerbated by rapid urbanizat
+  - Describe how climate-related issues have impacted your jurisdiction's : As DSCC takes climate impacts into account, we may need to reallocate their budget to prioritize climate-resilient initiatives over other non-urgent projects.
+  - Describe the risks to your jurisdiction related to the transition to a: Currently, DSCC has not developed a specific low-carbon development strategy for its area. However, once the Climate Action Plan is finalized, it will incorporate significant low-carbon development policies and provide recommendations for future financial allocation and resource needs for specific strategy implementation. As the capital city, DSCC recognizes the importance of laying a strong foundation for sustainable low-carbon initiatives. To achieve this, certain groundwork should be undertaken at earlier stages:•Identify and prioritize low-carbon initiatives that align with DSCC’s financial capacity and resource availability. Additionally, exploring more financing mechanisms will help secure funding for these initiatives.•It is crucial for DSCC to invest in building the technical capacity and expertise of its staff. Enhancing knowledge and skills will facilitate the effective impleme
+
+[0.4 fila 1] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate action plan
+  - Level of governments engaged in the development, implementation and/or: Other, please specify: Local Government Institute
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into assessments and policy developed across different levels of government
+  - Outline the purpose of this engagement: Progress tracking and/or updates associated with this component are shared with a higher-level of government (e.g., via a digital platform)
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the National Adaptation Plan (NAP)
+  - Comment: ●To collect data and/or feedback from other levels of government to inform its development  ●To facilitate information sharing across different levels of government ●To facilitate the integration of this component into assessments and policy developed across different levels of government
+
+[0.5 fila 1] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): National government
+  - Primary entity collaborated with (selection mandatory)_G: Government/Public body
+  - Mechanisms used to collaborate: Nationally Determined Contribution (NDC) development/ implementation
+  - Mechanisms used to collaborate: Reporting of climate and/or environmental data
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Mechanisms used to collaborate: Project delivery - Build Operate Own Transfer
+  - Mechanisms used to collaborate: Knowledge or data sharing
+  - Mechanisms used to collaborate: Circular economy business model support
+  - Mechanisms used to collaborate: Climate action plan implementation
+  - Mechanisms used to collaborate: Financing (investment)
+  - Mechanisms used to collaborate: Requirement to develop emissions inventory
+  - Mechanisms used to collaborate: Requirement to develop and implement emissions reduction target
+  - Mechanisms used to collaborate: Multi-jurisdictional regional collaboratives
+  - Mechanisms used to collaborate: Project implementation and management
+  - Areas collaboration focused on: Energy
+  - Areas collaboration focused on: Natural environment
+  - Areas collaboration focused on: Public health
+  - Areas collaboration focused on: Ecosystem restoration
+  - Areas collaboration focused on: Waste
+  - Areas collaboration focused on: Emissions reduction
+  - Areas collaboration focused on: Adaptation
+  - Areas collaboration focused on: Water
+  - Areas collaboration focused on: Inclusive climate action and/or equity
+  - Areas collaboration focused on: Resilience
+  - Areas collaboration focused on: Landscape and jurisdictional approaches
+  - Description of collaboration: DSCC is engaged in collaboration with the selected entities (stakeholders in the city) to gather sectoral inputs and information, participate in consultations and share valuable insights. As the Climate Action Plan (CAP) progresses towards implementation, our further aim to collaborate with these stakeholders effectively during executing the plan's initiatives.
+  - Other entities collaborated with: Regional government
+  - Other entities collaborated with: National government
+  - Other entities collaborated with: Public authority
+  - Other entities collaborated with: Vulnerable population groups
+  - Other entities collaborated with: Academia
+  - Other entities collaborated with: Local government within country/area
+  - Other entities collaborated with: NGO and associations
+  - Other entities collaborated with: Climate initiatives/networks
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: No, but we are currently undertaking one and it will be complete in the next year
+
+[1.1a fila 0] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: Question not applicable
+  - Confirm attachment/link provided to assessment (selection mandatory): Question not applicable
+  - Boundary of assessment relative to jurisdiction boundary^: Question not applicable
+  - Year of publication or approval^: Question not applicable
+  - Factors considered in assessment: Question not applicable
+  - Primary author(s) of assessment^: Question not applicable
+  - Please explain: Question not applicable
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Heat stress
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Vulnerable health groups
+  - Vulnerable population groups most exposed: Women and girls
+  - Sectors most exposed^: Human health and social work activities
+  - Describe the impacts on vulnerable populations and sectors^: Waste management: Waste is not segregated, and mixed waste is directly dumped in landfills without treatment. Recycling mainly relies on the informal sector, and disposal sites are rapidly filling up with no viable alternatives.Water supply: The water supply distribution network is facing challenges to meet the increasing population's demands. High unaccounted for water (UFW) loss from leakages and unauthorized connections exacerbates the situation. Additionally, excessive groundwater usage is depleting the water table, raising concerns among city planners and policymakers.Drainage/sewerage: The drainage system faces issues like clogged drains due to open dumping and unregulated construction activities. This leads to frequent waterlogging and urban flooding during rainfall. Moreover, the natural drainage system, canals, is severely impacted due to unplanned urban growth and encroachment.
+  - Proportion of the population exposed to the hazard: 30-40%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 2] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Urban flooding
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Women and girls
+  - Sectors most exposed^: Waste management
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Transportation and storage
+  - Describe the impacts on vulnerable populations and sectors^: Water supply: The water supply distribution network is facing challenges to meet the increasing population's demands. High unaccounted for water (UFW) loss from leakages and unauthorized connections exacerbates the situation. Additionally, excessive groundwater usage is depleting the water table, raising concerns among city planners and policymakers.
+  - Proportion of the population exposed to the hazard: 40-50%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium High
+  - Current magnitude of impact of hazard^: Medium High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Access to basic services
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Due to having no specific database, DSCC right now doesn't have any specific activities regarding climate change.
+
+[1.3 fila 2] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Budgetary capacity
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Due to inadequate financial capacity, DSCC right now doesn't have any specific activities regarding climate change.
+
+[1.3 fila 3] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Environmental regularization of land
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Lack  of proper environmental pollution monitoring framework
+
+[3.8 fila 1] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: The jurisdiction is not yet able to measure climate change related health impacts, please explain
+  - Identify the climate hazard(s) that most significantly impact the sele: Increased water demand
+  - Identify the climate hazard(s) that most significantly impact the sele: Extreme heat
+  - Identify the health issues driven by the selected climate hazard(s): Exacerbation of non-communicable disease symptoms - respiratory disease
+  - Identify the health issues driven by the selected climate hazard(s): Water-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Heat-related illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Exacerbation of non-communicable disease symptoms - cardiovascular disease
+  - Timeframe of impact: Medium-term (2026-2050)
+  - Identify which vulnerable populations are affected by the selected hea: Frontline workers
+  - Identify which vulnerable populations are affected by the selected hea: Low-income households
+  - Identify which vulnerable populations are affected by the selected hea: Indigenous peoples
+  - Identify which vulnerable populations are affected by the selected hea: Other, please specify
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of financial capacity and expertise/technical capacity
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Data availability: None of the above data is available to report
+  - Percentage of households with access to safely managed drinking water : Question not applicable
+  - Percentage of households with access to safely managed sanitation serv: Question not applicable
+  - Household water consumption (litres/capita/day): Question not applicable
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: Yes, our jurisdiction has an adaptation goal(s)
+
+[4.1a fila 1] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 1
+  - Adaptation goal^: Strengthen Implementation of 3R (Reuse, Reduce, Recycle) Strategy
+  - Climate hazards that goal addresses^: Other, please specify: Solid waste management
+  - Base year of goal (or year goal was established if no base year)^: 2023
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: 1. Percentage of solid waste recovered and reused 2. Percentage of waste segregation and recycling 3. Percentage of waste diversion rate
+
+[4.1a fila 2] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 2
+  - Adaptation goal^: Improved municipal solid waste management and disposal
+  - Climate hazards that goal addresses^: Other, please specify: Solid waste management
+  - Base year of goal (or year goal was established if no base year)^: 2023
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: 1. Percentage of Illegal Dumping Reduction2. Hazardous Waste Management efficiency rate3. Rate of waste collection efficiency 4. Waste-to-Energy (WTE) Efficiency5. Percentage of efficient solid waste transportation and disposal 6. Percentage of Waste Sorting and Separation from municipal waste7. Frequency of waste audits
+
+[4.1a fila 3] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 3
+  - Adaptation goal^: Establish effective water resource management  - Climate resilient infrastructure for water supply - Encourage sustainable water use
+  - Climate hazards that goal addresses^: Increased water demand
+  - Base year of goal (or year goal was established if no base year)^: 2023
+  - Target year of goal^: 2030
+  - Description of metric / indicator used to track goal^: 1. Increased total percentage of HHs with 24 x 7 water supply2. Percentage of using energy efficient water resource management technology 3. Percentage of Compliance with Water Regulations4. Percentage of waterbodies rejuvenated per year (type of interventions implemented)5.Percentage of increased floating/ constructed wetlands6.Percentage of increased number of industries and commercial consumers reusing treated wastewater
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: No, but we are currently undertaking one and it will be complete in the next year
+
+[7.1a fila 0] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Question not applicable
+  - Attachment/link and name of plan^: Question not applicable
+  - Confirm attachment/link provided to plan (selection mandatory): Question not applicable
+  - Boundary of plan relative to jurisdiction boundary^: Question not applicable
+  - Processes for monitoring evaluation and updates of plan^: Question not applicable
+  - Funding sources and financial instruments to finance plan: Question not applicable
+  - Communities and organizations engaged^: Question not applicable
+  - Describe if and how climate-related scenarios have informed the plan: Question not applicable
+  - Primary author(s) of plan^: Question not applicable
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Question not applicable
+  - Year of formal approval of plan^: Question not applicable
+  - End year of plan: Question not applicable
+  - Total cost of implementation of plan (in currency specified in 0.1): Question not applicable
+  - Sectors covered by action plan: Question not applicable
+  - Please explain: Question not applicable
+
+[7.2 fila 1] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Buildings
+  - Attachment/ link and name of plan: https://www.apscl.com/download/Bangladesh%20National%20Building%20Code-2015%20Vol_1_3%20(Draft).pdfBangladesh National Building Codes
+  - Current status of plan: Implementation complete
+  - Boundary of plan relative to jurisdiction boundary: Larger – covers the whole jurisdiction and adjoining areas, please explain
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Buildings
+  - Project title: Eco-friendly smart city development
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Grants
+  - Project description and attach project proposal: Dhaka South City Corporation is Preparing 30 years Master Plan to ensure planned development, especially the newly added land to city jurisdiction. A new Eco Smart city is going to be established in the Fakirkhali area at ward no. 75 and a few parts of Ward 3, 9, and 70 - consisted of an area of 4000 acres beside the river BALU on the northeast edge of Dhaka.  Fakirkhali Eco Smart city will be a self-sufficient satellite city with the features of a large water-based Eco- Park & water retainer of the city, High-end water-based eco-housing, Eco resort, Educational Institutes, Housing for service providers, walkways and bicycle track, water based commercial area development (Trimohoni Junction development), Golf Course, River bank recreational space development, etc.
+  - Total cost of project (in currency specified in 0.1): 50000000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 50000000
+
+[7.6 fila 1] Report the factors that support climate-related investment and financial planning in your jurisdiction.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction borrows from national government
+  - Credit rating of jurisdiction: Jurisdiction does not have an international or domestic credit rating
+  - Decarbonising jurisdiction's investments: Do not know
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Other, please specify: parks and green spaces with better drainage and rainwater harvesting options
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Action description and web link to further information^: Several parks are being renovated with improved greening and rainwater harvesting options along with a better drainage system.
+  - Sectors adaptation action applies to^: Conservation
+  - Co-benefits realized^: Improved physical health
+  - Co-benefits realized^: Increased/improved green space
+  - Co-benefits realized^: Protected/improved biodiversity and ecosystem services
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 10-20%
+  - Funding source(s): Public-private partnerships
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): National funds and programmes
+  - Funding source(s): Private partnerships (e.g., a combination of private investments)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Other, please specify: actions would be incorporated with the ongoing master plan
+  - Does this action contribute to your jurisdiction’s energy access and/o: Yes
+  - Select the related energy access and/or poverty indicator(s) for this : Average duration of available electricity (increase)
+  - Select the related energy access and/or poverty indicator(s) for this : Energy consumption from renewable energy sources (decrease)
+  - Select the related energy access and/or poverty indicator(s) for this : Energy consumption from renewable energy sources (increase)
+  - Select the related energy access and/or poverty indicator(s) for this : Percentage of households within the municipality with access to clean cooking fuels and technologies (increase)
+  - Select the related energy access and/or poverty indicator(s) for this : Installed capacity of renewable energy sources within local boundary (increase)
+
+[10.1 fila 0] Use this field to provide any additional information or context that you feel is relevant to your jurisdiction's respons
+  - nan: DSCC is implementing projects like URP , DCNUP and integrated city master plan for the betterment of the city. Green and pedestrian friendly development is the prime focus. DSCC have also maintaining a dynamic command and control room for early warning monitoring and taking action.

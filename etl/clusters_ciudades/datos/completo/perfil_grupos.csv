@@ -1,0 +1,4 @@
+grupo,nombre,ciudades,poblacion_millones,z_epu,z_vse,z_mu,z_pg,indice_viv,amenaza,puntaje_scorecard,silueta_media,ciudades_tipicas,regiones_principales
+1,Baja criticidad,26,118.0,-0.322,-0.607,-0.031,-1.776,6.0,0.483,80.35,0.283,"París, Londres (Gran Londres), Nueva York, Roma, Madrid, Viena",Asia oriental y el Pacífico 10; Europa y Asia central 6; América del Norte 5
+2,Perfil intermedio,245,1293.6,-0.051,-0.099,0.028,0.112,43.5,0.461,54.4,0.309,"Harbin, Hanzhong, Anqing, Weihai, Deyang, Yongzhou",Asia oriental y el Pacífico 243; Europa y Asia central 2
+3,Alta vulnerabilidad,104,508.8,0.2,0.386,-0.059,0.18,78.55,0.508,44.15,0.04,"Medán, Bandung, Rawalpindi, Islamabad (Territorio Capital), Lima Metropolitana, Kocaeli","África al sur del Sahara 25; Oriente Medio, Norte de África, Afganistán y Pakistán 19; Asia meridional 17"
