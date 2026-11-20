@@ -1,6 +1,6 @@
 # Códigos de Python del proyecto
 
-Esta carpeta junta los 17 scripts de Python del proyecto, con las mismas subcarpetas que en `etl/`.
+Esta carpeta junta los 18 scripts de Python del proyecto, con las mismas subcarpetas que en `etl/`.
 
 **Es una copia.** Los originales siguen en `etl/` porque la actualización mensual (día 16) los
 corre desde ahí y porque los scripts se importan entre sí y buscan sus datos en su propia carpeta.
@@ -17,7 +17,7 @@ Por eso:
 
   Borra las copias anteriores, vuelve a copiar cada `.py` y `requirements.txt`, y no toca este README.
 
-Librerías necesarias: `pip install -r requirements.txt` (requests, pandas, openpyxl, xlrd, pyreadr, pycountry, lxml).
+Librerías necesarias: `pip install -r requirements.txt` (requests, pandas, openpyxl, xlrd, pyreadr, pycountry, lxml; statsmodels y scikit-learn solo para las regresiones).
 
 ## Orden de ejecución
 
@@ -39,6 +39,7 @@ Cada paso usa lo que dejaron los anteriores. Es el mismo orden que sigue `actual
 | 12 | `graficos_progreso/preparar_datos_progreso.py` | Prepara los datos y la página del gráfico "Progreso en el tiempo". | 1, 2, 3, 5, 6 |
 | 13 | `bases_regionales/construir_bases_regionales.py` | Separa todo en tres bases SQLite: Argentina (país + provincias), Latinoamérica (países + subdivisiones) y mundial. No baja nada: filtra el master y suma las tablas de Latam, festivales y KPIs. | 6, 10, 11 |
 | 14 | `base_absoluta/construir_base_absoluta.py` | Pone toda la información en una sola tabla: país, provincia/departamento, variable y una columna por año (`base_absoluta.csv` y `.sqlite`, más `diccionario_variables.csv`). No baja nada. | 5, 6, 10, 11 |
+| 15 | `regresiones/regresiones_exploratorias.py` | Ejemplos de regresión lineal (felicidad), logística (democracia) y panel con efectos fijos sobre `datos_procesados/paises_anual.csv`. Guarda `regresiones/resultados/*.csv`. Explicación en `regresiones/GUIA_REGRESIONES.md`. No es parte de la actualización mensual. | 1, 2 |
 
 ## Scripts de mantenimiento
 

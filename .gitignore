@@ -21,3 +21,6 @@ notebooks/proyecto_github/
 
 # Archivos adjuntados en el chat del proyecto
 uploads/
+
+# Respaldos completos de los datos (zip de ~240 MB, más que el límite de GitHub)
+respaldos/

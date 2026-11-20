@@ -65,6 +65,8 @@ TABLAS_ABIERTAS = {
     "hecho_subdivision_eleccion_gobernador": ("anio_eleccion", None, set()),
     "hecho_pais_poblacion_indigena": ("decada_censal", None, set()),
     "hecho_pais_perfil_factbook": (None, None, set()),
+    "hecho_pais_suicidio": ("anio", "sexo", set()),
+    "hecho_pais_suicidio_edad": ("anio", "sexo_edad", {"sexo", "grupo_edad"}),  # p. ej. "hombres 20-29"
 }
 
 # Nombres que se repiten en dos tablas del mismo nivel: se les antepone el tema
@@ -190,6 +192,8 @@ def construir():
             if t == "hecho_pais_perfil_factbook":
                 df["territorio"] = df["codigo_gec"].map(TERRITORIOS_FACTBOOK).fillna("")
                 apertura = "territorio"
+            if t == "hecho_pais_suicidio_edad":
+                df["sexo_edad"] = df["sexo"] + " " + df["grupo_edad"]
             if t == "hecho_subdivision_vab_rama":
                 ramas = leer_sql(con, "SELECT rama_nro, rama FROM dim_rama_cepal")
                 df = df.merge(ramas, on="rama_nro", how="left")

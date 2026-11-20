@@ -382,7 +382,9 @@ FLUJOS = {"M": "importaciones_consolas", "X": "exportaciones_consolas"}
 def consolas():
     reporteros = pd.read_json(descargar("https://comtradeapi.un.org/files/v1/app/reference/Reporters.json",
                                         "comtrade_reporteros.json"), typ="series")["results"]
-    iso = {r["reporterCode"]: r["reporterCodeIsoAlpha3"] for r in reporteros if not r["isGroup"]}
+    # Comtrade a veces trae una entrada con claves "Partner*" en vez de "reporter*" (Malvinas, 2026-11).
+    iso = {r.get("reporterCode", r.get("PartnerCode")): r.get("reporterCodeIsoAlpha3", r.get("PartnerCodeIsoAlpha3"))
+           for r in reporteros if not r["isGroup"]}
     filas = []
     for anio in range(ANIO_INICIO, date.today().year):
         codigo = "950450" if anio >= 2012 else "950410"

@@ -7,7 +7,8 @@ Cómo funciona (paso a paso):
      publicados no se tocan hasta el final.
   2. Corre los scripts en orden, con ETL_REFRESCAR=1 para que vuelvan a bajar las fuentes:
        panel de países (paso 1 + paso 2) -> maestros -> alianzas -> Argentina por provincia
-       -> Latinoamérica por subdivisión -> modelo unificado (SQLite) -> bases regionales -> base absoluta
+       -> Latinoamérica por subdivisión -> dimensiones nuevas y suicidio estandarizado (OMS)
+       -> paso 3 (las suma al panel) -> indicadores sociales -> modelo unificado (SQLite) -> bases regionales -> base absoluta
   3. Si un paso falla (fuente caída, dominio bloqueado, cambio de formato), ese paso vuelve
      a su versión anterior y los siguientes siguen con ella. Nunca se pisan datos buenos.
   4. Controla cada archivo nuevo contra el anterior: si desaparece un archivo, se pierden
@@ -18,6 +19,8 @@ Cómo funciona (paso a paso):
      fuentes posiblemente discontinuadas.
   7. Escribe el resumen en etl/actualizaciones/<fecha>_resumen.md y suma una fila por paso
      a etl/actualizaciones/historial.csv.
+  8. Guarda un respaldo propio de todos los datos en respaldos/respaldo_<fecha>.zip
+     (respaldar_datos.py): si una fuente desaparece, la copia queda.
 
 Uso:
     python actualizar_mensual.py            # actualiza y publica
@@ -66,7 +69,9 @@ PASOS = [
      [["latam_subnacional/extraer_latam_subnacional.py"]], ["latam_subnacional"]),
     ("dimensiones_nuevas", "Migración, clima, capital social, gobernanza, deuda y federalismo fiscal",
      [["fuentes_nuevas/extraer_dimensiones_nuevas.py"]], ["fuentes_nuevas"]),  # lee maestros/ y argentina_provincias/
-    ("panel_paso3", "Dimensiones nuevas sumadas al panel de países",  # después de panel_paises y dimensiones_nuevas
+    ("suicidio", "Tasa de suicidio estandarizada por edad (OMS)",
+     [["suicidio_estandarizado/extraer_suicidio_estandarizado.py"]], ["suicidio_estandarizado"]),
+    ("panel_paso3", "Dimensiones nuevas sumadas al panel de países",  # después de panel_paises, dimensiones_nuevas y suicidio
      [["paso3_dimensiones_nuevas.py"]], ["datos_procesados"]),
     ("indicadores_sociales", "Educación, redes, videojuegos, construcción, cultura, apuestas y medallero",
      [["indicadores_sociales_digitales/extraer_indicadores_sociales.py"]], ["indicadores_sociales_digitales"]),
@@ -355,6 +360,17 @@ def main():
     except Exception as error:
         lineas_fuentes = ["## Estado de las fuentes", f"- No se pudo hacer el chequeo: {error!r}"]
 
+    # Respaldo propio de todos los datos ya publicados. Si falla, no frena nada.
+    lineas_respaldo = []
+    if not prueba:
+        try:
+            from respaldar_datos import respaldar
+            zip_respaldo = respaldar()
+            lineas_respaldo = ["", f"Respaldo completo de los datos: respaldos/{zip_respaldo.name} "
+                                   f"({zip_respaldo.stat().st_size / 1e6:,.0f} MB)"]
+        except Exception as error:
+            lineas_respaldo = ["", f"**No se pudo hacer el respaldo de los datos: {error!r}**"]
+
     # Resumen
     fallos = [r for r in resultados if r["estado"] != "actualizado"]
     lineas = [f"# Actualización mensual {hora}" + (" (PRUEBA: no se publicó nada)" if prueba else ""), ""]
@@ -365,7 +381,7 @@ def main():
         lineas.append(f"Todos los pasos se actualizaron. {len(cambios)} archivos cambiaron.")
     lineas += ["", "| Paso | Estado | Minutos |", "|---|---|---|"]
     lineas += [f"| {r['descripcion']} | {r['estado']} | {r['minutos']} |" for r in resultados]
-    lineas += ["", *lineas_fuentes]
+    lineas += ["", *lineas_fuentes, *lineas_respaldo]
     for r in resultados:
         if r["detalle"]:
             lineas += ["", f"## {r['descripcion']}: {r['estado']}", *[f"- {d}" for d in r["detalle"]],

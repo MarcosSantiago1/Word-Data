@@ -16933,7 +16933,7 @@
                 "INICIO PERIODO LEGAL": "2023-12-10",
 		"CESE PERIODO LEGAL": "2029-12-09",
                 "INICIO PERIODO REAL": "2023-12-10",
-		"CESE PERIODO REAL": "Sin Datos",
+		"CESE PERIODO REAL": "2026-09-29",
                 "PROVINCIA": "LA RIOJA",        
                 "PARTIDO POLITICO O ALIANZA": "ALIANZA LA LIBERTAD AVANZA",  
                 "REEMPLAZO": "",  
@@ -17086,8 +17086,8 @@
             {
                 "ID": "576",
                 "SENADOR": "MANZUR, JUAN LUIS",
-                "INICIO PERIODO LEGAL": "2023-12-09",
-		"CESE PERIODO LEGAL": "2029-12-09",
+                "INICIO PERIODO LEGAL": "2021-12-09",
+		"CESE PERIODO LEGAL": "2027-12-09",
                 "INICIO PERIODO REAL": "2023-12-09",
 		"CESE PERIODO REAL": "Sin Datos",
                 "PROVINCIA": "TUCUMÁN",        
@@ -17938,6 +17938,19 @@
                 "PROVINCIA": "SANTIAGO DEL ESTERO",        
                 "PARTIDO POLITICO O ALIANZA": "FRENTE CÍVICO POR SANTIAGO",  
                 "REEMPLAZO": "",  
+                "OBSERVACIONES": ""  
+				
+            },
+            {
+                "ID": "597",
+                "SENADOR": "LÓPEZ, CLAUDIA CECILIA",
+                "INICIO PERIODO LEGAL": "2023-12-10",
+		"CESE PERIODO LEGAL": "2029-12-09",
+                "INICIO PERIODO REAL": "2026-10-29",
+		"CESE PERIODO REAL": "Sin Datos",
+                "PROVINCIA": "LA RIOJA",        
+                "PARTIDO POLITICO O ALIANZA": "ALIANZA LA LIBERTAD AVANZA",  
+                "REEMPLAZO": "PAGOTTO, JUAN CARLOS",  
                 "OBSERVACIONES": ""  
 				
             }
