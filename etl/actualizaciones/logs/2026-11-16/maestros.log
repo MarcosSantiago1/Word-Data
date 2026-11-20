@@ -1,0 +1,14 @@
+
+$ python maestros/crear_maestros.py --descargar
+Descargando crudos (solo si faltan)...
+  bajando banco_mundial_paises_es.json
+  bajando banco_mundial_paises_en.json
+  bajando wikidata_subdivisiones_p300.csv
+  AVISO_FUENTE wikidata_subdivisiones_p300.csv: falló la descarga (respuesta cortada por timeout del servidor); se usa la copia anterior
+  bajando wikidata_paises_p298.csv
+  AVISO_FUENTE wikidata_paises_p298.csv: falló la descarga (Response ended prematurely); se usa la copia anterior
+Armando subdivisiones...
+Armando países...
+paises_maestro.csv: 251 filas (217 del panel)
+subdivisiones_maestro.csv: 3590 filas de 200 países
+Países del panel sin subdivisiones ISO: ['ABW', 'ASM', 'BMU', 'CHI', 'CUW', 'CYM', 'FRO', 'GIB', 'GUM', 'HKG', 'IMN', 'MAC', 'MAF', 'MNP', 'NCL', 'PRI', 'PYF', 'SXM', 'TCA', 'VGB', 'VIR', 'XKX']

@@ -80,7 +80,7 @@ dhaka_sur,3,4,7.14,1918-07-08,"24 km N of Kishorganj, Bangladesh"
 chittagong,3,5,6.4,1921-03-30,"9 km WNW of L?lmohan, Bangladesh"
 gazipur,2,3,7.14,1918-07-08,"24 km N of Kishorganj, Bangladesh"
 tokio,56,198,7.96,1923-09-01,"5 km SSE of ?iso, Japan"
-yokohama,56,212,7.96,1923-09-01,"5 km SSE of ?iso, Japan"
+yokohama,56,213,7.96,1923-09-01,"5 km SSE of ?iso, Japan"
 osaka,21,26,8.1,1944-12-07,1944 Toankai Earthquake
 nagoya,17,22,6.91,1909-08-14,"23 km SSE of Ono, Japan"
 seul,0,0,5.1,1982-02-14,"8 km WNW of Ayang-ni, North Korea"
@@ -119,7 +119,7 @@ addis_abeba,0,1,5.9,2025-02-14,"5 km NNW of Metahāra, Ethiopia"
 nairobi,0,0,,,
 dar_es_salaam,1,3,6.0,2020-08-12,"66 km NNE of Kilindoni, Tanzania"
 kinsasa,0,0,,,
-mbuji_mayi,0,0,,,
+mbuji_mayi,0,0,5.0,2026-11-13,"85 km W of Mwene-Ditu, Democratic Republic of the Congo"
 luanda,0,0,,,
 lagos,0,0,,,
 abuja,0,0,,,
