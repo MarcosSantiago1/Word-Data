@@ -1,0 +1,17 @@
+ciudad_id,ciudad,iso3,poblacion_ref,fuentes,cobertura_desde,cobertura_hasta,anios_comun,eventos_por_anio_comun,muertos_x100mil_anio_comun,viv_destruidas_x100mil_anio_comun,viv_afectadas_x100mil_anio_comun,muertos_total_comun,anios_todo,eventos_por_anio_todo,muertos_x100mil_anio_todo,viv_destruidas_x100mil_anio_todo,viv_afectadas_x100mil_anio_todo,muertos_total_todo
+sao_paulo,São Paulo,BRA,11451999,Atlas Digital de Desastres (S2iD),2000,2020,14,4.07,0.028,0.518,1.473,45,21,2.9,0.019,0.346,5.576,46
+rio,Rio de Janeiro,BRA,6211423,Atlas Digital de Desastres (S2iD),2007,2024,14,0.21,0.07,0.0,0.0,61,18,1.28,0.071,0.272,0.021,79
+brasilia,Brasília (Distrito Federal),BRA,2817381,Atlas Digital de Desastres (S2iD),2013,2025,14,0.14,0.005,0.008,0.251,2,13,1.08,0.008,3.503,0.434,3
+salvador,Salvador,BRA,2418005,Atlas Digital de Desastres (S2iD),2003,2022,14,0.43,0.012,1.368,3.016,4,20,0.55,0.039,1.046,3.313,19
+fortaleza,Fortaleza,BRA,2428678,Atlas Digital de Desastres (S2iD),2001,2023,14,0.29,0.032,2.803,16.202,11,23,0.35,0.02,1.706,9.862,11
+belo_horizonte,Belo Horizonte,BRA,2315560,Atlas Digital de Desastres (S2iD),2003,2024,14,0.71,0.08,1.82,7.49,26,22,1.18,0.09,2.389,8.698,46
+manaus,Manaus,BRA,2063547,Atlas Digital de Desastres (S2iD),2007,2024,14,0.71,0.01,4.708,24.839,3,18,1.67,0.054,11.889,45.991,20
+cdmx,Ciudad de México,MEX,9209944,DesInventar,2000,2013,14,105.29,0.091,0.167,28.24,117,14,105.29,0.091,0.167,28.24,117
+lima,Lima Metropolitana,PER,10292408,DesInventar,2000,2015,14,16.57,0.024,0.556,2.413,35,16,15.19,0.024,0.486,2.117,40
+bogota,Bogotá D.C.,COL,7918660,DesInventar + UNGRD (datos.gov.co),2000,2025,14,23.29,0.041,0.572,29.412,46,26,29.27,0.024,0.324,17.505,50
+medellin,Medellín,COL,2524747,DesInventar + UNGRD (datos.gov.co),2000,2025,14,11.29,0.354,0.687,4.091,125,26,13.35,0.224,0.628,4.467,147
+cali,Santiago de Cali,COL,2283846,DesInventar + UNGRD (datos.gov.co),2000,2025,14,18.93,0.081,0.316,45.077,26,26,18.69,0.088,0.207,25.381,52
+guayaquil,Guayaquil,ECU,2650288,DesInventar,2000,2023,14,16.29,0.049,0.388,4.76,18,24,122.75,0.042,0.387,5.399,27
+quito,Quito (Distrito Metropolitano),ECU,2679722,DesInventar,2000,2023,14,213.64,0.315,0.24,1.327,118,24,287.71,0.28,0.191,2.236,180
+caracas,Caracas (Municipio Libertador),VEN,2091452,DesInventar,2000,2015,14,37.43,0.461,13.231,28.623,135,16,35.31,0.403,11.586,25.162,135
+caba,Buenos Aires (CABA),ARG,3121707,DesInventar,2000,2015,14,56.36,0.094,0.011,0.016,41,16,54.62,0.084,0.01,0.014,42

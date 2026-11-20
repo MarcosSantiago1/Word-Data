@@ -1,0 +1,145 @@
+# CDP Cities 2023 - Municipalité de Kinshasa (org 895230) https://www.cdp.net/en/responses/895230
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: City/Municipality
+  - Next highest level of government: State/regional
+  - Next lowest level of government: County / Province
+  - Land area of the jurisdiction boundary (in square km)^: 9965
+  - Percentage range of land area that is green space: >60%
+  - Current (or most recent) population size^: 17000000
+  - Population year^: 2017
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Relevant departments, committees and/or subcommittees are informed by management about climate-related issues
+  - Provide further details on your jurisdiction's oversight of climate-re: La République Démocratique du Congo (RDC) est le deuxième plus grand et le quatrième pays le plus peuplé d'Afrique, étendu sur une superficie 2.345.441 km² avec une population de 78,7 millions. Toutefois, ce pays possède l'un des plus faibles taux d'électrification dans le monde. Seulement environ  10% de la population a accès à l'électricité, 35% dans les zones urbaines (44% à Kinshasa) et moins de 1% dans les zones rurales. La société nationale de services publics, la SNEL (Société Nationale  d'Electricité), représente 94% de la capacité totale installée (2.677 MW) et la quasi-totalité de l'électricité  est produite à partir de l'énergie hydraulique. Dans les zones hors réseau, la demande d'électricité est satisfaite par des petits générateurs diesel dispersés, des lampes à pétrole et des torches de batterie. La dépendance aux combustibles fossiles, qui est insoutenable et coûteuse, de
+  - Describe how climate-related issues have impacted your jurisdiction's : La République Démocratique du Congo (RDC) figure, depuis juin 1992, parmi les plus de 185 pays qui font parties de la Convention Cadre des Nations Unies sur les Changements Climatiques (CCNUCC). C’est à ce titre qu’elle a entrepris depuis lors, une série d’activités scientifiques conformes aux engagements auxquels elle a souscrit, à savoir l’Inventaire de ses émissions des Gaz à Effet de Serre (GES) pour l’année 1994, lequel a abouti à la Communication Initiale Nationale sur les changements climatiques présentée en 2002 à New Delhi, lors de la 8ème Conférence des Parties (CoP8). Dans le même ordre d’idée, le pays a entrepris d’élaborer son premier Programme d’Action National d’Adaptation aux changements climatiques (PANA), tandis que les travaux pour la seconde communication viennent de démarrer. L’état des lieux actuel du pays en matière des changements climatiques que reprend le présen
+  - Describe how climate-related issues have impacted your jurisdiction's : Les changements climatiques exposent le système financier et l’économie à des risques importants. Ces risques comprennent les perturbations découlant de phénomènes météorologiques extrêmes plus fréquents et plus violents, ainsi que les risques liés à la transition vers une économie à faibles émissions de carbone ou carboneutre.La majorité de la population vit essentiellement de l'agropastorale, les problèmes liés au réchauffement climatique ont fait que qu'on n'a plus des grandes pluies et cela a de l'impact important sur la production. Etant donné que la production agricole est moindre, il y a aussi moins de recettes ou des revenus pour les populations locales.Bref, les températures plus élevées diminuent les rendements des cultures utiles tout en entrainant une prolifération des mauvaises herbes et des parasites. La modification des régimes de précipitations augmente la probabilité de 
+  - Describe the risks to your jurisdiction related to the transition to a: La transition vers une économie sobre en carbone implique de mener des travaux sur plusieurs fronts : mesures internationales, innovations technologiques, finance plus durable, grands changements socio-économiques, etc. Ces efforts pour décarboner l’économie ouvrent des possibilités en matière d’investissement et de croissance verte, mais ils présentent aussi des risques.Les changements climatiques ont un impact sur la qualité de l'eau dans nos  régions qui connaissent déjà un déficit hydrique et dans tous les pays en développement, l'agriculture absorbe près de 95 % d'eau. Le climat d’un pays constitue une de ses ressources naturelles fondamentales. En effet, tous les facteurs climatiques sont des facteurs écologiques. Or, ce sont ces derniers qui déterminent un écosystème donné. Cependant, avec l’entrée de la terre dans l’ère dite « de l’Anthropocène », les activités  humaines – ou la 
+
+[0.4 fila 1] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Question not applicable
+  - Level of governments engaged in the development, implementation and/or: Question not applicable
+  - Outline the purpose of this engagement: Question not applicable
+  - Comment: Question not applicable
+
+[0.5 fila 1] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Civil society
+  - Primary entity collaborated with (selection mandatory): Climate initiatives/networks
+  - Mechanisms used to collaborate: Multi-jurisdictional regional collaboratives
+  - Mechanisms used to collaborate: Collaborative initiative
+  - Areas collaboration focused on: Transport (Mobility)
+  - Areas collaboration focused on: Emissions reduction
+  - Description of collaboration: Rédiger différents projets sur la réduction des émissions de gaz à effet desserre  et ceux de transport (mobilité) ne provoquant pas assez de gaz  qui perturbent l'atmosphère et la respiration des êtres vivants.
+  - Other entities collaborated with: National government
+
+[0.5 fila 2] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): Other, please specify
+  - Primary entity collaborated with (selection mandatory)_G: No significant examples of collaboration to report
+  - Mechanisms used to collaborate: Question not applicable
+  - Areas collaboration focused on: Question not applicable
+  - Description of collaboration: Question not applicable
+  - Other entities collaborated with: Question not applicable
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: No, but we are currently undertaking one and it will be complete in the next year
+
+[1.1a fila 0] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: Question not applicable
+  - Confirm attachment/link provided to assessment (selection mandatory): Question not applicable
+  - Boundary of assessment relative to jurisdiction boundary^: Question not applicable
+  - Year of publication or approval^: Question not applicable
+  - Factors considered in assessment: Question not applicable
+  - Primary author(s) of assessment^: Question not applicable
+  - Please explain: Question not applicable
+
+[3.8 fila 1] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: The jurisdiction is not yet able to measure climate change related health impacts, please explain
+  - Identify the climate hazard(s) that most significantly impact the sele: Extreme heat
+  - Identify the health issues driven by the selected climate hazard(s): Heat-related illnesses
+  - Timeframe of impact: Question not applicable
+  - Identify which vulnerable populations are affected by the selected hea: Question not applicable
+  - What factors affect your jurisdiction’s ability to address the selecte: Question not applicable
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Data availability: Data is available for the average household water consumption in litres per capita per day
+  - Percentage of households with access to safely managed drinking water : Question not applicable
+  - Percentage of households with access to safely managed sanitation serv: Question not applicable
+  - Household water consumption (litres/capita/day): 175
+
+[3.13 fila 0] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Question not applicable
+  - Are you able to report volumetric data for this source?: Question not applicable
+  - Annual volume of water withdrawn per source (in megalitres) : Question not applicable
+  - Projected level of change over next 5-10 years: Question not applicable
+  - Comment: Question not applicable
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: Yes, our jurisdiction has an adaptation goal(s)
+
+[4.1a fila 1] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 1
+  - Climate hazards that goal addresses^: Increased water demand
+  - Climate hazards that goal addresses^: Extreme heat
+  - Base year of goal (or year goal was established if no base year)^: 2020
+  - Target year of goal^: 2021
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: No, and we are not intending to undertake due to lack of financial capacity and expertise/technical capacity
+
+[7.1a fila 0] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Question not applicable
+  - Attachment/link and name of plan^: Question not applicable
+  - Confirm attachment/link provided to plan (selection mandatory): Question not applicable
+  - Boundary of plan relative to jurisdiction boundary^: Question not applicable
+  - Processes for monitoring evaluation and updates of plan^: Question not applicable
+  - Funding sources and financial instruments to finance plan: Question not applicable
+  - Communities and organizations engaged^: Question not applicable
+  - Describe if and how climate-related scenarios have informed the plan: Question not applicable
+  - Primary author(s) of plan^: Question not applicable
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Question not applicable
+  - Year of formal approval of plan^: Question not applicable
+  - End year of plan: Question not applicable
+  - Total cost of implementation of plan (in currency specified in 0.1): Question not applicable
+  - Sectors covered by action plan: Question not applicable
+  - Please explain: Question not applicable
+
+[7.2 fila 1] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Question not applicable
+  - Attachment/ link and name of plan: Question not applicable
+  - Current status of plan: Question not applicable
+  - Boundary of plan relative to jurisdiction boundary: Question not applicable
+  - Year of formal approval of plan: Question not applicable
+  - End of year plan: Question not applicable
+  - Comment: Question not applicable
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Waste management (including waste recycling)
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Grants
+  - Total cost of project (in currency specified in 0.1): 4500000
+  - Total investment cost needed if relevant (in currency specified in 0.1: 4550000
+
+[7.6 fila 1] Report the factors that support climate-related investment and financial planning in your jurisdiction.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Question not applicable
+  - Comment: Question not applicable
+  - Credit rating of jurisdiction: Question not applicable
+  - Comment: Question not applicable
+  - Decarbonising jurisdiction's investments: Question not applicable
+  - Comment: Question not applicable
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Action (selections mandatory)^: Afforestation and reforestation
+  - Climate hazard(s) that action addresses^: Action does not address hazard
+  - Sectors adaptation action applies to^: Forestry
+  - Co-benefits realized^: Increased economic production
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 40-50%
+  - Funding source(s): International (including ODA)
+  - Funding source(s): Climate finance (carbon credits)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 4550000
+
+[10.1 fila 0] Use this field to provide any additional information or context that you feel is relevant to your jurisdiction's respons
+  - nan: continuation of text in (0.2) ->Chaque projet de mini-réseau comporte deux composants – le composant 1 couvrant la centrale de production d'énergie solaire photovoltaïque et le stockage de la batterie, et le composant 2 couvrant les réseaux de distribution, les connexions et la sauvegarde. L'investissement de la BAD et du FVC ne couvre uniquement que les besoins de financement des actifs d'énergie renouvelable (à savoir l'énergie solaire photovoltaïque et les batteries - Composante 1) et non les besoins en infrastructures et la sauvegarde. Les contributions aux dépenses d’investissement attendues d’autres partenaires de développement sous forme de subventions ou autre quasi-fonds propres (à déterminer - discussions en cours) visent à soutenir le financement de la sauvegarde d’urgence, des réseaux de distribution et la connexion des ménages (Composante 2). Ces investissements serviront co

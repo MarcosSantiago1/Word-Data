@@ -1,0 +1,70 @@
+id,cdp_org,cdp_nombre,cdp_km,nombre
+sao_paulo,31184,Prefeitura de São Paulo,11.1,São Paulo
+cdmx,31172,Mexico City,0.4,Ciudad de México
+lima,31170,Metropolitan Municipality of Lima,1.5,Lima Metropolitana
+bogota,31154,Bogotá Distrito Capital,6.8,Bogotá D.C.
+rio,57509,Prefeitura de Niterói,8.6,Rio de Janeiro
+brasilia,35995,Distrito Federal (Brasília),18.4,Brasília (Distrito Federal)
+guayaquil,36045,Santiago de Guayaquil,4.2,Guayaquil
+quito,42178,Distrito Metropolitano de Quito,7.9,Quito (Distrito Metropolitano)
+medellin,35873,Medellín,2.6,Medellín
+salvador,42120,City of Salvador,0.4,Salvador
+belo_horizonte,35848,Municipality of Belo Horizonte,0.7,Belo Horizonte
+cali,36037,Santiago de Cali,0.3,Cali (Santiago de Cali)
+manaus,50391,Prefeitura de Manaus,0.2,Manaus
+caba,31155,City of Buenos Aires,0.4,Buenos Aires (CABA)
+nueva_york,3417,"New York City, NY",0.5,Nueva York
+los_angeles,10894,"City of Los Angeles, CA",0.4,Los Ángeles
+chicago,3203,"City of Chicago, IL",0.2,Chicago
+houston,31108,"City of Houston, TX",0.1,Houston
+toronto,31117,"City of Toronto, ON",0.4,Toronto
+londres,3422,Greater London Authority,3.6,Londres (Gran Londres)
+berlin,31153,City-State of Berlin,0.3,Berlín
+paris,31175,City of Paris,0.4,París
+estambul,31163,Istanbul Metropolitan Municipality,0.2,Estambul
+esmirna,841980,Karsiyaka Municipality,4.9,Esmirna
+dubai,43938,"The Executive Council, Govt of Dubai",0.5,Dubái
+aman,54337,Greater Amman Municipality,0.5,Amán
+delhi,31157,City of Delhi,14.8,Delhi (Corporación Municipal)
+bangalore,35907,Bengaluru,0.5,Bangalore
+chennai,35905,Corporation of Chennai,3.7,Chennai
+calcuta,35904,Kolkata Metropolitan Area,0.5,Calcuta
+karachi,31168,City District Government Karachi,13.2,Karachi
+dhaka_norte,50782,Dhaka North City,1.2,Daca Norte
+dhaka_sur,50782,Dhaka North City,11.2,Daca Sur
+yokohama,31113,City of Yokohama,0.4,Yokohama
+seul,31187,Seoul Metropolitan Government,0.4,Seúl
+hong_kong,31169,Government of Hong Kong Special Administrative Region,4.7,Hong Kong
+nuevo_taipei,56276,New Taipei City Government,1.4,Nuevo Taipéi
+taichung,54389,Taichung City Government,2.7,Taichung
+kaohsiung,31112,Kaohsiung City Government,4.5,Kaohsiung
+taipei,31446,Taipei City Government,0.5,Taipéi
+taoyuan,54395,Taoyuan City Government,0.4,Taoyuan
+ho_chi_minh,31164,Ho Chi Minh City,4.8,Ciudad Ho Chi Minh
+hanoi,31158,Hanoi City,3.7,Hanói
+bangkok,31150,Bangkok Metropolitan Administration,6.2,Bangkok
+quezon,54354,City Government of Makati,14.0,Ciudad Quezón
+yakarta,31166,Jakarta City Government,3.2,Yakarta
+bekasi,31166,Jakarta City Government,15.6,Bekasi
+singapur,35993,Singapore Government,0.2,Singapur
+addis_abeba,31146,Addis Ababa City Administration,1.6,Adís Abeba
+nairobi,35913,City of Nairobi,0.3,Nairobi
+dar_es_salaam,35893,City of Dar es Salaam,0.3,Dar es-Salaam
+lagos,31167,City of Lagos,0.5,Lagos
+abuja,36043,Abuja Federal Capital Territory,10.2,Abuya (Territorio de la Capital Federal)
+abiyan,36004,City of Abidjan,0.2,Abiyán
+duala,36042,Ville de Douala,1.9,Duala
+yaunde,831618,Yaoundé 4,0.5,Yaundé
+johannesburgo,31115,City of Johannesburg,0.5,Johannesburgo
+ciudad_del_cabo,35858,City of Cape Town,0.7,Ciudad del Cabo
+durban,35863,eThekwini Municipality,0.2,Durban (eThekwini)
+ekurhuleni,35864,Ekurhuleni Metropolitan Municipality,3.5,Ekurhuleni
+tshwane,49360,City of Tshwane,0.5,Tshwane (Pretoria)
+chengdu,54291,Chengdu Municipal Government,1.8,Chengdu
+guangzhou,54293,People's Government of Guangzhou Municipality,0.4,Cantón
+wuhan,54289,Wuhan Municipal People's Government,6.0,Wuhan
+dongguan,51075,City of Shenzhen,15.9,Dongguan
+qingdao,54290,Qingdao Municipal Government,4.0,Qingdao
+foshan,54293,People's Government of Guangzhou Municipality,19.7,Foshan
+nanjing,60546,Nanjing Municipal People's Government,1.7,Nankín
+dalian,54298,Dalian Municipal People's Government,5.2,Dalian

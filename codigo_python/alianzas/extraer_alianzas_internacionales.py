@@ -37,6 +37,7 @@ Requiere: requests, pandas, pyreadr, pycountry
 
 import pathlib
 import re
+from datetime import date
 import unicodedata
 
 import pandas as pd
@@ -47,7 +48,7 @@ import requests
 BASE = pathlib.Path(__file__).resolve().parent
 CRUDOS = BASE / "crudos"
 PANEL = BASE.parent / "datos_procesados" / "paises_anual.csv"
-ANIOS_PANEL = range(2000, 2026)
+ANIOS_PANEL = range(2000, date.today().year + 1)
 
 RAW = "https://raw.githubusercontent.com"
 DESCARGAS = {

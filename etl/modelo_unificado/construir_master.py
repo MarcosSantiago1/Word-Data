@@ -56,6 +56,8 @@ ALI = ETL / "alianzas"
 FB = ETL / "factbook"
 NUEVAS = ETL / "fuentes_nuevas"
 SOCIALES = ETL / "indicadores_sociales_digitales"
+SUICIDIO = ETL / "suicidio_estandarizado"
+METRO = ETL / "metro_ciudades" / "datos"
 
 # Reutilizamos los diccionarios que ya viven en los otros scripts (una sola fuente de verdad)
 sys.dont_write_bytecode = True  # no dejar __pycache__ en las carpetas de los otros pasos
@@ -435,6 +437,25 @@ TABLAS_PAIS_SOCIALES = {
     "pais_consolas_comercio_anual.csv": ("hecho_pais_consolas_comercio", ["anio"],
                                          "UN Comtrade, consolas de videojuegos HS 950450 (HS 950410 hasta 2011)"),
 }
+# Suicidio (suicidio_estandarizado/extraer_suicidio_estandarizado.py): archivo -> (tabla, clave extra, fuente, columnas)
+TABLAS_PAIS_SUICIDIO = {
+    "suicidio_estandarizado_largo.csv": (
+        "hecho_pais_suicidio", ["anio", "sexo"],
+        "OMS GHO: MH_12 (tasa estandarizada por edad, con intervalo) y SDGSUICIDE (tasa cruda)",
+        {"tasa_estandarizada_x100k": "suicidio_estandarizado_x100k",
+         "ic_bajo_estandarizada": "suicidio_estandarizado_ic_bajo_x100k",
+         "ic_alto_estandarizada": "suicidio_estandarizado_ic_alto_x100k",
+         "tasa_cruda_x100k": "suicidio_crudo_oms_x100k"}),
+    "suicidio_por_edad_largo.csv": (
+        "hecho_pais_suicidio_edad", ["anio", "sexo", "grupo_edad"],
+        "OMS GHO: SDGSUICIDE por grupo de edad (solo 2021; los grupos se superponen: 15-29 incluye 15-19)",
+        {"tasa_x100k": "suicidio_x100k"}),
+}
+# Metro / subte (metro_ciudades/extraer_metro.py): archivo -> (tabla, clave extra, fuente)
+TABLAS_PAIS_METRO = {
+    "pais_metro_anual.csv": ("hecho_pais_metro", ["anio"],
+                             "Wikipedia, List of metro systems (foto anual del largo de cada red)"),
+}
 TABLAS_SUBDIVISION_NUEVAS = {
     "subdivision_deuda_anual.csv": ("hecho_subdivision_financiero", ["anio"],
                                     "Coordinación Fiscal Provincial, stock al 31-12 y servicios devengados"),
@@ -506,6 +527,9 @@ def leer_paises(pais):
                         for c in pd.read_csv(NUEVAS / a, nrows=0).columns if c not in ("iso3", "anio")}
     copias = panel[["iso3", "anio"] + [c for c in panel.columns if c in de_tablas_nuevas]]
     panel = panel.drop(columns=copias.columns[2:])
+    # el paso 3 también copia el suicidio de la OMS en formato ancho; en la base vive en hecho_pais_suicidio
+    panel = panel.drop(columns=[c for c in panel.columns
+                                if c.startswith(("suicidio_estandarizado_", "suicidio_crudo_oms_"))])
     vacias = [c for c in panel.columns if panel[c].isna().all()]  # p. ej. felicidad_fuente
     panel = panel.drop(columns=["pais", "region", "nivel_ingreso"] + vacias)
     panel.insert(0, "pais_id", panel.pop("iso3").map(id_de))
@@ -569,8 +593,17 @@ def leer_paises(pais):
     assert fro.vecino_pais_id.notna().all() and soc.socio_pais_id.notna().all()
 
     for archivo, (tabla, clave, _) in ({NUEVAS / a: v for a, v in TABLAS_PAIS_NUEVAS.items()}
-                                       | {SOCIALES / a: v for a, v in TABLAS_PAIS_SOCIALES.items()}).items():
+                                       | {SOCIALES / a: v for a, v in TABLAS_PAIS_SOCIALES.items()}
+                                       | {METRO / a: v for a, v in TABLAS_PAIS_METRO.items()
+                                          if (METRO / a).exists()}).items():
         d = enteros(pd.read_csv(archivo))
+        faltan = set(d.iso3) - set(id_de)
+        assert not faltan, (archivo, faltan)
+        d.insert(0, "pais_id", d.pop("iso3").map(id_de))
+        hechos[tabla] = (d, ["pais_id"] + clave)
+
+    for archivo, (tabla, clave, _, nombres) in TABLAS_PAIS_SUICIDIO.items():
+        d = pd.read_csv(SUICIDIO / archivo).drop(columns=["nombre_es", "region_bm_es"]).rename(columns=nombres)
         faltan = set(d.iso3) - set(id_de)
         assert not faltan, (archivo, faltan)
         d.insert(0, "pais_id", d.pop("iso3").map(id_de))
@@ -784,7 +817,7 @@ UNIDADES = [  # sufijo -> unidad (se usa la primera que coincide)
     ("_pesos", "$ corrientes"), ("_usd_mes", "US$ por mes"), ("_usd", "US$"), ("_lcu_dia", "moneda local por día"),
     ("_lcu_mes", "moneda local por mes"), ("_lcu", "moneda local"), ("_ppa_dia", "US$ PPA por día"),
     ("_ppa", "US$ PPA"), ("_ha", "hectáreas"), ("_tn", "toneladas"), ("_kg_ha", "kg por hectárea"),
-    ("_m3", "m³"), ("_miles_m3", "miles de m³"), ("_c", "°C"), ("_km2", "km²"), ("_km", "km"),
+    ("_m3", "m³"), ("_miles_m3", "miles de m³"), ("_c", "°C"), ("_km2", "km²"), ("_por_millon_hab", "por millón de hab."), ("_km", "km"),
     ("_m", "metros"), ("_mtco2e", "millones de t de CO2 equivalente"), ("_tco2e", "t de CO2 equivalente"),
     ("_pb", "puntos básicos"), ("_x100_hogares", "por 100 hogares"), ("_x100_hab", "por 100 hab."),
     ("_x100", "por 100 hab."), ("_0_100", "índice 0-100"), ("_0_1", "índice 0-1"),
@@ -833,7 +866,7 @@ LEFT JOIN dim_pais eq ON eq.pais_id = d.pais_equivalente_id;
 
 -- Membresía por año (formato largo) recalculada desde los episodios: reemplaza las 48 columnas miembro_*
 CREATE VIEW v_pais_membresia_anual AS
-WITH RECURSIVE anios(anio) AS (SELECT 1945 UNION ALL SELECT anio + 1 FROM anios WHERE anio < 2025)
+WITH RECURSIVE anios(anio) AS (SELECT 1945 UNION ALL SELECT anio + 1 FROM anios WHERE anio < CAST(strftime('%Y', 'now') AS INTEGER))
 SELECT m.pais_id, a.anio, m.organizacion_codigo, o.tipo, m.estado
 FROM rel_pais_organizacion m
 JOIN dim_organizacion o ON o.organizacion_codigo = m.organizacion_codigo
@@ -1122,7 +1155,9 @@ def main():
         "rel_pais_composicion": "factbook/factbook_composicion.csv",
         "rel_pais_socio_comercial": "factbook/factbook_socios_comerciales.csv",
     } | {t: f"fuentes_nuevas/{a}" for a, (t, _, _) in (TABLAS_PAIS_NUEVAS | TABLAS_SUBDIVISION_NUEVAS).items()} | {
-        t: f"indicadores_sociales_digitales/{a}" for a, (t, _, _) in TABLAS_PAIS_SOCIALES.items()}
+        t: f"indicadores_sociales_digitales/{a}" for a, (t, _, _) in TABLAS_PAIS_SOCIALES.items()} | {
+        t: f"suicidio_estandarizado/{a}" for a, (t, _, _, _) in TABLAS_PAIS_SUICIDIO.items()} | {
+        t: f"metro_ciudades/datos/{a}" for a, (t, _, _) in TABLAS_PAIS_METRO.items()}
     fuentes = FUENTE_PROVINCIA | {
         "hecho_pais_anual": "Banco Mundial, OMS, ILOSTAT, World Happiness Report (pasos 1 y 2)",
         "rel_pais_organizacion": "COW IGO v3 + carga manual verificada con Wikidata",
@@ -1143,7 +1178,9 @@ def main():
                              "CIA World Factbook",
         "subdivision_equivalencia": "códigos INDEC y GAUL del script de provincias + nombres en las fuentes",
         "rel_reclamo_territorial": "carga manual",
-    } | {t: f for t, _, f in (TABLAS_PAIS_NUEVAS | TABLAS_SUBDIVISION_NUEVAS | TABLAS_PAIS_SOCIALES).values()}
+    } | {t: f for t, _, f in (TABLAS_PAIS_NUEVAS | TABLAS_SUBDIVISION_NUEVAS | TABLAS_PAIS_SOCIALES
+                             | TABLAS_PAIS_METRO).values()} | {
+        t: f for t, _, f, _ in TABLAS_PAIS_SUICIDIO.values()}
     catalogo, diccionario = [], []
     for t in list(dims) + list(hechos):
         d = dims[t] if t in dims else hechos[t][0]

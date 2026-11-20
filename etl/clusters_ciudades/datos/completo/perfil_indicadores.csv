@@ -1,0 +1,32 @@
+indicador,enfoque,peso,grupo_1,grupo_2,grupo_3
+sesgo_inundable_pob,Ecología política urbana,0.408,-0.479,0.084,-0.078
+sesgo_inundable_constr,Ecología política urbana,0.408,-0.634,0.079,-0.028
+pob_sin_verde,Ecología política urbana,0.408,-0.305,0.049,-0.039
+perdida_verde,Ecología política urbana,0.408,0.064,-0.397,0.918
+limites_superados,Ecología política urbana,0.408,-0.177,-0.082,0.238
+gini,Ecología política urbana,0.408,-0.397,-0.037,0.187
+idh_bajo,Vulnerabilidad socio-espacial,0.316,-2.113,-0.058,0.665
+escolaridad,Vulnerabilidad socio-espacial,0.316,-2.385,0.341,-0.207
+pib_pc_log,Vulnerabilidad socio-espacial,0.316,-1.467,0.206,-0.118
+brecha_genero,Vulnerabilidad socio-espacial,0.316,-0.012,-0.458,1.082
+sin_hospital,Vulnerabilidad socio-espacial,0.316,0.116,0.089,-0.239
+tugurios,Vulnerabilidad socio-espacial,0.316,-1.715,0.053,0.304
+sin_saneamiento,Vulnerabilidad socio-espacial,0.316,-0.41,-0.379,0.997
+hacinamiento,Vulnerabilidad socio-espacial,0.316,-0.491,-0.256,0.725
+vivienda_baja,Vulnerabilidad socio-espacial,0.316,-0.358,-0.138,0.414
+migrantes,Vulnerabilidad socio-espacial,0.316,2.763,-0.392,0.234
+co2_pc,Metabolismo urbano,0.378,0.025,0.208,-0.496
+pm25_pc,Metabolismo urbano,0.378,-0.672,0.111,-0.093
+residuos_pc,Metabolismo urbano,0.378,0.474,-0.266,0.508
+construido_pc,Metabolismo urbano,0.378,0.548,0.15,-0.49
+agua_subterranea,Metabolismo urbano,0.378,0.239,-0.176,0.354
+agua_superficial,Metabolismo urbano,0.378,-0.109,-0.027,0.091
+infra_flujos,Metabolismo urbano,0.378,-0.721,0.199,-0.289
+efectividad_gob,Planificación y gobernanza,0.354,-1.49,-0.372,1.248
+calidad_regulatoria,Planificación y gobernanza,0.354,-2.501,-0.105,0.873
+estado_derecho,Planificación y gobernanza,0.354,-2.8,0.006,0.687
+control_corrupcion,Planificación y gobernanza,0.354,-2.18,-0.289,1.225
+voz_rendicion,Planificación y gobernanza,0.354,-2.13,0.545,-0.751
+sociedad_civil,Planificación y gobernanza,0.354,-1.717,0.593,-0.968
+reporta_cdp,Planificación y gobernanza,0.354,-0.915,0.327,-0.543
+expansion_suelo,Planificación y gobernanza,0.354,-0.479,0.192,-0.333

@@ -1,0 +1,2491 @@
+Climate Adaptive and Gender Integrated
+ Heat Wave Action Plan of Surat City
+Climate Adaptive and Gender Integrated Heat Wave Action Plan of Surat City
+
+
+
+
+                                 Prepared by:
+                 Integrated Research and Action for Development
+
+
+
+
+                 Urban Health & Climate Resilience (COE), Surat
+
+
+
+
+                                Supported by:
+
+
+                Asia Pacific Network for Global Change Research
+
+
+
+
+                                                                         2
+© 2023 Integrated Research and Action for Development (IRADe)
+
+
+This material is based on work supported by the Asia-Pacific Network for Global Change
+Research (APN).
+
+
+For Citation: Desai, V, Magotra, R., Jha, N. (2023). Climate Adaptive & Gender Integrated-
+Heat Action Plan - Surat city, Gujarat
+
+
+
+
+                                                                                         3
+                                                           Table of Content
+
+1.     Introduction .............................................................................................................. 6
+     1.1       Impact of heat ............................................................................................................. 7
+     1.2       Heat waves .................................................................................................................. 8
+     1.3       Heat Stress Action Plan ................................................................................................ 9
+     1.4       Framework for developing Climate Adaptive Gender Inclusive Heat Action Plans ........ 10
+2.     How heat waves are affecting Surat ........................................................................ 13
+     2.1       Heat Waves in Surat City ............................................................................................ 13
+     2.2       City Climatological Variance ....................................................................................... 14
+     2.3       Early Warning Systems for Heat Wave Management ................................................... 15
+3.     Vulnerability assessment ......................................................................................... 18
+     3.1       Heat hotspots of Surat City......................................................................................... 19
+       3.1.1      Hotspot Delineation - spatial distribution of thermal hotspots.................................................... 19
+     3.2       Mapping vulnerability ................................................................................................ 23
+     3.3       Survey findings .......................................................................................................... 26
+       3.3.1      Housing ......................................................................................................................................... 26
+       3.3.2      Cooking ......................................................................................................................................... 27
+       3.3.3      Transportation .............................................................................................................................. 27
+       3.3.4      Sanitation ...................................................................................................................................... 27
+       3.3.5      Water ............................................................................................................................................ 27
+       3.3.6      Electricity ...................................................................................................................................... 27
+       3.3.7      Health ........................................................................................................................................... 27
+       3.3.8      Heat adaptation ............................................................................................................................ 28
+       3.3.9      Awareness ..................................................................................................................................... 28
+     3.4       Impact of extreme heat on income ............................................................................. 29
+     3.5       Productivity loss ........................................................................................................ 29
+       3.5.1      Loss of productivity and its impact ............................................................................................... 30
+     3.6       Health Impact ............................................................................................................ 31
+     3.7       Summary of survey findings ....................................................................................... 32
+       3.7.1      Impact of extreme heat on Women ............................................................................................. 33
+       3.7.2      Extreme heat affects women more .............................................................................................. 34
+       3.7.3      Impact on nutrition ....................................................................................................................... 34
+       3.7.4      Dehydration .................................................................................................................................. 34
+       3.7.5      Awareness building ....................................................................................................................... 35
+       3.7.6      Interpersonal communication ...................................................................................................... 35
+       3.7.7      Sanitation ...................................................................................................................................... 35
+       3.7.8      Water supply................................................................................................................................. 36
+     3.8       Other areas where policy intervention is needed ........................................................ 36
+       3.8.1      Health insurance ........................................................................................................................... 36
+       4.3.1      Treatment for heat stress ............................................................................................................. 36
+
+4      Climate adaptive heat action plan ........................................................................... 37
+     4.1       Strategies of the plan ................................................................................................. 37
+
+                                                                                                                                                                    4
+       4.1.1       Preparedness ................................................................................................................................ 38
+       4.1.2       Adaption and mitigation measures .............................................................................................. 39
+       4.1.3       Steps to take before the sets in .................................................................................................... 40
+       4.1.4       Steps to take during the season ................................................................................................... 41
+       4.1.5       Steps to take after the season ...................................................................................................... 42
+    4.2        Surat Heat Action Plan ............................................................................................... 43
+       4.2.1       Short- and medium-term measures ............................................................................................. 44
+       4.2.2       Long-term measures ..................................................................................................................... 45
+       4.2.3       Capacity building........................................................................................................................... 46
+    4.3        Heat wave advisories ................................................................................................. 48
+       4.3.1       Special Strategies for Vulnerable Groups ..................................................................................... 49
+
+5      Implementation of the action plan .......................................................................... 50
+    5.1        Creating a framework for a coordinated approach ...................................................... 50
+    5.2        Identifying high-risk households ................................................................................. 51
+    5.3        SMC and Primary Health Centre (PHCs)....................................................................... 51
+    5.4        Learning from other campaigns .................................................................................. 51
+    5.5        Coordination with the transport department .............................................................. 52
+    5.6        Specific advice for occupational groups ...................................................................... 53
+    5.7        Toilets, drinking water and electricity for the more vulnerable .................................... 53
+    5.8        Identifying new settlements ....................................................................................... 54
+    5.9        Raising awareness...................................................................................................... 54
+       5.9.1       Community Engagement at Ward level ........................................................................................ 54
+    5.10       Annual Heat Action Plan ............................................................................................ 55
+       5.10.1          Roles and responsibilities in Phase 1: Before the onset of summer (January-February)......... 55
+       5.10.2          Roles and responsibilities in Phase 2: During peak summer (March to June) ......................... 58
+       5.10.3          Roles and responsibilities in Phase 3: Post-summer (July to October) .................................... 59
+    5.11       Brief description of what to do when for key service providers ................................... 62
+6      Heat wave Morbidity mortality Surveillance: ........................................................... 65
+Annexure........................................................................................................................ 67
+    Annexure 1 ............................................................................................................................ 67
+    Annexure 2 ............................................................................................................................ 71
+    Annexure 3 ............................................................................................................................ 72
+
+
+
+
+                                                                                                                                                                5
+1. Introduction
+As the globe continues to warm up, it sets a new heat record every year across the world. As
+per the Intergovernmental Panel on Climate Change (IPCC)1, hot days, hot nights and heat
+waves have become more frequent over the last 50 years. IPCC is a UN body that regularly
+releases scientific assessments on human-induced climate change.
+
+                                                   What is heat stress?
+     Heat stress occurs when the body is unable to maintain a healthy temperature because
+       it has been exposed to extreme heat. Common features of heat stress are exhaustion,
+            heat rashes, fever, and leading to loss of energy and reduced ability to work.
+
+
+In its sixth assessment report, the UN intergovernmental panel stated that it is likely that surface
+temperatures over South Asia will increase more than the global average, with a projected rise
+of 4.6 °C (3.4 °C-6.0 °C) during 2081-2100 (IPCC AR6, 2020). Studies show that low and
+middle-income countries are most likely to bear a very high burden of deaths (World Health
+Organization, 2014) 2 . The combination of rising temperatures and a large vulnerable
+population will worsen the impact of heat waves on developing countries.
+In India, there is a well-recognized association between heat waves and morbidity; mortality.
+There is evidence of a heat threshold at 40 °C above which mortality increases3. According to
+the country’s Integrated Disease Surveillance Programme, which maintains data on heat waves
+and related mortality and morbidity, the number of states affected by heat waves increased
+from 9 in 2015 to 23 in 2022. The rise in mortality and morbidity due to heat waves can be
+attributed to the effects of extremely high temperatures and relative humidity and an increase
+in population density in urban agglomerations.
+A heat wave is a period of prolonged abnormally high surface temperature. Heat waves may
+span several days to several weeks and are significant causes of weather-related mortality.
+Globally, the increasing frequency and intensity of heat waves observed since the 1950s have
+been associated with climate change.4
+
+1 Fifth assessment report of working Group I, 2014
+2
+  World Health Organization. (2014). Quantitative risk assessment of the effects of climate change on selected causes of
+death, 2030s and 2050s: World Health Organization.
+3 V. K. Desai, S. Wagle, S. K. Rathi, U. Patel, and H. S. Desai, “Effect of ambient heat on all-cause mortality in the coastal city
+
+of Surat, India,” Current Science, vol. 109, no. 9, pp. 1680–1686, 2015.
+
+4 Rafferty, John P. "heat wave". Encyclopaedia Britannica, 5 Dec. 2018, https://www.britannica.com/science/heat-wave-
+
+
+
+                                                                                                                                  6
+The India Meteorology Department (IMD) declares a heat wave when a particular weather data
+collection station reaches 40 °C or more in the plains, 37 °C or more in coastal stations, and
+30 °C or more in hilly regions. Soaring temperatures cause a large number of deaths in various
+parts of India. Deaths caused by heat waves were found to be higher than those resulting from
+avalanches, exposure to cold, cyclone, tornadoes, and starvation due to natural calamities,
+earthquakes, epidemics, floods, landslides, torrential rain and forest fire. From the perspective
+of disaster preparedness, it is important to note that deaths from heat strokes occur every year.
+With rising temperatures, the numbers are likely to increase5.
+
+The fast pace of development of cities have also led to the rapid increase in slum pockets and
+squatter settlements across the city. With summers becoming more intense and accompanied
+by more frequent heat waves of longer duration, this segment of the city population is
+rendered even more vulnerable as they now have to cope with the dangers of heat stress.
+
+1.1       Impact of heat
+
+
+As temperatures in Surat record a steady rise every summer cases related to heat stress are also
+increasing. Extreme heat can intensify the health effects of heat-related stress, like heat
+exhaustion, dehydration and heatstroke. Hot days and nights contribute to heat stress, heat-
+related deaths, and reduced labour productivity and can exacerbate poverty. While everyone
+can be negatively impacted by extreme heat, certain people such as workers, especially those
+working outdoors in the sun or engaging in physical labour, the elderly and those with chronic
+illnesses, children and pregnant women are particularly at risk of suffering harm during such
+hot spells6.
+Given the scale and degree of suffering, heat waves need to be treated as a calamity, requiring
+a systematic approach, rather than as a disaster that occurs occasionally. Heat waves require a
+comprehensive heat stress action plan (HSAP) that will take into account the varying degrees
+of hot weather within the city. For the heat stress action plan to be effective the most vulnerable
+sections will need to be identified. It is understood that the areas experiencing the urban heat
+island effect will be warmer compared to other parts of Surat City. The heat stress action plan
+
+
+meteorology. Accessed 18 February 2022.
+
+5 Kumar A., Singh D. Heat stroke-related deaths in India: An analysis of natural causes of deaths, associated with the
+
+regional heatwave. J. Therm. Biol. 2020;95:102792. doi: 10.1016/j.jtherbio.2020.102792. - DOI - PubMed
+6 Sarah Opitz-Stapleton. September 2014, Da Nang, Vietnam: Climate Change Impacts on Heat Stress by 2050
+
+
+
+                                                                                                                         7
+will therefore need to first identify the slums and settlements of the poor in these warmer
+pockets and understand the true nature of their vulnerability to heat stress.
+Integrated Research and Action for Development (IRADe), a leading research institute and
+think tank, collaborated with the government of Gujarat, the city administration of Surat and
+the Urban Health & Climate Resilience (COE), Surat to develop a climate adaptive heat stress
+action plan for the city. This plan is spatially differentiated in the sense that it talks of coping
+mechanisms for municipality wards based on the degree of heat in the area. The plan is gender
+sensitive because for various reasons women pay a higher price when there is extreme heat.
+The heat stress action plan spells out affordable adaptation strategies to help city administrators
+cope better with the changing climate of urban Surat. It also clearly demarcates the role of each
+government agency and other stakeholders towards better management of heat waves. The Asia
+Pacific Network for Global Change Research supported the project.
+
+1.2      Heat waves
+
+
+IPCC’s report, Climate Change 2021: the Physical Science Basis, “shows that emissions of
+greenhouse gases from human activities are responsible for approximately 1.1°C of warming
+since 1850-1900, and finds that averaged over the next 20 years, global temperature is expected
+to reach or exceed 1.5°C of warming”. Recommending stringent actions to limit the rise is
+temperature by the end of the current century to 2 °C from pre-industrial times IPCC projects
+a dire picture for the future. In this scenario, the frequency of heat waves in India is projected
+to increase 30 times the current frequency. The duration of heat waves is also expected to
+increase 92- to 200-fold. The trend has already begun. Summertime daily peak temperatures
+are higher, and heat waves are more frequent, of longer duration and more intense.
+
+
+Since the 1950s there has been an increase in the frequency and intensity of heat waves
+globally. This has had a severe impact on the overpopulated cities of India, where a large
+number of people live on low incomes in slums characterized by congested and poorly
+ventilated living spaces. The increasing severity of heat waves extracts a heavy price as it
+makes India’s urban poor vulnerable to heat. According to a study published in Lancet in 2021,
+India had the highest burden of mortality associated with high temperatures between 2000 and
+2019.7 Between 1992 and 2015, heat waves caused 24,223 deaths across the country.8
+
+
+7 https://doi.org/10.1016/S2542-5196(21)00081-4
+8 https://ndma.gov.in/sites/default/files/IEC/Booklets/HeatWave%20A5%20BOOK%20Final.pdf
+
+
+
+                                                                                                  8
+Even when it did not kill, the heat stress rising temperatures caused affected the health,
+productivity and livelihoods of vulnerable populations. Despite the heavy toll, the government
+gave focused attention to heat waves only in 2010, triggered by the historic heat wave in the
+Ahmedabad city in Gujarat. Extreme heat is a silent disaster. Since it ravages quietly unlike
+other natural disasters like earthquakes or cyclones, it was pushed down the priority list.
+
+1.3       Heat Stress Action Plan
+
+
+The 2010 devastating heat wave of Ahmedabad was a wake-up call. The city temperature rose
+to 46.8 °C (116 °F) and caused a large number of deaths in one week alone. Experts estimated
+the heat contributed to more than 1,000 deaths9. Preliminary analyses suggested that excess
+all-cause mortality of at least 30 per cent was associated with this event10. The high toll created
+the urgency to devise a strategy and led Ahmedabad Municipal Corporation to launch South
+Asia’s first heat action plan in 2013.
+In 2016 India formulated a National Disaster Management Plan for the first time. It heeded
+heat waves as a serious disaster and recommended vulnerable cities be made heat friendly.
+Recognizing the growing threats from rising temperatures, cities across India adopted heat
+action plans the same year. Rajkot launched its first heat stress action plan a year later in 2017.
+
+
+The 2016 national disaster management plan laid down India’s vision for the reduction of
+disaster risk and losses in lives, livelihoods and health. It created a roadmap for the government
+and communities to work in tandem to adapt to risks systematically and proactively. This was
+also in line with the objectives of the Sendai Framework for Disaster Risk Reduction 2015-
+2030, a UN agreement that 187 countries including India signed in March 2015 in Sendai,
+Japan.
+Since its inception, the focus of heat stress action plans has been heat-vulnerable populations.
+City municipal corporations collaborated with various development partners to deliver on the
+following:
+
+9 Heat-Related Mortality in India: Excess All-Cause Mortality Associated with the 2010 Ahmedabad Heat Wave. PLoS ONE
+
+9(9): e109457. https://doi.org/10.1371/journal.pone.0109457
+
+10 Knowlton, K., Kulkarni, S. P., Azhar, G. S., Mavalankar, D., Jaiswal, A., Connolly, M., Nori-Sarma, A., Rajiva, A., Dutta, P.,
+
+Deol, B., Sanchez, L., Khosla, R., Webster, P. J., Toma, V. E., Sheffield, P., Hess, J. J., & Ahmedabad Heat and Climate Study
+Group (2014). Development and implementation of South Asia's first heat-health action plan in Ahmedabad (Gujarat,
+India). International journal of environmental research and public health, 11(4), 3473–3492.
+https://doi.org/10.3390/ijerph110403473
+
+
+
+
+                                                                                                                                    9
+      •   build awareness of health risks related to extreme heat
+      •   develop a heat early warning system that alerts communities
+      •   targeted interventions for vulnerable groups
+A 2018 evaluation of Ahmedabad’s heat action plan showed that the city has been able to
+prevent more than 1,100 heat-related deaths every summer.11 The key to this achievement is
+identifying where the vulnerable populations live. This is becoming more and more challenging
+as expanding city limits leads to a rise in the number of slums and squatter settlements, which
+are spread across various locations. Not just that, as temperatures grow extreme and cities reel
+under the urban heat island effect there are different temperatures in different pockets of a city.
+Some pockets are warmer than other parts. It is critical therefore to identify the right locations
+– the pockets where the poor live which are warmer than other parts of the city –to prepare a
+climate adaptive heat action plan. In year 2018, Surat city developed its heat action plan and
+was the first coastal city in the country to develop heat action plan.
+
+1.4       Framework for developing Climate Adaptive Gender Inclusive Heat
+          Action Plans
+
+A climate adaptive and gender integrated plan adds the following advantages to Surat city’s
+efforts to mitigate heat stress:
+
+● It provides a climate-sensitive framework for implementation, coordination and
+      evaluation
+● Alerts populations at risk of heat-related illness in places where extreme heat conditions
+      prevail, by adopting dynamic climate intelligence
+● It provides gendered response to the differential impacts of heat wave
+
+The flow chart below lays down step-by-step methodology to develop Climate Adaptive
+Gender Inclusive Heat Action Plans focused on vulnerable communities which can be further
+evolved in Heat Action Plan of Surat.
+
+
+
+
+11 Building Resilience to Climate Change: Pilot Evaluation of the Impact of India’s First Heat Action Plan on All-Cause
+
+Mortality, 2018 https://doi.org/10.1155/2018/7973519
+
+
+                                                                                                                          10
+Table: Gender-inclusive Interventions and Outcomes in Heat Action Plan
+
+
+
+
+                                                                         11
+Table: Stages in the development of Climate Adaptive and Gender Integrated Heat Action Plan development
+
+
+
+
+                                                                                                          12
+2. How heat waves are affecting Surat
+
+2.1 Heat Waves in Surat City
+
+
+Surat is the 8th largest city in India with a population of 4.46 million. It is the hub of the textiles
+and diamond industries of India. The city saw unprecedented growth in the last four decades,
+recording one of the highest growth rates in the country and a 10-fold population rise over four
+decades. The city area has expanded with time (the major expansion being in 2006) and
+presently covers 326.515 sq. km. The population of Surat is expected to grow from 4.46 million
+(2011) to 6.4 & 8.5 million by 2021 12 . According to the report on Surat City Resilience
+Strategy, Surat is projected to grow to around 6.4 million by 2021 and 8.5 million by 2031.
+
+
+
+
+            Surat Administrative Zone map, Source: https://www.suratmunicipal.gov.in/
+
+
+The whole of Surat city has been divided into 8 zones: Central Zone, North Zone, East Zone
+A, East Zone B, South East Zone, South Zone, South West Zone, and West Zone.
+
+
+
+12
+     Surat Heat Wave Action Plan 2018, GSDMA
+
+                                                                                                    13
+The frequency of heat waves in the city increased the vulnerability with the increasing
+population growth rate of 55.29%, as per Census -2011 (After the Extension of the City Limit
+in 2020)13. Studies14 indicate that the city’s maximum summer temperature increased to 1.60C
+from 2011 to 2014.
+The risks to human lives as a result of heat stress grew significantly in Surat city in recent
+years as it expanded in area and population. There are nearly 334 slum pockets as per Census
+-2011 (After the Extension of the City Limit in 2020). Currently, there are 341 slum areas in
+Surat City, which have a total of 75,456 slum dwellings.15 Although the slum area in 2021
+has reduced to only 5.99% of the total area (462.149 Sq.km.) compared to 20.87% in 2011,
+the migrant population has increased.
+
+2.2 City Climatological Variance
+Surat is a port city situated on the banks of the Tapi River. It has an average elevation of 13
+meters. The temperature of Surat is mild to warm with the summertime maximum temperatures
+averaging to 34 0C while the winters are relatively cool with the night-time temperatures
+
+
+13
+   https://www.suratmunicipal.gov.in/TheCity/Demographics
+14
+   Desai V. et al 2015 Effect of ambient heat on all-cause mortality in the coastal city of Surat, India, Current
+Science
+15
+   https://www.deshgujarat.com/2022/05/16/slum-areas-in-surat-reduced-from-20-87-to-5-99-in-10-years/
+
+                                                                                                                    14
+averaging to around 14 0 C. In peak summer, the maximum temperature can go up to 44-45 0
+C. With its proximity to the Arabian Sea, the relative humidity of the city remains high.
+
+               Annual Extreme Maximum and Minimum Temperature Surat
+                                    2011-2021
+ 45                      40.6     41       41         41.8       41.4     41.4     42.0     41.8
+                39.3                                                                                 40.0
+       38
+ 40
+ 35
+ 30               26.0     26.0             25.8         27        25.8     27.2     25.4     27.2
+        24.8                       25.0                                                                24.4
+ 25
+ 20
+ 15
+ 10
+  5
+  0
+       2011      2012     2013    2014     2015        2016       2017     2018     2019     2020     2021
+
+                           Maximum Temperature (0C)           Minimum Temperature (0C)
+
+
+It is evident from the IMD data from 2011-2021 for Surat that extreme high temperatures have
+been observed in the month of May.The highest recorded Maximum temperature has been
+observed in year 2019 and However compared to last decade the number of incidences of
+temperature above 40°C have increased. Given the high humidity levels in Surat the rising
+temperatures with high humidity can have severe impacts on Health.
+
+2.3 Early Warning Systems for Heat Wave Management
+
+A definition of Heat wave for coastal area by IMD shall adhere to Heat wave forecast with a
+local modification based on Heat and all cause mortality as recommended by WMO, WHOa
+
+ Usually, HHWS thresholds are response-specific, that is, the threshold values are set at a
+ level associated with a negative human response as indicated by the long-term relationship
+ between some measure of heat stress (for example, the Heat Index) and mortality.
+ In HHWSs based on a “simple index” of heat stress, the threshold for action is usually the
+ index value at which mortality (or any other health outcome) starts to rise rapidly, with the
+ type of action or level of alert being determined by the intensity and duration of the period
+ of exceptional heat.
+ It is important that public-health measures and advice on how to avoid negative health
+ outcomes associated with hot-weather extremes, are elaborated in advance.
+
+
+
+
+                                                                                                             15
+•   Surat Being a coastal city “Heat wave may be described When maximum temp.departure
+    departure is >4.50C from normal and or provided maximum temperature ≥ 370 C” (Ref.
+    IMD Criteria)
+•   For coastal city Surat Heat Index (Feel temperature) is more pertinent to Heat discomfort
+    than Temperature but IMD provides forecast of Temperature only.
+•   Surat city temperature and all cause mortality data analysis of last 12 years (2001- 2012)
+    by UHCRC reveals that “Heat Wave may be declared If the threshold value of 39ºC is
+    reached”.
+•   According to Heat Index (HI) the discomfort classification is as follows
+                        Extreme Danger             Danger       Extreme caution             Caution
+
+        HI                   520                   410-510           330-400                270-320
+
+     Humidity                           HUMIDITY IS A MAJOR DETERMINANT
+                    Higher the Humidity higher the risk of extreme event at given temperature
+    Temperature            320-430                 300-410           280-360                270-310
+
+                    Source NOAA National Weather Services: Heat Index
+
+
+
+•   Four days advance forecast shall be disseminated to public sector decision makers and
+    care providers by nodal officer from Health department of SMC.
+•   24 hours advance forecast shall be disseminated to community / Vulnerable occupational
+    groups/ community based workers and media.
+•   Nodal officer from Health department of SMC shall compile data and disseminate to
+    departments and media through PRO.
+•   Nodal officer from Health department of SMC shall manage to disseminate forecast
+    24 hours in advance to the community through different media as a standard protocol.
+
+
+
+                         Four days advance                                       24 hours advance
+    Offices                          Care takers                  Institutions
+    Mayor SMC                        Zonal Head                   Industries + Construction projects
+
+    Commissioner SMC                 Zonal Deputy MOH             Traffic police officers
+    Health department                UHC MOs                      Auto rickshaw drivers association
+
+                                                                                                    16
+    Water supply department       Sentinel centre Hospitals     Schools
+    Garden department             Sentinel centres clinics      Media
+    School board                  IO and AIO                    Public displays / scrolls
+    Torrent and GEB Power         Food inspectors               ANMs, Link workers, AWWs
+    Superintendent SMIMER         ICDS Officer                  MPHW and SI
+
+
+
+•   Different levels of warnings are referred to as “Green”, “Yellow”, “Orange” and “Red” as
+    recommended because the purpose of warnings is to effect behaviour change during heat
+    wave eventsb,
+•   Red alert (Extreme danger) : As per systematic analysis of Temperature and All cause
+    mortality by UHCRC >= 390C maximum temperature is Extreme heat danger
+    condition for Surat city ( According to IMD its 400C or 50C or more than normal)
+•   Orange alert (Danger): As per systematic analysis of Temperature and All cause mortality
+    by UHCRC maximum temperature between 370-390C is heat danger condition for Surat
+    city
+•   Yellow alert (Extreme caution) : As per HI namogram maximum temperature between
+    320-360C is heat extreme caution condition for Surat city
+•   White signal (Caution) As per HI namogram maximum temperature less than 320C is heat
+    caution condition for Surat city
+
+                                          • Maximum temperature >400C (390 C for Surat)
+             Heat wave
+                                          • Extreme danger (HI >520C)
+
+                                          • Maximum temperature departure is >4.5º C or more
+              Hot days                      from normal (360-380C for Surat)
+                                          • Danger (HI 410-510 C)
+                                          • 32-350C
+           Extreme Caution
+                                          • Extreme Caution (HI 330- 400 C)
+
+                                       32-350C
+               Caution
+                                       Caution (HI 270-320 C)
+
+
+
+
+                                                                                            17
+    Usually, there are two or three separate warning categories:
+    •    A low-level announcement to warn the population of impending stressful weather;
+    •    A higher-level issuance that tells people that the weather might be dangerous to their
+         health;
+    •    The highest-level warning or alarm, at which time a variety of intervention measures
+         are put into place by the community.
+    In all cases, warnings must be disseminated rapidly to the public and responsible
+    stakeholders or the effectiveness of the HHWS is greatly diminisheda
+
+
+
+
+The thumb rule is that a continuous flow of information, including warnings, is
+available to an increasing number of people and it is clear and easily understood by
+the users.
+•       Television and radio for the distribution of time-critical information such as warnings.
+•       Radio to reach a wide audience rapidly in an emergency situation
+•       Newspapers, while useful for providing detailed information, are not suitable for the
+        dissemination of warnings.
+•       The telephone paging system is another method that allows quick, simple messages or
+        alarms about time-critical weather information to be sent to a list of individuals, including
+        emergency managers.
+•       SMC website / SMC Application (At par with floods forecast) to disseminate weather
+        forecasts and warnings and educational information.
+•       In extreme situation free tele- helpline may be activated.
+•       Press conferences or briefings are a useful method of effectively obtaining wide coverage
+        of important events such as high-impact weather, including expected hot spells.
+•       Social media messages
+
+
+3. Vulnerability assessment
+
+Several slums and low-income squatter settlements in Surat are located in areas that experience
+temperatures higher than the city average. To prepare a climate-adaptive heat stress action plan
+for the city it was necessary to first identify its heat hotspots. Mapping a city’s heat hotspots
+helps to direct interventions where they are most needed during heat waves.
+
+
+
+
+                                                                                                   18
+3.1 Heat hotspots of Surat City
+
+
+To assess the spatial distribution of heat stress at the ward level in Surat, IRADe first mapped
+thermal hotspots through remote sensing using land surface temperature (LST) images
+procured from Landsat 8. Land surface temperature (LST) is a key parameter for analysing and
+simulating land surface processes from local to global scales, which plays an important role in
+the processes of energy exchange between land surface and atmosphere.
+Several high-quality images were retrieved for the city of Surat for the calculation of LST.
+However, for comparison in the report we are using 2 LANDSAT images from 30 March 2021
+and 17th March 2022. It was noticed in both years during March that within the city there are
+many heat hotspots ranging from 36 0C to 450 C. It should also be noted that the LANDSAT
+captures these images around 10 AM and so to have such high land surface temperatures in the
+morning unfolds a much alarming picture. The temperatures during the peak summer hours
+and Night time could be even higher.
+The hotspot maps so generated are useful for policymakers and city administrators in analysing
+the local factors contributing to heat stress in different wards and devising mitigation options
+to reduce heat stress in these areas.
+
+3.1.1 Hotspot Delineation - spatial distribution of thermal hotspots
+
+
+The Hotspot Maps indicated areas within the city which experience ambient temperature over
+the average monthly maximum temperature. These help in focusing on interventions where
+they are most needed during heat waves. To assess the spatial distribution of heat stress, the
+researchers first mapped thermal heat spot maps developed using Landsat 8 data. The Land
+Surface Temperature (LST) derived from satellite data was further analysed based on
+percentage and mapped. On 30 March 2021, Zones showing LST >43.2-45.5 ℃ (i.e., 95% of
+the highest LST observed on 30 March 2021) are:
+   •   South Zone A
+   •   South Zone B
+   •   East Zone B
+   •   North Zone
+   •   South West Zone.
+
+
+
+
+                                                                                             19
+Alarmingly, all zones in Surat observed LST > 40.9-43.2 ℃ (i.e., 90% of the highest LST
+observed on 30 March 2021), LST >38.7-40.9℃ (i.e., 85% of highest LST observed on 30
+March 2021) and LST > 36.4-38.7 ℃ (i.e., 80% of highest LST observed on 30 March 2021)
+On 17 March 2022, Zones showing LST >43.1-45.4 ℃ (i.e., 95% of the highest LST observed
+on 17 March 2022) are:
+   •   South Zone A
+   •   South West Zone
+Alarmingly, all zones in Surat observed LST > 40.9-43.1 ℃ (i.e., 90% of the highest LST
+observed on 17 March 2022), LST >38.6-40.9℃ (i.e., 85% of highest LST observed on 17
+March 2022) and LST > 36.3-38.6 ℃ (i.e., 80% of highest LST observed on 17 March 2022)
+
+
+
+
+                                                                                    20
+Map: Land surface temperature maps showing recordings in March 2021 and 2022
+
+
+
+
+                                                                               21
+22
+3.2 Mapping vulnerability
+
+
+IPCC defined vulnerability to heat as a function of the degree of exposure to the heat hazard,
+sensitivity to changes in weather/climate (the degree to which a person or system will respond
+to a given change in climate, including beneficial and harmful effects), and adaptive capacity
+(the degree to which adjustments in practices, processes, or structures can moderate or offset
+the potential for damage or take advantage of opportunities created by a given change in
+climate). The propensity or predisposition to be adversely affected. Vulnerability encompasses
+a variety of concepts and elements including sensitivity or susceptibility to harm and lack of
+capacity to cope and adapt.16
+
+
+Vulnerability Assessment for 6 locations across Surat was carried out across slums or slum-
+like low-income settlements. Areas selected for the study are as follows:
+                       Table : Survey areas and their ward number in Surat City
+ Surveyed Areas in Surat                            Ward Number
+ Hari Om Nagar, Pandesara                           27
+ Mahakalinagar, Udhna                               24
+ Sai Samarpan society, Udhna                        164
+ Gandhikuttir, Udhna                                28
+ Revanagar, Adajan                                  46
+ Saraswati Ahwas, Adajan                            17
+
+
+
+
+16
+     https://www.ipcc.ch/sr15/chapter/glossary/
+
+                                                                                           23
+                 Figure: Survey Locations in Surat City (ZONAL MAP)
+
+During the heat wave, the coping capacity of people with minimum resources, especially
+women, is hugely compromised to respond to health challenges during hot temperatures. The
+night-time outdoor microclimatic conditions, poor housing structure and no access to services
+make it extremely difficult for people to cope with heat stress. Consequently, it acutely affects
+the health of people living in these areas. The women of these areas face its brunt the most as
+they not only have to deal with a heat wave but also have to make arrangements for services
+such as water likewise. In total, 60 households were covered in this survey.
+The surveyed households included construction workers, street vendors, domestic helpers and
+road sweepers. Each household comprised four members on average. Making door-to-door
+visits the survey captured information on the resident population’s occupation, working hours,
+occupational pattern, mode of transportation, the impact of heat stress, and the coping capacity
+
+
+                                                                                              24
+of households. The survey used a comprehensive index of factors to assess the vulnerability of
+households. The following are the eight sectors and corresponding sub-sectors in the index:
+
+
+ S. No.      Sectors                       Sub-sectors
+ 1           Housing                       Ownership
+                                           Number of rooms
+                                           Housing structure, and material used for floor, walls,
+                                           roof
+                                           Number of windows, and exterior wall colour
+ 2           Cooking                       Type of fuel
+                                           Cooking area
+ 3           Sanitation                    Access to toilet
+ 4           Water                         Water source
+                                           Water supply (in litres)
+ 5           Electricity                   Electricity supply and frequency of outages during
+                                           summer
+                                           Electricity bill and electrical appliances used
+ 6           Health                        Mapping high heat period
+                                           Time of heat discomfort
+                                           Heat stress symptoms
+                                           Access to health infrastructure
+                                           Distance from the nearest facility
+                                           Age-wise symptoms
+                                           Health insurance
+                                           Source of health insurance
+                                           Reasons for not using government health facilities
+                                           Differential impact of heat on women and men
+ 7           Awareness                     Awareness of the term ‘heat stress’
+                                           Awareness of medical facilities treating heat stress
+                                           Awareness of mitigation strategies adopted by ULBs
+ 8           Heat stress symptoms          Heat exhaustion, heat cramps
+
+
+
+
+                                                                                                  25
+3.3Survey findings
+
+3.3.1 Housing
+
+
+Poor quality housing in terms of design and materials is commonly used in settlements where
+the urban poor live and it increases discomfort and health risks during extreme heat. It increases
+the indoor temperature as houses heat up quickly and cool down very slowly. Staying indoors
+during heat waves may therefore lead to other health risks in heat-vulnerable housing;
+overcrowding too increases these risks.
+
+Almost 80% of the participants own their dwelling units. This showed that the dwelling units
+are likely to benefit if they are linked to improvement in shelter design programmes. However,
+the majority of the units are overcrowded with 38 sq. ft/person living in the selected locations.
+While 75 % of the houses in Surat are pucca, the remaining 25% of the sample households live
+in semi-pucca and kutcha households. Nearly 43% of the HHs have single windows which
+causes poor ventilation trapping more heat in the dwelling unit and leading to heat-related
+illnesses.
+
+
+
+
+ Figure: Inadequate housing infrastructure with tin roofing and no ventilation leads to
+                                 increase in temperatures
+                                      Source: IRADe
+
+                                                                                               26
+3.3.2 Cooking
+
+
+All the adult women in the survey do the cooking for the family; their vulnerability increases
+when the cooking area is tiny and has no ventilation. Females in households are exposed to
+extreme heat while cooking. This adds to the heat conditions, especially in hot and humid
+weather.
+
+3.3.3 Transportation
+The preferred mode of transportation indicated the duration of exposure to heat, wherein we
+find about 48% of the respondents use walking, public transport, rickshaw, and bicycle, with
+more than 50 per cent of the individuals travelling more than 2 Km for work and school daily.
+
+3.3.4 Sanitation
+
+
+Improving access to sanitation and piped water supply for all households is a major step for
+checking peak summer disease caseloads. Surat stands in a good position, wherein more than
+80% of the HHs have individual toilet facilities and flush toilets are found in most households.
+
+3.3.5 Water
+
+
+Access to safe and affordable water is critical during hot weather. Though most of the HHs
+(55%) have access to piped water sources 9 with water supplied only once), some depend on
+underground water, and private tankers which are posted far from the housing units. Since
+women and children fetch water most of the time, better access will reduce their exposure to
+extreme heat.
+
+3.3.6 Electricity
+
+
+Though all have access to electricity connections, more than 60% of the HHs reported frequent
+power cuts, with more than 6 hours of disrupted power in 33% of the surveyed HHs. The
+electricity bill hiked to more than 1000 INR during the summer season as power consumption
+increased.
+
+3.3.7 Health
+
+
+
+                                                                                             27
+May is the hottest month, both women and men report heat-related issues during this period.
+More than 43 % of the respondents reported heat stroke, and 28 % of the HH reported heat
+exhaustion symptoms while working outdoors.
+
+
+ Heat cramps                                      Heat exhaustion
+
+ Signs and symptoms of heat cramps include        Common symptoms of heat exhaustion
+ fatigue and painful contraction of muscle        include heavy sweating and a rapid pulse
+ groups. Fluid and electrolyte loss often         caused by overheating of the body. It is one
+ contribute to heat cramps. Prompt treatment      of three heat-related syndromes – heat cramps
+ usually prevents heat cramps from                are the mildest and heat strokes the most
+ progressing to heat exhaustion.                  severe.
+
+
+3.3.8 Heat adaptation
+
+People working outdoors and in closed indoor factories preferred wearing comfortable clothes,
+drinking water and using a wet handkerchief to adapt and mitigate the heat. At the household
+level, people tend to drink more fluids (60 %), sprinkle water in the neighbourhood (48%),
+sleep on the floor (44%) and curtains (42%) to combat heat stress
+
+3.3.9 Awareness
+
+
+Households surveyed indicate that most of the people ( 85%) are aware of heat stress, however,
+there is minimal awareness of the medical facilities offering treatment for heat stress nor are
+they aware of the adaptive mitigation strategies adopted by the ward-level administrative
+bodies of the government, the urban local bodies (ULBs). People use social media, including
+the internet and newspaper to avail information on heat.
+
+
+
+
+                                                                                             28
+3.4 Impact of extreme heat on income
+
+
+The survey included indoor and outdoor workers who have been direct impact by heat stress.
+The indoor workers are involved in the activities like tailors, retail shop keepers, govt. and
+private office workers, housewives, maids and sweepers whereas outdoor workers are casual
+labourers, factory workers, and construction workers likewise.
+People vulnerable to extreme temperatures are those who have to remain outdoors for work all
+day long and have limited options to protect themselves, for example, street vendors, beggars,
+shopkeepers, traffic police, and auto-rickshaw drivers. People who stay at home are equally
+vulnerable to heat stress because the material used for roofing and walls absorbs heat thereby
+intensifying the room temperature.
+Under these circumstances, both outdoor workers and people who work at home, mainly
+women who are homemakers, suffer a loss of productivity during extreme heat events. Poor
+coping mechanism and a lack of measures to combat the effects of heat wave frequently results
+in health problems such as diarrhoea, heat stroke, heat rashes, dehydration, and dizziness,
+among others. And this in turn leads to a loss of wages and productivity.
+It is observed that more than 65% of the workers, have to travel more than 2 km ( 30 mins) to
+their workplace, with 48% using walking, public transport, rickshaw, and bicycle as their basic
+mode of transportation and increasing the exposure time to heat stress.
+
+3.5Productivity loss
+The survey reported almost 52% of the respondents to have a monthly productivity loss
+accounting for about 2000 INR, with another 48% registering a loss close to 500 INR monthly
+during the extreme summer heat.
+
+
+
+
+                                                                                            29
+                                                               Productivity loss
+                           14
+   Number of respondents
+
+
+
+                           12
+                           10
+                            8
+                            6
+                            4
+                            2
+                            0
+                                         500<                500 to 1000        1001 to 1500            <1501
+                                                                      Amount (INR)
+
+
+3.5.1 Loss of productivity and its impact
+
+
+Loss of productivity can have a spiralling effect. Rising absenteeism at the workplace owing
+to the health impact of heat stress on a large scale can impact the country’s GDP even. It also
+impacts the family’s economy.
+
+Around 60% of the working respondents reported a change in their working hours due to heat
+stress, along with the loss of income due to heat-associated illness and leaves.
+
+
+                                Change in average working hours               Hospitalisation in last one
+                                        due excess heat                                  year
+
+
+                                                                                                 Yes
+                                                                                                 22%
+                                  No
+                                 40%
+
+                                                       Yes
+                                                       60%                           No
+                                                                                    78%
+
+
+
+                                            Yes   No                                      Yes   No
+
+
+Other than the medical expenses may also be a burden. Over 22 % of the respondent also had
+to be hospitalised due to excess heat.
+
+
+
+
+                                                                                                                30
+                                                      Salary loss / month due to heat stress
+                                35
+        Number of Respondents
+
+
+                                30
+                                25
+                                20
+                                15
+                                10
+                                5
+                                0
+                                           0 to 999      1000 to 1999       2000 to 2999   Above 3000          No loss
+                                                                                 Range
+
+
+
+
+About 50 % of people reported the loss of income due to heat-associated illness and leaves,
+with wage or salary loss between 1-999 to above 3000, with maximum loss recorded within
+1000-1999 INR per month.
+
+3.6 Health Impact
+The survey indicates that most households avoid seeking any treatment for heat stress-
+associated illnesses. If they do opt for treatment, nearly 500 INR is spent on medical treatment,
+with heat exhaustion being the major problem faced due to heat stress. Though more than 85%
+of the HHs are aware of heat stress-related issues, women have the least awareness regarding
+the availability of medical facilities.
+
+
+                                     Awareness regarding medical facilities/ hospitals available near by for the
+                                                               treatment (M/F)
+   30
+   25
+   20
+   15
+   10
+    5
+    0
+                                        don't know                          no                           Yes
+
+                                                                        F     M
+
+
+
+
+                                                                                                                         31
+       Regarding the accessibility to healthcare facilities, almost all households have access
+       to private hospitals, however, it needs to be highlighted that 78% of the HH have to
+       travel up to 2.5 km for treatment.
+
+
+           Awareness regarding medical facilities/                               Access to the treatment facility by the
+         hospitals available near by for the treatment                                             HH
+                                                                                 35
+
+
+
+
+                                                         Number of respondents
+                                                                                 30
+                    No                                                           25
+                   30%
+                                                                                 20
+                                                                                 15
+                                                                                 10
+                                       Yes
+                                       70%
+                                                                                 5
+                                                                                 0
+                                                                                       UHC     Civil      Private      Pvt Hos
+                                                                                              Hospital     clinic
+                            Yes   No                                                         Medical/Hospital facility
+
+
+
+
+3.7Summary of survey findings
+
+
+The survey’s broad findings in Surat city show that the urban poor is vulnerable to extreme
+heat for several reasons. Taking housing, for example, several dwelling units have poor
+ventilation with low thermal comfort. The roof in most of the HH is made of heat-trapping
+material like galvanised iron or asbestos. A substantial number of the HH have piped drinking
+water inside the HH. However, they reported drinking water scarcity during the peak summer
+as water consumption increases, and the water supply is only once a day. This means an
+additional burden on women or the girl child, as they need to fetch water from neighbours or
+water supplying tankers, purchase water from private tankers etc. It also increases exposure to
+the hot sun during summer. Though most households have an electrical connection to the grid,
+power outages increase their vulnerability to heat stress.
+
+In addition to a rise in HH expenditure on heat-related illnesses, purchasing drinking water and
+meeting raised electricity consumption charges due to heat stress also trigger loss of health and
+livelihoods. This impacts the coping capacities of these HH due to poor affordability, and their
+pre-existing poor economic conditions further add to their vulnerabilities.
+
+
+
+
+                                                                                                                          32
+The study found that outdoor people are more prone to heat-related illnesses of heat stroke and
+heat exhaustion than indoor workers. Such high-level vulnerability is due to their nature of
+work as most of them are construction workers, hawkers, rickshaw pullers and labourers. They
+spend most days in direct sun exposure of 4 to 6 hours and 7 to 9 hours, respectively. This
+shows that these workers are highly vulnerable to heat stress and related illness.
+
+3.7.1 Impact of extreme heat on Women
+
+
+Men, women, pregnant women, children and the elderly have different levels of endurance for
+heat stress. During the surveys, the majority of the women reported heat exhaustion, and heat
+cramps during the summer months. Most children and senior citizens also complained of heat
+exhaustion. This indicates the greater vulnerability of children, women and senior citizens.
+Extreme heat also unleashes increased aggression against women. Prolonged hot spells extract
+a heavy toll, starting with sleep deprivation. People living in cramped houses with heat-
+emitting walls and roofs lose sleep for days together managing barely one or two hours of shut-
+eye at night. This leaves them exhausted and irritable, making the days far worse. The rising
+heat also causes more aggression.
+As rising temperatures increase aggression, there are more incidences of interpersonal
+violence, including domestic violence. Poor women are at the receiving end of rising
+aggression regularly when it is time to fetch water from water-dispensing tankers. Already
+precariously poised, trying to balance several buckets and pitchers, they are made more
+vulnerable because of verbal abuse, pushing and jostling.
+
+
+
+
+   Figure Women, Children and Senior citizens are amongst the most vulnerable during Heat
+                                     Source: IRADe
+
+
+
+
+                                                                                               33
+3.7.2 Extreme heat affects women more
+
+
+Extreme heat affects women differently. Since heat wave conditions are prolonged, the burden
+of expectation on women to perform chores, like for example making chapatis sitting in front
+of a stove fire continuously for an hour or more, or fetching water from a public water source
+around noon, increases vulnerability to extreme heat.
+More women in the sample households stayed indoors for longer hours compared to men, but
+this did not make them less vulnerable. Vulnerability is higher within the house because factors
+like poor ventilation, congestion, and building material used, all trap heat and can cause heat
+strokes.
+It needs to be recognized widely that a pregnant woman is more likely to suffer heat exhaustion
+or heat stroke because her physiological system has to work harder to cool down her body and
+the foetus. Pregnancy also makes a woman more prone towards dehydration. Whether pregnant
+or not, extreme heat puts women and girls at constant risk of urinary tract infections. Not
+surprisingly therefore there is an increasing number of heat-related illnesses and stillbirths.
+
+Extreme heat affects everyone, but women, small children and the elderly, particularly older
+women are more vulnerable. At present, the policy does not even link morbidity and mortality
+with extreme heat. When a newborn dies, say of dehydration, in many cases, extreme heat is
+the cause of death – it causes the mother to suffer heat stress and can dry up breastmilk, leaving
+the newborn severely malnourished and dehydrated. The fact is extreme heat affects women
+differently and at many levels.
+
+3.7.3 Impact on nutrition
+
+
+Other than the general loss of appetite during periods of extreme heat, diarrhoea and vomiting
+also take a toll on the nutrition status of families, particularly children.
+
+Family nutrition is also compromised in households that do not have a refrigerator because
+preserving food becomes difficult – the intake of fresh vegetables is reduced considerably as a
+result.
+
+3.7.4 Dehydration
+
+
+
+
+                                                                                                  34
+Dehydration and summers go hand in hand. Excessive heat or heavy sweating causes loss of
+body fluids and electrolytes and can be replenished with simple measures like regular intake
+of lemon water with salt, and an occasional banana for potassium. But dehydration frequently
+leads to complications and needs medical intervention because of a lack of awareness.
+
+3.7.5 Awareness building
+
+
+Since women in general are custodians of the family’s health and nutrition there is a need to
+reach out to them to make them aware of simple coping mechanisms. Building such awareness
+will prevent simple cases that can be managed at home from progressing to medical
+complications requiring a doctor’s intervention. A little awareness can therefore save not only
+expenses but also loss of productivity.
+
+3.7.6 Interpersonal communication
+
+
+Studies and interventions in maternal health have shown that person-to-person communication
+regularly is the most effective. Several platforms exist that can disseminate messages related
+to heat once there is a policy push. The health department already has in place urban Mahila
+Arogya Samiti (MAS) formed under Urban Health Mission, ASHAs (accredited social health
+activists)17, who are community health service providers at the ward level. This health worker
+works in close coordination with the Anganwadi worker (AWW) who runs the nutrition
+programme for small children and pregnant and lactating women from a childcare centre called
+the Anganwadi Centre (AWC). A municipality ward may have more than one AWC depending
+on the population. In addition, every ward has a Mahila Arogya Samiti (MAS), a women’s
+health group.
+
+Several components in the survey hinted at how women are differently vulnerable to extreme
+heat. Policy needs to take into account the differentness to formulate effective measures.
+
+3.7.7 Sanitation
+
+
+
+
+17   ASHAs are women community health workers put in place by the National Health Mission.
+
+                                                                                             35
+A large number of households in the survey had no access to a toilet at the HH level. The
+vulnerability of women, children and the elderly, who are already the more vulnerable,
+increases manifold when they have to walk a distance to public toilets.
+
+3.7.8 Water supply
+
+
+Only a small percentage of households in the survey have the supply network pipes reaching
+their dwelling unit. That is the reason several households fetch water from sources like public
+taps, and water-dispensing tankers that bring water to the neighbourhood, nearby streams or
+dug wells.
+
+Women in some of the samples have to run the house with the daily water supply but for
+restricted times. Their vulnerability increases sharply because they have to fetch water from
+many sources, walking in the hot sun with containers. Sometimes children have to miss school
+because they have to fetch water.
+
+3.8Other areas where policy intervention is needed
+
+
+Awareness building is the area where a major policy thrust is acutely needed. Extreme heat is
+the cause of several health issues that need to be understood on a wider scale.
+
+The survey brought to light that there are several areas where awareness building is needed.
+Some of these are:
+
+3.8.1 Health insurance
+
+
+An overwhelming majority of the households surveyed do not have health insurance. Most
+households are out of the health insurance network because they are not able to afford it, and
+have little awareness of government-sponsored medical insurance schemes such as Ayushman
+Bharat Pradhan Mantri Jan Arogya Yojana. To improve access to health insurance, the
+government needs to promote and publicize its insurance schemes meant for the below-
+poverty-line population.
+
+ASHAS can be roped in to build this awareness.
+
+4.3.1 Treatment for heat stress
+
+
+                                                                                            36
+Awareness of heat stress is low as also the measures. An overwhelming percentage of the
+sample households are not aware of the medical facilities offering treatment for heat stress.
+Stakeholders need to come together to ensure that information is disseminated among
+households about the impact of extreme heat and ways to mitigate it.
+
+
+4 Climate adaptive heat action plan
+
+4.1Strategies of the plan
+
+
+The climate adaptive heat action plan is designed to improve the management of heat-related
+risks in Surat. Its basis is the spatial distribution of the city’s heat hotspots and the poor people
+living in these heat islands. The reason is simple: these heat islands are warmer compared to
+the other parts of the city and the urban poor have very few coping measures to combat extreme
+heat. The plan is also gender-sensitive because women have to cope with much more during
+high temperatures for reasons of body physiology and cultural construct – domestic chores like
+cooking continuously before a stove fire, and fetching water from a source outside the house,
+among others, increase their exposure to high heat. The overall purpose of this plan is to
+collaborate with the city to prioritize and adopt strategies that will help Surat become a climate-
+resilient smart city.
+This heat action plan is also comprehensive. It provides a framework for implementation,
+coordination between municipality departments and evaluation of extreme heat response and
+guides mitigation and adaptive measures to prevent loss of life and productivity. The plan’s
+primary objective is to alert populations at risk of heat-related illnesses where extreme heat
+conditions either exist or are imminent so that people take appropriate precautions. The plan,
+therefore, helps to bring together all stakeholders for a citywide strategy in enforcing
+preventive, mitigation and adaptive measures to check heat-related debility.
+
+
+
+
+                                                                                                  37
+EARLY                  PUBLIC                  CAPACITY                REDUCING HEAT
+WARNING                AWARENESS &             BUILDING        OF      EXPOSURE AND
+SYSTEM & INTER         COMMUNITY               STAKEHOLDERS            PROMOTING
+AGENCY                 OUTREACH                Training focus on       ADAPTIVE
+EMERGENCY              Communicate      the    engineering, water      MEASURES
+RESPONSE PLAN          risks of heatwaves      supply, Roads and       Access to potable
+Alert residents of     and        implement    traffic,    Garden,     drinking water and
+predicted high and     practices to prevent    labour and Health       cooling spaces duribg
+extreme temperature    heat -related deaths    department              extreme heat days &
+&          formally    and illnesses                                   promote      adaptive
+communication                                                          measures
+channels to alert
+governmental
+agencies
+
+
+
+
+                       Figure: Key steps to prepare for heat waves
+
+4.1.1 Preparedness
+
+
+The following steps are key to preparing for heat waves and preventing loss of health and
+productivity.
+
+ 1. Building public awareness and community outreach to communicate the risks of heat
+    waves and adopt measures to prevent heat-related deaths and illnesses. Public messages
+    through various media such as fliers, radio and television spots will serve as a timely
+    reminder for the community to stay prepared and take appropriate measures when
+    extreme heat strikes. This reminder also needs to go out via text messages and social
+    media applications such as WhatsApp or Instagram. Special efforts have to be made to
+    reach out to vulnerable populations, including women, through interpersonal
+    communication as well as other means of outreach.
+
+ 2. Setting up an early warning system and inter-agency coordination to alert residents of
+
+
+                                                                                           38
+    forecasted high/extreme temperatures. The IMD already shares a daily five-day forecast
+    with the Heat Action Plan nodal officer of the Surat Municipal Corporation during
+    summer. What is needed is to create formal communication channels to alert government
+    agencies, meteorological centres, health officials and hospitals, emergency responders,
+    like SMC’s health department officials, city disaster management cells, local community
+    groups, and media.
+ 3. Capacity building of all departments/ professionals is needed so that they can recognize
+    and respond to heat-related illnesses, particularly during extreme heat events. Many are
+    already doing this, but a formal training session will help to sharpen diagnosis as it will
+    remove any uncertainty about health issues extreme heat can cause. These will need such
+    capacity building on a priority basis – primary healthcare medical officers, paramedical
+    staff, and community health workers (ASHAS). It will help improve the prevention and
+    management of heat-related cases.
+ 4. Reducing heat exposure and promoting adaptive measures like mapping high-risk areas
+    of the city, increasing outreach and communication of preventive measures, and setting
+    up intermittent drinking water points and cooling sheds for the benefit of pedestrians and
+    commuters. Collaboration with NGOs is a means to extend outreach and communication
+    among the city’s most at-risk communities.
+5. Other measures can include
+   •   A heat emergency response plan
+   •   Collaboration with NGOs and civil society to develop ‘cool public places’ particularly
+       bus stands, building temporary shelters, and setting up drinking water points
+
+4.1.2 Adaption and mitigation measures
+
+
+The rising number of heat waves is marked by a large number of heat-related illnesses. Many
+of these turn serious, causing death even. The state of disaster that heat waves unleash plays
+itself out in hospitals mostly, as heat stress is causing an increasing number of medical
+emergencies. This leaves the healthcare delivery system struggling to cope with the heavy
+caseload.
+Such circumstances call for the deployment of a quick response plan that deals with medical
+emergencies without overwhelming the system. This adaptation-and-mitigation strategy,
+therefore, lays down measures to get hospitals and other health service providers to prepare for
+the stream of patients suffering from heat-related illnesses.
+
+                                                                                             39
+It would require planning, coordination, capacity building, monitoring, appraising, and acting
+in accordance with the procedures laid down along with collaborative efforts of all
+stakeholders. A hospital emergency preparedness plan should generally take into account all
+aspects of heat waves including protocols to be followed before, during and after a heat wave.
+
+4.1.3 Steps to take before the sets in
+
+
+1. Creation of institutional committer for HAP for joint planning and review.
+2. Create and implement gender-sensitive heat health guidelines on how to recognize and treat
+   heat stress, heat exhaustion, and heat stroke.
+3. Set up a steering committee to supervise operations, monitor emergency preparedness,
+   manage the heavy caseload of people affected by heat waves, and post-heat wave
+   evaluation.
+4. Ensure adequate stock of IVs, ORS, and other medicines that may be needed in bulk.
+5. Ensure availability of beds, especially in emergency departments and special wards for
+   heat-related illnesses, especially among women.
+6. Set up cooling mechanisms in wards. Since the temperature build-up is the highest on the
+   top floor relocate maternity or neonatal wards if they happen to be here. Move patients with
+   heat-related health issues to cooler floors/parts of the building.
+7. Measure wards’ morbidity and mortality rates before and after location change to evaluate
+   the effectiveness of the intervention.
+8. Increase staffing – medical doctors and paramedical staff to ensure preparedness in case of
+   an increase in admissions.
+9. Extensive use of IEC material, including posters and fliers, and provide advisories to
+   prevent heat stress.
+10. Develop training modules or training for healthcare providers, ward leaders, and
+   paramedics on extreme heat and health, as well as specific heat case management and
+   diagnosis, especially during heat waves.
+11. Organize training of trainers for primary healthcare medical officers so they can offer heat-
+   specific advice (symptoms, diagnosis, and treatment including self-monitoring hydration)
+   to their medical staff.
+12. Conduct workshops for frontline health workers (ASHA, Anganwadi workers, and
+   community health workers) to increase gender-sensitive outreach and community-based
+   surveillance for heat illnesses among poor communities. Frontline health workers need to
+
+                                                                                              40
+   be provided with information tools that are pictorial as these will help them to counsel the
+   community, especially women.
+13. Collaborate with the medical service providers/research institutes to train emergency
+   service professionals on responding to extreme heat emergency cases.
+14. Since new-borns are particularly vulnerable to heat stress, increase heat stress outreach and
+   education for women in maternity wards before they leave the hospital. Coordinate with
+   National Health Mission to revise the ASHA training module on post-natal newborn care
+   to include the management of heatwave conditions.
+15. Update heat wave monitoring and management protocols and programmes, including
+   tracking of daily heat-related data that is gender disaggregated.
+
+4.1.4 Steps to take during the season
+
+
+1. Adopt gender-specific heat-focused examination procedures at local hospitals and Urban
+   Health Centres. Train ASHAs on these protocols. Make it a routine to examine admitted
+   patients for signs and symptoms of heat-related illnesses adding a brief procedure during
+   the peak summer months. Basic information about such patients should be noted to
+   maintain a record of their location, occupation, sex, and socio-economic status to build a
+   database of the city’s residents most vulnerable to extreme heat.
+2. Adapt pharmacological treatments according to Standard Treatment Guidelines (STGs).
+   Gender aspects should be given due consideration.
+3. If possible, postpone non-emergency hospitalizations and surgeries.
+4. Ensure high-risk patients are placed in rooms with air conditioning; less critical patients
+   should at least have access to an area with air conditioning/air circulation during the hottest
+   hours of the day.
+5. Increase liquid oral and intravenous intake of patients.
+6. Modify diet with increased intake of fruits and vegetables.
+7. Adjust patient bed and personal clothing according to need.
+8. Start special and adequate health and social assistance for hospital discharge of high-risk
+   patients, especially new mothers with babies or postpone discharge till the heat wave
+   subsides.
+9. Ensure the availability of an adequate number of vans for medical mobile units in high-risk
+   areas.
+
+
+
+                                                                                               41
+10. Maintain records of heat-wave patients according to the government-prescribed monitoring
+   sheet and report to the municipal corporation on a daily basis.
+11. Expedite recording of cause of death mentioned/documented in death certificates.
+
+4.1.5 Steps to take after the season
+1. Share final gender-disaggregated data on hospital admissions as per indicators set for
+   reporting during a heat wave with the municipal corporation.
+2. Give feedback on the annual evaluation of the heat action plan.
+3. Prepare a set of key learnings during heat waves to build on institutional memory and share
+   it with other stakeholders.
+
+
+
+
+                                                                                           42
+              Figure: Broad steps to take before, during and after peak summer
+
+
+
+
+       Pre-heat wave                     During a heat wave                Post-heat wave
+   Create and implement              Adopt gender specific heat-      Share final data of gender
+  gender-based heat health              focused examination             disaggregated hospital
+ guidelines on the diagnosis         procedures at local hospitals   admissions as per indicators
+and treatment of heat stress,         and Urban Health Centres       set for reporting during heat
+ heat exhaustion, and heat                                            wave with Surat Municipal
+           stroke                                                             Corporation
+                                    Ensure availability of
+                                 adequate number of Medical
+  Ensure adequate stocks of      Mobile Unit vans in high-risk          Give feedback in annual
+IVs, ORS and other medicines                areas                      evaluation of heat action
+    needed for heat stress                                                       plan
+          treatment
+                                     Ensure high-risk patients are
+                                       placed in rooms with air-     Prepare a set of key learnings
+ Establish wards with cooler           conditioning; less critical   during heat wave to build on
+  room temperature in the            patients should at least have     institutional memory and
+           hospitals                  access to an area with air-          share it with other
+                                        conditioning during the               stakeholders
+                                       hottest hours of the day
+
+
+
+
+4.2Surat Heat Action Plan
+
+
+Surat Heat Action plan is three-pronged with short-, medium- and long-term measures. It is
+important to understand what these measures are in order to build on them and put in place a
+climate-adaptive heat action plan.
+
+
+                                                                                                   43
+4.2.1 Short- and medium-term measures
+Awareness campaigns
+   •   Hoardings, posters, to be displayed by LED TVs at various locations, distribution of
+       fliers
+   •   Awareness workshops for people whose occupations entail heat exposure – traffic
+       police, hawkers, street vendors, construction workers and school children
+
+Mitigation measures
+
+   •   Keeping gardens, cooling shelters and other possible cooling centres open with the
+       provision of drinking water
+   •   Availability of drinking water and sheds at open construction sites
+   •   Pilot project on painting roofs white to lower the room temperature of the house and
+       distribution of gunny bags in slums and squatter settlements. These are for lowering
+       temperatures in shacks by drenching them with water and placing them on tin/asbestos
+       roofs.
+   •   Setting up water and ORS points at various places – construction sites, bus stands and
+       other public places, on the route of processions and at rallies during summer
+   •   Distribution of cooling vests to on-duty traffic police personnel. Cooling vests help
+       regulate body temperature during hot days outdoors.
+   •   Water tankers are to be made available on call in slums during orange/red alert days
+   •   Developing and provision of night shelters for migrants
+   •   Provision of 24x7 electricity supply during the heat waves
+
+Early warning communication
+
+   •   SMS and WhatsApp messages for early warning to citizens, NGOs, citizen welfare
+       groups, construction contractors
+   •   Roving public announcements on mikes across the city on orange and red alert days –
+       a day before and once more early on the forecasted day
+   •   Press releases and campaigns on radio, TV and websites
+
+Medical preparedness
+
+   •   Stocking ORS and cool packs at the health centres and readiness with cooling and
+       rehydration as well as shock management treatments
+
+
+                                                                                              44
+   •   Medical camps on the day of red alerts at heat hotspots
+
+Monitoring and warning mechanism
+  • Improve the existing monitoring and warning mechanism
+   •   Procure and install automated weather stations in each ward
+   •   Maintain a ward-wise record of heatstroke cases, daily mortality with the cause of death
+       as well as daily hospital admissions of all-cause cases and heat-related causes
+   •   Monitor and analyse morning temperatures recorded at weather stations and issue early
+       warnings
+   •   Acquire ward-level temperature forecasts and heat wave warnings from IMD
+
+Ward-level heat stress management
+
+   •   A ward-level heat stress management committee needs to be formed comprising:
+          ➢ Ward councillors
+          ➢ Health officials
+          ➢ Ward officials of the municipal corporation
+          ➢ NGOs and research institutions working at the ward level
+   •   Develop ward-level heat action plans
+
+4.2.2 Long-term measures
+
+
+   •   Heat alerts and emergency response plan needs to target vulnerable groups, and high-
+       risk areas and incorporation of the same in the City Development Plan. The planned
+       development is required in urban areas to ensure appropriate amenities are available to
+       all residents in every location.
+   •   Heat insulation and building standards need to be strengthened by improving building
+       bye-laws along with increased heat tolerance for new infrastructure. Building bye-laws
+       can have components of passive ventilation and cool-roof technologies and be made
+       mandatory in more vulnerable areas.
+   •   Identify locations and build shelters and sheds for the urban poor.
+   •   There is a need to collate and document indigenous knowledge to promote traditional
+       coping mechanisms.
+   •   Carry out capacity building at the community level through awareness campaigns and
+       outreach programmes and by communicating risks associated with heat stress – its
+       impact on health, livelihood and productivity and ways to mitigate the same.
+
+                                                                                            45
+   •   Initiate research on micro-climate and corroborate the need to monitor temperatures in
+       urban areas. Policy-level intervention to retrieve natural ecosystems and natural
+       shelters.
+   •   Encourage vertical greenery, and roof gardens as means to improve the urban landscape
+       with alternative methods to bring down the temperature. Greening infrastructure can be
+       an effective method to cope with heat stress. Urban forests have been found to be
+       effective. A combination of shading, reduced heat build-up through judicious use of
+       building material, humidity and wind management can provide heat refuge at street
+       levels.
+   •   Encourage investing in water bodies, and fountains in areas of mass presence and
+       promote greening of city spaces along with improving green transport and energy
+       systems.
+
+4.2.3 Capacity building
+
+
+IRADe in partnership with Surat Municipal Corporation (SMC) organised a Stakeholder
+Consultation workshop on “Developing Gender- Sensitive Heat Action Plan for Surat,
+Gujarat”. The workshop was coordinated by the Urban Health and Climate Resilience Centre
+of Excellence (UHCRCE), Surat under the Asia Pacific Network for Global Change Research
+(APN) Project under the Asia Pacific Network for Global Change Research (APN) Project on
+10th October 2022 in Surat.
+The training aimed at orienting healthcare professionals of Surat on the heat action plan and
+enhancing their capacities for proper and inclusive management of heat-related illnesses. More
+than 50 doctors and public health professionals underwent the training; it not only covered heat
+stress and protocols for heat-related diagnosis and treatment but also overall preparedness for
+the prevention and management of heat stress.
+
+
+
+
+                                                                                             46
+Figure Stakeholder Consultation Workshop for Developing Gender Sensitive Heat Action Plans
+for Surat
+
+
+
+
+                                                                                     47
+      4.3 Heat wave advisories
+
+
+      Heatwave conditions can result in fatal physiological strain. To minimize the impact of heat waves on health it is best to practise caution. The
+      following are some dos and don’ts that serve well.
+
+
+      Dos and don’ts for heat waves
+
+
+✓ Follow weather forecasts and advisories on radio, TV, newspapers.                                   Do not leave children or pets in parked
+✓ Drink water often, even if not thirsty.                                                              vehicles.
+✓ Wear lightweight, light-coloured, loose cotton clothes; use protective goggles, umbrella/hat,       Avoid going out in the sun, especially
+  shoes or chappals while going out in the sun.                                                        between noon and 3.00 pm.
+✓ While travelling, carry water with you.                                                             Avoid wearing dark, heavy or tight clothing.
+✓ If you work outdoors, use a hat or an umbrella and also use a damp cloth on your head, neck,        When the outside temperature is high, avoid
+  face and limbs.                                                                                      strenuous activities especially between noon
+✓ Take ORS along with homemade cooling drinks like lassi, torani (fermented rice water), lemon         and 3 pm.
+  water, buttermilk, to rehydrate the body and replenish mineral salts.                               Avoid cooking during peak heat hours. Open
+✓ Learn to recognize the signs of a heat stroke, heat rash or heat cramps such as weakness,            doors and windows to ventilate cooking area.
+  dizziness, headache, nausea, sweating and seizures. If you feel faint or ill, see a doctor          Don’t consume alcohol, tea, coffee and
+  immediately.                                                                                         carbonated soft drinks as these drinks
+✓ Keep animals in the shade and give them plenty of water to drink.                                    dehydrate the body.
+✓ Keep your home cool, use curtains, shutters or sunshade and leave windows open at night.            Avoid high-protein food and do not eat stale
+✓ Use fans, damp cloth and cold water bucket-baths frequently.                                         food.
+✓ Provide cool drinking water at workplace.
+✓ Caution workers to avoid direct sunlight.
+✓ Schedule strenuous jobs for cooler times of the day.
+✓ Increase the frequency and length of rest breaks for outdoor activities.
+✓ Pregnant women and workers with a medical condition should be given additional attention.
+
+
+                                                                                                                                                   48
+4.3.1 Special Strategies for Vulnerable Groups
+
+      Communication                   Cooling strategies          Occupational strategies
+                                 •   Public access to potable    • Outdoor labourer
+          strategies                 water and cool spaces         education
+                                 •   Development of public       • Labour law
+ •   Temperature and
+                                     parks                         enforcement and
+     forecast display
+                                 •   Shaded bus stops              coordination
+ •   Proper communication
+                                 •   Community       resource    • Cooling incentives for
+     during heat alerts
+                                     map                           local/outdoor
+ •   IEC activities that reach
+     all the vulnerable          •   Greening     and     tree     businesses
+     groups                          plantation campaigns
+                                 •   Cool roof campaigns
+ •   Helpline centres
+
+
+
+
+                                                                                     49
+5 Implementation of the action plan
+
+5.1Creating a framework for a coordinated approach
+
+
+As extreme heat affects multiple aspects of life, coping measures need a multi-sectoral
+approach. For smooth implementation of a climate adaptive heat action plan on an annual basis,
+SMC needs to institutionalise a heat action component in the yearly plan of several government
+departments. Through a series of workshops, SMC needs to bring about a well-coordinated
+action plan on the ground. The purpose of these workshops is to help the following departments
+to formulate an annual heat action plan of their own and make it official by including it in the
+coming year’s budget of the department. The key departments SMC needs to coordinate with
+are:
+       •   Drinking water and sanitation
+       •   Electricity
+       •   Transport
+       •   Labour
+       •   Health and the National Urban Health Mission
+       •   Women and child development department that runs the child development
+           (Anganwadi) centres in the community
+Once SMC brings the above government departments to formulate and own an annual heat
+action plan it will bring these different sectors on the same page with regard to mitigation
+measures for extreme heat. Such a coordinated approach will pave the way for the smooth
+implementation of a multi-sectoral heat action plan at the ward level.
+Since extreme temperature triggers heat-related health issues on a wide scale a lot depends on
+how efficiently SMC brings about convergence at the ward level with the health department,
+the urban programme of the National Health Mission (NHM) and the Department of Woman
+and child development that is responsible for the child development centres in the municipal
+wards. The frontline workers of these three government agencies already work in coordination
+to achieve goals related to maternal and child health. SMC needs to add heat stress to their
+ongoing awareness building and health programmes.
+While the ANM, a trained paramedical, is based in the primary health centre, the ASHA and
+AWW are both based in the community. The AWW is based in the Anganwadi Centre, the
+child development centre located in the ward. The ANM, ASHA and AWW regularly conduct
+
+
+                                                                                             50
+awareness sessions related to maternal and child health and nutrition. SMC now needs to take
+the necessary steps to include the impact of extreme heat on the health of mothers and children.
+To be able to do so the municipal corporation needs to work with NHM to bring in ‘impact of
+extreme heat’ as a chapter in the pictorial flipbooks supplied to ASHA to help them conduct
+awareness sessions. Since there are flipbooks on various topics that cover the health of pregnant
+women and newborns, the extreme heat factor needs to be included in all these visual aids.
+
+5.2 Identifying high-risk households
+
+
+Since ASHA and AWW both are based and work in the community, they are best suited to
+identify households most vulnerable to heat stress. For example, if during her scheduled home
+visit of pregnant women, she notices a household does not have an electric fan, she can bring
+it to the notice of the ward heat stress management committee. Similarly, ASHA can make a
+list of the households that are more vulnerable due to tin/asbestos roofs in her catchment area
+and share it with the heat stress management committee. This will enable the committee to
+arrange for the supply of gunny bags to these households.
+SMC however needs to coordinate with the respective departments so that these two
+community-based frontline workers are given proper orientation in identifying signs and
+symptoms of heat stress and heat vulnerability.
+
+5.3 SMC and Primary Health Centre (PHCs)
+
+
+SMC needs to work closely with primary health centres (PHCs as a first-hand outreach centre
+for Information, Education & Communication (IEC) material and case management Annual
+meetings and workshops with PHC doctors and medical workers should be done on
+diagnosis, management and reporting of cases of heat stress shold bd done.
+
+5.4 Learning from other campaigns
+
+
+At the state level though the government can take a cue from ongoing campaigns and adopt
+some of the strategies that work. For example, the campaign on nutrition to combat
+malnutrition in India introduced simple messages in school textbooks and raised awareness at
+an early age. Civil society led the school WASH (water, sanitation and hygiene) campaign by
+working among students of classes 6 to 8 to raise awareness on personal hygiene; raising
+
+
+                                                                                              51
+awareness among students also helped reach the message to their families. The government
+can consider similar policies in relation to coping mechanisms for heat waves.
+SMC also needs to work alongside the health department when it prepares its annual budget to
+help formulate the coming year’s budgetary allocation for mitigation measures for heat stress.
+Including the heat stress-related action points in the budget is important because it will then
+make heat stress mitigation part of health policy, and therefore more binding on primary health
+centres that function at the ward level.
+
+5.5 Coordination with the transport department
+
+
+This is important because a large percentage of the heat-vulnerable population are workers who
+have migrated from other districts of Gujarat. They live in temporary settlements and
+periodically travel long distances by bus to their village. During peak summer a long journey
+in a non-airconditioned bus can be harrowing and lead to heat stress. SMC needs to coordinate
+with the transport department and drinking water and sanitation department to make sure the
+major bus stations and bus terminals have safe drinking water taps and toilets.
+
+
+
+
+                                                                                            52
+RMC also needs to coordinate with the transport department to include the setting up of ORS
+and drinking water kiosks at city bus stops in its
+annual plan.
+
+5.6 Specific advice for occupational
+    groups
+
+
+The labour department needs to be made aware
+of the need for advisories tailored for different
+occupations. The common occupations in the
+heat-vulnerable wards are construction workers,
+factory workers, street vendors and hawkers, and
+those that run small businesses on the roadside
+like tailoring and food cart.
+
+5.7 Toilets,       drinking        water     and
+    electricity for the more vulnerable
+
+
+SMC will need to work with the drinking water
+and sanitation department to take its critically
+important services to the more vulnerable among
+the heat vulnerable population of Surat. Every
+year there are new temporary settlements to be
+seen around large construction sites or near roads Figure Vulnerable Occupational Groups
+and highways being built. These settlements are Source: IRADe
+a cluster of dwelling units of a basic nature made
+of plastic sheets and asbestos or galvanised iron sheets serving as a roof.
+SMC also needs to coordinate with the drinking water and sanitation department to make
+budgetary allocations for the daily supply of drinking water to these temporary settlements
+which are more vulnerable to heat because of a lack of access to services.
+Similarly, SMC needs to coordinate with the electricity department to work out a way to
+provide a temporary connection for a light source and an electric fan to each shack in the
+temporary settlement. The electricity department will need to own this intervention by
+including it in its annual plan.
+
+                                                                                        53
+5.8 Identifying new settlements
+
+
+Perhaps the first step towards planning for the upcoming summer season SMC needs to do a
+roof count of vulnerable households. It needs to conduct a survey every year to identify all
+temporary settlements – old and new – so that they are not left out of the annual heat action
+plan. This exercise needs to be carried out even before beginning to plan for the summer ahead.
+
+5.9 Raising awareness
+
+
+As discussed earlier, SMC needs to work with the health department to include heat stress in
+the communication tools ASHA use to raise awareness on the health of pregnant women and
+children. These two groups are also among the more vulnerable to heat stress. Since these
+awareness sessions encourage the participation of men, they provide a good platform to teach
+the community about heat stress and its early detection.
+SMC needs to work with civil society and community-based organizations to develop IEC
+material and raise awareness through various methods, including posters, wall paintings,
+messages from a roving microphone, and interpersonal communication. Several NGOs
+working on maternal and child health have their community health workers, who can be roped
+in for interpersonal communication on heat stress and its early detection, and coping
+mechanisms.
+
+5.9.1    Community Engagement at Ward level
+Since the impact of heat stress management has to be created at the ward level it is good to
+know the community-based groups that exist in a ward. These are:
+   1. Heat stress management committee – comprises ward councillors, health officials, ward
+        officials of the municipal corporation, representatives of NGOs and research
+        institutions working at the ward level
+   2. School management committee – this community-based committee was introduced by
+        the Right to Education Act of 2009 and includes parents, a school principal, a teacher
+        and an elected representative of the ward
+   3. Mahila Arogya Samiti – this 10-member committee of women in the slum already
+        works in coordination with the municipal corporation and covers 50 to 100 households
+        in a slum. This group is facilitated by ASHA , holds monthly meetings and works to
+        achieve health-related goals.
+
+                                                                                            54
+These community groups can be empowered to take a leadership role in orchestrating what
+needs to be done in the ward during heat waves. With proper facilitation and coordination by
+each of the six key departments, these groups can prove to be an asset in the mitigation of heat
+stress at the ward level.
+
+5.10 Annual Heat Action Plan
+The annual heat action plan below suggests a roadmap of the steps to be taken, and who will
+carry them out. The action plan needs to divide steps to be taken into three phases – before the
+onset of summer which is the preparatory phase, during the hot season and post-summer.
+Phase 1: Before the onset of summer (January-February)
+This period is devoted to developing early warning systems, communication plans for heat
+alerts to the general public and training/orientation of health service providers, including PHC
+doctors, paramedics (ANMs) and frontline workers (ASHA, AWW). This is also the phase
+when the database of vulnerable households needs to be updated.
+Phase 2: During peak summer (March to June)
+This is a period of high alert, continuous monitoring of the situation, and coordination with all
+the departments concerned, the community and the media.
+Phase 3: Post-summer (July to October)
+During this phase, the main task is evaluating and improving the plan based on the lessons
+learned. It is important at the end of the summer to evaluate the heat-health action plan. Global
+climate change is projected to further increase the frequency, intensity, and duration of heat
+waves and attributable deaths. Continuous updating of the plan is therefore a necessity.
+
+5.10.1 Roles and responsibilities in Phase 1: Before the onset of summer
+        (January-February)
+
+
+SMC Nodal Officer
+   ➢ Collaborate with Surat educational institutes and civil society to create gender-sensitive
+       heat health guidelines on the recognition and treatment of heat stress, heat exhaustion,
+       and heat stroke to reduce and prevent mortality and morbidity. These guidelines need
+       to be distributed widely and in at least three languages – Gujarati, Hindi and English.
+   ➢ Set up a steering committee to supervise and monitor emergency preparedness, dealing
+       with the inflow of patients during a heat wave and post-heat wave evaluation. This
+
+                                                                                              55
+      steering committee will work in close coordination with the ward heat stress
+      management committees, and through them monitor the ward’s performance.
+   ➢ Collaborate with the medical service providers/research institutes to train emergency
+      service professionals on responding to extreme heat emergency cases.
+   ➢ Convene a meeting of key stakeholders, including representatives of Gujarat State
+      Disaster Management Authority, NGOs, community-based groups, media, health
+      departments, private hospitals, departments of labour, water and sanitation, transport,
+      power supply and distribution, private institutions, and religious groups. The purpose
+      of this meeting is to respond to extreme heat events (See the figure titled
+      Communication Plan When the SMC Nodal Officer Activates a Heat Alert).
+   ➢ Conduct workshops in schools and the wards. Engage with ASHAS and AWWs in
+      conducting these workshops.
+   ➢ Engage with civil society to launch awareness campaigns on health risks of heat stress
+      through multilingual pamphlets, and posters at vantage locations in hospitals, schools,
+      bare walls in the ward and public and private institutions. Use other media like roving
+      microphones, and interpersonal communication in the community to raise awareness.
+   ➢ Carry out a survey to identify and draw up a list of temporary settlements and
+      other high-risk areas in the city where people are more vulnerable to heat waves
+      for focused preventive measures.
+
+
+Media and SMC Press Officer
+   ➢ Execute campaign and awareness outreach on risks of exposure to high temperature,
+      heat stress prevention, and tips for health protection during extreme heat events with
+      a greater focus on high-risk areas.
+   ➢ Ensure wide visibility of information and heat communication materials to the public.
+   ➢ Increase the number of LED screens installed to display daily temperature
+      forecasts for public view.
+
+
+SMC Health Department
+   ➢ Coordinate with primary health centres of vulnerable wards to conduct outreach of
+      health services to vulnerable communities. This outreach activity needs to be dedicated
+      to coping with extreme heat and scheduled over and above the ANM’s routine outreach
+      efforts.
+   ➢ Organize training/orientation of frontline workers (ANM, ASHA, MAS, AWW) on
+                                                                                               56
+      early detection of heat stress and on raising awareness of preventive measures in the
+      community.
+   ➢ Conduct training workshops for capacity building of doctors, nurses, MAS and
+      ANMs to help manage the increased caseload in hospitals and health centres
+      following extreme heat events.
+   ➢ Conduct workshops for hospital administration personnel to orient them towards
+      updating their admissions and emergency case records to track heat-related morbidity;
+      train them in recording heat stroke/heat stress as the cause of death in certificates, if
+      death is triggered by an illness from exposure. This will create a reliable dataset to
+      analyse the epidemiology of illnesses associated with heat stress.
+   ➢ Orient doctors/nurses/ANMs working in city hospitals and government health centres
+      to adopt heat-focused examination procedures during summer.
+   ➢ Conduct workshops with primary health centres, community health centres, 108
+      emergency service personnel, private ambulance service providers and private
+      hospitals and nursing homes to prepare for the onrush of cases that will come with
+      the start of heat waves.
+
+
+SMC Labour and Employment Department
+   ➢ Develop a pre-recorded message on what to expect during heat waves, coping
+      mechanisms and preventive measures. Let a person move on a slow-moving vehicle
+      like a battery-operated rickshaw and move from place to place. This person can park at
+      construction sites and other places where employers, middle managers, workers and
+      owners of small businesses can listen to the pre-recorded message. Create a roster for
+      the places to cover on days of the week. The pre-recorded message needs to be both in
+      Gujarati and in Hindi as well for the benefit of migrant workers.
+   ➢ Identify high-risk outdoor workers and give them focused attention in outreach and
+      advocacy.
+108 Emergency Service
+   ➢ Create displays on ambulances to build public awareness.
+   ➢ Identify vulnerable populations in at-risk areas and be in a state of preparedness to
+       provide immediate relief.
+
+
+
+
+                                                                                              57
+5.10.2 Roles and responsibilities in Phase 2: During peak summer (March to
+      June)
+
+
+SMC Nodal Officer
+   ➢ Activate citywide heat alert and response mechanism based on the Department of
+      Meteorology’s weather forecast, by notifying key stakeholders, SMC Deputy
+      Municipal Commissioners and the Gujarat state agencies in accordance with the
+      Communication Plan (See figure titled Communication Plan: When the SMC Nodal
+      Officer Activates a Heat Alert).
+   ➢ Monitor the heat alert level based on the weather temperature severity forecast.
+      Increase in severity level necessitates the Municipal Commissioner to convene a
+      special meeting of key agency leaders.
+   ➢ Expand access to shaded areas for outdoor workers, slum communities, and other
+      vulnerable populations during a heat alert. This can be done by opening up ‘cooling
+      centres,’ which can be temples, public buildings, malls, and SMC-run temporary night
+      shelters.
+   ➢ Hold daily meetings to monitor progress during a heat alert.
+   ➢ Ensure continuous surveillance of temperature data and forecasts for appropriate
+      action.
+   ➢ In the event of water, shortage communicate the suspension of all non-essential use of
+      water.
+   ➢ Engage with religious groups and civil society to hand out water pouches at key public
+      places and bus stands.
+   ➢ Communicate local utility protocol to prioritize uninterrupted power to critical
+      facilities (such as hospitals and health centres).
+
+
+Media and SMC Press Officer
+   ➢ Issue heat alerts through WhatsApp and SMS platforms utilizing the centralized
+      mobile databases of private sector telecom companies.
+   ➢ Issue heat alerts to the public via centralized email databases.
+   ➢ Send direct heat alert messages to private medical practitioners, hospitals and
+      health centres.
+   ➢ Utilize local radio FM broadcasts to disseminate heat protection tips and high-
+
+
+                                                                                        58
+      temperature warnings to the city’s at-risk populations.
+
+
+SMC Health Department
+   ➢ Deploy vans carrying Mobile Medical Units in high-risk areas.
+   ➢ Ensure adequate medical supplies are available at all hospitals and health centres.
+   ➢ During a heat alert, generate weekly reports of the health impact of heat waves for the
+      SMC Nodal Officer.
+
+   ➢ If required, rope in interns from allopathic, ayurvedic and homoeopathic medical
+      colleges to assist health service providers in coping with the increased caseload during
+      a heat wave.
+   ➢ Monitor outreach work of primary health centres and ASHAs during a heat alert.
+   ➢ Checking and cross-checking emergency preparedness of primary health centres.
+
+
+SMC Labour Welfare Department/ Urban Community Department
+   ➢ Encourage employers to shift outdoor workers’ schedules away from the peak
+      afternoon hours (1 pm-5 pm) during a heat alert.
+   ➢ Arrange for emergency ice packs and protective gear like cooling vests to traffic
+      police, bus drivers-conductors and construction workers.
+
+
+108 Emergency Service
+   ➢ Ensure an adequate supply of ice packs and IV fluids.
+   ➢ During a heat alert, disseminate text messages to warn residents in high-risk areas.
+
+5.10.3 Roles and responsibilities in Phase 3: Post-summer (July to October)
+
+
+SMC Nodal Officer
+   ➢ Organize annual heat action plan evaluation meetings with representatives from key
+      government departments and other stakeholders.
+   ➢ Evaluate the plan based on performance and revise accordingly.
+   ➢ Upload the revised plan on the SMC website for stakeholders’ feedback.
+   ➢ Undertake tree plantation in heat hotspot areas. Incentivize builders to plant trees.
+   ➢ Establish cool resting centres in high-risk areas of the city.
+
+
+SMC Health Department
+
+                                                                                             59
+➢ Perform an epidemiological case review of heat-related mortalities during summer.
+➢ Based on average daily temperatures, gather epidemiological data on heat risk
+   factors, illness and death.
+➢ Incorporate data and findings into future versions of the Heat Action Plan.
+➢ Measure mortality and morbidity rates based on data before and after the plan’s
+   interventions.
+
+
+
+
+                                                                                      60
+Figure: Communication plan when SMC nodal officer releases a heat alert
+
+
+
+
+                                                                          61
+5.11 Brief description of what to do when for key service providers
+
+                     Public health managers
+                                                                       Primary health centres and community health workers
+     Pre-summer
+        ✓ Identify vulnerable areas
+        ✓ Ensure adequate inventories of medical supplies in          Pre-summer
+           health centres                                                ✓ Advise community on treatment and prevention of heat
+        ✓ Arrange for additional paramedics and                             related illness
+           clinicians                                                    ✓ Sensitize and train frontline workers
+        ✓ Identify cooling centres and barriers to                       ✓ Develop and execute school health programmes with
+           accessing cooling centres                                        support from Department of Education
+                                                                         ✓ Create awareness campaigns in slum communities
+     During heat event                                                   ✓ Coordinate with non-profits for community outreach
+        ✓ Prepare rapid response team
+        ✓ Distribute pamphlets with “Dos and Don’ts” among            During heat event
+           vulnerable communities                                        ✓ Re-check stocks
+        ✓ Effectively send a “Take Care but Don’t Panic!”                ✓ Ensure primary health centre’s preparedness to respond to
+           message to community                                             emergencies
+        ✓ Arrange for vans carrying Mobile Medical Units for             ✓ Visit at-risk populations for monitoring and prevention
+           deployment in the high-risk zone                              ✓ Communicate information on tertiary care and 108 service
+        ✓ Ensure additional medical vans are available during
+           red alerts                                                 Post-summer evaluation
+                                                                         ✓ Participate in annual evaluation of heat action plan
+     Post-summer evaluation                                              ✓ Review revised heat action plan and recommend needed
+        ✓ Participate in annual evaluation of heat action plan               amends
+            evaluation
+        ✓ Review revised heat action plan and suggest needed
+            amends
+
+                                                                                                                         62
+                        SMC Press Officer                                                Labour Department
+Pre-summer                                                           Pre-summer
+   ✓ Secure commercial airtime slots for health                         ✓ Organize orientation for factory medical officers
+       advisories and public service announcements                         and general practitioners on health effects of heat
+   ✓ Identify public areas to display health alerts during                 stress or exposure
+       summer                                                           ✓ Compile list of factory medical officers and
+   ✓ Organize training of community health workers                         contractors for heat action communications from
+       and medical professionals                                           Nodal Officer
+   ✓ Activate heat related telephone-hotlines                           ✓ Prepare outreach and advocacy strategy for
+   ✓ Place temperature forecasts in newspapers                             unorganized labour
+   ✓ Install LED screens with scrolling temperature data                ✓ Use maps of construction sites to identify high-risk
+                                                                           outdoor workers
+During heat event                                                       ✓ Conduct advocacy campaigns in high-risk areas
+   ✓ Issue heat-related health warnings in the media
+   ✓ Contact local FM radio and TV stations for health and weather   During summer
+       advisories
+                                                                        ✓ Ensure water supply at work sites
+   ✓ Release advisories through SMS and WhatsApp
+                                                                        ✓ Request use of air-conditioners at factory facilities
+       platforms using centralized mobile databases
+                                                                        ✓ Extend work hours of Occupational Health Centres
+   ✓ Contact transport department to place warnings on buses
+                                                                        ✓ Consider long afternoon break or modify working
+Post-summer evaluation                                                     hours to avoid heat exposure
+                                                                        ✓ Arrange for emergency ice-packs and preventive gear like
+   ✓ Evaluate efficacy of advocacy and campaign outreach
+       and other communications
+                                                                           cooling vests to traffic police, bus drivers-conductors and
+   ✓ Participate in annual evaluation of heat action plan                  construction workers
+   ✓ Review revised heat action plan and suggest amends
+                                                                     Post-summer evaluation
+                                                                        ✓ Participate in annual evaluation of heat action plan
+                                                                        ✓ Review heat action plan and suggest amends
+
+
+
+
+                                                                                                                                  63
+                     108 Emergency Service
+Pre-summer
+   ✓ Prepare handouts for paramedics on heat related illnesses
+   ✓ Uses informative visuals on ambulances to build public
+       awareness
+   ✓ Establish dynamic strategic deployment plan for
+       ambulances
+   ✓ Ensure adequate supply of IV fluids
+   ✓ Identify at-risk areas
+
+During summer
+   ✓ Ensure adequate staff and stock of required medicine and
+       equipment
+   ✓ Keep accurate record of pre-hospital care
+   ✓ Send messages to 108 Emergency Service employees on heat
+       action plan and heat alerts
+   ✓ Activate dynamic strategic deployment plan for the
+       ambulance service
+
+Post-summer evaluation
+   ✓ Provide data to SMC steering committee
+   ✓ Participate in annual evaluation of heat action plan
+   ✓ Review revised heat action plan and recommend amends
+
+
+
+
+                                                                 64
+6 Heat wave Morbidity mortality Surveillance:
+
+       Public health surveillance is the continuous, systematic collection, analysis and
+       interpretation of health-related data needed for the planning, implementation, and
+       evaluation of public health practice. Such surveillance can: serve as an early warning
+       system for impending public health emergencies. (WHO)
+
+   ✓ Heat and health Surveillance system is the strength of evidence based planning and also a
+       key to success of interventions.
+   ✓ Heat and health Surveillance system also contributes to a focussed action which is more
+       cost beneficial.
+   ✓ Preservation of Heat and health Surveillance history           is a great learning for future
+       generations
+   ✓ Heat and health Surveillance system data source can be at all levels i.e.
+       •   community, outreach workers
+       •   Urban primary health centres
+       •   Sentinel centres
+       •   SMIMER/ NCHS
+   ✓ The recipient of Heat and health Surveillance system data is the Nodal officer, who shall
+       prepare a format for data collection, compilation and submission for every level of source
+       as per guidelines of National Centre for Disease Control.
+
+                Outreach
+                 worker                   Urban primary                                Sentinel
+                   +                      Health center            UrSMS
+                                                                                       centres
+               Community
+
+
+
+
+                                      SMIMER
+                                                                Nodal officer
+                                       NCHS
+
+
+Data should be stored, analysed and used for mid course correction, identification of vulnerable
+geography of the city and vulnerable socio economic group of the society . It is also to be used for
+
+                                                                                                       65
+community education and interventions as well as preheat phase planning for subsequent years
+.Furthermore, this data shall also support to assess efficacy of intervention and the identification of
+gaps in specific interventions.
+
+
+In Year 2022, National Centre for Disease control (NCDC) has launched Heat and Health
+survelliance system under Integrated Disease Surveillance Programme.
+NCDC is doing an active surveillance on heat related illnesses under Integrated Disease
+Surveillance Programme (IDSP) across all states/UTs. The reporting formats for the heat
+survelliance should be submitted periodically. The reporting formats have been provided in the
+Annexure.
+
+
+
+
+                                                                                                          66
+                                            Annexure
+   Annexure 1
+Snapshot of Key Actions
+
+
+
+
+             Awareness Campaigns
+          1. Hoardings, posters, to be displayed by city LED TVs at various locations,
+             distribution of pamphlets.
+          2. Awareness workshops for those whose jobs require sun exposure – traffic
+             police, hawkers, street vendors, construction workers, outdoor and indoor
+             women workers.
+          3. Awareness campaigns need to focus on vulnerable groups – pregnant
+             women, infants, children, senior citizens and people with co-morbidities.
+          4. Information about medical facilities and nearest hospitals with cooling
+             wards should be provided to the citizens.
+          5. Schools should be provided with material on heat stress management and
+             also the remedial actions for managing heat stress should be communicated.
+          6. Storing cold water, ORS and cool packs in schools and school
+             buses/vans/rickshaws.
+
+
+        Mitigation Measures
+         1. Keeping open gardens, cooling shelters and other possible cooling centres
+            with ventilation, and ensuring availability of water.
+         2. Making water and sheds available at open construction sites.
+         3. Pilot project on roof painting with white colour for a cool roof or distribution
+            of gunny bags for placing on tin roofs/asbestos – keeping these drenched will
+            lower the room temperature.
+         4. Provision of water points and ORS at construction sites, bus stands and other
+            public places during political processions and rallies in summer.
+         5. Distribution of cooling vests to on-duty traffic police personnel
+         6. Water tanker to be made available on priority call in slums during orange/red
+            alert days.
+
+
+
+
+                                                                                               67
+Role of Departments
+
+
+            Early Warning Communication
+            1. SMS and WhatsApp messages for early warning to citizens, NGOs,
+               citizen welfare groups, construction contractors and school authorities
+            2. Public announcement through microphones across the city during
+               orange and red alert days, a day prior to the forecasted day.
+            3. Press releases and campaigns on radio, TV, newspapers and websites
+
+
+
+
+              Medical Preparedness
+            1. Primary health centres’ preparedness should include setting up of a
+               helpline.
+            2. House-to-house visits by ASHA /ANM to identify vulnerable groups viz.
+               pregnant women, infants, children, senior citizens and people with co-
+               morbidities. Routine visits to these groups should be carried out.
+            3. Stocking ORS and cool packs at the health centres and readiness with
+               re-hydration as well as shock management treatments.
+            4. Medical camps on day of red alerts at hotspots
+
+
+
+
+                Monitoring and Analysis
+
+            1. Ward-wise recording of heat stroke cases, cause of death and monitoring
+               daily mortality and daily hospital admission due to all causes and heat-
+               related causes
+            2. Monitoring and analysis of the morning temperatures recorded at
+               automatic weather stations and issue early warnings
+
+
+
+
+                                                                                          68
+Railways
+
+1. Provision of cool/ AC waiting rooms at railway stations
+2. Installation and proper maintenance of the fans and cold water points
+3. Stocking ORS and cool packs, and making available re-hydration as well as
+   shock management treatments
+4. Availability of medical staff at railway stations
+5. Frequent and updated announcement on temperature and mitigation
+   measures and availability of medical care at the station
+6. Posters and stickers on notice boards, along with display on LED TVs
+
+
+
+ Transport (bus service)
+1. ORS, first-aid kits and water points to be made available at bus terminals
+   and buses
+2. Awareness posters/stickers in buses and bus stops
+3. Announcement of temperature and mitigation measures on bus display
+   screen
+
+
+ Health Department
+
+1. Installation of ice-pack dispensers for easy access by vulnerable
+   communities
+2. Regular update of admissions and emergency case records to track heat-
+   related morbidity
+3. Adopt heat-focused examination procedures at hospitals and health centres
+4. Enhance targeted training programmes, capacity building efforts and
+   communication on heat-related illness for medical staff at city hospitals and
+   health centres, including nursing staff, paramedics, and frontline workers.
+5. Well-equipped primary health centres, 108 emergency centres, ambulances
+   and hospitals for the treatment of heat-related illnesses
+
+
+
+
+                                                                                   69
+Labour and Employment Department
+
+1. Identify high-risk outdoor workers and conduct outreach and advocacy.
+2. Conduct awareness campaigns in hotspot areas and among vulnerable
+   groups along with the distribution of pamphlets and posters
+3. Organize training for employers, outdoor labourers and workers on the
+   health impacts of extreme heat
+4. Provide information on mitigation and adaptive measures to prevent heat
+   exposure, heat stress and associated debility
+
+
+
+
+ 108 Emergency Service
+
+1. Put up displays on ambulances to build public awareness.
+2. Identify vulnerable populations in hotspot areas and be in a state of readiness to
+   reach immediate relief in response to calls reporting illnesses.
+
+
+
+ Schools
+
+1. Conduct child-friendly sessions on heat stress management focusing on
+   preventive measures, like avoiding exposure and staying hydrated.
+2. Stock ORS, first-aid kits and cool water for heat stress management.
+3. Equip with resources for heat protection.
+4. Arrange for a ‘Teach the Teachers’ workshop.
+
+
+
+
+                                                                                        70
+   Annexure 2
+Attendance list of stakeholder Consultation Participants in Surat- 10th October 2022
+
+
+
+
+                                                                                       71
+     Annexure 3
+Heat Related Illnesses Surveillance Formats (NCDC)
+
+
+                                                             FORMAT 1 (B): HEALTH FACILITY FORMAT
+                                           Daily line List of Suspected Heat Stroke DEATHS# and Confirmed CVD DEATHS*
+                                                                                                                                 (From Medicine, Paediatrics and Casualty/Emergency department)
+                                                                                                                                                              (To be kept at health facility for record)
+ Name of health facility:                                                                                                                   Date of reporting: _._/_._/_._
+ Block:                      city:
+ Type of health facility (Circle the applicable):1. PHC                2. CHC       3. Taluka/Rural Hospital/Block Hospital
+
+                                             4. Sub-district 5. District Hospital/Civil Hospital                 6. Medical College & Hospital 7. Private hospitals with emergency facility
+                                                8.Other……………
+
+ (A). Total no. of all cause deaths in health facility (Casualty/emergency of Medicine and Paediatrics):
+
+                                                        Daily line List of Suspected Heat Stroke DEATHS and Confirmed CVD DEATHS
+ S.No          Registration                              Name                     Age         Sex                                    Address                                           Deaths (tick the box)
+               number                                                                         (M/F)                       Block                        District            Suspected Heat            Confirmed CVD
+                                                                                                                                                                            stroke death##                death
+
+Total
+
+ Name of person filling the form:
+ Name of Facility In-Charge: Designation:
+ Signature of Facility In-Charge: Signature:
+
+ #
+  Suspected Heat stroke: Altered mental status (including disorientation, delirium, seizure, obtundation) with elevated core body temperature ≥ 40 oC/≥104 oF, without signs of stroke, history of infection, or signs of
+ medication overdose OR Altered mental status (including disorientation, delirium, seizure, obtundation) with hot and dry skin and deranged vitals i.e., tachycardia, tachypnoea and wide pulse pressure without signs of stroke,
+ history of infection, or signs of medication overdose. (definition is applicable during heat wave season i.e., March to July)
+ ##Suspected Heat Stroke Death: Is a death on account of suspected heat stroke patient.
+
+
+                                                                                                                                                                                                                              72
+*
+ Cardiovascular death includes death resulting from an acute myocardial infarction (MI) or sudden cardiac arrest or heart failure (HF) or cardiovascular (CV) procedures or CV hemorrhage or death due to other CV
+
+                                                                               Date:
+
+#
+  Suspected Heat stroke: Altered mental status (including disorientation, delirium, seizure, obtundation) with elevated core body temperature ≥ 40 oC/≥104 oF, without signs of stroke, history of infection, or signs of
+medication overdose OR Altered mental status (including disorientation, delirium, seizure, obtundation) with hot and dry skin and deranged vitals i.e., tachycardia, tachypnoea and wide pulse pressure without signs of stroke,
+history of infection, or signs of medication overdose. (definition is applicable during heat wave season i.e., March to July)
+##Suspected Heat Stroke Death: Is a death on account of suspected heat stroke patient.
+
+*
+  Cardiovascular death includes death resulting from an acute myocardial infarction (MI) or sudden cardiac arrest or heart failure (HF) or cardiovascular (CV) procedures or CV hemorrhage or death due to other CV
+
+
+
+
+                                                                                                                                                                                                                             73
+                                                           FORMAT 2: Health facility format for sending to CITIES
+                                                         Daily numbers of Suspected Heat Stroke CASES# and All cause DEATHS*
+                                                                                                                                                                            (Compilation of Format 1, A & B)
+                                                                                                                                                                         (To be sent to District Nodal Unit daily)
+
+Name of health facility:
+Block:                                         City:                                                                                              Date of reporting: _._/_._/_._
+
+
+Type of health facility (Circle the applicable): 1. PHC     2. CHC    3. Taluka/Rural Hospital/Block Hospital 4. Sub-district 5. District Hospital/Civil
+Hospital 6. Medical College & Hospital 7. Private hospitals with emergency facility 8. Other…………………………….
+Department (Circle the applicable):              1. Emergency Medicine 2. Emergency Paediatrics 3. Casualty
+         Date              Total patients in           New Suspected Heat               Total Suspected Heat Stroke                                                 All cause deaths**
+                           the department                 Stroke Cases                   cases since 1st March 2323
+
+                                                                  (A)                                    (B)                   Suspected Heat                Confirmed               Others including           Total deaths
+                                                                                                                               stroke deaths##               CVD deaths              unknown                    (a+b+c)
+                                                                                                                               (a)                           (b)                     (c)
+       01-03-23
+       02-03-23
+
+
+
+
+ Form filled by (Name):                                                                                  Name of Facility In-Charge:
+ Designation:                                                                                            Signature of Facility In-Charge:
+ Signature:                                                                                              Date:
+
+
+**
+     All cause death: All of the deaths that occur in casualty/emergency of medicine plus paediatrics, regardless of cause.
+#Suspected Heat stroke: Altered mental status (including disorientation, delirium, seizure, obtundation) with elevated core body temperature ≥ 40 oC/≥104 oF, without signs of stroke, history of infection, or signs of medication
+
+overdose OR Altered mental status (including disorientation, delirium, seizure, obtundation) with hot and dry skin and deranged vitals i.e., tachycardia, tachypnoea and wide pulse pressure without signs of stroke, history of
+infection, or signs of medication overdose. (definition is applicable during heat wave season i.e., March to July)
+##
+   Suspected Heat Stroke Death: Is a death on account of suspected heat stroke patient.
+*
+  Cardiovascular death includes death resulting from an acute myocardial infarction (MI) or sudden cardiac arrest or heart failure (HF) or cardiovascular (CV) procedures or CV hemorrhage or death due to other CV causes.
+
+
+                                                                                                                                                                                                                                74
+                                                             FORMAT 3 (A): FORMAT FOR DAILY COMPILATION
+                                                         Daily numbers of Suspected Heat stroke CASES# and All cause DEATHS*
+                                                                                                                                                                                             (Compiled from Format 2)
+                                                                                                                                                                                       (To be kept at City level for record)
+                  Cases and deaths due to heat related illness (HRI)- City Name…………………..Date of reporting: _._/_._/_._
+
+ S.No.     Name & type         Total patients of the day              New                Total Suspected                                          All cause deaths**                                        Remarks
+            of Health          (Emergency Medicine                  Suspected            Heat Stroke cases
+
+                Facility       + Emergency                         Heat Stroke                 since                   Suspected          Confirmed CVD                Others                 Total
+                               Paediatrics + Casualty)                cases               1st March, 2323              Heat stroke            deaths                  including              deaths
+                                                                       (A)                      (B)                     deaths##                (b)                  unknown (c)             (a+b+c)
+                                                                                                                           (a)
+          PHC1
+          PHC2
+          CHC
+          CH/DH
+          PVT1
+          PVT2
+ Total for city 1
+
+Total number of New Confirmed Heat Stroke Deaths*** in the City on _._/_._/_._: Total number of Confirmed Heat Stroke Deaths in the City since 1st March 23:
+[confirmed by committee (heat death committee/three person committee)]
+
+          Name of person filling the form:                                                                     Name of nodal officer:
+          Designation:                                                                                         Signature of nodal officer:
+          Signature:                                                                                           Date:
+
+            **All cause death: All of the deaths that occur in casualty/emergency of medicine plus paediatrics, regardless of cause.
+            #
+              Suspected Heat stroke: Altered mental status (including disorientation, delirium, seizure, obtundation) with elevated core body temperature ≥ 40 oC/≥104 oF, without signs of stroke, history of infection, or signs of
+            medication overdose OR Altered mental status (including disorientation, delirium, seizure, obtundation) with hot and dry skin and deranged vitals i.e., tachycardia, tachypnoea and wide pulse pressure without signs of stroke,
+            history of infection, or signs of medication overdose. (definition is applicable during heat wave season i.e., March to July)
+            ##
+               Suspected Heat Stroke Death: Is a death on account of suspected heat stroke patient.
+            *
+              Cardiovascular death includes death resulting from an acute myocardial infarction
+            (MI) or sudden cardiac arrest or heart failure (HF) or cardiovascular (CV) procedures or
+            CV hemorrhage or death due to other CV causes.
+            ***Confirmed Heat Stroke Death: A suspected heat stroke death that is confirmed by death committee (heat death committee/three man committee) at city level.
+
+
+                                                                                                                                                                                                                                         75
+                                                              FORMAT 3 (B): FORMAT FOR SENDING TO STATE
+                                                         Daily numbers of Suspected Heat Stroke CASES# and All cause DEATHS*
+                                                                                                                                                                                   (Compiled from Format 3 A)
+                                                                                                                                          (To be sent to State Nodal Unit daily while keeping a copy for record)
+                            Cases and deaths due to heat stroke- city name …._ _                                                      Date of reporting: _._/_._/_._
+    Date            Total patients of    New Suspected      Total Suspected Heat                                                        All cause deaths**                              New Confirmed     Total Confirmed
+                    the day               Heat Stroke         Stroke cases since                                                                                                                     Heat Stroke       Heat Deaths since
+                                                                                                                                                                                                                           st
+
+
+                                                                                                                                                                                                     Deaths***           1 March 23_ _
+                    (Emergency                        Cases                  1st March, 23_ _             Suspected Heat            Confirmed CVD           Others                  Total
+                    Medicine +                         (A)                           (B)                  stroke deaths##               deaths             including               deaths
+                    Emergency                                                                                   (a)                      (b)              unknown (c)              (a+b+c)
+                    Paediatrics +
+                    Casualty)
+01-05-
+23…
+02-05-
+23…
+
+
+
+
+             Name of person filling the form:                                                                   Name of nodal officer:
+             Designation:                                                                                       Signature of nodal officer:
+             Signature:                                                                                         Date:
+
+
+
+         **All cause death: All of the deaths that occur in casualty/emergency of medicine plus paediatrics, regardless of cause.
+         #
+           Suspected Heat stroke: Altered mental status (including disorientation, delirium, seizure, obtundation) with elevated core body temperature ≥ 40 oC/≥104 oF, without signs of stroke, history of infection, or signs of
+         medication overdose OR Altered mental status (including disorientation, delirium, seizure, obtundation) with hot and dry skin and deranged vitals i.e., tachycardia, tachypnoea and wide pulse pressure without signs of stroke,
+         history of infection, or signs of medication overdose. (definition is applicable during heat wave season i.e., March to July)
+         ##Suspected Heat Stroke Death: Is a death on account of suspected heat stroke patient.
+         *
+           Cardiovascular death includes death resulting from an acute myocardial infarction (MI) or sudden cardiac arrest or heart failure (HF) or cardiovascular (CV) procedures or CV hemorrhage or death due to other CV causes.
+         ***Confirmed Heat Stroke Death: A suspected heat stroke death that is confirmed by death committee (heat death committee/three man committee) at city level.
+
+
+
+
+                                                                                                                                                                                                                                         76
+About UHCRCE
+UHCRCE trust is a Public Private Partnership registered trust settled by Municipal Commissioner (2017). Trust
+activities include research, Training, Piloting, Networking, and Advocacy in any city in India. Trust is
+administered by the health department of SMC. UHCRCE is an institutionalisation outcome of project UHCRC
+under the Asian City Climate Change Resilience Network (ACCCRN) of the Rockefeller foundation. (2013-
+2016).
+For more details, visit www.uhcrce.com
+
+
+About IRADe
+Integrated Research and Action for Development (IRADe) is an autonomous advanced research institute. Its
+research covers many areas including energy and power systems, urban development,climate change and
+environment, poverty alleviation and gender, food security and agriculture, and the policies that affect these areas.
+Since its inception, IRADe has been working on addressing these with a focus on the components of socio-
+economic and health vulnerability of people, using a variety of data and methodologies which include
+vulnerability assessment by observing indicators, sustainable livelihood approaches as well as using state-of-the-
+art advanced technologies such as remote sensing and GIS for different projects.Since 2008, it is a Centre of
+Excellence (CoE), Urban Development and Climate Change of the Ministry of Housing and Urban Affairs. We
+have worked with 32 cities spread over 20 states in India.
+For more details visit www.irade.org
+
+
+About APN
+The Asia-Pacific Network for Global Change Research (APN) is an intergovernmental network of 22 countries
+working towards pursuing an Asia-Pacific region that is successfully addressing the challenges of global change
+and sustainability. For more details please check: www.apn-gcr.org
+
+
+
+
+                                                                                                                 77
+Integrated Research and Action for Development (IRADe)
+C-80 Shivalik, Malviya Nagar, New Delhi - 110017
+☎+91 (11) 2667 6180, 26676181, 26682226
+
+✉r.magotra@irade.org
+
+
+@IRADeNewDelhi         @lRADe_Delhi
+
+
+www.irade.org
+
+                                                         78
+

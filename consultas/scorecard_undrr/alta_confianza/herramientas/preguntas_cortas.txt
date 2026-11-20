@@ -1,0 +1,141 @@
+1.1.1 | 1.1.1 - Risk consideration in plan making | To what extent are risk factors considered within the City Vision / Strategic Plan?
+1.1.2 | 1.1.2 - Consultation in plan making | Is this strategy developed through inclusive, participatory multi-stakeholder consultation?
+1.1.3 | 1.1.3 - Review of strategic plans | Is the city strategic plan reviewed on a regular basis?
+1.2.1 | 1.2.1 - Pre-event planning and preparation | Co-ordination of all relevant pre-event planning and preparation activities exists for the city’s area, with clarity of roles and accountability acros
+1.2.2 | 1.2.2 - Co-ordination of event response | Coordination of all relevant event response activities in the city’s area, with clarity of roles and accountability across all relevant organizations.
+1.2.3 | 1.2.3 - City resources for managing organisation, co-ordinat | Ability of the City government to play the critical convening and plan-making role for DRR. Do the city and or other lead agencies have the authority 
+1.2.4 | 1.2.4 - Identification of physical contributions | Co-option of physical contributions by both public and private sectors. Identification of physical contributions for each major organization.
+1.3.1 | 1.3.1 - Integration of disaster resilience with other initia | Extent to which any proposal in government is also evaluated for disaster resilience benefits or impairments. Explicit stage in policy and budget appr
+1.4.1 | 1.4.1 - Extent to which data on the city’s resilience positi | Availability of a single “version of the truth” – a single integrated set of resilience data for practitioners.
+2.1.1 | 2.1.1 - Knowledge of hazards (also called perils, or shocks  | Existence of recent, expert-reviewed estimates of probability of known hazards or perils and their extents.
+2.2.1 | 2.2.1 - Knowledge of exposure and vulnerability | Existence of scenarios setting out city-wide exposure and vulnerability from each hazard level (see above).
+2.2.2 | 2.2.2 - Damage and loss estimation | Do risk assessments identify business output and employment at risk, populations at risk of displacement, housing at risk, agricultural land and ecosy
+2.3.1 | 2.3.1 - Understanding of critical assets and the linkages be | All critical assets are identified (see essential 8) and relationships between them are identified in the form of potential “failure chains”. This is 
+2.4.1 | 2.4.1 - Hazard maps | Presence of hazard maps (for example, flood or seismic risk maps).
+2.5.1 | 2.5.1 - Update process | Process ensuring frequent and complete updates of scenarios. Existence of a process agreed between all relevant agencies to: Update hazard estimates e
+3.1.1 | 3.1.1 - Awareness and knowledge of all possible methods of f | Where a city has outstanding resilience expenditure needs (revenue or capital) – the extent to which it has researched and understands all available r
+3.2.1 | 3.2.1 - Adequacy of financial planning for all actions neces | Presence of financial (capital and operating) plan(s) with a reasoned set of priorities, based on disaster resilience impact achieved, and linked to “
+3.2.2 | 3.2.2 - Capital funding for long run engineering and other w | % funding for capital elements of plan(s) relative to estimated cost. Degree of protection (“ring-fencing”) from cuts or from being taken away to be u
+3.2.3 | 3.2.3 - Operating funding to meet all operating costs of dis | Funding for operating expenses relative to estimated costs: presence of separately delineated budget line item(s). Degree of protection (“ring-fencing
+3.2.4 | 3.2.4 - Contingency fund(s) for post disaster recovery (may  | Existence of fund(s) capable of dealing with estimated impacts from “most severe” scenario (See Essential 2). Degree of protection (“ring-fencing”) of
+3.3.1 | 3.3.1 - Domestic insurance coverage | Extent of coverage of domestic housing. (Personal or life coverage is not assessed).
+3.3.2 | 3.3.2 - Non-domestic insurance coverage | Extent of insurance coverage of non-domestic property, infrastructure and assets.
+3.4.1 | 3.4.1 - Incentives to businesses organizations to improve di | Existence of incentives to help business owners take steps to improve disaster resilience to a standard to deal with the “most severe” scenario (Essen
+3.4.2 | 3.4.2 - Incentives to non-profit organizations to improve di | Existence of incentives to help non-profits take steps to improve disaster resilience to a standard to deal with the “most severe” scenario (Essential
+3.4.3 | 3.4.3 - Incentives to homeowners to improve disaster resilie | Existence of incentives to help homeowners take steps to improve disaster resilience to a standard to deal with the “most severe” scenario (Essential 
+4.1.1 | 4.1.1 - Potential population displacement | % of population at risk of displacement.
+4.1.2 | 4.1.2 - Economic activity at risk | % of employment at risk.
+4.1.2.1 | 4.1.2.1 - Economic activity at risk | % of business output at risk.
+4.1.3 | 4.1.3 - Agricultural land at risk | % of agricultural land at risk.
+4.2.1 | 4.2.1 - New urban development | Use of urban design solutions to improve resilience; often by maximizing the extent and benefit of ecosystem services within the city (see also Essent
+4.3.1 | 4.3.1 - Existence of building codes designed to address risk | Existence of applicable codes to all physical assets. Codes exist that will ensure:
+4.3.2 | 4.3.2 - Updates to building codes | Conformity of statutory codes with latest standards in building practice and with perils faced.
+4.3.3 | 4.3.3 - Sustainable building design standards | Use of sustainable building design standards such as REDi, LEED, GreenStar and BREEAM to improve resilience.
+4.4.1 | 4.4.1 - Application of land use zoning | Extent to which land use zoning is enforced.
+4.4.2 | 4.4.2 - Application of building codes | 
+5.1.1 | 5.1.1 - Awareness of the role that ecosystem services may pl | Ecosystem services are specifically identified, and managed as critical assets.
+5.1.2 | 5.1.2 - Ecosystem health | Change in health, extent or benefit of each ecosystem service in last 5 years.
+5.2.1 | 5.2.1 - Impact of land use and other policies on ecosystem s | Absence of policies or land uses liable to weaken ecosystem services.
+5.2.2 | 5.2.2 - Green and blue infrastructure is routinely embedded  | Green and blue infrastructure is routinely embedded into projects across the city – in new urban development, regeneration and infrastructure projects
+5.3.1 | 5.3.1 - Identification of critical environmental assets | How many critical ecosystem assets have been identified outside of the city boundaries that act towards enhancing city resilience?
+5.3.2 | 5.3.2 - Transboundary agreements | Are there trans-boundary agreements and collaborations in place to enable policy and planning for the implementation of ecosystem based approaches? Fo
+6.1.1 | 6.1.1 - Availability of skills and experience in disaster re | Known (i.e. inventoried in last 1 year) availability of key skills, experience and knowledge.
+6.1.2 | 6.1.2 - Private sector links | To what extent does the city utilise and engage the private sector?
+6.1.3 | 6.1.3 - Engagement of the insurance sector | Is the city engaging with the insurance sector to assess, mitigate and manage risk and stimulate a market for insurance products?
+6.1.4 | 6.1.4 - Civil society links | To what extent does the city utilise and engage civil society organisations?
+6.2.1 | 6.2.1 - Exposure of public to education and awareness materi | Coordinated public relations and education campaign exists, with structured messaging, channels, and delivery.
+6.2.1.1 | 6.2.1.1 - Exposure of public to education and awareness mate | Exposures per member of the public, per month to messaging
+6.3.1 | 6.3.1 - Extent to which data on the city’s resilience positi | Availability of a single “version of the truth” – a single integrated set of resilience data for practitioners.
+6.3.2 | 6.3.2 - Extent to which data on the city’s resilience positi | Availability of a single “version of the truth” – a single integrated set of resilience data for citizens and community organizations containing at le
+6.4.1 | 6.4.1 - Availability, take-up of training focussed on Risk a | Training offered and available to resilience professionals (from city government, voluntary or other sources).
+6.4.1.1 | 6.4.1.1 - Availability, take-up of training focussed on Risk | % of population trained in last year.
+6.4.2 | 6.4.2 - System / process for updating relevant training | Frequency of repeat training
+6.5.1 | 6.5.1 - Accessibility of education and training to all lingu | Availability of all education and training in all languages spoken in the city.
+6.6.1 | 6.6.1 - Effort taken to learn from what other cities, states | Learning activities executed with other cities and other practitioners.
+7.1.1 | 7.1.1 - Coverage of community or “grass roots” organization( | Presence of at least one non-government body for planning disaster risk reduction interventions and post event response for each neighbourhood in the 
+7.1.2 | 7.1.2 - Effectiveness of community network | Community organization meeting frequency and attendance.
+7.1.2.1 | 7.1.2.1 - Effectiveness of community network | Clear identification and coordination of disaster risk reduction actions and post-event roles for community bodies, supported by training. Roles agree
+7.2.1 | 7.2.1 - Social connectedness and neighbourhood cohesion | Likelihood that residents will be contacted immediately after an event, and regularly thereafter to confirm safety, issues, needs etc.
+7.2.2 | 7.2.2 - Engagement of vulnerable groups of the population | Evidence of disaster resilience planning with or for the relevant groups covering the span of the vulnerable population. Confirmation from those group
+7.3.1 | 7.3.1 - Extent to which employers act as a channel with empl | Proportion of employers that pass resilience communications to employers, and allow limited time off for resilience volunteer activities.
+7.3.2 | 7.3.2 - Business continuity planning | Proportion of business with a solid business continuity plan.
+7.4.1 | 7.4.1 - Frequency of engagement | Use of regular overlapping modes of engagement to create repeated and reinforcing message delivery.
+7.4.2 | 7.4.2 - Use of mobile and e-mail “systems of engagement” to  | Use of mobile and social computing-enabled systems of engagement (supported by e-mail).
+7.4.3 | 7.4.3 - Validation of effectiveness of education | Knowledge of “most probable” risk scenario and knowledge of key response and preparation steps is widespread throughout city. Tested by sample survey.
+8.1.1 | 8.1.1 - Adequacy of protective infrastructure (Ecosystems ca | Protective infrastructure exists or is in the process of construction – capabilities known to match hazards envisioned in “most probable” and “most se
+8.1.2 | 8.1.2 - Effectiveness of maintenance | Processes exist to maintain protective infrastructure and ensure integrity and operability of critical assets.
+8.2.1 | 8.2.1 - Customer service days at risk of loss | “Water/sanitation loss factor”. If: a = estimated # of days to restore regular service area-wide and b = % of user accounts affected… then water/sanit
+8.2.2 | 8.2.2 - Designated critical asset service days (for example, | “Water/sanitation critical asset (WCA) loss factor”. If: a = estimated # of days to restore regular service area-wide and b = % of critical assets aff
+8.2.3 | 8.2.3 - Cost of restoration of service | Likely cost of lost service and restoration as % of annual billed revenue.
+8.3.1 | 8.3.1 - Customer service days at risk of loss | “Electrical energy loss factor”. If: a = estimated # of days to restore regular service area-wide and b = % of user accounts affected…then electrical 
+8.3.2 | 8.3.2 - Designated critical asset service days at risk of lo | “Electricity critical asset (ECA) loss factor”. If: a = estimated # of days to restore regular service area-wide and b = % of critical assets affected
+8.3.3 | 8.3.3 - Cost of restoration | Likely cost of lost service and restoration as % of annual billed revenue.
+8.4.1 | 8.4.1 - Safety and integrity of gas system (if applicable) | Use of fracture resistant gas pipes in seismic or flood zones, and installation of automated shut-off capabilities.
+8.4.2 | 8.4.2 - Customer service days at risk of loss | “Gas loss factor”. If: a = estimated # of days to restore regular service area-wide and b = % of user accounts affected… then gas loss factor = a x b.
+8.4.3 | 8.4.3 - Designated critical asset service days at risk of lo | “Gas critical asset (GCA) loss factor”. If: a = estimated # of days to restore regular service area-wide and b = % of critical assets affected… then G
+8.4.4 | 8.4.4 - Cost of restoration of service | Likely cost of lost service and restoration as % of annual billed revenue.
+8.5.1 | 8.5.1 - Road – service from road system at risk of loss | Road loss factor – If: a = miles of major road network for city and surrounding area at risk of becoming impassable to any type of vehicle after event
+8.5.2 | 8.5.2 - Road – survival of critical access and evacuation ro | Road critical asset (RCA) loss factor. If: a = carrying capacity (vehicles per hour) of evacuation/emergency supply routes to and from the city at ris
+8.5.3 | 8.5.3 - Rail/metro (if applicable) – service from rail syste | Rail loss factor (for rail, use tons; for metro, use passengers). If: a = carrying capacity (tons or passengers per day) of affected rail lines to the
+8.5.4 | 8.5.4 - Air (if applicable) | Airport loss factor. If: a = estimated # of flights in and out per day possible after the disaster and b = max # of flights per day in normal operatio
+8.5.5 | 8.5.5 - River/Sea (if applicable) | River/seaport loss factor. If: a = estimated # of dockings per day possible after the disaster and b = max # of dockings per day in normal operations 
+8.5.6 | 8.5.6 - Other public transport (if applicable) | (Buses and taxis effectively captured in road measures above).
+8.5.7 | 8.5.7 - Cost of restoration of service (all transport routes | Likely cost of lost service and restoration.
+8.6.1 | 8.6.1 - Service days at risk of loss | “Communications loss factor”. If, a = estimated # of days to restore regular service area-wide and b = % of user accounts affected… then communication
+8.6.2 | 8.6.2 - Designated critical asset service days at risk of lo | “Communications critical asset (CCA) loss factor”. If a = estimated # of days to restore regular service area-wide and b = % of critical assets affect
+8.6.3 | 8.6.3 - Cost of restoration | Likely cost of loss of service and restoration of communications system(s) as % of annual billed revenue.
+8.7.1 | 8.7.1 - Structural safety and disaster resilience of health  | “Bed days lost” – estimated # of beds at risk x number of days’ loss under “most probable” and “most severe” scenarios.
+8.7.1.1 | 8.7.1.1 - Structural safety and disaster resilience of healt | “Critical bed days lost: estimated # of bed days for designated critical services (e.g. ER, dialysis, intensive care – TBD) at risk under “most probab
+8.7.2 | 8.7.2 - Health records and data | % of patient and health system data and associated apps stored and accessible at location unlikely to be affected by the event.
+8.7.3 | 8.7.3 - Availability of emergency healthcare including facil | Sufficient acute healthcare capabilities exist to deal with expected major injuries.
+8.8.1 | 8.8.1 - Structural safety of education facilities | % of education structures at risk of damage from “most probable” and “most severe” scenarios.
+8.8.2 | 8.8.2 - Loss of teaching time | Number of teaching days lost as % of total in academic year.
+8.8.3 | 8.8.3 - Education data | % of critical education data and associated applications imaged at remote site.
+8.9.1 | 8.9.1 - Disaster resilience of prison system | Ability of prison system to survive “most probable” and “most severe”, scenarios, without releasing or harming inmates. Under “most severe” scenario:
+8.10.1 | 8.10.1 - Assurance of continuity of all critical administrat | Estimated # of days’ disruption to critical administration services under “most probable” and “most severe” scenarios, given availability of redundant
+8.11.1 | 8.11.1 - Assurance of continuity of computer systems and dat | % of critical applications and associated data (to include social services and other personal records) imaged at, and accessible from, remote site.
+8.11.2 | 8.11.2 - Assurance of continuity of computer systems and dat | % of critical applications and associated imaged at, and accessible from, remote site.
+9.1.1 | 9.1.1 - Existence and effectiveness of early warning systems | Length and reliability of warning – enabling practical action to be taken.
+9.1.1.1 | 9.1.1.1 - Reach of warning | Will 100% of population receive it?
+9.3.1 | 9.3.1 - "Surge" capacity of police also to support first res | Sufficient back-up or para-professional capacity to maintain law and order in “most severe” and “most probable” scenarios, in addition to supporting b
+9.2.1 | 9.2.1 - Existence of emergency response plans that integrate | Existence of plans formulated to address “most likely” and “most severe” scenarios, shared and signed off by all relevant actors (including citizen or
+9.3.2 | 9.3.2 - Definition of other first responder and other staffi | Staffing needs are defined for “most probable” and “most severe” scenarios.
+9.4.1 | 9.4.1 - Definition of equipment and supply needs, and availa | Equipment and supply needs are defined for “most probable” and “most severe” scenarios in Essential 2.
+9.4.1.1 | 9.4.1.1 - Definition of equipment and supply needs, and avai | Estimated shortfall in available equipment per defined needs – potentially from multiple sources. MOUs exist for mutual aid agreements with other citi
+9.5.1 | 9.5.1 - Likely ability to continue to feed population | “Food gap” - # of days that city can feed all segments of its population likely to be affected minus # of days’ disruption estimated under those scena
+9.5.2 | 9.5.2 - Likely ability to meet needs for shelter/safe places | “Shelter gap” – numbers of displaced persons minus shelter places available within 24 hours. Under “most severe” scenario:
+9.5.2.1 | 9.5.2.1 - Likely ability to meet needs for shelter/safe plac | “Shelter gap” – ability of shelters to withstand disaster events and remain safe and usable. Under “most severe” scenario:
+9.5.3 | 9.5.3 - Ability to meet likely needs for staple goods | “Staples gap” - % shortfall in supply within 24 hours relative to demand. Under “most severe” scenario:
+9.5.4 | 9.5.4 - Likely availability of fuel | “Fuel gap” - # of days that city can meet fuel requirements, minus # of days’ disruption to regular supply. Under “most severe” scenario:
+9.6.1 | 9.6.1 - Interoperability with neighbouring cities/states and | Ability to cooperate at all levels with neighbouring cities and other levels of government.
+9.6.2 | 9.6.2 - Emergency operations centre | Existence of emergency operations centre with participation from all agencies, automating standard operating procedures specifically designed to deal 
+9.6.3 | 9.6.3 - Coordination of post event recovery | Coordination arrangements identified in advance for all post-event activities in the city’s area, with clarity of roles and accountability across all 
+9.7.1 | 9.7.1 - Practices and rehearsals – involving both the public | Testing of plans annually, by reference to simulated emergency and actual non-emergency events.
+9.7.2 | 9.7.2 - Effectiveness of drills and training | Level of effectiveness of drills.
+10.1.1 | 10.1.1 - Planning for post event recovery and economic reboo | Existence of comprehensive post event recovery and economic reboot plans.
+10.1.2 | 10.1.2 - Extent to which there has been stakeholder consulta | Stakeholder involved in build back better plan.
+10.1.3 | 10.1.3 - Shadow financial arrangements for processing incomi | Post event arrangements exist for dealing with incoming financial aid and disbursements.
+10.2.1 | 10.2.1 - Learning loops | Existence of a process and format for “post-mortems” on what went well and less well in the event response and post-event phases.
+A1.1 | A.1.1 El sector de la salud forma parte de la gobernabilidad | 
+A2.3 | A2.3 Inclusión de enfermedades crónicas preexistentes, inclu | ¿Hasta qué punto se incluyen los problemas crónicos preexistentes de salud en aquellos escenarios en los que es posible que los desastres los exacerba
+A2.1 | A2.1 Inclusión de un amplio abanico de emergencias y los des | ¿Hasta qué punto se incluyen las emergencias y los desastres, incluidos los brotes epidémicos, en la planificación del riesgo de desastres?
+A2.2 | A2.2 Inclusión de los efectos predecibles en la salud públic | ¿Hasta qué punto se incluyen los efectos en la salud pública dentro de la planificación de escenarios de la ciudad para otros riesgos de desastres?
+A3.1 | A3.1 Financiamiento para los aspectos de resiliencia de la s | ¿Hasta qué punto se identifica el financiamiento y este se encuentra disponible para abordar los riesgos e impactos de los desastres en la salud públi
+A4.1 | A4.1 Conformidad con los códigos de ordenamiento territorial | ¿Hasta qué punto están ubicados y construidos los principales centros de salud de forma tal que les permitiría continuar funcionando después de un des
+A5.1 | A5.1 Preservación y gestión de servicios de ecosistemas que  | ¿Hasta qué punto se identifican y se protegen los servicios de los ecosistemas que ofrecen beneficios a la salud pública?
+A6.1 | A6.1 Disponibilidad de personal de salud pública con compete | ¿Hasta qué punto se cuenta con personal con las competencias y destrezas necesarias para planificar y mantener los sistemas y servicios de salud públi
+A6.2 | A6.2 Socialización de datos sobre el sistema de salud públic | 
+A6.2.1 | A6.2.1 Socialización de otros datos con los grupos interesad | ¿Hasta qué punto se comparten los datos de otros sistemas críticos con los grupos interesados en el sistema de salud pública que los necesitan?
+A6.2.2 | A6.2.2 Protección y acceso a registros individuales de salud | ¿Hasta qué punto se protegen contra desastres los registros individuales de salud y de recetas médicas, y estos son accesibles después de un desastre?
+A7.1 | A7.1 Eficacia del sistema de salud pública para hacer partíc | ¿Hasta qué punto las comunidades comprenden y pueden cumplir sus funciones para mantener ciertos niveles de salud pública y bienestar antes, durante y
+A7.1.2 | A7.1.2 Acceso comunitario y confianza en la información sobr | ¿Hasta qué punto las comunidades reciben, respetan y están dispuestas a tomar acciones con base en la información sobre salud pública?
+A7.2 | A7.2 Habilidad de la comunidad para “regresar a la normalida | ¿Hasta qué punto se abordan las necesidades de salud mental de las comunidades?
+A8.2 | A8.2 Capacidad de reacción para la infraestructura de salud  | ¿Hasta qué punto pueden los hospitales y centros de atención de emergencia gestionar una afluencia repentina de pacientes?
+A8.3 | A8.3 Continuidad de la atención a aquellas personas que ya e | ¿Hasta qué punto se puede mantener la atención prestada a aquellas personas que ya están enfermas o que son dependientes?
+A8.1 | A8.1 Fortalecimiento de los elementos estructurales y no est | ¿En qué medida la infraestructura de salud pública (aparte de los hospitales) es resiliente?
+A9.3 | A9.3 Consideración de las poblaciones en mayor riesgo o de a | ¿Hasta qué punto se tienen en cuenta las necesidades de las poblaciones en mayor riesgo, como los ciudadanos con condiciones preexistentes de salud, p
+A9.1 | A9.1 Sistemas de alerta temprana para emergencias relacionad | ¿Hasta qué punto existen sistemas de alerta temprana para casos inminentes de emergencia con efectos potenciales para la salud?
+A9.2 | A9.2 Integración de la salud pública en la gestión de emerge | ¿Hasta qué punto están los profesionales y el sector de la salud pública integrados con equipo de gestión de emergencias?
+A9.4 | A9.4 Habilidad de entregar suministros de salud pública a pe | ¿Hasta qué punto tiene la ciudad los suministros y el equipo que se requieren para mantener la salud pública durante y después de un desastre?
+A10.2 | A10.2 Aprendizaje y mejoramiento. | ¿En qué medida se cuenta con un mecanismo formalizado para aprender a partir del desempeño del sistema de salud pública antes, durante y después de un
+A10.1 | A10.1 Mitigación de los impactos a largo plazo en el bienest | ¿En qué medida existen planes integrales de salud pública después de un evento?

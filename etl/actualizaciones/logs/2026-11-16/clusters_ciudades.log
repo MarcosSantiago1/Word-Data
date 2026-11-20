@@ -1,0 +1,11 @@
+
+$ python clusters_ciudades/kmeans_ciudades.py
+[completo] 375 ciudades, 31 indicadores (descartados: muertes_pm25, baja_costera_baja; 190 datos imputados); k=3, silueta 0.23, estabilidad 0.91; ARI con la tipología de enfoques 0.23
+  1. Baja criticidad: 26 ciudades; Asia oriental y el Pacífico 10; Europa y Asia central 6; América del Norte 5
+  2. Perfil intermedio: 245 ciudades; Asia oriental y el Pacífico 243; Europa y Asia central 2
+  3. Alta vulnerabilidad: 104 ciudades; África al sur del Sahara 25; Oriente Medio, Norte de África, Afganistán y Pakistán 19; Asia meridional 17
+[urbano] 375 ciudades, 17 indicadores (descartados: muertes_pm25, gini, idh_bajo, escolaridad, brecha_genero, tugurios, sin_saneamiento, baja_costera_baja, migrantes, efectividad_gob, calidad_regulatoria, estado_derecho, control_corrupcion, voz_rendicion, sociedad_civil, reporta_cdp; 99 datos imputados); k=4, silueta 0.19, estabilidad 0.77; ARI con la tipología de enfoques 0.17
+  1. Más ingreso y más acceso a hospitales: 136 ciudades; Asia oriental y el Pacífico 68; Europa y Asia central 21; América Latina y el Caribe 16
+  2. Poca infraestructura y dentro de los límites ambientales: 108 ciudades; Asia oriental y el Pacífico 86; África al sur del Sahara 11; Oriente Medio, Norte de África, Afganistán y Pakistán 6
+  3. Construcción hacia lo inundable y límites ambientales superados: 42 ciudades; Asia oriental y el Pacífico 34; Oriente Medio, Norte de África, Afganistán y Pakistán 5; Asia meridional 3
+  4. Ciudad extendida y mucho CO2 por habitante: 89 ciudades; Asia oriental y el Pacífico 77; África al sur del Sahara 6; América del Norte 4

@@ -1,0 +1,262 @@
+# CDP Cities 2023 - Dhaka North City (org 50782) https://www.cdp.net/en/responses/50782
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: City/Municipality
+  - Next highest level of government: National
+  - Next lowest level of government: No lower level of government
+  - Land area of the jurisdiction boundary (in square km)^: 196.22
+  - Percentage range of land area that is green space: 11-20%
+  - Current (or most recent) population size^: 5979537
+  - Population year^: 2022
+  - Projected population size: 9692506
+  - Projected population year: 2050
+  - Select the currency used for all financial information reported throug: BDT Bangladeshi Taka
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking budgeting and/or major capital expenditures
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related responsibilities are assigned to management-level positions in the government
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related responsibilities are assigned to a committee(s) or a subcommittee(s) in the government
+  - Provide further details on your jurisdiction's oversight of climate-re: The National government created the green climate fund in 2010, and has made a DELTA 2100 plan to tackle the climate issue. But there are other development projects going on simultaneously by different government entities where they sometimes ignore the climate issue, green space, Paris agreement etc.
+  - Describe how climate-related issues have impacted your jurisdiction's : Climate change is not actually directly impacted our city. Heavy rainfall, and heat,  actually affect the city for these reasons But there are a lot of negative impacts that affect our city. such as migration, pollution, and unplanned urbanization.
+  - Describe how climate-related issues have impacted your jurisdiction's : In our city every day 2000 people migrated it impacting our economy. That has created extra pressure on our limited resources. That also impacted on our carrying capacity of the road as well as financial planning.
+  - Describe the risks to your jurisdiction related to the transition to a: Lack of technical assistance, financial barriers, the limited area with a huge population to serve, lack of coordination etc.
+
+[0.4 fila 1] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate risk and vulnerability assessment
+  - Level of governments engaged in the development, implementation and/or: Other, please specify: To facilitate the integration of this component into the Nationally Determined Contribution (NDC)
+  - Level of governments engaged in the development, implementation and/or: National-level government
+  - Level of governments engaged in the development, implementation and/or: Higher level of government (not listed above)
+  - Outline the purpose of this engagement: To facilitate the integration of this component into assessments and policy developed across different levels of government
+  - Outline the purpose of this engagement: To collect data and/or feedback from other levels of government to inform its development
+  - Outline the purpose of this engagement: The development of this component is required by a higher-level of government that is not the national government (e.g., by law, regulation and/or agreement)
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the Nationally Determined Contribution (NDC)
+  - Comment: The National Government of Bangladesh is preparing a National adaptation Plan. The final Draft is almost ready.
+
+[0.4 fila 2] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Community-wide GHG emissions inventory
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the Nationally Determined Contribution (NDC)
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the National Adaptation Plan (NAP)
+  - Comment: Already Government of Bangladesh is preparing the Updated NDC. The city level will be integrated to it.
+
+[0.4 fila 3] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate action plan
+  - Outline the purpose of this engagement: To facilitate information sharing across different levels of government
+  - Outline the purpose of this engagement: To collect data and/or feedback from other levels of government to inform its development
+  - Comment: Data from different stakeholder has been collected. It will be through a a consultation.
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: No, but we are currently undertaking one and it will be complete in the next year
+
+[1.1a fila 0] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: Question not applicable
+  - Confirm attachment/link provided to assessment (selection mandatory): Question not applicable
+  - Boundary of assessment relative to jurisdiction boundary^: Question not applicable
+  - Year of publication or approval^: Question not applicable
+  - Factors considered in assessment: Question not applicable
+  - Primary author(s) of assessment^: Question not applicable
+  - Please explain: Question not applicable
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Heat stress
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Low-income households
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Forestry
+  - Describe the impacts on vulnerable populations and sectors^: Heat-related illnesses: Heat exhaustion and heatstroke can occur, especially in vulnerable populations, leading to dehydration, dizziness, and even fatalities.Aggravation of pre-existing conditions: Heat can worsen respiratory and cardiovascular conditions, like asthma and heart diseases, potentially leading to hospitalizations or fatalities.Heat-related mortality: Extreme heat events can cause an increase in deaths, particularly among vulnerable populations, due to heat-related illnesses and exacerbation of pre-existing conditions.Agriculture and food security:Reduced crop yields: Extreme heat can damage crops and reduce agricultural productivity, leading to food shortages and price increases, impacting food security.Water scarcity: Heat can exacerbate drought conditions, leading to reduced water availability for irrigation, livestock, and domestic use.Economy and labor productivity:Dec
+  - Proportion of the population exposed to the hazard: Data is not available
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: Medium High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Not known (not possible to define)
+
+[1.2 fila 2] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Extreme heat
+  - Vulnerable population groups most exposed: Marginalized/minority communities
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Low-income households
+  - Sectors most exposed^: Conservation
+  - Sectors most exposed^: Human health and social work activities
+  - Proportion of the population exposed to the hazard: Data is not available
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Timeframe of expected future changes^: Short-term (by 2025)
+
+[1.2 fila 3] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Urban flooding
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Children and youth
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Administrative and support service activities
+  - Sectors most exposed^: Conservation
+  - Sectors most exposed^: Arts, entertainment and recreation
+  - Sectors most exposed^: Waste management
+  - Describe the impacts on vulnerable populations and sectors^: Transportation: The road and public transport infrastructure are inadequate to accommodate the city's population, resulting in severe traffic congestion and parking problems.Power/Electricity: The increasing demand for electricity due to rapid urbanization and economic growth further exacerbates the situation.Health: The city's health infrastructure is inadequate, with a scarcity of healthcare professionals and limited medical facilities, leading to restricted healthcare access. Insufficient funding for public hospitals and the high cost of private healthcare makes it unaffordable for low-income groups, further limiting access to healthcare services.
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium
+  - Current magnitude of impact of hazard^: Medium
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 4] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Vulnerable population groups most exposed: Question not applicable
+  - Sectors most exposed^: Question not applicable
+  - Describe the impacts on vulnerable populations and sectors^: Question not applicable
+  - Proportion of the population exposed to the hazard: Question not applicable
+  - Did this hazard significantly impact your jurisdiction before this rep: Question not applicable
+  - Current probability of hazard^: Question not applicable
+  - Current magnitude of impact of hazard^: Question not applicable
+  - Expected future change in hazard intensity^: Question not applicable
+  - Expected future change in hazard frequency^: Question not applicable
+  - Timeframe of expected future changes^: Question not applicable
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Access to healthcare
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Lack of specified hospitals.
+
+[1.3 fila 2] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Cost of living
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+
+[1.3 fila 3] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Migration
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Every day almost 2000 people Comming Dhaka, That is actually a challenge to provide services to them.
+
+[1.3 fila 4] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Rapid urbanization
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: https://bea-bd.org/site/images/pdf/new17/4.pdf
+
+[1.3 fila 5] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Poverty
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: For climate change poverty is increasing.
+
+[1.3 fila 6] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Cost of living
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+
+[1.3 fila 7] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Inequality
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+
+[1.3 fila 8] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Access to basic services
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+
+[1.3 fila 9] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Community engagement
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly supports
+  - Degree to which this factor challenges/supports the adaptive capacity : Supports
+  - Describe how the factor supports or challenges the adaptive capacity o: Community can be engaged for tree plantation
+
+[3.8 fila 1] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: Health systems
+  - Identify the climate hazard(s) that most significantly impact the sele: Extreme heat
+  - Identify the health issues driven by the selected climate hazard(s): Vector-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Water-borne infections and illnesses
+  - Identify the health issues driven by the selected climate hazard(s): Heat-related illnesses
+  - Timeframe of impact: Short-term (by 2025)
+  - Identify which vulnerable populations are affected by the selected hea: Marginalized / minority communities
+  - Identify which vulnerable populations are affected by the selected hea: Elderly
+  - Identify which vulnerable populations are affected by the selected hea: Low-income households
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of financial capacity
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Data availability: None of the above data is available to report
+  - Percentage of households with access to safely managed drinking water : Question not applicable
+  - Percentage of households with access to safely managed sanitation serv: Question not applicable
+  - Household water consumption (litres/capita/day): Question not applicable
+  - Comment: Data can be available Department of Environment Bangladesh
+
+[3.13 fila 1] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Fresh surface water, including rainwater, water from wetlands, rivers and lakes
+  - Are you able to report volumetric data for this source?: No
+  - Annual volume of water withdrawn per source (in megalitres) : Question not applicable
+  - Projected level of change over next 5-10 years: Question not applicable
+  - Comment: Data not available. Data can be available the WASA Bangladesh.
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: Yes, our jurisdiction has an adaptation goal(s)
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: No, but we are currently undertaking one and it will be complete in the next year
+
+[7.1a fila 0] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Question not applicable
+  - Attachment/link and name of plan^: Question not applicable
+  - Confirm attachment/link provided to plan (selection mandatory): Question not applicable
+  - Boundary of plan relative to jurisdiction boundary^: Question not applicable
+  - Processes for monitoring evaluation and updates of plan^: Question not applicable
+  - Funding sources and financial instruments to finance plan: Question not applicable
+  - Communities and organizations engaged^: Question not applicable
+  - Describe if and how climate-related scenarios have informed the plan: Question not applicable
+  - Primary author(s) of plan^: Question not applicable
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Question not applicable
+  - Year of formal approval of plan^: Question not applicable
+  - End year of plan: Question not applicable
+  - Total cost of implementation of plan (in currency specified in 0.1): Question not applicable
+  - Sectors covered by action plan: Question not applicable
+  - Please explain: Question not applicable
+
+[7.2 fila 1] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Urban greening
+  - Current status of plan: Plan update in progress
+  - Comment: This the internal greening policy can be linked with climate action plan.
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Other, please specify
+  - Project title: Dhaka North Strategic Plan
+  - Stage of project development: Scoping
+  - Status of financing: Project partially funded and seeking additional funding
+  - Project description and attach project proposal: Urban Green and Public space of Dhaka city.
+
+[7.5 fila 2] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Other, please specify: GHG emission calculation
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Engineered and built environment actions
+  - Action (selections mandatory)^: Improved drainage
+  - Climate hazard(s) that action addresses^: Extreme heat
+  - Action description and web link to further information^: City greenery and plantation is on going process.
+  - Sectors adaptation action applies to^: Conservation
+  - Co-benefits realized^: Improved air quality
+  - Co-benefits realized^: Improved water/soil quality
+  - Co-benefits realized^: Reduced GHG emissions
+  - Co-benefits realized^: Improved mental wellbeing/quality of life
+  - Co-benefits realized^: Reduced health impacts from extreme heat or cold weather
+  - Timeframe for which increased resilience is expected to last: Short-term (by 2025)
+  - Proportion of the total jurisdiction population with increased resilie: 40-50%
+  - Funding source(s): National funds and programmes
+  - Inclusion in climate action plan and/or jurisdiction development/maste: No climate action plan and/or development/master plan has been developed
+  - Select the related energy access and/or poverty indicator(s) for this : Average yearly energy consumption per capita (increase)
+
+[8.1 fila 2] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^_G: Ecosystem-based actions
+  - Action (selections mandatory)^: Green infrastructure
+  - Climate hazard(s) that action addresses^: Extreme heat
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Climate hazard(s) that action addresses^: Heat stress
+
+[10.1 fila 0] Use this field to provide any additional information or context that you feel is relevant to your jurisdiction's respons
+  - nan: Dhaka is preparing a Climate Action Plan after preparing this related data will be available.

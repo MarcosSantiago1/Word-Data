@@ -1,0 +1,18 @@
+indicador,enfoque,peso,grupo_1,grupo_2,grupo_3,grupo_4
+sesgo_inundable_pob,Ecología política urbana,0.447,-0.338,-0.146,1.915,-0.211
+sesgo_inundable_constr,Ecología política urbana,0.447,-0.329,-0.048,1.951,-0.361
+pob_sin_verde,Ecología política urbana,0.447,0.105,-0.486,0.218,0.326
+perdida_verde,Ecología política urbana,0.447,0.292,-0.24,0.576,-0.427
+limites_superados,Ecología política urbana,0.447,0.187,-0.647,0.855,0.096
+pib_pc_log,Vulnerabilidad socio-espacial,0.5,-0.784,0.533,-0.005,0.553
+sin_hospital,Vulnerabilidad socio-espacial,0.5,-0.563,0.315,0.189,0.388
+hacinamiento,Vulnerabilidad socio-espacial,0.5,0.253,0.509,0.21,-1.104
+vivienda_baja,Vulnerabilidad socio-espacial,0.5,-0.389,0.503,0.136,-0.08
+co2_pc,Metabolismo urbano,0.378,-0.325,-0.397,-0.251,1.097
+pm25_pc,Metabolismo urbano,0.378,-0.321,-0.278,-0.151,0.899
+residuos_pc,Metabolismo urbano,0.378,0.243,-0.641,-0.147,0.476
+construido_pc,Metabolismo urbano,0.378,-0.305,-0.541,-0.117,1.178
+agua_subterranea,Metabolismo urbano,0.378,0.126,-0.473,0.151,0.311
+agua_superficial,Metabolismo urbano,0.378,0.25,-0.172,0.57,-0.442
+infra_flujos,Metabolismo urbano,0.378,-0.433,0.664,0.068,-0.176
+expansion_suelo,Planificación y gobernanza,1.0,-0.228,0.122,0.46,-0.017

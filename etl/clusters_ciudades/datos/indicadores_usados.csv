@@ -1,0 +1,34 @@
+indicador,enfoque,nombre,sentido,faltantes,varianza_dentro_pais,en_completo,en_urbano
+sesgo_inundable_pob,Ecología política urbana,Sesgo de la urbanización hacia zonas inundables (población),1,0.027,0.983,True,True
+sesgo_inundable_constr,Ecología política urbana,Sesgo de la urbanización hacia zonas inundables (superficie construida),1,0.0,0.73,True,True
+pob_sin_verde,Ecología política urbana,Población fuera de zonas de mucho verde,1,0.0,0.545,True,True
+perdida_verde,Ecología política urbana,Pérdida de verdor 2000-2025,1,0.0,0.488,True,True
+muertes_pm25,Ecología política urbana,"Muertes prematuras por PM2,5",1,0.467,0.305,False,False
+limites_superados,Ecología política urbana,Límites del sistema Tierra superados,1,0.0,0.63,True,True
+gini,Ecología política urbana,Desigualdad del ingreso (Gini del país),1,0.037,0.0,True,False
+idh_bajo,Vulnerabilidad socio-espacial,Déficit de desarrollo humano subnacional,1,0.019,0.14,True,False
+escolaridad,Vulnerabilidad socio-espacial,Años promedio de escolaridad,-1,0.019,0.081,True,False
+pib_pc_log,Vulnerabilidad socio-espacial,PIB por habitante del centro urbano (log),-1,0.0,0.474,True,True
+brecha_genero,Vulnerabilidad socio-espacial,Brecha de género en desarrollo humano,1,0.021,0.052,True,False
+sin_hospital,Vulnerabilidad socio-espacial,Población sin acceso a hospital,1,0.069,0.779,True,True
+tugurios,Vulnerabilidad socio-espacial,"Población en tugurios o asentamientos informales (municipio donde hay censo; si no, país)",1,0.016,0.024,True,False
+sin_saneamiento,Vulnerabilidad socio-espacial,Población urbana sin saneamiento básico (país),1,0.037,0.0,True,False
+hacinamiento,Vulnerabilidad socio-espacial,Volumen residencial construido por habitante,-1,0.0,0.57,True,True
+vivienda_baja,Vulnerabilidad socio-espacial,Población en vivienda residencial baja (1-2 pisos),1,0.0,0.505,True,True
+baja_costera_baja,Vulnerabilidad socio-espacial,Población en vivienda baja dentro de la zona costera baja,1,0.568,0.619,False,False
+migrantes,Vulnerabilidad socio-espacial,Población migrante (país),1,0.013,0.0,True,False
+co2_pc,Metabolismo urbano,Emisiones de CO2 por habitante,1,0.0,0.908,True,True
+pm25_pc,Metabolismo urbano,"Emisiones de PM2,5 por habitante",1,0.0,0.919,True,True
+residuos_pc,Metabolismo urbano,Emisiones de gases del sector residuos por habitante,1,0.0,0.658,True,True
+construido_pc,Metabolismo urbano,Superficie construida por habitante,1,0.0,0.679,True,True
+agua_subterranea,Metabolismo urbano,Límite de agua subterránea superado,1,0.0,0.706,True,True
+agua_superficial,Metabolismo urbano,Límite de agua superficial superado,1,0.0,0.794,True,True
+infra_flujos,Metabolismo urbano,"Infraestructura de agua, energía y residuos",-1,0.0,0.59,True,True
+efectividad_gob,Planificación y gobernanza,Efectividad del gobierno (país),-1,0.013,0.0,True,False
+calidad_regulatoria,Planificación y gobernanza,Calidad regulatoria (país),-1,0.013,0.0,True,False
+estado_derecho,Planificación y gobernanza,Estado de derecho (país),-1,0.013,0.0,True,False
+control_corrupcion,Planificación y gobernanza,Control de la corrupción (país),-1,0.013,0.0,True,False
+voz_rendicion,Planificación y gobernanza,Voz y rendición de cuentas (país),-1,0.013,0.0,True,False
+sociedad_civil,Planificación y gobernanza,Fortaleza de la sociedad civil (país),-1,0.013,0.0,True,False
+reporta_cdp,Planificación y gobernanza,La ciudad reporta su gestión climática (CDP-ICLEI 2023),-1,0.0,0.335,True,False
+expansion_suelo,Planificación y gobernanza,Consumo de suelo sobre crecimiento de población (ODS 11.3.1),1,0.168,0.924,True,True

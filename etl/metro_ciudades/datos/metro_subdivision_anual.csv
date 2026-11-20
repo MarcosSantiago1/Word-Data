@@ -1,0 +1,22 @@
+iso3,subdivision_iso,subdivision,anio,metro_km,metro_sistemas,metro_estaciones,metro_m
+ARG,AR-C,Buenos Aires,2026,56.7,1,78,56700
+BRA,BR-BA,Bahía,2026,38.0,1,22,38000
+BRA,BR-CE,Ceará,2026,24.1,1,20,24100
+BRA,BR-DF,Distrito Federal,2026,42.4,1,27,42400
+BRA,BR-MG,Minas Gerais,2026,29.8,1,20,29800
+BRA,BR-PE,Pernambuco,2026,39.5,1,28,39500
+BRA,BR-RJ,Río de Janeiro,2026,58.0,1,41,58000
+BRA,BR-RS,Río Grande del Sur,2026,43.8,1,22,43800
+BRA,BR-SP,São Paulo,2026,116.8,1,103,116800
+CHL,CL-RM,Región Metropolitana de Santiago,2026,149.0,1,126,149000
+COL,CO-ANT,Antioquia,2026,31.3,1,27,31300
+DOM,DO-40,Región Ozama,2026,38.6,1,38,38600
+ECU,EC-P,Pichincha,2026,22.6,1,15,22600
+MEX,MX-CMX,Ciudad de México,2026,200.9,1,163,200900
+MEX,MX-JAL,Jalisco,2026,46.5,1,28,46500
+MEX,MX-NLE,Nuevo León,2026,40.2,1,38,40200
+PAN,PA-8,Provincia de Panamá,2026,41.2,1,33,41200
+PER,PE-LMA,provincia de Lima,2026,39.4,1,31,39400
+VEN,VE-A,Distrito Capital,2026,67.2,1,49,67200
+VEN,VE-G,Carabobo,2026,6.2,1,9,6200
+VEN,VE-V,Zulia,2026,6.5,1,6,6500

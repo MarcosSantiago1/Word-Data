@@ -1,0 +1,178 @@
+# CDP Cities 2023 - Bekasi City Government (org 68337) https://www.cdp.net/en/responses/68337
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: City/Municipality
+  - Next highest level of government: County / Province
+  - Next lowest level of government: Sub-municipal district
+  - Land area of the jurisdiction boundary (in square km)^: 213.2
+  - Percentage range of land area that is green space: <5%
+  - Current (or most recent) population size^: 2590300
+  - Population year^: 2022
+  - Projected population size: 2973265
+  - Projected population year: 2030
+  - Select the currency used for all financial information reported throug: IDR Rupiah
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when setting performance objectives
+  - Select the processes that reflect your jurisdiction's oversight of cli: Currently no processes in place for the oversight of climate-related issues
+  - Provide further details on your jurisdiction's oversight of climate-re: Isu Perubahan Iklim saat ini termasuk dalam Indikator Kinerja Utama Dinas Lingkungan Hidup Kota Bekasi. Selain itu, termasuk dalam isu strategis yang termasuk dalam penyusunan Kajian Lingkungan Hidup Strategis (KLHS) Rencana Pembangunan Jangka Panjang Daerah (RPJPD) Kota Bekasi Tahun 2025-2045
+  - Describe how climate-related issues have impacted your jurisdiction's : Perubahan Iklim menjadi salah satu isu strategis yang termuat dalam rancangan dokumen KLHS RPJMD Kota Bekasi Tahun 2025-2045, yang telah disusun skenario dan alternatif rekomendasinya
+  - Describe how climate-related issues have impacted your jurisdiction's : Tidak mempengaruhi penganggaran daerah/APBD
+  - Describe the risks to your jurisdiction related to the transition to a: Belum ada risiko yang berkaitan dengan pembangunan rendah emisi akrbon
+
+[0.4 fila 0] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Question not applicable
+  - Level of governments engaged in the development, implementation and/or: Question not applicable
+  - Outline the purpose of this engagement: Question not applicable
+  - Comment: Question not applicable
+
+[0.5 fila 1] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory): Other, please specify: Multisektor
+  - Primary entity collaborated with (selection mandatory)_G: Business
+  - Mechanisms used to collaborate: Capacity development
+  - Mechanisms used to collaborate: Reporting of climate and/or environmental data
+  - Mechanisms used to collaborate: Other, please specify: Pemberian Bantuan Sarana Pendukung
+  - Mechanisms used to collaborate: Procurement
+  - Areas collaboration focused on: Inclusive climate action and/or equity
+  - Areas collaboration focused on: Resilience
+  - Areas collaboration focused on: Natural environment
+  - Description of collaboration: Bantuan untuk fasilitasi pendataan aksi mitigasi dan adaptasi perubahan iklim di lokasi terkait dan pemberian sarana prasarana pendukung
+  - Other entities collaborated with: Residents/community groups
+  - Other entities collaborated with: Vulnerable population groups
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: Yes, a climate risk and vulnerability assessment has been undertaken
+
+[1.1a fila 1] Provide details on your climate risk and vulnerability assessment.
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2018
+  - Factors considered in assessment: Assessment considers vulnerable populations
+  - Primary author(s) of assessment^: Question not applicable
+  - Please explain: Question not applicable
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Urban flooding
+  - Vulnerable population groups most exposed: Women and girls
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Elderly
+  - Sectors most exposed^: Water supply
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Education
+  - Sectors most exposed^: Human health and social work activities
+  - Describe the impacts on vulnerable populations and sectors^: Banyaknya penyakit, kondisi sosial ekonomi yang fluktuatif, hilangnya pekerjaan tradisional
+  - Proportion of the population exposed to the hazard: 60-70%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium
+  - Current magnitude of impact of hazard^: Medium
+  - Expected future change in hazard intensity^: Decreasing
+  - Expected future change in hazard frequency^: Decreasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Public health
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: need more capacities for public health
+
+[3.8 fila 1] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: The jurisdiction is not yet able to measure climate change related health impacts, please explain
+  - Timeframe of impact: Question not applicable
+  - Identify which vulnerable populations are affected by the selected hea: Question not applicable
+  - What factors affect your jurisdiction’s ability to address the selecte: Question not applicable
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Data availability: None of the above data is available to report
+  - Percentage of households with access to safely managed drinking water : Question not applicable
+  - Percentage of households with access to safely managed sanitation serv: Question not applicable
+  - Household water consumption (litres/capita/day): Question not applicable
+
+[3.13 fila 0] Report the sources of your jurisdiction’s water supply, volumes withdrawn per source, and the projected change.
+  - Source of jurisdiction’s water supply: Question not applicable
+  - Are you able to report volumetric data for this source?: Question not applicable
+  - Annual volume of water withdrawn per source (in megalitres) : Question not applicable
+  - Projected level of change over next 5-10 years: Question not applicable
+  - Comment: Question not applicable
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: No, but we are planning to introduce a goal in the next two years
+
+[4.1a fila 1] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Question not applicable
+  - Adaptation goal^: Question not applicable
+  - Climate hazards that goal addresses^: Question not applicable
+  - Base year of goal (or year goal was established if no base year)^: Question not applicable
+  - Target year of goal^: Question not applicable
+  - Description of metric / indicator used to track goal^: Question not applicable
+  - Comment: Question not applicable
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: No, but we are currently undertaking one and it will be complete in the next year
+
+[7.1a fila 1] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Question not applicable
+  - Attachment/link and name of plan^: Question not applicable
+  - Confirm attachment/link provided to plan (selection mandatory): Question not applicable
+  - Boundary of plan relative to jurisdiction boundary^: Question not applicable
+  - Processes for monitoring evaluation and updates of plan^: Question not applicable
+  - Funding sources and financial instruments to finance plan: Question not applicable
+  - Communities and organizations engaged^: Question not applicable
+  - Describe if and how climate-related scenarios have informed the plan: Question not applicable
+  - Primary author(s) of plan^: Question not applicable
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Question not applicable
+  - Year of formal approval of plan^: Question not applicable
+  - End year of plan: Question not applicable
+  - Total cost of implementation of plan (in currency specified in 0.1): Question not applicable
+  - Sectors covered by action plan: Question not applicable
+  - Please explain: Question not applicable
+
+[7.2 fila 0] Report details on the other climate-related plans, policies and/or strategies in your jurisdiction.
+  - Area of plan, policy and/or strategy: Question not applicable
+  - Attachment/ link and name of plan: Question not applicable
+  - Current status of plan: Question not applicable
+  - Boundary of plan relative to jurisdiction boundary: Question not applicable
+  - Year of formal approval of plan: Question not applicable
+  - End of year plan: Question not applicable
+  - Comment: Question not applicable
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: No relevant projects
+  - Project title: Question not applicable
+  - Stage of project development: Question not applicable
+  - Status of financing: Question not applicable
+  - Identified financing model: Question not applicable
+  - Project description and attach project proposal: Question not applicable
+  - Total cost of project (in currency specified in 0.1): Question not applicable
+  - Total investment cost needed if relevant (in currency specified in 0.1: Question not applicable
+
+[7.6 fila 1] Report the factors that support climate-related investment and financial planning in your jurisdiction.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction’s own funds and budgetary means
+  - Credit rating of jurisdiction: Do not know
+  - Decarbonising jurisdiction's investments: Do not know
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Community-based adaptation
+  - Action (selections mandatory)^_G: Government policies and programs actions
+  - Climate hazard(s) that action addresses^: Action does not address hazard
+  - Action description and web link to further information^: Berupa aksi dalam kegiatan Program Kampung Iklim di Kota Bekasi
+  - Sectors adaptation action applies to^: Conservation
+  - Sectors adaptation action applies to^: Waste management
+  - Sectors adaptation action applies to^: Water supply
+  - Co-benefits realized^: Improved waste management
+  - Co-benefits realized^: Improved water/soil quality
+  - Co-benefits realized^: Reduced GHG emissions
+  - Co-benefits realized^: Increased food security
+  - Co-benefits realized^: Increased/improved green space
+  - Co-benefits realized^: Improved air quality
+  - Co-benefits realized^: Protected/improved biodiversity and ecosystem services
+  - Co-benefits realized^: Increased water security
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: 50-60%
+  - Proportion of natural systems with increased resilience due to adaptat: 60-70%
+  - Funding source(s): Other, please specify source(s): Swadaya
+  - Funding source(s): Jurisdiction's own resources
+  - Status of action in the reporting year^: Action in operation (jurisdiction-wide)
+  - Inclusion in climate action plan and/or jurisdiction development/maste: No climate action plan and/or development/master plan has been developed
+  - Total cost of action (in currency specified in 0.1): 4400
+  - Does this action contribute to your jurisdiction’s energy access and/o: Question not applicable
+  - Select the related energy access and/or poverty indicator(s) for this : Question not applicable

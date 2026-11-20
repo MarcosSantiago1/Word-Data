@@ -1,0 +1,372 @@
+# CDP Cities 2023 - City of Lagos (org 31167) https://www.cdp.net/en/responses/31167
+
+[0.1 fila 1] Provide details of your jurisdiction in the table below.
+  - Administrative boundary of reporting government^: City/Municipality
+  - Next highest level of government: National
+  - Next lowest level of government: Local government area within a greater metropolitan area
+  - Land area of the jurisdiction boundary (in square km)^: 3577
+  - Percentage range of land area that is green space: 21-30%
+  - Current (or most recent) population size^: 24600000
+  - Population year^: 2015
+  - Projected population size: 35000000
+  - Projected population year: 2030
+  - Select the currency used for all financial information reported throug: NGN Naira
+
+[0.2 fila 1] Provide information on your jurisdiction’s oversight of climate-related risks and opportunities and how these issues hav
+  - Select the processes that reflect your jurisdiction's oversight of cli: Climate-related issues are considered by the government when undertaking plans and/or strategies
+  - Provide further details on your jurisdiction's oversight of climate-re: Under the leadership of the Governor, the Lagos State Government has formed a State Council on Climate Change. This council consists of Honourable Commissioners from relevant Government Ministries. Additionally, a Technical Committee has been established, which includes representatives from various Ministries, Departments, Government Agencies, State Supported Research Institutions, and reputable Non-Governmental Organizations. The Honourable Commissioner for Environment & Water Resources oversees this Technical Committee.To facilitate the operations of the State Council on Climate Change, the Climate Change and Environmental Planning Department serves as the Secretariat. The government is actively committed to collaborating with all relevant stakeholders to effectively tackle climate change challenges and build a resilient and strong system.
+  - Describe how climate-related issues have impacted your jurisdiction's : There has been a positive impact on development planning as a result of synergy and integration (horizontal and vertical) between relevant stakeholders. This culminated into the development of a Climate Action Plan which is currently in the implementation phase. Also, the Lagos State Development Plan has been updated, Lagos Development Initiative 2052 and it contains over two hundred (200) initiatives, is a unique framework with robust strategies through which all sectors of the economy can take ownership in contributing to the improvement of the quality of life of people in the State.  Also, Lagos being a delta city in which other rivers in neighbouring states empties into, this further exacerbates flooding during the rainy season, Lagos has now reached an understanding with these States through the Ogun -Oshun River Basin Development Authority to share information on when the dams will
+  - Describe how climate-related issues have impacted your jurisdiction's : The development of the Lagos Climate Action Plan has spurred the state to begin to explore numerous funding opportunities for implementation of the projects in the Climate Action Plan and has also led to Climate Smart budgeting and increase in budgetary provision for Climate Change activities in the State.
+  - Describe the risks to your jurisdiction related to the transition to a: The economy of the country is still largely dependent on fossil fuels being an oil-producing country however gradually we are witnessing the transition to renewable energy as there is increasing uptake of solar photovoltaics technology in homes and also in government institutions, particularly the Primary Health Care facilities are being considered for off-grid power supply due to the vaccines that are required to be at optimal temperatures. The increasing uptake of solar photovoltaic technology is leading to the creation of new jobs such as installers, technicians and maintenance persons whose skills will be required regularly. However, there is still a skills gap to meet the growing demand for PV technology.  Other risks include the financing risk of transitioning to a low-carbon economy and slow adoption of technology have also proven to be hindrances to the transition to a low-carbon
+
+[0.4 fila 1] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Climate action plan
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Level of governments engaged in the development, implementation and/or: Lower level of government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into assessments and policy developed across different levels of government
+  - Outline the purpose of this engagement: To facilitate the integration of this component into the Nationally Determined Contribution (NDC)
+  - Comment: For the purpose of maximizing engagements with stakeholders during the Climate Action Planning process, a Stakeholder's Engagement Plan was developed to identify different groups of stakeholders these are Government, Private sector, Civil society, Academia and International Development partners. For the government stakeholder, the three tiers of government, were identified and mapped which are Federal Government, State and Local Government. For the local Government authorities, a representative from each zone was selected.
+
+[0.4 fila 2] Report on your engagement with other levels of government regarding your jurisdiction's climate action.
+  - Climate component: Community-wide GHG emissions inventory
+  - Level of governments engaged in the development, implementation and/or: State/Regional-level government
+  - Outline the purpose of this engagement: To collect data and/or feedback from other levels of government to inform its development
+  - Outline the purpose of this engagement: To facilitate information sharing across different levels of government
+  - Outline the purpose of this engagement: To facilitate capacity building across different levels of government
+  - Comment: During the process of developing the greenhouse gas emissions inventory, a training session was executed for city staff (Thematic Network Officers) across various Ministries, Departments and Agencies to introduce the GHG emission and request for required data that would be needed to complete the inventory through a metadata sheet.  Engagements are continuous through the lifecycle of the inventory process to ensure that appropriate data is provided.
+
+[0.5 fila 1] Report your jurisdiction's most significant examples of collaboration with government, business, and/or civil society on
+  - Primary entity collaborated with (selection mandatory)_G: Business
+  - Primary entity collaborated with (selection mandatory): Financials
+  - Mechanisms used to collaborate: City business partnership platform
+  - Areas collaboration focused on: Emissions reduction
+  - Description of collaboration: The Lagos State Ministry of the Environment and Water Resources convened a meeting with the organized private sector in June 2022 tagged "First Lagos Climate Change Business Meeting" to co-opt the private sector into climate change development planning in the state and explore partnership opportunities for implementation of the Lagos Climate Action Plan. The partnership was also integral to the planning of the 9th International Climate Change summit in the State.
+  - Other entities collaborated with: Academia
+  - Other entities collaborated with: Climate initiatives/networks
+  - Other entities collaborated with: Industrials
+  - Other entities collaborated with: Information Technology
+  - Other entities collaborated with: National government
+  - Other entities collaborated with: Financials
+  - Other entities collaborated with: Energy
+  - Other entities collaborated with: NGO and associations
+
+[1.1 fila 0] Has a climate risk and vulnerability assessment been undertaken for your jurisdiction? If not, please indicate why.
+  - nan: Yes, a climate risk and vulnerability assessment has been undertaken
+
+[1.1a fila 1] Provide details on your climate risk and vulnerability assessment.
+  - Assessment attachment and/or direct link^: https://moelagos.gov.ng/wp-content/uploads/2021/09/Geo-Solutions-Lagos-CRA-Feb-Final-Report-V4-April-23-2021.pdf
+  - Confirm attachment/link provided to assessment (selection mandatory): The assessment has been attached and can be accessed (unrestricted) on the link provided
+  - Boundary of assessment relative to jurisdiction boundary^: Same - covers entire jurisdiction and nothing else
+  - Year of publication or approval^: 2021
+  - Factors considered in assessment: A process has been established for prioritizing identified hazards
+  - Primary author(s) of assessment^: Consultant
+  - Please explain: The vulnerability assessment of Lagos communities to climate change with particular reference to impacts such as floods and ocean surges, landslides and coastal subsidence, heat waves, storms and coastal erosion was assessed during this Climate Risk Assessment (CRA) project. However, based on the database of vulnerability assessment, a total of 6,983 features were found to be susceptible to climate risk in Lagos state.  It is therefore pertinent to mention that the affected features/buildings/infrastructures have varying degrees of exposure based on the proximity, severity and concurrency.The vulnerability assessment obtained in this study indicates that features located along flood plains, riverbanks and along the Atlantic Ocean, especially the Alfa Beach axis, have the highest degree of vulnerability to the threat of ocean surge.  Furthermore, the vulnerability was assessed with respec
+
+[1.2 fila 1] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Extreme heat
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Children and youth
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Real estate activities
+  - Sectors most exposed^: Accommodation and food service activities
+  - Sectors most exposed^: Agriculture
+  - Describe the impacts on vulnerable populations and sectors^: Health, outbreak of skin rashes, increased cases in the hospital due to prevalence of some diseases at this time.
+  - Proportion of the population exposed to the hazard: 90-100%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: High
+  - Current magnitude of impact of hazard^: High
+  - Expected future change in hazard intensity^: Increasing
+  - Expected future change in hazard frequency^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 2] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Coastal flooding (incl. sea level rise)
+  - Vulnerable population groups most exposed: Indigenous peoples
+  - Vulnerable population groups most exposed: Elderly
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Children and youth
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Agriculture
+  - Sectors most exposed^: Waste management
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Manufacturing
+  - Sectors most exposed^: Accommodation and food service activities
+  - Describe the impacts on vulnerable populations and sectors^: The impact of coastal flooding is serious among the unplanned urban settlement of the coastal part of the state, lack of accessibility to basic infrastructure makes them more vulnerable to climate change
+  - Proportion of the population exposed to the hazard: 60-70%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium High
+  - Current magnitude of impact of hazard^: Medium
+  - Expected future change in hazard intensity^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.2 fila 3] Provide details on the most significant climate hazards faced by your jurisdiction.
+  - Climate-related hazards^: Urban flooding
+  - Vulnerable population groups most exposed: Low-income households
+  - Vulnerable population groups most exposed: Children and youth
+  - Vulnerable population groups most exposed: Outdoor workers
+  - Vulnerable population groups most exposed: Elderly
+  - Sectors most exposed^: Sewerage, waste management and remediation activities
+  - Sectors most exposed^: Waste management
+  - Sectors most exposed^: Transportation and storage
+  - Sectors most exposed^: Real estate activities
+  - Sectors most exposed^: Human health and social work activities
+  - Sectors most exposed^: Accommodation and food service activities
+  - Describe the impacts on vulnerable populations and sectors^: Flooding and damages to infrastructure, impact on the commercial activities and free flow of human and vehicular  traffic on the roads.
+  - Proportion of the population exposed to the hazard: 60-70%
+  - Did this hazard significantly impact your jurisdiction before this rep: Yes
+  - Current probability of hazard^: Medium High
+  - Current magnitude of impact of hazard^: Medium High
+  - Expected future change in hazard intensity^: Increasing
+  - Timeframe of expected future changes^: Medium-term (2026-2050)
+
+[1.3 fila 1] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Rapid urbanization
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Lagos, a delta city and most populous in the country. There is a continuous dearth of infrastructure in the city with the constant migration of  people from the hinterland of the country (i.e Rural-Urban Migration), this significantly have an adverse effect on the infrastructure already provided.  The  city finds it extremely difficult to cope and meet with the growing population and thus makes planning and development cumbersome and grossly inadequate.
+
+[1.3 fila 2] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Poverty
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: Poverty is one of the major problems in Africa. Most of the time the earning power of individuals/ family are barely enough to meet the basic things in life. This action greatly impaired the ability(ies) of an average individual to consider whether his or her action is negatively affecting the environment or not i.e. no thought is given to Climate Change Adaptation or Mitigation Initiatives. The majority of the population is found in informal sector thus the effects of climate change are further exacerbated.
+
+[1.3 fila 3] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Unemployment
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: The rate of unemployment in the city is hindering the Government of the day from implementing programmes and build infrastructures that will help the city in adapting to climate change  thus using available  funds to  increase the workforce  of the economy. Small and medium scale businesses are struggling to thrive  due to different economic circumstances.
+
+[1.3 fila 4] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Economic diversity
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: The heavy reliance on an economic activity such as oil and gas industry is causing the release of climate change precursor related gases. Thus, it is imperative to diversify the economy . The economy is heavily dependent on manufacturing but the power to drive these industries are heavily reliant on fossil fuel, transport is most road transport, a shift is occurring to other modes such as water transport.
+
+[1.3 fila 5] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Budgetary capacity
+  - Degree to which this factor challenges/supports the adaptive capacity : Significantly challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: There is limited budgetary allocation for climate adaptation in the State during the budget planning process. The ratio of budget to various sectors such as waste management is low. Mitigation actions are carried out in the State but with little or no knowledge on the carbon removal potential of the project from inception
+
+[1.3 fila 6] Identify and describe the most significant factors impacting on your jurisdiction’s ability to adapt to climate change a
+  - Factors that affect ability to adapt^: Land use planning
+  - Degree to which this factor challenges/supports the adaptive capacity : Moderately challenges
+  - Degree to which this factor challenges/supports the adaptive capacity : Challenges
+  - Describe how the factor supports or challenges the adaptive capacity o: There is no strict adherence to the original land use plan of cities, thus there is change in land use and this leads to a higher proportion of emissions from land use. There is constant construction in the built environment  in the quest for more spaces to support residential and commercial activities. There is the need to clear more virgin land which invariably leads to release of emissions.
+
+[3.8 fila 1] Report on how climate change impacts health outcomes and health services in your jurisdiction.
+  - Health area affected by climate change: Health outcomes
+  - Identify the climate hazard(s) that most significantly impact the sele: Extreme heat
+  - Identify the climate hazard(s) that most significantly impact the sele: Infectious disease
+  - Identify the climate hazard(s) that most significantly impact the sele: Heavy precipitation
+  - Identify the health issues driven by the selected climate hazard(s): Food and nutrition security
+  - Identify the health issues driven by the selected climate hazard(s): Overwhelming of health service provision due to increased demand
+  - Identify the health issues driven by the selected climate hazard(s): Lack of climate-informed surveillance, preparedness, early warning and response
+  - Identify the health issues driven by the selected climate hazard(s): Disruption to health service provision
+  - Identify the health issues driven by the selected climate hazard(s): Disruption to water, sanitation and wastewater services
+  - Timeframe of impact: Medium-term (2026-2050)
+  - Identify which vulnerable populations are affected by the selected hea: Elderly
+  - Identify which vulnerable populations are affected by the selected hea: Women and girls
+  - Identify which vulnerable populations are affected by the selected hea: Indigenous peoples
+  - Identify which vulnerable populations are affected by the selected hea: Children and youth
+  - What factors affect your jurisdiction’s ability to address the selecte: Lack of financial capacity and expertise/technical capacity
+  - Comment: No concrete study has been done on this but the city is aware that there are possible connections of health related diseases due to climate change. Coupled with limited funding to cater to the increasing population in the state.
+
+[3.10 fila 1] Provide details of the household access to water, sanitation services and water consumption in your jurisdiction.
+  - Data availability: None of the above data is available to report
+  - Percentage of households with access to safely managed drinking water : Question not applicable
+  - Percentage of households with access to safely managed sanitation serv: Question not applicable
+  - Household water consumption (litres/capita/day): Question not applicable
+  - Comment: N/a
+
+[4.1 fila 0] Does your jurisdiction have an adaptation goal(s) in place? If no adaptation goal is in place, please indicate the prima
+  - nan: Yes, our jurisdiction has an adaptation goal(s)
+
+[4.1a fila 1] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 1
+  - Adaptation goal^: Resilient Ecosystem: Protect Lagos State’s natural resources from the impacts of climate change to safeguard agricultural production, food security and biodiversity.
+  - Climate hazards that goal addresses^: Soil degradation/erosion
+  - Climate hazards that goal addresses^: Loss of green space/green cover
+  - Base year of goal (or year goal was established if no base year)^: 2020
+  - Target year of goal^: 2024
+  - Description of metric / indicator used to track goal^: 1. Area of land used for the purpose of green and nature-based ecosystems; increase in species number and type; funding allocated to green and nature-based ecosystem services.2. Number of trees planted in public and private spaces; funding allocated to tree planting.3. Collaborations with farming centers; Establishment of urban agriculture opportunities; Food pricing; Average distance of ‘farm to fork’ food provision.
+  - Comment: nil
+
+[4.1a fila 2] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 2
+  - Adaptation goal^: Flood-proof Lagos: Assess and mitigate flood risk to Lagos’s population, economy and infrastructure, while protecting its water supply.
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: Coastal flooding (incl. sea level rise)
+  - Climate hazards that goal addresses^: Water stress
+  - Climate hazards that goal addresses^: Increased water demand
+  - Base year of goal (or year goal was established if no base year)^: 2020
+  - Target year of goal^: 2024
+  - Description of metric / indicator used to track goal^: 1. Identification of flood risk areas; Provision of public information on flood risk data and guidance.2.  Available of access to stakeholders and public; Establishment of data owners; Agreement on data owners and a system for collection and maintenance.3. Allocation of funding to support development; Development of Masterplan; Agreement on priority actions4.  Allocation of funding for draining improvements; Completion of impact assessments; Commissioning of private sector; Percentage of city with adequate drainage coverage
+  - Comment: nil
+
+[4.1a fila 3] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 3
+  - Adaptation goal^: Political flexibility and responsiveness: Build institutional capacity for evidence-based decision making in support of community-level adaptation.
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: Coastal flooding (incl. sea level rise)
+  - Base year of goal (or year goal was established if no base year)^: 2020
+  - Target year of goal^: 2024
+  - Description of metric / indicator used to track goal^: 1. Development of framework; Establishment of draft guidelines; Community engagement.2. Allocation of funding; Completion of assessment; Stakeholder engagement.3.  Identification of priority areas; Community engagement; Improvements in community protection from flooding.4.  Identification of priority areas; Community engagement; Improvements in community protection from flooding.
+  - Comment: NIL
+
+[4.1a fila 4] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 4
+  - Adaptation goal^: Social inclusion of vulnerable groups: Build the adaptive capacity of vulnerable groups in high-risk zones.
+  - Climate hazards that goal addresses^: Biodiversity loss
+  - Base year of goal (or year goal was established if no base year)^: 2020
+  - Target year of goal^: 2024
+  - Description of metric / indicator used to track goal^: 1. Development of engagement campaign; Identification of priority communities; Stakeholder engagement.2.  Review opportunities for improvement; Development of improvement plan; Engagement with emergency services; Implementation of recommendations.3. Establish implementation plan; Secure funding; Agree milestones; Engagement with stakeholders.4. Funding secured; Plan for improvements established; Number of healthcare facilities upgraded.5. Identification of priority housing areas; Allocation of funding; Percentage of affordable houses.6. Areas covered by law; Communities benefitting from law.
+  - Comment: NIL
+
+[4.1a fila 5] Report your jurisdiction’s main adaptation goals.
+  - Select a reference ID for the goal: Adaptation goal 5
+  - Adaptation goal^: Developing an adaptive and resilient transport network: Build the A summary of all actions, targets and implementation timeframes can be found in the diagram below. 0.9 Climate governance and financing The Lagos State Government, headed by the Governor, Mr. Babajide Sanwo-Olu, is the primary driver of developmental change in the State. Climate action in the State will be governed by the following three bodies: •State Climate Change Council: Chaired by His Excellency, the resilience of the transport network. to prevent service disruptions due to extreme weather events.
+  - Climate hazards that goal addresses^: Extreme heat
+  - Climate hazards that goal addresses^: Other coastal events
+  - Climate hazards that goal addresses^: Urban flooding
+  - Climate hazards that goal addresses^: Extreme wind
+  - Climate hazards that goal addresses^: Heavy precipitation
+  - Base year of goal (or year goal was established if no base year)^: 2020
+  - Target year of goal^: 2024
+  - Description of metric / indicator used to track goal^: 1. Identification of priority areas; Allocation of funding; Improvements in congestion; Reduced air pollutantconcentrations; Improved public health.2. Identification of priority routes; Identification of investors; Increased ferry fleet; Increased passenger numbers.
+  - Comment: NIL
+
+[7.1 fila 0] Does your jurisdiction have a climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or
+  - nan: Yes, our jurisdiction has a climate action plan or strategy
+
+[7.1a fila 1] Report details on the climate action plan or strategy that addresses mitigation, adaptation (resilience), and/or energy-
+  - Climate action plan type^: Integrated climate plan (addressing mitigation and adaptation)
+  - Attachment/link and name of plan^: https://cdn.locomotive.works/sites/5ab410c8a2f42204838f797e/content_entry5ab410faa2f42204838f7990/5ad0ab8e74c4837def5d27aa/files/C40_Lagos_Final_CAP.pdf?1626096978
+  - Confirm attachment/link provided to plan (selection mandatory): The plan has been attached and can be accessed (unrestricted) on the link provided
+  - Boundary of plan relative to jurisdiction boundary^: Same (jurisdiction-wide) covers entire jurisdiction and nothing else
+  - Processes for monitoring evaluation and updates of plan^: Monitoring:  Information on progress of plan is monitored and publicly reported at least every 5 years
+  - Funding sources and financial instruments to finance plan: Regional funds and programmes
+  - Funding sources and financial instruments to finance plan: Public-private partnerships
+  - Funding sources and financial instruments to finance plan: International (including ODA)
+  - Funding sources and financial instruments to finance plan: National funds and programmes
+  - Funding sources and financial instruments to finance plan: Private partnerships (e.g., a combination of private investments)
+  - Funding sources and financial instruments to finance plan: Private
+  - Funding sources and financial instruments to finance plan: Jurisdiction's own resources
+  - Communities and organizations engaged^: National government and/or agencies
+  - Communities and organizations engaged^: Local government (s) and/or agencies
+  - Communities and organizations engaged^: Non-governmental organisations
+  - Communities and organizations engaged^: State/regional government(s) and/or agencies
+  - Communities and organizations engaged^: Academia
+  - Communities and organizations engaged^: Vulnerable population groups
+  - Communities and organizations engaged^: Citizens
+  - Communities and organizations engaged^: Business and private sector
+  - Describe if and how climate-related scenarios have informed the plan: Yes , Based on the 2015 baseline inventory, in combination with population and economic growth forecasts, the inventory team developed an emissions growth projection up to 2050. This emissions pathway was termed the business-as-usual (BAU) scenario. and the modelling was undertaken using the Pathways Scenario Planning Tool.The BAU scenario indicates that if no climate actions are undertaken, Lagos’s emissions will triple by 2050. This scenario models activity and emissions growth without action or policy. Lagos' targets for emission reduction relative to the Business-as-Usual scenario were presented showing that in order to achieve the proposed emission reduction targets, this will require ambitious action in all sectors.
+  - Primary author(s) of plan^: International organization
+  - Primary author(s) of plan^: Dedicated team within jurisdiction
+  - Primary author(s) of plan^: Relevant department within jurisdiction
+  - Assessment of co-benefits, trade-offs, and synergies of actions includ: Plan assesses co-benefits of actions
+  - Year of formal approval of plan^: 2020
+  - End year of plan: 2025
+  - Sectors covered by action plan: Electricity, gas, steam and air conditioning supply
+  - Sectors covered by action plan: Sewerage, wastewater management and remediation activities
+  - Sectors covered by action plan: Waste management
+  - Sectors covered by action plan: Transportation and storage
+  - Please explain: The major focus areas of the Climate Action Plan is Energy, Transportation and Waste management.
+
+[7.5 fila 1] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Waste management (including waste recycling)
+  - Project title: Waste Infrastructure Development Strategy
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking partial funding
+  - Identified financing model: Public-private partnership
+  - Project description and attach project proposal: Under this action, Lagos State will undertake an evaluation of the cur- rent status of waste management and develop a Waste Infrastructure Development Strategy by 2022. The evaluation will be based on data on tons of waste collected, waste composition and volumes processed by MRF and composting facilities. The strategy will aim to increase the capacity of Lagos’s waste transfer, material recovery, bio- digester and composting facilities. It will mandate the construction of new waste infrastructure, including transfer loading stations, starting in Iberekodo, Agunlejika and Odogunyan. The strat- egy will build on the progress the State has made so far in establishing waste transfer stations and expanding the waste vehicle fleet. The new facilities will need to have the capacity to absorb the expected increase in the volume of recyclables diverted from landfill due to the launch of the Lago
+
+[7.5 fila 2] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Waste management (including waste recycling)
+  - Project title: Construct sanitary landfills with landfill gas capture at existing and new sites
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Public-private partnership
+  - Identified financing model: Private investment
+  - Identified financing model: Bonds
+  - Project description and attach project proposal: The aim of this action is to convert exist- ing open dumps in Lagos into sanitary landfills and to improve methane man- agement. Methane capture systems will also be constructed at all new disposal sites. The captured gas can be used to generate electricity for local use. LAWMA and MoE&WR will be respon- sible for the implementation of this scheme. However, collaboration will be required with various other stakehold- ers, including the Ministry of Energy and Mineral Resources (MEMR), the utility, technical institutions and pri- vate sector development partners. The key steps to implementing this action include the completion of a feasibility study, the development of a financ- ing package, updates to the regulatory framework to allow the sites to supply power to the local grid and construction. LAWMA will aim to employ a public/pri- vate investment model using a blend of government and d
+
+[7.5 fila 3] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Waste management (including waste recycling)
+  - Project title: Install industrial effluent treatment plants for 50% of businesses
+  - Stage of project development: Scoping
+  - Status of financing: Project not funded and seeking full funding
+  - Identified financing model: Private investment
+  - Identified financing model: Public-private partnership
+  - Project description and attach project proposal: This action reflects the objective set out in the Lagos State Development Plan 2012 – 2050 (p. 197) to ensure that 50% of industrial businesses install effective and efficient effluent treatment plants. The policy underpinning this action is already in place and significant stake- holder engagement has been undertaken. The State is considering instituting incentives, including tax incentives andawards for the best treatment plants. The action will also initiate monitoring of progress and the effectiveness of installations, and awareness and advo- cacy campaigns. The private sector will be expected to finance the installa- tion of the plants, but the Government will fund incentives and a ‘Green Bond’ schemecouldbeconsideredtogener- ate additional investment.
+
+[7.5 fila 4] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Transport
+  - Project title: Lagos State Water Transport Programme -  Waterways Investmemnt  and Development of the Environment Project in Lagos State
+  - Stage of project development: Implementation
+  - Status of financing: Project partially funded and seeking additional funding
+  - Identified financing model: Grants
+  - Project description and attach project proposal: The WIDE-LAG project implemented by LASWA, with the support of AFD and the EU, is an ambitious program that fits into the Lagos State Development Plan (LSDP) (2022-2052). The LSDP aims to create a flexible, sustainable, and efficient Mass Rapid Transit System (MRTS) by 2052, increasing the modal share of IWT from 1% to 10% in the total daily trips. The project is also in line with the Lagos State Climate Action Plan (2020-2025) approach, which aims to adapt the mobility patterns to the sea level rise and land subsidence phenomena by moving people and goods by water.
+  - Total cost of project (in currency specified in 0.1): 9600000000
+
+[7.5 fila 5] Describe any planned climate-related projects within your jurisdiction for which you hope to attract financing.
+  - Project area: Transport
+  - Project title: Non- Motorised Transport for Cycling Infrastructure
+  - Stage of project development: Project feasibility
+  - Project description and attach project proposal: The NMTP was developed by the LAMATA on behalf of the Lagos State Government. The policy aims to guide the development of transport systems that prioritise the needs of pedestrians and cyclists. The NMTP improves basic mobility, the affordability of transport, access to public transport and also pro- vides health and recreational benefits. Improving the convenience, comfort and safety of walking and cycling reduces the demand for personal motorised vehicle travel and can help to alleviate the critical traffic challenges the State faces. Increased investment in NMT will complement existing efforts by the Lagos State Government to expand public transport services through initia- tives such as the BRT system. This policy has been developed following extensive consultations, including stakeholder meetings and capacity building work- shops. Successful implementation of the policy will require
+
+[7.6 fila 1] Report the factors that support climate-related investment and financial planning in your jurisdiction.
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction uses carbon markets to help finance climate-related projects
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction issues green bonds and/or climate bonds
+  - Mechanisms used by jurisdiction to access finance for climate-related : Jurisdiction has received or secured funding for climate-related projects from an International Financial Institution (e.g. World Bank, Asian Development Bank, etc.)
+  - Comment: N/a
+  - Credit rating of jurisdiction: Jurisdiction has an international credit rating
+  - Comment: Lagos is rated AAA + according to Fitch
+  - Decarbonising jurisdiction's investments: Jurisdiction has taken steps to decarbonise the investments held by the jurisdiction retirement funds by divesting from fossil fuels
+  - Decarbonising jurisdiction's investments: Do not know
+
+[8.1 fila 1] Describe the outcomes of the most significant adaptation actions your jurisdiction is currently undertaking. Note that t
+  - Action (selections mandatory)^: Community engagement/education
+  - Action (selections mandatory)^_G: Educational/Informational actions
+  - Climate hazard(s) that action addresses^: Coastal flooding (incl. sea level rise)
+  - Climate hazard(s) that action addresses^: Urban flooding
+  - Action description and web link to further information^: This action will help streamline adaptation actions by enhancing public awareness and improving adaptive skills and knowledge of indigenous adaptation methods.
+  - Sectors adaptation action applies to^: Human health and social work activities
+  - Sectors adaptation action applies to^: Transportation and storage
+  - Sectors adaptation action applies to^: Agriculture
+  - Co-benefits realized^: Increased energy security
+  - Co-benefits realized^: Increased/improved green space
+  - Co-benefits realized^: Increased food security
+  - Co-benefits realized^: Improved air quality
+  - Co-benefits realized^: Improved mental wellbeing/quality of life
+  - Co-benefits realized^: Improved waste management
+  - Co-benefits realized^: Reduced disruption of energy, transport, water or communications networks
+  - Co-benefits realized^: Increased water security
+  - Co-benefits realized^: Reduced costs
+  - Co-benefits realized^: Improved mobility and access
+  - Co-benefits realized^: Increased social inclusion, equality and justice
+  - Co-benefits realized^: Reduced health costs
+  - Co-benefits realized^: Increased security/protection for poor/vulnerable populations
+  - Co-benefits realized^: Improved physical health
+  - Co-benefits realized^: Reduced disaster/disease/contamination-related health impacts
+  - Co-benefits realized^: Reduced natural resource depletion
+  - Co-benefits realized^: Business/technological innovation
+  - Co-benefits realized^: Job creation
+  - Co-benefits realized^: Improved preparedness for health service delivery
+  - Co-benefits realized^: Protected/improved biodiversity and ecosystem services
+  - Co-benefits realized^: Improved education and public awareness on climate issues
+  - Timeframe for which increased resilience is expected to last: Medium-term (2026-2050)
+  - Proportion of the total jurisdiction population with increased resilie: I do not have this data
+  - Proportion of natural systems with increased resilience due to adaptat: I do not have this data
+  - Funding source(s): Jurisdiction's own resources
+  - Funding source(s): National funds and programmes
+  - Funding source(s): International (including ODA)
+  - Funding source(s): Private partnerships (e.g., a combination of private investments)
+  - Funding source(s): Public-private partnerships
+  - Status of action in the reporting year^: Other, please specify: Action is happening however various Departments execute this with the vrious stakeholders they engage
+  - Inclusion in climate action plan and/or jurisdiction development/maste: Action is included in climate action plan and/or development/master plan
+  - Total cost of action (in currency specified in 0.1): 10000000
+  - Does this action contribute to your jurisdiction’s energy access and/o: No
+  - Select the related energy access and/or poverty indicator(s) for this : Action not related to energy access and/or poverty indicator(s)

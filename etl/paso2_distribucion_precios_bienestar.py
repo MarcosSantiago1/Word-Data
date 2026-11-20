@@ -19,7 +19,7 @@ Variables nuevas y de dónde salen:
   Salario promedio        ILOSTAT (OIT)        ingreso promedio mensual de
                                                los asalariados, en moneda
                                                local, US$ y US$ PPA
-  Felicidad               World Happiness Report 2025 (promedio de 3 años)
+  Felicidad               World Happiness Report 2026 (promedio de 3 años)
 
 Cómo ejecutarlo (desde la carpeta etl/, después del paso 1):
     python paso2_distribucion_precios_bienestar.py
@@ -156,7 +156,7 @@ URL_ILOSTAT = (
     "https://rplumber.ilo.org/data/indicator/?id=EAR_EMTA_SEX_CUR_NB_A"
     f"&timefrom={ANIO_INICIO}&timeto={ANIO_FIN}&type=code&format=.csv"
 )
-URL_FELICIDAD = "https://files.worldhappiness.report/WHR25_Data_Figure_2.1v3.xlsx"
+URL_FELICIDAD = "https://files.worldhappiness.report/WHR26_Data_Figure_2.1.xlsx"
 
 # El servidor de la OIT rechaza (403) las peticiones sin un User-Agent de navegador.
 CABECERAS = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
@@ -228,14 +228,14 @@ def descargar_salario_ilostat():
 
 
 def descargar_felicidad(paises):
-    """Puntaje de felicidad del World Happiness Report 2025 (0 a 10).
+    """Puntaje de felicidad del World Happiness Report 2026 (0 a 10).
 
     Es la "escalera de Cantril" de la encuesta Gallup: cada persona ubica su
     vida entre 0 (la peor posible) y 10 (la mejor posible). El informe publica
-    el promedio de 3 años: el valor de 2024 promedia 2022, 2023 y 2024.
+    el promedio de 3 años: el valor de 2025 promedia 2023, 2024 y 2025.
     """
     contenido = descargar(URL_FELICIDAD)
-    (CARPETA_CRUDOS / "whr2025_figura_2_1.xlsx").write_bytes(contenido)
+    (CARPETA_CRUDOS / "whr2026_figura_2_1.xlsx").write_bytes(contenido)
     whr = pd.read_excel(io.BytesIO(contenido))
     nombre_a_iso3 = dict(zip(paises["pais"], paises["iso3"])) | NOMBRES_WHR_A_ISO3
     whr["iso3"] = whr["Country name"].map(nombre_a_iso3)
@@ -248,7 +248,7 @@ def descargar_felicidad(paises):
         "Rank": "felicidad_ranking",
     })[["iso3", "anio", "felicidad", "felicidad_ranking"]]
     tabla["felicidad_ranking"] = tabla["felicidad_ranking"].astype("Int64")
-    print(f"    felicidad (WHR 2025)                   {len(tabla):>6} país-año, "
+    print(f"    felicidad (WHR 2026)                   {len(tabla):>6} país-año, "
           f"{tabla['iso3'].nunique()} países")
     return tabla
 

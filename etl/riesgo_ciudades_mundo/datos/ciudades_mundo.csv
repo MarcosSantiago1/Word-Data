@@ -1,0 +1,376 @@
+id,nombre,nombre_local,iso3,tipo,autoridad,pob,anio_pob,fuente_pob,lat,lon,provincia,wikidata,hecha_a_mano
+sao_paulo,São Paulo,São Paulo,BRA,Municipio,Prefeito/a,11451245,2022,"Censo 2022, IBGE",-23.55,-46.63,,,True
+cdmx,Ciudad de México,Ciudad de México,MEX,Entidad federativa,Jefa/e de Gobierno,9209944,2020,"Censo 2020, INEGI",19.43,-99.13,,,True
+lima,Lima Metropolitana,Lima,PER,Provincia con régimen metropolitano,Alcalde/sa Metropolitano/a,10292408,2022,INEI,-12.05,-77.04,,,True
+bogota,Bogotá D.C.,Bogotá,COL,Distrito Capital,Alcalde/sa Mayor,7918660,2024,DANE,4.65,-74.08,,,True
+rio,Rio de Janeiro,Rio de Janeiro,BRA,Municipio,Prefeito/a,6211423,2022,"Censo 2022, IBGE",-22.91,-43.2,,,True
+brasilia,Brasília (Distrito Federal),Brasília,BRA,Distrito Federal,Governador/a,2817068,2022,"Censo 2022, IBGE",-15.83,-48.05,,,True
+guayaquil,Guayaquil,Guayaquil,ECU,Cantón,Alcalde/sa,2746403,2022,"Censo 2022, INEC",-2.19,-79.89,,,True
+quito,Quito (Distrito Metropolitano),Quito,ECU,Distrito Metropolitano,Alcalde/sa,2679722,2022,"Censo 2022, INEC",-0.18,-78.47,,,True
+medellin,Medellín,Medellín,COL,Distrito Especial,Alcalde/sa,2524747,2024,DANE,6.25,-75.57,,,True
+fortaleza,Fortaleza,Fortaleza,BRA,Municipio,Prefeito/a,2428678,2022,"Censo 2022, IBGE",-3.73,-38.53,,,True
+salvador,Salvador,Salvador,BRA,Municipio,Prefeito/a,2418005,2022,"Censo 2022, IBGE",-12.97,-38.5,,,True
+belo_horizonte,Belo Horizonte,Belo Horizonte,BRA,Municipio,Prefeito/a,2315560,2022,"Censo 2022, IBGE",-19.92,-43.94,,,True
+cali,Cali (Santiago de Cali),Santiago de Cali,COL,Distrito Especial,Alcalde/sa,2283846,2024,DANE,3.45,-76.53,,,True
+caracas,Caracas (Municipio Libertador / Distrito Capital),Caracas,VEN,Distrito Capital,Jefe/a de Gobierno,2091452,2011,Censo 2011 y proyección INE,10.5,-66.92,,,True
+manaus,Manaus,Manaus,BRA,Municipio,Prefeito/a,2063547,2022,"Censo 2022, IBGE",-3.12,-60.02,,,True
+caba,Buenos Aires (CABA),Ciudad Autónoma de Buenos Aires,ARG,Ciudad autónoma,Jefe/a de Gobierno,3121707,2022,"Censo 2022, INDEC",-34.6,-58.38,,,True
+nueva_york,Nueva York,New York City,USA,Ciudad (5 condados),Alcalde/sa,8258035,2023,"Census Bureau, estimación 2023",40.71,-74.01,,,False
+los_angeles,Los Ángeles,Los Angeles,USA,Ciudad,Alcalde/sa,3820914,2023,"Census Bureau, estimación 2023",34.05,-118.24,,,False
+chicago,Chicago,Chicago,USA,Ciudad,Alcalde/sa,2664452,2023,"Census Bureau, estimación 2023",41.88,-87.63,,,False
+houston,Houston,Houston,USA,Ciudad,Alcalde/sa,2314157,2023,"Census Bureau, estimación 2023",29.76,-95.37,,,False
+toronto,Toronto,Toronto,CAN,Municipio de nivel único,Alcalde/sa,2794356,2021,"Censo 2021, Statistics Canada",43.65,-79.38,,,False
+londres,Londres (Gran Londres),Greater London,GBR,Autoridad del Gran Londres (33 distritos),Alcalde/sa de Londres,8866180,2022,"ONS, estimación 2022",51.51,-0.13,,,False
+berlin,Berlín,Berlin,DEU,Ciudad-estado,Alcalde/sa Gobernante,3850809,2023,Amt für Statistik Berlin-Brandenburg,52.52,13.4,,,False
+madrid,Madrid,Madrid,ESP,Municipio,Alcalde/sa,3332035,2024,"INE, padrón 2024",40.42,-3.7,,,False
+roma,Roma,Roma Capitale,ITA,Comune (Roma Capitale),Sindaco/a,2755309,2023,ISTAT,41.9,12.5,,,False
+paris,París,Paris,FRA,Commune-département,Maire,2102650,2023,INSEE,48.86,2.35,,,False
+viena,Viena,Wien,AUT,Ciudad-estado,Bürgermeister/in,2028399,2025,Statistik Austria,48.21,16.37,,,False
+moscu,Moscú,Москва,RUS,Ciudad federal,Alcalde/sa,13149803,2024,Rosstat,55.76,37.62,,,False
+san_petersburgo,San Petersburgo,Санкт-Петербург,RUS,Ciudad federal,Gobernador/a,5600044,2024,Rosstat,59.94,30.31,,,False
+kiev,Kiev,Київ,UKR,Ciudad con estatus especial,Alcalde/sa,2952301,2022,Servicio Estatal de Estadística (antes de la guerra),50.45,30.52,,,False
+minsk,Minsk,Мінск,BLR,Ciudad con estatus de región,Presidente/a del comité ejecutivo,2009786,2021,Belstat,53.9,27.56,,,False
+estambul,Estambul,İstanbul,TUR,Municipio metropolitano,Alcalde/sa metropolitano/a,15701602,2024,TÜİK 2024,41.01,28.98,,,False
+ankara,Ankara,Ankara,TUR,Municipio metropolitano,Alcalde/sa metropolitano/a,5864049,2024,TÜİK 2024,39.93,32.86,,,False
+esmirna,Esmirna,İzmir,TUR,Municipio metropolitano,Alcalde/sa metropolitano/a,4493242,2024,TÜİK 2024,38.42,27.14,,,False
+bursa,Bursa,Bursa,TUR,Municipio metropolitano,Alcalde/sa metropolitano/a,3238618,2024,TÜİK 2024,40.19,29.06,,,False
+antalya,Antalya,Antalya,TUR,Municipio metropolitano,Alcalde/sa metropolitano/a,2722103,2024,TÜİK 2024,36.9,30.7,,,False
+konya,Konya,Konya,TUR,Municipio metropolitano,Alcalde/sa metropolitano/a,2330024,2024,TÜİK 2024,37.87,32.48,,,False
+adana,Adana,Adana,TUR,Municipio metropolitano,Alcalde/sa metropolitano/a,2280484,2024,TÜİK 2024,37.0,35.32,,,False
+sanliurfa,Şanlıurfa,Şanlıurfa,TUR,Municipio metropolitano,Alcalde/sa metropolitano/a,2237745,2024,TÜİK 2024,37.16,38.79,,,False
+gaziantep,Gaziantep,Gaziantep,TUR,Municipio metropolitano,Alcalde/sa metropolitano/a,2164134,2024,TÜİK 2024,37.07,37.38,,,False
+kocaeli,Kocaeli,Kocaeli,TUR,Municipio metropolitano,Alcalde/sa metropolitano/a,2102907,2024,TÜİK 2024,40.77,29.92,,,False
+teheran,Teherán,تهران,IRN,Municipio,Alcalde/sa,8693706,2016,"Censo 2016, SCI",35.69,51.39,,,False
+mashhad,Mashhad,مشهد,IRN,Municipio,Alcalde/sa,3001184,2016,"Censo 2016, SCI",36.3,59.6,,,False
+bagdad,Bagdad,بغداد,IRQ,Amanat (municipio capital),Alcalde/sa (Amin),8126755,2018,Wikidata (estimación oficial 2018),33.31,44.37,,,False
+mosul,Mosul,الموصل,IRQ,Municipio,Alcalde/sa,2881000,2010,Wikidata (estimación 2010); verificar tras la guerra,36.34,43.13,,,False
+riad,Riad,الرياض,SAU,Municipio (Amanah),Alcalde/sa (Amin),6924566,2022,"Censo 2022, GASTAT",24.71,46.68,,,False
+yeda,Yeda,جدة,SAU,Municipio (Amanah),Alcalde/sa (Amin),3751722,2022,"Censo 2022, GASTAT",21.49,39.19,,,False
+la_meca,La Meca,مكة,SAU,Municipio (Amanah),Alcalde/sa (Amin),2385509,2022,"Censo 2022, GASTAT",21.42,39.83,,,False
+dubai,Dubái,دبي,ARE,Emirato (Municipalidad de Dubái),Gobierno del emirato,3655000,2023,Dubai Statistics Center,25.2,55.27,,,False
+aman,Amán,عمان,JOR,Gran Municipalidad de Amán,Alcalde/sa,4007526,2015,"Censo 2015, DoS",31.95,35.93,,,False
+damasco,Damasco,دمشق,SYR,Gobernación-ciudad,Gobernador/a,2685000,2024,Wikidata (estimación),33.51,36.29,,,False
+sana,Saná,صنعاء,YEM,Secretaría de la Capital (Amanat al-Asimah),Alcalde/sa,2957000,2015,Wikidata (estimación 2015),15.37,44.19,,,False
+kabul,Kabul,کابل,AFG,Municipio,Alcalde/sa,5330000,2025,Wikidata (estimación NSIA),34.53,69.17,,,False
+taskent,Taskent,Toshkent,UZB,Ciudad con estatus de región,Hokim,2956000,2023,Agencia de Estadística de Uzbekistán,41.3,69.24,,,False
+almaty,Almaty,Алматы,KAZ,Ciudad de importancia republicana,Akim,2228000,2024,Buró Nacional de Estadística,43.24,76.89,,,False
+baku,Bakú,Bakı,AZE,Ciudad con estatus especial,Jefe/a del poder ejecutivo,2300500,2021,Comité Estatal de Estadística,40.41,49.87,,,False
+bombay,Bombay (Gran Mumbai),Brihanmumbai,IND,Corporación municipal (BMC),Comisionado/a municipal y alcalde/sa,12442373,2011,Censo 2011,19.08,72.88,,,False
+delhi,Delhi (Corporación Municipal),Municipal Corporation of Delhi,IND,"Corporación municipal (MCD, unificada en 2022)",Alcalde/sa y comisionado/a,11034555,2011,Censo 2011,28.61,77.21,,,False
+bangalore,Bangalore,Bruhat Bengaluru Mahanagara Palike,IND,Corporación municipal (BBMP / Greater Bengaluru),Comisionado/a,8443675,2011,Censo 2011,12.97,77.59,,,False
+hyderabad_ind,Hyderabad (India),Greater Hyderabad Municipal Corporation,IND,Corporación municipal (GHMC),Alcalde/sa y comisionado/a,6809970,2011,Censo 2011,17.39,78.49,,,False
+chennai,Chennai,Greater Chennai Corporation,IND,Corporación municipal,Alcalde/sa y comisionado/a,6748026,2011,Censo 2011 (límites ampliados de 2011),13.08,80.27,,,False
+ahmedabad,Ahmedabad,Amdavad Municipal Corporation,IND,Corporación municipal,Alcalde/sa y comisionado/a,5570585,2011,Censo 2011,23.02,72.57,,,False
+calcuta,Calcuta,Kolkata Municipal Corporation,IND,Corporación municipal,Alcalde/sa,4496694,2011,Censo 2011,22.57,88.36,,,False
+surat,Surat,Surat Municipal Corporation,IND,Corporación municipal,Alcalde/sa y comisionado/a,4467797,2011,Censo 2011,21.17,72.83,,,False
+pune,Pune,Pune Municipal Corporation,IND,Corporación municipal,Comisionado/a,3124458,2011,Censo 2011,18.52,73.86,,,False
+jaipur,Jaipur,Jaipur Municipal Corporation,IND,Corporación municipal,Alcalde/sa,3046163,2011,Censo 2011,26.91,75.79,,,False
+lucknow,Lucknow,Lucknow Municipal Corporation,IND,Corporación municipal,Alcalde/sa,2817105,2011,Censo 2011,26.85,80.95,,,False
+kanpur,Kanpur,Kanpur Municipal Corporation,IND,Corporación municipal,Alcalde/sa,2765348,2011,Censo 2011,26.45,80.33,,,False
+nagpur,Nagpur,Nagpur Municipal Corporation,IND,Corporación municipal,Comisionado/a,2405665,2011,Censo 2011,21.15,79.09,,,False
+karachi,Karachi,کراچی,PAK,Corporación metropolitana (KMC),Alcalde/sa,18868021,2023,"Censo 2023, PBS (división de Karachi)",24.86,67.01,,,False
+lahore,Lahore,لاہور,PAK,Corporación metropolitana,Administrador/a,13004135,2023,"Censo 2023, PBS (distrito)",31.55,74.34,,,False
+faisalabad,Faisalabad,فیصل آباد,PAK,Corporación municipal,Administrador/a,3691999,2023,"Censo 2023, PBS (ciudad)",31.42,73.08,,,False
+rawalpindi,Rawalpindi,راولپنڈی,PAK,Corporación municipal,Administrador/a,3357612,2023,"Censo 2023, PBS (ciudad)",33.6,73.04,,,False
+gujranwala,Gujranwala,گوجرانوالہ,PAK,Corporación municipal,Administrador/a,2511118,2023,"Censo 2023, PBS (ciudad)",32.16,74.19,,,False
+multan,Multán,ملتان,PAK,Corporación municipal,Administrador/a,2215381,2023,"Censo 2023, PBS (ciudad)",30.2,71.47,,,False
+islamabad,Islamabad (Territorio Capital),اسلام آباد,PAK,Corporación metropolitana / CDA,Alcalde/sa y CDA,2363863,2023,"Censo 2023, PBS (territorio)",33.69,73.05,,,False
+dhaka_norte,Daca Norte,Dhaka North City Corporation,BGD,City Corporation,Alcalde/sa,5979537,2022,"Censo 2022, BBS",23.8,90.41,,,False
+dhaka_sur,Daca Sur,Dhaka South City Corporation,BGD,City Corporation,Alcalde/sa,4299345,2022,"Censo 2022, BBS",23.71,90.41,,,False
+chittagong,Chittagong,Chattogram City Corporation,BGD,City Corporation,Alcalde/sa,3227246,2022,"Censo 2022, BBS",22.34,91.83,,,False
+gazipur,Gazipur,Gazipur City Corporation,BGD,City Corporation,Alcalde/sa,2674697,2022,"Censo 2022, BBS",24.0,90.42,,,False
+tokio,Tokio (Metrópolis),東京都,JPN,Gobierno Metropolitano (prefectura),Gobernador/a,14047594,2020,"Censo 2020, Statistics Bureau",35.68,139.69,,,False
+yokohama,Yokohama,横浜市,JPN,Ciudad designada,Alcalde/sa,3777491,2020,Censo 2020,35.44,139.64,,,False
+osaka,Osaka,大阪市,JPN,Ciudad designada,Alcalde/sa,2752412,2020,Censo 2020,34.69,135.5,,,False
+nagoya,Nagoya,名古屋市,JPN,Ciudad designada,Alcalde/sa,2332176,2020,Censo 2020,35.18,136.91,,,False
+seul,Seúl,서울특별시,KOR,Ciudad especial,Alcalde/sa,9386034,2024,KOSIS,37.57,126.98,,,False
+busan,Busan,부산광역시,KOR,Ciudad metropolitana,Alcalde/sa,3293362,2024,KOSIS,35.18,129.08,,,False
+incheon,Incheon,인천광역시,KOR,Ciudad metropolitana,Alcalde/sa,3021010,2024,KOSIS,37.46,126.71,,,False
+daegu,Daegu,대구광역시,KOR,Ciudad metropolitana,Alcalde/sa,2374960,2024,KOSIS,35.87,128.6,,,False
+pyongyang,Pionyang,평양직할시,PRK,Ciudad directamente gobernada,Presidente/a del comité popular,2863000,2015,Wikidata (estimación),39.03,125.75,,,False
+hong_kong,Hong Kong,香港,HKG,Región Administrativa Especial,Jefe/a del Ejecutivo,7503100,2024,Census and Statistics Department,22.32,114.17,,,False
+nuevo_taipei,Nuevo Taipéi,新北市,TWN,Municipio especial,Alcalde/sa,4043000,2026,Ministerio del Interior (Wikidata),25.01,121.46,,,False
+taichung,Taichung,臺中市,TWN,Municipio especial,Alcalde/sa,2870000,2026,Ministerio del Interior (Wikidata),24.15,120.67,,,False
+kaohsiung,Kaohsiung,高雄市,TWN,Municipio especial,Alcalde/sa,2730000,2024,Ministerio del Interior,22.63,120.3,,,False
+taipei,Taipéi,臺北市,TWN,Municipio especial,Alcalde/sa,2430000,2026,Ministerio del Interior (Wikidata),25.04,121.56,,,False
+taoyuan,Taoyuan,桃園市,TWN,Municipio especial,Alcalde/sa,2360000,2026,Ministerio del Interior (Wikidata),24.99,121.3,,,False
+ho_chi_minh,Ciudad Ho Chi Minh,Thành phố Hồ Chí Minh,VNM,Ciudad de gobierno central (ampliada en 2025),Presidente/a del comité popular,14000000,2024,Wikidata (tras la fusión de 2025),10.78,106.7,,,False
+hanoi,Hanói,Hà Nội,VNM,Ciudad de gobierno central,Presidente/a del comité popular,8720000,2024,GSO Vietnam,21.03,105.85,,,False
+can_tho,Cần Thơ,Cần Thơ,VNM,Ciudad de gobierno central (ampliada en 2025),Presidente/a del comité popular,3210000,2024,Wikidata,10.03,105.78,,,False
+da_nang,Da Nang,Đà Nẵng,VNM,Ciudad de gobierno central (ampliada en 2025),Presidente/a del comité popular,2820000,2024,Wikidata,16.05,108.21,,,False
+hai_phong,Hai Phong,Hải Phòng,VNM,Ciudad de gobierno central,Presidente/a del comité popular,2120000,2024,GSO Vietnam,20.86,106.68,,,False
+bangkok,Bangkok,กรุงเทพมหานคร,THA,Administración Metropolitana (BMA),Gobernador/a,5494932,2023,Departamento de Administración Provincial,13.76,100.5,,,False
+quezon,Ciudad Quezón,Quezon City,PHL,Ciudad altamente urbanizada,Alcalde/sa,2960048,2020,"Censo 2020, PSA",14.68,121.04,,,False
+yakarta,Yakarta,Daerah Khusus Jakarta,IDN,Provincia-ciudad especial,Gobernador/a,11135000,2024,BPS,-6.2,106.85,,,False
+surabaya,Surabaya,Kota Surabaya,IDN,Kota,Wali kota,3009000,2023,BPS,-7.25,112.75,,,False
+bekasi,Bekasi,Kota Bekasi,IDN,Kota,Wali kota,2590000,2023,BPS,-6.24,106.99,,,False
+bandung,Bandung,Kota Bandung,IDN,Kota,Wali kota,2506000,2023,BPS,-6.92,107.61,,,False
+medan,Medán,Kota Medan,IDN,Kota,Wali kota,2486000,2023,BPS,3.59,98.67,,,False
+depok,Depok,Kota Depok,IDN,Kota,Wali kota,2145000,2023,BPS,-6.4,106.82,,,False
+singapur,Singapur,Singapore,SGP,Ciudad-estado,Primer ministro/a,6036900,2024,SingStat,1.35,103.82,,,False
+rangun,Rangún,ရန်ကုန်,MMR,Comité de Desarrollo de la Ciudad (YCDC),Alcalde/sa,5610000,2014,Censo 2014 (ciudad),16.84,96.17,,,False
+phnom_penh,Nom Pen,ភ្នំពេញ,KHM,Municipio capital,Gobernador/a,2129371,2019,"Censo 2019, NIS",11.56,104.92,,,False
+el_cairo,El Cairo (gobernación),القاهرة,EGY,Gobernación-ciudad,Gobernador/a,10250000,2023,CAPMAS (Wikidata),30.04,31.24,,,False
+alejandria,Alejandría (gobernación),الإسكندرية,EGY,Gobernación-ciudad,Gobernador/a,5360000,2023,CAPMAS (Wikidata),31.2,29.92,,,False
+giza,Guiza (ciudad),الجيزة,EGY,Ciudad (gobernación de Guiza),Gobernador/a,4460000,2023,CAPMAS (Wikidata),30.01,31.21,,,False
+jartum,Jartum,الخرطوم,SDN,Localidad/ciudad,Comisionado/a,5340000,2018,"Wikidata (estimación, antes de la guerra de 2023)",15.5,32.56,,,False
+omdurman,Omdurmán,أم درمان,SDN,Localidad/ciudad,Comisionado/a,2810000,2012,Wikidata (estimación),15.64,32.48,,,False
+addis_abeba,Adís Abeba,አዲስ አበባ,ETH,Ciudad autónoma (rango de región),Alcalde/sa,5700000,2024,Wikidata (estimación ESS),9.03,38.74,,,False
+nairobi,Nairobi,Nairobi City County,KEN,Condado-ciudad,Gobernador/a,4397073,2019,"Censo 2019, KNBS",-1.29,36.82,,,False
+dar_es_salaam,Dar es-Salaam,Dar es Salaam,TZA,Región (5 municipios),Comisionado/a regional,5383728,2022,"Censo 2022, NBS",-6.79,39.21,,,False
+kinsasa,Kinsasa,Kinshasa,COD,Ciudad-provincia,Gobernador/a,14565700,2020,Wikidata (estimación),-4.32,15.31,,,False
+mbuji_mayi,Mbuji-Mayi,Mbuji-Mayi,COD,Ciudad,Alcalde/sa,2890000,2023,Wikidata (estimación),-6.13,23.6,,,False
+luanda,Luanda,Luanda,AGO,Municipio,Administrador/a municipal,2487000,2018,Wikidata (estimación INE),-8.84,13.23,,,False
+lagos,Lagos,Lagos State,NGA,Estado de Lagos (metrópoli sin gobierno municipal único),Gobernador/a,15070000,2022,Wikidata (estimación),6.52,3.38,,,False
+abuja,Abuya (Territorio de la Capital Federal),FCT Abuja,NGA,Territorio Capital (FCTA),Ministro/a del FCT,3840000,2022,NPC (estimación),9.06,7.49,,,False
+abiyan,Abiyán,Abidjan,CIV,Distrito autónomo,Gobernador/a del distrito,5616633,2021,"Censo 2021, INS",5.36,-4.01,,,False
+bamako,Bamako,Bamako,MLI,Distrito,Gobernador/a,4227569,2022,"Censo 2022, INSTAT",12.64,-8.0,,,False
+uagadugu,Uagadugú,Ouagadougou,BFA,Comuna,Alcalde/sa / delegación especial,2453496,2019,"Censo 2019, INSD",12.37,-1.52,,,False
+conakri,Conakri,Conakry,GIN,Ciudad-región,Gobernador/a,2160000,2009,Wikidata (estimación),9.64,-13.58,,,False
+duala,Duala,Douala,CMR,Comunidad urbana,Alcalde/sa de la ciudad,2768000,2015,Wikidata (estimación),4.05,9.7,,,False
+yaunde,Yaundé,Yaoundé,CMR,Comunidad urbana,Alcalde/sa de la ciudad,2440000,2012,Wikidata (estimación),3.87,11.52,,,False
+brazzaville,Brazzaville,Brazzaville,COG,Comuna (departamento),Alcalde/sa,2145783,2023,Censo 2023,-4.27,15.28,,,False
+lome,Lomé (Gran Lomé),District Autonome du Grand Lomé,TGO,Distrito autónomo,Gobernador/a,2188376,2023,Wikidata (estimación),6.13,1.22,,,False
+mogadiscio,Mogadiscio,Muqdisho,SOM,Administración Regional de Banadir,Alcalde/sa y gobernador/a,2120000,2015,Wikidata (estimación),2.05,45.32,,,False
+lusaka,Lusaka,Lusaka,ZMB,Ciudad (distrito),Alcalde/sa,2204000,2022,"Censo 2022, ZamStats",-15.42,28.28,,,False
+johannesburgo,Johannesburgo,City of Johannesburg,ZAF,Municipio metropolitano,Alcalde/sa ejecutivo/a,4803262,2022,"Censo 2022, Stats SA",-26.2,28.05,,,False
+ciudad_del_cabo,Ciudad del Cabo,City of Cape Town,ZAF,Municipio metropolitano,Alcalde/sa ejecutivo/a,4772846,2022,"Censo 2022, Stats SA",-33.92,18.42,,,False
+durban,Durban (eThekwini),eThekwini,ZAF,Municipio metropolitano,Alcalde/sa ejecutivo/a,4239901,2022,"Censo 2022, Stats SA",-29.86,31.02,,,False
+ekurhuleni,Ekurhuleni,City of Ekurhuleni,ZAF,Municipio metropolitano,Alcalde/sa ejecutivo/a,4066691,2022,"Censo 2022, Stats SA",-26.15,28.33,,,False
+tshwane,Tshwane (Pretoria),City of Tshwane,ZAF,Municipio metropolitano,Alcalde/sa ejecutivo/a,4040315,2022,"Censo 2022, Stats SA",-25.75,28.19,,,False
+casablanca,Casablanca,الدار البيضاء,MAR,Comuna,Presidente/a del consejo comunal,3218036,2024,"Censo 2024, HCP",33.57,-7.59,,,False
+argel,Argel,الجزائر,DZA,Wilaya-ciudad,Wali,3415811,2011,Wikidata (estimación ONS),36.75,3.06,,,False
+chongqing,Chongqing,重庆市,CHN,Municipio bajo jurisdicción central,Alcalde/sa (y secretario/a del Partido),32054159,2020,"Censo 2020, NBS",29.56,106.55,Chongqing,,False
+shanghai,Shanghái,上海市,CHN,Municipio bajo jurisdicción central,Alcalde/sa (y secretario/a del Partido),24870895,2020,"Censo 2020, NBS",31.23,121.47,Shanghái,,False
+pekin,Pekín,北京市,CHN,Municipio bajo jurisdicción central,Alcalde/sa (y secretario/a del Partido),21893095,2020,"Censo 2020, NBS",39.9,116.4,Pekín,,False
+tianjin,Tianjín,天津市,CHN,Municipio bajo jurisdicción central,Alcalde/sa (y secretario/a del Partido),13866009,2020,"Censo 2020, NBS",39.13,117.2,Tianjín,,False
+harbin,Harbin,哈尔滨市,CHN,Ciudad subprovincial (capital de Heilongjiang),Alcalde/sa (y secretario/a del Partido),10009854,2020,"Censo 2020, NBS",45.8,126.53,Heilongjiang,,False
+chengdu,Chengdu,成都市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),20937757,2020,Wikidata (censo 2020 de la NBS salvo indicación),30.66,104.063333333,Sichuan,Q30002,False
+guangzhou,Cantón,广州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),18676605,2020,Wikidata (censo 2020 de la NBS salvo indicación),23.13,113.26,Guangdong,Q16572,False
+shenzhen,Shenzhen,深圳市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),17681600,2022,Wikidata (censo 2020 de la NBS salvo indicación),22.546666666,114.054444444,Guangdong,Q15174,False
+xi_an,Xi'an,西安市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),12952907,2020,Wikidata (censo 2020 de la NBS salvo indicación),34.261111111,108.942222222,Shaanxi,Q5826,False
+suzhou,Suzhou,苏州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),12748262,2020,Wikidata (censo 2020 de la NBS salvo indicación),31.3,120.619444444,Jiangsu,Q42622,False
+zhengzhou,Zhengzhou,郑州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),12600574,2020,Wikidata (censo 2020 de la NBS salvo indicación),34.74919,113.66051,Henan,Q30340,False
+wuhan,Wuhan,武汉市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),12447718,2020,Wikidata (censo 2020 de la NBS salvo indicación),30.595,114.2975,Hubei,Q11746,False
+hangzhou,Hangzhou,杭州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),11936010,2020,Wikidata (censo 2020 de la NBS salvo indicación),30.25,120.1675,Zhejiang,Q4970,False
+baoding,Baoding,保定市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),11544036,2020,Wikidata (censo 2020 de la NBS salvo indicación),38.86712,115.48452,Hebei,Q58584,False
+shijiazhuang,Shijiazhuang,石家庄市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),11235086,2020,Wikidata (censo 2020 de la NBS salvo indicación),38.0425,114.51,Hebei,Q58401,False
+linyi,Linyi,临沂市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),11018365,2020,Wikidata (censo 2020 de la NBS salvo indicación),35.10408,118.35019,Shandong,Q373346,False
+dongguan,Dongguan,东莞市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),10466625,2020,Wikidata (censo 2020 de la NBS salvo indicación),23.04749,113.74928,Guangdong,Q59218,False
+qingdao,Qingdao,青岛市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),10071722,2020,Wikidata (censo 2020 de la NBS salvo indicación),36.116666666,120.4,Shandong,Q170322,False
+changsha,Changsha,长沙市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),10047914,2020,Wikidata (censo 2020 de la NBS salvo indicación),28.19874,112.97087,Hunan,Q174091,False
+nanyang,Nanyang,南阳市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),9713112,2020,Wikidata (censo 2020 de la NBS salvo indicación),32.99871,112.52921,Henan,Q404763,False
+wenzhou,Wenzhou,温州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),9572903,2020,Wikidata (censo 2020 de la NBS salvo indicación),27.999128,120.656075,Zhejiang,Q42635,False
+foshan,Foshan,佛山市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),9498863,2020,Wikidata (censo 2020 de la NBS salvo indicación),23.029167,113.105556,Guangdong,Q34412,False
+handan,Handan,邯郸市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),9413990,2020,Wikidata (censo 2020 de la NBS salvo indicación),36.61161,114.48937,Hebei,Q58570,False
+ningbo,Ningbo,宁波市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),9404283,2020,Wikidata (censo 2020 de la NBS salvo indicación),29.875,121.549166666,Zhejiang,Q42780,False
+weifang,Weifang,潍坊市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),9386705,2020,Wikidata (censo 2020 de la NBS salvo indicación),36.716666666,119.1,Shandong,Q217698,False
+hefei,Hefei,合肥市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),9369881,2020,Wikidata (censo 2020 de la NBS salvo indicación),31.86389,117.28083,Anhui,Q185684,False
+nanjing,Nankín,南京市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),9314685,2020,Wikidata (censo 2020 de la NBS salvo indicación),32.060833333,118.778888888,Jiangsu,Q16666,False
+jinan,Jinan,济南市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),9202432,2020,Wikidata (censo 2020 de la NBS salvo indicación),36.666666666,116.983333333,Shandong,Q170247,False
+xuzhou,Xuzhou,徐州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),9083790,2020,Wikidata (censo 2020 de la NBS salvo indicación),34.26104,117.18587,Jiangsu,Q57719,False
+shenyang,Shenyang,沈阳市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),9070093,2020,Wikidata (censo 2020 de la NBS salvo indicación),41.8025,123.428055555,Liaoning,Q11720,False
+changchun,Changchun,长春市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),9066906,2020,Wikidata (censo 2020 de la NBS salvo indicación),43.88,125.322777777,Jilin,Q92161,False
+zhoukou,Zhoukou,周口市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),9026015,2020,Wikidata (censo 2020 de la NBS salvo indicación),33.62502,114.6418,Henan,Q198061,False
+ganzhou,Ganzhou,赣州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),8970014,2020,Wikidata (censo 2020 de la NBS salvo indicación),25.829166666,114.933611111,Jiangxi,Q363166,False
+heze,Heze,菏泽市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),8795939,2020,Wikidata (censo 2020 de la NBS salvo indicación),35.233333333,115.433333333,Shandong,Q332753,False
+quanzhou,Quanzhou,泉州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),8782285,2020,Wikidata (censo 2020 de la NBS salvo indicación),24.91389,118.58583,Fujian,Q68695,False
+nanning,Nanning,南宁市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),8741584,2020,Wikidata (censo 2020 de la NBS salvo indicación),22.81918,108.31501,Guangxi,Q179608,False
+kunming,Kunming,昆明市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),8460088,2020,Wikidata (censo 2020 de la NBS salvo indicación),25.043333333,102.706111111,Yunnan,Q182852,False
+jining,Jining,济宁市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),8357897,2020,Wikidata (censo 2020 de la NBS salvo indicación),35.4,116.566666666,Shandong,Q372791,False
+fuzhou,Fuzhou,福州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),8291268,2020,Wikidata (censo 2020 de la NBS salvo indicación),26.076944444,119.291666666,Fujian,Q68481,False
+fuyang,Fuyang,阜阳市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),8200264,2020,Wikidata (censo 2020 de la NBS salvo indicación),32.89856,115.80447,Anhui,Q360584,False
+shangqiu,Shangqiu,商丘市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),7816831,2020,Wikidata (censo 2020 de la NBS salvo indicación),34.42592,115.64673,Henan,Q404817,False
+nantong,Nantong,南通市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),7726635,2020,Wikidata (censo 2020 de la NBS salvo indicación),31.98288,120.8873,Jiangsu,Q57947,False
+tangshan,Tangshan,唐山市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),7717983,2020,Wikidata (censo 2020 de la NBS salvo indicación),39.629444444,118.173888888,Hebei,Q58422,False
+wuxi,Wuxi,无锡市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),7462135,2020,Wikidata (censo 2020 de la NBS salvo indicación),31.566667,120.283333,Jiangsu,Q42651,False
+dalian,Dalian,大連市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),7450785,2020,Wikidata (censo 2020 de la NBS salvo indicación),38.9,121.6,Liaoning,Q74881,False
+cangzhou,Cangzhou,沧州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),7300783,2020,Wikidata (censo 2020 de la NBS salvo indicación),38.30369,116.84519,Hebei,Q58695,False
+xingtai,Xingtai,邢台市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),7111106,2020,Wikidata (censo 2020 de la NBS salvo indicación),37.06594,114.47531,Hebei,Q58576,False
+yantai,Yantai,烟台市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),7102116,2020,Wikidata (censo 2020 de la NBS salvo indicación),37.464444444,121.447777777,Shandong,Q210493,False
+luoyang,Luoyang,洛陽市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),7081000,2024,Wikidata (censo 2020 de la NBS salvo indicación),34.65867,112.42447,Henan,Q187136,False
+jinhua,Jinhua,金华市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),7050683,2020,Wikidata (censo 2020 de la NBS salvo indicación),29.10462,119.64937,Zhejiang,Q58210,False
+zhumadian,Zhumadian,驻马店市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),7008427,2020,Wikidata (censo 2020 de la NBS salvo indicación),32.97729,114.02528,Henan,Q198240,False
+zhanjiang,Zhanjiang,湛江市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),6981236,2020,Wikidata (censo 2020 de la NBS salvo indicación),21.196667,110.403056,Guangdong,Q59144,False
+bijie,Bijie,毕节市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),6899636,2020,Wikidata (censo 2020 de la NBS salvo indicación),27.30193,105.28627,Guizhou,Q486319,False
+yancheng,Yancheng,盐城市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),6709629,2020,Wikidata (censo 2020 de la NBS salvo indicación),33.35,120.156944444,Jiangsu,Q57866,False
+hengyang,Hengyang,衡陽市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),6645243,2020,Wikidata (censo 2020 de la NBS salvo indicación),26.89676,112.58568,Hunan,Q144663,False
+taizhou,Taizhou,台州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),6622888,2020,Wikidata (censo 2020 de la NBS salvo indicación),28.6583,121.42213,Zhejiang,Q58273,False
+zunyi,Zunyi,遵义市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),6606675,2020,Wikidata (censo 2020 de la NBS salvo indicación),27.70498,106.93363,Guizhou,Q28994,False
+shaoyang,Shaoyang,邵陽市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),6563520,2020,Wikidata (censo 2020 de la NBS salvo indicación),27.24176,111.47247,Hunan,Q194531,False
+shangrao,Shangrao,上饶市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),6491088,2020,Wikidata (censo 2020 de la NBS salvo indicación),28.441944444,117.963333333,Jiangxi,Q363479,False
+nanchang,Nanchang,南昌市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),6255007,2020,Wikidata (censo 2020 de la NBS salvo indicación),28.684167,115.887222,Jiangxi,Q171943,False
+xinxiang,Xinxiang,新乡市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),6251929,2020,Wikidata (censo 2020 de la NBS salvo indicación),35.29917,113.88515,Henan,Q404362,False
+xinyang,Xinyang,信阳市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),6234401,2020,Wikidata (censo 2020 de la NBS salvo indicación),32.12641,114.06722,Henan,Q404873,False
+maoming,Maoming,茂名市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),6174050,2020,Wikidata (censo 2020 de la NBS salvo indicación),21.66182,110.91783,Guangdong,Q38927,False
+huizhou,Huizhou,惠州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),6042852,2020,Wikidata (censo 2020 de la NBS salvo indicación),23.11147,114.41523,Guangdong,Q59173,False
+guiyang,Guiyang,貴陽市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5987018,2020,Wikidata (censo 2020 de la NBS salvo indicación),26.579444444,106.707777777,Guizhou,Q192271,False
+liaocheng,Liaocheng,聊城市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5952128,2020,Wikidata (censo 2020 de la NBS salvo indicación),36.45,115.983333333,Shandong,Q373564,False
+huanggang,Huanggang,黄冈市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5882719,2020,Wikidata (censo 2020 de la NBS salvo indicación),30.45,114.875,Hubei,Q71355,False
+yulin,Yulin,玉林市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5796766,2020,Wikidata (censo 2020 de la NBS salvo indicación),22.6293,110.15067,Guangxi,Q571918,False
+qujing,Qujing,曲靖市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5765775,2020,Wikidata (censo 2020 de la NBS salvo indicación),25.51018,103.80287,Yunnan,Q496405,False
+dezhou,Dezhou,德州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5611194,2020,Wikidata (censo 2020 de la NBS salvo indicación),37.45127,116.31046,Shandong,Q162880,False
+nanchong,Nanchong,南充市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5607565,2020,Wikidata (censo 2020 de la NBS salvo indicación),30.79913,106.07843,Sichuan,Q426996,False
+jieyang,Jieyang,揭阳市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5577814,2020,Wikidata (censo 2020 de la NBS salvo indicación),23.55334,116.36495,Guangdong,Q26323,False
+shantou,Shantou,汕头市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5502031,2020,Wikidata (censo 2020 de la NBS salvo indicación),23.353888888,116.682222222,Guangdong,Q59100,False
+anyang,Anyang,安陽市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5477614,2020,Wikidata (censo 2020 de la NBS salvo indicación),36.09561,114.34614,Henan,Q324293,False
+tai_an,Tai'an,泰安市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5472217,2020,Wikidata (censo 2020 de la NBS salvo indicación),36.2001,117.0809,Shandong,Q217681,False
+langfang,Langfang,廊坊市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5464087,2020,Wikidata (censo 2020 de la NBS salvo indicación),39.51962,116.70056,Hebei,Q58710,False
+jiaxing,Jiaxing,嘉兴市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5400868,2020,Wikidata (censo 2020 de la NBS salvo indicación),30.7522,120.75,Zhejiang,Q58178,False
+dazhou,Dazhou,达州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5385422,2020,Wikidata (censo 2020 de la NBS salvo indicación),31.2152,107.49472,Sichuan,Q427488,False
+suzhou_anhui,Suzhou,宿州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5324476,2020,Wikidata (censo 2020 de la NBS salvo indicación),33.63328,116.96833,Anhui,Q360643,False
+taiyuan,Taiyuan,太原市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5304061,2020,Wikidata (censo 2020 de la NBS salvo indicación),37.87326,112.54245,Shanxi,Q72778,False
+yongzhou,Yongzhou,永州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5289824,2020,Wikidata (censo 2020 de la NBS salvo indicación),26.4515,111.59527,Hunan,Q266014,False
+changde,Changde,常德市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5279102,2020,Wikidata (censo 2020 de la NBS salvo indicación),29.03966,111.6839,Hunan,Q416544,False
+changzhou,Changzhou,常州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5278121,2020,Wikidata (censo 2020 de la NBS salvo indicación),31.812166666,119.969166666,Jiangsu,Q57970,False
+shaoxing,Shaoxing,紹興市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5270977,2020,Wikidata (censo 2020 de la NBS salvo indicación),30.0,120.583333333,Zhejiang,Q42666,False
+xiangyang,Xiangyang,襄阳市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5260951,2020,Wikidata (censo 2020 de la NBS salvo indicación),32.06536,112.15307,Hubei,Q71284,False
+jingzhou,Jingzhou,荆州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5231180,2020,Wikidata (censo 2020 de la NBS salvo indicación),30.324444444,112.236111111,Hubei,Q71247,False
+xiamen,Xiamen,厦门市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5163970,2020,Wikidata (censo 2020 de la NBS salvo indicación),24.479722222,118.081944444,Fujian,Q68744,False
+zhaotong,Zhaotong,昭通市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5092611,2020,Wikidata (censo 2020 de la NBS salvo indicación),27.33284,103.71445,Yunnan,Q197519,False
+zhangzhou,Zhangzhou,漳州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5054328,2020,Wikidata (censo 2020 de la NBS salvo indicación),24.50932,117.66117,Fujian,Q68814,False
+yueyang,Yueyang,岳陽市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5051922,2020,Wikidata (censo 2020 de la NBS salvo indicación),29.36472,113.1309,Hunan,Q151958,False
+yichun,Yichun,宜春市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),5007702,2020,Wikidata (censo 2020 de la NBS salvo indicación),27.80412,114.38303,Jiangxi,Q363326,False
+bozhou,Bozhou,亳州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4996844,2020,Wikidata (censo 2020 de la NBS salvo indicación),33.86264,115.77422,Anhui,Q360769,False
+pingdingshan,Pingdingshan,平顶山市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4987137,2020,Wikidata (censo 2020 de la NBS salvo indicación),33.73499,113.29992,Henan,Q404116,False
+suqian,Suqian,宿迁市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4986192,2020,Wikidata (censo 2020 de la NBS salvo indicación),33.933056,118.283056,Jiangsu,Q57787,False
+xianyang,Xianyang,咸陽市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4983340,2020,Wikidata (censo 2020 de la NBS salvo indicación),34.329722222,108.709166666,Shaanxi,Q497341,False
+guilin,Guilin,桂林市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4931137,2020,Wikidata (censo 2020 de la NBS salvo indicación),25.281944444,110.286388888,Guangxi,Q189633,False
+mianyang,Mianyang,绵阳市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4868243,2020,Wikidata (censo 2020 de la NBS salvo indicación),31.46688,104.73847,Sichuan,Q426130,False
+kaifeng,Kaifeng,開封市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4824016,2020,Wikidata (censo 2020 de la NBS salvo indicación),34.795,114.345,Henan,Q208471,False
+jiangmen,Jiangmen,江门市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4798090,2020,Wikidata (censo 2020 de la NBS salvo indicación),22.58333,113.08333,Guangdong,Q59132,False
+yuncheng,Yuncheng,运城市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4774508,2020,Wikidata (censo 2020 de la NBS salvo indicación),35.03042,110.99796,Shanxi,Q73073,False
+zibo,Zibo,淄博市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4704138,2020,Wikidata (censo 2020 de la NBS salvo indicación),36.783056,118.049722,Shandong,Q198370,False
+weinan,Weinan,渭南市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4688744,2020,Wikidata (censo 2020 de la NBS salvo indicación),34.49962,109.46838,Shaanxi,Q126995,False
+chenzhou,Chenzhou,郴州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4667134,2020,Wikidata (censo 2020 de la NBS salvo indicación),25.79893,113.02667,Hunan,Q416748,False
+jiujiang,Jiujiang,九江市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4600276,2020,Wikidata (censo 2020 de la NBS salvo indicación),29.70475,116.00206,Jiangxi,Q216077,False
+lianyungang,Lianyungang,连云港市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4599360,2020,Wikidata (censo 2020 de la NBS salvo indicación),34.59057,119.1801,Jiangsu,Q57756,False
+yibin,Yibin,宜宾市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4588804,2020,Wikidata (censo 2020 de la NBS salvo indicación),28.75961,104.63997,Sichuan,Q427265,False
+huaihua,Huaihua,怀化市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4587594,2020,Wikidata (censo 2020 de la NBS salvo indicación),27.549444,109.959167,Hunan,Q416922,False
+yangzhou,Yangzhou,扬州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4559797,2020,Wikidata (censo 2020 de la NBS salvo indicación),32.39117,119.43625,Jiangsu,Q57906,False
+huai_an,Huai'an,淮安市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4556230,2020,Wikidata (censo 2020 de la NBS salvo indicación),33.58861,119.01917,Jiangsu,Q57818,False
+taizhou_jiangsu,Taizhou,泰州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4512762,2020,Wikidata (censo 2020 de la NBS salvo indicación),32.483056,119.9,Jiangsu,Q57931,False
+ji_an,Ji'an,吉安市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4469176,2020,Wikidata (censo 2020 de la NBS salvo indicación),27.11716,114.97927,Jiangxi,Q363262,False
+zhongshan,Zhongshan,中山市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4418060,2020,Wikidata (censo 2020 de la NBS salvo indicación),22.533333333,113.35,Guangdong,Q59223,False
+lu_an,Lu'an,六安市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4393699,2020,Wikidata (censo 2020 de la NBS salvo indicación),31.75425,116.50778,Anhui,Q360702,False
+xuchang,Xuchang,许昌市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4379998,2020,Wikidata (censo 2020 de la NBS salvo indicación),34.02444,113.82014,Henan,Q404529,False
+lanzhou,Lanzhou,兰州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4359446,2020,Wikidata (censo 2020 de la NBS salvo indicación),36.06171,103.83177,Gansu,Q183584,False
+guigang,Guigang,贵港市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4316262,2020,Wikidata (censo 2020 de la NBS salvo indicación),23.114444444,109.594444444,Guangxi,Q571808,False
+xiaogan,Xiaogan,孝感市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4270371,2020,Wikidata (censo 2020 de la NBS salvo indicación),30.92731,113.91096,Hubei,Q71339,False
+luzhou,Luzhou,泸州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4254149,2020,Wikidata (censo 2020 de la NBS salvo indicación),28.89182,105.44093,Sichuan,Q425492,False
+hengshui,Hengshui,衡水市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4212933,2020,Wikidata (censo 2020 de la NBS salvo indicación),37.73484,115.68599,Hebei,Q58724,False
+anqing,Anqing,安庆市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4165284,2020,Wikidata (censo 2020 de la NBS salvo indicación),30.5,117.033333333,Anhui,Q360374,False
+liuzhou,Liuzhou,柳州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4157934,2020,Wikidata (censo 2020 de la NBS salvo indicación),24.3264,109.4281,Guangxi,Q38968,False
+zhangjiakou,Zhangjiakou,张家口市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4118908,2020,Wikidata (censo 2020 de la NBS salvo indicación),40.81078,114.88114,Hebei,Q58650,False
+zhaoqing,Zhaoqing,肇庆市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4113594,2020,Wikidata (censo 2020 de la NBS salvo indicación),23.05,112.466666666,Guangdong,Q59164,False
+qiqihar,Qiqihar,齐齐哈尔市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4067489,2020,Wikidata (censo 2020 de la NBS salvo indicación),47.33981,123.95124,Heilongjiang,Q205922,False
+urumqi,Urumqi,乌鲁木齐市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4054369,2020,Wikidata (censo 2020 de la NBS salvo indicación),43.8225,87.6125,Xinjiang,Q16959,False
+chifeng,Ulanhad,赤峰市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4035967,2020,Wikidata (censo 2020 de la NBS salvo indicación),42.255,118.8825,Inner Mongolia,Q570829,False
+yichang,Yichang,宜昌市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),4017607,2020,Wikidata (censo 2020 de la NBS salvo indicación),30.708333,111.280278,Hubei,Q71266,False
+chuzhou,Chuzhou,滁州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3987054,2020,Wikidata (censo 2020 de la NBS salvo indicación),32.30621,118.31148,Anhui,Q114045,False
+linfen,Linfen,临汾市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3976481,2020,Wikidata (censo 2020 de la NBS salvo indicación),36.08121,111.50865,Shanxi,Q73156,False
+qingyuan,Qingyuan,清远市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3969473,2020,Wikidata (censo 2020 de la NBS salvo indicación),23.68425,113.05075,Guangdong,Q59213,False
+binzhou,Binzhou,滨州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3928568,2020,Wikidata (censo 2020 de la NBS salvo indicación),37.380555555,118.0125,Shandong,Q373687,False
+zhuzhou,Zhuzhou,株洲市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3902738,2020,Wikidata (censo 2020 de la NBS salvo indicación),27.84071,113.14692,Hunan,Q198266,False
+meizhou,Meizhou,梅州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3873239,2020,Wikidata (censo 2020 de la NBS salvo indicación),24.29977,116.11913,Guangdong,Q59184,False
+zaozhuang,Zaozhuang,枣庄市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3855601,2020,Wikidata (censo 2020 de la NBS salvo indicación),34.866666666,117.55,Shandong,Q147187,False
+yiyang,Yiyang,益阳市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3851564,2020,Wikidata (censo 2020 de la NBS salvo indicación),28.583333333,112.333333333,Hunan,Q416669,False
+loudi,Loudi,娄底市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3826996,2020,Wikidata (censo 2020 de la NBS salvo indicación),27.73776,111.99742,Hunan,Q416988,False
+puyang,Puyang,濮阳市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3772088,2020,Wikidata (censo 2020 de la NBS salvo indicación),35.76392,115.02996,Henan,Q404484,False
+suihua,Suihua,绥化市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3756167,2020,Wikidata (censo 2020 de la NBS salvo indicación),46.6384,126.98079,Heilongjiang,Q349985,False
+wuhu,Wuhu,芜湖市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3644420,2020,Wikidata (censo 2020 de la NBS salvo indicación),31.33398,118.36223,Anhui,Q359990,False
+yulin_shaanxi,Yulin,榆林市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3624750,2020,Wikidata (censo 2020 de la NBS salvo indicación),38.26548,109.73881,Shaanxi,Q515712,False
+jilin,Jilin,吉林市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3623713,2020,Wikidata (censo 2020 de la NBS salvo indicación),43.8461,126.56157,Jilin,Q92277,False
+fuzhou_jiangxi,Fuzhou,抚州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3614866,2020,Wikidata (censo 2020 de la NBS salvo indicación),27.98139,116.35775,Jiangxi,Q363391,False
+baise,Baise,百色市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3571505,2020,Wikidata (censo 2020 de la NBS salvo indicación),23.90103,106.61943,Guangxi,Q571949,False
+jiaozuo,Jiaozuo,焦作市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3521078,2020,Wikidata (censo 2020 de la NBS salvo indicación),35.22904,113.2304,Henan,Q404429,False
+deyang,Deyang,德阳市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3456161,2020,Wikidata (censo 2020 de la NBS salvo indicación),31.12892,104.39499,Sichuan,Q425996,False
+hohhot,Hohhot,呼和浩特市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3446100,2020,Wikidata (censo 2020 de la NBS salvo indicación),40.81507,111.66293,Inner Mongolia,Q535534,False
+hechi,Hechi,河池市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3417945,2020,Wikidata (censo 2020 de la NBS salvo indicación),24.692777777,108.085,Guangxi,Q572089,False
+luliang,Lüliang,吕梁市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3398431,2020,Wikidata (censo 2020 de la NBS salvo indicación),37.52028,111.13545,Shanxi,Q73186,False
+jinzhong,Jinzhong,晋中市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3379498,2020,Wikidata (censo 2020 de la NBS salvo indicación),37.69332,112.74164,Shanxi,Q73045,False
+huzhou,Huzhou,湖州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3367579,2020,Wikidata (censo 2020 de la NBS salvo indicación),30.8925,120.0875,Zhejiang,Q42664,False
+chengde,Chengde,承德市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3354444,2020,Wikidata (censo 2020 de la NBS salvo indicación),40.973888888,117.932222222,Hebei,Q58675,False
+anshan,Anshan,鞍山市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3325372,2020,Wikidata (censo 2020 de la NBS salvo indicación),41.10662,122.98945,Liaoning,Q74957,False
+baoji,Baoji,宝鸡市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3321853,2020,Wikidata (censo 2020 de la NBS salvo indicación),34.36094,107.17507,Shaanxi,Q514796,False
+qinzhou,Qinzhou,钦州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3302238,2020,Wikidata (censo 2020 de la NBS salvo indicación),21.95,108.616666666,Guangxi,Q571766,False
+tongren,Tong'ren,铜仁市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3298468,2020,Wikidata (censo 2020 de la NBS salvo indicación),27.72334,109.18851,Guizhou,Q486235,False
+bengbu,Bengbu,蚌埠市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3296408,2020,Wikidata (censo 2020 de la NBS salvo indicación),32.93537,117.35312,Anhui,Q360069,False
+guang_an,Guang'an,广安市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3254883,2020,Wikidata (censo 2020 de la NBS salvo indicación),30.46729,106.63358,Sichuan,Q427367,False
+hanzhong,Hanzhong,汉中市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3211462,2020,Wikidata (censo 2020 de la NBS salvo indicación),33.07938,107.02598,Shaanxi,Q515573,False
+putian,Putian,莆田市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3210714,2020,Wikidata (censo 2020 de la NBS salvo indicación),25.439444,119.010278,Fujian,Q68579,False
+zhenjiang,Zhenjiang,鎮江市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3210418,2020,Wikidata (censo 2020 de la NBS salvo indicación),32.21086,119.45508,Jiangsu,Q57958,False
+shiyan,Shiyan,十堰市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3209004,2020,Wikidata (censo 2020 de la NBS salvo indicación),32.63507,110.7755,Hubei,Q71227,False
+changzhi,Changzhi,长治市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3180884,2020,Wikidata (censo 2020 de la NBS salvo indicación),36.195,113.111111111,Shanxi,Q72945,False
+leshan,Leshan,乐山市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3160168,2020,Wikidata (censo 2020 de la NBS salvo indicación),29.5854,103.75755,Sichuan,Q426868,False
+ningde,Ningde,宁德市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3146789,2020,Wikidata (censo 2020 de la NBS salvo indicación),26.661666666,119.522777777,Fujian,Q68919,False
+neijiang,Neijiang,内江市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3140678,2020,Wikidata (censo 2020 de la NBS salvo indicación),29.58716,105.0635,Sichuan,Q426756,False
+qinhuangdao,Qinhuangdao,秦皇岛市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3107400,2023,Wikidata (censo 2020 de la NBS salvo indicación),39.93978,119.58812,Hebei,Q58560,False
+datong,Datong,大同市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3105591,2020,Wikidata (censo 2020 de la NBS salvo indicación),40.093611111,113.291388888,Shanxi,Q72877,False
+huainan,Huainan,淮南市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3033528,2020,Wikidata (censo 2020 de la NBS salvo indicación),32.483056,117.016389,Anhui,Q360178,False
+liupanshui,Liupanshui,六盤水市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),3031602,2020,Wikidata (censo 2020 de la NBS salvo indicación),26.594444,104.833333,Guizhou,Q485918,False
+tianshui,Tianshui,天水市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2984659,2020,Wikidata (censo 2020 de la NBS salvo indicación),34.58093,105.73115,Gansu,Q533157,False
+rizhao,Rizhao,日照市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2968365,2020,Wikidata (censo 2020 de la NBS salvo indicación),35.416388888,119.433055555,Shandong,Q373101,False
+meishan,Meishan,眉山市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2955219,2020,Wikidata (censo 2020 de la NBS salvo indicación),30.05746,103.83806,Sichuan,Q427097,False
+weihai,Weihai,威海市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2906548,2020,Wikidata (censo 2020 de la NBS salvo indicación),37.5,122.1,Shandong,Q373023,False
+haikou,Haikou,海口市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2873358,2020,Wikidata (censo 2020 de la NBS salvo indicación),20.02,110.32,Hainan,Q189823,False
+tongliao,Tongliao,通辽市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2873168,2020,Wikidata (censo 2020 de la NBS salvo indicación),43.61723,122.26398,Inner Mongolia,Q570884,False
+chaoyang,Chaoyang,朝阳市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2872857,2020,Wikidata (censo 2020 de la NBS salvo indicación),41.57567,120.44856,Liaoning,Q75336,False
+yinchuan,Yinchuan,銀川市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2859074,2020,Wikidata (censo 2020 de la NBS salvo indicación),38.485,106.225,Ningxia,Q211243,False
+shaoguan,Shaoguan,韶关市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2855131,2020,Wikidata (censo 2020 de la NBS salvo indicación),24.80113,113.59271,Guangdong,Q59107,False
+heyuan,Heyuan,河源市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2837686,2020,Wikidata (censo 2020 de la NBS salvo indicación),23.75033,114.69229,Guangdong,Q59205,False
+wuzhou,Wuzhou,梧州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2820977,2020,Wikidata (censo 2020 de la NBS salvo indicación),23.483333,111.316667,Guangxi,Q571652,False
+suining,Suining,遂宁市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2814196,2020,Wikidata (censo 2020 de la NBS salvo indicación),30.50984,105.57373,Sichuan,Q426644,False
+daqing,Daqing,大庆市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2781562,2020,Wikidata (censo 2020 de la NBS salvo indicación),46.59791,125.00798,Heilongjiang,Q304848,False
+shanwei,Shanwei,汕尾市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2738482,2020,Wikidata (censo 2020 de la NBS salvo indicación),22.766389,115.333056,Guangdong,Q59189,False
+xiangtan,Xiangtan,湘潭市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2726181,2020,Wikidata (censo 2020 de la NBS salvo indicación),27.84306,112.92283,Hunan,Q215755,False
+longyan,Longyan,龙岩市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2723637,2020,Wikidata (censo 2020 de la NBS salvo indicación),25.088056,117.024444,Fujian,Q68862,False
+bazhong,Bazhong,巴中市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2712894,2020,Wikidata (censo 2020 de la NBS salvo indicación),31.85764,106.75586,Sichuan,Q178945,False
+baotou,Baotou,包头市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2709378,2020,Wikidata (censo 2020 de la NBS salvo indicación),40.65621,109.83454,Inner Mongolia,Q569907,False
+jinzhou,Jinzhou,锦州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2703853,2020,Wikidata (censo 2020 de la NBS salvo indicación),41.114444444,121.129166666,Liaoning,Q28996,False
+xinzhou,Xinzhou,忻州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2689668,2020,Wikidata (censo 2020 de la NBS salvo indicación),38.41778,112.7233,Shanxi,Q73119,False
+nanping,Nanping,南平市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2680645,2020,Wikidata (censo 2020 de la NBS salvo indicación),26.64481,118.17282,Fujian,Q68534,False
+xianning,Xianning,咸寧市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2658316,2020,Wikidata (censo 2020 de la NBS salvo indicación),29.83411,114.32882,Hubei,Q71373,False
+yangjiang,Yangjiang,阳江市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2602959,2020,Wikidata (censo 2020 de la NBS salvo indicación),21.85563,111.96272,Guangdong,Q59209,False
+jingmen,Jingmen,荆门市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2596927,2020,Wikidata (censo 2020 de la NBS salvo indicación),31.038055555,112.211388888,Hubei,Q71323,False
+chaozhou,Chaozhou,潮州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2568387,2020,Wikidata (censo 2020 de la NBS salvo indicación),23.67,116.63,Guangdong,Q59227,False
+dingxi,Dingxi,定西市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2524097,2020,Wikidata (censo 2020 de la NBS salvo indicación),35.580611,104.626278,Gansu,Q186006,False
+lishui,Lishui,丽水市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2507396,2020,Wikidata (censo 2020 de la NBS salvo indicación),28.45,119.916666666,Zhejiang,Q58294,False
+xuancheng,Xuancheng,宣城市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2500063,2020,Wikidata (censo 2020 de la NBS salvo indicación),30.94751,118.75178,Anhui,Q360942,False
+ankang,Ankang,安康市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2493436,2020,Wikidata (censo 2020 de la NBS salvo indicación),32.68774,109.02352,Shaanxi,Q515846,False
+zigong,Zigong,自贡市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2489256,2020,Wikidata (censo 2020 de la NBS salvo indicación),29.349842,104.764514,Sichuan,Q29015,False
+sanming,Sanming,三明市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2486450,2020,Wikidata (censo 2020 de la NBS salvo indicación),26.2658,117.63017,Fujian,Q68614,False
+anshun,Anshun,安顺市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2470630,2020,Wikidata (censo 2020 de la NBS salvo indicación),26.24562,105.93401,Guizhou,Q486149,False
+huangshi,Huangshi,黃石市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2469079,2020,Wikidata (censo 2020 de la NBS salvo indicación),30.20178,115.03262,Hubei,Q71204,False
+xining,Xining,西宁市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2467965,2020,Wikidata (censo 2020 de la NBS salvo indicación),36.62386,101.77866,Qinghai,Q69060,False
+zhuhai,Zhuhai,珠海市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2439585,2020,Wikidata (censo 2020 de la NBS salvo indicación),22.274166666,113.571944444,Guangdong,Q59095,False
+huludao,Huludao,葫芦岛市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2434194,2020,Wikidata (censo 2020 de la NBS salvo indicación),40.709444444,120.837777777,Liaoning,Q75379,False
+baoshan,Baoshan,保山市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2431211,2020,Wikidata (censo 2020 de la NBS salvo indicación),25.12105,99.16905,Yunnan,Q496576,False
+longnan,Longnan,陇南市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2407272,2020,Wikidata (censo 2020 de la NBS salvo indicación),33.535,105.349,Gansu,Q519810,False
+pu_er,Pu'er,普洱市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2404954,2020,Wikidata (censo 2020 de la NBS salvo indicación),22.78028,100.96981,Yunnan,Q496765,False
+tieling,Tieling,铁岭市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2388294,2020,Wikidata (censo 2020 de la NBS salvo indicación),42.28407,123.83654,Liaoning,Q75268,False
+yunfu,Yunfu,云浮市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2383350,2020,Wikidata (censo 2020 de la NBS salvo indicación),22.92423,112.03526,Guangdong,Q59233,False
+luohe,Luohe,漯河市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2367490,2020,Wikidata (censo 2020 de la NBS salvo indicación),33.58299,114.0109,Henan,Q404599,False
+yingkou,Yingkou,营口市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2328582,2020,Wikidata (censo 2020 de la NBS salvo indicación),40.66525,122.22972,Liaoning,Q75150,False
+ziyang,Ziyang,资阳市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2308631,2020,Wikidata (censo 2020 de la NBS salvo indicación),30.12562,104.63974,Sichuan,Q207030,False
+guangyuan,Guangyuan,广元市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2305657,2020,Wikidata (censo 2020 de la NBS salvo indicación),32.43529,105.83985,Sichuan,Q426237,False
+mudanjiang,Mudanjiang,牡丹江市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2290208,2020,Wikidata (censo 2020 de la NBS salvo indicación),44.586111,129.599722,Heilongjiang,Q217646,False
+yan_an,Yan'an,延安市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2282581,2020,Wikidata (censo 2020 de la NBS salvo indicación),36.59523,109.48628,Shaanxi,Q515388,False
+quzhou,Quzhou,衢州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2276184,2020,Wikidata (censo 2020 de la NBS salvo indicación),28.95445,118.8763,Zhejiang,Q58235,False
+lincang,Lincang,临沧市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2257991,2020,Wikidata (censo 2020 de la NBS salvo indicación),23.88643,100.0871,Yunnan,Q496837,False
+songyuan,Songyuan,松原市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2252994,2020,Wikidata (censo 2020 de la NBS salvo indicación),45.1388,124.808,Jilin,Q92364,False
+yuxi,Yuxi,玉溪市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2249502,2020,Wikidata (censo 2020 de la NBS salvo indicación),24.34953,102.54317,Yunnan,Q496496,False
+hulunbuir,Hulun Buir,呼伦贝尔市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2242875,2020,Wikidata (censo 2020 de la NBS salvo indicación),49.21534,119.75097,Inner Mongolia,Q571033,False
+jincheng,Jincheng,晋城市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2194545,2020,Wikidata (censo 2020 de la NBS salvo indicación),35.49056,112.8483,Shanxi,Q72990,False
+dongying,Dongying,东营市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2193518,2020,Wikidata (censo 2020 de la NBS salvo indicación),37.45,118.466666666,Shandong,Q372414,False
+dandong,Dandong,丹东市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2188436,2020,Wikidata (censo 2020 de la NBS salvo indicación),40.116666666,124.383333333,Liaoning,Q75110,False
+qingyang,Qingyang,庆阳市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2179716,2020,Wikidata (censo 2020 de la NBS salvo indicación),35.727777777,107.64,Gansu,Q533764,False
+ma_anshan,Maanshan,马鞍山市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2159930,2020,Wikidata (censo 2020 de la NBS salvo indicación),31.68579,118.51008,Anhui,Q360235,False
+jiamusi,Jiamusi,佳木斯市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2156505,2020,Wikidata (censo 2020 de la NBS salvo indicación),46.80808,130.36531,Heilongjiang,Q29003,False
+ordos,Ordos,鄂尔多斯市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2153638,2020,Wikidata (censo 2020 de la NBS salvo indicación),39.815,109.9975,Inner Mongolia,Q570937,False
+chongzuo,Chongzuo,崇左市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2088692,2020,Wikidata (censo 2020 de la NBS salvo indicación),22.416666666,107.366666666,Guangxi,Q572231,False
+laibin,Laibin,来宾市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2074611,2020,Wikidata (censo 2020 de la NBS salvo indicación),23.733333333,109.233333333,Guangxi,Q572140,False
+suizhou,Suizhou,随州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2047923,2020,Wikidata (censo 2020 de la NBS salvo indicación),31.71755,113.3658,Hubei,Q71401,False
+shangluo,Shangluo,商洛市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2041231,2020,Wikidata (censo 2020 de la NBS salvo indicación),33.86805,109.92445,Shaanxi,Q515983,False
+sanmenxia,Sanmenxia,三門峽市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2034872,2020,Wikidata (censo 2020 de la NBS salvo indicación),34.77362,111.19497,Henan,Q404636,False
+hezhou,Hezhou,贺州市,CHN,Ciudad de nivel de prefectura,Alcalde/sa (y secretario/a del Partido),2007858,2020,Wikidata (censo 2020 de la NBS salvo indicación),24.416388888,111.547777777,Guangxi,Q572014,False

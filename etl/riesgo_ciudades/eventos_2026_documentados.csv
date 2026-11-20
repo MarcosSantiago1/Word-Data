@@ -1,0 +1,6 @@
+ciudad_id,ciudad,fecha,evento,muertos,heridos,viv_destruidas,viv_afectadas,damnificados_familias,nota,fuente
+cali,Santiago de Cali,2026-08-10,"Sismo (M7,4, epicentro en San José del Palmar, Chocó)",154.0,1517.0,,12000.0,45139.0,26 estructuras colapsadas; 765 edificaciones inhabitables; cerca de 200 IPS afectadas,"Alcaldía de Cali (repositorio oficial del terremoto), El País Cali 5-sep-2026, Publimetro 10-sep-2026"
+medellin,Medellín,2026-08-10,"Sismo (M7,4, Chocó)",0.0,,0.0,,,Daños leves; 16 viviendas evacuadas; metro suspendido unas horas,"Publimetro Medellín 14-ago-2026, Asocapitales"
+bogota,Bogotá D.C.,2026-08-10,"Sismo (M7,4, Chocó)",,,,,,Daños menores reportados,"Asocapitales, prensa"
+caracas,Caracas (Municipio Libertador),2026-06-24,"Doble sismo (Mw 7,2 y 7,5, centro-norte de Venezuela)",,,,,,"Edificios colapsados en San Bernardino (Marama) y Chacao; más de 2.600 muertes en el país (Reuters, 3-jul-2026); sin cifra oficial para el Municipio Libertador","CNN en Español, France 24, Reuters, Wikipedia (Terremotos de Venezuela de 2026)"
+caracas,Caracas (Municipio Libertador),2026-08-23,Lluvias intensas (dos semanas),5.0,,,,,29 deslizamientos y 45 vías inundadas,"El Diario (Caracas) 28-ago-2026, NTN24"

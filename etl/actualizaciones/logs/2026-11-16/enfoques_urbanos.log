@@ -1,0 +1,10 @@
+
+$ python enfoques_urbanos/construir_enfoques.py
+  aviso: no se pudo actualizar tugurios y saneamiento (HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=120)); uso la copia guardada
+11035 municipios con vivienda informal (BRA: 5570, MEX: 2467, PER: 1875, COL: 1122, ARG: 1)
+375 ciudades; 33 indicadores; k=5 tipos (silueta 0.32); 69 reportan a CDP
+  Producción del riesgo: 375 ciudades con índice
+  Vulnerabilidad socio-espacial: 369 ciudades con índice
+  Presión metabólica: 375 ciudades con índice
+  Déficit de gobernanza: 370 ciudades con índice
+  Precariedad habitacional (subíndice): 375 ciudades con índice

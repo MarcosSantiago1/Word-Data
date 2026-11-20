@@ -1,0 +1,44 @@
+
+$ python riesgo_ciudades_mundo/actualizar_mundo.py
+> bajar_ghsl.py
+bajado GENERAL_CHARACTERISTICS V1-2
+bajado HAZARD_RISK V1-2
+bajado EXPOSURE V1-2
+bajado CLIMATE V1-2
+bajado INFRASTRUCTURES V1-2
+bajado SOCIOECONOMIC V1-2
+bajado GEOGRAPHY V1-2
+bajado EMISSIONS V1-2
+bajado GHSL V1-2
+bajado GREENNESS V1-2
+bajado HEALTH V1-2
+bajado LULC V1-2
+bajado NATURAL_SYSTEMS V1-2
+bajado SDG V1-2
+bajado WATER V1-2
+GHSL listo
+> armar_lista.py wikidata ciudades_mundo.csv
+375 ciudades; 234 de China; 66 países
+> unir_ghsl.py ghsl ciudades_mundo.csv ghsl_ciudades.csv
+375 ciudades; 0 sin centro urbano; 16 por cercanía
+> sismos_usgs.py ciudades_mundo.csv sismos_ciudades.csv
+375 ciudades con historial sísmico
+> indicadores_pais.py datos paises_anual.csv
+66 países
+> generar_mundo.py riesgo_ciudades_mundo --sin-xlsm
+validación con las 16 hechas a mano: correlación 0.61 | error medio absoluto 36.8 puntos de 590
+> resumen_mundo.py riesgo_ciudades_mundo
+ok 375 ciudades; Spearman puntaje vs índice de amenaza 0.02
+                                                ciudad        pais  indice_amenaza  total_pct  prioridad
+109                                             Rangún     Myanmar        0.760167         24      0.580
+78                                          Chittagong   Bangladés        0.867833         38      0.540
+79                                             Gazipur   Bangladés        0.803667         38      0.500
+13   Caracas (Municipio Libertador / Distrito Capital)   Venezuela        0.690500         28      0.495
+69                                             Karachi    Pakistán        0.680167         29      0.480
+77                                            Daca Sur   Bangladés        0.809167         42      0.466
+76                                          Daca Norte   Bangladés        0.803667         43      0.462
+52                                               Kabul  Afganistán        0.558167         17      0.461
+72                                          Rawalpindi    Pakistán        0.662667         32      0.450
+6                                            Guayaquil     Ecuador        0.699333         37      0.442
+115                                           Omdurmán       Sudán        0.491833         10      0.441
+114                                             Jartum       Sudán        0.491833         12      0.433

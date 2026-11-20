@@ -1,0 +1,80 @@
+ciudad_id,ciudad,anio,moneda,fuente,concepto,gasto_riesgo,gasto_total,poblacion,pct_gasto_total,gasto_riesgo_por_hab,nota
+sao_paulo,São Paulo,2015,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,25390654.95,42300077867.1,11895893,0.06,2.13,
+sao_paulo,São Paulo,2016,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,27435553.74,46035959065.15,11967825,0.06,2.29,
+sao_paulo,São Paulo,2017,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,29121977.34,47365369737.15,12038175,0.061,2.42,
+sao_paulo,São Paulo,2018,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,32503261.7,49790954521.27,12038175,0.065,2.7,
+sao_paulo,São Paulo,2019,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,31283439.69,53301072672.78,12176866,0.059,2.57,
+sao_paulo,São Paulo,2020,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,31955868.92,56594275417.75,12252023,0.056,2.61,
+sao_paulo,São Paulo,2021,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,37208514.51,64020269653.53,12325232,0.058,3.02,
+sao_paulo,São Paulo,2022,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,37936832.89,74464163362.3,12396372,0.051,3.06,
+sao_paulo,São Paulo,2023,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,40570099.87,87862632997.39,12396372,0.046,3.27,
+sao_paulo,São Paulo,2024,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,67746976.92,105990100317.04,12200180,0.064,5.55,
+rio,Rio de Janeiro,2015,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,3138616.58,23993288857.15,6453682,0.013,0.49,
+rio,Rio de Janeiro,2016,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,2520404.24,25080754913.64,6476631,0.01,0.39,
+rio,Rio de Janeiro,2017,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,1972062.96,21943190772.93,6498837,0.009,0.3,
+rio,Rio de Janeiro,2018,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,1894049.89,22492172146.91,6498837,0.008,0.29,
+rio,Rio de Janeiro,2019,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,1716645.16,24552131199.06,6688927,0.007,0.26,
+rio,Rio de Janeiro,2020,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,914733.03,23318356031.79,6718903,0.004,0.14,
+rio,Rio de Janeiro,2021,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,1148003.87,25929167816.43,6747815,0.004,0.17,
+rio,Rio de Janeiro,2022,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,2408814.33,31714540946.15,6775561,0.008,0.36,
+rio,Rio de Janeiro,2023,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,2468372.44,35643331904.08,6775561,0.007,0.36,
+rio,Rio de Janeiro,2024,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,2683960.47,38848837385.73,6625849,0.007,0.41,
+brasilia,Brasília (Distrito Federal),2015,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,0.0,26650196732.2,2852372,0.0,0.0,"No comparable: la Defensa Civil y los bomberos del DF se pagan con el Fondo Constitucional (federal), fuera de este presupuesto"
+brasilia,Brasília (Distrito Federal),2016,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,0.0,23650140721.76,2914830,0.0,0.0,"No comparable: la Defensa Civil y los bomberos del DF se pagan con el Fondo Constitucional (federal), fuera de este presupuesto"
+brasilia,Brasília (Distrito Federal),2017,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,0.0,19028512282.58,2977216,0.0,0.0,"No comparable: la Defensa Civil y los bomberos del DF se pagan con el Fondo Constitucional (federal), fuera de este presupuesto"
+brasilia,Brasília (Distrito Federal),2018,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,0.0,21831491078.82,2977216,0.0,0.0,"No comparable: la Defensa Civil y los bomberos del DF se pagan con el Fondo Constitucional (federal), fuera de este presupuesto"
+brasilia,Brasília (Distrito Federal),2019,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,0.0,21902120056.43,2974703,0.0,0.0,"No comparable: la Defensa Civil y los bomberos del DF se pagan con el Fondo Constitucional (federal), fuera de este presupuesto"
+brasilia,Brasília (Distrito Federal),2020,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,1021101.18,22267969385.58,3015268,0.005,0.34,"No comparable: la Defensa Civil y los bomberos del DF se pagan con el Fondo Constitucional (federal), fuera de este presupuesto"
+brasilia,Brasília (Distrito Federal),2021,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,0.0,25366537262.59,3055149,0.0,0.0,"No comparable: la Defensa Civil y los bomberos del DF se pagan con el Fondo Constitucional (federal), fuera de este presupuesto"
+brasilia,Brasília (Distrito Federal),2022,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,98920.5,29714588540.56,3094325,0.0,0.03,"No comparable: la Defensa Civil y los bomberos del DF se pagan con el Fondo Constitucional (federal), fuera de este presupuesto"
+brasilia,Brasília (Distrito Federal),2023,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,8951.98,29060115830.71,3094325,0.0,0.0,"No comparable: la Defensa Civil y los bomberos del DF se pagan con el Fondo Constitucional (federal), fuera de este presupuesto"
+brasilia,Brasília (Distrito Federal),2024,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,23024.35,35303270142.74,2923369,0.0,0.01,"No comparable: la Defensa Civil y los bomberos del DF se pagan con el Fondo Constitucional (federal), fuera de este presupuesto"
+salvador,Salvador,2015,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,331439.4,4907218425.68,2902927,0.007,0.11,No comparable: Codesal no registra gasto en la subfunción 06.182 (lo imputa a administración general u obras)
+salvador,Salvador,2016,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,3246.4,5171702794.92,2921087,0.0,0.0,No comparable: Codesal no registra gasto en la subfunción 06.182 (lo imputa a administración general u obras)
+salvador,Salvador,2017,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,94874.5,5196047319.78,2938092,0.002,0.03,No comparable: Codesal no registra gasto en la subfunción 06.182 (lo imputa a administración general u obras)
+salvador,Salvador,2018,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,206153.72,5776659581.1,2938092,0.004,0.07,No comparable: Codesal no registra gasto en la subfunción 06.182 (lo imputa a administración general u obras)
+salvador,Salvador,2019,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,175010.1,6258722031.09,2857329,0.003,0.06,No comparable: Codesal no registra gasto en la subfunción 06.182 (lo imputa a administración general u obras)
+salvador,Salvador,2020,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,159526.99,7083169081.58,2872347,0.002,0.06,No comparable: Codesal no registra gasto en la subfunción 06.182 (lo imputa a administración general u obras)
+salvador,Salvador,2021,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,350613.0,6947980302.34,2886698,0.005,0.12,No comparable: Codesal no registra gasto en la subfunción 06.182 (lo imputa a administración general u obras)
+salvador,Salvador,2022,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,0.0,8325975271.22,2900319,0.0,0.0,No comparable: Codesal no registra gasto en la subfunción 06.182 (lo imputa a administración general u obras)
+salvador,Salvador,2023,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,0.0,10060106631.72,2900319,0.0,0.0,No comparable: Codesal no registra gasto en la subfunción 06.182 (lo imputa a administración general u obras)
+salvador,Salvador,2024,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,0.0,11942140067.18,2610987,0.0,0.0,No comparable: Codesal no registra gasto en la subfunción 06.182 (lo imputa a administración general u obras)
+fortaleza,Fortaleza,2015,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,2127630.0,5107863849.01,2571896,0.042,0.83,
+fortaleza,Fortaleza,2016,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,2777608.5,5616081967.07,2591188,0.049,1.07,
+fortaleza,Fortaleza,2017,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,1091160.0,5937929881.9,2609716,0.018,0.42,
+fortaleza,Fortaleza,2018,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,410270.06,6331938733.37,2609716,0.006,0.16,
+fortaleza,Fortaleza,2019,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,2995512.0,7365302752.91,2643247,0.041,1.13,
+fortaleza,Fortaleza,2020,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,983932.2,8133005529.82,2669342,0.012,0.37,
+fortaleza,Fortaleza,2021,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,518475.0,8169758846.88,2686612,0.006,0.19,
+fortaleza,Fortaleza,2022,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,1242251.12,9411596860.9,2703391,0.013,0.46,
+fortaleza,Fortaleza,2023,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,905118.0,11241771759.35,2703391,0.008,0.33,
+fortaleza,Fortaleza,2024,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,810090.05,13076345058.61,2596157,0.006,0.31,
+belo_horizonte,Belo Horizonte,2015,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,3135910.81,8045613157.57,2491109,0.039,1.26,
+belo_horizonte,Belo Horizonte,2016,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,3149440.11,8138258005.86,2502557,0.039,1.26,
+belo_horizonte,Belo Horizonte,2017,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,3629136.23,8453919234.04,2513451,0.043,1.44,
+belo_horizonte,Belo Horizonte,2018,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,3693626.73,8797331691.99,2513451,0.042,1.47,
+belo_horizonte,Belo Horizonte,2019,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,3596967.51,9929425581.95,2501576,0.036,1.44,
+belo_horizonte,Belo Horizonte,2020,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,4096187.58,10576961325.19,2512070,0.039,1.63,
+belo_horizonte,Belo Horizonte,2021,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,4102723.72,11423821428.61,2521564,0.036,1.63,
+belo_horizonte,Belo Horizonte,2022,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,9760533.91,12822731520.29,2530701,0.076,3.86,
+belo_horizonte,Belo Horizonte,2023,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,22981675.9,14607959001.02,2530701,0.157,9.08,
+belo_horizonte,Belo Horizonte,2024,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,27999566.15,17293281249.81,2392678,0.162,11.7,
+manaus,Manaus,2015,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,2020185.79,3911578105.7,2020301,0.052,1.0,
+manaus,Manaus,2016,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,363577.2,4068829415.88,2057711,0.009,0.18,
+manaus,Manaus,2017,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,547543.75,4108985311.81,2094391,0.013,0.26,
+manaus,Manaus,2018,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,202133.12,4485447473.56,2094391,0.005,0.1,
+manaus,Manaus,2019,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,531567.16,5322268721.5,2145444,0.01,0.25,
+manaus,Manaus,2020,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,608941.76,6092257160.97,2182763,0.01,0.28,
+manaus,Manaus,2021,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,2146594.81,5812854901.86,2219580,0.037,0.97,
+manaus,Manaus,2022,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,719541.91,7590960866.61,2255903,0.009,0.32,
+manaus,Manaus,2023,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,5300589.33,8755645448.28,2255903,0.061,2.35,
+manaus,Manaus,2024,BRL,SICONFI DCA Anexo I-E (liquidado),Subfunción 06.182 Defesa Civil,9773397.72,10178440652.78,2054731,0.096,4.76,
+bogota,Bogotá D.C.,2023,COP,"CUIPO ejecución de gastos (obligaciones, vigencia actual)",Programa MGA 4503 Prevención y atención de desastres y emergencias,28050804913.0,153902951117085.0,7918660,0.018,3542.37,Incluye IDIGER y bomberos (Bogotá informa consolidado); 2024 sube por obras de reducción del riesgo
+bogota,Bogotá D.C.,2024,COP,"CUIPO ejecución de gastos (obligaciones, vigencia actual)",Programa MGA 4503 Prevención y atención de desastres y emergencias,191554046259.0,168579616869901.0,7918660,0.114,24190.21,Incluye IDIGER y bomberos (Bogotá informa consolidado); 2024 sube por obras de reducción del riesgo
+bogota,Bogotá D.C.,2025,COP,"CUIPO ejecución de gastos (obligaciones, vigencia actual)",Programa MGA 4503 Prevención y atención de desastres y emergencias,54942199776.0,189376227412213.0,7918660,0.029,6938.32,Incluye IDIGER y bomberos (Bogotá informa consolidado); 2024 sube por obras de reducción del riesgo
+medellin,Medellín,2023,COP,"CUIPO ejecución de gastos (obligaciones, vigencia actual)",Programa MGA 4503 Prevención y atención de desastres y emergencias,26460194830.0,44483460540898.0,2524747,0.059,10480.34,
+medellin,Medellín,2024,COP,"CUIPO ejecución de gastos (obligaciones, vigencia actual)",Programa MGA 4503 Prevención y atención de desastres y emergencias,28109465953.0,58712715120476.0,2524747,0.048,11133.58,
+medellin,Medellín,2025,COP,"CUIPO ejecución de gastos (obligaciones, vigencia actual)",Programa MGA 4503 Prevención y atención de desastres y emergencias,49709777769.0,66737271703822.0,2524747,0.074,19689.01,
+cali,Santiago de Cali,2023,COP,"CUIPO ejecución de gastos (obligaciones, vigencia actual)",Programa MGA 4503 Prevención y atención de desastres y emergencias,40752988703.0,31897490022644.0,2283846,0.128,17844.02,
+cali,Santiago de Cali,2024,COP,"CUIPO ejecución de gastos (obligaciones, vigencia actual)",Programa MGA 4503 Prevención y atención de desastres y emergencias,45783750976.0,35866328015010.0,2283846,0.128,20046.78,
+cali,Santiago de Cali,2025,COP,"CUIPO ejecución de gastos (obligaciones, vigencia actual)",Programa MGA 4503 Prevención y atención de desastres y emergencias,57085044206.0,40049822591878.0,2283846,0.143,24995.14,
