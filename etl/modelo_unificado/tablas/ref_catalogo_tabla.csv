@@ -26,7 +26,7 @@ hecho_pais_capital_social,hecho,"pais_id, anio","CEPALSTAT (Latinobarómetro), O
 hecho_pais_diversidad_cultural,hecho,"pais_id, anio",Comparative Constitutions Project v5,fuentes_nuevas/pais_diversidad_cultural_anual.csv,4506,2000.0,2023.0
 hecho_pais_poblacion_indigena,hecho,"pais_id, decada_censal","CEPALSTAT / CELADE, censos de población",fuentes_nuevas/pais_poblacion_indigena.csv,30,2000.0,2020.0
 hecho_pais_institucional_gobernanza,hecho,"pais_id, anio","Banco Mundial WGI, V-Dem v16, BID DPI 2020",fuentes_nuevas/pais_gobernanza_anual.csv,5317,2000.0,2025.0
-hecho_pais_financiero_deuda,hecho,"pais_id, anio","Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",fuentes_nuevas/pais_financiero_deuda_anual.csv,5480,2000.0,2026.0
+hecho_pais_financiero_deuda,hecho,"pais_id, anio","Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",fuentes_nuevas/pais_financiero_deuda_anual.csv,5485,2000.0,2026.0
 hecho_pais_salud_cronica,hecho,"pais_id, anio","Banco Mundial, OMS GHO, OMS GHE 2021 vía OWID (AVAD)",fuentes_nuevas/pais_salud_cronica_anual.csv,5044,2000.0,2024.0
 hecho_pais_tecnologia,hecho,"pais_id, anio","Banco Mundial (UIT, UNESCO), OCDE ICT hogares",fuentes_nuevas/pais_tecnologia_anual.csv,5122,2000.0,2025.0
 hecho_pais_educacion,hecho,"pais_id, anio","Banco Mundial (UNESCO-UIS: alfabetización, nivel alcanzado; Índice de Capital Humano)",indicadores_sociales_digitales/pais_educacion_anual.csv,2727,2000.0,2025.0
@@ -35,6 +35,7 @@ hecho_pais_empleo_sectorial,hecho,"pais_id, anio",OIT (estimaciones modeladas; e
 hecho_pais_gasto_cultura,hecho,"pais_id, anio","FMI GFS COFOG; OCDE Government at a Glance (Chile, Colombia y US$ PPA)",indicadores_sociales_digitales/pais_gasto_cultura_anual.csv,1702,2000.0,2025.0
 hecho_pais_deporte_olimpico,hecho,"pais_id, anio","Olympedia: medallero y atletas por edición (verano en años pares de JJ. OO., invierno en los otros; Tokio 2020 se jugó en 2021)",indicadores_sociales_digitales/pais_deporte_olimpico.csv,2016,2000.0,2026.0
 hecho_pais_consolas_comercio,hecho,"pais_id, anio","UN Comtrade, consolas de videojuegos HS 950450 (HS 950410 hasta 2011)",indicadores_sociales_digitales/pais_consolas_comercio_anual.csv,3938,2000.0,2025.0
+hecho_pais_metro,hecho,"pais_id, anio","Wikipedia, List of metro systems (foto anual del largo de cada red)",metro_ciudades/datos/pais_metro_anual.csv,65,2026.0,2026.0
 hecho_pais_suicidio,hecho,"pais_id, anio, sexo","OMS GHO: MH_12 (tasa estandarizada por edad, con intervalo) y SDGSUICIDE (tasa cruda)",suicidio_estandarizado/suicidio_estandarizado_largo.csv,13320,2000.0,2023.0
 hecho_pais_suicidio_edad,hecho,"pais_id, anio, sexo, grupo_edad",OMS GHO: SDGSUICIDE por grupo de edad (solo 2021; los grupos se superponen: 15-29 incluye 15-19),suicidio_estandarizado/suicidio_por_edad_largo.csv,6105,2021.0,2021.0
 hecho_subdivision_poblacion,hecho,"subdivision_id, anio","INDEC, proyecciones de población base Censo 2010",argentina_provincias/poblacion_provincia_anual.csv,744,2010.0,2040.0

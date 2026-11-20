@@ -40,6 +40,7 @@ AQUI = Path(__file__).resolve().parent
 ETL = AQUI.parent
 MASTER = ETL / "modelo_unificado" / "master_paises_provincias.sqlite"
 LATAM = ETL / "latam_subnacional"
+METRO_SUB = ETL / "metro_ciudades" / "datos" / "metro_subdivision_anual.csv"
 LEER = dict(keep_default_na=False, na_values=[""], low_memory=False)  # "NA" es Namibia, no un nulo
 
 SIN_ANIO = "sin_anio"
@@ -303,6 +304,15 @@ def construir():
             df = df[df["pais_iso3"] != "ARG"]
         vars_ = [c for c in df.columns if c not in NO_VARIABLE | {"pais_iso3", "subdivision_codigo"}]
         partes.append(a_largo(df, "subdivision", tema, fuente, vars_, "anio", nombres=nombres))
+
+    # Metro / subte de Latinoamérica por subdivisión (metro_ciudades/extraer_metro.py); solo las del master
+    if METRO_SUB.exists():
+        df = pd.read_csv(METRO_SUB, **LEER).rename(columns={"iso3": "pais_iso3", "subdivision_iso": "subdivision_codigo"})
+        df = df[df["subdivision_codigo"].isin(subdivs["subdivision_codigo"])]
+        partes.append(a_largo(df, "subdivision", "metro", "Wikipedia, List of metro systems (red ubicada en la subdivisión)",
+                              ["metro_km", "metro_m", "metro_sistemas", "metro_estaciones"], "anio",
+                              unidades={"metro_km": "km", "metro_m": "metros", "metro_sistemas": "sistemas",
+                                        "metro_estaciones": "estaciones"}))
 
     # Agro y ganado de los otros países, con los nombres de las tablas de Argentina
     df = pd.read_csv(LATAM / "agricultura_subdivision_anual.csv", **LEER).rename(

@@ -73,6 +73,8 @@ COMPLEMENTOS = [
      ["subdivision_id", "anio", "especie_original"], "MAGyP/SENASA, IBGE y otros (formato común)"),
     ("hecho_subdivision_latam_petroleo_gas", "latam_subnacional/petroleo_gas_subdivision_anual.csv",
      ["subdivision_id", "anio"], "Secretaría de Energía, ANP y otros (formato común)"),
+    ("hecho_subdivision_metro", "metro_ciudades/datos/metro_subdivision_anual.csv",
+     ["subdivision_id", "anio"], "Wikipedia, List of metro systems (red ubicada en la subdivisión)"),
     ("hecho_subdivision_festivales", "argentina_provincias/festivales_provincia.csv",
      ["subdivision_id"], "Festivales Argentinos 2023 y relevamientos provinciales"),
     ("ref_festival", "argentina_provincias/festivales_lista.csv",

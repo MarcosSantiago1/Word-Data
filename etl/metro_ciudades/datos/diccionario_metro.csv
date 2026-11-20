@@ -1,0 +1,21 @@
+archivo,columna,descripcion,unidad
+metro_ciudades.csv,ciudad_id,id de la ciudad en riesgo_ciudades_mundo/datos/ciudades_mundo.csv,
+metro_ciudades.csv,tiene_metro,1 si la ciudad tiene al menos un sistema de metro en la lista de Wikipedia,0/1
+metro_ciudades.csv,metro_km,largo total de los sistemas de metro que sirven a la ciudad (0 = sin metro),km
+metro_ciudades.csv,metro_m,lo mismo en metros,m
+metro_ciudades.csv,n_sistemas,cantidad de sistemas de metro sumados,sistemas
+metro_ciudades.csv,sistemas,"nombres de los sistemas (Wikipedia, en inglés)",
+metro_ciudades.csv,estaciones,estaciones de todos los sistemas,estaciones
+metro_ciudades.csv,anio_apertura,año en que abrió el primer sistema,año
+metro_ciudades.csv,anio_ultima_ampliacion,año de la última ampliación de la red,año
+metro_ciudades.csv,pasajeros_anuales_millones,viajes por año (suma de los sistemas con dato),millones
+metro_ciudades.csv,metro_km_por_millon_hab,km de metro por millón de habitantes del gobierno local,km/millón hab.
+metro_ciudades.csv,pasajeros_por_hab,viajes en metro por habitante y año,viajes/hab.
+metro_ciudades.csv,anio_dato,año de la consulta a Wikipedia (el largo es el vigente ese año),año
+metro_paises.csv,metro_km,"largo de todos los metros del país, estén o no en una de las 375 ciudades",km
+metro_paises.csv,metro_ciudades,ciudades del país con metro,ciudades
+metro_paises.csv,metro_km_por_millon_hab,"km por millón de habitantes (población Banco Mundial, último año)",km/millón hab.
+metro_subdivision_anual.csv,metro_km,km de metro de las redes latinoamericanas ubicadas en la subdivisión,km
+pais_metro_anual.csv,anio,año de la foto; la serie crece con cada corrida mensual,año
+sistemas_metro_mundo.csv,asignacion,"cómo se unió a la ciudad: código Wikidata, ciudad más cercana del país (≤25 km), a mano, o sin ciudad de la lista",
+sistemas_metro_mundo.csv,distancia_km,distancia entre el centro de la ciudad del sistema y la ciudad asignada,km

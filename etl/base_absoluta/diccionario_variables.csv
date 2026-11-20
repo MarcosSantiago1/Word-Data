@@ -65,18 +65,18 @@ pais,empleo_sectorial,empleo_construccion_modelado_miles_personas,miles de perso
 pais,empleo_sectorial,empleo_juegos_azar_apuestas_miles_personas,miles de personas,OIT (estimaciones modeladas; encuestas de hogares a 2 dígitos CIIU rev. 4),1,117,0,2000,2025,1020
 pais,empleo_sectorial,empleo_total_encuesta_miles_personas,miles de personas,OIT (estimaciones modeladas; encuestas de hogares a 2 dígitos CIIU rev. 4),1,155,0,2000,2025,1406
 pais,empleo_sectorial,empleo_total_modelado_miles_personas,miles de personas,OIT (estimaciones modeladas; encuestas de hogares a 2 dígitos CIIU rev. 4),1,188,0,2000,2025,4874
-pais,financiero_deuda,deuda_externa_corto_plazo_pct,%,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,121,0,2000,2024,2970
-pais,financiero_deuda,deuda_externa_ids_usd,US$,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,121,0,2000,2024,2958
-pais,financiero_deuda,deuda_externa_pct_ingreso_nacional,%,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,121,0,2000,2024,2916
-pais,financiero_deuda,deuda_externa_pct_pib,,cálculo propio (vista v_pais_financiero_deuda del master),1,175,0,2000,2025,4113
+pais,financiero_deuda,deuda_externa_corto_plazo_pct,%,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,122,0,2000,2025,3097
+pais,financiero_deuda,deuda_externa_ids_usd,US$,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,122,0,2000,2025,3085
+pais,financiero_deuda,deuda_externa_pct_ingreso_nacional,%,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,122,0,2000,2025,3043
+pais,financiero_deuda,deuda_externa_pct_pib,,cálculo propio (vista v_pais_financiero_deuda del master),1,176,0,2000,2025,4173
 pais,financiero_deuda,deuda_externa_usd,US$,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,128,0,2000,2025,2284
 pais,financiero_deuda,deuda_gobierno_central_pct_pib,% del PIB,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,87,0,2000,2024,1142
 pais,financiero_deuda,intereses_pct_ingresos_fiscales,%,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,154,0,2000,2024,2942
 pais,financiero_deuda,pib_usd,US$,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,214,0,2000,2025,5428
 pais,financiero_deuda,reservas_internacionales_meses_importacion,,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,175,0,2000,2025,4116
 pais,financiero_deuda,reservas_internacionales_usd,US$,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,178,0,2000,2025,4450
-pais,financiero_deuda,reservas_pct_deuda_externa,,cálculo propio (vista v_pais_financiero_deuda del master),1,161,0,2000,2025,3756
-pais,financiero_deuda,servicio_deuda_pct_exportaciones,%,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,120,0,2000,2024,2748
+pais,financiero_deuda,reservas_pct_deuda_externa,,cálculo propio (vista v_pais_financiero_deuda del master),1,162,0,2000,2025,3785
+pais,financiero_deuda,servicio_deuda_pct_exportaciones,%,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,121,0,2000,2025,2875
 pais,financiero_deuda,servicio_deuda_pct_ingreso_nacional,%,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,121,0,2000,2024,2925
 pais,financiero_deuda,spread_embi_meses,,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,8,0,2006,2026,157
 pais,financiero_deuda,spread_embi_pb,puntos básicos,"Banco Mundial (IDS, QEDS al 4.º trimestre), BCRP (EMBIG de J.P. Morgan)",1,8,0,2006,2026,157
@@ -152,6 +152,10 @@ pais,kpis,kpi4_fracc_etnica,,calcular_kpis.py (KPI4_SOC_TENSION_ITID.csv),1,130,
 pais,kpis,kpi4_fracc_religiosa,,calcular_kpis.py (KPI4_SOC_TENSION_ITID.csv),1,130,0,,,130
 pais,kpis,kpi4_itid,,calcular_kpis.py (KPI4_SOC_TENSION_ITID.csv),1,130,0,,,130
 pais,kpis,kpi4_tipo_regimen,,calcular_kpis.py (KPI4_SOC_TENSION_ITID.csv),1,130,0,,,130
+pais,metro,metro_km,km,"Wikipedia, List of metro systems (foto anual del largo de cada red)",1,65,0,2026,2026,65
+pais,metro,metro_km_por_millon_hab,por millón de hab.,"Wikipedia, List of metro systems (foto anual del largo de cada red)",1,64,0,2026,2026,64
+pais,metro,metro_m,metros,"Wikipedia, List of metro systems (foto anual del largo de cada red)",1,65,0,2026,2026,65
+pais,metro,metro_sistemas,,"Wikipedia, List of metro systems (foto anual del largo de cada red)",1,65,0,2026,2026,65
 pais,migracion,remesas_enviadas_pct_pib,,cálculo propio (vista v_pais_migracion_anual del master),1,195,0,2000,2025,4408
 pais,migracion,remesas_enviadas_usd,US$,Banco Mundial (ONU WPP 2024; remesas de balanza de pagos FMI),1,195,0,2000,2025,4423
 pais,migracion,remesas_netas_usd,,cálculo propio (vista v_pais_migracion_anual del master),1,191,0,2000,2025,4307
@@ -413,7 +417,7 @@ subdivision,ganaderia,vaquillonas,,"MAGyP / SENASA, stock bovino al 31-12",1,1,2
 subdivision,gobierno,anio_ultima_eleccion,,electorAr + carga manual,1,1,24,1984,2026,1011
 subdivision,gobierno,familia_politica_gobierno,,electorAr + carga manual,1,1,24,1984,2026,1011
 subdivision,gobierno,ganador_ultima_eleccion,,electorAr + carga manual,1,1,24,1984,2026,1011
-subdivision,gobierno,gobernante,,Wikidata (gobernante al cierre de cada año),1,11,163,1980,2026,3257
+subdivision,gobierno,gobernante,,Wikidata (gobernante al cierre de cada año),1,11,163,1980,2026,3262
 subdivision,hidrocarburos,gas_miles_m3_convencional,miles de m³,Secretaría de Energía (SESCO + Capítulo IV),1,1,15,2009,2026,219
 subdivision,hidrocarburos,gas_miles_m3_no_convencional,miles de m³,Secretaría de Energía (SESCO + Capítulo IV),1,1,15,2009,2026,219
 subdivision,hidrocarburos,gas_miles_m3_total,miles de m³,Secretaría de Energía (SESCO + Capítulo IV),1,3,49,1997,2026,820
@@ -422,12 +426,12 @@ subdivision,hidrocarburos,pct_petroleo_en_el_mar,,"Secretaría de Energía, ANP 
 subdivision,hidrocarburos,petroleo_m3_convencional,m³,Secretaría de Energía (SESCO + Capítulo IV),1,1,15,2009,2026,222
 subdivision,hidrocarburos,petroleo_m3_no_convencional,m³,Secretaría de Energía (SESCO + Capítulo IV),1,1,15,2009,2026,222
 subdivision,hidrocarburos,petroleo_m3_total,m³,Secretaría de Energía (SESCO + Capítulo IV),1,3,48,1997,2026,798
-subdivision,identificacion,latitud,,"maestros/subdivisiones_maestro.csv (ISO 3166-2, Wikidata)",1,16,328,,,328
-subdivision,identificacion,longitud,,"maestros/subdivisiones_maestro.csv (ISO 3166-2, Wikidata)",1,16,328,,,328
-subdivision,identificacion,nivel_subdivision,,"maestros/subdivisiones_maestro.csv (ISO 3166-2, Wikidata)",1,17,340,,,340
-subdivision,identificacion,nombre_oficial,,"maestros/subdivisiones_maestro.csv (ISO 3166-2, Wikidata)",1,17,339,,,339
+subdivision,identificacion,latitud,,"maestros/subdivisiones_maestro.csv (ISO 3166-2, Wikidata)",1,17,330,,,330
+subdivision,identificacion,longitud,,"maestros/subdivisiones_maestro.csv (ISO 3166-2, Wikidata)",1,17,330,,,330
+subdivision,identificacion,nivel_subdivision,,"maestros/subdivisiones_maestro.csv (ISO 3166-2, Wikidata)",1,18,342,,,342
+subdivision,identificacion,nombre_oficial,,"maestros/subdivisiones_maestro.csv (ISO 3166-2, Wikidata)",1,18,341,,,341
 subdivision,identificacion,region_subnacional,,"maestros/subdivisiones_maestro.csv (ISO 3166-2, Wikidata)",1,1,24,,,24
-subdivision,identificacion,tipo_subdivision,,"maestros/subdivisiones_maestro.csv (ISO 3166-2, Wikidata)",1,17,340,,,340
+subdivision,identificacion,tipo_subdivision,,"maestros/subdivisiones_maestro.csv (ISO 3166-2, Wikidata)",1,18,342,,,342
 subdivision,kpis,kpi5_anios_misma_familia,,calcular_kpis.py (KPI5_PROV_RENTISMO_IRFH.csv),1,1,24,,,24
 subdivision,kpis,kpi5_familia_gobierno,,calcular_kpis.py (KPI5_PROV_RENTISMO_IRFH.csv),1,1,24,,,24
 subdivision,kpis,kpi5_irfh,,calcular_kpis.py (KPI5_PROV_RENTISMO_IRFH.csv),1,1,24,,,24
@@ -446,6 +450,10 @@ subdivision,legisladores,bancas_pro_juntos_por_el_cambio,,HCDN (diputados) y Sen
 subdivision,legisladores,bancas_radicalismo,,HCDN (diputados) y Senado de la Nación,2,1,24,1984,2026,1432
 subdivision,legisladores,bloque_o_partido_mayoritario,,HCDN (diputados) y Senado de la Nación,2,1,24,1984,2026,1432
 subdivision,legisladores,familia_mayoritaria,,HCDN (diputados) y Senado de la Nación,2,1,24,1984,2026,1432
+subdivision,metro,metro_estaciones,estaciones,"Wikipedia, List of metro systems (red ubicada en la subdivisión)",1,10,21,2026,2026,21
+subdivision,metro,metro_km,km,"Wikipedia, List of metro systems (red ubicada en la subdivisión)",1,10,21,2026,2026,21
+subdivision,metro,metro_m,metros,"Wikipedia, List of metro systems (red ubicada en la subdivisión)",1,10,21,2026,2026,21
+subdivision,metro,metro_sistemas,sistemas,"Wikipedia, List of metro systems (red ubicada en la subdivisión)",1,10,21,2026,2026,21
 subdivision,ocde_regional,camas_hospital_x1000,,"OCDE, Regional Database (TL2)",1,4,108,1995,2025,2014
 subdivision,ocde_regional,esperanza_vida_anios,,"OCDE, Regional Database (TL2)",1,5,129,1990,2024,2770
 subdivision,ocde_regional,homicidios_x100mil,,"OCDE, Regional Database (TL2)",1,4,106,1995,2024,2061

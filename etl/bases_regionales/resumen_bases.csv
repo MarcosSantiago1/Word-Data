@@ -26,7 +26,7 @@ hecho_pais_capital_social,26,652,4570
 hecho_pais_diversidad_cultural,24,792,4506
 hecho_pais_poblacion_indigena,2,30,30
 hecho_pais_institucional_gobernanza,26,948,5317
-hecho_pais_financiero_deuda,27,1024,5480
+hecho_pais_financiero_deuda,27,1024,5485
 hecho_pais_salud_cronica,25,859,5044
 hecho_pais_tecnologia,25,937,5122
 hecho_pais_educacion,16,526,2727
@@ -35,6 +35,7 @@ hecho_pais_empleo_sectorial,26,811,4926
 hecho_pais_gasto_cultura,14,153,1702
 hecho_pais_deporte_olimpico,14,335,2016
 hecho_pais_consolas_comercio,26,729,3938
+hecho_pais_metro,1,10,65
 hecho_pais_suicidio,72,2304,13320
 hecho_pais_suicidio_edad,33,1056,6105
 hecho_subdivision_poblacion,744,744,744
@@ -62,8 +63,9 @@ hecho_subdivision_finanzas_publicas,504,504,504
 hecho_subdivision_ambiental,528,3720,3720
 hecho_subdivision_tecnologia,312,312,312
 hecho_subdivision_latam_ocde,786,5574,5574
-hecho_subdivision_latam_gobierno,711,3257,3257
-rel_subdivision_gobernante,201,1159,1159
+hecho_subdivision_latam_gobierno,711,3262,3262
+rel_subdivision_gobernante,201,1160,1160
+hecho_subdivision_metro,1,21,21
 hecho_subdivision_festivales,24,24,24
 ref_festival,3255,3255,3255
 kpi1_sal_efi_iese,1,31,186

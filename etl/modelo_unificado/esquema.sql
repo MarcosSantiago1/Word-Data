@@ -488,6 +488,16 @@ CREATE TABLE hecho_pais_consolas_comercio (
     PRIMARY KEY (pais_id, anio)
 );
 
+CREATE TABLE hecho_pais_metro (
+    pais_id INTEGER NOT NULL REFERENCES dim_pais(pais_id),
+    anio INTEGER NOT NULL,
+    metro_km REAL,
+    metro_sistemas INTEGER,
+    metro_m INTEGER,
+    metro_km_por_millon_hab REAL,
+    PRIMARY KEY (pais_id, anio)
+);
+
 CREATE TABLE hecho_pais_suicidio (
     pais_id INTEGER NOT NULL REFERENCES dim_pais(pais_id),
     anio INTEGER NOT NULL,

@@ -249,17 +249,17 @@ hecho_pais_institucional_gobernanza,restricciones_judiciales_ejecutivo_0_1,REAL,
 hecho_pais_institucional_gobernanza,restricciones_legislativas_ejecutivo_0_1,REAL,índice 0-1,14.9
 hecho_pais_financiero_deuda,pais_id,INTEGER,,0.0
 hecho_pais_financiero_deuda,anio,INTEGER,,0.0
-hecho_pais_financiero_deuda,pib_usd,REAL,US$,0.9
-hecho_pais_financiero_deuda,deuda_externa_ids_usd,REAL,US$,46.0
-hecho_pais_financiero_deuda,deuda_externa_pct_ingreso_nacional,REAL,%,46.8
-hecho_pais_financiero_deuda,deuda_externa_corto_plazo_pct,REAL,%,45.8
-hecho_pais_financiero_deuda,servicio_deuda_pct_exportaciones,REAL,%,49.9
-hecho_pais_financiero_deuda,servicio_deuda_pct_ingreso_nacional,REAL,%,46.6
+hecho_pais_financiero_deuda,pib_usd,REAL,US$,1.0
+hecho_pais_financiero_deuda,deuda_externa_ids_usd,REAL,US$,43.8
+hecho_pais_financiero_deuda,deuda_externa_pct_ingreso_nacional,REAL,%,44.5
+hecho_pais_financiero_deuda,deuda_externa_corto_plazo_pct,REAL,%,43.5
+hecho_pais_financiero_deuda,servicio_deuda_pct_exportaciones,REAL,%,47.6
+hecho_pais_financiero_deuda,servicio_deuda_pct_ingreso_nacional,REAL,%,46.7
 hecho_pais_financiero_deuda,deuda_gobierno_central_pct_pib,REAL,% del PIB,79.2
-hecho_pais_financiero_deuda,intereses_pct_ingresos_fiscales,REAL,%,46.3
-hecho_pais_financiero_deuda,reservas_internacionales_usd,REAL,US$,18.8
-hecho_pais_financiero_deuda,reservas_internacionales_meses_importacion,REAL,,24.9
-hecho_pais_financiero_deuda,deuda_externa_usd,REAL,US$,58.3
+hecho_pais_financiero_deuda,intereses_pct_ingresos_fiscales,REAL,%,46.4
+hecho_pais_financiero_deuda,reservas_internacionales_usd,REAL,US$,18.9
+hecho_pais_financiero_deuda,reservas_internacionales_meses_importacion,REAL,,25.0
+hecho_pais_financiero_deuda,deuda_externa_usd,REAL,US$,58.4
 hecho_pais_financiero_deuda,spread_embi_pb,REAL,puntos básicos,97.1
 hecho_pais_financiero_deuda,spread_embi_meses,INTEGER,,97.1
 hecho_pais_salud_cronica,pais_id,INTEGER,,0.0
@@ -330,6 +330,12 @@ hecho_pais_consolas_comercio,pais_id,INTEGER,,0.0
 hecho_pais_consolas_comercio,anio,INTEGER,,0.0
 hecho_pais_consolas_comercio,importaciones_consolas_usd,REAL,US$,0.1
 hecho_pais_consolas_comercio,exportaciones_consolas_usd,REAL,US$,31.2
+hecho_pais_metro,pais_id,INTEGER,,0.0
+hecho_pais_metro,anio,INTEGER,,0.0
+hecho_pais_metro,metro_km,REAL,km,0.0
+hecho_pais_metro,metro_sistemas,INTEGER,,0.0
+hecho_pais_metro,metro_m,INTEGER,metros,0.0
+hecho_pais_metro,metro_km_por_millon_hab,REAL,por millón de hab.,1.5
 hecho_pais_suicidio,pais_id,INTEGER,,0.0
 hecho_pais_suicidio,anio,INTEGER,,0.0
 hecho_pais_suicidio,sexo,TEXT,,0.0
